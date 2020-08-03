@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sliding-door.open",
+  "oldentry": "",
+  "english": [
+    "open sliding-door",
+    "sliding-door"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To open a sliding door by moving it sideways."
+  ],
+  "cf": [
+    "sliding-door",
+    "door"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A door which opens by sliding sideways rather than by swinging open."
+  ],
+  "signNumber": 4180,
+  "recordNumber": 2527,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "sliding-door.close"
+  ],
+  "synonyms": []
+}

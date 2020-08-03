@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "lingact",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "define",
+  "oldentry": "",
+  "english": [
+    "description",
+    "definition",
+    "describe",
+    "define"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say what a person, thing, or event is like, especially what it looks like. English = describe",
+    "2. To say exactly what something is or to say exactly what a word or a sign means. English = define."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An account of what a person, thing or event is like, especially what it looks like. English = description.",
+    "2. A statement giving the meaning of a word or a sign, especially in a dictionary. English = definition."
+  ],
+  "signNumber": 3611,
+  "recordNumber": 2126,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 11,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "information",
+    "document.1a"
+  ]
+}

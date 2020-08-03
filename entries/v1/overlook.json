@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "mindact",
+    "onehand",
+    "twohand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "overlook",
+  "oldentry": "",
+  "english": [
+    "overlook",
+    "disregard",
+    "neglect",
+    "omission",
+    "omit"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To fail to see or be aware of, or fail to realise the importance of, a fact or a problem. English = overlook, disregard, neglect.",
+    "2. To forget to include something. English = omit."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A mistake which is the result of failing to see or be aware of, or failing to realise the importance of, a fact or a problem.",
+    "2. Something which has not been included through a mistake or by being overlooked. English = omission."
+  ],
+  "signNumber": 2375,
+  "recordNumber": 1309,
+  "signVisualComposition": "",
+  "activeHandShape": 4.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "oops"
+  ]
+}

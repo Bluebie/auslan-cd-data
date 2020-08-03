@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "letter",
+  "oldentry": "Popular explanation: affix a stamp.",
+  "english": [
+    "letter",
+    "Epistle"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To stick a stamp onto a letter."
+  ],
+  "cf": [
+    "glue.1",
+    "stamp.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A message you write on a piece of paper and then send to someone, usually through the post. English = letter.",
+    "2. One of the books in the New Testament which were originally written as letters to the early Christians by the apostles. English = Epistle."
+  ],
+  "signNumber": 4898,
+  "recordNumber": 2960,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 10,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "envelope.2",
+    "correspond.1a"
+  ]
+}

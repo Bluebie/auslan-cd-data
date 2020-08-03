@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "deafness",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "head-set",
+  "oldentry": "",
+  "english": [
+    "headphone",
+    "earphone",
+    "audiologist",
+    "audiology"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To wear a pair of headphones or earphones."
+  ],
+  "cf": [
+    "radio.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A pair of speakers inside pads which you wear over your ears in order to listen to a radio, record player, or tape recorder without other people hearing it. English = headphone, headphones, earphone, earphones.",
+    "2. A person whose job is to test and measure people's hearing ability. English = audiologist.",
+    "3. The study, testing and measurement of people's hearing ability. English = audiology."
+  ],
+  "signNumber": 2992,
+  "recordNumber": 1703,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 8,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

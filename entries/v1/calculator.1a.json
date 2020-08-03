@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "orient",
+    "gensign",
+    "maths",
+    "twohand",
+    "domonly",
+    "transl",
+    "telecommun",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "A small hand-held device which is operated by pushing buttons, or any thing or any action directly or indirectly associated with this, especially a calculator or mobile phone.",
+  "questlex": [],
+  "idgloss": "calculator.1a",
+  "oldentry": "Popular explanation: pressing buttons.",
+  "english": [
+    "calculator",
+    "mobile phone"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use a small hand-held device, such as a calculator or portable phone, by pushing its display buttons."
+  ],
+  "cf": [
+    "sums.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small electronic device that you use for doing mathematical calculations. English = calculator.",
+    "2. A small portable telecommunications device that you use for making phone calls. You dial the number by pushing on buttons. English = mobile phone."
+  ],
+  "signNumber": 1296,
+  "recordNumber": 771,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "calculate.1",
+    "mobile-phone"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "educate",
+    "twohand",
+    "domonly",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tick.1a",
+  "oldentry": "Popular explanation: marking a tick on something.",
+  "english": [
+    "tick",
+    "mark",
+    "result",
+    "correct",
+    "right"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put a tick next to something on a piece of paper. English = tick.",
+    "2. To decide how good a student's work is and then write a number or letter on it to indicate this opinion. English = mark.",
+    "3. Of written answers to a test or examination, to be accurate and have no mistakes. English = (be) correct, (be) right."
+  ],
+  "cf": [
+    "checked"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A written mark like a V with the right hand line extended upwards. You use it to show that something is correct or has been dealt with. English = tick.",
+    "2. A point or a score for a correct answer in a test or examination. English = mark, result.",
+    "3. An answer to a question in a test or examination which is correct."
+  ],
+  "signNumber": 1250,
+  "recordNumber": 739,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "cross.out.1a"
+  ],
+  "synonyms": [
+    "check.1a"
+  ]
+}

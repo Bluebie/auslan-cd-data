@@ -1,0 +1,76 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "auslex",
+    "judge",
+    "people",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "engtf12",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "stupid.2",
+  "oldentry": "",
+  "english": [
+    "foolishness",
+    "idiocy",
+    "craziness",
+    "stupidity",
+    "fool",
+    "idiot",
+    "madman",
+    "loony",
+    "nonsense",
+    "mad",
+    "stupid",
+    "crazy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say or do things which are foolish, silly or strange. English = (be) mad, (be) stupid, (be) crazy, (be) idiotic. Informal English = (be) loony.",
+    "2. To fool or take advantage of someone."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to mean that you think what someone has said is untrue, stupid or foolish. English = 'Nonsense!', 'Rubbish!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. Behaviour which is foolish, silly or strange. English = foolishness, idiocy, craziness, stupidity.",
+    "2. A person whose behaviour is foolish, silly or strange. English = fool, idiot, madman. Informal English = loony.",
+    "3. Something written or said that you think is untrue, foolish or stupid. English = nonsense."
+  ],
+  "signNumber": 5971,
+  "recordNumber": 3551,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "stupid.1"
+  ]
+}

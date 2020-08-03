@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "health",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sick.2a",
+  "oldentry": "",
+  "english": [
+    "illness",
+    "sickness",
+    "disease",
+    "sick",
+    "ill"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be suffering from a disease or health problem which makes you unable to work or live normally. English = (be) sick, (be) ill.",
+    "2. To feel angry or disgusted by something. English = (be) sick.",
+    "3. To make someone feel angry or disgusted. English = (be) sick."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A health problem which makes you unable to work or live normally. English = illness, sickness, disease.",
+    "2. The experience of being ill for a period of time. English = illness."
+  ],
+  "signNumber": 4987,
+  "recordNumber": 3009,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "well.1a",
+    "heal.1a"
+  ],
+  "synonyms": [
+    "sick.1"
+  ]
+}

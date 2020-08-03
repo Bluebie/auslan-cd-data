@@ -1,0 +1,85 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "partlex1",
+    "interj1",
+    "auslex",
+    "judge",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "engtf12",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "This sign can be used at the end of a sentence with a questioning facial expression to turn it into a question with a 'yes' or 'no' answer.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "true",
+  "oldentry": "",
+  "english": [
+    "truth",
+    "fact",
+    "reality",
+    "true",
+    "factual",
+    "real",
+    "trust",
+    "sure",
+    "certain",
+    "definite",
+    "truly",
+    "such"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be based on facts and on things that really have happened and are not invented. English = (be) true, (be) factual, (be) real.",
+    "2. To have no doubt that something is in agreement with the facts, to have no doubt that something is true. English = (be) sure, (be) certain.",
+    "3. To be firm and clear, and be unlikely to be changed. English = (be) definite.",
+    "4. To believe that someone is honest, is telling the truth and will not deliberately do anything to harm you. English = trust."
+  ],
+  "cf": [
+    "confirm.1a"
+  ],
+  "interj": [
+    "1. Used alone in response to your addressee's comments to show that you agree with what they have said. English = 'True!', 'Yes, indeed!'"
+  ],
+  "partlex": [
+    "1. Used before some signs to add emphasis to what you are saying. English = truly, such."
+  ],
+  "nomlex": [
+    "1. All the facts about something, rather than things that are imagined or invented. English = truth.",
+    "2. A piece of information that is true. English = fact.",
+    "3. The world around us as it is rather than the way someone imagines it to be. English = reality."
+  ],
+  "signNumber": 4287,
+  "recordNumber": 2606,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "right.1a"
+  ]
+}

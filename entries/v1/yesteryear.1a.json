@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "blend",
+    "reglex",
+    "sth",
+    "time",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "YESTERDAY + YEAR",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "yesteryear.1a",
+  "oldentry": "",
+  "english": [
+    "yesteryear",
+    "last year"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "yesterday.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence or next to a verb to mean the action in that sentence took place one year before the current year, or one year before the year being talked about. English = last year, the previous year, the year before that."
+  ],
+  "nomlex": [
+    "1. The year before this year; last year; yesteryear.",
+    "2. The year before a given or particular other year; the previous year."
+  ],
+  "signNumber": 1141,
+  "recordNumber": 669,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 9,
+  "secondLocation": 24,
+  "antonyms": [
+    "next.year"
+  ],
+  "synonyms": []
+}

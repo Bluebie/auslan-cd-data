@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "interj1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "prohibit.1a",
+  "oldentry": "",
+  "english": [
+    "prohibition",
+    "disqualification",
+    "forbidden",
+    "prohibited",
+    "illegal",
+    "forbid",
+    "prohibit",
+    "disqualify",
+    "disqualified"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be unable to do something because you do not have permission to do it; to be not allowed to so something by some authority, especially the law. English = (be) forbidden, (be) prohibited, (be) illegal.",
+    "2. To order someone not to do something, especially in law. English = forbid, prohibit, make illegal.",
+    "3. To officially stop someone from taking part in an event, activity, or competition because they have broken a law or rule; or to have this happen to you. English = disqualify; (be) disqualified."
+  ],
+  "cf": [
+    "impossible.1a"
+  ],
+  "interj": [
+    "1. Used alone to order someone not to do something. English = 'Stop that!', 'No way, it's forbidden!', and so on."
+  ],
+  "partlex": [
+    "1. Sometimes used before a verb to mean that there is no way the action is able to be done, either through lack of permission or complete lack of ability. English = can't."
+  ],
+  "nomlex": [
+    "1. A law or rule forbidding something. English = prohibition.",
+    "2. The act of stopping someone from taking part in an event, activity, or competition because they have broken a law or rule. English = disqualification."
+  ],
+  "signNumber": 1252,
+  "recordNumber": 741,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "permit.1",
+    "order"
+  ],
+  "synonyms": [
+    "stop"
+  ]
+}

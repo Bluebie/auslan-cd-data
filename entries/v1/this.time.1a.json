@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "this.time.1a",
+  "oldentry": "",
+  "english": [
+    "week"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "one.week.before"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning or end of a sentence, or immediately next to a verb, to mean the action takes place sometime during the following unit of time being talked about (week, month, year, etc.), or after some other time reference point.",
+    "English = during this week (month, year), during that week (month, year)."
+  ],
+  "nomlex": [
+    "1. A recurring period of time (such as a week, month or year) the unit of which has already been mentioned and which the signer is in at the time of speaking. English = this week, this month, this year, etc.",
+    "2. The remaining time within the unit of time (week, month, year, etc.) being talked about; the rest of this week, this month, this year, etc."
+  ],
+  "signNumber": 1015,
+  "recordNumber": 593,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 16,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

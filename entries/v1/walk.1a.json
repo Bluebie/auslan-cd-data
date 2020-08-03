@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "dir",
+    "auslex",
+    "bodyact",
+    "twohand",
+    "domonly",
+    "transp",
+    "engtf1",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "walk.1a",
+  "oldentry": "Popular explanation: moving legs.",
+  "english": [
+    "walk"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move along by putting one foot in front of the other on the ground. English = walk."
+  ],
+  "cf": [
+    "run.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The action of walking rather than running. English = walk.",
+    "2. A journey which you make by walking. English = walk."
+  ],
+  "signNumber": 1726,
+  "recordNumber": 1035,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "stroll",
+    "stride",
+    "step"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "reglex",
+    "sth",
+    "drinks",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dinner.1",
+  "oldentry": "",
+  "english": [
+    "dinner",
+    "meal",
+    "dine",
+    "eat",
+    "food"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To eat the main meal of the day, especially when that meal is in the middle of the day. English = have dinner.",
+    "2. To eat a meal as part of a formal social event in the evening. English = dine.",
+    "3. To put something into your mouth, chew it, and swallow it. English = eat."
+  ],
+  "cf": [
+    "lunch.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The main meal of the day, especially when that meal is in the middle of the day. English = dinner.",
+    "2. A formal social event in the evening at which a meal is served. English = dinner.",
+    "3. An occasion when people eat. English = meal.",
+    "4. Anything which you can eat. English = food."
+  ],
+  "signNumber": 1407,
+  "recordNumber": 836,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "dinner.2",
+    "restaurant.1a"
+  ]
+}

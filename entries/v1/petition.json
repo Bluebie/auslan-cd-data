@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "gov",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "petition",
+  "oldentry": "",
+  "english": [
+    "petition",
+    "application",
+    "apply"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To sign a petition; to add your name to a petition.",
+    "2. To write and sign a formal written request for a position in an organisation, such as a job or place at a college. English = apply.",
+    "3. To add your name or signature to a list of other names; to make a list of names."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A document signed by a lot of people which asks a government or other official group to do something. English = petition.",
+    "2. A formal written and signed request for a position in an organisation, such as a job or place at a college. English = application.",
+    "3. A document with more than one signature on it.",
+    "4. A list of signatures."
+  ],
+  "signNumber": 2128,
+  "recordNumber": 1234,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "submission.1a"
+  ]
+}

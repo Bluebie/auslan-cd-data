@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fault.1",
+  "oldentry": "",
+  "english": [
+    "fault",
+    "failing",
+    "shortcoming",
+    "faulty",
+    "fail",
+    "failure"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a weakness, imperfection or unsatisfactory feature. English = (be) faulty.",
+    "2. Of a machine or piece of equipment, to be not working properly. English = (be) faulty.",
+    "3. To try to do something but not succeed in doing it. English = fail."
+  ],
+  "cf": [
+    "except.1",
+    "ugly.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A weakness, imperfection or unsatisfactory feature of something. English = fault, failing, shortcoming.",
+    "2. The inability of someone to do something. English = failure.",
+    "3. A situation in which something stops working or does not do what it is supposed to do. English = failure."
+  ],
+  "signNumber": 5050,
+  "recordNumber": 3045,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "mistake.1"
+  ]
+}

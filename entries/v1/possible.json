@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "interj1",
+    "auslex",
+    "judge",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "possible",
+  "oldentry": "",
+  "english": [
+    "possibility",
+    "potential",
+    "possible",
+    "probable",
+    "likely",
+    "possibly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be able to be done, or to be something that might happen. English = (be) possible.",
+    "2. [With affirmative head nod] to be likely to be true or to happen. English = (be) probable, (be) likely.",
+    "3. To be capable of becoming a particular kind of thing or of doing something. English = (be) potential."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to partially agree with someone about the likelihood of something being true or happening, even though you are not certain. English = 'Possibly...', 'Yes, it's possible...'"
+  ],
+  "partlex": [
+    "1. Used to introduce (or close) a sentence that you do not know for certain is true but you think might happen or might have happened. English = Possibly...,"
+  ],
+  "nomlex": [
+    "1. The opportunity for something to happen and the likelihood that it might happen. English = possibility.",
+    "2. The ability of something to become a particular kind of thing or to do something. English = potential."
+  ],
+  "signNumber": 5079,
+  "recordNumber": 3064,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 5,
+  "secondLocation": null,
+  "antonyms": [
+    "impossible.1a",
+    "can't"
+  ],
+  "synonyms": []
+}

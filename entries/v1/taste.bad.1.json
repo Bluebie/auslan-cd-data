@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "blend",
+    "auslex",
+    "senseact",
+    "drinks",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "TASTE + BAD",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "taste.bad.1",
+  "oldentry": "",
+  "english": [
+    "taste bad",
+    "distasteful",
+    "awful",
+    "disgusting"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of food, to taste bad or unpleasant. English = taste bad, (be) distasteful, (be) awful, (be) disgusting."
+  ],
+  "cf": [
+    "taste.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Of food, a bad or unpleasant taste."
+  ],
+  "signNumber": 6643,
+  "recordNumber": 3956,
+  "signVisualComposition": "",
+  "activeHandShape": 16.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "delicious.2",
+    "dribble"
+  ],
+  "synonyms": [
+    "taste.bad.2a"
+  ]
+}

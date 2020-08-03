@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "quality",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "noise.1a",
+  "oldentry": "",
+  "english": [
+    "sound",
+    "noise",
+    "noisy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a noise or a sound.",
+    "2. To be full of a lot of loud noise, often in an unpleasant way. English = (be) noisy."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that you hear. English = sound.",
+    "2. A sound that someone or something makes, often loud and unpleasant. English = noise."
+  ],
+  "signNumber": 573,
+  "recordNumber": 329,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [
+    "quiet.1a",
+    "quiet.2a"
+  ],
+  "synonyms": [
+    "loud.1a",
+    "sound"
+  ]
+}

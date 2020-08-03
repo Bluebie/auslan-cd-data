@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cover.1a",
+  "oldentry": "Popular explanation: one things covers another.",
+  "english": [
+    "cover",
+    "lid",
+    "covering",
+    "layer",
+    "envelope",
+    "cover up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To place something over another thing in order to protect or hide it. English = cover.",
+    "2. To form a layer over something. English = cover, envelope.",
+    "3. To hide things from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
+  ],
+  "cf": [
+    "grave"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A thing which is placed over another thing to hide or protect it. English = cover, lid, covering.",
+    "2. A large flat surface of something this is on top of something else. English = layer.",
+    "3. An attempt to hide things and information from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
+  ],
+  "signNumber": 4063,
+  "recordNumber": 2432,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "cover.1a"
+  ]
+}

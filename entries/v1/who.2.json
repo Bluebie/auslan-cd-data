@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "questlex",
+    "questle2",
+    "reglex",
+    "nth",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [
+    "1. Used at the beginning, end, or at both beginning and end, of a sentence to ask questions about someone's name or the identify of the person who performs the action of the verb in the sentence, or  undergoes the action. English = who, whom.",
+    "2. Used immediately next to a noun to ask questions about the name or identity of the person that the thing belongs to or relates to. English = whose."
+  ],
+  "idgloss": "who.2",
+  "oldentry": "",
+  "english": [
+    "who",
+    "whom",
+    "whose"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately after a noun and before a verb to make absolutely clear that the person or thing named in the noun is the actor of the action named in the verb. English = who.",
+    "2. Used immediately after a noun and before another noun followed by a verb to mean that the first noun has the action of the verb done to it by the second noun. English = whom."
+  ],
+  "nomlex": [],
+  "signNumber": 1408,
+  "recordNumber": 837,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "who.1"
+  ]
+}

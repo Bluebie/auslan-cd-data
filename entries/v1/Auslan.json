@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "lingact",
+    "metalang",
+    "doublehnd",
+    "sym",
+    "transl",
+    "deafness",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "Auslan",
+  "oldentry": "Popular explanation: the action of signing.",
+  "english": [
+    "Auslan",
+    "Sign Language",
+    "chat",
+    "yarn",
+    "chinwag"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To talk or sign in an informal and friendly way with someone. English = chat. Informal English = yarn, chinwag.",
+    "2. To use Australian Sign Language."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The sign language used by the Australian Deaf community. English = Auslan, Australian Sign Language."
+  ],
+  "signNumber": 133,
+  "recordNumber": 71,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "speak",
+    "speech"
+  ],
+  "synonyms": [
+    "sign",
+    "chat"
+  ]
+}

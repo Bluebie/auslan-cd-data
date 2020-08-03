@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "nature",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "mountain.1a",
+  "oldentry": "",
+  "english": [
+    "mountains",
+    "range",
+    "mountainous",
+    "rugged",
+    "hills",
+    "hilly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be land which is very high with steep sides which are difficult to climb; to be an area with lots of mountains. English = (be) mountainous, (be) rugged.",
+    "2. Of an area of land, to have a lot of hills. English = (be) hilly."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An area of land that is not flat and has many areas with steep sides which are difficult to climb English = mountains.",
+    "2. A row of mountains that were formed at the same time in the earth's history.  English = mountains, mountain range.",
+    "3. An area of land that is not flat. It is uneven and has many areas that are high, but not as high as a mountain. English = hills."
+  ],
+  "signNumber": 3174,
+  "recordNumber": 1843,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 6,
+  "secondLocation": null,
+  "antonyms": [
+    "low.flat.surface.1a"
+  ],
+  "synonyms": [
+    "hill"
+  ]
+}

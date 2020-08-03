@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "time",
+    "onehand",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tonight",
+  "oldentry": "",
+  "english": [
+    "tonight"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence or immediately after a verb to locate the action of the time in the evening or night that will come at the end of the day on which you are speaking, writing or signing. English = tonight, this evening.",
+    "2. Used at the beginning of a sentence or immediately after a verb to mean the action takes place in the evening or night that comes at the end of a day you have already specified or named (in the past or future). English = that night, that evening."
+  ],
+  "nomlex": [
+    "1. The evening or night that will come at the end of the day on which you are speaking, writing or signing. English = tonight, this evening.",
+    "2. The evening or night that comes at the end of a day you have already specified or named (in the past or future). English = that night, that evening."
+  ],
+  "signNumber": 663,
+  "recordNumber": 387,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 13,
+  "secondLocation": null,
+  "antonyms": [
+    "day.1a",
+    "morning.1a"
+  ],
+  "synonyms": [
+    "evening",
+    "night.2"
+  ]
+}

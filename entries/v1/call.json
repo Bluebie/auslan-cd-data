@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "enddir",
+    "auslex",
+    "lingact",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "call",
+  "oldentry": "",
+  "english": [
+    "nickname",
+    "sobriquet",
+    "call",
+    "name",
+    "called",
+    "named"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give a name to someone or something; or to be given a particular name and to be known by that name. English = call, name; (be) called, (be) named.",
+    "2. To describe a thing or a person by using a particular word, sign or phrase. English = call.",
+    "3. To use a special name for a person which is not their real name. English = nickname."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A name given to someone which is not their real name. English = nickname, sobriquet."
+  ],
+  "signNumber": 1359,
+  "recordNumber": 802,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "name.1a"
+  ]
+}

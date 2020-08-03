@@ -1,0 +1,73 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "enddir",
+    "auslex",
+    "lingact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "say.1a",
+  "oldentry": "",
+  "english": [
+    "saying",
+    "telling",
+    "rendition",
+    "say-so",
+    "comment",
+    "say",
+    "tell",
+    "mention"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To speak words. English = say.",
+    "2. To use spoken words, written words or signs to communicate something to someone else. English = say, tell.",
+    "3. To use spoken words, written words or signs to briefly talk about something to someone else (usually when the main reason for the communication is another piece of information). English = mention.",
+    "4. To say something that gives your opinion of something or which gives an explanation of it. English = comment."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A traditional sentence that people often say and that gives advice or information about human life and experience. English = saying.",
+    "2. The way someone goes about using words or signs to communicate a specific piece of information or a story. English = telling, rendition.",
+    "3. The words or signs of another person which you accept as the reason or authority for you to do something. Informal English = say-so.",
+    "4. Something that you say that gives your opinion of something or which gives an explanation of it. English = comment."
+  ],
+  "signNumber": 623,
+  "recordNumber": 360,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "talk",
+    "speak",
+    "speech"
+  ]
+}

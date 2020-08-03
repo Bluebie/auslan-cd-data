@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "reglex",
+    "tas",
+    "onehand",
+    "engtf1",
+    "engtf2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fault.2",
+  "oldentry": "",
+  "english": [
+    "fault",
+    "faulty"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be wrong, to be responsible for some error. English = (be) at fault.",
+    "2. To be broken or not working properly. English = (be) faulty."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A weakness or imperfection in someone's character. English = fault.",
+    "2. A broken part or a mistake in the way a machine or structure is made. English = fault.",
+    "3. A bad or undesireable situation for which you are responsible. English = fault."
+  ],
+  "signNumber": 647,
+  "recordNumber": 376,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

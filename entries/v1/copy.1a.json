@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "dir",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "copy.1a",
+  "oldentry": "Popular explanation: taking from something.",
+  "english": [
+    "copy",
+    "mimicry",
+    "imitation",
+    "cheating",
+    "absorption",
+    "imitate",
+    "mimic",
+    "cheat",
+    "absorb"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make something which looks exactly the same as something else. English = copy.",
+    "2. Of a person, group, or society, to behave in the same way as another person, group, or society. English = imitate, mimic.",
+    "3. To copy the work of another student in an exam. English = cheat.",
+    "4. To soak up or take in a liquid, gas, light, or heat. English = absorb."
+  ],
+  "cf": [
+    "photo.1a",
+    "photocopy"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that is made to look exactly the same as something else. English = copy.",
+    "2. The copying of someone else's actions or behaviour. English = mimicry, imitation.",
+    "3. The copying of the work of another student in an exam. English = cheating.",
+    "4. The action of absorbing something. English = absorption."
+  ],
+  "signNumber": 2860,
+  "recordNumber": 1614,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "false.2a"
+  ]
+}

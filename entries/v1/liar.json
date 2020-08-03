@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "lingact",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "liar",
+  "oldentry": "",
+  "english": [
+    "lie",
+    "liar"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say something which you know is untrue. English = lie"
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that someone says which they know is untrue. English = lie.",
+    "2. A person who says things which they know are untrue; a person who tells lies. English = liar."
+  ],
+  "signNumber": 632,
+  "recordNumber": 366,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [
+    "promise.1"
+  ],
+  "synonyms": [
+    "deceive"
+  ]
+}

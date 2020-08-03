@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "dir",
+    "auslex",
+    "twohand",
+    "domonly",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "GRAB + entity",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "capture.2",
+  "oldentry": "",
+  "english": [
+    "capture",
+    "catching up",
+    "catch up",
+    "catch",
+    "notice"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To catch someone or something and make them a prisoner, especially after a struggle or in a war. English = capture.",
+    "2. To reach someone who is in front of you by walking or running faster than they are walking or running. English = catch up with, catch up to.",
+    "3. To see something clearly or think about something and realise its importance and significance. English = catch, notice."
+  ],
+  "cf": [
+    "catch.2",
+    "grab",
+    "catch.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The catching of someone or something and making them a prisoner, especially after a struggle or in a war. English = capture.",
+    "2. Work which you need to do on some activity which is late in order to make it complete or at least up to date. English = catching up."
+  ],
+  "signNumber": 2827,
+  "recordNumber": 1589,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "not.see.1a"
+  ],
+  "synonyms": [
+    "capture.1",
+    "jail",
+    "realise"
+  ]
+}

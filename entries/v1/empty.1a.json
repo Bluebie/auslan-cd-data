@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quality",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "empty.1a",
+  "oldentry": "",
+  "english": [
+    "empty",
+    "exhaust",
+    "erase",
+    "reformat",
+    "use up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To remove the contents from a container; of a container, to have nothing in it. English = empty; (be) empty.",
+    "2. Of an amount of something, especially money, to become less and less until there is none left. English = exhaust, use up, dispose of.",
+    "3. To completely remove the information and data on a computer disk. English = erase, reformat, initialise a computer disk."
+  ],
+  "cf": [
+    "low.on.money.1a",
+    "blank.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4232,
+  "recordNumber": 2560,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "fill.1"
+  ],
+  "synonyms": [
+    "pour.from",
+    "eliminate"
+  ]
+}

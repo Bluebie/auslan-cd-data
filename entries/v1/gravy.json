@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "gensign",
+    "foods",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "The act of pouring something from a container onto something else, usually flat, such as sauce onto a dish, dressing onto a salad and, especially, gravy on to a meal.",
+  "questlex": [],
+  "idgloss": "gravy",
+  "oldentry": "Popular explanation: pouring something on to a surface.",
+  "english": [
+    "gravy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To pour gravy on to a piece of meat."
+  ],
+  "cf": [
+    "tip.into",
+    "science.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A thin savoury sauce that is served with meat. English = gravy."
+  ],
+  "signNumber": 5998,
+  "recordNumber": 3571,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "pour.from",
+    "pour.into"
+  ]
+}

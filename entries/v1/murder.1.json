@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "murder.1",
+  "oldentry": "",
+  "english": [
+    "murder",
+    "murderer",
+    "murder",
+    "slay"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To deliberately and unlawfully kill a person. English = murder.",
+    "2. To kill a person in a violent way. Formal English = slay.",
+    "3. To cut or slit a throat."
+  ],
+  "cf": [
+    "kill",
+    "operate.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The deliberate and unlawful killing of a person. English = murder.",
+    "2. A person who deliberately and unlawfully kills a person. English = murderer.",
+    "3. A cut or a slit on a throat."
+  ],
+  "signNumber": 4751,
+  "recordNumber": 2872,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 12,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "murder.2"
+  ]
+}

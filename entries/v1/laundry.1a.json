@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "rooms",
+    "doublehnd",
+    "sym",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "laundry.1a",
+  "oldentry": "Popular explanation: using a washboard.",
+  "english": [
+    "laundry",
+    "dry cleaner",
+    "washboard",
+    "launder",
+    "dry clean"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To wash clothes by hand.",
+    "2. To wash clothes. English = do the washing, do the laundry, launder.",
+    "3. To have clothes washed at a laundry; to have clothes or cleaned with a liquid chemical rather than with water at a dry-cleaner. English = have laundered; dry clean.",
+    "4. To use a washboard to wash clothes."
+  ],
+  "cf": [
+    "dye"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A room in a house or hotel where clothes, sheets, and towels are washed. English = laundry.",
+    "2. A firm that washes and irons clothes, sheets, and towels for people. English = laundry.",
+    "3. A shop where clothes and other things made of cloth can be dry-cleaned. English = dry cleaner.",
+    "4. A board or frame with corrugated metallic or other surface, on which clothes are scrubbed in the process of washing. English = washboard."
+  ],
+  "signNumber": 5932,
+  "recordNumber": 3530,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 16,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "wash"
+  ]
+}

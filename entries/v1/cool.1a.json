@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "seasons",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cool.1a",
+  "oldentry": "",
+  "english": [
+    "autumn",
+    "cool",
+    "fresh",
+    "freshen"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be low in temperature, but not cold. English = (be) cool, (be) fresh.",
+    "2. To become a low or lower temperature, but not cold. English = cool, cool down, freshen."
+  ],
+  "cf": [
+    "cold"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The time of year when the weather becomes cooler. English = autumn."
+  ],
+  "signNumber": 3571,
+  "recordNumber": 2095,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 8,
+  "secondLocation": 26,
+  "antonyms": [
+    "warm.1"
+  ],
+  "synonyms": []
+}

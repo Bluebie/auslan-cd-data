@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "utensils",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "spin-drier.1a",
+  "oldentry": "Popular explanation: a spinning action.",
+  "english": [
+    "spin dryer",
+    "spin drier",
+    "spin",
+    "spin dry"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To turn quickly around a central point. English = spin.",
+    "2. To dry something by spinning it in a spin dryer. English = spin dry."
+  ],
+  "cf": [
+    "washing machine.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
+  ],
+  "signNumber": 3959,
+  "recordNumber": 2363,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 16,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "blender"
+  ]
+}

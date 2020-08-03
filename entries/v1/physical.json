@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "init",
+    "verblex1",
+    "marginal",
+    "doublehnd",
+    "sym",
+    "aslloan",
+    "engtf1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "BODY + P",
+  "queries": "The ASL sign has a double contact beginning at the chest and ending at the waist.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "physical",
+  "oldentry": "",
+  "english": [
+    "physical"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Qualities, actions, or things which are connected with a person's body, rather than with their mind. English = (be) physical."
+  ],
+  "cf": [
+    "human"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 1840,
+  "recordNumber": 1101,
+  "signVisualComposition": "",
+  "activeHandShape": 2.3,
+  "passiveHandShape": 2.3,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "body.1a"
+  ]
+}

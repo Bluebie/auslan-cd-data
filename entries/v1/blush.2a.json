@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "comp",
+    "auslex",
+    "bodyact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "blush.2a",
+  "oldentry": "",
+  "english": [
+    "embarrassment",
+    "shame",
+    "blush",
+    "embarrassed",
+    "ashamed",
+    "embarrass"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To feel shy or guilty about something. English = (be) embarrassed, (be) ashamed.",
+    "2. To make someone feel shy or ashamed about something. English = embarrass, shame.",
+    "3. To become redder in the face than usual because you are ashamed or embarrassed. English = blush."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The feeling of becoming shy or guilty about something. English = embarrassment.",
+    "2. The uncomfortable feeling you have when you know that you have done something wrong or embarrassing, or when you know that someone close to you has. English = shame.",
+    "3. The act of becoming redder in the face than usual because you are ashamed or embarrassed. English = blush."
+  ],
+  "signNumber": 546,
+  "recordNumber": 311,
+  "signVisualComposition": "RED + ASHAMED",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 6,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "ashamed.1a",
+    "blush.1"
+  ]
+}

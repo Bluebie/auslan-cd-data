@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "enddir",
+    "auslex",
+    "cathsch",
+    "money",
+    "shop",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "afford",
+  "oldentry": "Popular explanation: taking money out of a pocket and paying someone.",
+  "english": [
+    "fare",
+    "pay",
+    "pay for",
+    "afford"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give someone an amount of money, because you are buying something from them, or because you owe it to them. English = pay, pay for.",
+    "2. To have enough money to be able to pay for something. English = afford."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The money you pay for a journey in a taxi, train, bus or aeroplane. English = fare."
+  ],
+  "signNumber": 346,
+  "recordNumber": 191,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 16,
+  "secondLocation": null,
+  "antonyms": [
+    "charge.1"
+  ],
+  "synonyms": [
+    "pay"
+  ]
+}

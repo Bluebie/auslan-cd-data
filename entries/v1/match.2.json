@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "cf3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "match.2",
+  "oldentry": "",
+  "english": [
+    "match",
+    "strike",
+    "light"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To strike a match."
+  ],
+  "cf": [
+    "light.1",
+    "ignite",
+    "match.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small, thin stick of wood that produces a flame when you strike it against the side of a matchbox. English = match.",
+    "2. A match or a cigarette lighter that can be used to start a cigarette burning. English = light."
+  ],
+  "signNumber": 6421,
+  "recordNumber": 3829,
+  "signVisualComposition": "",
+  "activeHandShape": 11.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

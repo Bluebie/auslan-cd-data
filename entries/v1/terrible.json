@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "judge",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "Some signers perform this sign with both hands twisting outwards as the hands uncross (so that they end with the palms facing away).",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "terrible",
+  "oldentry": "",
+  "english": [
+    "terrible",
+    "dreadful",
+    "disaster",
+    "disastrous"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. A situation or experience which is very serious and unpleasant. English = (be) terrible, (be) dreadful.",
+    "2. Of an event, to be very unsuccessful or unpleasant, especially when it is unexpected and causes a lot of damage or suffering. English = (be) disastrous."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An event which is very unsuccessful or unpleasant, especially one that is unexpected and which causes a lot of damage or suffering. English = disaster."
+  ],
+  "signNumber": 5000,
+  "recordNumber": 3014,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 6.2,
+  "primaryLocation": 14,
+  "secondLocation": 24,
+  "antonyms": [
+    "wonderful.1a"
+  ],
+  "synonyms": [
+    "horrible.1a",
+    "bad.luck"
+  ]
+}

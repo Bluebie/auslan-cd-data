@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "metalang",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "speech",
+  "oldentry": "Popular explanation: the mouth opening and closing.",
+  "english": [
+    "speech",
+    "articulation",
+    "speak",
+    "articulate",
+    "pronounce"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use your voice in order to say words. English = speak, articulate.",
+    "2. (When referring to deaf people) to be able to use your voice to say words intelligibly.",
+    "3. To say a word it is usually said or to say it in a particular way. English = pronounce."
+  ],
+  "cf": [
+    "voice.2",
+    "hand.puppet.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The ability to speak or the act of speaking. English = speech, articulation.",
+    "2. (When referring to deaf people) the ability to speak intelligibly."
+  ],
+  "signNumber": 3250,
+  "recordNumber": 1892,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "dialogue.1a"
+  ]
+}

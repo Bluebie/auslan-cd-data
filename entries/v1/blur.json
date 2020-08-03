@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quality",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "blur",
+  "oldentry": "",
+  "english": [
+    "blur",
+    "blurred"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have edges that are no longer distinct and to be unable to be seen clearly. English = (be) blurred.",
+    "2. To make something impossible to see clearly by making its edges no longer distinct. English = blur.",
+    "3. Of television reception, to be not very good so that the picture is not clear or sharp."
+  ],
+  "cf": [
+    "dirty"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A shape or area which you cannot see clearly because it has no distinct outline or because it is moving very fast. English = blur."
+  ],
+  "signNumber": 2596,
+  "recordNumber": 1436,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 6,
+  "secondLocation": 27,
+  "antonyms": [
+    "clear.1a",
+    "sharp",
+    "exact"
+  ],
+  "synonyms": [
+    "unclear"
+  ]
+}

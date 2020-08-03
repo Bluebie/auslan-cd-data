@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "foods",
+    "doublehnd",
+    "sym",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "corn.3",
+  "oldentry": "Popular explanation: holding and eating a cylindrical object.",
+  "english": [
+    "corn",
+    "cob",
+    "bone"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To eat a corn cob.",
+    "2. To eat a bone."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The large spikes of tightly-packed yellow grains found on a cereal crop. English = corn, cob of corn.",
+    "2. A bone of an animal with some meat on it that you can eat."
+  ],
+  "signNumber": 4575,
+  "recordNumber": 2770,
+  "signVisualComposition": "",
+  "activeHandShape": 5.5,
+  "passiveHandShape": 5.5,
+  "primaryLocation": 10,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "corn.1",
+    "corn.2a"
+  ]
+}

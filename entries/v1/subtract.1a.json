@@ -1,0 +1,73 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "maths",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "subtract.1a",
+  "oldentry": "",
+  "english": [
+    "subtraction",
+    "deduction",
+    "deletion",
+    "subtract",
+    "deduct",
+    "delete",
+    "minus"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do a calculation in which you take one number away from another number. English = subtract, deduct.",
+    "2. To cross out or remove something that has been written down. English = delete.",
+    "3. To take one thing away from another thing.",
+    "4. Used between two numbers to mean that the second number is subtracted from the first number. English = minus."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The calculation in which you take one number away from another number. English = subtraction, deduction.",
+    "2. The removal or crossing out of something that has been written down. English = deletion.",
+    "3. The act of taking one thing away from another thing."
+  ],
+  "signNumber": 3104,
+  "recordNumber": 1788,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [
+    "add.1",
+    "involve.1a",
+    "add.2a"
+  ],
+  "synonyms": [
+    "minus.sign"
+  ]
+}

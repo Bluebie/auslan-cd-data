@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "rooms",
+    "doublehnd",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "house",
+  "oldentry": "Popular explanation: the shape of a roof.",
+  "english": [
+    "house",
+    "dwelling",
+    "residence",
+    "home"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "go.home.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A building in which people live. English = house. Formal English = dwelling, residence.",
+    "2. The place where you live and where you feel you belong. English = home, residence."
+  ],
+  "signNumber": 3646,
+  "recordNumber": 2147,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "home"
+  ]
+}

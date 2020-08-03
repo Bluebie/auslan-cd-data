@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "travel",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "airport",
+  "oldentry": "Popular explanation: a plane on a tarmac.",
+  "english": [
+    "airport",
+    "taxi"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of an aeroplane, to move slowly along the runway before taking off or after landing. English = taxi."
+  ],
+  "cf": [
+    "take.off",
+    "landing"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A place where aircraft land and take off, usually with a lot of buildings and facilities. English = airport."
+  ],
+  "signNumber": 6631,
+  "recordNumber": 3945,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

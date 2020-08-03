@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "vapour",
+  "oldentry": "",
+  "english": [
+    "vapour",
+    "smoke",
+    "steam",
+    "fumes",
+    "vaporise",
+    "fume"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a liquid or solid, to change into vapour or gas. English = vaporise.",
+    "2. Of something burning, to give off smoke. English = smoke.",
+    "3. Of hot or boiling water, to give off steam. English = steam.",
+    "4. To give off gases that are usually strong and unpleasant smelling. English = fume."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A mass of tiny drops of water, other liquids, or tiny particles in the air, which rise up from something. English = vapour.",
+    "2. Gas and small bits of solid material that are sent into the air when something burns. English = smoke.",
+    "3. A mass of tiny drops of water that rise up from very hot or boiling water. English = steam.",
+    "4. Strong and usually unpleasant smelling gasses that rise up from something. English = fumes."
+  ],
+  "signNumber": 2558,
+  "recordNumber": 1413,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

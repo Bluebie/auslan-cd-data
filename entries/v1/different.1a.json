@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "judge",
+    "quality",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "different.1a",
+  "oldentry": "",
+  "english": [
+    "difference",
+    "distinction",
+    "different",
+    "unlike",
+    "differ"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. For one thing to be unlike another thing in some way. English = (be) different, (be) unlike; differ from."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The way in which two thing are unlike each other. English = difference.",
+    "2. The thing that makes one thing different from another. English = distinction."
+  ],
+  "signNumber": 1002,
+  "recordNumber": 582,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "same.1a"
+  ],
+  "synonyms": [
+    "one.is.more",
+    "one.is.less"
+  ]
+}

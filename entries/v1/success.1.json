@@ -1,0 +1,71 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "success.1",
+  "oldentry": "",
+  "english": [
+    "success",
+    "achievement",
+    "winner",
+    "win",
+    "achiever",
+    "succeed",
+    "achieve",
+    "successful"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To manage to do something you have been trying to do, especially after a lot of effort. English = succeed, achieve, (be) successful.",
+    "3. To defeat or beat other people in a race or competition of some sort. English = win."
+  ],
+  "cf": [
+    "champion"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of doing something, or causing it to happen, especially after a lot of effort. English = success, achievement.",
+    "2. The person who defeats or beats other people in a race or competition of some sort. English = winner.",
+    "3. Someone who does well at things. English = achiever."
+  ],
+  "signNumber": 3338,
+  "recordNumber": 1949,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "fail.1a",
+    "bankrupt",
+    "lose.1a"
+  ],
+  "synonyms": [
+    "success.2a"
+  ]
+}

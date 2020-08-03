@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "travel",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "landing",
+  "oldentry": "",
+  "english": [
+    "landing",
+    "arrival",
+    "airport",
+    "land"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of an aeroplane, to come down to the ground or in water after moving through the air. English = land.",
+    "2. Of an aeroplane, to arrive at an airport after a journey in the air. English = land."
+  ],
+  "cf": [
+    "airport"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of bringing an aeroplane down to the ground. English = landing.",
+    "2. Of an aeroplane, the act of arriving at an airport after a journey in the air. English = landing, arrival.",
+    "3. A place where aircraft land and take off, usually with a lot of buildings and facilities. English = airport."
+  ],
+  "signNumber": 6632,
+  "recordNumber": 3946,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "take.off"
+  ],
+  "synonyms": []
+}

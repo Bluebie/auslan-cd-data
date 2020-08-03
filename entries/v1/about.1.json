@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "verblex1",
+    "partlex1",
+    "blend",
+    "auslex",
+    "twohand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "A + T",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "about.1",
+  "oldentry": "",
+  "english": [
+    "about",
+    "approximate",
+    "concerning"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be close to a particular number but not exactly that number. English = (be) about, (be) approximate."
+  ],
+  "cf": [
+    "on"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used after many verbs (especially 'talk', 'write' and 'think') and before a noun to mean that the topic of the activity is the following noun. English = about, concerning."
+  ],
+  "nomlex": [],
+  "signNumber": 1154,
+  "recordNumber": 679,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "about.2a",
+    "about.number",
+    "over"
+  ]
+}

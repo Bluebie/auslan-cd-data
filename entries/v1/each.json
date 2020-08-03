@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "partlex2",
+    "orient",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "each",
+  "oldentry": "",
+  "english": [
+    "each"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be or to refer to every single member of a group, but considered individually and not as a whole. English = (be) each."
+  ],
+  "cf": [
+    "always.1",
+    "once.1a",
+    "all.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately after plain verbs to mean the action is spread across to, or located equally at, a number of recipients, objects or places.",
+    "They are considered individually yet are part of a group. The sign itself may be directed and modified to show their actual or relative spatial arrangement of recipients or objects. English = each, to each, to each and every."
+  ],
+  "nomlex": [
+    "1. An individual who is part of a group, but considered separately, and who is equal to all the others in some way, such as receiving something, undergoing something or being located relative to others in a similar way. English = each thing, each person."
+  ],
+  "signNumber": 700,
+  "recordNumber": 403,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "some.1a"
+  ],
+  "synonyms": []
+}

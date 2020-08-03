@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "flag",
+  "oldentry": "",
+  "english": [
+    "flag",
+    "premiership"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To fly a flag; of a flag, to wave or flutter in the wind.",
+    "2. To win the championship competition held among a number of sports clubs; to win the premiership; to become premiers.",
+    "3. An archaic colloquial sign directly translating the Australian English idiom 'to have the flags out' meaning 'to menstruate'."
+  ],
+  "cf": [
+    "flag.raise",
+    "flag.lower"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A piece of coloured cloth which can be attached to a pole and which is used as a sign, signal, or symbol of something, especially of a country. English = flag, premiership.",
+    "2. A championship competition held among a number of sports clubs. English = premiership.",
+    "3. An archaic colloquial sign associated with the direct translation of the Australian English idiom 'to have the flags out' meaning 'to menstruate' and, by extension, menstruation, menstrual period."
+  ],
+  "signNumber": 3981,
+  "recordNumber": 2381,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "pennant.1",
+    "menstruate.1a"
+  ]
+}

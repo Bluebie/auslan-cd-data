@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "foods",
+    "drinks",
+    "onehand",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "eat.1a",
+  "oldentry": "Popular explanation: putting food in the mouth by hand.",
+  "english": [
+    "food",
+    "meal",
+    "eat"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put something in your mouth, chew it, and swallow it. English = eat."
+  ],
+  "cf": [
+    "grapes.1a",
+    "take.tablet.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Things which you can put into your mouth, chew and then swallow. English = food.",
+    "2. An occasion when people eat or the quantity of food that they eat on that occasion. English = meal."
+  ],
+  "signNumber": 50,
+  "recordNumber": 29,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

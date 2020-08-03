@@ -1,0 +1,85 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "partlex1",
+    "auslex",
+    "locdir",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "go.upwards.1a",
+  "oldentry": "",
+  "english": [
+    "height",
+    "tallness",
+    "heaven",
+    "God",
+    "pass away",
+    "upwards",
+    "up",
+    "upstairs"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be very high off the ground; to be a very long distance from top to bottom of an upright object; to be very important in society, in business, or any organisation.",
+    "2. To go upwards, to become higher and higher off the ground or some other point of reference; to become very important and powerful in society, in business, or any kind of organisation.",
+    "3. Of angels, spirits and people, to go to or return to heaven, to ascend to heaven. Often used as a polite or euphemistic sign for 'die'. Euphemistic English = pass away, gone to meet one's maker.",
+    "4. In a building, to go up to or to be located at a higher floor. English = go upstairs, (be) upstairs."
+  ],
+  "cf": [
+    "far.1a",
+    "tall.1a",
+    "tall.2"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb of movement to mean the direction of that movement is upwards. Usually only used if the verb itself has not or cannot be modified to move in an upwards direction. English = upwards, up."
+  ],
+  "nomlex": [
+    "1. The distance of an object above some other object when that is great; the length of the distance from the bottom to the top of some long, relatively thin, upright object. English = height, tallness.",
+    "2. The place where some people believe God lives and where good people go when they die. English = heaven.",
+    "3. The spirit or being who is worshipped as the creator and ruler of the world, especially by Christians, Jews, and Muslims. English = God."
+  ],
+  "signNumber": 711,
+  "recordNumber": 411,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "hell.1a",
+    "go.down"
+  ],
+  "synonyms": [
+    "God.1a",
+    "heaven",
+    "die.1a"
+  ]
+}

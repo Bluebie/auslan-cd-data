@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "comp",
+    "begindir",
+    "auslex",
+    "judge",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "disagree",
+  "oldentry": "",
+  "english": [
+    "disagreement",
+    "disagree"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a different opinion to other people about what is true or correct. English = disagree."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An opinion about what is true or correct that is different to the opinion of other people. English = disagreement."
+  ],
+  "signNumber": 4835,
+  "recordNumber": 2921,
+  "signVisualComposition": "AGREE + 'NOT'",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 6.1,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "agree.1a"
+  ],
+  "synonyms": [
+    "argue"
+  ]
+}

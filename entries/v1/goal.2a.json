@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "orient",
+    "auslex",
+    "sports",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "goal.2a",
+  "oldentry": "Popular explanation: the trajectory of the ball through the goal posts.",
+  "english": [
+    "goal",
+    "goal posts"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To score a point by succeeding in getting the ball into the goal in a game of soccer or any similar game."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. In soccer and similar ball games, the space into which the players try to get the ball in order to score a point for their team. It is inside a frame or between two posts. English = goal, goal posts",
+    "2. In soccer, an instance in which a player succeeds in getting the ball into the goal, and the point they score by doing this. English = goal."
+  ],
+  "signNumber": 1344,
+  "recordNumber": 792,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 17.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "goal.1"
+  ]
+}

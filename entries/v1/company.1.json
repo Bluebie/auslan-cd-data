@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "company.1",
+  "oldentry": "",
+  "english": [
+    "company",
+    "companion",
+    "companionship"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be with a friend or visitor. English = keep company."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A friend or visitor you have with you. English = company.",
+    "2. Someone you spend time with or someone you are travelling with. English = companion.",
+    "3. The good feeling you have when you have a friend or visitor with you who you enjoy being with. English = companionship."
+  ],
+  "signNumber": 4847,
+  "recordNumber": 2930,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 6.1,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "lonely.1",
+    "fight.2a"
+  ],
+  "synonyms": [
+    "friend.1a",
+    "go.with.1a"
+  ]
+}

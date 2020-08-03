@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "work",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "skill",
+  "oldentry": "",
+  "english": [
+    "skill",
+    "competence",
+    "proficiency",
+    "expertise",
+    "skilled",
+    "competent",
+    "proficient",
+    "expert"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a combination of a natural and acquired ability (through education, experience or training) that enables you to do something well. English = (be) skilled, (be) competent, (be) proficient. Informal English = have the know-how.",
+    "2. To have special skill or knowledge. English = (be) expert, have expertise."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A combination of a natural and acquired ability (through education, experience or training) that enables you to do something well. English = skill, competence, proficiency. Informal English = know-how.",
+    "2. Special skill or knowledge. English = expertise."
+  ],
+  "signNumber": 4360,
+  "recordNumber": 2654,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "talent.1a",
+    "technique.1"
+  ]
+}

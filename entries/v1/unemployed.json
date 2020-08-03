@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "comp",
+    "auslex",
+    "work",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "unemployed",
+  "oldentry": "",
+  "english": [
+    "unemployment",
+    "unemployed"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be without a job, to have no job. English = (be) unemployed."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A lack of jobs in a society or economy which means some people have no job at all. English = unemployment.",
+    "2. The number of people in a society or economy who are out of work. English = unemployment."
+  ],
+  "signNumber": 4186,
+  "recordNumber": 2532,
+  "signVisualComposition": "WORK + 'NOT'",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "work.1a"
+  ],
+  "synonyms": []
+}

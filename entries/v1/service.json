@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "work",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "service",
+  "oldentry": "",
+  "english": [
+    "service",
+    "liaison",
+    "serve",
+    "liaise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To provide a service, to serve.",
+    "2. Of organisations or people, to work together and to keep each other fully informed. English = liaise."
+  ],
+  "cf": [
+    "serve"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something provided to the public by a government department, organisation or system such as transport, information or help (material, monetary, or personal). English = service.",
+    "2. The process of being looked after in a shop or a restaurant by finding you products or by taking your order and bringing you food and drinks. English = service.",
+    "3. The cooperation and exchange of information between different organisations or between different sections of an organisation; or the person whose job is to provide such a service. English = liaison; liaison officer."
+  ],
+  "signNumber": 3832,
+  "recordNumber": 2278,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "waiter"
+  ]
+}

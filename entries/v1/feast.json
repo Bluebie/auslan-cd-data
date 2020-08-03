@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "drinks",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "feast",
+  "oldentry": "",
+  "english": [
+    "feast",
+    "smorgasbord",
+    "buffet"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To spread food out on a table."
+  ],
+  "cf": [
+    "party.1",
+    "provide"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A large and special meal. English = feast.",
+    "2. Various hot and cold foods arranged on a table. English = smorgasbord, buffet."
+  ],
+  "signNumber": 126,
+  "recordNumber": 68,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "nomlex1",
+    "reglex",
+    "vic",
+    "autos",
+    "travel",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "car.1",
+  "oldentry": "",
+  "english": [
+    "car",
+    "automobile"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "drive.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A motor vehicle with room for a small number of passengers. English = car. American English = automobile."
+  ],
+  "signNumber": 5820,
+  "recordNumber": 3456,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

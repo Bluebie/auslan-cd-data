@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "law",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "summons.1a",
+  "oldentry": "",
+  "english": [
+    "summons",
+    "conscription",
+    "draft",
+    "call up",
+    "summon",
+    "conscript"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To order someone to come towards you, to approach you, or to come inside; to send for someone. English = summon.",
+    "2. To be officially ordered to appear in court. English = (be) summonsed.",
+    "3. To officially make people in a particular country join the army, navy, or air force. English = conscript, draft, call up.",
+    "4. To select someone from out of a crowd or group to do some task which no one is willing to volunteer to do."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An order to come towards you, to approach you, or to come inside. English = summons.",
+    "2. An order to come and see someone, particularly an official order to appear in court. English = summons.",
+    "3. Officially making people in a particular country join the army, navy, or air force. English = conscription, draft, call up."
+  ],
+  "signNumber": 942,
+  "recordNumber": 541,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "send.from",
+    "volunteer.1a",
+    "send.out"
+  ],
+  "synonyms": [
+    "force.1"
+  ]
+}

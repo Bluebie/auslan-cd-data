@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "mindact",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "intend.2",
+  "oldentry": "",
+  "english": [
+    "intention",
+    "aim",
+    "goal",
+    "objective",
+    "ambition",
+    "intend",
+    "strive",
+    "ambitious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To plan or hope to achieve something. English = aim.",
+    "2. To decide and plan to do something. English = intend.",
+    "3. To make a great effort to do something. English = strive.",
+    "4. To be someone who wants to achieve their aims, usually to be successful, rich, or powerful. English = (be) ambitious."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something you plan or hope to achieve. English = aim, goal, objective, ambition.",
+    "2. Something which you decide and plan to do. English = intention.",
+    "3. The very strong desire to achieve or do something in your life. English = ambition."
+  ],
+  "signNumber": 5435,
+  "recordNumber": 3234,
+  "signVisualComposition": "",
+  "activeHandShape": 7.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 2,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "intend.1",
+    "resolve.1a"
+  ]
+}

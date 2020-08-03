@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "reserve.1a",
+  "oldentry": "",
+  "english": [
+    "booking",
+    "reservation",
+    "book",
+    "reserve",
+    "booked",
+    "reserved"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To arrange to have or use something (such as a hotel room, or a ticket for something) at a particular time. English = book, reserve.",
+    "2. Of things such as a hotel room, a seat at the theatre, or a table at a restaurant, to be taken or claimed by someone else for future use. English = (be) booked, (be) reserved."
+  ],
+  "cf": [
+    "catch.1",
+    "grab"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An arrangement that you make when you book something such as a theatre seat or a hotel room. English = booking, reservation."
+  ],
+  "signNumber": 2752,
+  "recordNumber": 1538,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "available"
+  ],
+  "synonyms": []
+}

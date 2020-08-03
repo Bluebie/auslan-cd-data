@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "educate",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "science.1a",
+  "oldentry": "Popular explanation: pouring from one container into another.",
+  "english": [
+    "science",
+    "scientist",
+    "scientific"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To relate to science or to a particular science. English = (be) scientific.",
+    "2. To do something in a systematic way, using experiments and tests. English = (be) scientific."
+  ],
+  "cf": [
+    "pourer",
+    "pour.into",
+    "pour.from"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The study of the nature and behaviour of natural things and the knowledge that we obtain about them. English = science.",
+    "2. An expert who does work in one of the sciences. English = scientist."
+  ],
+  "signNumber": 166,
+  "recordNumber": 92,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "comp",
+    "auslex",
+    "mindact",
+    "twohand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "determination.1a",
+  "oldentry": "",
+  "english": [
+    "single-mindedness",
+    "independence",
+    "determination",
+    "resoluteness",
+    "strong-minded",
+    "independent",
+    "strong-willed",
+    "determined"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have your own attitudes and opinions and not to be easily influenced by other people. English = (be) strong-minded, (be) independent.",
+    "2. To be determined to behave in a particular way despite advice not to do so. Sometimes used showing disapproval. English = (be) strong-willed, (be) determined."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The quality of having your own attitudes and opinions and not being easily influenced by other people. English = single-mindedness, independence.",
+    "2. The quality of persisting in doing things or behaving in a particular way especially against advice to the contrary. English = determination, resoluteness."
+  ],
+  "signNumber": 1327,
+  "recordNumber": 785,
+  "signVisualComposition": "THINK + STRONG",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 3,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "determined.1a",
+    "resolute"
+  ]
+}

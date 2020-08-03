@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "before.2a",
+  "oldentry": "",
+  "english": [
+    "before"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning or end of the first of two phrases to mean that the action in the first phrase happens at a time earlier than the action of the second (which is signed after the first). English = before.",
+    "2. Used at the beginning or end of a sign phrase, or immediately next to a verb (action) sign, to mean that the action took place at a time earlier than the time of speaking or time of point of reference. English = before."
+  ],
+  "nomlex": [],
+  "signNumber": 4199,
+  "recordNumber": 2539,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "after.1",
+    "after.2"
+  ],
+  "synonyms": [
+    "before.1",
+    "before.that.1a"
+  ]
+}

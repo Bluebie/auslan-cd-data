@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "begindir",
+    "orient",
+    "marginal",
+    "doublehnd",
+    "sym",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "match.1",
+  "oldentry": "",
+  "english": [
+    "fit",
+    "match",
+    "merger",
+    "suit",
+    "mesh",
+    "merge"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To bring two things together which, by accident or design, fit well together or suit each other well. English = fit, suit.",
+    "2. To deliberately bring two things together in one place, such as two items of clothing or two pieces of furniture, because they look good together, are suitable for each other, or have some other connection. English = match.",
+    "3. To combine two things together to make one whole thing. English = merge, mesh."
+  ],
+  "cf": [
+    "integrate"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The suitability or naturalness with which two things can be brought closely together so that the shape of one complements the other. English = fit, match.",
+    "2. The suitability with which two things can be brought closely together because the colour, design, function, etc., of one complements or goes well with the other. English = match.",
+    "3. The combination of two things together to make one whole thing. English = merger."
+  ],
+  "signNumber": 3021,
+  "recordNumber": 1728,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "matched.1a"
+  ]
+}

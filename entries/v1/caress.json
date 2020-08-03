@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "caress",
+  "oldentry": "Popular explanation: stroking or caressing some",
+  "english": [
+    "stroke",
+    "caress",
+    "petting",
+    "pet",
+    "pat",
+    "fondle"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move your hand slowly and gently over someone or something. English = stroke.",
+    "2. To stroke someone gently and affectionately. English = caress, pat, fondle.",
+    "3. To stroke an animal gently and affectionately. English = pet, pat, fondle."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The slow and gentle movement of your hand over someone or something. English = stroke.",
+    "2. The gentle and affectionate stroking of someone. English = caress.",
+    "3. The gentle and affectionate stroking of an animal. English = petting.",
+    "4. A tame animal that you keep in your home to give you company and pleasure. English = pet."
+  ],
+  "signNumber": 4342,
+  "recordNumber": 2646,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "cat.1",
+    "dog.1"
+  ]
+}

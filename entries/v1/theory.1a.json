@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "restrict",
+    "mindact",
+    "onehand",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "theory.1a",
+  "oldentry": "",
+  "english": [
+    "theory",
+    "theoretical",
+    "theorise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be based on or concerning the ideas and abstract principles of a subject, rather than the practical aspects of it. English = (be) theoretical.",
+    "2. To develop ideas about something in order to explain it. English = theorise."
+  ],
+  "cf": [
+    "consider.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An idea or set of ideas that is intended to explain something. English = theory.",
+    "2. A set of ideas that relate to a particular subject. English = theory."
+  ],
+  "signNumber": 6062,
+  "recordNumber": 3605,
+  "signVisualComposition": "CONSIDER + T",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 2,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

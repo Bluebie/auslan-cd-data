@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "dir",
+    "auslex",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "Located and orientated to describe the location of referent(s), for example, 'a string of party lights' could be signed by repeating the sign as the hand is moved sideways in an arc above the head.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "emit",
+  "oldentry": "Popular explanation: light or sound radiating out from somewhere.",
+  "english": [
+    "radiate",
+    "emit",
+    "illuminate",
+    "speaker",
+    "light",
+    "heater"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a source of energy (light, heat, sound, etc.) to give out rays or waves. English = emit; (light) illuminate.",
+    "2. Of a source of energy (light, heat, sound, etc.) to give out rays or waves in all directions, like a pattern of lines drawn from the centre of a circle to various point on its edge. English = radiate."
+  ],
+  "cf": [
+    "copy.1a",
+    "projector.1a",
+    "headlights"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A source of energy (light, heat, sound, etc.) such as a speaker, light, heater."
+  ],
+  "signNumber": 81,
+  "recordNumber": 45,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "open.up"
+  ]
+}

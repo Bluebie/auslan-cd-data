@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "glue.1",
+  "oldentry": "",
+  "english": [
+    "glue",
+    "paste",
+    "adhesive",
+    "sticker",
+    "label",
+    "adhere"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To attach something to something else by using glue or another sticky substance, especially one that you lick first. English = stick, adhere, paste, glue."
+  ],
+  "cf": [
+    "stamp.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A sticky substance used for joining things together, especially one that needs to be licked first. English = glue, paste, adhesive.",
+    "2. A small piece of paper or plastic, with writing or a picture on one side, which you can stick onto a surface. English = sticker, label."
+  ],
+  "signNumber": 4224,
+  "recordNumber": 2555,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 10,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "glue.2a",
+    "paste"
+  ]
+}

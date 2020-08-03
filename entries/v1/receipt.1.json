@@ -1,0 +1,43 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "orient",
+    "gensign",
+    "shapes",
+    "doublehnd",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "Any object of this general size and shape (small and rectangular), such as a certificate, sheet of paper, menu, memo, etc., or any thing or any action directly or indirectly associated with this, especially a bill or a receipt.",
+  "questlex": [],
+  "idgloss": "receipt.1",
+  "oldentry": "Popular explanation: the outline of a small square.",
+  "english": [
+    "bill",
+    "receipt"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A written statement of money that you owe for goods or services. English = bill.",
+    "2. A piece of paper that you give or send to someone to confirm that you have received money or goods from them. English = receipt."
+  ],
+  "signNumber": 888,
+  "recordNumber": 509,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

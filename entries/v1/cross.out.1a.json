@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cross.out.1a",
+  "oldentry": "Popular explanation: marking a cross on something.",
+  "english": [
+    "correction",
+    "correct",
+    "vote"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To mark a cross on a surface.",
+    "2. To put a line or a cross through words on a page, usually because they are wrong. You usually write the correct word or words down as well. English = correct.",
+    "3. To mark a ballot paper with a cross to show your preferred candidate. English = vote."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A mark on a surface in the shape of a cross.",
+    "2. A line or cross drawn through the words on a page, usually because they are wrong. It is usually followed by the insertion of the correct word or words. English = correction.",
+    "3. Marks on a ballot paper that show who the person is voting for."
+  ],
+  "signNumber": 1254,
+  "recordNumber": 743,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "tick.1a"
+  ],
+  "synonyms": [
+    "disappear.1a"
+  ]
+}

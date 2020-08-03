@@ -1,0 +1,43 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "this.time.2a",
+  "oldentry": "",
+  "english": [
+    "week"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning or end of a sentence, or immediately next to a verb, to mean the action takes place sometime during the previous unit of time being talked about, or before some other reference time.",
+    "English = earlier during this week (month, year, etc.), earlier during that week (month, year, etc.)."
+  ],
+  "nomlex": [
+    "1. A recurring period of time (such as a week, month or year) before the time of speaking. The unit of time has already been mentioned. English = this week, this month, this year, etc.",
+    "2. The used up or elapsed time within the unit of time (week, month, year, etc.) being talked about; this past week, this past month, this past year, etc."
+  ],
+  "signNumber": 1016,
+  "recordNumber": 594,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 16,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

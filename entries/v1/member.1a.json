@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "member.1a",
+  "oldentry": "",
+  "english": [
+    "dues",
+    "membership",
+    "subscription",
+    "member",
+    "subscriber",
+    "subscribe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To pay your dues to an organisation you belong to; to be a member of an organisation.",
+    "2. To pay to receive regular copies of a magazine or newspaper. English = subscribe.",
+    "3. To pay to receive a service (gas, electricity, telephone, pay television, etc.). English = subscribe."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A sum of money you pay regularly to an organisation you belong to. English = dues, membership, subscription.",
+    "2. A person who belongs to an organisation, especially one in which they are required to pay dues. English = member.",
+    "3. A person who pays for a magazine or newspaper to be regularly sent to them or for a service (gas, electricity, telephone, pay television, etc.) to be provided to them. English = subscriber."
+  ],
+  "signNumber": 6250,
+  "recordNumber": 3735,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 16,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "member.2",
+    "member.3"
+  ]
+}

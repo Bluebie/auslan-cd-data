@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2",
+    "matter"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "paper",
+  "oldentry": "",
+  "english": [
+    "paper",
+    "newspaper"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Material that you write on or wrap things with. English = paper.",
+    "2. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some are available everyday and other once a week. English = newspaper."
+  ],
+  "signNumber": 5784,
+  "recordNumber": 3429,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "newspaper.1",
+    "newspaper.2"
+  ]
+}

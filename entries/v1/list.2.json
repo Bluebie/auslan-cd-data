@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "metalang",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "DOCUMENT + L",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "list.2",
+  "oldentry": "",
+  "english": [
+    "list",
+    "catalogue"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a list. English = list.",
+    "2. To read out the items on a list or to mention a series of things one after another. English = list.",
+    "3. To be included in a list. English = (be) listed.",
+    "4. To make list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
+  ],
+  "cf": [
+    "calendar"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A series of things that are written down one below the other. English = list.",
+    "2. A list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
+  ],
+  "signNumber": 5297,
+  "recordNumber": 3173,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "list.1"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "reglex",
+    "nth",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "stolen",
+  "oldentry": "",
+  "english": [
+    "stealing",
+    "theft",
+    "steal",
+    "stolen"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take something away from someone without their permission and without intending to return it. English = steal.",
+    "2. To have been taken away from you without your permission and without any intention of returning it. English = (be) stolen."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of taking something away from someone without their permission and without intending to return it. English = stealing, theft.",
+    "2. Things which have been taken away without permission and without any intention of being returned; things which have been stolen. English = stolen goods."
+  ],
+  "signNumber": 3480,
+  "recordNumber": 2033,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "steal.1a"
+  ]
+}

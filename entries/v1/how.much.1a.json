@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "questlex",
+    "auslex",
+    "shop",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [
+    "1. Used to ask the amount of money that must be paid in order to buy something. English = How much?"
+  ],
+  "idgloss": "how.much.1a",
+  "oldentry": "",
+  "english": [
+    "price",
+    "cost",
+    "charge",
+    "how much"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "when",
+    "how.old"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The amount of money you must pay in order to buy something. English = price, cost.",
+    "2. The amount of money you must pay in order to buy something, especially a service rather than a thing. English = charge."
+  ],
+  "signNumber": 2464,
+  "recordNumber": 1370,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

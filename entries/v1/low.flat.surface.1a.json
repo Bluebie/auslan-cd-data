@@ -1,0 +1,70 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "gensign",
+    "doublehnd",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "A low surface which is everywhere the same distance from the ground and not sloping or curved and with no parts higher than any other, or any thing or action directly or indirectly associated with this, especially the ground itself or the floor.",
+  "questlex": [],
+  "idgloss": "low.flat.surface.1a",
+  "oldentry": "Popular explanation: the flat surface of the floor.",
+  "english": [
+    "floor",
+    "ground",
+    "flat",
+    "plain"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a low surface of some kind, to be not sloping or curved, or to have no raised parts. English = (be) flat.",
+    "1. To lay out on the floor, to put on the floor, to cover the floor, to be on the floor.",
+    "2. To be on the ground."
+  ],
+  "cf": [
+    "smooth",
+    "table"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. That part of a room that you walk on. English = floor.",
+    "2. The surface of the earth on which we walk and live. English = ground.",
+    "3. A large flat area of land with very few trees on it. English = plain."
+  ],
+  "signNumber": 3923,
+  "recordNumber": 2339,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 16,
+  "secondLocation": 26,
+  "antonyms": [
+    "sky.1a",
+    "rough.surface",
+    "mountain.1a"
+  ],
+  "synonyms": [
+    "flat.surface.1a",
+    "high.flat.surface.1a"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quality",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "new.2",
+  "oldentry": "",
+  "english": [
+    "newness",
+    "novelty",
+    "new",
+    "novel"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be made or created recently; to be not owned or used by anyone else before; to be different from what you had, used, or experienced before; or to be only recently discovered. English = (be) new.",
+    "2. To be unlike anything that has been done or created before. English = (be) novel.",
+    "3. To be the latest in fashion or technology."
+  ],
+  "cf": [
+    "born.2a",
+    "born.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The quality of being recently made or created; of not being owned or used before; of being different from what you had before; or of being only recently discovered. English = newness.",
+    "2. The quality of being different, new, and unusual. English = novelty."
+  ],
+  "signNumber": 4206,
+  "recordNumber": 2544,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "new.1"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "dir",
+    "orient",
+    "auslex",
+    "autos",
+    "travel",
+    "doublehnd",
+    "para",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tow.1a",
+  "oldentry": "Popular explanation: one thing towing another.",
+  "english": [
+    "tow bar",
+    "tow"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a vehicle, to pull another vehicle behind it. English = tow."
+  ],
+  "cf": [
+    "trailer.1",
+    "caravan.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A special bar found at the back of a vehicle to which another vehicle (eg, trailer or caravan) is attached when towed. English = tow bar."
+  ],
+  "signNumber": 1466,
+  "recordNumber": 875,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 1.2,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

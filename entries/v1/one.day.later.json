@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "blend",
+    "auslex",
+    "time",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2"
+  ],
+  "sense": "",
+  "blend": "NEXT + TOMORROW",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "one.day.later",
+  "oldentry": "",
+  "english": [
+    "day",
+    "next day"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence or immediately next to a verb to mean the action takes place one full day (twenty four hours) after the time of speaking or the reference time. English = one day later, a day from now, in a day's time."
+  ],
+  "nomlex": [
+    "1. A period of time which is at least one full day (twenty four hours) after the time of speaking.",
+    "2. A period of time which is at least one full day (twenty four hours) after a reference time already established in the past or future."
+  ],
+  "signNumber": 1061,
+  "recordNumber": 626,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

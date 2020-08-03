@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "gov",
+    "doublehnd",
+    "sym",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "crown.2",
+  "oldentry": "Popular explanation: placing a crown on one's head.",
+  "english": [
+    "crown",
+    "coronation",
+    "coronate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To place a crown on someone's head as part of a ceremony in which they are officially made kind or queen. English = crown, coronate."
+  ],
+  "cf": [
+    "monarch"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A circular ornament for the head, usually made of gold and precious jewels and worn by kings and queens. English = crown.",
+    "2. The act or ceremony of crowing a king or queen. English = coronation."
+  ],
+  "signNumber": 5189,
+  "recordNumber": 3120,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 7.1,
+  "primaryLocation": 1,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "crown.1"
+  ]
+}

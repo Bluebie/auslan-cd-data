@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "build.up",
+  "oldentry": "",
+  "english": [
+    "build up",
+    "reconstruction",
+    "reconstruct"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To gradually increase, grow or improve, especially after something has previously been damaged. English = build up.",
+    "2. To rebuild something that has been destroyed or badly damaged. English = reconstruct."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The gradual increase, growth or improvement in something, especially after it had been damaged. English = build up.",
+    "2. The rebuilding of something that has been destroyed or badly damaged. English = reconstruction."
+  ],
+  "signNumber": 3032,
+  "recordNumber": 1739,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "breakdown",
+    "damage"
+  ],
+  "synonyms": [
+    "improve.1a"
+  ]
+}

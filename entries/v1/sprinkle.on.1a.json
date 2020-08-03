@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "gensign",
+    "cooking",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "The act of sprinkling something over a large flat object, or any thing or any action directly or indirectly associated with this, for example sprinkling garnish on food, especially topping on a pizza.",
+  "questlex": [],
+  "idgloss": "sprinkle.on.1a",
+  "oldentry": "Popular explanation: sprinkling garnish on a pizza.",
+  "english": [
+    "pizza",
+    "garnish",
+    "topping",
+    "sprinkle"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To scatter a powdery substance over something. English = sprinkle.",
+    "2. To scatter a small amount of food over a larger piece of food, usually for decoration or flavour. English = garnish."
+  ],
+  "cf": [
+    "flour.1",
+    "some.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A flat, round piece of dough covered with tomatoes, cheese, and other kinds of food, and then baked in an oven. English = pizza.",
+    "2. A small amount of food that has been scattered over a larger piece of food for flavour or decoration. English = garnish,  topping."
+  ],
+  "signNumber": 223,
+  "recordNumber": 131,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

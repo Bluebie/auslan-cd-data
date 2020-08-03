@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "auslex",
+    "locdir",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "To go from one side of a barrier, wall or other such structure, to the other side, or any action or any thing directly or indirectly associated with this, especially being outside of something.",
+  "questlex": [],
+  "idgloss": "outside.1a",
+  "oldentry": "Popular explanation: from the inside of a wall to the outside of a wall' .",
+  "english": [
+    "outside",
+    "external"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be quite close to a building or container but not to be inside it, or to be in a hall or corridor next to a room. English = (be) outside.",
+    "2. To go from the inside to the outside of some container or building. English = go outside.",
+    "3. To happen, come from, or exist outside a place, person, or area of activity. English = (be) external."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the direction someone or something moves, from inside to outside. English = outside."
+  ],
+  "nomlex": [
+    "1. The part of a container or building which surrounds or encloses the rest of it. English = outside.",
+    "2. The space immediately next to that part of a container or building which is on the outside."
+  ],
+  "signNumber": 1244,
+  "recordNumber": 735,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "inside.1a"
+  ],
+  "synonyms": []
+}

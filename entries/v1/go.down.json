@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "auslex",
+    "locdir",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "go.down",
+  "oldentry": "",
+  "english": [
+    "down",
+    "downwards",
+    "downstairs"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go down, to go downwards.",
+    "2. In a building, to go down to or be located at a lower floor. English = go downstairs, (be) downstairs."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately after a verb of motion to mean that the direction of the movement was towards the ground or from high to low. English = downwards."
+  ],
+  "nomlex": [],
+  "signNumber": 796,
+  "recordNumber": 452,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 16,
+  "secondLocation": null,
+  "antonyms": [
+    "go.upwards.1a"
+  ],
+  "synonyms": []
+}

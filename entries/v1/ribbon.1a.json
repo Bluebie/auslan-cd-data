@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "bodyloc",
+    "auslex",
+    "clothes",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "ribbon.1a",
+  "oldentry": "Popular explanation: a length of ribbon.",
+  "english": [
+    "ribbon",
+    "bow"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To tie a ribbon into a bow."
+  ],
+  "cf": [
+    "knot.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A long, narrow piece of cloth that you use for tying things together or as a decoration. English = ribbon.",
+    "2. A knot with two loops and two loose ends that is used in tying shoelaces and ribbons. English = bow."
+  ],
+  "signNumber": 2084,
+  "recordNumber": 1210,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 2.4,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "ribbon.2a",
+    "present.2a"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "interj2",
+    "orient",
+    "auslex",
+    "quality",
+    "quantity",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "equal.1a",
+  "oldentry": "",
+  "english": [
+    "fairness",
+    "equality",
+    "fair",
+    "even",
+    "equal"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be reasonable, right and just. English = (be) fair.",
+    "2. To have the same distribution of something for each person, group or area. English = (be) even, (be) equal."
+  ],
+  "cf": [
+    "advanced.1"
+  ],
+  "interj": [
+    "1. Used alone to tell your addressee that what you have just done or what has just happened (usually to your addressee's disadvantage) is fair and just because they did something unfair to you earlier. English = 'Now we're even!', 'Fair's fair!'",
+    "2. Used alone to tell your addressee to stop saying or doing something which they think you deserve but which you find either unpleasant or overdone. English = 'Enough is enough!' 'That'll do!' 'Okay, no need to overdo it!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. The quality of being reasonable and just. English = fairness.",
+    "2. The same status, rights, and opportunities for all the members of a society or group. English = equality."
+  ],
+  "signNumber": 4105,
+  "recordNumber": 2466,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "one.is.more",
+    "one.is.less"
+  ],
+  "synonyms": [
+    "equal.2",
+    "uniformity.2a"
+  ]
+}

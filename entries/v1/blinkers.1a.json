@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "sym",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "Left or right blinkers may be specified by keeping the left or right hand closed (for the blinker which is inoperative).",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "blinkers.1a",
+  "oldentry": "Popular explanation: a light flashing on and off.",
+  "english": [
+    "indicators",
+    "blinkers",
+    "blink",
+    "indicate",
+    "hazard lights"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To operate the blinkers on a car.",
+    "2. To operate the hazard lights on a car."
+  ],
+  "cf": [
+    "headlights"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The lights at the front and back of a car which are used to show that the car is turning or is about to turn left or right. English = indicators, blinkers.",
+    "2. The lights at the front and back of a car which, when both are flashing simultaneously, are used to show that the car is stationary and a hazard to traffic. English = hazard lights."
+  ],
+  "signNumber": 3704,
+  "recordNumber": 2185,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

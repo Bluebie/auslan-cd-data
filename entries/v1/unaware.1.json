@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "comp",
+    "auslex",
+    "mindact",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "unaware.1",
+  "oldentry": "",
+  "english": [
+    "unawareness",
+    "ignorance",
+    "oblivion",
+    "unaware",
+    "ignorant",
+    "oblivious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not know about something, especially when it is unexpected or when others know about it. English = (be) unaware, (be) ignorant of, (be) oblivious to."
+  ],
+  "cf": [
+    "no.idea.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The condition of not knowing about something, especially when it is known by other people or unexpected. English = unawareness, ignorance.",
+    "2. The state of not being aware or conscious of what is happening around you. English = oblivion."
+  ],
+  "signNumber": 1200,
+  "recordNumber": 705,
+  "signVisualComposition": "THINK + DELETE",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 3,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "empty-headed",
+    "crazy.3a"
+  ]
+}

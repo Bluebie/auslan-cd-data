@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "educate",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "university.2",
+  "oldentry": "",
+  "english": [
+    "university",
+    "examination",
+    "studies",
+    "examined",
+    "examine",
+    "study"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To undergo a formal test that you take to show your knowledge or ability in a particular subject. English = (be) examined.",
+    "2. To formally test someone to assess their knowledge or ability in a particular subject. English = examine.",
+    "3. To spend time learning about a particular study, especially at a university by attending lectures or reading books carefully. English = study."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An institution where students study for degrees and where academic research is done. English = university.",
+    "2. A formal test that you take to show your knowledge or ability in a particular subject. English = examination.",
+    "3. Formal learning you do at a university about a particular subject. English = studies."
+  ],
+  "signNumber": 2797,
+  "recordNumber": 1566,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "university.1",
+    "check.1a"
+  ]
+}

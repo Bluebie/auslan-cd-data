@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "close.1a",
+  "oldentry": "",
+  "english": [
+    "shut",
+    "close"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To close the entrance to a building, room, or vehicle by swinging a piece of wood, glass, or metal across the entrance; to close a door. English = close, shut.",
+    "2. To close the opening on any kind of object."
+  ],
+  "cf": [
+    "sliding-door.close"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4174,
+  "recordNumber": 2523,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "door.open"
+  ],
+  "synonyms": [
+    "close.2",
+    "close.3"
+  ]
+}

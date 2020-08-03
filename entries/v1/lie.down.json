@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "bodyact",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "lie.down",
+  "oldentry": "Popular explanation: the legs on the ground.",
+  "english": [
+    "lie-down",
+    "nap",
+    "snooze",
+    "lie down",
+    "recline",
+    "sprawled out",
+    "pass out"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move into a horizontal position, usually in order to rest or sleep. English = lie down, recline.",
+    "2. To be lying somewhere with your legs and arms out in a careless way. English = (be) sprawled out.",
+    "3. To be sprawled out because you are drunk. English = (be) dead drunk, (be) dead to the world, pass out."
+  ],
+  "cf": [
+    "toss.and.turn"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A short rest in which you lie down on a bed. English = lie-down, nap, snooze."
+  ],
+  "signNumber": 1738,
+  "recordNumber": 1043,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "rest.1a"
+  ]
+}

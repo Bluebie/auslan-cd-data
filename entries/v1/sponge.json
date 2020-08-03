@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "gensign",
+    "furn",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1",
+    "matter"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "Something which is large and soft, such as soft furnishings such as cushions, mattresses and pillows, and any thing or any action directly or indirectly associated with this, especially a sponge.",
+  "questlex": [],
+  "idgloss": "sponge",
+  "oldentry": "",
+  "english": [
+    "sponge",
+    "foam",
+    "cushion",
+    "mattress",
+    "pillow"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To squeeze a spongelike object.",
+    "2. To be spongelike, to be soft."
+  ],
+  "cf": [
+    "doona",
+    "mattress.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A piece of soft, squashy, absorbent stuff that has lots of little holes in it. You can use it to wash things, wash your body, or put it inside furnishings to make them soft. English = sponge, foam, foam rubber.",
+    "2. A fabric case filled with soft material, which you put on a seat to make it more comfortable. English = cushion",
+    "3. A large, flat cushion the same size as a bed, which is put on a bed to make it soft to lie on. English = mattress.",
+    "4. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
+  ],
+  "signNumber": 3652,
+  "recordNumber": 2151,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "pillow.1"
+  ]
+}

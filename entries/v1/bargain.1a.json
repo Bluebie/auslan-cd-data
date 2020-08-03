@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "shop",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bargain.1a",
+  "oldentry": "",
+  "english": [
+    "bargain",
+    "discount",
+    "cheap",
+    "cheapen",
+    "discounted",
+    "discount"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be low in price and be affordable; or to make low in price. English = (be) cheap; cheapen.",
+    "2. To be lower in price than normal; or to make lower in price than normal. English = (be) discounted; discount."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something which is low in price and affordable. English = bargain.",
+    "2. A reduction in the normal price of something. English = discount."
+  ],
+  "signNumber": 4228,
+  "recordNumber": 2558,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "increase.1a"
+  ],
+  "synonyms": [
+    "decrease.1a"
+  ]
+}

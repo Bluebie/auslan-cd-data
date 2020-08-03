@@ -1,0 +1,73 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "interj1",
+    "blend",
+    "auslex",
+    "quality",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "ALL + CORRECT",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "exact",
+  "oldentry": "",
+  "english": [
+    "exactitude",
+    "precision",
+    "exactness",
+    "exact",
+    "precise",
+    "exactly",
+    "precisely",
+    "righteous",
+    "righteousness"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be correct or accurate, rather than approximate; to be correct and complete in every detail. English = (be) exact, (be) precise.",
+    "2. To behave in a way that is morally good, religious, and praiseworthy. English = (be) righteous."
+  ],
+  "cf": [
+    "newspaper.2"
+  ],
+  "interj": [
+    "1. Used alone in response to comments made by someone else to mean you think they are exactly right. English = 'Precisely!', 'Exactly!', 'Right on!'"
+  ],
+  "partlex": [
+    "1. Used before or after a verb sign to mean the action was done carefully and correctly in every detail. English = exactly, precisely."
+  ],
+  "nomlex": [
+    "1. The quality of being very accurate, correct in every detail, or careful. English = exactitude, precision, exactness.",
+    "2. Behaviour which is morally good, religious, and praiseworthy. English = righteousness."
+  ],
+  "signNumber": 4941,
+  "recordNumber": 2987,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "pure.1a"
+  ]
+}

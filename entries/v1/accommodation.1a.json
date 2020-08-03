@@ -1,0 +1,76 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "enddir",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "accommodation.1a",
+  "oldentry": "",
+  "english": [
+    "accommodation",
+    "hostel",
+    "hotel",
+    "motel",
+    "boarder",
+    "billet",
+    "dormitory",
+    "stay",
+    "accommodate",
+    "billet",
+    "board"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To sleep the night over at a place where you do not normally live in some sort of accommodation (private home, hotel, motel). English = stay, stay over, bed down.",
+    "2. To provide a bed for a visitor. English = accommodate, billet.",
+    "3. To live and sleep at school during term time. English = board."
+  ],
+  "cf": [
+    "dormitory"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A room or building to stay in or live in; a house where people can stay cheaply for a short time. English = accommodation; hostel.",
+    "2. A building in which people stay, for example on holiday, paying for their rooms and meals; a building intended for people who are travelling by car, which has space to park cars near the rooms. English = hotel; motel.",
+    "3. A pupil who lives at school during term time; a person who is accommodated temporarily in a private home.  English = boarder; billet.",
+    "4. A large bedroom where several people sleep, for example in a boarding school. English = dormitory."
+  ],
+  "signNumber": 3210,
+  "recordNumber": 1863,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "boarder"
+  ]
+}

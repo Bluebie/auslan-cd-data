@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "reglex",
+    "nsw",
+    "time",
+    "onehand",
+    "engtf1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "minute.2a",
+  "oldentry": "",
+  "english": [
+    "minutes"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "hour.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Some of the sixty equal parts of an hour. English = minutes.",
+    "2. The written records of what is said or decided at a meeting. English = minutes."
+  ],
+  "signNumber": 1351,
+  "recordNumber": 797,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 2,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "minute.1"
+  ]
+}

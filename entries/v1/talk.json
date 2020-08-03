@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "lingact",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "talk",
+  "oldentry": "",
+  "english": [
+    "talk",
+    "comments",
+    "remarks"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say things to someone (in speech or sign). English = talk."
+  ],
+  "cf": [
+    "discussion"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of saying things to someone (in speech or sign). English = talk.",
+    "2. The things that someone says to someone (in speech or sign). English = comments, remarks."
+  ],
+  "signNumber": 1024,
+  "recordNumber": 599,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "chat",
+    "gossip.1a",
+    "dialogue.2"
+  ]
+}

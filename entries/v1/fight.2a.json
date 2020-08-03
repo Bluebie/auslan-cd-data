@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fight.2a",
+  "oldentry": "",
+  "english": [
+    "fight",
+    "enemy",
+    "foe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of two or more people, to try to hurt each other physically. English = fight.",
+    "2. To try in a determined way to get or achieve something. English = fight for.",
+    "3. To try in a determined way to prevent something or stop something from happening. English = fight against."
+  ],
+  "cf": [
+    "quarrel"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A situation in which two or more people try to hurt each other physically. English = fight.",
+    "2. A situation in which you try in a determined way to get or achieve something. English = fight.",
+    "3. A situation in which you try in a determined way to prevent or stop something.",
+    "4. Someone with whom you are in competition and whom you do not like. You do not care if you harm them or if they suffer; in a war, the army or country that your country is fighting. English = enemy. Formal English = foe."
+  ],
+  "signNumber": 4997,
+  "recordNumber": 3012,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 6.2,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "friend.1a",
+    "mate"
+  ],
+  "synonyms": [
+    "fight.1a",
+    "oppose.1a"
+  ]
+}

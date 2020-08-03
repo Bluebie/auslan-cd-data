@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "life.1a",
+  "oldentry": "",
+  "english": [
+    "life",
+    "alive",
+    "living"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of people, animals, and plants to have the quality of not being dead. English = (be) alive, (be) living."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The quality which people, animals, and plants have when they are not dead and which objects and substances do not have. English = life.",
+    "2. The period of time during which someone is alive. English = life."
+  ],
+  "signNumber": 6520,
+  "recordNumber": 3880,
+  "signVisualComposition": "",
+  "activeHandShape": 13.1,
+  "passiveHandShape": 13.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "die.1a",
+    "die.2"
+  ],
+  "synonyms": [
+    "living.1a"
+  ]
+}

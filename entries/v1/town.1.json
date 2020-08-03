@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "town.1",
+  "oldentry": "",
+  "english": [
+    "town",
+    "village"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "community.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A place with many streets and buildings where people live and work. English = town, village."
+  ],
+  "signNumber": 3642,
+  "recordNumber": 2144,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "country.1a",
+    "farm.1a"
+  ],
+  "synonyms": [
+    "city.1"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "shop",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "shop.1a",
+  "oldentry": "",
+  "english": [
+    "shop",
+    "store",
+    "shopping",
+    "shopper"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go to shops and buy things. English = shop, go shopping."
+  ],
+  "cf": [
+    "buy.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A building or part of a building where things are sold. English = shop, store.",
+    "2. The act of going to shops and buying things. English = shopping.",
+    "3. Things that you have bought at a shop. English = shopping.",
+    "4. A person who goes to a shop to buy things. English = shopper."
+  ],
+  "signNumber": 4928,
+  "recordNumber": 2980,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

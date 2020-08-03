@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "bodyloc",
+    "auslex",
+    "groom",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "wash.face",
+  "oldentry": "Popular explanation: washing one's face.",
+  "english": [
+    "flannel",
+    "face flannel",
+    "face cloth",
+    "face washer",
+    "hand towel"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To wash your face, to freshen up."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small cloth used for washing yourself. English = flannel, face flannel, face cloth, face washer.",
+    "2. A small towel used for drying your hands and your face. English = hand towel."
+  ],
+  "signNumber": 3581,
+  "recordNumber": 2103,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 9,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "wash",
+    "wash.hands"
+  ]
+}

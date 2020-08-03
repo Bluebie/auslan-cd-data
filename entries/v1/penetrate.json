@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "blend",
+    "dir",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4"
+  ],
+  "sense": "",
+  "blend": "POINT + THROUGH",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "penetrate",
+  "oldentry": "",
+  "english": [
+    "puncture",
+    "penetration",
+    "pierce",
+    "penetrate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a hole in something by pushing or turning a sharp object through it. English = pierce, puncture.",
+    "2. To make a hole in something that is soft and full of air, such as a ball or tyre, so that it cannot keep its shape. English = puncture.",
+    "3. To succeed in going into something after some difficulty and resistance. English = penetrate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A hole made in something by a sharp object. English = puncture.",
+    "2. A hole made in something that is soft and full of air, such as a ball or tyre, which lets the air out so that it cannot keep its shape. English = puncture.",
+    "3. The act of going into something after some difficulty or resistance. English = penetration."
+  ],
+  "signNumber": 1302,
+  "recordNumber": 775,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

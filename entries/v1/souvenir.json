@@ -1,0 +1,74 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "REMEMBER + GLUE",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "souvenir",
+  "oldentry": "",
+  "english": [
+    "commemoration",
+    "keepsake",
+    "souvenir",
+    "memento",
+    "recollection",
+    "remembrance",
+    "memorial",
+    "commemorate",
+    "recall"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do something special (like have a ceremony or associate an object with a person or event) to show that you remember or to help you remember. English = commemorate.",
+    "2. To bring something that has happened in the past back into your mind with the help of some object or ceremony which is connected with the event or person. English = recall."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of doing something special (like having a ceremony or associating an object with a person or event) to show that you remember or to help you remember. English = commemoration.",
+    "2. An object which is associated with a person or an event in the which helps you remember that person or event; or an object which is associated with a holiday and helps you remember it. English = keepsake; souvenir, memento.",
+    "3. The act of bringing something that has happened in the past back into your mind with the help of some object or ceremony which is connected with the event or person. English = recollection, remembrance.",
+    "4. A structure built in order to remind people of a famous person or event. English = memorial."
+  ],
+  "signNumber": 4013,
+  "recordNumber": 2402,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 3,
+  "secondLocation": 25,
+  "antonyms": [
+    "ignore",
+    "forget.1",
+    "forget.2a"
+  ],
+  "synonyms": [
+    "remember.1a"
+  ]
+}

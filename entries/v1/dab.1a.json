@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "bodyloc",
+    "auslex",
+    "health",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dab.1a",
+  "oldentry": "Popular explanation: dabbing with cotton wool.",
+  "english": [
+    "antiseptic",
+    "dab"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put or remove a substance onto or from a surface with quick, light, strokes using something like cotton wool. English = dab.",
+    "2. To apply or dab antiseptic on a cut or a wound."
+  ],
+  "cf": [
+    "clean.3a",
+    "rub.2a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The action of putting (or removing) a substance onto (or from) a surface with quick, light, strokes using something like cotton wool.",
+    "2. A substance which is regularly dabbed onto cuts and wounds and which kills germs and harmful bacteria. English = antiseptic."
+  ],
+  "signNumber": 208,
+  "recordNumber": 120,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "medicine"
+  ]
+}

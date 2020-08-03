@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "onehand",
+    "opaque",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "guilty.1a",
+  "oldentry": "",
+  "english": [
+    "guilt",
+    "remorse",
+    "guilty",
+    "culpable",
+    "sin",
+    "sinner"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To feel unhappy because you believe you have done something wrong. English = feel guilty, (be) guilty. Formal English = (be) culpable.",
+    "2. To be officially found to have committed a crime or offence, especially in a court of law. English = (be) guilty.",
+    "3. To acknowledge guilt or accept blame for something.",
+    "4. To do something that is believed to be very bad and immoral, especially according to a religion. English = sin."
+  ],
+  "cf": [
+    "not.my.responsibility"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The unhappy feeling you have when you believe you have done something wrong. English = guilt. Formal English = remorse.",
+    "2. An action that is believed to be vary bad and immoral, especially one that breaks the rules of a religion. English = sin.",
+    "3. A person who does something that is believed to be vary bad and immoral, especially breaking the rules of a religion. English = sinner."
+  ],
+  "signNumber": 4989,
+  "recordNumber": 3011,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "innocent"
+  ],
+  "synonyms": []
+}

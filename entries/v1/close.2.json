@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "close.2",
+  "oldentry": "",
+  "english": [
+    "end",
+    "close",
+    "ending"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do something which is the last part of an activity, or the last part of a text (such as a book or a film). English = end, close.",
+    "2. To move something, such as a door or gate, so that you can no longer go through an opening. English = close."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The last part of an activity. English = end, close.",
+    "2. The last part of a book or a film. English = end, ending."
+  ],
+  "signNumber": 3809,
+  "recordNumber": 2263,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "open",
+    "door.open",
+    "start.1a"
+  ],
+  "synonyms": [
+    "close.1a",
+    "finish.1"
+  ]
+}

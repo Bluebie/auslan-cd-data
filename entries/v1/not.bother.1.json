@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "verblex1",
+    "interj1",
+    "blend",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "1",
+  "blend": "PROBLEM + 'NOT'",
+  "queries": "This sign has two opposed meanings, one negative and one positive. Facial expression and context would indicate which sense was meant.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.bother.1",
+  "oldentry": "",
+  "english": [
+    "not bother"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not do something because you think it is unnecessary or would involve too much effort. English = not be bothered, can't be bothered."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone as a reply to the questions whether you have done something or will do something, to mean you think it is unnecessary or would involve too much effort and do will not do it. English = 'I can't be bothered!'"
+  ],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4053,
+  "recordNumber": 2426,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [
+    "not.bother.2"
+  ],
+  "synonyms": [
+    "bother.1a",
+    "not.care.less",
+    "not.care.1a"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "enddir",
+    "auslex",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "object",
+  "oldentry": "",
+  "english": [
+    "objection",
+    "criticism",
+    "blame",
+    "object",
+    "criticise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not like something or to not approve of it; to say that you do not like or approve something. English = object to.",
+    "2. To express your disapproval of someone or something by saying what you think is wrong with them. English = criticise.",
+    "3. To think or say that a person or thing is responsible for something bad. English = blame."
+  ],
+  "cf": [
+    "blame.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of saying that you do not like or approve of something. English = objection.",
+    "2. The expression of your disapproval of someone or something by saying what you think is wrong with them. English = criticism.",
+    "3. The responsibility for causing something bad, or letting it happen. English = blame."
+  ],
+  "signNumber": 5052,
+  "recordNumber": 3047,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "agree.1a"
+  ],
+  "synonyms": [
+    "criticise",
+    "disagree"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "verblex1",
+    "partlex1",
+    "partlex2",
+    "interj1",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "quick.1a",
+  "oldentry": "",
+  "english": [
+    "quick",
+    "sudden",
+    "rush",
+    "quickly",
+    "suddenly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do or move with great speed. English = (be) quick, (be) sudden; rush."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone to do something with greater speed, usually because you are waiting for them and/or there is not much time before something else happens. English = 'Quickly!', 'Hurry up!'"
+  ],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the action happens with great speed. English = quickly.",
+    "2. Used to introduce a sentence to mean the action happens with some surprise and speed. English = suddenly, all of a sudden."
+  ],
+  "nomlex": [],
+  "signNumber": 1053,
+  "recordNumber": 619,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "slow.1a"
+  ],
+  "synonyms": [
+    "fast.1",
+    "fast.2a"
+  ]
+}

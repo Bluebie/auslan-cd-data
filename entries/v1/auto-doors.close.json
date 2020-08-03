@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "ant1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "auto-doors.close",
+  "oldentry": "",
+  "english": [],
+  "deictic": [],
+  "verblex": [
+    "1. Of automatic doors, to close."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The closing of a set of automatic doors."
+  ],
+  "signNumber": 3734,
+  "recordNumber": 2203,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "auto-doors.open"
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "family",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "mum.1a",
+  "oldentry": "",
+  "english": [
+    "mum",
+    "mummy",
+    "mother"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The woman who gave birth to you. This is an informal sign used particularly by children. English = mum, mummy.",
+    "2. The woman who gave birth to you. English = mother."
+  ],
+  "signNumber": 3152,
+  "recordNumber": 1825,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "father.1",
+    "father.2"
+  ],
+  "synonyms": [
+    "mother.1a"
+  ]
+}

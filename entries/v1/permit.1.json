@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "dir",
+    "auslex",
+    "lingact",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign is only partially directional. It does not normally allow for a movement towards the signer, but all other agreement points are acceptable.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "permit.1",
+  "oldentry": "",
+  "english": [
+    "permission",
+    "permit",
+    "authority",
+    "allow",
+    "authorise",
+    "let"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make it possible for something to happen; to say yes to someone who wants to do something; to do nothing to stop something happening. English = permit, allow, let.",
+    "2. To say officially that something can happen or take place. English = authorise."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Approval from someone to say that something can happen or that you can do something. English = permission.",
+    "2. A piece of paper that gives you permission to do something. English = permit.",
+    "3. Official power to approve something or the approval itself. English = authority."
+  ],
+  "signNumber": 3841,
+  "recordNumber": 2284,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "ban.1a",
+    "refuse.1a",
+    "prohibit.1a"
+  ],
+  "synonyms": [
+    "depart.1a"
+  ]
+}

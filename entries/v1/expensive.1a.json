@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "auslex",
+    "shop",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "MONEY + SORE",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "expensive.1a",
+  "oldentry": "",
+  "english": [
+    "expense",
+    "expensive",
+    "dear",
+    "costly",
+    "valuable",
+    "precious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To cost a lot of money. English = (be) expensive, (be) dear, (be) costly.",
+    "2. To be worth a lot of money. English = (be) valuable, (be) precious."
+  ],
+  "cf": [
+    "money.1a",
+    "sore.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The large amount of money that something costs. English = large expense, great expense."
+  ],
+  "signNumber": 4923,
+  "recordNumber": 2977,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

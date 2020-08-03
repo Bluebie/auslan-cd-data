@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "enddir",
+    "auslex",
+    "sports",
+    "doublehnd",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dive.1a",
+  "oldentry": "Popular explanation: diving off a diving board.",
+  "english": [
+    "dive",
+    "diver",
+    "diving board"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To jump head first into water. English = dive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of jumping head first into water. English = dive.",
+    "2. A person who jumps head first into water as a sport. English = diver.",
+    "3. A board high above a swimming pool from which people can dive into the water. English = diving board.",
+    "4. Someone who swims underwater wearing special breathing apparatus. English = diver."
+  ],
+  "signNumber": 2053,
+  "recordNumber": 1200,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 2.4,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "dive.2"
+  ]
+}

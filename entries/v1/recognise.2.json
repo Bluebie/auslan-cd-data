@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "mindact",
+    "twohand",
+    "domonly",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "recognise.2",
+  "oldentry": "",
+  "english": [
+    "recognition",
+    "recognise",
+    "acknowledgment",
+    "acknowledge"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To know who or what someone or something is because you have seen or heard about them before or because someone has described them to you. English = recognise.",
+    "2. To realise or accept that someone or something exists or that it is true. English = recognise, acknowledge.",
+    "3. To recognise someone's work or effort and to express appreciation, gratitude or thanks for it. English = acknowledge."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The experience of recognising someone or something. English = recognition, acknowledgment.",
+    "2. The recognition of someone's work or effort and the expression of appreciation, gratitude or thanks for it. English = acknowledgment."
+  ],
+  "signNumber": 1508,
+  "recordNumber": 898,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 7,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "recognise.1a"
+  ]
+}

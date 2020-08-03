@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "reglex",
+    "sth",
+    "health",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "hospital.2",
+  "oldentry": "",
+  "english": [
+    "hospital",
+    "doctor"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "aunt.2a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A place where sick people are looked after by doctors and nurses. English = hospital.",
+    "2. A person who is qualified in medicine and treats people who are ill. English = doctor."
+  ],
+  "signNumber": 6335,
+  "recordNumber": 3779,
+  "signVisualComposition": "",
+  "activeHandShape": 10.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "hospital.1a",
+    "doctor.1"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "nature",
+    "seasons",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sun",
+  "oldentry": "Popular explanation: light and heat radiating from the sun.",
+  "english": [
+    "sun",
+    "sunshine",
+    "sunny",
+    "shine",
+    "radiate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of the weather, to have little or no clouds in the sky and to have plenty of sunshine. English = (be) sunny.",
+    "2. Of the sun, to give out heat and light, especially when that is not obstructed by clouds on earth. English = shine.",
+    "3. Of the sun, to give out heat and light in all directions, like a pattern of lines drawn from the centre of a circle to various points on its edge. English = radiate."
+  ],
+  "cf": [
+    "suntan.1",
+    "suntan.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The ball of fire in the sky that the Earth goes round, and that gives us heat and light. English = sun.",
+    "2. The light and heat that comes from the sun. English = sunshine, sun."
+  ],
+  "signNumber": 5,
+  "recordNumber": 4,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 1,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "emit",
+    "clear.1a"
+  ]
+}

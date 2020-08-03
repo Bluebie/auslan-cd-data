@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "kill",
+  "oldentry": "Popular explanation: cutting the throat.",
+  "english": [
+    "killing",
+    "killer",
+    "kill",
+    "slay"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To cause a person, animal or plant to die. English = kill.",
+    "2. To kill a person in a violent way. Formal English = slay."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of causing a living thing to die. English = killing.",
+    "2. A person who has killed someone. English = killer.",
+    "3. Anything that causes death to a person, animal or plant. English = killer."
+  ],
+  "signNumber": 654,
+  "recordNumber": 381,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 12,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "murder.1",
+    "murder.2"
+  ]
+}

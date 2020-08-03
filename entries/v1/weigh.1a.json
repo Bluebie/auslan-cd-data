@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "weigh.1a",
+  "oldentry": "Popular explanation: balancing scales.",
+  "english": [
+    "weight",
+    "scales",
+    "evaluation",
+    "weigh"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To measure how heavy something is. English = weigh.",
+    "2. To decide how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluate. Idiomatic English = weigh up the pros and cons."
+  ],
+  "cf": [
+    "depends",
+    "evaluate"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The measure of how heavy something is; the measure of the heaviness of something which is expressed in units such as kilos, pounds, and tonnes. English = weight.",
+    "2. A piece of equipment for weighing things, for example for weighing amounts of food that you need in order to make a particular dish. English = scales.",
+    "3. A decision about how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluation."
+  ],
+  "signNumber": 3845,
+  "recordNumber": 2286,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "compare",
+    "calculate.1"
+  ]
+}

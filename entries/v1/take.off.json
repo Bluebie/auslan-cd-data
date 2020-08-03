@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "enddir",
+    "auslex",
+    "travel",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "take.off",
+  "oldentry": "Popular explanation: a plane taking off.",
+  "english": [
+    "departure",
+    "take-off",
+    "airport"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of an aeroplane, to leave the ground. English = take off."
+  ],
+  "cf": [
+    "airport"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Of an aeroplane, the act of leaving a place. English = departure.",
+    "2. Of an aeroplane, the act of leaving the ground. English = take-off.",
+    "3. A place where aircraft land and take off, usually with a lot of buildings and facilities. English = airport."
+  ],
+  "signNumber": 6633,
+  "recordNumber": 3947,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "landing"
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "educate",
+    "travel",
+    "onehand",
+    "deafness",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "go.to.and.fro.1a",
+  "oldentry": "",
+  "english": [
+    "round trip",
+    "return journey",
+    "day tripper",
+    "commuter",
+    "laps",
+    "return ticket",
+    "day student",
+    "commute"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go to or to travel to a place and then to come back, to make a return journey; to go back and forth between places; to commute.",
+    "2. To go back and forth inside a room, a container, or between the extremities of some object (such as swimming laps in a pool).",
+    "3. To travel to a place and back from that place to the starting point on a return ticket; to make a return trip.",
+    "4. To be a day student at a school at which there are boarding students."
+  ],
+  "cf": [
+    "come.back"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A journey to and from a place; a person who does such a journey in a day; a person who does such a journey every day to work and back. English = round trip, return journey; day tripper; commuter.",
+    "2. The movement to and fro between two locations (such as laps in a swimming pool).",
+    "3. A ticket to travel somewhere and then to come back. English = return ticket.",
+    "4. A day student at a school at which there are boarding students."
+  ],
+  "signNumber": 712,
+  "recordNumber": 412,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "go.forth"
+  ],
+  "synonyms": [
+    "around.1a",
+    "boarder"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "disconnect.1",
+  "oldentry": "Popular explanation: cutting a wire with a pair of scissors.",
+  "english": [
+    "disconnection",
+    "termination",
+    "disconnect",
+    "cut off",
+    "terminate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a piece of equipment, to detach it from its source of power, such as a gas or electricity supply. English = disconnect, cut off.",
+    "2. To turn off the connection to your house of the gas, electricity, water, or telephone. English = disconnect, cut off.",
+    "3. To end something completely. English = terminate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Of a piece of equipment, the act of detaching it from its source of power, such as a gas or electricity supply. English = disconnection.",
+    "2. The act of turning off the connection to your house of the gas, electricity, water, or telephone. English = disconnection.",
+    "3. The complete end of something. English = termination."
+  ],
+  "signNumber": 1678,
+  "recordNumber": 1002,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "connect",
+    "join.1",
+    "join.2"
+  ],
+  "synonyms": [
+    "disconnect.2",
+    "cut.2"
+  ]
+}

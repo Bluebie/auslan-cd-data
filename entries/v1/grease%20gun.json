@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "restrict",
+    "autos",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "grease gun",
+  "oldentry": "Popular explanation: operating a grease gun.",
+  "english": [
+    "grease gun",
+    "service"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To apply grease using a grease gun.",
+    "2. Of a car, to examine, adjust and clean it so that it will keep working efficiently and safely. English = service."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A device for forcing grease into special holes in machines so that their moving parts will work smoothly. English = grease gun.",
+    "2. Of a car, the action of examining, adjusting and cleaning it so that it will keep working efficiently and safely. English = service."
+  ],
+  "signNumber": 5805,
+  "recordNumber": 3445,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

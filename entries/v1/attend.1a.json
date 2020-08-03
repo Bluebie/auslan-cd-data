@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "begindir",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "attend.1a",
+  "oldentry": "",
+  "english": [
+    "attendance",
+    "assembly",
+    "crowd",
+    "attend",
+    "assemble",
+    "congregate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go to and be present at a meeting, gathering or performance with a lot of other people. English = attend.",
+    "2. Of a large number of people, to gather together in one place. English = assemble, form a crowd, crowd together, congregate."
+  ],
+  "cf": [
+    "class.1a",
+    "audience.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The number of people who are present at a meeting or a performance. English = attendance.",
+    "2. A large gathering or meeting of people. English = assembly, crowd.",
+    "3. The gathering of people in one place."
+  ],
+  "signNumber": 2663,
+  "recordNumber": 1480,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "attend.2"
+  ]
+}

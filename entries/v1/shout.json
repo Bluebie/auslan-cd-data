@@ -1,0 +1,67 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "enddir",
+    "auslex",
+    "bodyact",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "shout",
+  "oldentry": "Popular explanation: sound or words radiating out of your mouth.",
+  "english": [
+    "shout",
+    "yell",
+    "bark",
+    "blow",
+    "blow out"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a person, to make a loud call or cry. English = shout, yell.",
+    "2. To say words as loudly as you can, so that you can be heard from a long distance away. English = shout.",
+    "3. Of a dog, to make a short, loud noise, once or several times. English = bark.",
+    "4. To send out a stream of air from your mouth, especially at a flame or a candle so that it stops burning. English = blow, blow out."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A loud call or cry made by a person. English = shout, yell.",
+    "2. A short, loud noise made by a dog. English = bark."
+  ],
+  "signNumber": 63,
+  "recordNumber": 35,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [
+    "mum.2"
+  ],
+  "synonyms": [
+    "scream",
+    "yell.1a",
+    "yell.2a"
+  ]
+}

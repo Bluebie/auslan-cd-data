@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "sym",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "gears",
+  "oldentry": "Popular explanation: intermeshing gears.",
+  "english": [
+    "gears",
+    "machine",
+    "motor",
+    "engine",
+    "engineer",
+    "engineering"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a motor, engine or gears, to turn over, to operate correctly."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A device or system which controls the rate at which energy is converted into motion. It usually consists of moving wheels and levers which fit together. English = gears.",
+    "2. A piece of equipment which uses electricity or power from an engine, especially one that has gears. English = machine.",
+    "3. Part of a machine that uses electricity or fuel to produce movement, so that the machine can work. English = motor, engine.",
+    "4. A skilled person who uses scientific knowledge to design and construct machinery, electrical devices, or roads and bridges; the skill itself. English = engineer; engineering."
+  ],
+  "signNumber": 3024,
+  "recordNumber": 1731,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "machine.1a",
+    "engine.1a"
+  ]
+}

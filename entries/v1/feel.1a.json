@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "senseact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "feel.1a",
+  "oldentry": "",
+  "english": [
+    "feeling",
+    "sensation",
+    "feel",
+    "sense",
+    "think"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To experience an emotion or a sensation. English = feel, sense.",
+    "2. To have an opinion that something is the case. English = feel, think."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An emotion or attitude. English = feeling, sensation.",
+    "2. The way that someone thinks and reacts to events. English = feelings."
+  ],
+  "signNumber": 2520,
+  "recordNumber": 1400,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "sense.1a"
+  ]
+}

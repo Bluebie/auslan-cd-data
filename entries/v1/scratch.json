@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "orient",
+    "auslex",
+    "quality",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "scratch",
+  "oldentry": "",
+  "english": [
+    "scratch",
+    "mark",
+    "scratched",
+    "marked"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a small mark on an object which spoils its appearance. English = scratch, mark.",
+    "2. To be damaged or spoilt by having a small mark made on something. English = (be) scratched, (be) marked.",
+    "3. To make a small cut on your skin, or to have a small cut on your skin. English = scratch; (be) scratched.",
+    "4. To withdraw (a horse, etc.) from the list of entries in a race or competition. English = scratch."
+  ],
+  "cf": [
+    "rake"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small mark on an object which spoils its appearance. English = scratch, mark.",
+    "2. A small cut on your skin. English = scratch."
+  ],
+  "signNumber": 1509,
+  "recordNumber": 899,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "scratches"
+  ]
+}

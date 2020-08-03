@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "enddir",
+    "auslex",
+    "money",
+    "shop",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "PAY + SEND OUT",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "spend.1a",
+  "oldentry": "",
+  "english": [
+    "expenses",
+    "expenditure",
+    "expenses",
+    "spend"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To pay money for things that you want. English = spend, spend money.",
+    "2. To be worth spending money one, to be valuable in monetary terms."
+  ],
+  "cf": [
+    "spendthrift"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of paying money for things that you want.",
+    "2. The money that you pay for things. English = expenses, expenditure.",
+    "3. Money that you spend while doing something connected with your work and which is paid back to you afterwards. English = expenses."
+  ],
+  "signNumber": 6245,
+  "recordNumber": 3731,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "save",
+    "savings"
+  ],
+  "synonyms": []
+}

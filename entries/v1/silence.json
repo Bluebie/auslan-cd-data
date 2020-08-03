@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "silence",
+  "oldentry": "",
+  "english": [
+    "silence",
+    "quietness",
+    "calm",
+    "stillness",
+    "silent",
+    "quiet",
+    "still"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make no sound at all. English = (be) silent, (be) quiet.",
+    "2. To make no movement at all. English = (be) still."
+  ],
+  "cf": [
+    "secret.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The lack of any noise in a place. English = silence, quietness.",
+    "2. The lack of any busy activity in a place. English = calm, stillness."
+  ],
+  "signNumber": 3635,
+  "recordNumber": 2139,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "quiet.1a",
+    "quiet.2a"
+  ]
+}

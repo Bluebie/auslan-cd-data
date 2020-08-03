@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "work",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "build.1a",
+  "oldentry": "",
+  "english": [
+    "building",
+    "builder",
+    "build",
+    "construct",
+    "erect",
+    "develop",
+    "build up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a structure which has a roof and walls, such as a house or a factory. English = build, construct, erect.",
+    "2. To grow and change over a period of time into a better or more complete thing. English = develop. Idiomatic English = build up."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A structure which has a roof and walls, for example a house or a factory. English = building.",
+    "2. A person whose job is to build houses and other buildings. English = builder."
+  ],
+  "signNumber": 3876,
+  "recordNumber": 2305,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "demolish"
+  ],
+  "synonyms": [
+    "make.1a"
+  ]
+}

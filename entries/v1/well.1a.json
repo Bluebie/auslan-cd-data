@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "partlex2",
+    "interj1",
+    "interj2",
+    "auslex",
+    "quality",
+    "health",
+    "onehand",
+    "opaque",
+    "salutation",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "well.1a",
+  "oldentry": "",
+  "english": [
+    "health",
+    "well",
+    "healthy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be not suffering from any illness. English = (be) well, (be) healthy."
+  ],
+  "cf": [
+    "fine",
+    "cure"
+  ],
+  "interj": [
+    "1. Used alone with a questioning look to greet someone. English = 'How are you?'",
+    "2. Used alone in response to someone's greeting. English = 'Fine, thanks!', 'I'm well...'"
+  ],
+  "partlex": [
+    "1. Often used before or after verb (action) signs to mean that the action was performed correctly or with great skill as a direct translation of the English adverb 'well'.",
+    "Widely used in this sense though it is resisted by many native signers who prefer to use a form of the sign 'good' in this sense."
+  ],
+  "nomlex": [
+    "1. The state in which you are fit and well and not ill. English = health."
+  ],
+  "signNumber": 3444,
+  "recordNumber": 2011,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "sick.1",
+    "sick.2a"
+  ],
+  "synonyms": [
+    "healthy"
+  ]
+}

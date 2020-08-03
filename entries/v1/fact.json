@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "interj1",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fact",
+  "oldentry": "",
+  "english": [
+    "fact",
+    "certainty",
+    "accuracy",
+    "factual",
+    "certain",
+    "definite",
+    "accurate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be based on facts and on things that really have happened and are not invented. English = (be) factual.",
+    "2. To have no doubt that something is in agreement with the facts, to have no doubt that something is true; to be firm and clear, and be unlikely to be changed in your opinion. English = (be) certain, (be) definite.",
+    "3. To have the ability to perform a task without making a mistake; to have the quality of giving a true idea of what someone or something is like. English = (be) accurate."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to strongly agree with someone or to reaffirm what you have already said. English = 'Definitely!', 'Certainly!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. A piece of information that is true. English = fact.",
+    "2. The feeling that you have no doubt that something is in agreement with the fact. English = certainty.",
+    "3. The ability to perform a task without making a mistake; the quality of being true or correct. English = accuracy."
+  ],
+  "signNumber": 4292,
+  "recordNumber": 2611,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "true"
+  ]
+}

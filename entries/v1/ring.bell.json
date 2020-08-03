@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "ring.bell",
+  "oldentry": "Popular explanation: ringing a bell.",
+  "english": [
+    "bell",
+    "alarm",
+    "ring"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To shake a bell so that it makes a sound. English = ring a bell.",
+    "2. Of a bell, to make a sound. English = ring."
+  ],
+  "cf": [
+    "alarm.bell"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A hollow metal object shaped like a cup which has a piece hanging inside it that hits the sides and makes a sound. English = bell.",
+    "2. A device that makes a ringing sound and is used to give a signal or to attract people's attention. English = bell.",
+    "3. An automatic device which warns you of danger, for example by ringing a bell. English = alarm."
+  ],
+  "signNumber": 6132,
+  "recordNumber": 3649,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 16,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

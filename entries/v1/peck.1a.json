@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "blend",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "BIRD + PECK",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "peck.1a",
+  "oldentry": "Popular explanation: the beak of fowl pecking on the ground.",
+  "english": [
+    "pecking",
+    "poultry",
+    "fowl",
+    "chicken",
+    "peck"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a bird, to move its beak towards something and then bite at it or pick it up, especially something lying on the ground. English = peck."
+  ],
+  "cf": [
+    "rooster.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The action of a bird moving its beak towards something and then biting at it or picking it up, especially something lying on the ground. English = pecking.",
+    "2. Chickens, ducks, and other birds that are kept for their eggs and meat. English = poultry.",
+    "3. A bird, especially one that can be eaten as food. English = fowl, chicken."
+  ],
+  "signNumber": 5260,
+  "recordNumber": 3157,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 11,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "bird"
+  ]
+}

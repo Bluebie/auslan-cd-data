@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "auslex",
+    "clothes",
+    "bodypart",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "hat.head.1a",
+  "oldentry": "",
+  "english": [
+    "head",
+    "hat"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To touch or pat one's head.",
+    "2. To wear or put on a hat."
+  ],
+  "cf": [
+    "face.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. The cost or amount for each person. English = a head, per person."
+  ],
+  "nomlex": [
+    "1. The part of your body which has your eyes, mouth, and brain in it. English = head.",
+    "2. A covering that you wear on your head, especially when you are outside. Used particularly, but not exclusively, for head wear worn by women. English = hat."
+  ],
+  "signNumber": 3121,
+  "recordNumber": 1803,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 1,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "cap.1a"
+  ]
+}

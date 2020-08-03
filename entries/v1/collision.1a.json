@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "collision.1a",
+  "oldentry": "Popular explanation: two objects crashing into each other.",
+  "english": [
+    "collision",
+    "accident",
+    "car accident",
+    "smash",
+    "crash",
+    "collide"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of two moving objects, especially cars, to hit into each other. English = collide.",
+    "2. Of a car, to hit something or another moving car by chance or unintentionally. English = crash, smash, have an accident."
+  ],
+  "cf": [
+    "plane.crash"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The fact of two moving objects, especially cars, hitting each other. English = collision.",
+    "2. An event that happens by chance or unintentionally, when a car hits something or another moving car. English = accident, car accident, smash, crash."
+  ],
+  "signNumber": 5860,
+  "recordNumber": 3486,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

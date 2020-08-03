@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "blend",
+    "auslex",
+    "foods",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "TASTE + GOOD",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "delicious.2",
+  "oldentry": "",
+  "english": [
+    "delicious",
+    "tasty"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a very pleasant taste. English = (be) delicious.",
+    "2. To be enjoyable because it has a pleasant flavour. English = (be) tasty."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 5107,
+  "recordNumber": 3081,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "taste.bad.1",
+    "disgusting"
+  ],
+  "synonyms": [
+    "delicious.1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cooperate",
+  "oldentry": "",
+  "english": [
+    "cooperation",
+    "fellowship",
+    "friendship",
+    "mateship",
+    "agreement",
+    "accord",
+    "cooperate",
+    "agree",
+    "harmonise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To work or act together with other people for a purpose. English = cooperate.",
+    "2. To share the same idea or opinion with a number of people. English = agree, harmonise."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of working or acting together with other people for a purpose. English = cooperation.",
+    "2. The feeling of friendship people have when they are doing something together. English = fellowship, friendship, mateship.",
+    "3. The same opinion or idea about something shared between several people. English = agreement, accord."
+  ],
+  "signNumber": 4833,
+  "recordNumber": 2919,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 6.1,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "disagree",
+    "argue"
+  ],
+  "synonyms": [
+    "co-ordinate"
+  ]
+}

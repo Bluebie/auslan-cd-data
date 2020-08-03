@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "sports",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "win.1a",
+  "oldentry": "",
+  "english": [
+    "winner",
+    "win",
+    "achieve"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To defeat the person or group you are fighting, playing against or arguing with. English = win.",
+    "2. To succeed in doing something or causing it to happen, usually after a lot of effort. English = achieve."
+  ],
+  "cf": [
+    "celebrate.1a",
+    "beat.2a",
+    "defeat.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The person who wins a prize, race or competition. English = winner."
+  ],
+  "signNumber": 2426,
+  "recordNumber": 1344,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 13,
+  "secondLocation": null,
+  "antonyms": [
+    "lose.1a"
+  ],
+  "synonyms": []
+}

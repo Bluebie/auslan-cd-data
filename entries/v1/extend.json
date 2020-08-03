@@ -1,0 +1,71 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "extend",
+  "oldentry": "",
+  "english": [
+    "extension",
+    "addition",
+    "extend",
+    "additional",
+    "extra"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To add a new room or building to an existing building. English = extend.",
+    "2. To make something longer or bigger, especially by moving a boundary marking, fence or wall. English = extend.",
+    "3. To allow more time in which some activity is to be completed; to give an extension; to give additional time.",
+    "4. To be something which is added on to a space, building or period of time. English = (be) additional, (be) extra."
+  ],
+  "cf": [
+    "increase.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A new room or building which is added to an existing building. English = extension.",
+    "2. An increase in the size of something created by moving a boundary marking, fence or wall. English = extension.",
+    "3. An increase in the amount of time in which some activity is to be completed, made by moving the deadline further into the future. English = extension.",
+    "4. Something which is added to a space, building or period of time. English = addition."
+  ],
+  "signNumber": 4170,
+  "recordNumber": 2519,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "shorten.1a"
+  ],
+  "synonyms": [
+    "more.1",
+    "delay"
+  ]
+}

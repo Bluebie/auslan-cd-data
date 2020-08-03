@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "questlex",
+    "auslex",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [
+    "1. Used to ask questions about the time at which things happen. Found at the beginning, end or at both the beginning and end of the question. English = when."
+  ],
+  "idgloss": "when",
+  "oldentry": "",
+  "english": [
+    "when",
+    "while",
+    "during"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "how.much.1a",
+    "how.old",
+    "number.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used to introduce an expression of time that specifies the time at which something happens. English = when, while, during."
+  ],
+  "nomlex": [],
+  "signNumber": 2456,
+  "recordNumber": 1364,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "while.1a",
+    "through.1a"
+  ]
+}

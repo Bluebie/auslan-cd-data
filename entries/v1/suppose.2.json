@@ -1,0 +1,76 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "interj1",
+    "interj2",
+    "auslex",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "suppose.2",
+  "oldentry": "",
+  "english": [
+    "assumption",
+    "pretence",
+    "estimate",
+    "estimation",
+    "assume",
+    "pretend",
+    "if",
+    "suppose"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To think that something is true, sometimes wrongly. English = assume, pretend, estimate.",
+    "2. To act or behave in a way that is intended to make people believe something that is not true. English = pretend.",
+    "3. To make an approximate calculation. English = estimate."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone in response to an invitation to mean that you are happy or willing to accept because you can see no reason not to. English = 'Why not?!', 'Let's give it a go!'"
+  ],
+  "partlex": [
+    "1. Used at the beginning of a sign sentence to mean that the action in that sentence is not real or actual, but you are going to pretend it is and see what that means. You know a past action did not happen, a current action is not happening,",
+    "or a future action has not happened yet, but you talk about it anyway. English = if."
+  ],
+  "nomlex": [
+    "1. The idea that something is true, sometimes wrongly. English = assumption.",
+    "2. An action or way of behaving that is intended to make people believe something that is not true. English = pretence.",
+    "3. An approximate calculation, or the result obtained by such a calculation; a judgement which you make about a person or situation. English = estimate, estimation."
+  ],
+  "signNumber": 4734,
+  "recordNumber": 2860,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "promise.2"
+  ],
+  "synonyms": [
+    "pretend.1a"
+  ]
+}

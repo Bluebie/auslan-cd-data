@@ -1,0 +1,81 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "blend",
+    "auslex",
+    "feelings",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "TASTE + 'NOT'",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dislike.2",
+  "oldentry": "",
+  "english": [
+    "dislike",
+    "distaste",
+    "detestation",
+    "loathing",
+    "hatred",
+    "aversion",
+    "dislikes",
+    "detest",
+    "loathe",
+    "hate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To think that someone or something is unpleasant; to not like someone or something, especially types of food. English = dislike.",
+    "2. To dislike something very much, especially types of food. English = detest, loathe, hate.",
+    "3. To avoid something unpleasant.",
+    "4. To push food you find distasteful away from your mouth or to simply avoid such food."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The feeling of not liking something and thinking it is unpleasant, especially types of food. English = dislike, distaste.",
+    "2. The strong feeling of not liking something and thinking it is unpleasant, particularly types of food. English = detestation, loathing, hatred.",
+    "3. The avoiding of something very unpleasant; or the rejection of food you find unpleasant. English = aversion.",
+    "4. The things that you do not like, especially types of food. English = dislikes."
+  ],
+  "signNumber": 614,
+  "recordNumber": 354,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "favourite.1",
+    "like.1a",
+    "like.2a"
+  ],
+  "synonyms": [
+    "dislike.1"
+  ]
+}

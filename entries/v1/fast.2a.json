@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "reglex",
+    "nth",
+    "quantity",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fast.2a",
+  "oldentry": "",
+  "english": [
+    "speed",
+    "rapidity",
+    "speeding",
+    "fast",
+    "rush"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move, do something, or happen with great speed or very quickly. English = (be) fast, go fast, rush, speed."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The moving, doing or happening of something very quickly. English = speed, rapidity.",
+    "2. The act of moving very fast in a vehicle, usually a car, so that you are over the legal speed limit. English = speeding."
+  ],
+  "signNumber": 4182,
+  "recordNumber": 2529,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "slow.1a"
+  ],
+  "synonyms": [
+    "fast.1",
+    "quick.1a"
+  ]
+}

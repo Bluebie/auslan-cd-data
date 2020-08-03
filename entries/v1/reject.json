@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "reject",
+  "oldentry": "",
+  "english": [
+    "rejection",
+    "scraps",
+    "reject",
+    "rejected",
+    "exclude"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not accept or not agree to a proposal or a request; to be not accepted or agreed to. English = reject; (be) rejected.",
+    "2. To brush something off a surface, especially food scraps off a plate.",
+    "3. To deliberately not include something by preventing it from entering a place or from taking part in an activity. English = exclude."
+  ],
+  "cf": [
+    "delay"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of not accepting or not agreeing to a proposal or a request. English = rejection.",
+    "2. Pieces of unwanted food which are thrown away or given to animals. English = scraps."
+  ],
+  "signNumber": 4296,
+  "recordNumber": 2614,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "accept.1a",
+    "keep.1a"
+  ],
+  "synonyms": [
+    "dismiss"
+  ]
+}

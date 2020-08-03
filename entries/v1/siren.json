@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "siren",
+  "oldentry": "",
+  "english": [
+    "alarm",
+    "siren",
+    "wail"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a visual alarm, to warn people of danger by spinning and lighting up.",
+    "2. Of an audible alarm, to make a loud noise. English = wail."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A warning device which consists of a rapidly rotating and flashing light (usually red) attached inside buildings onto ceilings or walls. It lights and spins when there is an alarm. English = visual alarm.",
+    "2. A warning device which consists of a rapidly rotating and flashing light (usually red) on the top of emergency vehicles (fire, police, etc). It lights and spins when there is an alarm. English = visual alarm.",
+    "3. A warning device which consists of a rapidly rotating and flashing light (usually red) and a long, loud, wailing noise. It is usually located on the top of emergency vehicles (fire, police, etc). English = siren.",
+    "4. A warning device that makes a long, loud, wailing noise when there is an alarm. English = siren."
+  ],
+  "signNumber": 565,
+  "recordNumber": 325,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

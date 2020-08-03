@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "foods",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "spaghetti.1a",
+  "oldentry": "Popular explanation: using a fork to scoop up spaghetti.",
+  "english": [
+    "spaghetti",
+    "pasta"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To eat spaghetti by twisting it around a fork and lifting the fork towards your mouth."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A type of food made from pasta. It looks like long pieces of string and is usually served with a sauce. English = spaghetti.",
+    "2. A type of food made from a mixture of flour, eggs, and water that is formed into different shapes. Spaghetti, macaroni, and noodles are types of pasta. English = pasta."
+  ],
+  "signNumber": 2283,
+  "recordNumber": 1288,
+  "signVisualComposition": "",
+  "activeHandShape": 3.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "spaghetti.2a"
+  ]
+}

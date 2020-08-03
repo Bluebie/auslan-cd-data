@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "utensils",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "telecommun",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "camera.2",
+  "oldentry": "Popular explanation: holding a camera and depressing the shutter button.",
+  "english": [
+    "camera",
+    "photograph"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take a picture using a camera."
+  ],
+  "cf": [
+    "photo.1a",
+    "photo.2",
+    "photo.3"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A piece of equipment that is used for taking photographs. English = camera.",
+    "2. A picture which is made by using a camera. English = photograph."
+  ],
+  "signNumber": 5361,
+  "recordNumber": 3202,
+  "signVisualComposition": "",
+  "activeHandShape": 7.2,
+  "passiveHandShape": 7.2,
+  "primaryLocation": 4,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "camera.1"
+  ]
+}

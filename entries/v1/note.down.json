@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "note.down",
+  "oldentry": "",
+  "english": [
+    "notes",
+    "records",
+    "report",
+    "minutes",
+    "note"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To write down information about someone or something in an official or semi-official capacity; to make a record; to take notes; report, make a report.",
+    "2. To write down information about what has been said, done or agreed to during a meeting; to record the minutes of a meeting; to take the minutes of a meeting."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Information which is written down about someone or something in an official or semi-official capacity. English = notes, records, report.",
+    "2. Information which is written down about things which have been said, done or agreed to during a meeting. English = minutes.",
+    "3. A person whose job is to write down the things which have been said, done or agreed to during a meeting. English = minutes secretary."
+  ],
+  "signNumber": 2153,
+  "recordNumber": 1246,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "minute.2a"
+  ]
+}

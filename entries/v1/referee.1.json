@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "sports",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "referee.1",
+  "oldentry": "Popular explanation: holding and blowing a whistle.",
+  "english": [
+    "referee",
+    "umpire"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To control a game and to make sure that it is played fairly and according to the rules. English = referee, umpire."
+  ],
+  "cf": [
+    "whistle.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The person who controls a football game or a boxing or wrestling match. English = referee.",
+    "2. The person whose job is to make sure that a game is played fairly and that the rules are not broken. English = umpire."
+  ],
+  "signNumber": 5445,
+  "recordNumber": 3241,
+  "signVisualComposition": "",
+  "activeHandShape": 7.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "referee.2"
+  ]
+}

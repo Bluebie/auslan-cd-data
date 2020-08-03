@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "blend",
+    "auslex",
+    "quality",
+    "twohand",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "SAY + PEACE",
+  "queries": "A common variant of this sign is produced without the initial Point handshape (i.e., it is made with two Okay handshapes throughout).",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "quiet.2a",
+  "oldentry": "",
+  "english": [
+    "quiet",
+    "silence",
+    "peace",
+    "quieten"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make only a small amount of noise. English = (be) quiet.",
+    "2. To become less noisy, less active, and more calm. English = quieten down.",
+    "3. To make a person, animal or thing become less noisy, less active and more calm. English = quieten."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A state or condition in which there is little or no noise or activity. English = quiet, silence.",
+    "2. The situation in which you are not being disturbed and you are in calm, quiet surroundings. English = peace.",
+    "3. The situation in which there is no war or conflict between countries. English = peace."
+  ],
+  "signNumber": 1121,
+  "recordNumber": 659,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0.2,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "noise.1a",
+    "busy.1"
+  ],
+  "synonyms": [
+    "silence",
+    "quiet.1a"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "play.1a",
+  "oldentry": "",
+  "english": [
+    "play",
+    "act"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of children, to spend time with toys, taking part in games or acting out imaginary situations and roles. English = play.",
+    "2. Of actors, to take on a role of a character in a play. English = play, act.",
+    "3. To take part in a sport. English = play."
+  ],
+  "cf": [
+    "break"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Time spent by children with toys or taking part in games or acting out imaginary situations and roles. English = play.",
+    "2. A piece of theatre, performed or written. English = play."
+  ],
+  "signNumber": 3852,
+  "recordNumber": 2289,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "work.1a"
+  ],
+  "synonyms": [
+    "theatre",
+    "perform.1a",
+    "act"
+  ]
+}

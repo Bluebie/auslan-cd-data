@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "reglex",
+    "tas",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "mistake.4",
+  "oldentry": "",
+  "english": [
+    "mistake",
+    "mistaken",
+    "fool",
+    "miss"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do or think something that is wrong. English = make a mistake.",
+    "2. To have done or thought something that is wrong. English = (be) mistaken.",
+    "3. To make someone appear silly by tricking them in some way. English = fool.",
+    "4. To feel sad that someone is no longer with you, or that you no longer have something or experience it. English = miss."
+  ],
+  "cf": [
+    "miss.1a",
+    "deceive"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An action or an opinion that is wrong. English = mistake."
+  ],
+  "signNumber": 1568,
+  "recordNumber": 935,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 12,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "mistake.1",
+    "mistake.2",
+    "mistake.3"
+  ]
+}

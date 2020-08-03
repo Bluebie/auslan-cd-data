@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "comp",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "invent.2",
+  "oldentry": "",
+  "english": [
+    "invention",
+    "discovery",
+    "innovation",
+    "invent",
+    "discover",
+    "innovate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To think of or make something for the first time. English = invent, discover. Informal English = come up with something.",
+    "2. To introduce changes and new ideas. English = innovate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A machine, system (or even idea) that has been thought of or made for the first time by someone. English = invention, discovery.",
+    "2. A new thing or a new way of doing something. English = innovation."
+  ],
+  "signNumber": 518,
+  "recordNumber": 289,
+  "signVisualComposition": "THINK + FIRST",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "invent.1a",
+    "find.1a",
+    "find.2"
+  ]
+}

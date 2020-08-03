@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "money",
+    "shop",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "profit.1a",
+  "oldentry": "",
+  "english": [
+    "profit",
+    "collection",
+    "fund-raising",
+    "earnings",
+    "collect",
+    "raise funds",
+    "earn"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To benefit or gain something (usually by selling something for more money that it cost you to get or make). English = profit.",
+    "2. To bring together a number of things from different places. English = collect.",
+    "3. To collect money from lots of different people; to raise funds.",
+    "4. To get money for work or a service you provide. English = earn."
+  ],
+  "cf": [
+    "collect.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An amount of money that you gain when you are paid more for something than it cost you to make, get, or do. English = profit.",
+    "2. The activity of bringing together things from different places. English = collection.",
+    "3. The activity of collecting money for a particular purpose or organisation. English = fund-raising.",
+    "4. The money you get for performing work or providing a service. English = earnings."
+  ],
+  "signNumber": 4305,
+  "recordNumber": 2623,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "bankrupt"
+  ],
+  "synonyms": [
+    "profit.2a",
+    "pocket",
+    "profit.3a"
+  ]
+}

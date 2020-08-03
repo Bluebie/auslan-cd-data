@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "educate",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "certificate.2",
+  "oldentry": "",
+  "english": [
+    "certificate",
+    "form",
+    "certify",
+    "certificated"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give someone a certificate stating that they have successfully completed a course of study or training. English = certify.",
+    "2. To be given or awarded a certificate. English = (be) certificated."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An official document that you receive when you have successfully completed a course of study or training. English = certificate.",
+    "2. A piece of paper with questions on it. You write the answers on the same piece of paper. English = form."
+  ],
+  "signNumber": 1451,
+  "recordNumber": 864,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 1.2,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "certificate.1a",
+    "form.1"
+  ]
+}

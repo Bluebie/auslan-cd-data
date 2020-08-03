@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "utensils",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "spanner.1a",
+  "oldentry": "Popular explanation: using a spanner.",
+  "english": [
+    "spanner",
+    "wrench",
+    "mechanic",
+    "plumber",
+    "electrician",
+    "fix"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To adjust something with a spanner or wrench.",
+    "2. To repair something mechanical (eg, an engine) or something connected to the water or electricity supply. English = fix."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A metal tool with a specially shaped end that fits around a nut so that you can loose or tighten the nut. English = spanner, wrench.",
+    "2. Someone whose job is to repair and maintain machines and engines. English = mechanic.",
+    "3. A person whose job is to connect and repair things, such as water and drainage pipes, baths, and toilets. English = plumber.",
+    "4. A person whose job is to install and repair electrical equipment. English = electrician."
+  ],
+  "signNumber": 1681,
+  "recordNumber": 1005,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "fix.2",
+    "fix.1a"
+  ]
+}

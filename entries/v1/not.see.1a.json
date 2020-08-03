@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "comp",
+    "enddir",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.see.1a",
+  "oldentry": "",
+  "english": [
+    "not see",
+    "overlook"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have not seen or noticed something.",
+    "2. To not notice something or not realise its importance. English = overlook."
+  ],
+  "cf": [
+    "catch.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 555,
+  "recordNumber": 320,
+  "signVisualComposition": "SEE + 'NOT'",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 7,
+  "secondLocation": null,
+  "antonyms": [
+    "see.1a",
+    "look.at.1a",
+    "capture.2"
+  ],
+  "synonyms": [
+    "overlook",
+    "untried"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "reglex",
+    "nth",
+    "health",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dentist.3a",
+  "oldentry": "",
+  "english": [
+    "dentist",
+    "filling"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a filling in a tooth."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who is qualified to treat people's teeth. English = dentist.",
+    "2. A small amount of metal or plastic that a dentist puts in a hole in a tooth. English = filling."
+  ],
+  "signNumber": 6578,
+  "recordNumber": 3922,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "dentist.1",
+    "dentist.2"
+  ]
+}

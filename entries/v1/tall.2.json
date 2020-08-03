@@ -1,0 +1,67 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tall.2",
+  "oldentry": "",
+  "english": [
+    "height",
+    "tower block",
+    "skyscraper",
+    "tall",
+    "high",
+    "tower"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be a very large distance from top to bottom. English = (be) tall, (be) high.",
+    "2. To become larger by growing or being built upwards.",
+    "3. To be a lot taller than other people, buildings or things. English = tower (over)."
+  ],
+  "cf": [
+    "broad.1a",
+    "factory.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The large vertical distance from the bottom to the top of a usually upright object. English = height.",
+    "2. A very tall building in a city which is divided into flats or offices. English = tower block, skyscraper."
+  ],
+  "signNumber": 4863,
+  "recordNumber": 2940,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 6.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "short"
+  ],
+  "synonyms": [
+    "tall.1a"
+  ]
+}

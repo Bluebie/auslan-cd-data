@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "order",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "final",
+  "oldentry": "",
+  "english": [
+    "final",
+    "finalise",
+    "finish"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be last in a series of things or events. English = (be) final.",
+    "2. To complete all the arrangements for something. English = finalise.",
+    "3. To come to the last part of something, especially work, so that there is no more to do. English = finish, finish up.",
+    "4. To turn off all the machinery and lights, and close and lock all the windows and doors before leaving; to close and lock all the windows and doors before leaving."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The last game or contest in a competition or sporting event. English = final."
+  ],
+  "signNumber": 4163,
+  "recordNumber": 2514,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "first.1a",
+    "first.2a",
+    "open"
+  ],
+  "synonyms": [
+    "last.1",
+    "end.1a"
+  ]
+}

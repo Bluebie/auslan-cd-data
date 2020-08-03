@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "gensign",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "Of two people, for one person to suddenly change direction and to move away from the other person, or any action or any thing directly or indirectly associated with this, especially avoid.",
+  "questlex": [],
+  "idgloss": "avoid.3a",
+  "oldentry": "",
+  "english": [
+    "avoidance",
+    "avoid",
+    "dodge",
+    "evade",
+    "duck"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To keep away from someone so that you do not meet them. English = avoid.",
+    "2. To move suddenly so as to change direction and avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something. English = dodge, evade, duck."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of keeping away from someone so that you do not meet them. English = avoidance.",
+    "2. A quick movement or a sudden change in direction so as to avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something."
+  ],
+  "signNumber": 918,
+  "recordNumber": 523,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [
+    "meet.1a",
+    "capture.2"
+  ],
+  "synonyms": [
+    "avoid.1a",
+    "avoid.2",
+    "duck.2"
+  ]
+}

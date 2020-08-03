@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "blend",
+    "auslex",
+    "lingact",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "N + O",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "refuse.1a",
+  "oldentry": "",
+  "english": [
+    "refusal",
+    "refuse",
+    "decline"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say firmly that you will not do or accept something. English = refuse, decline."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The action of someone who says firmly that they will not do or accept something. English = refusal."
+  ],
+  "signNumber": 2144,
+  "recordNumber": 1240,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "yes.1a",
+    "confirm.1a"
+  ],
+  "synonyms": [
+    "no.1a",
+    "no.2"
+  ]
+}

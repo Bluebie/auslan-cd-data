@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "reglex",
+    "nth",
+    "foods",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fish.2",
+  "oldentry": "",
+  "english": [
+    "fish",
+    "seafood"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A creature that lives in water and has a tail and fins. English = fish.",
+    "2. The flesh of a fish eaten as food. English = fish.",
+    "3. Shellfish such as mussels, lobsters, and crabs, and other sea creatures that you can eat. English = seafood."
+  ],
+  "signNumber": 2474,
+  "recordNumber": 1373,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "fish.1a",
+    "fish.3"
+  ]
+}

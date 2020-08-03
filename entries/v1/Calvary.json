@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "restrict",
+    "religion",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "Calvary",
+  "oldentry": "",
+  "english": [
+    "Calvary",
+    "Golgotha",
+    "cross",
+    "crucifix"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "crucifixion"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The place where Jesus Christ was crucified. English = Calvary, Golgotha.",
+    "2. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
+    "3. A cross with a figure of Christ on it. English = crucifix."
+  ],
+  "signNumber": 4533,
+  "recordNumber": 2748,
+  "signVisualComposition": "",
+  "activeHandShape": 5.5,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "crucifix"
+  ]
+}

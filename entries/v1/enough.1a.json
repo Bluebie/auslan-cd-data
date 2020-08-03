@@ -1,0 +1,71 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "judge",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "enough.1a",
+  "oldentry": "",
+  "english": [
+    "sufficiency",
+    "adequacy",
+    "enough",
+    "sufficient",
+    "adequate",
+    "excess",
+    "plenty"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be as much of something that you need or want or you feel is necessary. English = (be) enough, (be) sufficient, (be) adequate.",
+    "2. [Often with stress and a 'negative' facial expression] to be a lot of something, more than enough, more than you really need or more than is necessary. English = (be) plenty."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The amount of something that is as much as you need or want, or is as much as is necessary. English = sufficiency, adequacy.",
+    "2. [Often with stress and a 'negative' facial expression] an amount of something that is more than you need or is more than is necessary. English = excess."
+  ],
+  "signNumber": 4882,
+  "recordNumber": 2950,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 6.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "not.enough",
+    "little.1a",
+    "few.1a"
+  ],
+  "synonyms": [
+    "full",
+    "lot.1a",
+    "big.2a"
+  ]
+}

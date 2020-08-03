@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "sym",
+    "para",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "light.weight",
+  "oldentry": "Popular explanation: lifting some light object.",
+  "english": [
+    "light",
+    "lightweight"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not weigh very much. English = (be) light.",
+    "2. To be not very much in amount, degree, or intensity. English = (be) light.",
+    "3. To weigh less than most other things of the same type. English = (be) lightweight."
+  ],
+  "cf": [
+    "ignite"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The degree to which something is not very heavy; the lack of weight of something."
+  ],
+  "signNumber": 2786,
+  "recordNumber": 1561,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "heavy.1a"
+  ],
+  "synonyms": []
+}

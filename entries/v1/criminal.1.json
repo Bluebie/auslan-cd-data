@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "auslex",
+    "onehand",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "criminal.1",
+  "oldentry": "",
+  "english": [
+    "criminal",
+    "scoundrel",
+    "cut-throat",
+    "crime",
+    "Mafia"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who has committed a crime. English = criminal, scoundrel, cut-throat.",
+    "2. An illegal action for which a person can be punished by law. English = crime.",
+    "3. The secret criminal organisation that was founded in Sicily and organises many illegal activities in the US and around the world. English = Mafia."
+  ],
+  "signNumber": 6583,
+  "recordNumber": 3925,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 12,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "criminal.2"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "interj1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "no.1a",
+  "oldentry": "Popular explanation: shaking the head.",
+  "english": [
+    "denial",
+    "refusal",
+    "rejection",
+    "disqualification",
+    "deny",
+    "refuse",
+    "reject",
+    "disqualify"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To shake your head side to side as a way of indicating your answer or response to something is 'no'; to say no.",
+    "2. To say that something is not true, especially when it has been claimed to be true of you. English = deny.",
+    "3. To not give someone permission to do something or reject an offer of something. English = refuse, reject.",
+    "4. To officially stop someone from taking part in an event, activity, or competition because they have broken a law or rule. English = disqualify."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to say that something is not true, to refuse an offer, or to refuse permission. English = 'No!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. A statement in which you say something is not true, usually be shaking you head side to side.",
+    "2. A statement in which you say something is not true, especially when it has been claimed to be true of you. English = denial.",
+    "3. A rejection of an offer. English = refusal, rejection.",
+    "4. The act of stopping someone from taking part in a event, activity, or competition because they have broken a law or rule. English = disqualification."
+  ],
+  "signNumber": 5941,
+  "recordNumber": 3538,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "yes.1a"
+  ],
+  "synonyms": [
+    "refuse.1a",
+    "deny",
+    "disallow"
+  ]
+}

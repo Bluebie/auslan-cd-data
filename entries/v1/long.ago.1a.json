@@ -1,0 +1,70 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "doublehnd",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "long.ago.1a",
+  "oldentry": "",
+  "english": [
+    "history",
+    "olden",
+    "ancient",
+    "historical",
+    "formerly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go back in time to the distant past.",
+    "2. To belong to the distant past and no longer the present; to be very old, to belong to the distant past. English = (be) olden, (be) ancient.",
+    "3. To relate to history. English = (be) historical."
+  ],
+  "cf": [
+    "continue.1a",
+    "from.long.ago"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used after time signs and/or at the beginning of a signed sentence to set the time frame of the action a long time in the past. English = formerly, long ago, of old, in times past, in the olden times.",
+    "2. Used at the beginning of a story to introduce it. English = once upon a time."
+  ],
+  "nomlex": [
+    "1. The period of time long before the present; a period of time in the distant past; olden times; olden days.",
+    "2. Events in the past. English = history.",
+    "3. A subject studied in schools, colleges, and universities that deals with the past. English = history."
+  ],
+  "signNumber": 3575,
+  "recordNumber": 2097,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 8,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "history.1",
+    "old"
+  ]
+}

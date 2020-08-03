@@ -1,0 +1,41 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "ant1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "many.before",
+  "oldentry": "",
+  "english": [
+    "before"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used to mean that an action happens at some time and also happened before that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.).",
+    "2. Used to mean that an action happened at some time in the past and also happened before that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.)."
+  ],
+  "nomlex": [],
+  "signNumber": 2822,
+  "recordNumber": 1583,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "not.prior.to"
+  ],
+  "synonyms": []
+}

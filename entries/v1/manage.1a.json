@@ -1,0 +1,75 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "manage.1a",
+  "oldentry": "",
+  "english": [
+    "management",
+    "manager",
+    "arrangement",
+    "manage",
+    "organise",
+    "arrange",
+    "deal",
+    "transaction",
+    "deal with"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be responsible for controlling an organisation, business, or system. English = manage.",
+    "2. To make all the arrangements for an activity or event; to plan or control an activity or event. English = organise.",
+    "3. To make plans for an event or meeting to happen. English = arrange.",
+    "4. Of a situation or problem, to do what is necessary to achieve the result you want; of a theory or idea, to be able to explain a particular event or thing. English = deal with."
+  ],
+  "cf": [
+    "scrimp"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The responsibility for and actions involved in controlling an organisation, business, or system. English = management.",
+    "2. The person or people responsible for controlling an organisation, business, or system. English = manager, management",
+    "3. The plans for an event or meeting to happen. English = arrangement, arrangements.",
+    "4. An agreement or arrangement that is made, especially in business. English = deal, transaction."
+  ],
+  "signNumber": 3761,
+  "recordNumber": 2223,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "agree.1a"
+  ]
+}

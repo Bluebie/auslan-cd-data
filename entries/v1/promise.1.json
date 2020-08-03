@@ -1,0 +1,81 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "interj1",
+    "interj2",
+    "auslex",
+    "lingact",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "promise.1",
+  "oldentry": "Popular explanation: culturally shared gesture of promising.",
+  "english": [
+    "promise",
+    "vow",
+    "commitment",
+    "oath",
+    "honesty",
+    "honest",
+    "honestly",
+    "truthfully"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say to someone that you will definitely do something, or definitely give them something. English = promise, vow, make a commitment.",
+    "2. To be completely truthful about something and not hide anything. English = (be) honest.",
+    "."
+  ],
+  "cf": [
+    "swear.1a",
+    "oath.2"
+  ],
+  "interj": [
+    "1. Used alone in response to a question about your intention to do something to mean that you will definitely do it. English = 'Promise!', 'I promise!', 'I swear!' and so on.",
+    "2. Used alone in response to a question about the truthfulness of what you have said to mean that what you have said is completely true and that you have been honest. English = 'Honestly!', 'Honest to God!', 'Cross my heart and hope to die!'"
+  ],
+  "partlex": [
+    "1. Used at the beginning of a sentence to mean that what you are about to say is completely truthful. English = honestly, truthfully, to tell you the truth."
+  ],
+  "nomlex": [
+    "1. A statement which you make to someone in which you say that you will definitely do something or give them something. English = promise, vow, commitment",
+    "2. A formal promise, particularly a formal promise to tell the truth in a court. English = oath.",
+    "3. The quality of being honest. English = honesty."
+  ],
+  "signNumber": 673,
+  "recordNumber": 392,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "oath.1a",
+    "promise.2",
+    "promise.3"
+  ]
+}

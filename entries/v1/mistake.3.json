@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "mistake.3",
+  "oldentry": "",
+  "english": [
+    "misunderstanding",
+    "misunderstand"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To fail to understand something such as a situation or a person's remarks without realising the mistake immediately; to talk at cross purposes.",
+    "2. To make a foolish mistake based on a misunderstanding.",
+    "3. To completely miss the point of what someone is saying.",
+    "4. To not understand what someone is saying or doing. English = misunderstand."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The failure to understand something such as a situation or a person's remarks. English = misunderstanding.",
+    "2. A foolish mistake based on a misunderstanding."
+  ],
+  "signNumber": 882,
+  "recordNumber": 505,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "misunderstand.1"
+  ]
+}

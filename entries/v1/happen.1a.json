@@ -1,0 +1,75 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "happen.1a",
+  "oldentry": "",
+  "english": [
+    "happening",
+    "event",
+    "occurrence",
+    "contingency",
+    "opportunity",
+    "chance",
+    "happen",
+    "occur",
+    "appearance",
+    "appear"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take place without being planned. English = happen, occur.",
+    "2. Of something that you could not see before, to move to a position where it can be seen. English = appear."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that takes place or happens. English = happening, event, occurrence.",
+    "2. Something that might take place in the future. Formal English = contingency.",
+    "3. A situation in which it is possible for you to do something that you want to do. English = opportunity, chance.",
+    "4. The action by which something that you could not see before moves to a position where it can be seen. English = appearance."
+  ],
+  "signNumber": 1239,
+  "recordNumber": 732,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "not.happen"
+  ],
+  "synonyms": [
+    "pop.up.1a",
+    "unexpected",
+    "approach.time.1a"
+  ]
+}

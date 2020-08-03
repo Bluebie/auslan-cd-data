@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "bodyact",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "wake",
+  "oldentry": "Popular explanation: opening one's eyes.",
+  "english": [
+    "wakefulness",
+    "consciousness",
+    "wake",
+    "awaken",
+    "awake",
+    "conscious",
+    "aware"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To become conscious again after being asleep. English = wake, wake up, awaken.",
+    "2. To not be asleep. English = (be) awake, (be) conscious.",
+    "3. To realise that something is present or is happening because you hear it, see it, smell it, or feel it. English = (be) aware, (be) conscious."
+  ],
+  "cf": [
+    "alert.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The state of not being asleep. English = wakefulness, consciousness."
+  ],
+  "signNumber": 6338,
+  "recordNumber": 3783,
+  "signVisualComposition": "",
+  "activeHandShape": 11.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 4,
+  "secondLocation": null,
+  "antonyms": [
+    "sleep.1a",
+    "sound.asleep"
+  ],
+  "synonyms": []
+}

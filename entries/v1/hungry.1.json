@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "reglex",
+    "nth",
+    "bodyact",
+    "drinks",
+    "doublehnd",
+    "sym",
+    "para",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "hungry.1",
+  "oldentry": "",
+  "english": [
+    "starvation",
+    "hunger",
+    "starve",
+    "starving",
+    "hungry"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To suffer greatly from a lack of food and sometimes die. English = starve, go hungry.",
+    "2. To be suffering and even dying from a lack of food. English = (be) starving.",
+    "3. To want to eat food very much. English = (be) hungry. Informal English = (be) starving."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Extreme suffering or death caused by lack of food. English = starvation.",
+    "2. The desire to eat food. English = hunger."
+  ],
+  "signNumber": 3942,
+  "recordNumber": 2350,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "hungry.2a"
+  ]
+}

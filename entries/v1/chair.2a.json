@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "interj1",
+    "auslex",
+    "furn",
+    "doublehnd",
+    "sym",
+    "para",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "chair.2a",
+  "oldentry": "Popular explanation: one thing placed on another.",
+  "english": [
+    "seat",
+    "chair",
+    "stool",
+    "sit",
+    "seated"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To support the weight of your body by resting your buttocks on a chair or seat with the upper part of your body upright. English = sit, sit down; (be) seated."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone to sit down. English = 'Sit down!', 'Do be seated!' and so on."
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. A object or a piece of furniture for people to sit on. English = seat, chair, stool.",
+    "2. A place in a theatre or cinema from where you watch the performance. English = seat."
+  ],
+  "signNumber": 3881,
+  "recordNumber": 2308,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "stand.1a"
+  ],
+  "synonyms": [
+    "chair.1",
+    "sit.on",
+    "sit.opposite"
+  ]
+}

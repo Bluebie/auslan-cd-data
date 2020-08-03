@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "lingact",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "negotiate",
+  "oldentry": "",
+  "english": [
+    "negotiation",
+    "negotiate",
+    "persuade"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To reach an agreement or make a deal, or to obtain or organise something, by having discussions with other people. English = negotiate.",
+    "2. To try to cause someone to do something by giving them good reasons for doing it, usually by talking to them. English = persuade."
+  ],
+  "cf": [
+    "fix.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Discussions that take place between people with different interests, in which they try to reach an agreement. English = negotiation."
+  ],
+  "signNumber": 156,
+  "recordNumber": 86,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "force.1"
+  ],
+  "synonyms": [
+    "persuade.1a"
+  ]
+}

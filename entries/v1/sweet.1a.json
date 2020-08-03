@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "foods",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sweet.1a",
+  "oldentry": "",
+  "english": [
+    "sweetness",
+    "sweets",
+    "dessert",
+    "sweet",
+    "delicious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have the taste of food or drink with a lot of sugar in it. English = (be) sweet.",
+    "2. To taste good. English = (be) delicious.",
+    "3. Of a person, to be pleasant, gentle and kind to other people. English = (be) sweet."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The taste of food or drink that contains a lot of sugar. English = sweetness.",
+    "2. Something sweet, such as a fruit or pudding, that you eat at the end of a meal. English = sweets, dessert."
+  ],
+  "signNumber": 4742,
+  "recordNumber": 2866,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "taste.bad.2a",
+    "very.sweet",
+    "taste.bad.1"
+  ],
+  "synonyms": [
+    "very.sweet"
+  ]
+}

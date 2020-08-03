@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex4",
+    "reglex",
+    "vic",
+    "colors",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "3",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "purple.2a",
+  "oldentry": "",
+  "english": [
+    "purple",
+    "violet",
+    "mauve"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be or have a reddish-blue colour. English = (be) purple.",
+    "2. To be or have a bluish-purple colour; or to be or have a pale purple colour. English = (be) violet; (be) mauve."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A reddish-blue colour. English = purple.",
+    "2. A bluish-purple colour; or a pale purple colour. English = violet; mauve."
+  ],
+  "signNumber": 3234,
+  "recordNumber": 1880,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "purple.1"
+  ]
+}

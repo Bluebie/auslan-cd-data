@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "work",
+    "shop",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cash.register",
+  "oldentry": "Popular explanation: pressing buttons.",
+  "english": [
+    "cash register",
+    "till",
+    "cashier",
+    "ATM"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To operate a cash register.",
+    "2. To operate an ATM."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A machine in a shop, pub, or restaurant that is used to add up and record how much money people pay, and in which the money is kept. English = cash register, till.",
+    "2. A person customers pay money to or get money from in a shop, bank, or garage. English = cashier.",
+    "3. A machine that is used to withdraw and deposit money from one's bank account. English = automatic teller machine, ATM."
+  ],
+  "signNumber": 2948,
+  "recordNumber": 1675,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

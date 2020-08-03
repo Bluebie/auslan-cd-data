@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "bodyloc",
+    "auslex",
+    "health",
+    "groom",
+    "doublehnd",
+    "domonly",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "lotion",
+  "oldentry": "Popular explanation: a rubbing lotion into the skin.",
+  "english": [
+    "lotion",
+    "moisturiser",
+    "cream",
+    "ointment"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To apply a hand lotion, hand cream, moisturiser or ointment to the skin."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A liquid you use on the skin of your hands. English = hand lotion, hand cream, moisturiser.",
+    "2. A smooth thick substance that is put on sore skin or a wound to help it heal. English = ointment."
+  ],
+  "signNumber": 4048,
+  "recordNumber": 2422,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [],
+  "synonyms": [
+    "rub.1a",
+    "ointment"
+  ]
+}

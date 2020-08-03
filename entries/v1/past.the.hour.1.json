@@ -1,0 +1,40 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "blend",
+    "auslex",
+    "time",
+    "doublehnd",
+    "domonly",
+    "engtf1"
+  ],
+  "sense": "",
+  "blend": "?AFTER-THAT + ?HOUR",
+  "queries": "A variant hand of this can be made with the subordinate Point (G) handshape.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "past.the.hour.1",
+  "oldentry": "",
+  "english": [
+    "past"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used before or after a verb to mean the action takes place 'after the hour' in question, that is after one o'clock, two o'clock etc.",
+    "2. Used with a time sign (a number of minutes) to mean 'the given number of minutes past the hour'."
+  ],
+  "nomlex": [],
+  "signNumber": 4338,
+  "recordNumber": 2642,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

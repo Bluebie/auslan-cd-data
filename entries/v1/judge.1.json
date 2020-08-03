@@ -1,0 +1,73 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "obscure",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "judge.1",
+  "oldentry": "Popular explanation: the wig of a judge.",
+  "english": [
+    "court",
+    "judge",
+    "trial",
+    "lawyer",
+    "solicitor",
+    "barrister",
+    "tried",
+    "legal"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a person, to appear in a court of law and have the judge and jury listen to evidence about a crime and decide if the person is guilty. English = (be) on trial, (be) tried.",
+    "2. Of a person, to decide whether they are good or bad after you have thought about their character, behaviour, and life style. English = judge.",
+    "3. To relate to or be connected to the law. English = (be) legal."
+  ],
+  "cf": [
+    "check.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A place where legal matters are decided by a judge and jury or by a magistrate. English = court.",
+    "2. The person in a court of law who decides how the law should be applied to people, for example how criminals should be punished. English = judge.",
+    "3. The legal process in which a judge and jury decide whether a person is guilty of a particular crime after listening to evidence relating to it. English = trial.",
+    "4. A person who is qualified  to advise people about the law and/or represent them in court. English = lawyer, solicitor, barrister."
+  ],
+  "signNumber": 6616,
+  "recordNumber": 3938,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 15.1,
+  "primaryLocation": 8,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "judge.3"
+  ]
+}

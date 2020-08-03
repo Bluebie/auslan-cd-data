@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "maths",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "divide.1",
+  "oldentry": "Popular explanation: cutting in the middle.",
+  "english": [
+    "division",
+    "divide"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To separate something into two or more different parts; in mathematics, to calculate how many times a small number can go into a large number. English = divide."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of separating something into two or more different parts; the mathematical process of dividing one number by another. English = division."
+  ],
+  "signNumber": 4438,
+  "recordNumber": 2697,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 13.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "multiply"
+  ],
+  "synonyms": [
+    "divide.2",
+    "divide.3"
+  ]
+}

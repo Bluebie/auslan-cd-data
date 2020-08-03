@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "shop",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "auction",
+  "oldentry": "Popular explanation: striking a gavel on a table.",
+  "english": [
+    "auction",
+    "auctioneer"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To sell goods at a public sale to the person who offers the highest price. English = auction."
+  ],
+  "cf": [
+    "bid.1a",
+    "bid.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A public sale of goods where the goods are sold to the person who offers the highest price. English = auction.",
+    "2. A person in charge of an auction. English = auctioneer."
+  ],
+  "signNumber": 6103,
+  "recordNumber": 3629,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

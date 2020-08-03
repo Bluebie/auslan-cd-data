@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "auslex",
+    "drinks",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "delicious.1",
+  "oldentry": "Popular explanation: culturally shared gesture.",
+  "english": [
+    "delicious",
+    "yummy",
+    "scrumptious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a very pleasant taste, to taste good. English = (be) delicious. Informal English = (be) yummy.",
+    "2. To have an extremely pleasant taste, to taste extremely good. English = (be) scrumptious."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to indicate that you like the food you are eating very much, especially to the person who made it or is responsible for it. English = 'Yummy!'"
+  ],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 3485,
+  "recordNumber": 2037,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "taste.bad.1",
+    "taste.bad.2a"
+  ],
+  "synonyms": [
+    "delicious.2"
+  ]
+}

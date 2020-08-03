@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "blend",
+    "auslex",
+    "people",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1"
+  ],
+  "sense": "1",
+  "blend": "TINY + AGE",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "young.1",
+  "oldentry": "",
+  "english": [
+    "youngster",
+    "youth",
+    "teenager",
+    "youth",
+    "young"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be a person, animal, or plant that has not lived or existed for very long and is not yet fully mature. English = (be) young."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who is not old; a young person. English = youngster, youth (especially a male in the teenage years).",
+    "2. A young person between the ages of thirteen and nineteen. English = teenager.",
+    "3. The period in someone's life when they are a child or before they are fully mature. English = youth."
+  ],
+  "signNumber": 1891,
+  "recordNumber": 1130,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 0,
+  "primaryLocation": 5,
+  "secondLocation": null,
+  "antonyms": [
+    "old"
+  ],
+  "synonyms": []
+}

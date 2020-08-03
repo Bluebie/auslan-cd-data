@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "cooking",
+    "doublehnd",
+    "sym",
+    "para",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cook.1a",
+  "oldentry": "Popular explanation: gas flames atop a stove.",
+  "english": [
+    "cook",
+    "chef",
+    "cooking",
+    "stove",
+    "cooker"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To prepare food for eating and then heat it, for example in an oven or in a saucepan. English = cook."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who prepares and cooks food, often as a job. English = cook, chef.",
+    "2. The preparation of food to be eaten. English = cooking.",
+    "3. A large box-shaped device which provides heat for cooking food. English = stove, cooker."
+  ],
+  "signNumber": 3059,
+  "recordNumber": 1756,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "cook.2"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "begindir",
+    "orient",
+    "auslex",
+    "locdir",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "go.in.1a",
+  "oldentry": "",
+  "english": [
+    "inside",
+    "entrance",
+    "entry",
+    "insides",
+    "contents",
+    "enter",
+    "go in",
+    "inside",
+    "internal",
+    "indoors"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move from one side of a place, building, object or container (where you are near but not surrounded by it) to the side in which you are surrounded by it, usually by passing through an opening or entrance. English = enter, go in, go inside.",
+    "2. To be on the side of a place, object or container where you are surrounded by it, usually by having passed through an opening to get there. English = (be) inside, (be) internal.",
+    "3. To be located inside a building. English = (be) indoors."
+  ],
+  "cf": [
+    "pocket",
+    "pouch"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The side of a place, building, object or container where you are surrounded by it. You often get there by passing through an opening designed for this purpose. English = inside.",
+    "2. An opening in an object or building which allows you to go from outside to inside and vice versa. English = entrance, entry.",
+    "3. The things which are located inside an object. English = insides, contents."
+  ],
+  "signNumber": 4092,
+  "recordNumber": 2455,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "participate.1",
+    "participate.2"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "beg.1",
+  "oldentry": "",
+  "english": [
+    "begging",
+    "beggar",
+    "beg"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To ask people to give you food or money because you are very poor. English = beg."
+  ],
+  "cf": [
+    "please.1",
+    "charge.1",
+    "beg.3"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of asking people to give you food or money because you are very poor. English = begging.",
+    "2. A person who asks other people for money or food because they are very poor. English = beggar."
+  ],
+  "signNumber": 3402,
+  "recordNumber": 1988,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "beg.2a"
+  ]
+}

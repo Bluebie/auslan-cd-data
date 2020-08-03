@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "understand.1a",
+  "oldentry": "",
+  "english": [
+    "understanding",
+    "comprehension",
+    "understand",
+    "comprehend"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To know what someone means when they communicate with you. English = understand, comprehend.",
+    "2. To know what is happening or why it is happening, especially concerning the behaviour of other people. English = understand."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act or state of having knowledge about what someone means when they communicate with you. English = understanding, comprehension.",
+    "2. The act or state of having knowledge about what is happening and why it is happening, particularly when this involves the behaviour of other people. English = understanding."
+  ],
+  "signNumber": 494,
+  "recordNumber": 275,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 2,
+  "secondLocation": null,
+  "antonyms": [
+    "confuse",
+    "misunderstand.1",
+    "misunderstand.2a"
+  ],
+  "synonyms": [
+    "understand.2",
+    "realise",
+    "catch.2"
+  ]
+}

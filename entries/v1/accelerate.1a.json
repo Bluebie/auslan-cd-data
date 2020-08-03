@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "accelerate.1a",
+  "oldentry": "Popular explanation: putting one's foot down on the accelerator.",
+  "english": [
+    "accelerator",
+    "speeding",
+    "accelerate",
+    "speed"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To press on the accelerator in order to make a vehicle go faster. English = accelerate. Idiomatic English = put one's foot down.",
+    "2. To drive with one's foot on the accelerator; to drive at high speed. English = speed."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The pedal on which you press with your foot in order to make a vehicle go faster. English = accelerator.",
+    "2. Driving with one's foot on the accelerator; driving at high speed. English = speeding."
+  ],
+  "signNumber": 4114,
+  "recordNumber": 2473,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "decelerate.1a"
+  ],
+  "synonyms": []
+}

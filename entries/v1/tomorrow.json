@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "time",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign incorporates numbers up to 4 to mean 'in two days time', 'in three days time', and so on.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tomorrow",
+  "oldentry": "",
+  "english": [
+    "tomorrow"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "future",
+    "always.1"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence or immediately next to a verb sign to mean the action being talked about will take place the day after today or the day after some other particular day. English = tomorrow, the next day, the following day.",
+    "2. Used at the beginning of a sentence or immediately next to a verb sign to mean the action being talked about took place one day after another specified day. English = the next day, the following day, the day after that."
+  ],
+  "nomlex": [
+    "1. The day after today. English = tomorrow.",
+    "2. The day after any given or particular day; the day after (another day); the next day; the following day."
+  ],
+  "signNumber": 590,
+  "recordNumber": 339,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [
+    "yesterday.1a"
+  ],
+  "synonyms": []
+}

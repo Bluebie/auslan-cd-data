@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "auslex",
+    "metalang",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "WORD + SWEAR",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "word.3",
+  "oldentry": "",
+  "english": [
+    "word",
+    "transcribe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To record or write down the words that someone says. English = transcribe.",
+    "2. To record or write down the words (English) that translate the signs (Auslan) that someone says."
+  ],
+  "cf": [
+    "swear.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can usually have one or more meanings. English = word.",
+    "2. The words that someone says, especially those words when they are written down.",
+    "3. The written down words (English) that translates the signs (Auslan) that someone has said."
+  ],
+  "signNumber": 5258,
+  "recordNumber": 3155,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 10,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "word.1",
+    "word.2a",
+    "word.4a"
+  ]
+}

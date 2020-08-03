@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "dir",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "attend.2",
+  "oldentry": "",
+  "english": [
+    "attendance",
+    "attend",
+    "going",
+    "coming",
+    "go",
+    "come"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a person, to move from one place to another. English = go (away from point of reference), come (towards point of reference).",
+    "2. To go to and be present at a meeting or event. English = attend."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The movement of a person from one place to another. English = going (away from point of reference), coming (towards point of reference).",
+    "2. The fact that someone has travelled and is present at a meeting or some other event. English = attendance."
+  ],
+  "signNumber": 704,
+  "recordNumber": 407,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "attend.1a",
+    "leave",
+    "come.1a"
+  ]
+}

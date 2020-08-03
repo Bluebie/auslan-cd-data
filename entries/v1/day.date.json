@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "blend",
+    "restrict",
+    "catholic",
+    "jw",
+    "time",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "NUMBER + WHEN",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "day.date",
+  "oldentry": "",
+  "english": [
+    "day",
+    "daytime",
+    "date"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. One of the twenty-four hour periods of time in a week. English = day.",
+    "2. A day considered as the time between when it gets light and the time when it gets dark. English = daytime, day.",
+    "3. The particular day on which something happens. This can be expressed as the name of the day in the week, or the number of the day in the month and the number of the year. English = date."
+  ],
+  "signNumber": 5592,
+  "recordNumber": 3310,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "day.1a"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "auslex",
+    "quantity",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tiny.1",
+  "oldentry": "",
+  "english": [
+    "bit",
+    "tiny",
+    "minute",
+    "slight",
+    "slightly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be very small or very little. English = (be) tiny.",
+    "2. To be extremely small. English = (be) minute.",
+    "3. To be very small in degree or quantity. English = (be) slight."
+  ],
+  "cf": [
+    "instant.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that that action or quality is done or exists only to a small extent or degree. English = slightly, a bit."
+  ],
+  "nomlex": [
+    "1. A very small amount or piece of something. English = bit."
+  ],
+  "signNumber": 5454,
+  "recordNumber": 3243,
+  "signVisualComposition": "",
+  "activeHandShape": 7.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "big.1a",
+    "big.2a"
+  ],
+  "synonyms": [
+    "less.1a",
+    "little.1a"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "drum.1",
+  "oldentry": "Popular explanation: playing a drum with the hands.",
+  "english": [
+    "drum",
+    "tom-tom drum",
+    "drummer"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To play a drum with your hands, to beat a drum with your hands, to play a tom-tom drum. English = drum."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A musical instrument consisting of a skin stretched tightly over a round frame. You play it by beating it rhythmically with your hands. English = drum, tom-tom drum.",
+    "2. A person who plays a drum. English = drummer."
+  ],
+  "signNumber": 3906,
+  "recordNumber": 2324,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "drum.2"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "money",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "coin.1a",
+  "oldentry": "",
+  "english": [
+    "coin",
+    "tablet"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "take.tablet.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small round piece of metal which is used as money. English = coin.",
+    "2. A small, hard (often round) piece of medicine, which you swallow. English = tablet."
+  ],
+  "signNumber": 4945,
+  "recordNumber": 2988,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "dollar.1"
+  ],
+  "synonyms": [
+    "coin.2"
+  ]
+}

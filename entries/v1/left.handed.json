@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "left.handed",
+  "oldentry": "",
+  "english": [
+    "left handed"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use the opposite hand from most people in order to write, sign or do complicated actions. English = (be) left handed.",
+    "2. To have the steering wheel of a car located on the left side of the car. English = left hand drive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4041,
+  "recordNumber": 2417,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [
+    "right.handed",
+    "right.side",
+    "right.2"
+  ],
+  "synonyms": [
+    "left.side",
+    "left.1"
+  ]
+}

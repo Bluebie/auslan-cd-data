@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "mindact",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "remember.1a",
+  "oldentry": "Popular explanation: to hold something in the mind.",
+  "english": [
+    "remembrance",
+    "recollection",
+    "recall",
+    "memory",
+    "memorisation",
+    "recollect",
+    "remember",
+    "recollect",
+    "memorise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To bring the thought and mental impression of something that happened in the past back into your mind now, at a later date. English = remember, recall, recollect.",
+    "2. To learn something thoroughly so that you can remember it exactly. English = memorise."
+  ],
+  "cf": [
+    "prize",
+    "souvenir",
+    "resolute"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The bringing back into your mind the thought or impression of something that happened in the past. English = remembrance, recollection.",
+    "2. Your ability to remember things. English = memory, recall.",
+    "3. Something that you remember about the past. English = memory.",
+    "4. The learning of something exactly so that you can remember it exactly. English = memorisation."
+  ],
+  "signNumber": 22,
+  "recordNumber": 13,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "forget.1",
+    "forget.2a"
+  ],
+  "synonyms": [
+    "memorise"
+  ]
+}

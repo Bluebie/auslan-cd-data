@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "comp",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "witness.1a",
+  "oldentry": "",
+  "english": [
+    "eyewitness",
+    "witness"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have seen or noticed something.",
+    "2. To see an event and be able to describe it and confirm that it happened. English = eyewitness, witness."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who has seen an event and can therefore describe it, for example in a law court. English = eyewitness, witness.",
+    "2. Something which you see which causes you to believe that something is true or has really happened; visual evidence, visual proof."
+  ],
+  "signNumber": 553,
+  "recordNumber": 318,
+  "signVisualComposition": "SEE + FINISH",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 7,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "sight.1a"
+  ]
+}

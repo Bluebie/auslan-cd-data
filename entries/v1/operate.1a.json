@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "bodyloc",
+    "auslex",
+    "health",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "operate.1a",
+  "oldentry": "",
+  "english": [
+    "operation",
+    "surgery",
+    "surgeon",
+    "scar",
+    "operate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To cut open a patient's body in order to remove, replace, or repair a diseased or damaged part. English = operate, perform surgery."
+  ],
+  "cf": [
+    "abattoir.1",
+    "butcher"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A form of treatment in a hospital in which a doctor cuts open a patient's body in order to remove, replace, or repair a diseased or damaged part. English = operation, surgery.",
+    "2. A doctor who cuts open a patient's body in order to remove, replace, or repair a diseased or damaged part. English = surgeon.",
+    "3. A mark on the skin that is left after a wound has healed. English = scar."
+  ],
+  "signNumber": 4918,
+  "recordNumber": 2972,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "nomlex1",
+    "blend",
+    "auslex",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "",
+  "blend": "HAVE.NONE + ALL",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "no-one",
+  "oldentry": "Popular explanation: 'have' + 'nothing'.",
+  "english": [
+    "no-one",
+    "nobody"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Not a single person. English = no-one, nobody."
+  ],
+  "signNumber": 110,
+  "recordNumber": 58,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "some.1a",
+    "who.1"
+  ],
+  "synonyms": []
+}

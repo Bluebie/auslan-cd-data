@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "co-ordinate",
+  "oldentry": "",
+  "english": [
+    "cooperation",
+    "co-ordination",
+    "cooperate",
+    "co-ordinate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To work or act together for a purpose. English = cooperate.",
+    "2. To organise people so that their actions happen as planned. English = co-ordinate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Working or acting together for a purpose. English = cooperation.",
+    "2. Of an activity, the organisation of people in it so that actions and processes happen as planned. English = co-ordination."
+  ],
+  "signNumber": 385,
+  "recordNumber": 208,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0.2,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "cooperate"
+  ]
+}

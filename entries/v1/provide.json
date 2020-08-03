@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "provide",
+  "oldentry": "Popular explanation: the action of giving something.",
+  "english": [
+    "provision",
+    "provisions",
+    "provide"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give to someone something which they want or need, or to make it available to them in some way. English = provide."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of giving something, or making it available, to someone who needs it. English = provision.",
+    "2. Supplies of food. English = provisions."
+  ],
+  "signNumber": 140,
+  "recordNumber": 75,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "keep.1a",
+    "take.away"
+  ],
+  "synonyms": [
+    "give.1"
+  ]
+}

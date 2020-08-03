@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "reglex",
+    "sth",
+    "time",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "night.2",
+  "oldentry": "",
+  "english": [
+    "night",
+    "tonight",
+    "nightly"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the action takes place during the night. English = at night, nights, nightly.",
+    "2. Used immediately next to a verb to mean the action will take place during the night that will come at the end of today. English = tonight."
+  ],
+  "nomlex": [
+    "1. The part of each period of twenty-four hours when it is dark outside, especially the time when most people are sleeping. English = night.",
+    "2. The period of time between the end of the afternoon and midnight, or between the end of the afternoon and the time when you go to bed. English = night.",
+    "3. The evening or night that will come at the end of today. English = tonight."
+  ],
+  "signNumber": 1755,
+  "recordNumber": 1052,
+  "signVisualComposition": "",
+  "activeHandShape": 2.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 5,
+  "secondLocation": null,
+  "antonyms": [
+    "day.1a",
+    "today.2a",
+    "today.1"
+  ],
+  "synonyms": [
+    "night.1a",
+    "tonight"
+  ]
+}

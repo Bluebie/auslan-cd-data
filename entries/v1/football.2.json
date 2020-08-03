@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "sports",
+    "doublehnd",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "football.2",
+  "oldentry": "Popular explanation: kicking a football.",
+  "english": [
+    "football",
+    "kick",
+    "play football",
+    "kick out"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To play Australian Rules football.",
+    "2. To play football.",
+    "3. To kick something, especially a ball, with your foot.",
+    "4. To get rid of someone from an organisation or team. Idiomatic English = kick out."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A code of football which originated in Australia and which is most popular in the southern and western states of Australia. It has its origins in Gaelic football. English = Australian Rules. Informal English = Aussie Rules.",
+    "2. Any game in which a ball is kicked around a field for most of the match. For example, Australian Rules, Rugby Union, Rugby League, Soccer, and Gridiron. English = football."
+  ],
+  "signNumber": 1110,
+  "recordNumber": 653,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 16,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "football.1",
+    "soccer.1",
+    "rugby league.1a"
+  ]
+}

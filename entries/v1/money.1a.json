@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "money",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "money.1a",
+  "oldentry": "",
+  "english": [
+    "money",
+    "currency",
+    "funds",
+    "funding",
+    "treasurer",
+    "fund"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To provide money from organisations or governments to other organisations, governments, or individuals. English = fund."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The coins or bank notes that you use when you buy something. English = money.",
+    "2. The coins or bank notes of a particular country. English = currency.",
+    "3. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding.",
+    "4. The person in an organisation who is in charge of its finances and keeps its accounts. English = treasurer."
+  ],
+  "signNumber": 4922,
+  "recordNumber": 2976,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "money.2a",
+    "treasurer.1a"
+  ]
+}

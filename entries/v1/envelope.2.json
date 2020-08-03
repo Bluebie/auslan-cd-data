@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "envelope.2",
+  "oldentry": "Popular explanation: using a letter opener.",
+  "english": [
+    "letter opener",
+    "correspondence"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To open a sealed envelope (usually with a letter opener) which contains a letter."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An instrument, shaped like a knife, used for opening envelopes. English = letter opener.",
+    "2. A letter which has been put into an envelope, sealed and sent through the mail. It may already be opened, but usually has not yet been.",
+    "3. Letters that someone receives. English = correspondence."
+  ],
+  "signNumber": 1242,
+  "recordNumber": 733,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "envelope.1",
+    "correspond.1a",
+    "send.letters.1a"
+  ]
+}

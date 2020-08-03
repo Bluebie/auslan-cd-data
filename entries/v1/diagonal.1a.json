@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "maths",
+    "locdir",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "diagonal.1a",
+  "oldentry": "",
+  "english": [
+    "diagonal",
+    "spare",
+    "slash",
+    "stroke"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go in a slanting direction, as if joining two opposite corners of a four-sided shape such as a square. English = (be) diagonal."
+  ],
+  "cf": [
+    "straight"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A line that goes in a slanting direction. English = diagonal.",
+    "2. A diagonal line that separates letters, words, or numbers, especially a flat or apartment number from the building number. English = slash, stroke.",
+    "3. A score in ten pin bowling in which all the pins are knocked down in two consecutive bowls. English = spare."
+  ],
+  "signNumber": 3171,
+  "recordNumber": 1840,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 6,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

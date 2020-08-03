@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "marginal",
+    "doublehnd",
+    "sym",
+    "aslloan",
+    "engtf1",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "STREET + W",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "way",
+  "oldentry": "",
+  "english": [
+    "way"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "lane.1",
+    "road",
+    "avenue.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The route that you must follow in order to get to a particular place. English = way.",
+    "2. How you can do something. English = way.",
+    "3. Of a particular person or group of people, their customs or their usual behaviour. English = way."
+  ],
+  "signNumber": 2274,
+  "recordNumber": 1285,
+  "signVisualComposition": "",
+  "activeHandShape": 3.1,
+  "passiveHandShape": 3.1,
+  "primaryLocation": 16,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "street.1a"
+  ]
+}

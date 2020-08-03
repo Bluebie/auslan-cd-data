@@ -1,0 +1,77 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "blend",
+    "auslex",
+    "people",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "CLEVER + 'NOT'",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.clever",
+  "oldentry": "",
+  "english": [
+    "ignorance",
+    "inexperience",
+    "immaturity",
+    "simpleton",
+    "ignoramus",
+    "dim witted",
+    "ignorant",
+    "uneducated",
+    "ill-informed",
+    "inexperienced",
+    "unwise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not understand or learn things easily or be unable to plan things well. English = (be) dim witted, (be) ignorant, (be) uneducated.",
+    "2. To be unable to use your experience and knowledge in order to make sensible decisions and judgements. English = (be) ill-informed, (be) inexperienced, (be) unwise."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The inability to understand or learn things easily or be unable to plans things well. English =  ignorance.",
+    "2. The inability to use your experience and knowledge in order to make sensible decisions and judgements. English = inexperience, immaturity.",
+    "3. A person who is unable to understand or learn things easily, or to use their experience and knowledge in order to make sensible decisions and judgements. English = simpleton, ignoramus."
+  ],
+  "signNumber": 4714,
+  "recordNumber": 2848,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "clever.1a",
+    "brain"
+  ],
+  "synonyms": [
+    "stupid.1",
+    "stupid.2"
+  ]
+}

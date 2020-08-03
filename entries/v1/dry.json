@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quality",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dry",
+  "oldentry": "",
+  "english": [
+    "dryness",
+    "dry",
+    "dry out",
+    "dry up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have no liquid or water on something or in something. English = (be) dry.",
+    "2. To become completely dry, to dry out.",
+    "3. Of a body of water (puddle, river, lake, etc.) to lose all its water or moisture. English = dry up."
+  ],
+  "cf": [
+    "disappear.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The lack of water or moisture. English = dryness."
+  ],
+  "signNumber": 3945,
+  "recordNumber": 2353,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "wet.1a"
+  ],
+  "synonyms": []
+}

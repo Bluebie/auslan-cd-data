@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "verblex1",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "time",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "now.1",
+  "oldentry": "",
+  "english": [
+    "current",
+    "now",
+    "presently",
+    "currently",
+    "nowadays"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be happening, being done, or being used at the present time. English = (be) current."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used next to a verb sign to mean that the action takes place at the present time (at the time of signing), often in contrast to a time in the past or the future. English = now.",
+    "2. Used to introduce the time frame for the actions or conditions that are to be described as being at the present time (at the time of signing) in contrast to a past or future time. English = presently, at the moment, currently, nowadays."
+  ],
+  "nomlex": [],
+  "signNumber": 3861,
+  "recordNumber": 2295,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "before.1",
+    "before.2a",
+    "future"
+  ],
+  "synonyms": [
+    "now.3a",
+    "straight"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "partlex2",
+    "enddir",
+    "auslex",
+    "money",
+    "shop",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "free.2a",
+  "oldentry": "",
+  "english": [
+    "free",
+    "voluntary",
+    "freely",
+    "voluntarily"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be available to someone without them having to pay for it. English = (be) free.",
+    "2. To be done willingly and because you choose to do it and not because you have been forced to do it. English = (be) voluntary."
+  ],
+  "cf": [
+    "voluntary.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the action is done without any cost. English = freely.",
+    "2. Used immediately next to a verb to mean the action is done willingly and because you choose to do it and not because you have been forced to do it. English = freely, voluntarily."
+  ],
+  "nomlex": [],
+  "signNumber": 277,
+  "recordNumber": 162,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "pay",
+    "charge.1"
+  ],
+  "synonyms": [
+    "free.1a"
+  ]
+}

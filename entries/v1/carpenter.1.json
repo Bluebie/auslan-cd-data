@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "work",
+    "doublehnd",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "carpenter.1",
+  "oldentry": "Popular explanation: using a carpenter's plane.",
+  "english": [
+    "carpenter",
+    "carpentry",
+    "joiner",
+    "joinery",
+    "plane"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do carpentry.",
+    "2. To make a piece of wood smaller and smoother by using a plane; to operate a plane. English = plane."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person whose job is making and repairing wooden things. English = carpenter.",
+    "2. The skill or the work of a carpenter. English = carpentry.",
+    "3. A person who makes wooden window frames, door frames, and doors; the skill and work of such a person. English = joiner; joinery.",
+    "4. A tool that has a flat bottom with a sharp blade in it. You move it over a piece of wood in order to remove thin pieces of its surface. English = plane."
+  ],
+  "signNumber": 5829,
+  "recordNumber": 3465,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "carpenter.2a"
+  ]
+}

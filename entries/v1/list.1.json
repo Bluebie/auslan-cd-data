@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "list.1",
+  "oldentry": "Popular explanation: the lines of a list.",
+  "english": [
+    "list",
+    "program",
+    "agenda",
+    "catalogue"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go through a list of items one after another; to make a list; to list.",
+    "2. To go through or work through an agenda.",
+    "3. To make a list of a series of actions or events that are planned to be done. English = program."
+  ],
+  "cf": [
+    "write.list",
+    "file.1a",
+    "sequence.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A set of things which are written down one below the other one. English = list.",
+    "2. A series of actions or events that are planned to be done, especially at a meeting. English = program, agenda.",
+    "3. A list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
+  ],
+  "signNumber": 4331,
+  "recordNumber": 2638,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "program",
+    "agenda",
+    "list.2"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "intuition",
+  "oldentry": "Popular explanation: culturally shared gesture.",
+  "english": [
+    "intuition",
+    "sense",
+    "intuit",
+    "intuitive"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To guess something by using your feelings, rather than your knowledge. English = sense. Formal English = intuit.",
+    "2. To be an idea or feeling that something is true or exists which you have without any evidence or proof of it, but just from your feelings. English = (be) intuitive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The feeling that something is true or exists although you have no evidence or proof of it. English = intuition."
+  ],
+  "signNumber": 527,
+  "recordNumber": 298,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 5,
+  "secondLocation": null,
+  "antonyms": [
+    "calculate.1"
+  ],
+  "synonyms": [
+    "feel.1a"
+  ]
+}

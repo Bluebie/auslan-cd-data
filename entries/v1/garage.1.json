@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "begindir",
+    "orient",
+    "auslex",
+    "rooms",
+    "autos",
+    "doublehnd",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "garage.1",
+  "oldentry": "Popular explanation: vehicle going under cover.",
+  "english": [
+    "garage",
+    "carport"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To park a car in a garage.",
+    "2. To park a car under a carport.",
+    "3. To drive a car under something."
+  ],
+  "cf": [
+    "go.in.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A building in which you keep a car. English = garage.",
+    "2. A shelter for one or two cars which is attached to a house and consists of a flat roof supported on pillars. English =  carport."
+  ],
+  "signNumber": 4100,
+  "recordNumber": 2461,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "garage.3"
+  ]
+}

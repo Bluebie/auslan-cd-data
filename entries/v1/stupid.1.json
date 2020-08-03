@@ -1,0 +1,70 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "interj2",
+    "auslex",
+    "judge",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "stupid.1",
+  "oldentry": "Popular explanation: culturally shared gesture.",
+  "english": [
+    "stupidity",
+    "idiocy",
+    "stupid",
+    "foolish",
+    "idiotic"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To show a lack of good judgement or intelligence and to be not at all sensible. English = (be) stupid, (be) foolish.",
+    "2. To be very stupid. English = (be) idiotic."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to mean that you think that you do not like something and that it annoys you. English = 'How stupid!', 'That's ridiculous!'",
+    "2. Used alone to express irritation with yourself for having done something that is foolish or a mistake. English = 'Oops!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. Behaviour which is not at all sensible. English = stupidity.",
+    "2. The quality of being stupid. English = stupidity.",
+    "3. The quality of being very stupid. English = idiocy."
+  ],
+  "signNumber": 5570,
+  "recordNumber": 3295,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "wise"
+  ],
+  "synonyms": [
+    "stupid.2",
+    "stupid.3",
+    "oops"
+  ]
+}

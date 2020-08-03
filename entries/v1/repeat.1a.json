@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "repeat.1a",
+  "oldentry": "",
+  "english": [
+    "repetition",
+    "revision",
+    "repeat",
+    "revise",
+    "review",
+    "repetitive",
+    "repetitively",
+    "frequently"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do an action again. English = repeat.",
+    "2. To read or do things again in order to learn them thoroughly. English = revise, review.",
+    "3. Of an event or situation, to happen again and again, especially in the same way so as to be boring and uninteresting. English = (be) repetitive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the action happens several times, usually without much or any change. English = again and again, repetitively.",
+    "2. Used immediately next to a verb to mean the action happens many times and most of the time. English = frequently."
+  ],
+  "nomlex": [
+    "1. The act of doing something again and again. English = repetition.",
+    "2. The act of reading or studying something again in order to remember it better or learn it more thoroughly. English = revision."
+  ],
+  "signNumber": 1604,
+  "recordNumber": 954,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "often.1a",
+    "again"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "interj1",
+    "blend",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "MIND + GOOD",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "know",
+  "oldentry": "",
+  "english": [
+    "knowledge",
+    "know",
+    "knowledgeable",
+    "yeah"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have correct information and understanding about a subject in your mind. English = know, (be) knowledgeable."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone in response to your addressee's comments or to interrupt your addressee to confirm understanding or to encourage them to continue. English = 'I know', 'Yeah!', 'Ugh huh', 'Hmmm' and so on."
+  ],
+  "partlex": [
+    "1. Used at the beginning of a sentence to introduce a new topic of conversation."
+  ],
+  "nomlex": [
+    "1. Information and understanding about a subject, which someone has in their mind. English = knowledge."
+  ],
+  "signNumber": 4707,
+  "recordNumber": 2844,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "not.know.1a",
+    "dunno"
+  ],
+  "synonyms": [
+    "of.course",
+    "familiar.with"
+  ]
+}

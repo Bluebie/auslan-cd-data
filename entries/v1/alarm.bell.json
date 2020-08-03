@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "alarm.bell",
+  "oldentry": "Popular explanation: the hammer of a bell striking a surface.",
+  "english": [
+    "alarm",
+    "alarm bell"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of an alarm, to make a loud noise by ringing (or by any other means) in order to warn people of some danger."
+  ],
+  "cf": [
+    "ring.bell"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An automatic device that warns you of danger, for example by ringing a bell. English = alarm, alarm bell."
+  ],
+  "signNumber": 1284,
+  "recordNumber": 763,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "siren"
+  ]
+}

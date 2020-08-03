@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "utensils",
+    "onehand",
+    "telecommun",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "volume.1",
+  "oldentry": "",
+  "english": [
+    "volume",
+    "turn up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To adjust the controls on something such as a radio or heater so as to increase the amount of sound or heat being produced. English = turn up."
+  ],
+  "cf": [
+    "channel.TV.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The control on something such as a radio or heater that controls the amount of sound or heat being produced.",
+    "2. The amount of sound that a radio, TV, record player, CD player, etc., produces. English = volume."
+  ],
+  "signNumber": 5170,
+  "recordNumber": 3111,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "push.down.1a",
+    "turn.down"
+  ],
+  "synonyms": [
+    "lift.up.1a"
+  ]
+}

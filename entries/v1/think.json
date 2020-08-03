@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "think",
+  "oldentry": "",
+  "english": [
+    "thought",
+    "brain",
+    "think",
+    "reckon"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use your mind to form an opinion, idea or image of something. English = think.",
+    "2. To have an opinion that something is true or the case. English = think. Informal English = reckon."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An idea that you have in your mind. English = thought.",
+    "2. The organ inside your head that enables you to think and feel things such as heat and pain. English = brain."
+  ],
+  "signNumber": 501,
+  "recordNumber": 279,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "brain"
+  ]
+}

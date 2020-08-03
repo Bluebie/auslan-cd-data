@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "gov",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "vote.1a",
+  "oldentry": "Popular explanation: inserting a ballot paper into a ballot box.",
+  "english": [
+    "vote",
+    "election",
+    "referendum",
+    "elect"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make your choice in an election or at a meeting, usually be writing on a piece of paper. English = vote.",
+    "2. To choose a person to hold an official position or to represent you in government by voting. English = elect."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The choice you make at an election, or at a meeting where decisions are made. English = vote",
+    "2. An organised process in which people vote to choose a person or group of people to hold an official position or to represent them in government. English  = election.",
+    "3. A vote in which all the people in a country or region are asked whether they agree or disagree with a particular policy. English = referendum."
+  ],
+  "signNumber": 480,
+  "recordNumber": 266,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 5.5,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "elect"
+  ]
+}

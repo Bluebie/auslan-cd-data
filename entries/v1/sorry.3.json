@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "interj1",
+    "interj2",
+    "interj3",
+    "auslex",
+    "lingact",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sorry.3",
+  "oldentry": "",
+  "english": [
+    "sorrow",
+    "regret",
+    "sorry",
+    "sorrowful",
+    "regret"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To feel sadness, regret, or disappointment about a situation. English = (be) sorry.",
+    "2. To cause deep sadness and regret. English = (be) sorrowful.",
+    "3. To feel or wish that you had not done something. English = regret."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone as a way of apologising to someone for something that you have done which has upset them or caused them difficulties. English = 'Sorry!', 'I'm sorry!'",
+    "2. Used alone to express your regret and sadness when you hear sad or unpleasant news. English = 'Sorry!', 'I'm sorry!'.",
+    "3. Used to correct yourself when you have said something incorrect which you then go on to immediately correct. English = 'Sorry'."
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. A feeling of deep sadness or the wish that you had not done something. English = sorrow.",
+    "2. The feeling and wish that you had not done something. English = regret."
+  ],
+  "signNumber": 2914,
+  "recordNumber": 1651,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 6,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "sorry.2a",
+    "stupid.3"
+  ]
+}

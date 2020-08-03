@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "catholic",
+    "religion",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "Catholic.1",
+  "oldentry": "Popular explanation: tracing a cross.",
+  "english": [
+    "Catholicism",
+    "Catholic",
+    "Christian"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have the set of Christian beliefs of people who belong to the branch of the church which accepts the Pope as its leader. English = (be) Catholic.",
+    "2. To be a person who belongs to the branch of the Christian church which accepts the Pope as its leader. English = (be) Catholic.",
+    "3. To be person who believes in Jesus Christ and follows his teachings. (Particularly used by Catholics in this sense.) English = (be) Christian."
+  ],
+  "cf": [
+    "Protestant.1",
+    "Protestant.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The set of Christian beliefs that are held by people who belong to the branch of the church which accepts the Pope as its leader. English = Catholicism.",
+    "2. A person who belongs to the branch of the Christian church which accepts the Pope as its leader. English = Catholic.",
+    "3. A person who believes in Jesus Christ and follows his teachings. (Particularly used by Catholics in this sense.) English = Christian."
+  ],
+  "signNumber": 4715,
+  "recordNumber": 2849,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 2,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

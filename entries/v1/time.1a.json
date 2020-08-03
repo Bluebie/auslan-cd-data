@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "nomlex1",
+    "interj1",
+    "interj2",
+    "auslex",
+    "time",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "time.1a",
+  "oldentry": "Popular explanation: pointing to a watch.",
+  "english": [
+    "time"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [
+    "1. Used alone to ask someone to tell you the time. English = 'What time is it?', 'What's the time?', 'Have you got the time?'",
+    "2. Used alone to decline a request or a proposal, or question a proposed course of action, to mean that time constraints are a problem. English = 'I don't have the time.', 'There's a problem with the time.'; 'I don't think there'll be enough time.' etc."
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. The thing that we measure in seconds, minutes, hours, days, weeks, months, years and so on. English = time."
+  ],
+  "signNumber": 1211,
+  "recordNumber": 713,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [],
+  "synonyms": [
+    "watch.2"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "heart-throb",
+  "oldentry": "Popular explanation: a beating heart.",
+  "english": [
+    "heartbeat",
+    "love",
+    "beat",
+    "throb",
+    "fall in love"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of the heart, to move as it pumps blood around the body. English = beat, throb.",
+    "2. To feel romantically or sexually attracted to someone. English = love. Idiomatic English = (be) in love.",
+    "3. To start to be in love with someone. Idiomatic English = fall in love."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The regular movement of the heart as it pumps blood around the body. English = heartbeat.",
+    "2. A very strong feeling of affection for someone who you are romantically or sexually attracted to. English = love."
+  ],
+  "signNumber": 144,
+  "recordNumber": 78,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "hate.1",
+    "hate.2"
+  ],
+  "synonyms": [
+    "lover",
+    "love"
+  ]
+}

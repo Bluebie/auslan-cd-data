@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "The subordinate handshape can be varied to incorporate various handshapes representing the object being sewn.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sew.1a",
+  "oldentry": "Popular explanation: sewing something.",
+  "english": [
+    "sewing",
+    "needlework",
+    "stitching",
+    "tailor",
+    "sew",
+    "stitch"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To join pieces of cloth together, or attach things such as buttons to cloth, by passing thread through them with a needle. English = sew, stitch.",
+    "2. In medicine, to use a special needle and thread to tie the skin together. English = stitch."
+  ],
+  "cf": [
+    "needle",
+    "sewing-machine.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The activity of making,  mending or decorating clothes or other material using a needle and thread. English = sewing, needlework, stitching.",
+    "2. The activity of tying the skin together using a special needle and thread. English = stitching.",
+    "3. A person who makes clothes, especially for men. English = tailor."
+  ],
+  "signNumber": 391,
+  "recordNumber": 214,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0.2,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

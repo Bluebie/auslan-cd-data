@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "magnify",
+  "oldentry": "",
+  "english": [
+    "enlargement",
+    "enlarge",
+    "magnify"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make something, which was originally very small, much larger. English = enlarge.",
+    "2. Using a microscope, to make the image of something, which was originally very small, much larger so that it can be seen. English = magnify."
+  ],
+  "cf": [
+    "microscope.1",
+    "focus",
+    "telescope"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something, especially an image, which is a much larger copy or view of an original which is much smaller. English = enlargement."
+  ],
+  "signNumber": 5821.1,
+  "recordNumber": 3458,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "summary",
+    "shrink.1a"
+  ],
+  "synonyms": [
+    "expand.1a"
+  ]
+}

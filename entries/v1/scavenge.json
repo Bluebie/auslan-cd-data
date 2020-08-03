@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "comp",
+    "reglex",
+    "vic",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "scavenge",
+  "oldentry": "",
+  "english": [
+    "scavenge",
+    "come across",
+    "appropriate",
+    "keep",
+    "pocket",
+    "adoption",
+    "adopt"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make something yours which is not properly yours (e.g., if you accidentally find it, tell yourself it is lost or discarded, and then decide to keep it). English = appropriate, scavenge, keep. Idiomatic English = come across, pocket.",
+    "2. To take a child into your own family and to make it legally your own son or daughter. English = adopt."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of taking a child into your own family and making it legally your son or daughter. English = adoption.",
+    "2. The act of taking a child into your own family and making it legally your son or daughter. English = adoption."
+  ],
+  "signNumber": 862,
+  "recordNumber": 493,
+  "signVisualComposition": "QUIET + (QUICK or SHILLING)?",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 10,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "adopt.1",
+    "adopt.2"
+  ]
+}

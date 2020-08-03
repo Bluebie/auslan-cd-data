@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "travel",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "travel",
+  "oldentry": "",
+  "english": [
+    "travelling",
+    "travels",
+    "commuter",
+    "travel",
+    "commute"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go to one place from another, usually repeatedly, or to go to several places, also usually repeatedly. English = travel.",
+    "2. To travel a long distance every day between your home and your place of work. English = commute."
+  ],
+  "cf": [
+    "far.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The activity of moving back and forth between two or many different places, especially for pleasure. English = travelling.",
+    "2. The journeys that someone makes to places a long way from their home. English = travels.",
+    "3. A person who travels a long distance every day between home and place of work. English = commuter."
+  ],
+  "signNumber": 5239,
+  "recordNumber": 3145,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 7.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "tour",
+    "tour.country",
+    "return.journey"
+  ]
+}

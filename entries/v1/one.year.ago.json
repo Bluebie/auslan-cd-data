@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "time",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign can incorporate number handshapes for 'two years ago', 'three years ago', and so on. Also, for some signers the subordinate hand can also be a Fist handshape.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "one.year.ago",
+  "oldentry": "",
+  "english": [
+    "year",
+    "last year"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning or end of a sentence to mean the action took place sometime during the previous twelve months or year. English = in the past year, during the past year.",
+    "2. Used at the beginning or end of a sentence to mean the action took place sometime during the twelve months or year before the reference time. English = in the previous year, during the previous year."
+  ],
+  "nomlex": [
+    "1. A period of a year before the time of talking. English = the past year.",
+    "2. A period of one year before some reference time in the past. English = the previous year, the year before that."
+  ],
+  "signNumber": 1065,
+  "recordNumber": 629,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "next.year"
+  ],
+  "synonyms": [
+    "yesteryear.1a"
+  ]
+}

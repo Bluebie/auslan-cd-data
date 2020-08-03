@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "clothes",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "pants",
+  "oldentry": "Popular explanation: tracing the top and bottom of a pair of pants.",
+  "english": [
+    "pants",
+    "underpants"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To wear pants.",
+    "2. To wear underpants."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Clothes you wear on your legs, such as shorts or trousers. English = pants.",
+    "2. A piece of clothing worn by men and boys under their pants. English = underpants."
+  ],
+  "signNumber": 3511,
+  "recordNumber": 2054,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 17,
+  "secondLocation": null,
+  "antonyms": [
+    "shorts.1a"
+  ],
+  "synonyms": [
+    "trousers.1a",
+    "trousers.2"
+  ]
+}

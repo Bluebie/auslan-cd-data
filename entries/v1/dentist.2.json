@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "health",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dentist.2",
+  "oldentry": "Popular explanation: pulling out a tooth.",
+  "english": [
+    "dentist",
+    "extraction"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a tooth extracted by a dentist."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who is qualified to treat people's teeth; the place where a dentist works. English = dentist; dentist's.",
+    "2. The removal of a tooth by a dentist. English = extraction."
+  ],
+  "signNumber": 1768,
+  "recordNumber": 1064,
+  "signVisualComposition": "",
+  "activeHandShape": 2.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "dentist.1",
+    "dentist.3a"
+  ]
+}

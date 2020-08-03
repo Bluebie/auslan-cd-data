@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "health",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "pill",
+  "oldentry": "",
+  "english": [
+    "tablet",
+    "pill"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take a pill or tablet."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small round mass of medicine that you swallow without chewing. English = tablet, pill."
+  ],
+  "signNumber": 6358,
+  "recordNumber": 3798,
+  "signVisualComposition": "",
+  "activeHandShape": 11.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "take.tablet.1a",
+    "medicine"
+  ]
+}

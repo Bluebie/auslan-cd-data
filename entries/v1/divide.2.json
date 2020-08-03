@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "maths",
+    "onehand",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "divide.2",
+  "oldentry": "Popular explanation: the division symbol.",
+  "english": [
+    "division",
+    "divide"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. In mathematics, to calculate how many times a small number can go into a large number. English = divide."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The mathematical process of dividing one number by another. English = division.",
+    "2. The mathematical symbol for the process of dividing one number by another. It looks like a line with a dot above it and a dot below it."
+  ],
+  "signNumber": 749,
+  "recordNumber": 432,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "divide.1",
+    "divide.3"
+  ]
+}

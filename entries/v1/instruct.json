@@ -1,0 +1,76 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "instruct",
+  "oldentry": "",
+  "english": [
+    "instruction",
+    "instructions",
+    "instruct",
+    "coach",
+    "instructor",
+    "teacher",
+    "teach"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To tell someone to do something. English = instruct.",
+    "2. To tell someone how to do something, especially a skill like driving or flying. English = instruct, teach.",
+    "3. To help someone become better at a particular sport of subject. English = coach."
+  ],
+  "cf": [
+    "educate.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that someone tells you to do, especially the clear and detailed information. English = instruction.",
+    "2. Clear and detailed information on how to do something, especially written information. English = instructions.",
+    "3. A person who teaches you something, especially a skill such as driving, swimming or skiing. English = instructor, coach, teacher"
+  ],
+  "signNumber": 865,
+  "recordNumber": 495,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [
+    "learn.1",
+    "learn.2a",
+    "learn.3a"
+  ],
+  "synonyms": [
+    "teach",
+    "discipline",
+    "order"
+  ]
+}

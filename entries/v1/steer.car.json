@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "steer.car",
+  "oldentry": "Popular explanation: holding the steering wheel of a car.",
+  "english": [
+    "steering wheel",
+    "driving",
+    "steer"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To control a car to make it go in the direction you want by turning the steering wheel. English = steer.",
+    "2. To drive a vehicle."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The wheel in a car or truck which the driver holds when he or she is steering the vehicle. English = steering wheel.",
+    "2. The act of operating and controlling a vehicle so that it goes where you want it to go. English = driving."
+  ],
+  "signNumber": 5850,
+  "recordNumber": 3481,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "drive.1a"
+  ]
+}

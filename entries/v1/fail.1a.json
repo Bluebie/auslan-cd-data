@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fail.1a",
+  "oldentry": "",
+  "english": [
+    "failure",
+    "flop",
+    "fail"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not succeed in doing something that you are trying to do. English = fail."
+  ],
+  "cf": [
+    "wrong",
+    "bankrupt"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The lack of success in doing or achieving something. English = failure.",
+    "2. A person or thing that has not succeeded at something. English = failure, flop."
+  ],
+  "signNumber": 5009,
+  "recordNumber": 3020,
+  "signVisualComposition": "",
+  "activeHandShape": 6.2,
+  "passiveHandShape": 6.2,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "success.1",
+    "success.2a"
+  ],
+  "synonyms": [
+    "disapprove.of"
+  ]
+}

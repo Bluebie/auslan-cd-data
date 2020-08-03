@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "twohand",
+    "para",
+    "domonly",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "handshake.1a",
+  "oldentry": "Popular explanation: shaking hands.",
+  "english": [
+    "handshake",
+    "congratulations",
+    "shake hands",
+    "congratulate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take someone's hand in your hand and hold it firmly or move it up and down. You do this as a sign of greeting, to show that you have agreed about something, or to congratulate them. English = shake hands.",
+    "2. To praise someone for something they have done, especially by shaking their hand. English = congratulate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of holding someone's right hand in your own and moving it up and down when you are meeting them, saying goodbye to them, or congratulating them. English = handshake.",
+    "2. The act of praising someone for something they have done, especially by shaking their hand. English = congratulations."
+  ],
+  "signNumber": 4657,
+  "recordNumber": 2815,
+  "signVisualComposition": "",
+  "activeHandShape": 5.5,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "congratulate"
+  ]
+}

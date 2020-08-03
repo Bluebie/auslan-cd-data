@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dream.1a",
+  "oldentry": "",
+  "english": [
+    "dream",
+    "day-dream",
+    "imagination",
+    "imagine",
+    "imaginative"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To see imaginary pictures or events in your mind while you are asleep. English = dream.",
+    "2. To think about a situation or event because you would very much like it to happen. English = dream, day-dream.",
+    "3. To form ideas or pictures in your mind of new or exciting things that do not necessarily exist in real life. English = imagine, (be) imaginative."
+  ],
+  "cf": [
+    "fiction.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An imaginary series of events that you experience in your mind while you are asleep. English = dream.",
+    "2. A situation or event which you often think about because you would very much like it to happen. English = dream, day-dream.",
+    "3. The ability that you have to form ideas of new or exciting things; the part of your mind which you use to form pictures or ideas of things that do not necessarily exist in real life. English =  imagination."
+  ],
+  "signNumber": 3152.1,
+  "recordNumber": 1826,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "imagine.1a",
+    "imagine.2"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "comp",
+    "marginal",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "expect.1",
+  "oldentry": "",
+  "english": [
+    "hope",
+    "expectation",
+    "expect"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To want something to be true or to happen and to believe that it is possible. English = hope.",
+    "2. To believe and hope that something will happen. English = expect."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A feeling of confidence that what you want to happen might happen. English = hope.",
+    "2. A strong hope that something will happen. English = expectation."
+  ],
+  "signNumber": 503,
+  "recordNumber": 280,
+  "signVisualComposition": "THINK + HOPE",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "hope"
+  ]
+}

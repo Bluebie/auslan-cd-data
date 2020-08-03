@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "war.1a",
+  "oldentry": "",
+  "english": [
+    "war",
+    "battle",
+    "at war"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of two countries, to fight each other. English = fight a war, war, (be) at war.",
+    "2. To fight a battle between groups of ships or planes. English = battle."
+  ],
+  "cf": [
+    "fight.1a",
+    "fight.2a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A period of fighting between countries or states. English = war.",
+    "2. A fight between armies or between groups of ships or planes. English = battle."
+  ],
+  "signNumber": 2631,
+  "recordNumber": 1460,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "peace",
+    "quiet.2a"
+  ],
+  "synonyms": []
+}

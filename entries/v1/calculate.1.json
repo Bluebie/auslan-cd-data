@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "maths",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "calculate.1",
+  "oldentry": "",
+  "english": [
+    "assessment",
+    "solution",
+    "calculation",
+    "assess",
+    "solve",
+    "work out",
+    "calculate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To consider something carefully and try to make a judgement about it; to think about something in detail and try to work out the consequences of it happening. English = assess (the situation).",
+    "2. To find the answer to some problem by thinking hard about it. English = solve. Idiomatic English = work out.",
+    "3. To work out a number or amount by doing some arithmetic. English = calculate."
+  ],
+  "cf": [
+    "complicated"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A consideration of someone or something and a judgement about them; a judgement about the consequences of something happening. English = assessment.",
+    "2. The answer to a problem arrived at by thinking carefully about it. English = solution.",
+    "3. The process of working out a number or an amount by doing some arithmetic. English = calculation."
+  ],
+  "signNumber": 3023,
+  "recordNumber": 1730,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "guess.1a"
+  ],
+  "synonyms": [
+    "figure.out"
+  ]
+}

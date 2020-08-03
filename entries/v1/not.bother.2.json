@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "blend",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "2",
+  "blend": "PROBLEM + 'NOT'",
+  "queries": "This sign has two opposed meanings, one negative and one positive. Facial expression and context would indicate which sense was meant.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.bother.2",
+  "oldentry": "",
+  "english": [
+    "not bother",
+    "not hassle",
+    "not irritate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To cause or give little or no difficulties or problems to someone. English = not bother, not hassle, not irritate.",
+    "2. To give you no problems or difficulties because it is easy or a pleasure to do. English = (be) not bothered."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone as a reply to the question whether something you have been asked to do or are obliged to do is difficult or causing you problems, to mean you have no problems, it is not difficult or that it is even a pleasure. English = 'It's no bother!'"
+  ],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4054,
+  "recordNumber": 2427,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [
+    "bother.1a",
+    "not.bother.1"
+  ],
+  "synonyms": [
+    "not.matter",
+    "no-harm"
+  ]
+}

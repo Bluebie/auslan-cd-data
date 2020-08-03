@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "reglex",
+    "nth",
+    "time",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "yesterday.2",
+  "oldentry": "",
+  "english": [
+    "yesterday"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "last.night.1"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used before or after a sign sentence to say the action in the sentence happened during the day before today. If you are already talking about something that happened on a day before today, then you mean it happened during the day before that.",
+    "English = yesterday; the day before, the previous day."
+  ],
+  "nomlex": [
+    "1. The day before today. English = yesterday.",
+    "2. The day before a particular day in the past. English = the day before, the previous day."
+  ],
+  "signNumber": 4729,
+  "recordNumber": 2858,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [
+    "tomorrow"
+  ],
+  "synonyms": [
+    "yesterday.1a",
+    "yesterday.2"
+  ]
+}

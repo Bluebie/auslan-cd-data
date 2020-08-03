@@ -1,0 +1,80 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "dir",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "tease.1",
+  "oldentry": "",
+  "english": [
+    "tease",
+    "taunt",
+    "jibe",
+    "gibe",
+    "harassment",
+    "mock",
+    "ridicule",
+    "torment",
+    "pester",
+    "harass"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To deliberately embarrass, trick, or make fun of someone because it amuses you. English = tease.",
+    "2. To speak offensively to someone about their weaknesses or failures in order to upset or annoy them. English = taunt.",
+    "3. To make someone appear foolish, for example by saying something funny about them. English = mock, ridicule, torment. Idiomatic English = poke fun at, get at.",
+    "4. To keep doing something to someone that annoys or bothers them, especially saying unkind things. English = pester, harass."
+  ],
+  "cf": [
+    "sexual harassment"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Someone who makes fun of people in a gently but slightly cruel way. English = tease.",
+    "2. Offensive words spoken to someone about their weaknesses or failures in order to upset or annoy them. English = taunt, taunts.",
+    "3. A rude or insulting remark about someone. English = jibe, gibe.",
+    "4. Behaviour which is intended to trouble or annoy someone. English = harassment."
+  ],
+  "signNumber": 2732,
+  "recordNumber": 1523,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "tease.2a",
+    "joke.1a"
+  ]
+}

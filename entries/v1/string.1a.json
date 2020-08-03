@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "orient",
+    "auslex",
+    "cathsch",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "string.1a",
+  "oldentry": "Popular explanation: something long and thin.",
+  "english": [
+    "string",
+    "thread",
+    "wire"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "elastic.2",
+    "pull.apart"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A thin rope made of twisted threads. English = string",
+    "2. A long, very thin piece of cotton, silk, nylon or wool. English = thread.",
+    "3. A long, thin piece of metal, often used to fasten or connect things. English = wire.",
+    "4. A length or piece of something long and thin."
+  ],
+  "signNumber": 372,
+  "recordNumber": 202,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0.2,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "ball.of.string"
+  ]
+}

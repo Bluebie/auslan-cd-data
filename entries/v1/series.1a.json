@@ -1,0 +1,71 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "enddir",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "series.1a",
+  "oldentry": "",
+  "english": [
+    "series",
+    "sequence",
+    "succession",
+    "serial",
+    "sequential",
+    "consecutive",
+    "successive",
+    "successively",
+    "sequentially",
+    "serially"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of things or events, to come one after the other. English = (be) serial.",
+    "2. Of things or events, to come one after the other in a particular order. English = (be) sequential.",
+    "3. Of things or events, to come one after the other and not be interrupted. English = (be) consecutive, (be) successive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used after a verb to mean the action happens repeatedly in a particular order, usually involving different participants. English = successively, sequentially, serially.",
+    "2. Used at the end of a statement to mean that the actions or events continued to happen in the way that one would expect. English = and so on and so forth."
+  ],
+  "nomlex": [
+    "1. A number of things or events that come one after the other. English = series.",
+    "2. A number of things or events that come one after the other in a particular order. English = sequence.",
+    "3. The particular order and series in which things of a particular type come one after another. English = succession."
+  ],
+  "signNumber": 6232,
+  "recordNumber": 3724,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

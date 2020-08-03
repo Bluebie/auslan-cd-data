@@ -1,0 +1,79 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "open",
+  "oldentry": "Popular explanation: something opening.",
+  "english": [
+    "start",
+    "beginning",
+    "opening",
+    "launch",
+    "begin",
+    "open"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do something which is the first part of an activity, or the first part of a text (such as a book or a film). English = start, begin, open.",
+    "2. To move something, such as a door or a lid on a box, so that it no longer covers a hole or a gap; to move, remove, or cut part of a thing such as a cupboard, container, or letter so that you can take out what is inside. English = open.",
+    "3. To tell people at a special ceremony that a new product is available to the public. English = launch."
+  ],
+  "cf": [
+    "stop",
+    "finish.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The first part of an activity. English = start, beginning.",
+    "2. The first part of a book or a film. English = opening, beginning.",
+    "3. The start of a large and important activity, or the official announcement of when a new product is made available to the public. English = opening, launch."
+  ],
+  "signNumber": 3738,
+  "recordNumber": 2205,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "finish.2a",
+    "last.1",
+    "close.1a"
+  ],
+  "synonyms": [
+    "begin.1a",
+    "start.1a",
+    "launch"
+  ]
+}

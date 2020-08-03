@@ -1,0 +1,69 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "partlex1",
+    "partlex2",
+    "questlex",
+    "questle2",
+    "auslex",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [
+    "1. Used alone or at the beginning, end, or at both the beginning and end, of a sentence to ask about the reason or cause of something. English = why.",
+    "2. Often used with WHAT to ask for the reason you have been asked or ordered to do something when you are reluctant to do it. English = 'What's the reason?', 'What for?'"
+  ],
+  "idgloss": "why-because.1a",
+  "oldentry": "",
+  "english": [
+    "cause",
+    "reason",
+    "because",
+    "why",
+    "since",
+    "as"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make something happen. English = cause, (be) the cause of something."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used to link or join two sentences of which the second is the reason or cause of the event or events described in the first. English = because.",
+    "2. Used to introduce the reason, cause or explanation of something. English = because, since, as."
+  ],
+  "nomlex": [
+    "1. The thing that makes an event happen. English = cause.",
+    "2. The fact or situation which explains why something happens or exists. English = reason."
+  ],
+  "signNumber": 5149,
+  "recordNumber": 3104,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "because.1a",
+    "because.3",
+    "reason"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "begindir",
+    "orient",
+    "auslex",
+    "locdir",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "under",
+  "oldentry": "Popular explanation: one thing under another.",
+  "english": [
+    "underside",
+    "under",
+    "underground"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located directly below or beneath something. English = (be) under.",
+    "2. To move so that you are located directly below or beneath something. English = go under.",
+    "3. To be located under the surface of the ground. English = (be) underground.",
+    "4. To be in the power or control of a particular person or government. English = (be) under."
+  ],
+  "cf": [
+    "submarine"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The part of something that normally faces towards the ground. English = underside."
+  ],
+  "signNumber": 4127,
+  "recordNumber": 2485,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "beneath.solid.object",
+    "beneath.flat.surface"
+  ]
+}

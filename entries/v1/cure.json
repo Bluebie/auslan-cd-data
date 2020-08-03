@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "health",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cure",
+  "oldentry": "",
+  "english": [
+    "cure",
+    "recovery",
+    "cured",
+    "heal",
+    "healed"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make an illness or injury disappear. English = cure, heal.",
+    "2. Of an injury, to become healthy and normal again. English = heal.",
+    "3. To recover from an illness, to make a recovery, to get better, to get well; to be cured; to be healed."
+  ],
+  "cf": [
+    "brave",
+    "well.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A medicine or other treatment that makes an illness or an injury disappear. English = cure.",
+    "2. The act of becoming well again after being sick. English = recovery, healing."
+  ],
+  "signNumber": 3721,
+  "recordNumber": 2194,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "heal.1a"
+  ]
+}

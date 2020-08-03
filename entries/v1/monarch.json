@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "gov",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "monarch",
+  "oldentry": "",
+  "english": [
+    "monarch",
+    "sovereign",
+    "king",
+    "queen",
+    "royalty",
+    "royal"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To belong to or relate to a royal family. English = (be) royal."
+  ],
+  "cf": [
+    "prince",
+    "princess"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A member of a royal family who reigns over a country. English = monarch, sovereign.",
+    "2. A male member of a royal family who reigns over a country. English = king.",
+    "3. A female member of a royal family who reigns over a country. English = queen.",
+    "4. Members of a royal family. English = royalty."
+  ],
+  "signNumber": 2903,
+  "recordNumber": 1640,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 1,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "crown.1",
+    "king"
+  ]
+}

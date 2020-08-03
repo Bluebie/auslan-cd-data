@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "restrict",
+    "health",
+    "work",
+    "twohand",
+    "domonly",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "psychiatry.2",
+  "oldentry": "",
+  "english": [
+    "psychiatry",
+    "psychiatrist"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "doctor.1",
+    "psychologist"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The branch of medicine concerned with the treatment of mental illness. English = psychiatry.",
+    "2. A doctor who treats people suffering from mental illness. English = psychiatrist."
+  ],
+  "signNumber": 1847,
+  "recordNumber": 1107,
+  "signVisualComposition": "",
+  "activeHandShape": 2.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": []
+}

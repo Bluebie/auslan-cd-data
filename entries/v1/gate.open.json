@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "gate.open",
+  "oldentry": "",
+  "english": [
+    "gate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To open a cupboard or a gate."
+  ],
+  "cf": [
+    "gate.1a",
+    "cupboard"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 3741,
+  "recordNumber": 2208,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "gate.close",
+    "cupboard.close"
+  ],
+  "synonyms": [
+    "cupboard.open"
+  ]
+}

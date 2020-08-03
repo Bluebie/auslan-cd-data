@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "work",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "Auslan signers often fingerspell 'pro' for 'professional'.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "professional.1a",
+  "oldentry": "",
+  "english": [
+    "professional",
+    "profession",
+    "professionalism"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do something to earn money rather than as a hobby. English = (be) a professional.",
+    "2. To have a job that requires special training and has a fairly high status. English = (be) a professional.",
+    "3. To do a job or task in a skilful way and to a very high standard. English = (be) professional."
+  ],
+  "cf": [
+    "distinguished"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Someone who has a job that requires special training and has a fairly high status, for example the job of a doctor or lawyer. English = professional.",
+    "2. A type of job that requires special training and that has a fairly high status, for example the job of doctor or lawyer. English = profession.",
+    "3. The skilful way in which someone does a job. English = professionalism."
+  ],
+  "signNumber": 1818,
+  "recordNumber": 1094,
+  "signVisualComposition": "",
+  "activeHandShape": 2.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 13,
+  "secondLocation": null,
+  "antonyms": [
+    "amateur"
+  ],
+  "synonyms": []
+}

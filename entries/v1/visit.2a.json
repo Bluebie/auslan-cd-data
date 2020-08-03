@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "visit.2a",
+  "oldentry": "",
+  "english": [
+    "visit",
+    "inspection",
+    "visitor",
+    "inspect"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go and see someone or something in order to know more about them or it. English = inspect.",
+    "2. To go and see someone in order to meet them and socialise. English = visit."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of going and seeing someone or something in order to know more about them or it. English = inspection, visit.",
+    "2. The act of going and seeing someone in order to meet them and socialise. English = visit.",
+    "3. Someone who comes to where you are or to where you live in order to meet you and socialise. English = visitor."
+  ],
+  "signNumber": 1632,
+  "recordNumber": 968,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 2.1,
+  "primaryLocation": 7,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "visit.1"
+  ]
+}

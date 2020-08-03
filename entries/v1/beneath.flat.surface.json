@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "gensign",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "An area or a flat extended object located below a flat object or level area, or any thing or any action directly or indirectly associated with this, especially a foundation.",
+  "questlex": [],
+  "idgloss": "beneath.flat.surface",
+  "oldentry": "",
+  "english": [
+    "foundation",
+    "underside",
+    "beneath"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located some distance below or underneath something (ie not touching it). English = beneath."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The basic idea, attitude, or experience on which a belief or way of life is built. English = foundation.",
+    "2. The layers of bricks or concrete below the ground that a building or other structure is built on. English = foundation.",
+    "3. The part of something which normally faces towards the ground. English = underside."
+  ],
+  "signNumber": 4123,
+  "recordNumber": 2482,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "above.flat.surface"
+  ],
+  "synonyms": [
+    "beneath.solid.object",
+    "under",
+    "bottom.2"
+  ]
+}

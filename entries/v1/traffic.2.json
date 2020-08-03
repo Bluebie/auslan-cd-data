@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "autos",
+    "travel",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "traffic.2",
+  "oldentry": "",
+  "english": [
+    "traffic",
+    "busy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a road, to be full of moving vehicles. English = (be) busy."
+  ],
+  "cf": [
+    "flow.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The movement of vehicles along a road. English = traffic, flow of traffic."
+  ],
+  "signNumber": 2412,
+  "recordNumber": 1333,
+  "signVisualComposition": "",
+  "activeHandShape": 4.1,
+  "passiveHandShape": 4.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "traffic.1",
+    "traffic.jam"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "metalang",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "characters.1",
+  "oldentry": "",
+  "english": [
+    "character"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be unable to be read something because the writing system (script) is unknown, secret or very unclear. English = (be) indecipherable, (be) unreadable."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A symbol in a written language, such as a letter or number. English = character.",
+    "2. Letters, numbers, or other symbols that are written or printed in the unknown script of a foreign language.",
+    "3. The letters, numbers, and other symbols of the written script of the Chinese and related languages. English = Chinese characters, Japanese characters, kanji."
+  ],
+  "signNumber": 885,
+  "recordNumber": 507,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "characters.2"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "parking.1a",
+  "oldentry": "",
+  "english": [
+    "parking",
+    "parking lot"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "park-vehicle.1a",
+    "reverse-vehicle.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The activity of driving a vehicle into a position where it can stay for a period of time, and leaving it there. English = parking.",
+    "2. An area of ground where people can leave their cars. English = parking lot."
+  ],
+  "signNumber": 4070,
+  "recordNumber": 2437,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": []
+}

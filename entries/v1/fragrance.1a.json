@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "blend",
+    "auslex",
+    "senseact",
+    "quality",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "ant2",
+    "ant3"
+  ],
+  "sense": "",
+  "blend": "SMELL + GOOD",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fragrance.1a",
+  "oldentry": "",
+  "english": [
+    "fragrance",
+    "perfume",
+    "scent",
+    "fragrant",
+    "scented",
+    "perfumed"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To smell good or lovely, to have a sweet or pleasant smell. English = (be) fragrant, (be) scented, (be) perfumed."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A smell which is beautiful or lovely. English = fragrance, perfume, scent."
+  ],
+  "signNumber": 1897.1,
+  "recordNumber": 1134,
+  "signVisualComposition": "",
+  "activeHandShape": 2.4,
+  "passiveHandShape": null,
+  "primaryLocation": 5,
+  "secondLocation": null,
+  "antonyms": [
+    "bad.smell",
+    "pong"
+  ],
+  "synonyms": []
+}

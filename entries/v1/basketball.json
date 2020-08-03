@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "sports",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "basketball",
+  "oldentry": "Popular explanation: bouncing the ball.",
+  "english": [
+    "basketball",
+    "netball",
+    "bounce",
+    "dribble"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To play basketball.",
+    "2. To play netball.",
+    "3. In netball and basketball, to move around a court while bouncing a ball. English = dribble."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A game in which two teams of five players each try to score goals by throwing a large ball through a circular net fixed to a metal ring at each end of the court. English = basketball.",
+    "2. A game in which two teams of seven players, usually women, each try to score goals by throwing a large ball through a net which is at the top of a pole at each end of the court. English = netball.",
+    "3. The act of hitting down repeatedly on a ball. English = bounce."
+  ],
+  "signNumber": 3492,
+  "recordNumber": 2042,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 16,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "netball.1a",
+    "bounce.1a"
+  ]
+}

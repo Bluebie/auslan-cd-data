@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "seasons",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "rain",
+  "oldentry": "",
+  "english": [
+    "rain",
+    "downpour",
+    "pour"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. For water to fall from the clouds in small drops. English = rain.",
+    "2. [With stress] to rain heavily. English = pour."
+  ],
+  "cf": [
+    "drip"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Water that falls from the clouds in small drops. English = rain.",
+    "2. [With stress] a fast and heavy rain. English = downpour."
+  ],
+  "signNumber": 2984,
+  "recordNumber": 1696,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 13,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "drizzle"
+  ]
+}

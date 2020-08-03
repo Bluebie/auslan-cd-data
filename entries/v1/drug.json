@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "health",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "cf1",
+    "cf2",
+    "cf3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "drug",
+  "oldentry": "",
+  "english": [
+    "drug"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give a chemical substance to a person or animal. English = drug."
+  ],
+  "cf": [
+    "medicine",
+    "pill",
+    "take.tablet.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A chemical which is given to people in order to treat or prevent an illness or disease. English = drug.",
+    "2. Substances that some people smoke or inject into their blood because of their stimulating effects. In most countries, these uses are illegal. English = drugs."
+  ],
+  "signNumber": 5858,
+  "recordNumber": 3483,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

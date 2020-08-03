@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "reglex",
+    "sa",
+    "cooking",
+    "work",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "chef.1",
+  "oldentry": "Popular explanation: a crown on the head.",
+  "english": [
+    "chef",
+    "kitchen"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who cooks in a restaurant or a hotel. English = chef.",
+    "2. The type of hat often worn by chefs. It is white and shaped like a tall mushroom with a thick stem. English = chef's hat.",
+    "3. The place in a hotel, restaurant or home where cooking is done. English = kitchen."
+  ],
+  "signNumber": 2904,
+  "recordNumber": 1641,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 1,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "kitchen.1",
+    "cook.1a",
+    "chef.2"
+  ]
+}

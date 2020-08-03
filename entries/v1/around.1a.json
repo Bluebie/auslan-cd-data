@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "locdir",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "around.1a",
+  "oldentry": "",
+  "english": [
+    "circuit",
+    "lap",
+    "roundabout"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located around a central point.",
+    "2. To go around a central point.",
+    "3. To do a lap or circuit of a circular course.",
+    "4. To do or say something in a way which is not the simplest or most direct way; to avoid the point or the issue. English = (be) roundabout. Idiomatic English = beat around the bush."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The path or places around something.",
+    "2. A journey around a circular path or course. English = circuit, lap."
+  ],
+  "signNumber": 1090,
+  "recordNumber": 640,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "go.to.and.fro.1a"
+  ]
+}

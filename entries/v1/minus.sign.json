@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "maths",
+    "onehand",
+    "transl",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "minus.sign",
+  "oldentry": "Popular explanation: the minus sign.",
+  "english": [
+    "minus"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "equal.2"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used between two numbers when you are doing mathematical operations to show that you are about to subtract the second number from the first. English = minus.",
+    "2. Used before a number when talking about the weather and temperatures to mean a temperature below zero degrees. English = minus."
+  ],
+  "nomlex": [
+    "1. The sign (-) which is put between two numbers in order to show that the second number is being subtracted from the first number. English = minus sign."
+  ],
+  "signNumber": 1429,
+  "recordNumber": 854,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "plus",
+    "positive.1a"
+  ],
+  "synonyms": [
+    "subtract.1a",
+    "negative"
+  ]
+}

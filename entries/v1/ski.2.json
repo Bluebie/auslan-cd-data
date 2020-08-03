@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "sports",
+    "hobbies",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "ski.2",
+  "oldentry": "",
+  "english": [
+    "skiing",
+    "water-skiing",
+    "ski",
+    "water-ski"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move over snow using skis. English = ski.",
+    "2. To move over water using water-skis. English = water-ski."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The sport in which you move on snow wearing long, flat, narrow pieces of wood, metal, or plastic that are fastened to boots. English = skiing.",
+    "2. The sport in which you ski on water while being pulled by a boat. English = water-skiing."
+  ],
+  "signNumber": 1664,
+  "recordNumber": 988,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 2.1,
+  "primaryLocation": 16,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "ski.1"
+  ]
+}

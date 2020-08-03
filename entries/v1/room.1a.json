@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "auslex",
+    "rooms",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "room.1a",
+  "oldentry": "",
+  "english": [
+    "room",
+    "paddock",
+    "pitch",
+    "field",
+    "court"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. One of the separate sections in a house or other building, which has its own wall, ceiling, floor, and door. English = room.",
+    "2. A defined area, inside or outside a building, often one which is surrounded by a fence or a wall.",
+    "3. Any area of land which has been fenced in. English = paddock.",
+    "4. An area in which you play a  particular sport. English = pitch, field, court."
+  ],
+  "signNumber": 1104,
+  "recordNumber": 649,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 16,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "ceiling.1a"
+  ]
+}

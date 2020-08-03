@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "health",
+    "doublehnd",
+    "sym",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "emergency.2",
+  "oldentry": "",
+  "english": [
+    "emergency",
+    "ambulance"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An unexpected or dangerous situation, which must be dealt with immediately. English = emergency",
+    "2. A vehicle for taking people to and from hospital. English = ambulance"
+  ],
+  "signNumber": 954,
+  "recordNumber": 550,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "emergency.1",
+    "emergency.2",
+    "ambulance"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "interj1",
+    "blend",
+    "enddir",
+    "auslex",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "EAT + DROP",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bullshit.2a",
+  "oldentry": "Popular explanation: getting rid of something distasteful from the mouth.",
+  "english": [
+    "bullshit",
+    "rubbish",
+    "hate",
+    "loathe",
+    "yuk"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To dislike something quite strongly. English = hate, loathe.",
+    "2. To reject, refuse or dismiss something because you do not like it.",
+    "3. Of food, to spit out something because it tastes horrible."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone that what they have said is nonsense or completely untrue. English = 'Bullshit!'",
+    "2. Used alone to express your disgust at something such as a food. English = 'Yuk!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. Something which is nonsense, completely untrue, or not worth taking seriously. English = bullshit, rubbish."
+  ],
+  "signNumber": 64,
+  "recordNumber": 36,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "bullshit.1",
+    "bullshit.3a",
+    "rubbish"
+  ]
+}

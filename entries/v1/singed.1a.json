@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "singed.1a",
+  "oldentry": "",
+  "english": [
+    "singe",
+    "scorch"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To slightly burn a surface so that it changes colour but does not catch fire. English = singe.",
+    "2. To burn and slightly damage a surface by heat. English = scorch."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A surface which has been slightly burnt so that it changes colour but does not catch fire; a singed surface.",
+    "2. A surface which has been burnt slightly or damaged by heat."
+  ],
+  "signNumber": 2843,
+  "recordNumber": 1602,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "fire.1a"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "step.back.1a",
+  "oldentry": "",
+  "english": [
+    "timidity",
+    "passiveness",
+    "retreat",
+    "timid",
+    "withdrawn",
+    "passive"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To step back from a place or a situation because you do not want to be seen or because you do not want to be involved, especially because you are timid and lack confidence.",
+    "2. To be afraid of a situation or to lack confidence. English = (be) timid, (be) withdrawn, (be) passive."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A fear or lack of confidence. English = timidity, passiveness.",
+    "2. A movement away from a difficult or dangerous situation. English = retreat."
+  ],
+  "signNumber": 1300,
+  "recordNumber": 774,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 24,
+  "antonyms": [
+    "step.forward.1a",
+    "assertiveness"
+  ],
+  "synonyms": [
+    "withdraw"
+  ]
+}

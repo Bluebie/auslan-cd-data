@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "utensils",
+    "onehand",
+    "transl",
+    "telecommun",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "TTY.1",
+  "oldentry": "Popular explanation: picking up and placing a telephone receiver on a TTY.",
+  "english": [
+    "TTY",
+    "telephone typewriter",
+    "teletypewriter",
+    "teletype"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To answer a telephone typewriter."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A device with a typewriter keyboard which sends and receives typed messages over the telephone. English = telephone typewriter, teletypewriter, teletype, TTY."
+  ],
+  "signNumber": 6612,
+  "recordNumber": 3935,
+  "signVisualComposition": "",
+  "activeHandShape": 15.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "TTY.2",
+    "telephone.1",
+    "answer.telephone"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "interj1",
+    "auslex",
+    "quality",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "quiet.1a",
+  "oldentry": "Popular explanation: culturally shared gesture.",
+  "english": [
+    "quiet",
+    "silence",
+    "stillness",
+    "silent",
+    "still",
+    "quietly",
+    "silently"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have very little noise in a place. English = (be) quiet, (be) silent; (be) still."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone to stop making a noise or a commotion. English = 'Be quiet!', 'Be still!'"
+  ],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action of that verb is performed without hardly any noise or vibration at all. English = quietly, silently."
+  ],
+  "nomlex": [
+    "1. The condition or state in which there is no noise at all, and especially no talking; or in which there is no commotion. English = quiet, silence, stillness."
+  ],
+  "signNumber": 620,
+  "recordNumber": 358,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "noise.1a"
+  ],
+  "synonyms": [
+    "quiet.2a"
+  ]
+}

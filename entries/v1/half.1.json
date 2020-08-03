@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "dir",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "half.1",
+  "oldentry": "Popular explanation: cutting something in half.",
+  "english": [
+    "half",
+    "part",
+    "halve"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be one of two equal parts of an amount of something or an object. English = (be) half.",
+    "2. To cut an object or divide an amount of something into two equal parts. English = halve.",
+    "3. To be one of the pieces or areas which, together with other pieces or areas, forms one larger thing. English = (be) part."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. One of two equal parts of an amount of something or an object. English = half.",
+    "2. A piece or an area of a larger thing. English = part."
+  ],
+  "signNumber": 4307.1,
+  "recordNumber": 2624,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "half.past"
+  ]
+}

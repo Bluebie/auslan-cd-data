@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "restrict",
+    "arts",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "prompt",
+  "oldentry": "",
+  "english": [
+    "prompter",
+    "prompt"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To remind an actor of the words he or she has forgotten during a performance, or of the time when they are meant to do something. English = prompt.",
+    "2. To assist an interpreter by providing words or signs he or she does not know or missed during an interpretation. English = prompt."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person in a theatre whose job is to remind an actor of words that he or she has forgotten during a performance. English = prompter."
+  ],
+  "signNumber": 1869,
+  "recordNumber": 1119,
+  "signVisualComposition": "",
+  "activeHandShape": 2.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "remind.1a",
+    "help.1a"
+  ]
+}

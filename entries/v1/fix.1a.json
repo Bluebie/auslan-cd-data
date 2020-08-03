@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fix.1a",
+  "oldentry": "",
+  "english": [
+    "repairs",
+    "repair",
+    "fix",
+    "mend",
+    "renovate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make something such as a machine which is not working or a piece of clothing which is damaged better again so that it works or is no longer damaged. English = repair, fix, mend.",
+    "2. Of an old building or machine, to repair it, improve it and get it back into good condition. English = renovate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something you do to something such as a machine which is not working or an item of clothing which is damaged to make it better again. English = repairs."
+  ],
+  "signNumber": 4425,
+  "recordNumber": 2690,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "break",
+    "tear.1a"
+  ],
+  "synonyms": [
+    "fix.2"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "restrict",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "smoke.dope.2",
+  "oldentry": "",
+  "english": [
+    "marijuana",
+    "hashish",
+    "dope",
+    "smoke",
+    "hash"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To smoke marijuana or hashish using a pipe; to smoke dope."
+  ],
+  "cf": [
+    "hash"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small pipe used for smoking marijuana or hashish.",
+    "2. A drug made from the hemp plant which people usually smoke like a cigarette or like tobacco in a pipe to make them feel relaxed. It is illegal in many countries. English = marijuana, hashish. Informal English = dope, hash."
+  ],
+  "signNumber": 6273,
+  "recordNumber": 3748,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 15.1,
+  "primaryLocation": 10,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "smoke.dope.1",
+    "pipe.3"
+  ]
+}

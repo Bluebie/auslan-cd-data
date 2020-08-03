@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "partlex1",
+    "reglex",
+    "sth",
+    "time",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "yesterday.1a",
+  "oldentry": "",
+  "english": [
+    "yesterday",
+    "last"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be the most recent period of time, event, or thing. Used immediately before a time sign such as 'night', 'week', 'month', 'year', or before event sign such as 'birthday', 'marriage'. English = (be) last."
+  ],
+  "cf": [
+    "yesteryear.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence or next to a verb sign to mean that the action took place yesterday or on a day before another particular day. English = yesterday, on the day before that, on the previous day."
+  ],
+  "nomlex": [
+    "1. The day before today. English = yesterday.",
+    "2. The day before any given day; the previous day."
+  ],
+  "signNumber": 583,
+  "recordNumber": 336,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [
+    "tomorrow"
+  ],
+  "synonyms": [
+    "yesterday.2",
+    "past.1a"
+  ]
+}

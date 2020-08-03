@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "door.open",
+  "oldentry": "Popular explanation: a door opening.",
+  "english": [
+    "door open",
+    "door"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To open the entrance to a building, room, cupboard, or vehicle by swinging a piece of wood, glass, or metal across the entrance; to open a door. English = open.",
+    "2. About businesses, offices, shops, etc., to be in a period when work is happening and there is access to the premises. English = (be) open."
+  ],
+  "cf": [
+    "door",
+    "sliding-door.open"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4176,
+  "recordNumber": 2524,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "close.1a"
+  ],
+  "synonyms": [
+    "open"
+  ]
+}

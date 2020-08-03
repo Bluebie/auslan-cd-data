@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "complicated",
+  "oldentry": "",
+  "english": [
+    "complication",
+    "complicated",
+    "complex",
+    "complicate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have so many parts or aspects that it is difficult to understand or deal with. English = (be) complicated, (be) complex.",
+    "2. To make something more difficult to understand or deal with. English = complicate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A circumstance that makes a situation harder to deal with or understand. English = complication, complications."
+  ],
+  "signNumber": 3049,
+  "recordNumber": 1747,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.2,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "simple"
+  ],
+  "synonyms": []
+}

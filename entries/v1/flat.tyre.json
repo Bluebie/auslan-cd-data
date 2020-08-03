@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "autos",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "ant3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "flat.tyre",
+  "oldentry": "",
+  "english": [
+    "flat",
+    "flatted",
+    "deflate",
+    "deflation",
+    "still"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a tyre, to become low in air so that there is not enough in it. English = go flat, flatten, deflate; (be) flat.",
+    "2. Of a liquid, especially a drink, to go from being fizzy with lots of bubbles to having no bubbles at all. It is better with bubbles. English = go flat, (be) flat.",
+    "3. Of a liquid, especially a drink, to have no bubbles in it at all because it is made that way. English = (be) still."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A tyre that does not have enough air in it. English = flat, flat tyre.",
+    "2. Of a tyre, the process of losing air. English = leaking, deflation."
+  ],
+  "signNumber": 3651,
+  "recordNumber": 2150,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [
+    "pump.1",
+    "pump.2",
+    "boil.1a"
+  ],
+  "synonyms": []
+}

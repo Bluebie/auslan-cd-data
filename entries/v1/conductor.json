@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "onehand",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "conductor",
+  "oldentry": "Popular explanation: conducting a band.",
+  "english": [
+    "orchestra",
+    "conductor",
+    "band",
+    "conduct"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To direct the performance of an orchestra or choir. English = conduct."
+  ],
+  "cf": [
+    "guitar"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A large group of musicians who play a variety of different instruments together, usually playing classical music. English = orchestra.",
+    "2. A person who stands in front of an orchestra or choir and direct its performance. English = conductor.",
+    "3. A group of musicians, especially who play brass or percussion instruments. English = band."
+  ],
+  "signNumber": 333,
+  "recordNumber": 185,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "music.1a"
+  ]
+}

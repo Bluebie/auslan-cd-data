@@ -1,0 +1,83 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "bodyloc",
+    "auslex",
+    "health",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "engtf12",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "injection.1a",
+  "oldentry": "Popular explanation: injecting a hypodermic needle into the arm.",
+  "english": [
+    "syringe",
+    "hypodermic needle",
+    "injection",
+    "jab",
+    "inoculation",
+    "vaccination",
+    "drug addict",
+    "heroin",
+    "inoculate",
+    "vaccinate",
+    "shoot up",
+    "inject"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use a syringe to put liquid into a person's body. English = inject. Informal English = jab.",
+    "2. To inject someone with a weak form of a disease as a way of protecting them from it. English = inoculate, vaccinate.",
+    "3. To inject yourself with harmful drugs, often because you are addicted to them. Informal English = shoot up.",
+    "4. [Especially at 'unusual' locations on the body (e.g., teeth, jaw, various joints)], to administer a local anaesthetic by injection."
+  ],
+  "cf": [
+    "needle",
+    "blood-sample"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small tube with a plunger and a fine hollow needle or pointed end. It is used for putting liquids into something and taking them out, for example drugs into a person's body or for taking blood samples from them. English = syringe, hypodermic needle.",
+    "2. The act of using a syringe to put liquids into a person's body. English = injection. Informal English = jab.",
+    "3. The act of injecting someone with a weak form of a disease as a way of protecting them from it. English = inoculation, vaccination.",
+    "4. A person who injects themselves with harmful drugs; the drugs themselves.  English = drug addict, intravenous drug user; drugs, heroin."
+  ],
+  "signNumber": 5532,
+  "recordNumber": 3273,
+  "signVisualComposition": "",
+  "activeHandShape": 8.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 18,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "face.mask"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "religion",
+    "doublehnd",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "church.1",
+  "oldentry": "Popular explanation: praying.",
+  "english": [
+    "church",
+    "religion",
+    "religious"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a strong belief in a god or gods and for this to be shown in your everyday life. English = (be) religious."
+  ],
+  "cf": [
+    "prayer"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A building in which Christians worship. English = church.",
+    "2. The belief in a god or gods and the activities that are connected with this belief, such as prayer or worship in a church or temple. English =  religion."
+  ],
+  "signNumber": 3681,
+  "recordNumber": 2168,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "church.2",
+    "religion.1a"
+  ]
+}

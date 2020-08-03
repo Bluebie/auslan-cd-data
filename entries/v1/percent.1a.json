@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "partlex1",
+    "auslex",
+    "maths",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "percent.1a",
+  "oldentry": "Popular explanation: the outline of a percent symbol with zero.",
+  "english": [
+    "percentage",
+    "per cent"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "degree"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately after numbers to mean the amount in question is expressed as a percentage. English = per cent."
+  ],
+  "nomlex": [
+    "1. A fraction of an amount expressed as a particular number of hundredths of that amount. English = percentage.",
+    "2. A single unit of measurement when an amount is expressed as a percentage. English = per cent.",
+    "3. The symbol used to write percentages (%) which is read as 'per cent'."
+  ],
+  "signNumber": 85,
+  "recordNumber": 47,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

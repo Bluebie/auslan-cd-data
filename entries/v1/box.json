@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "box",
+  "oldentry": "Popular explanation: the sides of a box.",
+  "english": [
+    "box",
+    "container",
+    "carton",
+    "block"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put something in a box or container. English = box."
+  ],
+  "cf": [
+    "coffin.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A square or rectangular object for putting things in which sometimes has a lid. English = box, container.",
+    "2. A large, strong cardboard box in which goods are packed for storage and transport. English = carton.",
+    "3. A large rectangular piece of something. English = block."
+  ],
+  "signNumber": 3788,
+  "recordNumber": 2245,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "trunk.1",
+    "block.1",
+    "packet.1"
+  ]
+}

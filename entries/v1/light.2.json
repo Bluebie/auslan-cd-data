@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "furn",
+    "utensils",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "light.2",
+  "oldentry": "Popular explanation: rays of light.",
+  "english": [
+    "light",
+    "illuminate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To shine light on to something. English = illuminate.",
+    "2. To turn on or switch on an electric light."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that produces light, particularly an electric bulb. English = light."
+  ],
+  "signNumber": 3,
+  "recordNumber": 2,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 1,
+  "secondLocation": null,
+  "antonyms": [
+    "extinguish.1a",
+    "extinguish.light"
+  ],
+  "synonyms": [
+    "switch.1a",
+    "light.bulb",
+    "emit"
+  ]
+}

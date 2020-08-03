@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "continue.1a",
+  "oldentry": "",
+  "english": [
+    "continuation",
+    "process",
+    "procedure",
+    "continue",
+    "go on",
+    "proceed",
+    "continually"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not stop doing something, but to keep on doing it. English = continue, go on.",
+    "2. To continue to do something or to go through the various stages of a process. English = proceed.",
+    "3. To do things or deal with things in due course (ie as they happen and when they need to be dealt with)."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action takes place over a period of time without stopping. English = continually."
+  ],
+  "nomlex": [
+    "1. The fact that something does not stop happening or does not stop existing, but keeps on happening or existing. English = continuation.",
+    "2. A series of actions which are carried out in order to achieve a particular result. English = process.",
+    "3. A way of doing something, especially the usual or correct way. English = procedure."
+  ],
+  "signNumber": 3752,
+  "recordNumber": 2216,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "stop"
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "blend",
+    "auslex",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "WILL + 'NOT'",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "won't.2",
+  "oldentry": "",
+  "english": [
+    "refusal",
+    "refuse",
+    "will not",
+    "won't"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To deliberately intend not to do something or to say you will not do something. English = refuse."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used before or after a verb (action) sign in a sentence to mean the person doing the action does not intend to do it in the future or, if the actor is a thing, that someone feels that is certain not to happen in the future. English = will not, won't."
+  ],
+  "nomlex": [
+    "1. The act of deliberately not doing something or saying that you will not do it. English = refusal."
+  ],
+  "signNumber": 4725,
+  "recordNumber": 2855,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [
+    "will.1a",
+    "dismissive"
+  ],
+  "synonyms": [
+    "refuse.1a",
+    "no.1a"
+  ]
+}

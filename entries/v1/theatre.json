@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "arts",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "theatre",
+  "oldentry": "",
+  "english": [
+    "theatre",
+    "theatrical"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To belong to or relate to the theatre. English = (be) theatrical.",
+    "2. Of behaviour, to be exaggerated, unnatural, and done deliberately for effect. English = (be) theatrical."
+  ],
+  "cf": [
+    "drama",
+    "perform.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A building with a stage on which plays and other entertainments are performed. English = theatre.",
+    "2. The activity of acting in, producing, and writing plays. English = theatre."
+  ],
+  "signNumber": 6534,
+  "recordNumber": 3889,
+  "signVisualComposition": "",
+  "activeHandShape": 13.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "performance"
+  ]
+}

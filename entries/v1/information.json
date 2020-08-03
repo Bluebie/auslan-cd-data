@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "lingact",
+    "metalang",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "information",
+  "oldentry": "",
+  "english": [
+    "information",
+    "explanation",
+    "description",
+    "inform",
+    "explain",
+    "describe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To communicate facts, details and ideas about something or someone. English = inform.",
+    "2. To communicate facts, details and ideas about something to say why it happened or is the way that it is. English = explain.",
+    "3. Of a person, thing or event to say what they are like or what happened. English = describe."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Facts, details and ideas which are communicated or received about something or someone. English = information.",
+    "2. Facts, details and ideas which say why something happened or is the way it is. English = explanation.",
+    "3. The act of saying what someone or something is like or an account of what someone or something is like. English = description."
+  ],
+  "signNumber": 938,
+  "recordNumber": 537,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "document.1a"
+  ]
+}

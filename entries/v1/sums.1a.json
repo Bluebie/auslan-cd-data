@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "maths",
+    "doublehnd",
+    "sym",
+    "para",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sums.1a",
+  "oldentry": "",
+  "english": [
+    "arithmetic",
+    "sums",
+    "figures",
+    "book-keeping",
+    "book-keeper",
+    "accountant",
+    "sum",
+    "calculate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To work out a number or an amount by doing some arithmetic. English = do sums, calculate.",
+    "2. To do the accounts, to do book-keeping."
+  ],
+  "cf": [
+    "calculator.1a",
+    "number.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The part of mathematics that is concerned with the addition, subtraction, multiplication, and division of numbers. English = arithmetic.",
+    "2. Simple calculations in arithmetic. English = sums.",
+    "3. Particular amounts of something expressed as numbers that are written down. English = figures.",
+    "4. The job of keeping an accurate record of the money that is spent and received by a business or other organisation; or the person who does it. English = book-keeping, book-keeper, accountant."
+  ],
+  "signNumber": 2684,
+  "recordNumber": 1490,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "score.1"
+  ]
+}

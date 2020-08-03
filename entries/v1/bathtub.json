@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "furn",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bathtub",
+  "oldentry": "",
+  "english": [
+    "bath",
+    "bathtub",
+    "bathe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To sit or lie in a bath and wash your body. English = have a bath, bathe."
+  ],
+  "cf": [
+    "shower"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A long, rectangular container which you fill with water and sit or lie in while you wash your body. English = bath, bathtub.",
+    "2. The act of washing your body while sitting or lying in a bath filled with water. English = bath."
+  ],
+  "signNumber": 1660,
+  "recordNumber": 985,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 2.1,
+  "primaryLocation": 16,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "bath.1a",
+    "relax.1"
+  ]
+}

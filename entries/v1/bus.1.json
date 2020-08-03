@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "auslex",
+    "travel",
+    "doublehnd",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bus.1",
+  "oldentry": "Popular explanation: steering a large vehicle.",
+  "english": [
+    "bus",
+    "truck",
+    "lorry",
+    "bus driver",
+    "truck driver",
+    "lorry driver"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To drive a large vehicle, such as a bus, truck, lorry, or tractor."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A large vehicle, such as a bus, truck, lorry, or tractor which has a large, almost horizontal, steering wheel.",
+    "2. A large motor vehicle that carries passengers from one place to another. English = bus.",
+    "3. A large vehicle that is used to transport goods by road. English = truck, lorry.",
+    "4. A person whose job is driving buses, trucks or lorries. English = bus driver, truck driver, lorry driver."
+  ],
+  "signNumber": 5931,
+  "recordNumber": 3529,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "van.1",
+    "truck",
+    "tractor.2"
+  ]
+}

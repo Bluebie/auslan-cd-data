@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "hobbies",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bet.2a",
+  "oldentry": "",
+  "english": [
+    "bet",
+    "wager",
+    "debt",
+    "owe"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make an agreement with someone that if what you say will happen does happen, they will give you a sum of money, and if you are wrong you will give them a sum of money. English = bet. Formal English = wager.",
+    "2. To have borrowed money from someone and to have not yet paid it back. English = owe."
+  ],
+  "cf": [
+    "owe.1",
+    "dice.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal English = wager.",
+    "2. The money that you have borrowed from someone and not yet paid back. English = debt."
+  ],
+  "signNumber": 224,
+  "recordNumber": 132,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "bet.1",
+    "sue",
+    "debt"
+  ]
+}

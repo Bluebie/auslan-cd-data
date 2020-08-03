@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "argue",
+  "oldentry": "",
+  "english": [
+    "argument",
+    "dispute",
+    "debate",
+    "argue",
+    "dispute"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say things which show that you disagree with someone about something, sometimes speaking or signing angrily. English = argue.",
+    "2. To say things which show that you disagree with someone about something. English = dispute.",
+    "3. To discuss a topic fairly formally amongst several people expressing different views. English = debate."
+  ],
+  "cf": [
+    "tell.off",
+    "shut.up.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A disagreement with someone about something, sometimes resulting in speaking or signing angrily. English = argument.",
+    "2. A disagreement with someone about something. English = dispute.",
+    "3. A discussion in which people express different opinions about a subject. English = debate."
+  ],
+  "signNumber": 1083,
+  "recordNumber": 635,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "quarrel"
+  ]
+}

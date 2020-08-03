@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "interj1",
+    "auslex",
+    "time",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.since",
+  "oldentry": "",
+  "english": [
+    "ages",
+    "not since"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [
+    "1. Used alone on meeting people to mean it has been a long time since you saw them last. English = 'I haven't seen you for ages!', 'It's been ages!', and so on."
+  ],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action did not begin at the present time (or a time which is understood) and does not extend into the future (or after that time). English =  not since.",
+    "2. Used immediately next to a time sign to mean the something will not happen from that time and into the future from that time. English = not since."
+  ],
+  "nomlex": [],
+  "signNumber": 428,
+  "recordNumber": 237,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "not.prior.to",
+    "not.before.that"
+  ],
+  "synonyms": []
+}

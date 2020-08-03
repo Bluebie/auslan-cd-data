@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "furn",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "electric.light",
+  "oldentry": "",
+  "english": [
+    "light",
+    "light up",
+    "lighten",
+    "illuminate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To add brightness or light to a place by turning on anything that produces light, especially an electric bulb. English = light up, lighten, illuminate."
+  ],
+  "cf": [
+    "electricity.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The brightness that lets you see things, and that comes from the sun, the moon, lamps, or fire. English = light.",
+    "2. Anything that produces light, particularly an electric bulb. English = light, electric light."
+  ],
+  "signNumber": 636,
+  "recordNumber": 370,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "light.1",
+    "light.2"
+  ]
+}

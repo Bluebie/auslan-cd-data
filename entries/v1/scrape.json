@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "scrape",
+  "oldentry": "",
+  "english": [
+    "scrape",
+    "scraping",
+    "grind"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To remove something from a surface by pulling a knife or other sharp object over it. English = scrape.",
+    "2. In motor mechanics, to grind the head of the engine."
+  ],
+  "cf": [
+    "shave.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The action of removing something from a surface by pulling a knife or some other sharp object over it. English = scraping."
+  ],
+  "signNumber": 1513,
+  "recordNumber": 902,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

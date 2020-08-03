@@ -1,0 +1,78 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "approximate.1a",
+  "oldentry": "",
+  "english": [
+    "average",
+    "approximation",
+    "doubt",
+    "vacillation",
+    "indecision",
+    "approximate",
+    "doubtful",
+    "vacillate",
+    "indecisive"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To add two or more numbers together and divide that total by the number of numbers you added together. English = average.",
+    "2. To give a number, time, or position for something that is correct but not exact. English = approximate.",
+    "3. To be not sure about the details of something; to be doubtful.",
+    "4. To be unable to come to a decision, to keep on changing your opinion. English = vacillate, (be) indecisive."
+  ],
+  "cf": [
+    "middle"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The result that you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = average.",
+    "2. A number, time, or position for something that is correct but not exact. English = approximation.",
+    "3. The feeling you have when you are not sure about the details of something. English = doubt.",
+    "4. The quality of being unable to come to a decision about something. English = vacillation, indecision."
+  ],
+  "signNumber": 4316,
+  "recordNumber": 2631,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "decide.2",
+    "decide.1a"
+  ],
+  "synonyms": [
+    "approximate.2"
+  ]
+}

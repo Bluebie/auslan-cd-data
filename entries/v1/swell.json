@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "swell",
+  "oldentry": "Popular explanation: something getting bigger.",
+  "english": [
+    "expansion",
+    "enlargement",
+    "swelling",
+    "enlarge",
+    "expand",
+    "swell",
+    "swell up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To become larger. English = enlarge, expand.",
+    "2. To become larger and rounder by being filled with liquid or air. English = swell.",
+    "3. Of a body part, to become larger and rounder than normal, usually as a result of an injury or an illness. English = swell, swell up."
+  ],
+  "cf": [
+    "mumps.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The increase in size of something such that it becomes larger. English = expansion, enlargement.",
+    "2. The increase in size of something such that it becomes larger and rounder by being filled with liquid or air. English = swelling.",
+    "3. The increase in size of a body part such that it becomes larger and rounder than normal, usually as a result of an injury or an illness. English = swelling."
+  ],
+  "signNumber": 153,
+  "recordNumber": 84,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "summary",
+    "shrink.1a"
+  ],
+  "synonyms": [
+    "expand.1a",
+    "magnify"
+  ]
+}

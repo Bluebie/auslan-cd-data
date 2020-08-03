@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "dir",
+    "orient",
+    "auslex",
+    "senseact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "look.at.1a",
+  "oldentry": "",
+  "english": [
+    "look",
+    "regard",
+    "observation",
+    "watch",
+    "observe",
+    "stare"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To turn your eyes in a particular direction so that you can see what is there. English = look, look at.",
+    "2. To look at something for a period of time and to pay attention to what is happening. English = watch, observe.",
+    "3. [With stress] to look at something for a long time. English = stare."
+  ],
+  "cf": [
+    "notice.1",
+    "meet.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of turning your eyes in a particular direction so that you can see what is there. English = look, regard.",
+    "2. A period of time during which you look at something and pay attention to what is happening. English = observation."
+  ],
+  "signNumber": 1546,
+  "recordNumber": 920,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 7,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "stare"
+  ]
+}

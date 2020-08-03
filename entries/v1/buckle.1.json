@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "clothes",
+    "autos",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "buckle.1",
+  "oldentry": "",
+  "english": [
+    "seat-belt",
+    "buckle"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put on a belt, to fasten a belt, to buckle up a belt.",
+    "2. To put on a seat belt, to fasten a seat belt, to buckle up a seat belt."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A strap attached to a seat in a car or an aeroplane. You fasten it across your body in order to prevent yourself being thrown out of the seat if there is a sudden movement. English = seat-belt.",
+    "2. A piece of metal or plastic attached to one end of a belt or strap, which is used to fasten it. English = buckle."
+  ],
+  "signNumber": 5243,
+  "recordNumber": 3147,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 7.1,
+  "primaryLocation": 16,
+  "secondLocation": 26,
+  "antonyms": [
+    "unbuckle"
+  ],
+  "synonyms": [
+    "fasten"
+  ]
+}

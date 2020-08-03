@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "enddir",
+    "auslex",
+    "money",
+    "shop",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "pay",
+  "oldentry": "",
+  "english": [
+    "payment",
+    "funds",
+    "funding",
+    "sponsor",
+    "pay",
+    "fund"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To give an amount of money to someone because you are buying something or because you owe it to them. English = pay.",
+    "2. Of an organisation or government, to give an amount of money to an individual or organisation so that they can do something. English = fund.",
+    "3. Of a person or organisation, to pay some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
+  ],
+  "cf": [
+    "rent",
+    "mortgage"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of paying money to someone. English = payment.",
+    "2. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding.",
+    "3. A person or organisation who pays some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
+  ],
+  "signNumber": 6247,
+  "recordNumber": 3732,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "income.1a"
+  ],
+  "synonyms": []
+}

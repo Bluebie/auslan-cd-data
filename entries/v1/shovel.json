@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "shovel",
+  "oldentry": "",
+  "english": [
+    "spade",
+    "shovel",
+    "dig",
+    "scoop"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make a hole in the ground using a spade, shovel, or a trowel. English = dig, dig up, scoop up, shovel."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel."
+  ],
+  "signNumber": 4277,
+  "recordNumber": 2597,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "spade.1a",
+    "dig"
+  ]
+}

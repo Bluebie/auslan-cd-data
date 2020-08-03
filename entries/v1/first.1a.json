@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "order",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "first.1a",
+  "oldentry": "",
+  "english": [
+    "first-born",
+    "first",
+    "initial",
+    "favourite",
+    "eldest"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be the person, thing or event that happens or comes before all the others of the same kind or at the beginning of a process. English = (be) first, (be) initial.",
+    "2. To be the thing of a particular type that you like most or best. English = (be) favourite.",
+    "3. To be child who is born first in a group of siblings and is thus older than the others. English = (be) first-born, (be) eldest."
+  ],
+  "cf": [
+    "depends"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. You use this sign when you are about to mention a series of items, starting with the first; or when you are sequencing actions, events or ideas in a chronological or logical order. English = first of all.",
+    "2. Used at the beginning of a signed sentence to place the actions mentioned in it at the very beginning of a whole process. English = initially, originally."
+  ],
+  "nomlex": [
+    "1. A person, thing or event that comes before all the others of the same kind; the first thing.",
+    "2. Of a group of siblings, the child who is the oldest. English = first-born.",
+    "3. A thing of a particular type that you like most or best; a favourite thing."
+  ],
+  "signNumber": 4192,
+  "recordNumber": 2537,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "last.1",
+    "end.1a"
+  ],
+  "synonyms": [
+    "first.2a"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "partlex3",
+    "interj1",
+    "interj2",
+    "auslex",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "pretend.1a",
+  "oldentry": "",
+  "english": [
+    "pretence",
+    "imitation",
+    "copy",
+    "fake",
+    "pretend",
+    "artificial",
+    "false",
+    "fake",
+    "if",
+    "suppose"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To act in a way that is intended to make people believe that something is the case, although in fact it is not. English = pretend. Idiomatic English = make believe, put on an act.",
+    "2. To be made to look like something real; to be not natural and exist or happen only because people have created it. English = (be) artificial, (be) false, (be) fake.",
+    "3. Of a statement, idea or action, to not be true or to be based on wrong information. English = (be) false."
+  ],
+  "cf": [
+    "not.true"
+  ],
+  "interj": [
+    "1. Used alone to mean that you will accept something as true or real, or try to do something that you doubt will work, only provisionally, as a kind of working hypothesis, in order to see what happens.",
+    "English = 'Okay, let's give it a go, then!', 'Let's see what happens then!', 'I'll try, but I don't think it will work!', 'Okay, let's assume it's the case...,' and so on."
+  ],
+  "partlex": [
+    "1. Used at the beginning of a sign sentence to mean that the action in that sentence is not real or actual, but you are going to pretend it is and see what that means. You know a past action did not happen, a current action is not happening,",
+    "or a future action has not happened yet, but you talk about it anyway. English = if.",
+    "2. Used to introduce a possible situation or action. English = suppose, what if."
+  ],
+  "nomlex": [
+    "1. The action of behaving in a way that is intended to make people believe that something is the case, although in fact it is not. English = pretence.",
+    "2. Something that is made to look like something real. English = imitation, copy.",
+    "3. An object, especially a work of art, which is made to appear real but which is not. English = fake."
+  ],
+  "signNumber": 5517,
+  "recordNumber": 3267,
+  "signVisualComposition": "",
+  "activeHandShape": 8.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 11,
+  "secondLocation": null,
+  "antonyms": [
+    "true"
+  ],
+  "synonyms": [
+    "false.2a"
+  ]
+}

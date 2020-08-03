@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "resolve.1a",
+  "oldentry": "",
+  "english": [
+    "decision",
+    "resolution",
+    "decide",
+    "resolve"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To choose to do something, usually after you have thought carefully about the other possibilities. English = decide.",
+    "2. To make a firm decision to do something. A formal sign. Formal English = resolve.",
+    "3. To make a formal decision to do something at a meeting by means of a vote. English = resolve, make a resolution, pass a resolution."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of choosing to do something, usually after you have thought carefully about the other possibilities. English = decision.",
+    "2. A firm decision to do something or the determination to do something. English = resolution.",
+    "3. A formal decision to do something which is passed at a meeting by means of a vote. English = resolution."
+  ],
+  "signNumber": 5192,
+  "recordNumber": 3124,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 7.1,
+  "primaryLocation": 3,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "intend.2",
+    "decide.1a",
+    "decide.2"
+  ]
+}

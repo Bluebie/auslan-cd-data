@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "auslex",
+    "order",
+    "twohand",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "end.1a",
+  "oldentry": "",
+  "english": [
+    "end",
+    "conclusion",
+    "finish",
+    "final",
+    "finally"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To come to the last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclude, finish.",
+    "2. To be the last thing in a series of things. English = (be) final."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence to introduce the last thing that happened in a series of events, or the last topic you want to talk about. English =  to conclude, in conclusion, finally, last of all."
+  ],
+  "nomlex": [
+    "1. The last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclusion, finish.",
+    "2. The last thing in a series of things, especially the last in the order of siblings in a family."
+  ],
+  "signNumber": 4406,
+  "recordNumber": 2681,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 6.2,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "first.2a"
+  ],
+  "synonyms": [
+    "final",
+    "last.1",
+    "last.2"
+  ]
+}

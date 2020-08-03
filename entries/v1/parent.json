@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "family",
+    "onehand",
+    "aslloan",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "A combination of the ASL signs for 'mother' and 'father' with the letter 'p'.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "parent",
+  "oldentry": "",
+  "english": [
+    "parent",
+    "parents",
+    "parental"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To come from or relate to parents in general, or to come from or relate to one or both of the parents of a particular child, especially in the sense of caring and loving children. English = (be) parental."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Your mother or your father, or both. English = parent, parents."
+  ],
+  "signNumber": 1811,
+  "recordNumber": 1093,
+  "signVisualComposition": "",
+  "activeHandShape": 2.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "child",
+    "children.1a"
+  ],
+  "synonyms": [
+    "parents.1a"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "plan.2",
+  "oldentry": "Popular explanation: a turning compass.",
+  "english": [
+    "plan",
+    "blueprint",
+    "chart",
+    "map"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To decide in detail what you are going to do. English = plan.",
+    "2. To decide what the main parts of something that you are going to make, build, or create will be and how they will be arranged. English = plan.",
+    "3. To make a plan of where you will go, especially as part of a sea voyage. English = chart a course.",
+    "4. To make a map of an area. English = map."
+  ],
+  "cf": [
+    "compasses"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Detailed decisions about what you are going to do. English = plan.",
+    "2. A detailed drawing of the main parts of something that you are going to make, build, or create will be and how they will be arranged.  English = plan, blueprint.",
+    "3. A map of an area showing where you will go. English = chart."
+  ],
+  "signNumber": 1715,
+  "recordNumber": 1026,
+  "signVisualComposition": "",
+  "activeHandShape": 2.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "plan.1"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "arts",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "film.4",
+  "oldentry": "",
+  "english": [
+    "film",
+    "movie",
+    "picture",
+    "cinema"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Moving pictures that have been recorded so that they can be shown in a cinema or on television. English = film, films, movie, movies, picture, pictures.",
+    "2. A theatre where moving pictures are shown. English = cinema. Informal English = pictures."
+  ],
+  "signNumber": 2925,
+  "recordNumber": 1658,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "film.1",
+    "film.2a",
+    "film.3"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "partlex2",
+    "dir",
+    "auslex",
+    "order",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "next.1a",
+  "oldentry": "",
+  "english": [
+    "next",
+    "following",
+    "next door",
+    "then"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of a period of time, event, person, or thing, to be the one that happens or comes immediately after the present one or after the previous one. English = (be) next, (be) following.",
+    "2. Of a place or thing, the one that is nearest to you or the first one that you come to. English = (be) next.",
+    "3. Of a person, group of people, family, or business, to live or be in a house or building which is immediately beside another house or building. English = (be) the next door, (be) the next door neighbour, to live next door."
+  ],
+  "cf": [
+    "bequeath.inherit"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately beside a verb or at the beginning of a sentence to mean the action of the verb or sentence happens after something else. English = next, then.",
+    "2. When giving your name or introducing someone, used between a person's first (given or Christian) name and second (family) name."
+  ],
+  "nomlex": [
+    "1. The period of time, event, person, or thing, that happens or comes immediately after the present one or after the previous one; the next thing.",
+    "2. The place or thing which is nearest to you and which you come to first if you move in that direction.",
+    "3. The person, group of people, family, or business which occupies the house or building which is closest to you and immediately beside your house or building; your immediate neighbour; your next door neighbour."
+  ],
+  "signNumber": 6123,
+  "recordNumber": 3644,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "and.then"
+  ]
+}

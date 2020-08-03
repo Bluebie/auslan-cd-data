@@ -1,0 +1,51 @@
+{
+  "tags": [
+    "verblex1",
+    "partlex1",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "country-wide",
+  "oldentry": "",
+  "english": [
+    "country-wide",
+    "national",
+    "nationally"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located in or found in all places right around a country or region. English = (be) country-wide, (be) national.",
+    "2. Relating to the whole of a country. English = (be) national."
+  ],
+  "cf": [
+    "tour.country",
+    "region.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action takes place over a wide area, such as a region or an entire country. English = country-wide, nationally."
+  ],
+  "nomlex": [],
+  "signNumber": 2493,
+  "recordNumber": 1383,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "national"
+  ]
+}

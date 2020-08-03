@@ -1,0 +1,48 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "gensign",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "An area or a flat extended object located above a flat object or level area, or any thing or any action directly or indirectly associated with this.",
+  "questlex": [],
+  "idgloss": "above.flat.surface",
+  "oldentry": "",
+  "english": [
+    "above"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located above something. English = (be) above.",
+    "2. To be located above a flat or level surface; (be) above a flat surface."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4085,
+  "recordNumber": 2449,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [
+    "beneath.long.object",
+    "beneath.solid.object"
+  ],
+  "synonyms": [
+    "above.solid.object",
+    "above.long.object"
+  ]
+}

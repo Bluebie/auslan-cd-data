@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "slow.1a",
+  "oldentry": "",
+  "english": [
+    "slowness",
+    "slow",
+    "slowly"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move or happen without much speed or in a way that takes a large amount of time. English = (be) slow, go slow."
+  ],
+  "cf": [
+    "instant.1a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used before or after a verb (action) sign to mean that the action happens without much speed or in a way that takes a large amount of time. English = slowly."
+  ],
+  "nomlex": [
+    "1. A lack of speed or haste so that something takes a long time to move, happen or be done. English = slowness."
+  ],
+  "signNumber": 4037,
+  "recordNumber": 2414,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 22,
+  "antonyms": [
+    "quick.1a",
+    "fast.1",
+    "fast.2a"
+  ],
+  "synonyms": []
+}

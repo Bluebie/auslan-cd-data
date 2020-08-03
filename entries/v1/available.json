@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "quality",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "ant1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "available",
+  "oldentry": "",
+  "english": [
+    "availability",
+    "vacancy",
+    "available",
+    "vacant",
+    "free",
+    "spare"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Able to be used or obtained. English = (be) available.",
+    "2. Of a toilet or phone booth, to not be occupied or not being used by anyone. English = (be) vacant, (be) free, (be) available.",
+    "3. To be not busy and free to talk to you. English = (be) available, (be) free.",
+    "4. Of something, to be extra and not needed for a particular purpose or for immediate use. English = (be) spare."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The state of being free to be used or obtained. English = availability.",
+    "2. A job that is not being done by anyone and which people can apply for; a room at a hotel or guest house that is not occupied and is available for people to stay in. English = vacancy.",
+    "3. Of a person, the state of not being busy so that you can do something or meet someone. English = availability."
+  ],
+  "signNumber": 6554,
+  "recordNumber": 3905,
+  "signVisualComposition": "",
+  "activeHandShape": 14.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "reserve.1a"
+  ],
+  "synonyms": [
+    "idle.1a"
+  ]
+}

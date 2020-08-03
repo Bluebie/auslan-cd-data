@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "partlex1",
+    "partlex2",
+    "reglex",
+    "sth",
+    "time",
+    "onehand",
+    "engtf1",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "today.2a",
+  "oldentry": "",
+  "english": [
+    "today"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "tomorrow",
+    "yesterday.1a",
+    "yesterday.2"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning, end, or beginning and end of a sentence, or immediately next to a verb to mean the action takes place on the day when you are signing, talking or writing. English = today, on this day.",
+    "2. Used at the beginning, end, or beginning and end of a sentence, or immediately next to a verb to mean the action takes place on a day you have already located. English = on that day, at that time."
+  ],
+  "nomlex": [
+    "1. The day on which or during which you are speaking, writing or signing. English = today, this day.",
+    "2. On the very day which has already been identified (in the future or in the past) on which other actions also happen. English = that day, on that day, on that very day."
+  ],
+  "signNumber": 709,
+  "recordNumber": 410,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "today.1",
+    "now.1"
+  ]
+}

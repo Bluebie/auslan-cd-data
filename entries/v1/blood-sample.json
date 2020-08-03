@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "health",
+    "onehand",
+    "transl",
+    "engtf1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "blood-sample",
+  "oldentry": "Popular explanation: drawing blood from the arm.",
+  "english": [
+    "blood sample"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use a syringe to take a sample of blood from someone."
+  ],
+  "cf": [
+    "injection.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of using a syringe to take a sample of blood from someone.",
+    "2. The blood which is taken from someone using a syringe or similar device. English = blood sample."
+  ],
+  "signNumber": 5533,
+  "recordNumber": 3274,
+  "signVisualComposition": "",
+  "activeHandShape": 8.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 18,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

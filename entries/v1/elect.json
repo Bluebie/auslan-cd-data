@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "gov",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "elect",
+  "oldentry": "Popular explanation: selecting out of a container.",
+  "english": [
+    "draw",
+    "election",
+    "elect"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To extract, pull or take out one thing (ticket, ball, stick, etc) from many such things in a container as part of a competition. The thing chosen tells you who has won. English = draw.",
+    "2. To choose a person to hold an official position or to represent you by voting. English = elect."
+  ],
+  "cf": [
+    "tissue"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of extracting, pulling or taking out one thing (ticket, ball, stick, etc) from many such things in a container as part of a competition. The thing chosen tells you who has won. English = draw.",
+    "2. An organised process in which people vote to choose a person or group of people to hold an official position or to represent them in government. English = election.",
+    "3. The actual success and selection of a person in an election. English = election."
+  ],
+  "signNumber": 2853,
+  "recordNumber": 1609,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "vote.1a"
+  ]
+}

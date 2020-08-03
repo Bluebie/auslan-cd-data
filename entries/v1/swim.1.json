@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "sports",
+    "doublehnd",
+    "sym",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "swim.1",
+  "oldentry": "Popular explanation: a swimming action.",
+  "english": [
+    "swimming",
+    "swim",
+    "breast stroke",
+    "breast-stroke"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move through the water by making movements with your arms and legs. English = swim.",
+    "2. To swim breast stroke. English = breast-stroke."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The sport or recreation in which people move through the water by making movements with your arms and legs. English = swimming.",
+    "2. A short period of activity during which people move through the water by making movements with your arms and legs. English = swim.",
+    "3. A style of swimming. English = breast stroke."
+  ],
+  "signNumber": 3908,
+  "recordNumber": 2327,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "drown.1",
+    "drown.2"
+  ],
+  "synonyms": [
+    "swim.2"
+  ]
+}

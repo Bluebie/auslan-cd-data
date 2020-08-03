@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "dir",
+    "auslex",
+    "lingact",
+    "metalang",
+    "twohand",
+    "para",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "answer.1a",
+  "oldentry": "",
+  "english": [
+    "answer",
+    "reply",
+    "response",
+    "respond"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say something back to someone who has asked you a question. English = answer.",
+    "2. To say something back to someone as a result of what they have said or done or as a result of a question. English = reply, respond.",
+    "3. To write a letter back to someone as a result of having already received one from them. English = answer, reply."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used at the beginning of a sentence to make clear that what follows is what you want to say back to someone who has said something or who has asked you something. English = in response, to answer your question, in reply, and so on."
+  ],
+  "nomlex": [
+    "1. What you say or write back to someone who has asked you a question. English = answer.",
+    "2. What you say or write to someone as a result of what they have said or written to you. English = answer, reply, response.",
+    "3. A possible solution to a problem. English = answer."
+  ],
+  "signNumber": 1151,
+  "recordNumber": 677,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "question.1a",
+    "question.2"
+  ],
+  "synonyms": []
+}

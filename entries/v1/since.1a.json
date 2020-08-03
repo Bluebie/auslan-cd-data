@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "partlex1",
+    "partlex2",
+    "auslex",
+    "time",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "since.1a",
+  "oldentry": "",
+  "english": [
+    "since",
+    "henceforth",
+    "thereafter"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "not.since"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action begins at the present time (or a time which is understood) and continues into the future (or after that time). English =  since, from now onwards, henceforth, after now.",
+    "2. Used immediately next to a time sign to mean from that time and into the future from that time. English = since, from that time onwards, after then, thereafter."
+  ],
+  "nomlex": [],
+  "signNumber": 3970,
+  "recordNumber": 2373,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [
+    "prior.to.1a",
+    "before.that.1a"
+  ],
+  "synonyms": [
+    "from.1a"
+  ]
+}

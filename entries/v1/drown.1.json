@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "drown.1",
+  "oldentry": "",
+  "english": [
+    "drowning",
+    "drown"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go under water and die because you cannot breathe. English = drown."
+  ],
+  "cf": [
+    "gravity",
+    "take.in.experience"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Death caused by going under water where you cannot breathe. English = drowning."
+  ],
+  "signNumber": 2879,
+  "recordNumber": 1626,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.5,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "float.1",
+    "float.3a"
+  ],
+  "synonyms": [
+    "drown.2",
+    "drown.3"
+  ]
+}

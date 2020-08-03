@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "nomlex5",
+    "reglex",
+    "nth",
+    "foods",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "meat.1a",
+  "oldentry": ".",
+  "english": [
+    "meat",
+    "flesh",
+    "beef",
+    "steak",
+    "butcher",
+    "butcher's"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "skin.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The flesh of a dead animal that people cook and eat. English = meat, flesh.",
+    "2. The meat of a cow, bull or ox. English = beef.",
+    "3. A piece of beef without much fat on it. English = steak.",
+    "4. A shopkeeper who sells meat. English = butcher.",
+    "5. The shop where meat is sold. English = butcher, butcher's."
+  ],
+  "signNumber": 1767,
+  "recordNumber": 1063,
+  "signVisualComposition": "",
+  "activeHandShape": 2.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "butcher",
+    "steak.1a"
+  ]
+}

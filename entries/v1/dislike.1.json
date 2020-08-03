@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "feelings",
+    "judge",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dislike.1",
+  "oldentry": "",
+  "english": [
+    "dislike"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To not like someone or something and to think that they are unpleasant. English = dislike.",
+    "2. To not like someone or something a lot and to think that they are extremely unpleasant. English = hate, detest."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The feeling of not liking someone or something. English = dislike.",
+    "2. The strong feeling of not liking someone or something at all. English = hate, detest."
+  ],
+  "signNumber": 3223,
+  "recordNumber": 1871,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [
+    "like.1a",
+    "love"
+  ],
+  "synonyms": [
+    "dislike.2",
+    "hate.1",
+    "hate.2"
+  ]
+}

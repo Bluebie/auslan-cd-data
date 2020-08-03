@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "gensign",
+    "educate",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "The act of pressing down on a flick-switch with your thumb, or any thing or action directly or indirectly associated with this, such as a biro, stopwatch, or cigarette lighter.",
+  "questlex": [],
+  "idgloss": "biro",
+  "oldentry": "",
+  "english": [
+    "lighter",
+    "cigarette lighter",
+    "pen",
+    "biro",
+    "stopwatch"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To operate a small device which produces a flame that you can light a cigarette or pipe with.",
+    "2. To operate a retractable pen or biro.",
+    "3. To operate a stopwatch."
+  ],
+  "cf": [
+    "pencil"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small device which produces a flame that you can light a cigarette or pipe with. English = cigarette lighter.",
+    "2. A pen with a retractable small metal ball at its tip. English = pen, biro.",
+    "3. A watch with buttons which you press at the beginning and end of an event, so that you can measure exactly how long it takes. English = stopwatch."
+  ],
+  "signNumber": 4774,
+  "recordNumber": 2885,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "write.1a"
+  ]
+}

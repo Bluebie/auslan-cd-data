@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "marginal",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "IMPROVE + D",
+  "queries": "Based on the ASL sign 'develop' (which has a flat handshape on the subordinate hand).",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "develop.1a",
+  "oldentry": "",
+  "english": [
+    "development",
+    "develop"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To grow or change over time into a better or more complete form. English = develop.",
+    "2. Of a country, to change from being a poor or agricultural country to being an advanced industrial country. English = develop."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The gradual growth or formation of something; the process or result of improving a basic design. English = development."
+  ],
+  "signNumber": 900,
+  "recordNumber": 516,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "develop.2",
+    "improve.1a"
+  ],
+  "synonyms": [
+    "improve.1a"
+  ]
+}

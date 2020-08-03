@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "orient",
+    "auslex",
+    "furn",
+    "doublehnd",
+    "sym",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "venetian.blinds.1",
+  "oldentry": "Popular explanation: the slats of a venetian blind.",
+  "english": [
+    "venetian blind",
+    "louvre",
+    "louvred"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of louvres on a window, to be adjusted.",
+    "2. Of a window or door, to have flat, sloping pieces of wood or glass across its frame. English = (be) louvred."
+  ],
+  "cf": [
+    "blind.2",
+    "vertical blinds"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A window covering made of thin horizontal strips of wood, plastic, or metal. The strips can be turned to a different angle in order to let in more or less light. English = Venetian blind.",
+    "2. A door or window with flat, sloping pieces of wood or glass across its frame. English = louvred window, louvres, louvred door."
+  ],
+  "signNumber": 3740,
+  "recordNumber": 2207,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "venetian.blinds.2"
+  ]
+}

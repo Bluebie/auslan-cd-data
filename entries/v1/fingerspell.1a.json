@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "dir",
+    "auslex",
+    "lingact",
+    "metalang",
+    "doublehnd",
+    "para",
+    "transl",
+    "deafness",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign can be modified to express the sign equivalent of 'whisper' (sign and/or fingerspell so as not to be seen by others) by being placed close to the body and to one side.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fingerspell.1a",
+  "oldentry": "Popular explanation: spelling letters rapidly.",
+  "english": [
+    "fingerspelling",
+    "spelling",
+    "fingerspell",
+    "spell"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use a conventional arrangement of handshapes (usually involving both hands) to form the letters of the alphabet with which you can spell out words on your hands. English = fingerspell.",
+    "2. To fingerspell, write or speak the individual letters of a word in the correct order. English = spell."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A conventional use of handshapes (usually involving both hands) to form the letters of the alphabet with which to spell out words on the hands. English = fingerspelling.",
+    "2. The correct order of letters in a word, represented by fingerspelling, writing or speaking. English = spelling."
+  ],
+  "signNumber": 150,
+  "recordNumber": 82,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "sign"
+  ]
+}

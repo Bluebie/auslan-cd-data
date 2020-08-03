@@ -1,0 +1,88 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "quality",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "engtf12",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "wet.1a",
+  "oldentry": "",
+  "english": [
+    "wetness",
+    "dampness",
+    "moisture",
+    "water",
+    "softness",
+    "tenderness",
+    "wet",
+    "dampen",
+    "moisten",
+    "damp",
+    "moist",
+    "soft"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To cover or be covered with water, rain, sweat, or another liquid. English = wet, (be) wet.",
+    "2. To affect or be affected by water, rain, sweat, or another liquid so that you can feel it when you touch it. English = dampen, moisten, (be) damp, (be) moist.",
+    "3. To be easy to bend or change the shape of when you touch, press or feel something. English = (be) soft, (be) tender.",
+    "4. To apply pressure to something with the fingers and hands so as to change its shape or bend it. English = squeeze."
+  ],
+  "cf": [
+    "indulgent",
+    "squeeze"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The state of being covered with water, rain, sweat, or another liquid. English = wetness.",
+    "2. The state of being affected by water, rain, sweat, or another liquid so that you can feel it when you touch it. English = dampness",
+    "3. Water, rain, sweat, or some other liquid that covers something or changes its feeling to the touch. English = moisture, water.",
+    "4. The feeling of something that changes shape or bends easily when you touch, press or feel it. English = softness, tenderness."
+  ],
+  "signNumber": 3403,
+  "recordNumber": 1989,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "dry",
+    "hard.1a"
+  ],
+  "synonyms": [
+    "soft",
+    "water.1"
+  ]
+}

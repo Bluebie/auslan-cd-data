@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "relationship",
+  "oldentry": "",
+  "english": [
+    "relationship",
+    "connection",
+    "link",
+    "bond",
+    "connected",
+    "linked",
+    "related"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a close friendship between two people, especially one involving romantic or sexual feelings. English = have a relationship.",
+    "2. Of two things, to have a relationship or link between them. English = (be) connected, (be) linked, (be) related.",
+    "3. Of two or more people, to belong to the same family. English = (be) related."
+  ],
+  "cf": [
+    "join.2",
+    "co-ordinate"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A close friendship between two people, especially one involving romantic or sexual feelings. English = relationship.",
+    "2. Of two things, the way in which they are connected. English = relationship, connection, link.",
+    "3. A strong feeling of friendship, love, or shared belief that unites two people. English = bond."
+  ],
+  "signNumber": 384,
+  "recordNumber": 207,
+  "signVisualComposition": "",
+  "activeHandShape": 0.2,
+  "passiveHandShape": 0.2,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": []
+}

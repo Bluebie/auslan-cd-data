@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "orient",
+    "auslex",
+    "twohand",
+    "domonly",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "send.letters.1a",
+  "oldentry": "",
+  "english": [
+    "mail out"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To send out messages written on pieces of paper through the mail to lots of different people; send out mail; send out correspondence; notify by mail or post."
+  ],
+  "cf": [
+    "envelope.2",
+    "letter"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Messages written on pieces of paper and sent through the mail to lots of different people. English = mail out."
+  ],
+  "signNumber": 4005,
+  "recordNumber": 2396,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 14,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "send.a.letter.1a",
+    "correspond.1a"
+  ]
+}

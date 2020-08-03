@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "auslex",
+    "money",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dollar.1",
+  "oldentry": "Popular explanation: handling bank notes.",
+  "english": [
+    "dollar",
+    "buck",
+    "note",
+    "bill"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A unit of money used in the USA, Australia and some other countries. It is made up of one hundred smaller units, called cents. English = dollar. Idiomatic English = buck.",
+    "2. A piece of printed paper or plastic that is used as money. English = note, bill."
+  ],
+  "signNumber": 4159,
+  "recordNumber": 2510,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "coin.2",
+    "coin.1a"
+  ],
+  "synonyms": [
+    "dollar.2a"
+  ]
+}

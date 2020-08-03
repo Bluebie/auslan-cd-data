@@ -1,0 +1,53 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "quality",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "natural.2",
+  "oldentry": "",
+  "english": [
+    "normality",
+    "normalcy",
+    "natural",
+    "normal"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be what happens or is the case because it is part of the usual processes of life and has little or nothing to do with changes made by humans. English = (be) natural.",
+    "2. To be a part of someone's personality without them acting or changing themselves in any way. English = (be) natural.",
+    "3. To be usual and ordinary, and what people expect. English = (be) normal."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The situation in which everything is normal and as people expect. English = normality, normalcy."
+  ],
+  "signNumber": 2141,
+  "recordNumber": 1239,
+  "signVisualComposition": "N + N",
+  "activeHandShape": 2.4,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "natural.1a"
+  ]
+}

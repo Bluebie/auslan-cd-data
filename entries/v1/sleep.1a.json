@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "bodyact",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sleep.1a",
+  "oldentry": "Popular explanation: the eye closing.",
+  "english": [
+    "sleep",
+    "sleeping"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To close your eyes in order to rest your mind and body. After some time you become inactive and unconscious for a period of minutes or hours. English = sleep, fall asleep, go to sleep."
+  ],
+  "cf": [
+    "bed.1a",
+    "get.into.bed.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The natural state of rest in which your eyes are closed and your mind and body are inactive and unconscious, usually for several hours every night. English = sleep, sleeping.",
+    "2. A period of sleeping. English = sleep."
+  ],
+  "signNumber": 3140,
+  "recordNumber": 1816,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "wake"
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "interj1",
+    "interj2",
+    "orient",
+    "auslex",
+    "onehand",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign can also be made by bending a Flat handshape.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "beckon.1a",
+  "oldentry": "Popular explanation: the culturally shared gesture of beckoning.",
+  "english": [
+    "beckoning",
+    "beckon"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To ask someone to come over from where they are to where you are; to ask someone to come closer to you. English = beckon."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone to come over to where you are. English = 'Come here!'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of calling or signalling someone to come closer to you. English = beckoning."
+  ],
+  "signNumber": 787,
+  "recordNumber": 449,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "entice"
+  ]
+}

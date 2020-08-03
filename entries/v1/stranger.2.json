@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "reglex",
+    "vic",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "stranger.2",
+  "oldentry": "",
+  "english": [
+    "stranger",
+    "alien",
+    "enemy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To belong to somebody else, not oneself; to be not one's own."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Someone you have never met before. English = stranger.",
+    "2. Someone who comes from a different country, race, or group. English = alien.",
+    "3. In a war, the army or country that your country is fighting. English = enemy."
+  ],
+  "signNumber": 3466,
+  "recordNumber": 2025,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "friend.1a",
+    "mate",
+    "well-known"
+  ],
+  "synonyms": [
+    "stranger.1"
+  ]
+}

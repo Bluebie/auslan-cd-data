@@ -1,0 +1,81 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "enddir",
+    "auslex",
+    "twohand",
+    "domonly",
+    "law",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "engtf12",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "steal.1a",
+  "oldentry": "",
+  "english": [
+    "stealing",
+    "robbery",
+    "theft",
+    "burglary",
+    "robber",
+    "withdrawal",
+    "interception",
+    "steal",
+    "rob",
+    "thieve",
+    "burgle",
+    "withdraw"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take something away from someone without their permission and without intending to return it. English = steal, rob, thieve, burgle.",
+    "2. To take money out of a bank account. English = withdraw."
+  ],
+  "cf": [
+    "withdraw"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of taking things away from people without their permission and without intending to return them. English = stealing, robbery, theft, burglary.",
+    "2. A person who steals things. English = robber.",
+    "3. The removal of money from a bank account. English = withdrawal.",
+    "4. In netball, the taking of possession of the ball from the other team. English = interception."
+  ],
+  "signNumber": 3102,
+  "recordNumber": 1786,
+  "signVisualComposition": "",
+  "activeHandShape": 5.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "stolen",
+    "thief.1a",
+    "thief.2"
+  ]
+}

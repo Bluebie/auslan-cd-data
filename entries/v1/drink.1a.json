@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "drinks",
+    "onehand",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "drink.1a",
+  "oldentry": "Popular explanation: drinking something.",
+  "english": [
+    "drink",
+    "beverage",
+    "glass",
+    "cup"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take liquid in your mouth and swallow it. English = drink."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An amount of liquid which you drink. English = drink. Formal English = beverage.",
+    "2. A container made from glass which you can drink from. It does not have a handle. English = glass.",
+    "3. A small, round container, usually with a handle, from which you drink liquids such as tea and coffee. English = cup."
+  ],
+  "signNumber": 4487,
+  "recordNumber": 2725,
+  "signVisualComposition": "",
+  "activeHandShape": 5.5,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "cup.1a"
+  ]
+}

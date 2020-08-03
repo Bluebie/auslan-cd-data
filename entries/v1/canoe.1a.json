@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "sports",
+    "travel",
+    "doublehnd",
+    "para",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "canoe.1a",
+  "oldentry": "Popular explanation: holding and sweeping with a paddle.",
+  "english": [
+    "canoe",
+    "canoeing",
+    "paddle",
+    "paddling",
+    "kayak"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To paddle a canoe or kayak.",
+    "2. To go canoeing."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small narrow boat the you row using a paddle. English = canoe, kayak.",
+    "2. The activity or sport of paddling in a canoe. English = canoeing, kayaking.",
+    "3. A short pole with a wide, flat part at one end or at both ends, which you hold in your hands and use as an oar to move a small boat through water. English = paddle.",
+    "4. The activity of using a paddle. English = paddling."
+  ],
+  "signNumber": 5830,
+  "recordNumber": 3466,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "row.1"
+  ]
+}

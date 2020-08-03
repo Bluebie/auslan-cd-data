@@ -1,0 +1,61 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "para",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "uniformity.1a",
+  "oldentry": "",
+  "english": [
+    "uniformity",
+    "standard",
+    "mean",
+    "average"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be the same over a period of time and not vary. English = (be) uniform.",
+    "2. To be the same for everyone or to be considered to be the correct and acceptable form for everyone (especially regarding the words and signs of a language). English = (be) standard."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The condition in which something is the same over time. English = uniformity.",
+    "2. A state in which everyone or everything behaves or looks the same as everyone or everything else. English = uniformity.",
+    "3. Something which is the same for everyone or is considered to be the correct and acceptable form for everyone (especially regarding the words and signs of a language). English = standard.",
+    "4. In mathematics, the number you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = mean, average."
+  ],
+  "signNumber": 994,
+  "recordNumber": 576,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "different.1a"
+  ],
+  "synonyms": [
+    "uniformity.2a"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "partlex1",
+    "interj1",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This sign is often made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "typical.1a",
+  "oldentry": "",
+  "english": [
+    "mannerism",
+    "custom",
+    "tradition",
+    "typical",
+    "customarily",
+    "characteristically"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To show the usual characteristics or features of a thing of that type. English = (be) typical.",
+    "2. Of a person, to show a characteristic which is normal for that person, or which is a known or accepted part of their personality; to behave in a typical or normal way for that person.",
+    "3. Of a society or culture, to do things or behave in a way which is normal for that group of people; to behave customarily."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to dismiss or explain the behaviour of someone meaning that it is no surprise to you because you know it is normal and typical. English = 'Typical!', 'That's John/Mary for you!' and so on."
+  ],
+  "partlex": [
+    "1. Used immediately after a verb to mean that the manner of the action is typical, characteristic or customary for that person or group of people. English = in the usual manner, customarily, characteristically, etc."
+  ],
+  "nomlex": [
+    "1. Features or characteristics which are normal or typical for a thing of that type.",
+    "2. The characteristic or typical behaviour patterns of a person. English = mannerism.",
+    "3. The characteristic or typical behaviour patterns of a society or culture. English = custom, tradition."
+  ],
+  "signNumber": 5656,
+  "recordNumber": 3352,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

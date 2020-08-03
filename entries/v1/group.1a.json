@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "group.1a",
+  "oldentry": "",
+  "english": [
+    "group",
+    "class"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To bring a number of things or people together in one place or within one organisation. English = group.",
+    "2. To put a number of things or people together which have something in common or which have similar characteristics. English = class, group."
+  ],
+  "cf": [
+    "unit.1a",
+    "everything",
+    "enclose"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A number of people or things which are together in one place at one time; a set of people or things which have something in common. English = group.",
+    "2. A group of pupils or students who are taught together. English = class.",
+    "3. A set of people or things which have something in common or have similar characteristics. English = class, group."
+  ],
+  "signNumber": 3687,
+  "recordNumber": 2174,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "single.1a",
+    "individually"
+  ],
+  "synonyms": [
+    "class.1a"
+  ]
+}

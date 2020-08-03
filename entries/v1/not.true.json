@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "comp",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "3",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "not.true",
+  "oldentry": "",
+  "english": [
+    "falsehood",
+    "not true",
+    "false",
+    "uncertain",
+    "unsure"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Not to be based on facts or on things that really have happened but on things which are invented. English = (be) not true, (be) not factual, (be) false.",
+    "2. To have doubts that something is in agreement with the facts, to have doubts that something is true. English = (be) uncertain, (be) unsure."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to deny what someone has said, just short of calling them a liar. English = 'Definitely not!' , 'That's not true!', 'Surely not!', etc."
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. Something which is not true and not in accordance with the facts. English = falsehood."
+  ],
+  "signNumber": 4294,
+  "recordNumber": 2613,
+  "signVisualComposition": "TRUE + NEGATIVE AFFIX",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "fact"
+  ],
+  "synonyms": [
+    "liar",
+    "false.2a"
+  ]
+}

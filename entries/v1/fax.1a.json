@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "blend",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "telecommun",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "FAX.OUT + FAX.IN",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "fax.1a",
+  "oldentry": "",
+  "english": [
+    "fax"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To correspond or communicate with someone using faxes."
+  ],
+  "cf": [
+    "correspond.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A correspondence or communication made by using faxes."
+  ],
+  "signNumber": 4096,
+  "recordNumber": 2458,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "fax.in",
+    "fax.out",
+    "correspond.1a"
+  ]
+}

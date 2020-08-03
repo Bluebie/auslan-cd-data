@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "partlex1",
+    "dir",
+    "orient",
+    "auslex",
+    "quantity",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "far.1a",
+  "oldentry": "",
+  "english": [
+    "distance",
+    "far",
+    "distant"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be located at a great distance away. English = (be) far, (be) far away, (be) distant."
+  ],
+  "cf": [
+    "travel",
+    "advanced.2a"
+  ],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean that the action takes place at a great distance away, or takes place over a great distance. English = far, far away."
+  ],
+  "nomlex": [
+    "1. The amount of space between two places. English = distance.",
+    "2. The distance between two places, especially when that distance is considerable; a long way."
+  ],
+  "signNumber": 5164,
+  "recordNumber": 3108,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "near.1a",
+    "shorten.1a"
+  ],
+  "synonyms": []
+}

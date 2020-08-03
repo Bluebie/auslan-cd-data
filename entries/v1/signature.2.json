@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "comp",
+    "auslex",
+    "lingact",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "signature.2",
+  "oldentry": "",
+  "english": [
+    "signature",
+    "sign"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To write your name on a document, usually at the end or in a special place. English = sign."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Your name when you write it in your own characteristic way. English = signature."
+  ],
+  "signNumber": 6486,
+  "recordNumber": 3861,
+  "signVisualComposition": "NAME + WRITE",
+  "activeHandShape": 12.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 3,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "signature.1a"
+  ]
+}

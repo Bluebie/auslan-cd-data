@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "reglex",
+    "sa",
+    "people",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "selfish.2",
+  "oldentry": "",
+  "english": [
+    "selfishness",
+    "egotism",
+    "selfish",
+    "egotistic",
+    "greed",
+    "greedy"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To care only about yourself and not about other people. English = (be) selfish. Formal English = (be) egotistic.",
+    "2. To want more of something such as food, money, or power than it is necessary or fair for you to have. English = (be) greedy."
+  ],
+  "cf": [
+    "greedy.3"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Caring only about yourself and not about other people. English = selfishness. Formal English = egotism.",
+    "2. The desire to have more of something such as food, money, or power than it is necessary or fair for you to have. English = greed, selfishness."
+  ],
+  "signNumber": 5130,
+  "recordNumber": 3098,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 12,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "selfish.1",
+    "greedy.1",
+    "greedy.2"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "dir",
+    "auslex",
+    "educate",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "teach",
+  "oldentry": "",
+  "english": [
+    "demonstration",
+    "instruction",
+    "instructor",
+    "teaching",
+    "education",
+    "demonstrate",
+    "instruct",
+    "teach",
+    "educate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To explain to someone how to do something, especially by also showing them what to do. English = demonstrate, instruct.",
+    "2. To give someone instructions and information about something so that they know about it or know how to do it. English = teach, educate."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of explaining to someone how to do something, especially by also showing them what to do. English = demonstration, instruction.",
+    "2. A person who shows someone how to do something. English = instructor.",
+    "3. Giving someone instructions and information about something so that they know about it or know how to do it. English = teaching, education."
+  ],
+  "signNumber": 5919,
+  "recordNumber": 3521,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "educate.1a",
+    "teacher",
+    "instruct"
+  ]
+}

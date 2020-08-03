@@ -1,0 +1,49 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "hatch.2",
+  "oldentry": "",
+  "english": [
+    "trapdoor",
+    "hatch"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To open a trapdoor."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small horizontal door in a floor, ceiling, or stage. English = trapdoor.",
+    "2. An opening in a deck of a ship, which is used for people to come on deck or go below, or during loading and unloading cargo. English = hatch."
+  ],
+  "signNumber": 3667,
+  "recordNumber": 2160,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "open",
+    "hatch.1a"
+  ]
+}

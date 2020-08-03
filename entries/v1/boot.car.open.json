@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "verblex1",
+    "auslex",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "boot.car.open",
+  "oldentry": "",
+  "english": [
+    "boot",
+    "open boot"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. Of the boot of a car, to open."
+  ],
+  "cf": [
+    "boot.car"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4670,
+  "recordNumber": 2820,
+  "signVisualComposition": "",
+  "activeHandShape": 5.5,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "boot.car.close"
+  ],
+  "synonyms": []
+}

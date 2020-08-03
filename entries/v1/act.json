@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "auslex",
+    "arts",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "act",
+  "oldentry": "",
+  "english": [
+    "actor",
+    "acting",
+    "perform",
+    "act"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To play the part of a character in a play or film. English = act, perform."
+  ],
+  "cf": [
+    "pretend.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person whose job is performing in plays or films. English = actor.",
+    "2. The job of performing in plays or films. English = acting."
+  ],
+  "signNumber": 4905,
+  "recordNumber": 2963,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 24,
+  "antonyms": [],
+  "synonyms": [
+    "play.1a",
+    "perform.1a"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "enddir",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "ant1",
+    "ant2",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dismiss",
+  "oldentry": "",
+  "english": [
+    "sacking",
+    "rejection",
+    "dismissal",
+    "dismiss",
+    "sack",
+    "dismiss",
+    "brush off",
+    "brush aside",
+    "forsake"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To get rid of someone from their job or sport's team because their work is not good enough or because they are no longer needed. English = dismiss. Informal English = sack, lay off, put off, drop.",
+    "2. To not keep or not accept something because it is not good enough or not wanted. English = reject. Informal English = brush off, brush aside.",
+    "3. To decide that someone or something is not important or not good enough to stay or to think about. English = dismiss.",
+    "4. To stop doing something or stop having something; to go without something. Formal religious English = forsake."
+  ],
+  "cf": [
+    "lick.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of getting rid of an employee. English = dismissal. Informal English = sacking.",
+    "2. The act of getting rid of something or someone because it is not good enough or not wanted. English = rejection.",
+    "3. The action of telling someone to go because you have decided that someone or something is not important or good enough to stay. English = dismissal.",
+    "4. The action of stopping all thought about something because you think it is unimportant. English = dismissal."
+  ],
+  "signNumber": 4237,
+  "recordNumber": 2565,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "accept.1a",
+    "keep.1a"
+  ],
+  "synonyms": [
+    "reject",
+    "sack"
+  ]
+}

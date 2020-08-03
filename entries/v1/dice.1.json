@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "hobbies",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "dice.1",
+  "oldentry": "Popular explanation: shaking and throwing dice.",
+  "english": [
+    "dice",
+    "gambling",
+    "casino",
+    "gamble"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To throw one or more dice in a game.",
+    "2. To play games of chance with dice and make bets. English = gamble."
+  ],
+  "cf": [
+    "bet.2a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small cube made of wood or plastic, which has from one to six spots on each of its six sides. You throw it in games to decide, for example, who will start the game first or how many moves you can make. English = dice.",
+    "2. Games of chance in which people use dice and make bets. English = gambling.",
+    "3. A building or a room where people play gambling games such as roulette. English = casino."
+  ],
+  "signNumber": 6117,
+  "recordNumber": 3642,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": []
+}

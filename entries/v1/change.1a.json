@@ -1,0 +1,68 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "orient",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "change.1a",
+  "oldentry": "",
+  "english": [
+    "change",
+    "alteration",
+    "modification",
+    "alter",
+    "modify"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To become different. English = change.",
+    "2. To make something be different. English = change, alter, modify.",
+    "3. To take off your clothes and put on different ones. English = change, change clothes.",
+    "4. To exchange an amount of money into different coins and notes. English = change, change money."
+  ],
+  "cf": [
+    "alternate"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of becoming different. English = change.",
+    "2. The act of making something be different. English = change, alteration, modification.",
+    "3. A different set of clothes that you take with you in case you need to take off the clothes you are wearing and put them on.",
+    "4. Coins, rather than notes. English = change, small change."
+  ],
+  "signNumber": 971,
+  "recordNumber": 561,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "change.2",
+    "swap.1a"
+  ]
+}

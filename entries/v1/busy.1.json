@@ -1,0 +1,65 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "quantity",
+    "doublehnd",
+    "alternate",
+    "sym",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "ant1",
+    "ant2",
+    "ant3",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "busy.1",
+  "oldentry": "",
+  "english": [
+    "busy",
+    "activity",
+    "action"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
+  ],
+  "cf": [
+    "activity.1a",
+    "horse.racing.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A situation in which lots of things are happening or being done. English = activity, action.",
+    "2. Something that you do on a particular occasion. English = action.",
+    "3. All the important and exciting things that happen in a situation, especially in a film. English = action."
+  ],
+  "signNumber": 2746,
+  "recordNumber": 1533,
+  "signVisualComposition": "",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 5.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "available",
+    "free.1a",
+    "idle.1a"
+  ],
+  "synonyms": [
+    "busy.2"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "para",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "start.1a",
+  "oldentry": "",
+  "english": [
+    "start",
+    "commencement",
+    "beginning",
+    "commence",
+    "begin"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To do something you were not doing before and to continue doing it. English = start, commence, begin.",
+    "2. To start a race."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The first part of some activity. English = start, commencement, beginning.",
+    "2. The first part of a race or competition. English = start."
+  ],
+  "signNumber": 6316,
+  "recordNumber": 3770,
+  "signVisualComposition": "",
+  "activeHandShape": 10.3,
+  "passiveHandShape": 10.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "finish.1",
+    "finish.2a"
+  ],
+  "synonyms": [
+    "open",
+    "begin.1a"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "tags": [
+    "verblex1",
+    "verblex2",
+    "dir",
+    "orient",
+    "gensign",
+    "locdir",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "ant1",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "Of two objects, especially two vehicles, for one to go past or by the other, or any thing or any action directly or indirectly associated with this.",
+  "questlex": [],
+  "idgloss": "go.by",
+  "oldentry": "",
+  "english": [
+    "pass"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To go past or by something; to pass by.",
+    "2. To go past or by a building or vehicle in a vehicle; to pass by in a vehicle."
+  ],
+  "cf": [
+    "go.by.vehicle.1a",
+    "speed.2"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [],
+  "signNumber": 4202,
+  "recordNumber": 2542,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [
+    "slow.1a"
+  ],
+  "synonyms": [
+    "speed.1",
+    "fast.1",
+    "quick.1a"
+  ]
+}

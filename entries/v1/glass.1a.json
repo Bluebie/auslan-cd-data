@@ -1,0 +1,40 @@
+{
+  "tags": [
+    "nomlex1",
+    "comp",
+    "reglex",
+    "vic",
+    "statesch",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "matter"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "This is a compound sign in which the first element is specifying the material the container is made from.",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "glass.1a",
+  "oldentry": "",
+  "english": [
+    "glass"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A container made from glass which you can drink from. It does not have a handle. English = glass."
+  ],
+  "signNumber": 4143,
+  "recordNumber": 2498,
+  "signVisualComposition": "WINDOW + CUP",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": []
+}

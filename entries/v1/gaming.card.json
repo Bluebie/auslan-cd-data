@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "auslex",
+    "hobbies",
+    "doublehnd",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "gaming.card",
+  "oldentry": "",
+  "english": [
+    "card",
+    "gaming card",
+    "playing card",
+    "deck"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Thin pieces of cardboard with numbers or pictures printed on them which are used to play various games. English = card, gaming card, playing card.",
+    "2. A pack or set of playing cards. English = deck of cards.",
+    "3. A game played using cards; a card game; a game of cards."
+  ],
+  "signNumber": 4259,
+  "recordNumber": 2585,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "deal.cards.1a",
+    "shuffle.cards.1a"
+  ]
+}

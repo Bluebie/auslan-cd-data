@@ -1,0 +1,70 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "interj1",
+    "auslex",
+    "judge",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "cf1",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "right.1a",
+  "oldentry": "",
+  "english": [
+    "correctness",
+    "rightness",
+    "accuracy",
+    "correction",
+    "right",
+    "correct",
+    "accurate"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be in accordance with the facts and have no mistakes. English = (be) right, (be) correct, (be) accurate.",
+    "2. To make something in accordance with the facts and/or to remove the mistakes. English = correct, right."
+  ],
+  "cf": [
+    "true"
+  ],
+  "interj": [
+    "1. Used alone to mean you agree with what your addressee is saying. English = 'That's right!', 'Yeah!', 'Ugh huh!' etc."
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. The quality of being in accordance with the facts or having no mistakes. English = correctness, rightness, accuracy.",
+    "2. The fixing of something to remove the mistakes or to make it in accordance with the facts. English = correction.",
+    "3. The moral justification or legal permission to do something. English = right."
+  ],
+  "signNumber": 4936,
+  "recordNumber": 2983,
+  "signVisualComposition": "",
+  "activeHandShape": 6.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "proper",
+    "exact"
+  ]
+}

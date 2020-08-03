@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "orient",
+    "auslex",
+    "twohand",
+    "transp",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "rifle",
+  "oldentry": "Popular explanation: operating a rifle.",
+  "english": [
+    "rifle",
+    "hunting",
+    "fire",
+    "hunt",
+    "massacre"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To fire a rifle.",
+    "2. To chase wild animals and shoot at them with a rifle in order to kill them for food or as a sport. English = hunt.",
+    "3. [With a sideways sweep] to shoot indiscriminately, to massacre."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A gun with a long barrel. English = rifle.",
+    "2. The chasing and killing of wild animals with guns and rifles for food or as a sport. English = hunting."
+  ],
+  "signNumber": 5303,
+  "recordNumber": 3176,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 13,
+  "secondLocation": 26,
+  "antonyms": [],
+  "synonyms": [
+    "gun.1a"
+  ]
+}

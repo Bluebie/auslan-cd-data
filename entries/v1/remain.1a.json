@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "partlex1",
+    "auslex",
+    "doublehnd",
+    "domonly",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "remain.1a",
+  "oldentry": "",
+  "english": [
+    "remain",
+    "stay",
+    "still"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be somewhere and not to move away. English = remain, stay."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used immediately next to a verb to mean the action started happening before the time of speaking or some other time, and continues to happen now (or until some other time) without having stopped. English = still."
+  ],
+  "nomlex": [
+    "1. The act of being in a place and not moving away."
+  ],
+  "signNumber": 1471,
+  "recordNumber": 878,
+  "signVisualComposition": "",
+  "activeHandShape": 1.2,
+  "passiveHandShape": 1.2,
+  "primaryLocation": 15,
+  "secondLocation": 27,
+  "antonyms": [],
+  "synonyms": [
+    "continue.1a",
+    "stay.1a",
+    "still.2"
+  ]
+}

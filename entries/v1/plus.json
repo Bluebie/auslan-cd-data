@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "partlex1",
+    "auslex",
+    "maths",
+    "doublehnd",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "plus",
+  "oldentry": "Popular explanation: the shape of a plus symbol.",
+  "english": [
+    "addition",
+    "add",
+    "positive",
+    "and",
+    "plus"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. In mathematics, to calculate the total of two or more numbers. English = add.",
+    "2. To put two things in the same place, to say one more thing. English = add.",
+    "3. In mathematics, to be a number which is greater than zero. English = (be) positive.",
+    "4. In mathematics, the sign for the word used to name the operation of adding two numbers together and represented by the symbol +. English = plus."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [
+    "1. Used to link two or more words, groups, or clauses. English = and."
+  ],
+  "nomlex": [
+    "1. In mathematics, the calculation of the total of two or more numbers. English = addition.",
+    "2. In mathematics, the addition or plus symbol (+) which is put between two numbers to show that they are to be added together."
+  ],
+  "signNumber": 951,
+  "recordNumber": 547,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "subtract.1a",
+    "negative",
+    "minus.sign"
+  ],
+  "synonyms": [
+    "add.2a",
+    "and.1"
+  ]
+}

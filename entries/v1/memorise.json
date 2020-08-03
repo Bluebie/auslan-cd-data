@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "comp",
+    "marginal",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "cf3",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "memorise",
+  "oldentry": "",
+  "english": [
+    "memorisation",
+    "memorise"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To learn something thoroughly so that you can remember it exactly. English = memorise."
+  ],
+  "cf": [
+    "take.in.experience",
+    "student.1a",
+    "learn.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The process of learning something thoroughly so that you can remember it exactly. English = memorisation."
+  ],
+  "signNumber": 2427,
+  "recordNumber": 1345,
+  "signVisualComposition": "EXPERIENCE + REMEMBER",
+  "activeHandShape": 5.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "forget.1",
+    "forget.2a"
+  ],
+  "synonyms": [
+    "remember.1a"
+  ]
+}

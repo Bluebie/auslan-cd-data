@@ -1,0 +1,80 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "enddir",
+    "reglex",
+    "vic",
+    "judge",
+    "quality",
+    "onehand",
+    "opaque",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "false.2a",
+  "oldentry": "",
+  "english": [
+    "fake",
+    "forgery",
+    "imitation",
+    "copy",
+    "impostor",
+    "forged",
+    "forge",
+    "imitate",
+    "artificial",
+    "deceive",
+    "betray"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be made to look like something valuable or real in order to deceive people. English = (be) fake, (be) forged.",
+    "2. To make something look like something valuable or real in order to deceive people. English = fake, forge, imitate, copy.",
+    "3. To be not natural and exist or happen only because people have created it. English = (be) artificial.",
+    "4. To deliberately make someone believe something that is not true, especially after assuring them that you will be honest with them. English = deceive, betray, turn against someone."
+  ],
+  "cf": [
+    "not.true"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. Something that is made to look like something valuable or real in order to deceive people. English = fake, forgery, imitation, copy.",
+    "2. A person who dishonestly pretends to be someone else in order to get something they want. English = impostor."
+  ],
+  "signNumber": 6552,
+  "recordNumber": 3904,
+  "signVisualComposition": "",
+  "activeHandShape": 14.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 10,
+  "secondLocation": null,
+  "antonyms": [
+    "true"
+  ],
+  "synonyms": [
+    "pretend.1a"
+  ]
+}

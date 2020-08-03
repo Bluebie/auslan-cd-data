@@ -1,0 +1,77 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "interj1",
+    "auslex",
+    "mindact",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "idea.1a",
+  "oldentry": "",
+  "english": [
+    "idea",
+    "suggestion",
+    "intelligence",
+    "suggest",
+    "intelligent",
+    "clever",
+    "opinion"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To make or form a plan, suggestion, or possible course of action in your mind; to have an idea; to get an idea.",
+    "2. To put forward, to make known or to tell someone about a plan or idea for people to think about. English = suggest.",
+    "3. To be someone who has an above average ability to think, understand and learn ideas. English = (be) intelligent, (be) clever."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used to introduce a thought or an idea. English = 'I've got an idea. Let's ...', 'That's it. Why don't we ...'"
+  ],
+  "partlex": [],
+  "nomlex": [
+    "1. A plan, suggestion, or possible course of action which you form in your mind. English = idea.",
+    "2. An idea or plan which is put forward, made known or told to someone for them to think about. English = suggestion.",
+    "3. The above average ability to think, understand and learn ideas. English = intelligence.",
+    "4. The ideas and thoughts you have about some topic or subject. English = opinion."
+  ],
+  "signNumber": 505,
+  "recordNumber": 282,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 3,
+  "secondLocation": null,
+  "antonyms": [
+    "stupid.1",
+    "stupid.2",
+    "stupid.3"
+  ],
+  "synonyms": [
+    "clever.1a",
+    "genius",
+    "opinion.1a"
+  ]
+}

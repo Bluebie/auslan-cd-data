@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "nomlex1",
+    "orient",
+    "auslex",
+    "furn",
+    "onehand",
+    "engtf1",
+    "ant1",
+    "ant2",
+    "cf1",
+    "cf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "switch.1a",
+  "oldentry": "",
+  "english": [
+    "switch"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [
+    "switch.on",
+    "switch.over.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A small control for an electrical device, such as a light, a radio, or a heater. You press it or move it up and down in order to turn the device on or off. English = switch."
+  ],
+  "signNumber": 6346,
+  "recordNumber": 3790,
+  "signVisualComposition": "",
+  "activeHandShape": 11.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 8,
+  "secondLocation": null,
+  "antonyms": [
+    "extinguish.1a",
+    "switch.off"
+  ],
+  "synonyms": [
+    "light.2"
+  ]
+}

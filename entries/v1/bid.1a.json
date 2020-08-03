@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "hobbies",
+    "onehand",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "bid.1a",
+  "oldentry": "Popular explanation: placing a wad of money on a surface.",
+  "english": [
+    "bid",
+    "wager",
+    "bet",
+    "wage"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To offer to pay a particular amount of money for something, especially at an auction. English = bid.",
+    "2. To agree to give a certain amount of money on the chance of a future event happening (like a horse winning a race). English = bet, wage. Idiomatic English = place a bet."
+  ],
+  "cf": [
+    "auction",
+    "sue"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An offer to pay a particular amount of money for something, especially at an auction. English = bid.",
+    "2. An amount of money you agree to give on the chance of a future event happening (like a horse winning a race). English = bet, wager"
+  ],
+  "signNumber": 6103.1,
+  "recordNumber": 3630,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": null,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "bet.1",
+    "bet.2a"
+  ]
+}

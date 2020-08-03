@@ -1,0 +1,63 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "auslex",
+    "bodyact",
+    "furn",
+    "twohand",
+    "domonly",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "sit.on",
+  "oldentry": "",
+  "english": [
+    "sit",
+    "sit on",
+    "chair",
+    "seat"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be on something, such as a chair, so that your weight is supported by your buttocks rather than your feet, and the upper part of your body is upright. English = sit, sit on."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A person who is sitting down, a seated person.",
+    "2. A piece of furniture for one person to sit on, with a back and four legs. English = chair.",
+    "3. An object you can sit on, for example a chair. English = seat."
+  ],
+  "signNumber": 1797,
+  "recordNumber": 1084,
+  "signVisualComposition": "",
+  "activeHandShape": 2.2,
+  "passiveHandShape": 1.1,
+  "primaryLocation": 15,
+  "secondLocation": 26,
+  "antonyms": [
+    "stand.1a",
+    "lie.down"
+  ],
+  "synonyms": [
+    "sit.opposite",
+    "chair.1",
+    "chair.2a"
+  ]
+}

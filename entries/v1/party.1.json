@@ -1,0 +1,54 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "opaque",
+    "engtf1",
+    "cf1",
+    "cf2",
+    "syn1",
+    "syn2",
+    "syn3"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "party.1",
+  "oldentry": "",
+  "english": [
+    "party"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a party.",
+    "2. To go to a party or other social events. English = party."
+  ],
+  "cf": [
+    "picnic.1a",
+    "feast"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking or playing games. English = party, get together."
+  ],
+  "signNumber": 124,
+  "recordNumber": 66,
+  "signVisualComposition": "",
+  "activeHandShape": 0.1,
+  "passiveHandShape": 0.1,
+  "primaryLocation": 9,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "party.2",
+    "party.3",
+    "party.4"
+  ]
+}

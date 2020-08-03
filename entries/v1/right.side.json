@@ -1,0 +1,62 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2",
+    "ant3",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "right.side",
+  "oldentry": "",
+  "english": [
+    "right",
+    "right side",
+    "right arm",
+    "right hand"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To be one of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = (be) right.",
+    "2. To be on one of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = (be) right."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. One of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = right.",
+    "2. One of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = right side.",
+    "3. One of two arms on the body; namely, the arm with the hand that most people use to write, sign or do complicated things with. English  = right arm, right hand."
+  ],
+  "signNumber": 3519,
+  "recordNumber": 2061,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 18,
+  "secondLocation": null,
+  "antonyms": [
+    "left.1",
+    "left.side",
+    "left.handed"
+  ],
+  "synonyms": [
+    "right.2",
+    "right.handed"
+  ]
+}

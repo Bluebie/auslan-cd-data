@@ -1,0 +1,42 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "auslex",
+    "doublehnd",
+    "sym",
+    "ant1",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "auto-doors.open",
+  "oldentry": "",
+  "english": [],
+  "deictic": [],
+  "verblex": [
+    "1. Of automatic doors, to open."
+  ],
+  "cf": [
+    "auto-doors"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The opening of a set of automatic doors."
+  ],
+  "signNumber": 3732,
+  "recordNumber": 2201,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 14,
+  "secondLocation": 26,
+  "antonyms": [
+    "auto-doors.close"
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,85 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "partlex1",
+    "interj1",
+    "interj2",
+    "orient",
+    "auslex",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "engtf6",
+    "engtf7",
+    "engtf8",
+    "engtf9",
+    "engtf10",
+    "engtf11",
+    "ant1",
+    "ant2",
+    "syn1",
+    "syn2"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "depart.1a",
+  "oldentry": "",
+  "english": [
+    "going",
+    "leaving",
+    "departure",
+    "outing",
+    "permission",
+    "go leave",
+    "depart",
+    "go out",
+    "permit",
+    "allow",
+    "away"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To move or travel away from the place where you are now. English = go, leave, go away, depart.",
+    "2. To do something socially (eat, watch entertainment, dance, drink, and so on) away from your own house. English = go out.",
+    "3. To tell someone, somewhat reluctantly, that they can go and do something. English = permit, allow, say go ahead."
+  ],
+  "cf": [],
+  "interj": [
+    "1. Used alone to tell someone to leave you alone and/or to move away from you. English = 'Go away!'",
+    "2. Used alone to give someone permission to go and do something. English = 'Go ahead!'"
+  ],
+  "partlex": [
+    "1. Used next to a verb (action) sign to mean the action takes place somewhere else some distance away. English = away."
+  ],
+  "nomlex": [
+    "1. The act of moving or travelling away from the place where you are now. English = going, leaving, going away, departure.",
+    "2. A social event in which you go away from your own house to be with other people to eat, watch entertainment, dance, drink, or, particularly, to visit outdoor sights. English = outing.",
+    "3. The approval of someone else to do something. English = permission, go ahead."
+  ],
+  "signNumber": 3369,
+  "recordNumber": 1970,
+  "signVisualComposition": "",
+  "activeHandShape": 5.3,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [
+    "arrive",
+    "come.1a"
+  ],
+  "synonyms": [
+    "gone.1",
+    "permit.1"
+  ]
+}

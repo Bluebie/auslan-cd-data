@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "nomlex4",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "auslex",
+    "twohand",
+    "domonly",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "lock.1a",
+  "oldentry": "Popular explanation: turning a key.",
+  "english": [
+    "lock",
+    "key",
+    "ignition",
+    "lock up"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To put a key into a lock and turn it so that it cannot be opened. English = lock.",
+    "2. To make sure all the doors and windows of a building are properly closed and locked so that burglars cannot get in. English = lock up.",
+    "3. To insert a key into the ignition of a car and turn it so that the engine starts."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The part of a door, a drawer, or a suitcase which you use to keep it shut and to prevent other people from opening it. To open it, you must first put a key in it and turn it. English = lock.",
+    "2. A specially shaped piece of metal which you place in a lock and turn in order to open or lock a door, a drawer, or a suitcase; a specially shaped piece of metal that you turn, for example to wind up a clock.  English = key.",
+    "3. A lock and a key that go together.",
+    "4. The keyhole in the dashboard of a car in which you insert a key in order to start the engine. English = ignition."
+  ],
+  "signNumber": 6261,
+  "recordNumber": 3737,
+  "signVisualComposition": "",
+  "activeHandShape": 10.2,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [
+    "unlock"
+  ],
+  "synonyms": []
+}

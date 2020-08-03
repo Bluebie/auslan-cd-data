@@ -1,0 +1,60 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "verblex4",
+    "auslex",
+    "seasons",
+    "doublehnd",
+    "sym",
+    "transl",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "ant1",
+    "ant2"
+  ],
+  "sense": "1",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "cold",
+  "oldentry": "Popular explanation: shivering from the cold.",
+  "english": [
+    "cold",
+    "coldness",
+    "shiver",
+    "chill"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To have a very low temperature or a lower temperature than is normal or acceptable; [specially with stress] to have an extremely low temperature. English = (be) cold, (be) chilly; (be) freezing.",
+    "2. To shake because your body is cold. English = shiver.",
+    "3. To lower the temperature of something so that it becomes colder but does not freeze. English = chill.",
+    "4. To not show your emotions, to be unfriendly or not affectionate. English = (be) cold."
+  ],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The condition of something, especially the weather, when it has a very low temperature. English = cold, coldness.",
+    "2. The behaviour of someone who does not show much emotion, especially affection or friendliness. English = coldness."
+  ],
+  "signNumber": 5758,
+  "recordNumber": 3411,
+  "signVisualComposition": "",
+  "activeHandShape": 10.1,
+  "passiveHandShape": 10.1,
+  "primaryLocation": 14,
+  "secondLocation": 25,
+  "antonyms": [
+    "hot.1a",
+    "warm.1"
+  ],
+  "synonyms": []
+}

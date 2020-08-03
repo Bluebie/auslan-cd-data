@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "travel",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "compass",
+  "oldentry": "Popular explanation: the dial of a compass.",
+  "english": [
+    "compass",
+    "dial",
+    "meter",
+    "gauge",
+    "needle"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To use a compass to determine the direction of north and, hence, the other compass points.",
+    "2. Of a dial or gauge, to move to and fro, to oscillate."
+  ],
+  "cf": [
+    "compasses"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. An instrument that you use for finding directions. It has a dial and a magnetic needle that always points to the north. English = compass.",
+    "2. An instrument such as a clock or meter that shows you the amount or measurement of something. English = dial, meter, gauge.",
+    "3. On an instrument such as a clock, meter,  or compass, the indicator which shows you the time, measurement or direction. English = dial, needle."
+  ],
+  "signNumber": 1267,
+  "recordNumber": 753,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": []
+}

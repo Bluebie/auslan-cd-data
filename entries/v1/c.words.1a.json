@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "init",
+    "nomlex1",
+    "nomlex2",
+    "nomlex3",
+    "gensign",
+    "drinks",
+    "money",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "In context, this sign can be used for any thing or any action named by an English word beginning with the letter 'C' particularly if that word has already been fully fingerspelt earlier in the conversation, especially used for coffee and cent.",
+  "questlex": [],
+  "idgloss": "c.words.1a",
+  "oldentry": "",
+  "english": [
+    "coffee",
+    "cent"
+  ],
+  "deictic": [],
+  "verblex": [],
+  "cf": [],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee.",
+    "2. The roasted seeds or powder from which the drink is made. English = coffee, coffee beans, coffee powder.",
+    "3. A small unit of money used as one-hundredth of the main unit of money in many countries. English = cent."
+  ],
+  "signNumber": 5331,
+  "recordNumber": 3193,
+  "signVisualComposition": "",
+  "activeHandShape": 7.2,
+  "passiveHandShape": 0,
+  "primaryLocation": 14,
+  "secondLocation": null,
+  "antonyms": [],
+  "synonyms": [
+    "coffee.1"
+  ]
+}

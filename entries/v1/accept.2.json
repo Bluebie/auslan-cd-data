@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "nomlex1",
+    "verblex1",
+    "verblex2",
+    "verblex3",
+    "dir",
+    "reglex",
+    "sa",
+    "onehand",
+    "engtf1",
+    "engtf2",
+    "ant1",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "2",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "accept.2",
+  "oldentry": "",
+  "english": [
+    "acceptance",
+    "accept"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To say yes to something you have been offered or agree to take it. English = accept.",
+    "2. To agree to do what someone suggests or advises. English = accept.",
+    "3. To get used to a difficult or unpleasant situation and recognise that it cannot be changed. English = accept."
+  ],
+  "cf": [
+    "invite.1"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. The act of agreeing to or taking something you have been offered. English = acceptance."
+  ],
+  "signNumber": 5169,
+  "recordNumber": 3110,
+  "signVisualComposition": "",
+  "activeHandShape": 7.1,
+  "passiveHandShape": 0,
+  "primaryLocation": 15,
+  "secondLocation": null,
+  "antonyms": [
+    "reject"
+  ],
+  "synonyms": [
+    "accept.1a"
+  ]
+}

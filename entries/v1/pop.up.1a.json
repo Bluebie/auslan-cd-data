@@ -1,0 +1,58 @@
+{
+  "tags": [
+    "nomlex1",
+    "nomlex2",
+    "verblex1",
+    "verblex2",
+    "auslex",
+    "twohand",
+    "domonly",
+    "obscure",
+    "engtf1",
+    "engtf2",
+    "engtf3",
+    "engtf4",
+    "engtf5",
+    "cf1",
+    "syn1"
+  ],
+  "sense": "",
+  "blend": "",
+  "queries": "",
+  "genmean": "",
+  "questlex": [],
+  "idgloss": "pop.up.1a",
+  "oldentry": "Popular explanation: something coming up.",
+  "english": [
+    "opportunity",
+    "chance",
+    "appearance",
+    "pop up",
+    "appear"
+  ],
+  "deictic": [],
+  "verblex": [
+    "1. To take place without planning and unexpectedly. English = pop up, appear.",
+    "2. To be present unexpectedly at a place. English = pop up, appear."
+  ],
+  "cf": [
+    "happen.1a"
+  ],
+  "interj": [],
+  "partlex": [],
+  "nomlex": [
+    "1. A situation in which it is possible for something to happen, especially a situation which is unexpected and beneficial. English = opportunity, chance.",
+    "2. The arrival of someone somewhere, especially unexpectedly. English = appearance."
+  ],
+  "signNumber": 1235,
+  "recordNumber": 729,
+  "signVisualComposition": "",
+  "activeHandShape": 1.1,
+  "passiveHandShape": 5.3,
+  "primaryLocation": 15,
+  "secondLocation": 25,
+  "antonyms": [],
+  "synonyms": [
+    "unexpected"
+  ]
+}
