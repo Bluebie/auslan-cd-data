@@ -1,0 +1,21 @@
+{
+  "name": "auslan-cd-data",
+  "version": "0.0.1",
+  "description": "RIDBC published in Auslan CD-ROM based on Microsoft JET DB, Quicktime for Windows, and Macromedia Director technologies, all of which are obsolete now. The CD continues to be a useful resource, especially in how it provided rich and detailed searchable information about each Auslan sign's location, handshape, symmetry, and region information, much of which is difficult or impossible for the general public to access on the modern Auslan SignBank website. This is a reverse engineering attempt to make that dataset accessible in the modern era for language enthusiests and others who don't have access to the academic channels required to gain access to the Auslan Sign Corpus that much of this is based on.",
+  "main": "build-clean-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auslan",
+    "sign",
+    "language",
+    "dataset"
+  ],
+  "author": "Phoenix Fox",
+  "license": "Unlicense",
+  "dependencies": {
+    "csv-string": "^4.0.1",
+    "fs-extra": "^9.0.1"
+  }
+}
