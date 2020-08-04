@@ -1,5 +1,5 @@
-# auslan-cd-data
-RIDBC published in Auslan CD-ROM based on Microsoft JET DB, Quicktime for Windows, and Macromedia Director technologies, all of
+# Auslan CD-ROM Data
+RIDBC published in Auslan CD-ROM based on Microsoft JET DB, Quicktime for Windows, and Macromedia Director, and Windows 98 technologies, all of
 which are obsolete now. The CD continues to be a useful resource, especially in how it provided rich and detailed searchable
 information about each Auslan sign's location, handshape, symmetry, and region information, much of which is difficult or
 impossible for the general public to access on the modern Auslan SignBank website. This is a reverse engineering attempt to
@@ -12,10 +12,9 @@ beware spooky legal things?
 
 ## Format notes
 
-Under /entries/v1 you'll find json files for each ID Gloss in the Auslan CD app. Each file contains an object/dictionary. The
-property names are educated guesses. Please submit a PR if any of them seem to be wrong.
+Under `/entries/v1/` you'll find json files for each ID Gloss in the Auslan CD app. Each file contains an object/map. The property names are educated guesses. Please submit a PR if any of them seem to be wrong or misleading.
 
-To reference videos from the original CD ROM, look at the json object. For example `entries/v1/accept.1a.json`:
+To reference videos from the [original CD ROM](https://archive.org/details/signs-of-australia-on-cd-rom), look at the json object. For example `/entries/v1/accept.1a.json`:
 
 ```JSON
 {
@@ -98,12 +97,16 @@ track at 320x240 resolution and around 12.5fps.
 So why did sign number 3930 become filename 39300.mov? Your guess is as good as mine, but in the original database, the "SN" field is stored
 as a Double Floating Point Number, and indeed, if you look at certain entries like e-mail.json, you'll find signNumber 1143.1. Looking at sign
 number 1143.0 - blood.1a, there doesn't appear to be much of a relationship. My suspicion is they added extra resolution to be able to shove
-more signs in without disrupting the numbering scheme, which is likely inherited from the big red book: AUSLAN Dictionary - A Dictionary of
-the Sign Language of the Australian Deaf Community. In this dictionary, the primary/active handshape is the sorting key around which everything
+more signs in without disrupting the numbering scheme, which is likely inherited from the big red book: [AUSLAN Dictionary - A Dictionary of
+the Sign Language of the Australian Deaf Community](https://www.librarything.com/work/1040748). In this dictionary, the primary/active handshape is the sorting key around which everything
 is indexed numerically, so signs which involve similar handshapes are sorted near to each other.
 
-And that seems to hold true, e-mail and blood.1a do both involve a flat splayed handshape.
+And that seems to hold true, e-mail and blood.1a do both involve a flat splayed handshape. Notably the big red book and this CD-ROM were both authored by Trevor Johnston
 
-So it looks like the best way to find sign video mov's on the CD-ROM is to multiply sign number by 10, then round it to a whole integer to avoid
+So it looks like the best way to locate sign video mov files on the CD-ROM is to multiply sign number by 10, then round it to a whole integer to avoid
 any floating point errors, convert the integer to a string, use the first two characters to find the shard ID, and build the path
 `/CDMountPoint/movie/:shardID:/:signNumberInteger:.mov`
+
+## A note on tags
+
+The tags field contains every boolean field that was set true in the sign's row in the AUSLANCD table on the original CD-ROM. Some of these are clearly useful tags, while others appear to just note the presence or absence of information in the text fields of the same rows. The tags are presented in their raw form, at least in v1 dataset, and it's up to you to appropriately filter it down to just the useful ones if presenting them in a user interface.
