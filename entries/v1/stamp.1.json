@@ -17,29 +17,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stamp.1",
-  "oldentry": "Popular explanation: licking a stamp then putting it on a letter.",
   "english": [
     "stamp",
     "postage stamp",
     "postage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To affix or stick a stamp to an envelope or parcel before you post it."
-  ],
   "cf": [
     "glue.1",
     "letter",
     "letterbox"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small piece of gummed paper which you stick on an envelope or parcel before you post it. English = stamp, postage stamp.",
-    "2. The money that you pay for sending letters and parcels by post. English = postage."
   ],
   "signNumber": 2138,
   "recordNumber": 1237,
@@ -49,5 +36,18 @@
   "primaryLocation": 10,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To affix or stick a stamp to an envelope or parcel before you post it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small piece of gummed paper which you stick on an envelope or parcel before you post it. English = stamp, postage stamp.",
+    "2. The money that you pay for sending letters and parcels by post. English = postage."
+  ],
+  "idGloss": "stamp.1",
+  "oldEntry": "Popular explanation: licking a stamp then putting it on a letter."
 }

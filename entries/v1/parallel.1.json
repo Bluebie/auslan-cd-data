@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parallel.1",
-  "oldentry": "Popular explanation: two line or surfaces parallel to each other.",
   "english": [
     "parallel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two lines or long objects, to be the same distance apart all along their length. English = (be) parallel."
-  ],
   "cf": [
     "horizontal",
     "vertical.1a",
     "street.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two lines or long objects which are the same distance apart all along their length. English = parallel lines, parallel objects."
   ],
   "signNumber": 3552,
   "recordNumber": 2081,
@@ -48,5 +36,17 @@
   "antonyms": [
     "diverge"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two lines or long objects, to be the same distance apart all along their length. English = (be) parallel."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two lines or long objects which are the same distance apart all along their length. English = parallel lines, parallel objects."
+  ],
+  "idGloss": "parallel.1",
+  "oldEntry": "Popular explanation: two line or surfaces parallel to each other."
 }

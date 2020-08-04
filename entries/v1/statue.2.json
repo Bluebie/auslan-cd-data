@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "statue.2",
-  "oldentry": "Popular explanation: chiselling a face.",
   "english": [
     "statue",
     "bust"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A work of art that is produced by carving or shaping stone, wood, or clay, depicting a person or an animal. English = statue.",
-    "2. A statue of the head and shoulders of a person. English = bust."
-  ],
   "signNumber": 5581,
   "recordNumber": 3305,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "statue.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A work of art that is produced by carving or shaping stone, wood, or clay, depicting a person or an animal. English = statue.",
+    "2. A statue of the head and shoulders of a person. English = bust."
+  ],
+  "idGloss": "statue.2",
+  "oldEntry": "Popular explanation: chiselling a face."
 }

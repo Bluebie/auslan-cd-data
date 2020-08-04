@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dog.1",
-  "oldentry": "Popular explanation: calling a dog by hitting the thigh.",
   "english": [
     "dog"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To attract the attention of a dog by slapping your thigh."
-  ],
   "cf": [
     "growl.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog.",
-    "2. The act of slapping your thigh to attract the attention of a dog."
   ],
   "signNumber": 3507,
   "recordNumber": 2052,
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "dog.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To attract the attention of a dog by slapping your thigh."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog.",
+    "2. The act of slapping your thigh to attract the attention of a dog."
+  ],
+  "idGloss": "dog.1",
+  "oldEntry": "Popular explanation: calling a dog by hitting the thigh."
 }

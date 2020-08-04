@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "meaning",
-  "oldentry": "",
   "english": [
     "meaning",
     "significance",
@@ -27,15 +23,7 @@
     "signify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a unit of language (word or sign) or a whole expression, to refer to a thing or idea or express something. English = mean. Formal English = signify."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The thing that a single unit of a language (word or sign) or a whole expression refers to or expresses. Often this 'thing' is just other words and signs, rather than something you can point at. English = meaning, significance."
-  ],
   "signNumber": 4249.1,
   "recordNumber": 2577,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "sign"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a unit of language (word or sign) or a whole expression, to refer to a thing or idea or express something. English = mean. Formal English = signify."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thing that a single unit of a language (word or sign) or a whole expression refers to or expresses. Often this 'thing' is just other words and signs, rather than something you can point at. English = meaning, significance."
+  ],
+  "idGloss": "meaning",
+  "oldEntry": ""
 }

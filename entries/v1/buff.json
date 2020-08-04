@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "buff",
-  "oldentry": "Popular explanation: holding on to a polishing machine.",
   "english": [
     "buffer",
     "buff"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To polish metal, especially the metal of a car body, using a special mechanical polisher. English = buff."
-  ],
   "cf": [
     "clean.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device for polishing. English = buffer."
   ],
   "signNumber": 5889,
   "recordNumber": 3501,
@@ -41,5 +29,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To polish metal, especially the metal of a car body, using a special mechanical polisher. English = buff."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device for polishing. English = buffer."
+  ],
+  "idGloss": "buff",
+  "oldEntry": "Popular explanation: holding on to a polishing machine."
 }

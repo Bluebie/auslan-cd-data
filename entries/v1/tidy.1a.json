@@ -32,10 +32,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tidy.1a",
-  "oldentry": "",
   "english": [
     "tidiness",
     "orderliness",
@@ -50,21 +46,7 @@
     "categorise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be neat and arranged in an orderly way. English = tidy.",
-    "2. To put things into neat and ordered groups or regularly spaced stacks. English = order, stack up, space.",
-    "3. To be put into neat and ordered groups or regularly spaced stacks. English = (be) ordered, (be) stacked up, (be) spaced.",
-    "4. To put things into neat and ordered groups or regularly spaced stacks, usually according to some characteristic each group of things shares. English = categorise."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition when things are neat and arranged in an orderly way. English = tidiness, orderliness, neatness.",
-    "2. Neat ordered piles of things regularly spaced. English = stacks.",
-    "3. A group or stack of things which are neat or which all share some characteristic. English = category.",
-    "4. A sequence of things placed one after another according to some kind of principle. English = order."
-  ],
   "signNumber": 3810,
   "recordNumber": 2264,
   "signVisualComposition": "",
@@ -80,5 +62,23 @@
     "clean.1",
     "clean.2",
     "stack.up"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be neat and arranged in an orderly way. English = tidy.",
+    "2. To put things into neat and ordered groups or regularly spaced stacks. English = order, stack up, space.",
+    "3. To be put into neat and ordered groups or regularly spaced stacks. English = (be) ordered, (be) stacked up, (be) spaced.",
+    "4. To put things into neat and ordered groups or regularly spaced stacks, usually according to some characteristic each group of things shares. English = categorise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition when things are neat and arranged in an orderly way. English = tidiness, orderliness, neatness.",
+    "2. Neat ordered piles of things regularly spaced. English = stacks.",
+    "3. A group or stack of things which are neat or which all share some characteristic. English = category.",
+    "4. A sequence of things placed one after another according to some kind of principle. English = order."
+  ],
+  "idGloss": "tidy.1a",
+  "oldEntry": ""
 }

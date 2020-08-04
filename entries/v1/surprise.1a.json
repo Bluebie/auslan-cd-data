@@ -15,27 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "surprise.1a",
-  "oldentry": "",
   "english": [
     "surprise",
     "surprising",
     "surprised"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give someone a feeling of surprise; to be something that makes someone feel surprised. English = surprise; (be) surprising.",
-    "2. To have the feeling you have when something unexpected happens. English = (be) surprised."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An unexpected event. English = surprise.",
-    "2. The feeling you have when something unexpected happens. English = surprise."
-  ],
   "signNumber": 2503,
   "recordNumber": 1389,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "antonyms": [],
   "synonyms": [
     "shock.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give someone a feeling of surprise; to be something that makes someone feel surprised. English = surprise; (be) surprising.",
+    "2. To have the feeling you have when something unexpected happens. English = (be) surprised."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An unexpected event. English = surprise.",
+    "2. The feeling you have when something unexpected happens. English = surprise."
+  ],
+  "idGloss": "surprise.1a",
+  "oldEntry": ""
 }

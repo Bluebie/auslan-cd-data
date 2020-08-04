@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "do.up.buttons",
-  "oldentry": "Popular explanation: twisting buttons into button holes.",
   "english": [
     "button up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fasten the buttons on an item of clothing, especially a shirt. Idiomatic English = do up buttons, button up"
-  ],
   "cf": [
     "button.1a",
     "zip.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 382,
   "recordNumber": 205,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fasten the buttons on an item of clothing, especially a shirt. Idiomatic English = do up buttons, button up"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "do.up.buttons",
+  "oldEntry": "Popular explanation: twisting buttons into button holes."
 }

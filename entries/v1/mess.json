@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "DIRTY + TURN OVER",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mess",
-  "oldentry": "",
   "english": [
     "mess",
     "messy",
@@ -30,17 +26,7 @@
     "upside down"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be untidy or disorganised. English = (be) messy, (be) in a mess.",
-    "2. To be in a confused or disorganised state. Informal English = (be) topsy-turvy.",
-    "3. To be turned around so that the part of a thing which is usually lowest is above the part that is usually highest. English = (be) upside down."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that is in a very untidy state. English = mess."
-  ],
   "signNumber": 2776,
   "recordNumber": 1555,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
     "clean.1",
     "tidy.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be untidy or disorganised. English = (be) messy, (be) in a mess.",
+    "2. To be in a confused or disorganised state. Informal English = (be) topsy-turvy.",
+    "3. To be turned around so that the part of a thing which is usually lowest is above the part that is usually highest. English = (be) upside down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that is in a very untidy state. English = mess."
+  ],
+  "idGloss": "mess",
+  "oldEntry": ""
 }

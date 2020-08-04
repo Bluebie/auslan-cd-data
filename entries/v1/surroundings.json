@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "AREA + entity",
   "queries": "",
-  "genmean": "The area around a particular place or point of reference, or any thing or any action directly or indirectly associated with this, such as surroundings, situation, and context.",
-  "questlex": [],
-  "idgloss": "surroundings",
-  "oldentry": "",
   "english": [
     "surroundings",
     "environment",
@@ -30,17 +26,8 @@
     "context"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "surround"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The area which is all around a particular place. English = surroundings, environment.",
-    "2. What is happening in a particular place at a particular time. English = situation.",
-    "3. The general information about the time, place, and situation in which an idea or event occurs which you need to know in order to understand it fully. English = context.",
-    "4. The words, signs or sentences before or after other words, signs or sentences which help to make the meaning clear. English = context."
   ],
   "signNumber": 2812,
   "recordNumber": 1578,
@@ -53,5 +40,18 @@
   "synonyms": [
     "situation",
     "environment"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The area around a particular place or point of reference, or any thing or any action directly or indirectly associated with this, such as surroundings, situation, and context.",
+  "nominalLexeme": [
+    "1. The area which is all around a particular place. English = surroundings, environment.",
+    "2. What is happening in a particular place at a particular time. English = situation.",
+    "3. The general information about the time, place, and situation in which an idea or event occurs which you need to know in order to understand it fully. English = context.",
+    "4. The words, signs or sentences before or after other words, signs or sentences which help to make the meaning clear. English = context."
+  ],
+  "idGloss": "surroundings",
+  "oldEntry": ""
 }

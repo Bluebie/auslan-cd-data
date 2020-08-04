@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "one.level.above",
-  "oldentry": "Popular explanation: one surface above another.",
   "english": [
     "above",
     "upstairs"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located above something. English = (be) above.",
-    "2. To be located above a flat or level surface; (be) above a flat surface.",
-    "3. To be located one floor above another (in a building with two or more floors); to go up by one floor in a building; to go upstairs (one floor)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The floor above the one you are on or the one you are talking about; upstairs one floor."
-  ],
   "signNumber": 4086,
   "recordNumber": 2450,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located above something. English = (be) above.",
+    "2. To be located above a flat or level surface; (be) above a flat surface.",
+    "3. To be located one floor above another (in a building with two or more floors); to go up by one floor in a building; to go upstairs (one floor)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The floor above the one you are on or the one you are talking about; upstairs one floor."
+  ],
+  "idGloss": "one.level.above",
+  "oldEntry": "Popular explanation: one surface above another."
 }

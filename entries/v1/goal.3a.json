@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "goal.3a",
-  "oldentry": "Popular explanation: ball passing into a hole.",
   "english": [
     "goal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In basketball or netball, to score a goal."
-  ],
   "cf": [
     "goal.1",
     "goal.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In basketball or netball, a point which a team scores by throwing the ball so that it passes through a narrow hoop. English = goal."
   ],
   "signNumber": 1486,
   "recordNumber": 886,
@@ -46,5 +34,17 @@
   "antonyms": [
     "just.miss"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In basketball or netball, to score a goal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In basketball or netball, a point which a team scores by throwing the ball so that it passes through a narrow hoop. English = goal."
+  ],
+  "idGloss": "goal.3a",
+  "oldEntry": "Popular explanation: ball passing into a hole."
 }

@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bikini",
-  "oldentry": "Popular explanation: the outline of the two-piece bikini.",
   "english": [
     "bikini"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a bikini."
-  ],
   "cf": [
     "bra.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A two-piece swimming costume worn by women.  English = bikini."
   ],
   "signNumber": 4585,
   "recordNumber": 2777,
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a bikini."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A two-piece swimming costume worn by women.  English = bikini."
+  ],
+  "idGloss": "bikini",
+  "oldEntry": "Popular explanation: the outline of the two-piece bikini."
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sunrise.1a",
-  "oldentry": "Popular explanation: an orb rising above the horizon.",
   "english": [
     "sunrise",
     "dawn",
@@ -31,17 +27,7 @@
     "rise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the sun or moon, to appear from below the horizon. English = rise.",
-    "2. Of the sky, to begin to grow light after the night. English = dawn."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The time in the morning when the sky begins to grow light and then the sun first appears in the sky. English = sunrise, dawn, daybreak.",
-    "2. The colours and light that you see in the eastern part of the sky when the sun first appears. English = sunrise."
-  ],
   "signNumber": 214,
   "recordNumber": 124,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   ],
   "synonyms": [
     "day.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the sun or moon, to appear from below the horizon. English = rise.",
+    "2. Of the sky, to begin to grow light after the night. English = dawn."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The time in the morning when the sky begins to grow light and then the sun first appears in the sky. English = sunrise, dawn, daybreak.",
+    "2. The colours and light that you see in the eastern part of the sky when the sun first appears. English = sunrise."
+  ],
+  "idGloss": "sunrise.1a",
+  "oldEntry": "Popular explanation: an orb rising above the horizon."
 }

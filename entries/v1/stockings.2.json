@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stockings.2",
-  "oldentry": "",
   "english": [
     "stocking",
     "stockings"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Pieces of clothing which fit closely over your feet and legs. They are usually made of nylon or silk and worn by women. English = stocking, stockings."
-  ],
   "signNumber": 2576,
   "recordNumber": 1420,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "stockings.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Pieces of clothing which fit closely over your feet and legs. They are usually made of nylon or silk and worn by women. English = stocking, stockings."
+  ],
+  "idGloss": "stockings.2",
+  "oldEntry": ""
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dizzy",
-  "oldentry": "",
   "english": [
     "dizziness",
     "giddiness",
@@ -33,18 +29,8 @@
     "drunk"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel that you are losing your balance and are about to fall over. English = (be) dizzy, (be) giddy.",
-    "2. To feel confused and that you are losing your balance and are about to fall over because you have drunk too much alcohol. English = (be) drunk."
-  ],
   "cf": [
     "alcohol"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of losing your balance and being about to fall over. English = dizziness, giddiness.",
-    "2. A confused feeling and a feeling of losing your balance and being about to fall over because you have drunk too much alcohol."
   ],
   "signNumber": 2991,
   "recordNumber": 1702,
@@ -57,5 +43,19 @@
   "synonyms": [
     "drunk.1",
     "drunk.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel that you are losing your balance and are about to fall over. English = (be) dizzy, (be) giddy.",
+    "2. To feel confused and that you are losing your balance and are about to fall over because you have drunk too much alcohol. English = (be) drunk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of losing your balance and being about to fall over. English = dizziness, giddiness.",
+    "2. A confused feeling and a feeling of losing your balance and being about to fall over because you have drunk too much alcohol."
+  ],
+  "idGloss": "dizzy",
+  "oldEntry": ""
 }

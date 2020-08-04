@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "party.2",
-  "oldentry": "Popular explanation: shaking tambourines.",
   "english": [
     "party",
     "socialise",
     "social"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To leave your house and meet other people, particularly at parties, pubs, restaurants and so on. English = go out, socialise.",
-    "2. To relate to leisure activities that involve meeting other people. English = (be) social."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Activities in which you meet your friends and acquaintances, for example at parties, and relax and have a good time; social activities.",
-    "2. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking, or playing games. English = party."
-  ],
   "signNumber": 6617,
   "recordNumber": 3939,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "synonyms": [
     "party.1",
     "party.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To leave your house and meet other people, particularly at parties, pubs, restaurants and so on. English = go out, socialise.",
+    "2. To relate to leisure activities that involve meeting other people. English = (be) social."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Activities in which you meet your friends and acquaintances, for example at parties, and relax and have a good time; social activities.",
+    "2. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking, or playing games. English = party."
+  ],
+  "idGloss": "party.2",
+  "oldEntry": "Popular explanation: shaking tambourines."
 }

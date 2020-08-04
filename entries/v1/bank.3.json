@@ -12,21 +12,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bank.3",
-  "oldentry": "Popular explanation: stamping in a book.",
   "english": [
     "bank"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where you keep your money in an account, the details of which are kept stamped and recorded in a small bank-book. English = bank."
-  ],
   "signNumber": 5991,
   "recordNumber": 3565,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "bank.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where you keep your money in an account, the details of which are kept stamped and recorded in a small bank-book. English = bank."
+  ],
+  "idGloss": "bank.3",
+  "oldEntry": "Popular explanation: stamping in a book."
 }

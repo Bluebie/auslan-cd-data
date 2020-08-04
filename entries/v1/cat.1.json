@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cat.1",
-  "oldentry": "Popular explanation: stroking a cat.",
   "english": [
     "cat",
     "stroke"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand slowly and gently over something, especially a small animal, and especially a cat. English = stroke."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, furry animal with a tail, whiskers, and sharp claws, which is often kept as a pet. English = cat."
-  ],
   "signNumber": 4062,
   "recordNumber": 2431,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "cat.2a",
     "caress"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand slowly and gently over something, especially a small animal, and especially a cat. English = stroke."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, furry animal with a tail, whiskers, and sharp claws, which is often kept as a pet. English = cat."
+  ],
+  "idGloss": "cat.1",
+  "oldEntry": "Popular explanation: stroking a cat."
 }

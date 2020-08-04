@@ -10,23 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "traverse.engine",
-  "oldentry": "",
   "english": [
     "traverse engine"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "four-cylinder",
     "six-cylinder"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An automobile engine in which the cylinders are lined up across the width of the car rather than parallel to its length. English = traverse engine."
   ],
   "signNumber": 2385,
   "recordNumber": 1315,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An automobile engine in which the cylinders are lined up across the width of the car rather than parallel to its length. English = traverse engine."
+  ],
+  "idGloss": "traverse.engine",
+  "oldEntry": ""
 }

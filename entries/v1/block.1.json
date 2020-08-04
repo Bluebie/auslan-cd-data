@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A solid, large square or rectangular object, or any thing or any action directly or indirectly associated with this, such as a brick or a block.",
-  "questlex": [],
-  "idgloss": "block.1",
-  "oldentry": "",
   "english": [
     "block"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large rectangular piece of a substance. English = block."
-  ],
   "signNumber": 3774,
   "recordNumber": 2233,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "box"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A solid, large square or rectangular object, or any thing or any action directly or indirectly associated with this, such as a brick or a block.",
+  "nominalLexeme": [
+    "1. A large rectangular piece of a substance. English = block."
+  ],
+  "idGloss": "block.1",
+  "oldEntry": ""
 }

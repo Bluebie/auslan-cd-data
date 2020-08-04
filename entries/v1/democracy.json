@@ -12,22 +12,11 @@
   "sense": "",
   "blend": "PEOPLE + CHOOSE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "democracy",
-  "oldentry": "",
   "english": [
     "democracy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The system of government or organisation in which people choose leaders or make important decisions by voting. English = democracy.",
-    "2. A country in which the people choose their government by voting for it. English = democracy."
-  ],
   "signNumber": 1140,
   "recordNumber": 668,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 5,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The system of government or organisation in which people choose leaders or make important decisions by voting. English = democracy.",
+    "2. A country in which the people choose their government by voting for it. English = democracy."
+  ],
+  "idGloss": "democracy",
+  "oldEntry": ""
 }

@@ -20,28 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "average",
-  "oldentry": "",
   "english": [
     "average",
     "division",
     "divide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To calculate how many times a smaller number goes into a larger number. English = divide.",
-    "2. To add two or more numbers together and divide the total by the number of numbers you added together. English = average."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The calculation of the number of times a smaller number goes into a larger number. English = division.",
-    "2. The result you get when you calculate the number of times a smaller number goes into a larger number.",
-    "3. The result that you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = average."
-  ],
   "signNumber": 975,
   "recordNumber": 563,
   "signVisualComposition": "",
@@ -56,5 +41,20 @@
     "divide.1",
     "divide.2",
     "divide.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To calculate how many times a smaller number goes into a larger number. English = divide.",
+    "2. To add two or more numbers together and divide the total by the number of numbers you added together. English = average."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The calculation of the number of times a smaller number goes into a larger number. English = division.",
+    "2. The result you get when you calculate the number of times a smaller number goes into a larger number.",
+    "3. The result that you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = average."
+  ],
+  "idGloss": "average",
+  "oldEntry": ""
 }

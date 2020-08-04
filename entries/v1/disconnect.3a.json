@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disconnect.3a",
-  "oldentry": "",
   "english": [
     "disconnect",
     "unfasten",
     "detach"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two things or people, to suddenly become apart from each other after having been attached or joined in some way. English = disconnect, unfasten, detach."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1454,
   "recordNumber": 867,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [
     "join.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two things or people, to suddenly become apart from each other after having been attached or joined in some way. English = disconnect, unfasten, detach."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "disconnect.3a",
+  "oldEntry": ""
 }

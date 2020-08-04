@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "slice.1a",
-  "oldentry": "",
   "english": [
     "slice",
     "sliced"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut something, especially food, into thin pieces. English = slice.",
-    "2. To be cut into thin slices. English = sliced."
-  ],
   "cf": [
     "bread"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of food (usually thin) that has been cut from another piece of food. English = slice."
   ],
   "signNumber": 4217,
   "recordNumber": 2551,
@@ -47,5 +34,18 @@
   "antonyms": [],
   "synonyms": [
     "segment"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut something, especially food, into thin pieces. English = slice.",
+    "2. To be cut into thin slices. English = sliced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of food (usually thin) that has been cut from another piece of food. English = slice."
+  ],
+  "idGloss": "slice.1a",
+  "oldEntry": ""
 }

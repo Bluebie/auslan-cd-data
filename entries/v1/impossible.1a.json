@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "impossible.1a",
-  "oldentry": "",
   "english": [
     "impossibility",
     "impossible"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that cannot be done, cannot happen, or cannot be believed. English = (be) impossible."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to your addressee's comments to mean that you do not believe what they say is true, or possible, or that it really surprises you. English = 'Impossible', 'No way!', 'Incredible!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The situation in which something cannot be done, cannot happen, or cannot be believed. English = impossibility."
-  ],
   "signNumber": 840,
   "recordNumber": 480,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "antonyms": [
     "possible"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone in response to your addressee's comments to mean that you do not believe what they say is true, or possible, or that it really surprises you. English = 'Impossible', 'No way!', 'Incredible!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something that cannot be done, cannot happen, or cannot be believed. English = (be) impossible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The situation in which something cannot be done, cannot happen, or cannot be believed. English = impossibility."
+  ],
+  "idGloss": "impossible.1a",
+  "oldEntry": ""
 }

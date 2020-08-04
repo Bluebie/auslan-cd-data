@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suck",
-  "oldentry": "",
   "english": [
     "suck"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold something to your mouth and pull at it with the muscles in your cheeks and tongue, for example in order to get liquid out of it; to draw an object or liquid into a particular direction with a powerful force. English = suck."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of holding something to your mouth and pulling at it with the muscles in your cheeks and tongue, for example in order to get liquid out of it. English = suck."
-  ],
   "signNumber": 3264,
   "recordNumber": 1902,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold something to your mouth and pull at it with the muscles in your cheeks and tongue, for example in order to get liquid out of it; to draw an object or liquid into a particular direction with a powerful force. English = suck."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of holding something to your mouth and pulling at it with the muscles in your cheeks and tongue, for example in order to get liquid out of it. English = suck."
+  ],
+  "idGloss": "suck",
+  "oldEntry": ""
 }

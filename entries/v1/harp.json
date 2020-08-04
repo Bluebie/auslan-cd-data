@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "harp",
-  "oldentry": "Popular explanation: playing a harp.",
   "english": [
     "harp"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a harp, to stroke the strings of a harp."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large musical instrument consisting of a row of strings stretched from the top to the bottom of a frame, which you play by picking at the strings with your fingers. English = harp."
-  ],
   "signNumber": 2703,
   "recordNumber": 1501,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a harp, to stroke the strings of a harp."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large musical instrument consisting of a row of strings stretched from the top to the bottom of a frame, which you play by picking at the strings with your fingers. English = harp."
+  ],
+  "idGloss": "harp",
+  "oldEntry": "Popular explanation: playing a harp."
 }

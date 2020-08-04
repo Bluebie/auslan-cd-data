@@ -16,27 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "touch.down.at",
-  "oldentry": "",
   "english": [
     "familiar",
     "stopover"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a place, to have made a visit there, to have been there, and thus to know about it.",
-    "2. To know about or to have experienced something, to be familiar with something.",
-    "3. To stay a short while in a place in between parts of a journey, especially when travelling by air. English = stopover."
-  ],
   "cf": [
     "contact"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short stay in a place in between parts of a journey, especially when travelling by air. English = stopover."
   ],
   "signNumber": 6539,
   "recordNumber": 3893,
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a place, to have made a visit there, to have been there, and thus to know about it.",
+    "2. To know about or to have experienced something, to be familiar with something.",
+    "3. To stay a short while in a place in between parts of a journey, especially when travelling by air. English = stopover."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short stay in a place in between parts of a journey, especially when travelling by air. English = stopover."
+  ],
+  "idGloss": "touch.down.at",
+  "oldEntry": ""
 }

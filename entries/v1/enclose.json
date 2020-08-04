@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "enclose",
-  "oldentry": "",
   "english": [
     "enclosure",
     "enclose",
     "encircle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To completely surround something with a wall-like structure. English = enclose, encircle."
-  ],
   "cf": [
     "group.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An area of land that is surrounded by a wall or fence. English = enclosure."
   ],
   "signNumber": 3689,
   "recordNumber": 2175,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "fence.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To completely surround something with a wall-like structure. English = enclose, encircle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An area of land that is surrounded by a wall or fence. English = enclosure."
+  ],
+  "idGloss": "enclose",
+  "oldEntry": ""
 }

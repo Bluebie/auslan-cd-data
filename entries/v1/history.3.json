@@ -17,23 +17,12 @@
   "sense": "",
   "blend": "WRITE + H",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "history.3",
-  "oldentry": "",
   "english": [
     "history"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "subject"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The events of the past. English = history.",
-    "2. A subject studied in school, colleges, and universities that deals with the past. English = history."
   ],
   "signNumber": 6662,
   "recordNumber": 3964,
@@ -46,5 +35,16 @@
   "synonyms": [
     "long.ago.1a",
     "history.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The events of the past. English = history.",
+    "2. A subject studied in school, colleges, and universities that deals with the past. English = history."
+  ],
+  "idGloss": "history.3",
+  "oldEntry": ""
 }

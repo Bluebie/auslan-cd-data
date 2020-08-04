@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lady.2",
-  "oldentry": "",
   "english": [
     "lady"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A woman who is thought to behave in a polite, dignified, and graceful way, or who is a woman from the upper classes. English = lady."
-  ],
   "signNumber": 2481,
   "recordNumber": 1377,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "lady.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A woman who is thought to behave in a polite, dignified, and graceful way, or who is a woman from the upper classes. English = lady."
+  ],
+  "idGloss": "lady.2",
+  "oldEntry": ""
 }

@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grey.3",
-  "oldentry": "",
   "english": [
     "grey"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the colour of ashes or the clouds on a rainy day. English = (be) grey."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2595,
   "recordNumber": 1435,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
     "grey.1",
     "grey.2",
     "grey.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be the colour of ashes or the clouds on a rainy day. English = (be) grey."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "grey.3",
+  "oldEntry": ""
 }

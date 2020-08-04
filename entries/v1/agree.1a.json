@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "agree.1a",
-  "oldentry": "",
   "english": [
     "agreement",
     "accord",
@@ -37,20 +33,8 @@
     "suit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To share the same idea or opinion between two or more people. English = agree.",
-    "2. To formally fix a set time between two or more people to meet and do something, especially something related to work. English = make an appointment.",
-    "3. (When speaking of clothes) to look good and appropriate on a person; (when speaking of food or medicine) to taste good and not make you feel sick or nauseous. English = suit, agree with."
-  ],
   "cf": [
     "plan.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The same opinion or idea about something shared between two or more people. English = agreement, accord.",
-    "2. A set time two or more people formally decide to meet and do something, especially when connected with work. English = appointment.",
-    "3. In biblical usage, the agreement of God with man as set forth in the Old and New Testaments. Formal religious English = covenant."
   ],
   "signNumber": 4834,
   "recordNumber": 2920,
@@ -64,5 +48,21 @@
   ],
   "synonyms": [
     "suits.you"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To share the same idea or opinion between two or more people. English = agree.",
+    "2. To formally fix a set time between two or more people to meet and do something, especially something related to work. English = make an appointment.",
+    "3. (When speaking of clothes) to look good and appropriate on a person; (when speaking of food or medicine) to taste good and not make you feel sick or nauseous. English = suit, agree with."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The same opinion or idea about something shared between two or more people. English = agreement, accord.",
+    "2. A set time two or more people formally decide to meet and do something, especially when connected with work. English = appointment.",
+    "3. In biblical usage, the agreement of God with man as set forth in the Old and New Testaments. Formal religious English = covenant."
+  ],
+  "idGloss": "agree.1a",
+  "oldEntry": ""
 }

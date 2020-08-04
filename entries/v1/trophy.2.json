@@ -17,24 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trophy.2",
-  "oldentry": "",
   "english": [
     "trophy",
     "cup",
     "award"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "pennant.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A prize, such as a silver cup or shield, which is given to the winner of a competition or race. English = trophy, cup, award."
   ],
   "signNumber": 438,
   "recordNumber": 245,
@@ -48,5 +38,15 @@
     "trophy.1",
     "trophy.3",
     "shield.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A prize, such as a silver cup or shield, which is given to the winner of a competition or race. English = trophy, cup, award."
+  ],
+  "idGloss": "trophy.2",
+  "oldEntry": ""
 }

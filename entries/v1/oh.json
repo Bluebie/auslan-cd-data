@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oh",
-  "oldentry": "Popular explanation: the letter 'o'.",
   "english": [
     "oh"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used to express a feeling, such as surprise or joy, in response to something someone has said. Usually used with hearing people who can sign and intended as a visual joke based on the English exclamation 'Oh!'. English = 'Oh, really!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 316,
   "recordNumber": 177,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used to express a feeling, such as surprise or joy, in response to something someone has said. Usually used with hearing people who can sign and intended as a visual joke based on the English exclamation 'Oh!'. English = 'Oh, really!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "oh",
+  "oldEntry": "Popular explanation: the letter 'o'."
 }

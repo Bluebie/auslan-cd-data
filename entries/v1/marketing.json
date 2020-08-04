@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "marketing",
-  "oldentry": "",
   "english": [
     "marketing",
     "market"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sell a product or service in an organised way or on a large scale. English = market."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of business which is concerned with the way a product is sold, for example, its price and the way it is advertised. English = marketing.",
-    "2. A place, sometimes in the open air, where lots of different goods are bought and sold. English = market."
-  ],
   "signNumber": 147,
   "recordNumber": 80,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "shop.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sell a product or service in an organised way or on a large scale. English = market."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of business which is concerned with the way a product is sold, for example, its price and the way it is advertised. English = marketing.",
+    "2. A place, sometimes in the open air, where lots of different goods are bought and sold. English = market."
+  ],
+  "idGloss": "marketing",
+  "oldEntry": ""
 }

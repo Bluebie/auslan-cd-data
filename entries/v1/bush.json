@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bush",
-  "oldentry": "Popular explanation: the outline of a bush.",
   "english": [
     "shrub",
     "bush"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "tree.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A low plant like a small tree with several woody stems instead of a trunk. English = shrub, bush."
   ],
   "signNumber": 3009,
   "recordNumber": 1718,
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A low plant like a small tree with several woody stems instead of a trunk. English = shrub, bush."
+  ],
+  "idGloss": "bush",
+  "oldEntry": "Popular explanation: the outline of a bush."
 }

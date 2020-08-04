@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "posterior",
-  "oldentry": "Popular explanation: the bottom.",
   "english": [
     "bottom",
     "buttocks",
@@ -26,15 +22,9 @@
     "bum"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bottom.1",
     "bottom.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body that you sit on. English = bottom, buttocks. Formal English = posterior. Informal English = bum."
   ],
   "signNumber": 3503,
   "recordNumber": 2049,
@@ -46,5 +36,15 @@
   "antonyms": [],
   "synonyms": [
     "cheeks"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body that you sit on. English = bottom, buttocks. Formal English = posterior. Informal English = bum."
+  ],
+  "idGloss": "posterior",
+  "oldEntry": "Popular explanation: the bottom."
 }

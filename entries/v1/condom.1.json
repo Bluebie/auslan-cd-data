@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "condom.1",
-  "oldentry": "",
   "english": [
     "condom"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or be wearing a condom."
-  ],
   "cf": [
     "sock"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A covering made of rubber which a man wears on his penis during sexual intercourse as a contraceptive or to prevent infection. English = condom."
   ],
   "signNumber": 6203,
   "recordNumber": 3706,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "condom.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or be wearing a condom."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A covering made of rubber which a man wears on his penis during sexual intercourse as a contraceptive or to prevent infection. English = condom."
+  ],
+  "idGloss": "condom.1",
+  "oldEntry": ""
 }

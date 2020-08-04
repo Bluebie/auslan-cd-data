@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "afternoon.3a",
-  "oldentry": "",
   "english": [
     "afternoon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of each day that begins at lunchtime and ends at about six o'clock. English = afternoon."
-  ],
   "signNumber": 2472,
   "recordNumber": 1372,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "afternoon.1a",
     "afternoon.4a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of each day that begins at lunchtime and ends at about six o'clock. English = afternoon."
+  ],
+  "idGloss": "afternoon.3a",
+  "oldEntry": ""
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wow",
-  "oldentry": "",
   "english": [
     "wow"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to express the fact that you are very impressed by something or very pleased about something. English = 'Wow!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2276,
   "recordNumber": 1286,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "danger.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express the fact that you are very impressed by something or very pleased about something. English = 'Wow!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wow",
+  "oldEntry": ""
 }

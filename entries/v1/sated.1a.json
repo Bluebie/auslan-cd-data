@@ -17,23 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sated.1a",
-  "oldentry": "Popular explanation: striking an upper limit barrier (in the stomach).",
   "english": [
     "full",
     "satisfied",
     "sated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unable to eat any more food; to have a full stomach. English = (be) full, (be) satisfied. Idiomatic English = have had enough. Formal English = (be) sated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6029,
   "recordNumber": 3589,
   "signVisualComposition": "",
@@ -48,5 +38,15 @@
   ],
   "synonyms": [
     "full"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unable to eat any more food; to have a full stomach. English = (be) full, (be) satisfied. Idiomatic English = have had enough. Formal English = (be) sated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sated.1a",
+  "oldEntry": "Popular explanation: striking an upper limit barrier (in the stomach)."
 }

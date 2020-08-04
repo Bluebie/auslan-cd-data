@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "couple.1",
-  "oldentry": "",
   "english": [
     "couple"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two people who are married, living together, romantically involved, or having a sexual relationship. English = couple."
-  ],
   "signNumber": 1591,
   "recordNumber": 949,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two people who are married, living together, romantically involved, or having a sexual relationship. English = couple."
+  ],
+  "idGloss": "couple.1",
+  "oldEntry": ""
 }

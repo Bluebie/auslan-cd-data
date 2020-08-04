@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fuck.you",
-  "oldentry": "",
   "english": [
     "fuck"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to say to someone in an insulting and offensive way that they have done something that makes you feel angry or annoyed. English = 'Fuck you!', 'Fuck off!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6495,
   "recordNumber": 3867,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to say to someone in an insulting and offensive way that they have done something that makes you feel angry or annoyed. English = 'Fuck you!', 'Fuck off!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fuck.you",
+  "oldEntry": ""
 }

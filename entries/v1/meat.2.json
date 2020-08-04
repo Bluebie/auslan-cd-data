@@ -15,23 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "meat.2",
-  "oldentry": "",
   "english": [
     "butcher",
     "meat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shopkeeper who sells meat, or the shop in which meat is sold. English = butcher, butcher's.",
-    "2. The flesh of a dead animal that people cook and eat. English = meat."
-  ],
   "signNumber": 651,
   "recordNumber": 379,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
     "butcher",
     "steak.1a",
     "meat.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shopkeeper who sells meat, or the shop in which meat is sold. English = butcher, butcher's.",
+    "2. The flesh of a dead animal that people cook and eat. English = meat."
+  ],
+  "idGloss": "meat.2",
+  "oldEntry": ""
 }

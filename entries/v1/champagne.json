@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "The subordinate hand can also be a Point handshape or another Soon handshape.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "champagne",
-  "oldentry": "Popular explanation: popping a champagne cork.",
   "english": [
     "champagne"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a bottle of champagne; to pop the cork on a bottle of champagne."
-  ],
   "cf": [
     "cork"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An expensive white wine that has lots of bubbles in it. People usually drink it when they are celebrating a wedding, birthday, and so on. English = champagne."
   ],
   "signNumber": 6272,
   "recordNumber": 3745,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a bottle of champagne; to pop the cork on a bottle of champagne."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An expensive white wine that has lots of bubbles in it. People usually drink it when they are celebrating a wedding, birthday, and so on. English = champagne."
+  ],
+  "idGloss": "champagne",
+  "oldEntry": "Popular explanation: popping a champagne cork."
 }

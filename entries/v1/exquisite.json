@@ -14,26 +14,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "exquisite",
-  "oldentry": "Popular explanation: twirling a moustache.",
   "english": [
     "exquisite",
     "magnificent",
     "delightful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely beautiful in appearance, or very pleasant or satisfying. English = (be) exquisite, (be) magnificent, (be) delightful."
-  ],
   "cf": [
     "moustache.1",
     "moustache.2a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6356,
   "recordNumber": 3797,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely beautiful in appearance, or very pleasant or satisfying. English = (be) exquisite, (be) magnificent, (be) delightful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "exquisite",
+  "oldEntry": "Popular explanation: twirling a moustache."
 }

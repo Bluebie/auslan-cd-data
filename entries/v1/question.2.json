@@ -20,28 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "Often used at the end of a sentence to turn a statement into a question as an afterthought.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "question.2",
-  "oldentry": "Popular explanation: the trace of a question mark.",
   "english": [
     "question mark",
     "interrogation mark",
     "query"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to your own or your addressee's previous comment to mean you wonder why such and such is the case. English = 'I wonder why?', 'Why's that?', and so on.",
-    "2. Used alone in response to your addressee failing to recognise that you have just asked a question to mean you want an answer. English = 'Well? Are you going to answer?', 'That was a question, you know?', 'Well, what's your answer?', and so on.",
-    "3. Used alone to dismiss your partner's question as unimportant or unanswerable. English = 'Who knows?', 'God knows!', 'I wouldn't have a clue!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A special punctuation mark which is put at the end of a written sentence. English = question mark, interrogation mark.",
-    "2. Something you check by asking about it because you are no sure that it is correct. English = query."
-  ],
   "signNumber": 766,
   "recordNumber": 441,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   ],
   "synonyms": [
     "question.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to your own or your addressee's previous comment to mean you wonder why such and such is the case. English = 'I wonder why?', 'Why's that?', and so on.",
+    "2. Used alone in response to your addressee failing to recognise that you have just asked a question to mean you want an answer. English = 'Well? Are you going to answer?', 'That was a question, you know?', 'Well, what's your answer?', and so on.",
+    "3. Used alone to dismiss your partner's question as unimportant or unanswerable. English = 'Who knows?', 'God knows!', 'I wouldn't have a clue!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A special punctuation mark which is put at the end of a written sentence. English = question mark, interrogation mark.",
+    "2. Something you check by asking about it because you are no sure that it is correct. English = query."
+  ],
+  "idGloss": "question.2",
+  "oldEntry": "Popular explanation: the trace of a question mark."
 }

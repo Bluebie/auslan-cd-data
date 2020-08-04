@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cane-toad",
-  "oldentry": "",
   "english": [
     "toad",
     "cane toad"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal that looks like a frog but has drier skin and spends less of its life in the water. English = toad.",
-    "2. A type of toad found in Queensland, Australia. English = cane toad."
-  ],
   "signNumber": 3084.2,
   "recordNumber": 1773,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 15,
   "secondLocation": 20,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal that looks like a frog but has drier skin and spends less of its life in the water. English = toad.",
+    "2. A type of toad found in Queensland, Australia. English = cane toad."
+  ],
+  "idGloss": "cane-toad",
+  "oldEntry": ""
 }

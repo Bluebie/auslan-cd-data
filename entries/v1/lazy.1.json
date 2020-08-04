@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lazy.1",
-  "oldentry": "Popular explanation: culturally shared posture of idleness.",
   "english": [
     "laziness",
     "reflection",
@@ -36,17 +32,7 @@
     "reflect"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do nothing, especially when other people are working and when you are expected to work also. English = (be) lazy, (be) idle.",
-    "2. To do nothing except think deeply about something. English = ponder, reflect."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The avoidance of physical work. English = laziness.",
-    "2. The act of doing no physical or practical work and thinking deeply about something instead. English = reflection, thinking."
-  ],
   "signNumber": 5981,
   "recordNumber": 3557,
   "signVisualComposition": "",
@@ -58,5 +44,19 @@
   "synonyms": [
     "lazy.2",
     "lazy.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do nothing, especially when other people are working and when you are expected to work also. English = (be) lazy, (be) idle.",
+    "2. To do nothing except think deeply about something. English = ponder, reflect."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The avoidance of physical work. English = laziness.",
+    "2. The act of doing no physical or practical work and thinking deeply about something instead. English = reflection, thinking."
+  ],
+  "idGloss": "lazy.1",
+  "oldEntry": "Popular explanation: culturally shared posture of idleness."
 }

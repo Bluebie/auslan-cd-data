@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hammer",
-  "oldentry": "Popular explanation: hammering action.",
   "english": [
     "hammer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hit something, especially a nail, with a hammer. English = hammer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool that you use for hitting things, especially nails. It consists of a heavy piece of metal at the end of a handle. English = hammer."
-  ],
   "signNumber": 5674,
   "recordNumber": 3362,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "carpenter.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hit something, especially a nail, with a hammer. English = hammer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool that you use for hitting things, especially nails. It consists of a heavy piece of metal at the end of a handle. English = hammer."
+  ],
+  "idGloss": "hammer",
+  "oldEntry": "Popular explanation: hammering action."
 }

@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "candle",
-  "oldentry": "Popular explanation: the wick and a flame.",
   "english": [
     "candle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a candle, to burn and flicker."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A stick of hard wax with a piece of string called a wick through the middle. You light the wick in order to give a steady flame that provides light. English = candle."
-  ],
   "signNumber": 2819,
   "recordNumber": 1580,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a candle, to burn and flicker."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A stick of hard wax with a piece of string called a wick through the middle. You light the wick in order to give a steady flame that provides light. English = candle."
+  ],
+  "idGloss": "candle",
+  "oldEntry": "Popular explanation: the wick and a flame."
 }

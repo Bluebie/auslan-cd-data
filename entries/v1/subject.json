@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "DOCUMENT + S",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "subject",
-  "oldentry": "",
   "english": [
     "subject"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "constitution",
     "policy"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An area of knowledge, such as maths, chemistry, or English that you study at school, college, or university. English = subject."
   ],
   "signNumber": 6040,
   "recordNumber": 3595,
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An area of knowledge, such as maths, chemistry, or English that you study at school, college, or university. English = subject."
+  ],
+  "idGloss": "subject",
+  "oldEntry": ""
 }

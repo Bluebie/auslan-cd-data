@@ -11,24 +11,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "risk",
-  "oldentry": "",
   "english": [
     "risk",
     "risky"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an activity or an action, to be dangerous or likely to fail. English = (be) risky."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A possibility that something unpleasant will happen. English = risk."
-  ],
   "signNumber": 5129,
   "recordNumber": 3097,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an activity or an action, to be dangerous or likely to fail. English = (be) risky."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A possibility that something unpleasant will happen. English = risk."
+  ],
+  "idGloss": "risk",
+  "oldEntry": ""
 }

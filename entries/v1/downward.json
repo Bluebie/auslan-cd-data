@@ -16,24 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "downward",
-  "oldentry": "",
   "english": [
     "downward",
     "lower"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move from a higher position to a lower position. English = go downwards, lower."
-  ],
   "cf": [
     "demote"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3657,
   "recordNumber": 2155,
   "signVisualComposition": "",
@@ -47,5 +37,15 @@
   ],
   "synonyms": [
     "low.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move from a higher position to a lower position. English = go downwards, lower."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "downward",
+  "oldEntry": ""
 }

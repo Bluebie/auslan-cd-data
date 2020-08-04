@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "title",
-  "oldentry": "Popular explanation: quotation marks.",
   "english": [
     "title",
     "topic",
@@ -34,17 +30,7 @@
     "called"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a book, play, film, or piece of music, to have a name. English = (be) entitled, (be) called."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The name of a book, play, film or piece of music. English = title.",
-    "2. The thing, person, or idea that is being discussed or written about. English = topic, subject, theme.",
-    "3. A word or phrase that is usually used in a particular situation or by particular people, and that you are quoting, explaining, or commenting on. English = expression."
-  ],
   "signNumber": 1635,
   "recordNumber": 971,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a book, play, film, or piece of music, to have a name. English = (be) entitled, (be) called."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The name of a book, play, film or piece of music. English = title.",
+    "2. The thing, person, or idea that is being discussed or written about. English = topic, subject, theme.",
+    "3. A word or phrase that is usually used in a particular situation or by particular people, and that you are quoting, explaining, or commenting on. English = expression."
+  ],
+  "idGloss": "title",
+  "oldEntry": "Popular explanation: quotation marks."
 }

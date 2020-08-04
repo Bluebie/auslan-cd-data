@@ -10,23 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tap.off",
-  "oldentry": "",
   "english": [
     "tap"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn a tap off."
-  ],
   "cf": [
     "tap.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4556,
   "recordNumber": 2758,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [
     "tap.on"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn a tap off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "tap.off",
+  "oldEntry": ""
 }

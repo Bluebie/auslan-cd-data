@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "niece.nephew",
-  "oldentry": "",
   "english": [
     "niece",
     "nephew"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is the child of your brother or sister. English = niece (girl), nephew (boy)."
-  ],
   "signNumber": 1924,
   "recordNumber": 1149,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "synonyms": [
     "niece",
     "nephew"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is the child of your brother or sister. English = niece (girl), nephew (boy)."
+  ],
+  "idGloss": "niece.nephew",
+  "oldEntry": ""
 }

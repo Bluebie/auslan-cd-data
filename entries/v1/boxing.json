@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boxing",
-  "oldentry": "Popular explanation: a boxing action.",
   "english": [
     "boxing",
     "box"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take part in a game of boxing. English = box."
-  ],
   "cf": [
     "fight.1a",
     "fight.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sport in which two men wearing large padded gloves fight according to special rules, by punching each other. English = boxing."
   ],
   "signNumber": 5765,
   "recordNumber": 3417,
@@ -45,5 +33,17 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take part in a game of boxing. English = box."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sport in which two men wearing large padded gloves fight according to special rules, by punching each other. English = boxing."
+  ],
+  "idGloss": "boxing",
+  "oldEntry": "Popular explanation: a boxing action."
 }

@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "demolish",
-  "oldentry": "Popular explanation: pulling down objects.",
   "english": [
     "demolition",
     "demolish",
     "pull down"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To knock down a building, often because it is old or dangerous. English = demolish. Idiomatic English = pull down."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of knocking down a building, often because it is old or dangerous. English = demolition."
-  ],
   "signNumber": 2592,
   "recordNumber": 1432,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "primaryLocation": 6,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To knock down a building, often because it is old or dangerous. English = demolish. Idiomatic English = pull down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of knocking down a building, often because it is old or dangerous. English = demolition."
+  ],
+  "idGloss": "demolish",
+  "oldEntry": "Popular explanation: pulling down objects."
 }

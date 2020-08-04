@@ -16,10 +16,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whisky",
-  "oldentry": "Popular explanation: uncorking a bottle.",
   "english": [
     "whisky",
     "whiskey",
@@ -27,16 +23,7 @@
     "scotch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a bottle of whisky or spirits."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong alcoholic drink made from grain such as barley or rye, especially in Scotland. English = whisky, whiskey, scotch.",
-    "2. A strong alcoholic drink, such as whisky and gin. English = spirits."
-  ],
   "signNumber": 5026,
   "recordNumber": 3033,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a bottle of whisky or spirits."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong alcoholic drink made from grain such as barley or rye, especially in Scotland. English = whisky, whiskey, scotch.",
+    "2. A strong alcoholic drink, such as whisky and gin. English = spirits."
+  ],
+  "idGloss": "whisky",
+  "oldEntry": "Popular explanation: uncorking a bottle."
 }

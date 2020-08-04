@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "glasses",
-  "oldentry": "Popular explanation: the outline of spectacles.",
   "english": [
     "glasses",
     "spectacles"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear glasses."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two lenses in a frame that some people wear in front of their eyes in order to help them to see better. English = glasses, spectacles."
-  ],
   "signNumber": 559,
   "recordNumber": 322,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "spectacles.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear glasses."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two lenses in a frame that some people wear in front of their eyes in order to help them to see better. English = glasses, spectacles."
+  ],
+  "idGloss": "glasses",
+  "oldEntry": "Popular explanation: the outline of spectacles."
 }

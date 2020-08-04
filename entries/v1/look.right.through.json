@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "look.right.through",
-  "oldentry": "",
   "english": [
     "snub",
     "ignore"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately look at someone as if they are not there in order to avoid acknowledging them or talking to them. English = snub, ignore. Idiomatic English = look right through (someone)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1698,
   "recordNumber": 1017,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "ignore"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately look at someone as if they are not there in order to avoid acknowledging them or talking to them. English = snub, ignore. Idiomatic English = look right through (someone)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "look.right.through",
+  "oldEntry": ""
 }

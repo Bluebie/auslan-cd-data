@@ -19,28 +19,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spray can.1a",
-  "oldentry": "Popular explanation: operating a spray can.",
   "english": [
     "spray",
     "aerosol",
     "spray can"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a spray can or an aerosol. English = spray."
-  ],
   "cf": [
     "hair spray",
     "deodorant"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A liquid kept under pressure in a can or other container, which you can force out in very small drops. English = spray.",
-    "2. A small can in which a liquid is kept under pressure. English = spray can,  aerosol."
   ],
   "signNumber": 1425,
   "recordNumber": 852,
@@ -50,5 +37,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a spray can or an aerosol. English = spray."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A liquid kept under pressure in a can or other container, which you can force out in very small drops. English = spray.",
+    "2. A small can in which a liquid is kept under pressure. English = spray can,  aerosol."
+  ],
+  "idGloss": "spray can.1a",
+  "oldEntry": "Popular explanation: operating a spray can."
 }

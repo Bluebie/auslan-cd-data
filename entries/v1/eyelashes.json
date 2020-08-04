@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eyelashes",
-  "oldentry": "",
   "english": [
     "eyelashes"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hairs which grow on the edges of your upper and lower eyelids. English = eyelashes."
-  ],
   "signNumber": 2390,
   "recordNumber": 1318,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 4,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hairs which grow on the edges of your upper and lower eyelids. English = eyelashes."
+  ],
+  "idGloss": "eyelashes",
+  "oldEntry": ""
 }

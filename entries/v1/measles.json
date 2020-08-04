@@ -16,26 +16,14 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "measles",
-  "oldentry": "Popular explanation: spots on one's body.",
   "english": [
     "measles"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have measles."
-  ],
   "cf": [
     "acne",
     "chicken-pox.1",
     "freckles"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An infectious disease that gives you red spots on your skin. English = measles."
   ],
   "signNumber": 3029,
   "recordNumber": 1736,
@@ -45,5 +33,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have measles."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An infectious disease that gives you red spots on your skin. English = measles."
+  ],
+  "idGloss": "measles",
+  "oldEntry": "Popular explanation: spots on one's body."
 }

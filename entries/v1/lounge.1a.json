@@ -22,10 +22,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lounge.1a",
-  "oldentry": "Popular explanation: sitting in an armchair.",
   "english": [
     "sofa",
     "couch",
@@ -35,17 +31,7 @@
     "lounge chair"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sit on a lounge or armchair. English = lounge."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, comfortable seat with a back and arm rests, which two or more people can sit on. English = sofa, couch. British English = settee. Australian English = lounge.",
-    "2. A large comfortable chair which has a support on each side for your arms. English = armchair, lounge chair.",
-    "3. A room in a house, hotel, or club where people sit and relax. English = lounge."
-  ],
   "signNumber": 5894,
   "recordNumber": 3505,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   "antonyms": [],
   "synonyms": [
     "loungeroom"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sit on a lounge or armchair. English = lounge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, comfortable seat with a back and arm rests, which two or more people can sit on. English = sofa, couch. British English = settee. Australian English = lounge.",
+    "2. A large comfortable chair which has a support on each side for your arms. English = armchair, lounge chair.",
+    "3. A room in a house, hotel, or club where people sit and relax. English = lounge."
+  ],
+  "idGloss": "lounge.1a",
+  "oldEntry": "Popular explanation: sitting in an armchair."
 }

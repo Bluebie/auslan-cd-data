@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "awful.1",
-  "oldentry": "",
   "english": [
     "awful",
     "dreadful",
     "horrible"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or thing, to be not very good or not very nice, or very unpleasant, shocking, or bad. English = (be) awful, (be) dreadful, (be) horrible."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5520,
   "recordNumber": 3269,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "synonyms": [
     "awful.2a",
     "awful.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or thing, to be not very good or not very nice, or very unpleasant, shocking, or bad. English = (be) awful, (be) dreadful, (be) horrible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "awful.1",
+  "oldEntry": ""
 }

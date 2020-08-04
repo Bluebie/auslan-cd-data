@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "automatic.1a",
-  "oldentry": "",
   "english": [
     "automatic",
     "unrestricted",
@@ -30,18 +26,7 @@
     "carefree"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a machine, to be able to perform a task without needing to be operated by a person. English = (be) automatic.",
-    "2. Of a car, to be able to change gears by itself when needed, without the help of the driver. English = (be) automatic.",
-    "3. Of people, to be not restricted, controlled, or limited by obligations, responsibilities or worries. English = (be) unrestricted, (be) unencumbered, (be) carefree."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine that can perform a task without needing to be operated by a person. English = automatic.",
-    "2. A car or a vehicle in which the driver does not need to change the gears manually. English = automatic."
-  ],
   "signNumber": 2656,
   "recordNumber": 1473,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   ],
   "synonyms": [
     "free.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a machine, to be able to perform a task without needing to be operated by a person. English = (be) automatic.",
+    "2. Of a car, to be able to change gears by itself when needed, without the help of the driver. English = (be) automatic.",
+    "3. Of people, to be not restricted, controlled, or limited by obligations, responsibilities or worries. English = (be) unrestricted, (be) unencumbered, (be) carefree."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine that can perform a task without needing to be operated by a person. English = automatic.",
+    "2. A car or a vehicle in which the driver does not need to change the gears manually. English = automatic."
+  ],
+  "idGloss": "automatic.1a",
+  "oldEntry": ""
 }

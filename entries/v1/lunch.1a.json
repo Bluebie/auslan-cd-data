@@ -13,26 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lunch.1a",
-  "oldentry": "",
   "english": [
     "lunch",
     "sandwich"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat the meal you have in the middle of the day; to eat lunch.",
-    "2. To eat two slices of bread with a layer of food between them; to eat a sandwich."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The meal you have in the middle of the day. English = lunch.",
-    "2. Two slices of bread with a layer of food between them. English = sandwich."
-  ],
   "signNumber": 4444,
   "recordNumber": 2701,
   "signVisualComposition": "",
@@ -41,5 +27,19 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat the meal you have in the middle of the day; to eat lunch.",
+    "2. To eat two slices of bread with a layer of food between them; to eat a sandwich."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The meal you have in the middle of the day. English = lunch.",
+    "2. Two slices of bread with a layer of food between them. English = sandwich."
+  ],
+  "idGloss": "lunch.1a",
+  "oldEntry": ""
 }

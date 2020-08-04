@@ -18,26 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sister",
-  "oldentry": "",
   "english": [
     "sister"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "nurse.1",
     "nurse.2",
     "nurse.3a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A girl or a woman who has the same parents as you. English = sister.",
-    "2. A woman who is a member of a religious order. English = sister.",
-    "3. A senior nurse who supervises a hospital ward. English = sister."
   ],
   "signNumber": 1363,
   "recordNumber": 805,
@@ -49,5 +37,17 @@
   "antonyms": [
     "brother.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A girl or a woman who has the same parents as you. English = sister.",
+    "2. A woman who is a member of a religious order. English = sister.",
+    "3. A senior nurse who supervises a hospital ward. English = sister."
+  ],
+  "idGloss": "sister",
+  "oldEntry": ""
 }

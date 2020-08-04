@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "octopus.1a",
-  "oldentry": "Popular explanation: the tentacles of an octopus.",
   "english": [
     "octopus"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sea creature with eight tentacles (legs or arms) which it uses to catch food. English = octopus."
-  ],
   "signNumber": 1112,
   "recordNumber": 655,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sea creature with eight tentacles (legs or arms) which it uses to catch food. English = octopus."
+  ],
+  "idGloss": "octopus.1a",
+  "oldEntry": "Popular explanation: the tentacles of an octopus."
 }

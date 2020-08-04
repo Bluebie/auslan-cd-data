@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "BOY + FRIEND",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boyfriend",
-  "oldentry": "",
   "english": [
     "boyfriend"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A man or a boy with whom someone is having a romantic or sexual relationship. English = boyfriend."
-  ],
   "signNumber": 1326,
   "recordNumber": 784,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "girlfriend"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A man or a boy with whom someone is having a romantic or sexual relationship. English = boyfriend."
+  ],
+  "idGloss": "boyfriend",
+  "oldEntry": ""
 }

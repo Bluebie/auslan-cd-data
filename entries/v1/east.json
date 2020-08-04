@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "east",
-  "oldentry": "",
   "english": [
     "east",
     "eastern",
@@ -30,19 +26,9 @@
     "eastwards"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located in or associated with the east. English = (be) eastern, (be) easterly."
-  ],
   "cf": [
     "north",
     "south"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb to mean the direction of movement is towards the east. English = eastwards."
-  ],
-  "nomlex": [
-    "1. The direction which you look towards in order to see the sun rise. English = east."
   ],
   "signNumber": 1165,
   "recordNumber": 684,
@@ -54,5 +40,19 @@
   "antonyms": [
     "west"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb to mean the direction of movement is towards the east. English = eastwards."
+  ],
+  "verbLexeme": [
+    "1. To be located in or associated with the east. English = (be) eastern, (be) easterly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The direction which you look towards in order to see the sun rise. English = east."
+  ],
+  "idGloss": "east",
+  "oldEntry": ""
 }

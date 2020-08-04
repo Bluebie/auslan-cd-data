@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "microphone.1a",
-  "oldentry": "Popular explanation: holding on to a microphone.",
   "english": [
     "microphone",
     "announcer",
@@ -32,18 +28,7 @@
     "announce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. [Usually made with mouth movement] to hold and use a microphone.",
-    "2. To make an announcement or to record a message using a microphone, to announce."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. [Usually made with mouth movement] a device for making sounds louder, especially a person's voice, or to record them on a tape recorder. English = microphone.",
-    "2. A person whose job involves using a microphone to announce things or to record news for radio or television. English = announcer, radio journalist, television journalist.",
-    "3. An amplified message played at a public place, such as a railway station, airport, shopping centre. English = announcement."
-  ],
   "signNumber": 5618,
   "recordNumber": 3328,
   "signVisualComposition": "",
@@ -52,5 +37,20 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. [Usually made with mouth movement] to hold and use a microphone.",
+    "2. To make an announcement or to record a message using a microphone, to announce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. [Usually made with mouth movement] a device for making sounds louder, especially a person's voice, or to record them on a tape recorder. English = microphone.",
+    "2. A person whose job involves using a microphone to announce things or to record news for radio or television. English = announcer, radio journalist, television journalist.",
+    "3. An amplified message played at a public place, such as a railway station, airport, shopping centre. English = announcement."
+  ],
+  "idGloss": "microphone.1a",
+  "oldEntry": "Popular explanation: holding on to a microphone."
 }

@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "collapse.1a",
-  "oldentry": "Popular explanation: a roof collapsing.",
   "english": [
     "collapse",
     "cave in"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the roof and walls of a building, to suddenly fall down. English = collapse.",
-    "2. Of the ceiling of a tunnel or cave, to suddenly fall down. English = cave in, collapse."
-  ],
   "cf": [
     "room.1a",
     "ceiling.1a",
     "demolish"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The destruction of a building by the roof and walls falling down. English = collapse.",
-    "2. The destruction of a tunnel or a cave by the ceiling and walls falling down. English = cave in."
   ],
   "signNumber": 3640,
   "recordNumber": 2143,
@@ -50,5 +36,19 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the roof and walls of a building, to suddenly fall down. English = collapse.",
+    "2. Of the ceiling of a tunnel or cave, to suddenly fall down. English = cave in, collapse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The destruction of a building by the roof and walls falling down. English = collapse.",
+    "2. The destruction of a tunnel or a cave by the ceiling and walls falling down. English = cave in."
+  ],
+  "idGloss": "collapse.1a",
+  "oldEntry": "Popular explanation: a roof collapsing."
 }

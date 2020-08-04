@@ -13,21 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "factory.3",
-  "oldentry": "",
   "english": [
     "factory"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large building or a group of buildings where machines are used to make goods in large quantities. English = factory."
-  ],
   "signNumber": 3643,
   "recordNumber": 2145,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "factory.1",
     "factory.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large building or a group of buildings where machines are used to make goods in large quantities. English = factory."
+  ],
+  "idGloss": "factory.3",
+  "oldEntry": ""
 }

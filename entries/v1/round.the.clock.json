@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "A variant hand of this can be made with the subordinate Point (G) handshape.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "round.the.clock",
-  "oldentry": "",
   "english": [
     "overtime"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used after a verb (action) sign to mean the action takes place around the clock, longer than is usual or continuously.",
-    "2. Used after the sign work to mean the work is in addition to your normal working hours. English = overtime."
-  ],
-  "nomlex": [
-    "1. Time that you spend at your job in addition to your normal working hours. English = overtime."
-  ],
   "signNumber": 4340,
   "recordNumber": 2644,
   "signVisualComposition": "",
@@ -38,5 +25,18 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used after a verb (action) sign to mean the action takes place around the clock, longer than is usual or continuously.",
+    "2. Used after the sign work to mean the work is in addition to your normal working hours. English = overtime."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Time that you spend at your job in addition to your normal working hours. English = overtime."
+  ],
+  "idGloss": "round.the.clock",
+  "oldEntry": ""
 }

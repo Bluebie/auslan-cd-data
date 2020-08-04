@@ -10,24 +10,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cousin",
-  "oldentry": "",
   "english": [
     "cousin"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "uncle.2",
     "son.2",
     "daughter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The child of your uncle or aunt. English = cousin."
   ],
   "signNumber": 4493,
   "recordNumber": 2730,
@@ -37,5 +27,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The child of your uncle or aunt. English = cousin."
+  ],
+  "idGloss": "cousin",
+  "oldEntry": ""
 }

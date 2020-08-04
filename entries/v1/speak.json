@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "speak",
-  "oldentry": "",
   "english": [
     "speech",
     "speaker",
     "speak"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use your voice in order to say words which form part of a text or a conversation. English = speak.",
-    "2. To know a (spoken) language and to be able to have a conversation in it. English = speak."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is speaking or is able to speak."
-  ],
   "signNumber": 610,
   "recordNumber": 350,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "synonyms": [
     "speech",
     "talk"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use your voice in order to say words which form part of a text or a conversation. English = speak.",
+    "2. To know a (spoken) language and to be able to have a conversation in it. English = speak."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is speaking or is able to speak."
+  ],
+  "idGloss": "speak",
+  "oldEntry": ""
 }

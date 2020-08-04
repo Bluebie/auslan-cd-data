@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "model.1",
-  "oldentry": "",
   "english": [
     "model"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To display clothes by wearing them, especially in a fashion show. English = model (clothes)."
-  ],
   "cf": [
     "plan.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who displays clothes by wearing them, especially in a fashion show. English = model."
   ],
   "signNumber": 365,
   "recordNumber": 201,
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To display clothes by wearing them, especially in a fashion show. English = model (clothes)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who displays clothes by wearing them, especially in a fashion show. English = model."
+  ],
+  "idGloss": "model.1",
+  "oldEntry": ""
 }

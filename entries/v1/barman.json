@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "barman",
-  "oldentry": "",
   "english": [
     "barman",
     "barmaid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work behind a bar making and serving drinks, especially filling glasses with beer from taps."
-  ],
   "cf": [
     "beer.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who serves drinks in a bar or pub. English = barman (male), barmaid (female)."
   ],
   "signNumber": 6268,
   "recordNumber": 3741,
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work behind a bar making and serving drinks, especially filling glasses with beer from taps."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who serves drinks in a bar or pub. English = barman (male), barmaid (female)."
+  ],
+  "idGloss": "barman",
+  "oldEntry": ""
 }

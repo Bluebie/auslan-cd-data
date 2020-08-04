@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "A vulgar sign to be used with caution.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fuck.1",
-  "oldentry": "Popular explanation: the act of sexual penetration.",
   "english": [
     "fuck"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have sex with someone, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sexual act between two people, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
-  ],
   "signNumber": 1114,
   "recordNumber": 656,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
     "intercourse.1",
     "fuck.2",
     "fuck.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have sex with someone, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sexual act between two people, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
+  ],
+  "idGloss": "fuck.1",
+  "oldEntry": "Popular explanation: the act of sexual penetration."
 }

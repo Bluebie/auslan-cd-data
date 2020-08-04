@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thirsty.1a",
-  "oldentry": "Popular explanation: the throat.",
   "english": [
     "thirst",
     "thirsty",
@@ -35,19 +31,9 @@
     "lust"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the desire to drink something. English = (be) thirsty.",
-    "2. To want something very much. English = thirst (after, for), crave, hanker after.",
-    "3. To want someone very much in a sexual way. Idiomatic English = (be) keen on, have the hots for, lust after."
-  ],
   "cf": [
     "hungry.1",
     "hungry.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The desire to drink something. English = thirst."
   ],
   "signNumber": 658,
   "recordNumber": 384,
@@ -59,5 +45,19 @@
   "antonyms": [],
   "synonyms": [
     "desire"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the desire to drink something. English = (be) thirsty.",
+    "2. To want something very much. English = thirst (after, for), crave, hanker after.",
+    "3. To want someone very much in a sexual way. Idiomatic English = (be) keen on, have the hots for, lust after."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The desire to drink something. English = thirst."
+  ],
+  "idGloss": "thirsty.1a",
+  "oldEntry": "Popular explanation: the throat."
 }

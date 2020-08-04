@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of tilting a container that is being held at shoulder height, or any action or any thing directly or indirectly associated with this, especially Aquarius.",
-  "questlex": [],
-  "idgloss": "Aquarius",
-  "oldentry": "Popular explanation: the act of tipping water out of a shoulder high vase.",
   "english": [
     "Aquarius"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A constellation and a star of the zodiac, called Aquarius (the water bearer)."
-  ],
   "signNumber": 3584,
   "recordNumber": 2105,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 13,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of tilting a container that is being held at shoulder height, or any action or any thing directly or indirectly associated with this, especially Aquarius.",
+  "nominalLexeme": [
+    "1. A constellation and a star of the zodiac, called Aquarius (the water bearer)."
+  ],
+  "idGloss": "Aquarius",
+  "oldEntry": "Popular explanation: the act of tipping water out of a shoulder high vase."
 }

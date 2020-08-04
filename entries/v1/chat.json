@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chat",
-  "oldentry": "Popular explanation: hands moving as if signing.",
   "english": [
     "chat",
     "chinwag",
@@ -38,22 +34,8 @@
     "Auslan"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To talk in an informal and friendly way to someone in sign language; to chat to someone in sign language. English = sign.",
-    "2. To have a long and enjoyable conversation with someone in sign language.",
-    "3. To have a long and enjoyable conversation with someone. English = chat. Informal English = chinwag.",
-    "4. To communicate using Auslan."
-  ],
   "cf": [
     "Auslan"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An informal and friendly conversation with someone in sign language; a chat in sign language.",
-    "2. A long and enjoyable conversation with someone in sign language.",
-    "3. A long and enjoyable conversation with someone. English = chat. Informal English = chinwag.",
-    "4. The sign language of the Australian deaf community. English = Auslan."
   ],
   "signNumber": 2603,
   "recordNumber": 1443,
@@ -67,5 +49,23 @@
     "talk",
     "discuss.1a",
     "discuss.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To talk in an informal and friendly way to someone in sign language; to chat to someone in sign language. English = sign.",
+    "2. To have a long and enjoyable conversation with someone in sign language.",
+    "3. To have a long and enjoyable conversation with someone. English = chat. Informal English = chinwag.",
+    "4. To communicate using Auslan."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An informal and friendly conversation with someone in sign language; a chat in sign language.",
+    "2. A long and enjoyable conversation with someone in sign language.",
+    "3. A long and enjoyable conversation with someone. English = chat. Informal English = chinwag.",
+    "4. The sign language of the Australian deaf community. English = Auslan."
+  ],
+  "idGloss": "chat",
+  "oldEntry": "Popular explanation: hands moving as if signing."
 }

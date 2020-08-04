@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "FLOW + barrier",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overflow",
-  "oldentry": "",
   "english": [
     "overflow",
     "spillage",
@@ -34,18 +30,8 @@
     "flow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of water or liquid, to go over the side of a barrier or the edge of a container. English = overflow, spill over, flow over."
-  ],
   "cf": [
     "lava"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Too much water or liquid that goes over the side of a barrier or the edge of a container. English = overflow, spillage.",
-    "2. A channel that carries away surplus water, as from a dam. English = spillway.",
-    "3. Water that flows over the edge of a steep cliff and falls to the ground below. English = waterfall."
   ],
   "signNumber": 2856,
   "recordNumber": 1611,
@@ -58,5 +44,19 @@
   "synonyms": [
     "spill",
     "waterfall"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of water or liquid, to go over the side of a barrier or the edge of a container. English = overflow, spill over, flow over."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Too much water or liquid that goes over the side of a barrier or the edge of a container. English = overflow, spillage.",
+    "2. A channel that carries away surplus water, as from a dam. English = spillway.",
+    "3. Water that flows over the edge of a steep cliff and falls to the ground below. English = waterfall."
+  ],
+  "idGloss": "overflow",
+  "oldEntry": ""
 }

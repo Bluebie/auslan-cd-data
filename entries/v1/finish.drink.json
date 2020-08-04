@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "finish.drink",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. Of liquid in a container, to be reduced in amount or lowered in level, especially so that it is emptied.",
-    "2. To drink a container of liquid dry or empty; to finish your drink."
-  ],
   "cf": [
     "run.out.of.petrol",
     "run.out.of.time",
     "finish.fag"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The reduction in the level or amount of a liquid in a container, especially by drinking it empty.",
-    "2. The time it takes to drink a container of liquid dry; the time it takes for you to finish your drink."
   ],
   "signNumber": 5298,
   "recordNumber": 3174,
@@ -44,5 +30,19 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of liquid in a container, to be reduced in amount or lowered in level, especially so that it is emptied.",
+    "2. To drink a container of liquid dry or empty; to finish your drink."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The reduction in the level or amount of a liquid in a container, especially by drinking it empty.",
+    "2. The time it takes to drink a container of liquid dry; the time it takes for you to finish your drink."
+  ],
+  "idGloss": "finish.drink",
+  "oldEntry": ""
 }

@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thrice.1a",
-  "oldentry": "",
   "english": [
     "thrice"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb to mean the action of the verb is done three times. English = thrice."
-  ],
-  "nomlex": [],
   "signNumber": 2249,
   "recordNumber": 1275,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb to mean the action of the verb is done three times. English = thrice."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "thrice.1a",
+  "oldEntry": ""
 }

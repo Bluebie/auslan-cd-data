@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "goat",
-  "oldentry": "Popular explanation: the beard of a goat.",
   "english": [
     "goat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal with horns and a short tail. They are found in mountain areas or are kept on farms. The male has a kind of beard. English = goat."
-  ],
   "signNumber": 5625,
   "recordNumber": 3331,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal with horns and a short tail. They are found in mountain areas or are kept on farms. The male has a kind of beard. English = goat."
+  ],
+  "idGloss": "goat",
+  "oldEntry": "Popular explanation: the beard of a goat."
 }

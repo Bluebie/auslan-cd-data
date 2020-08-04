@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "everything",
-  "oldentry": "",
   "english": [
     "everything",
     "everyone",
@@ -33,19 +29,7 @@
     "unite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or involve all of the objects, actions, activities, or facts in a particular situation. English = (be) all, (be) whole, (be) everything.",
-    "2. To be or involve all of the people in a particular situation. English = (be) all, (be) whole, (be) everyone.",
-    "3. Of several things, to come together into one place.",
-    "4. Of several things, to come together into one place or to join together and to act as a single group, as one thing. English = unite."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the objects, actions, activities, or facts in a particular situation. English = everything.",
-    "2. All the people in a particular situation. English = everyone."
-  ],
   "signNumber": 2620,
   "recordNumber": 1455,
   "signVisualComposition": "",
@@ -58,5 +42,21 @@
     "all.1a",
     "group.1a",
     "with.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or involve all of the objects, actions, activities, or facts in a particular situation. English = (be) all, (be) whole, (be) everything.",
+    "2. To be or involve all of the people in a particular situation. English = (be) all, (be) whole, (be) everyone.",
+    "3. Of several things, to come together into one place.",
+    "4. Of several things, to come together into one place or to join together and to act as a single group, as one thing. English = unite."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the objects, actions, activities, or facts in a particular situation. English = everything.",
+    "2. All the people in a particular situation. English = everyone."
+  ],
+  "idGloss": "everything",
+  "oldEntry": ""
 }

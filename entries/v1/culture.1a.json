@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "SURROUND + C",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "culture.1a",
-  "oldentry": "",
   "english": [
     "culture"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "environment",
     "situation"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ideas, customs, and art that are produced by a particular society. English = culture."
   ],
   "signNumber": 5388,
   "recordNumber": 3219,
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ideas, customs, and art that are produced by a particular society. English = culture."
+  ],
+  "idGloss": "culture.1a",
+  "oldEntry": ""
 }

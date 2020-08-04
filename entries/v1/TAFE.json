@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "TAFE",
-  "oldentry": "",
   "english": [
     "TAFE"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "apprentice",
     "university.1",
     "university.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
   ],
   "signNumber": 2113,
   "recordNumber": 1225,
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "trade"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
+  ],
+  "idGloss": "TAFE",
+  "oldEntry": ""
 }

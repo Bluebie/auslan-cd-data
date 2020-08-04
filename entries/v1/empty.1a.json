@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "empty.1a",
-  "oldentry": "",
   "english": [
     "empty",
     "exhaust",
@@ -35,18 +31,10 @@
     "use up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To remove the contents from a container; of a container, to have nothing in it. English = empty; (be) empty.",
-    "2. Of an amount of something, especially money, to become less and less until there is none left. English = exhaust, use up, dispose of.",
-    "3. To completely remove the information and data on a computer disk. English = erase, reformat, initialise a computer disk."
-  ],
   "cf": [
     "low.on.money.1a",
     "blank.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4232,
   "recordNumber": 2560,
   "signVisualComposition": "",
@@ -60,5 +48,17 @@
   "synonyms": [
     "pour.from",
     "eliminate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To remove the contents from a container; of a container, to have nothing in it. English = empty; (be) empty.",
+    "2. Of an amount of something, especially money, to become less and less until there is none left. English = exhaust, use up, dispose of.",
+    "3. To completely remove the information and data on a computer disk. English = erase, reformat, initialise a computer disk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "empty.1a",
+  "oldEntry": ""
 }

@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "BOY + GIRL",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "people.2",
-  "oldentry": "",
   "english": [
     "people"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "boy.1",
     "girl.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Men, women, and children in general. English = people."
   ],
   "signNumber": 634,
   "recordNumber": 368,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "people.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Men, women, and children in general. English = people."
+  ],
+  "idGloss": "people.2",
+  "oldEntry": ""
 }

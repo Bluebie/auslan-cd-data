@@ -15,10 +15,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "itch.1a",
-  "oldentry": "Popular explanation: scratching oneself.",
   "english": [
     "itch",
     "scratch",
@@ -26,18 +22,7 @@
     "itchy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an unpleasant feeling on your skin that makes you want to move your fingernails across it. English = (be) itchy.",
-    "2. To move your fingernails backwards and forwards across a spot on your skin. English = itch, scratch."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An unpleasant feeling on your skin that makes you want to move your fingernails across it. English = itch.",
-    "2. The act of moving your fingernails across an itchy spot on your skin. English = scratch.",
-    "3. An itchy area of red spots that appear on your skin when you are ill or have an allergy. English = rash."
-  ],
   "signNumber": 3098,
   "recordNumber": 1782,
   "signVisualComposition": "",
@@ -46,5 +31,20 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an unpleasant feeling on your skin that makes you want to move your fingernails across it. English = (be) itchy.",
+    "2. To move your fingernails backwards and forwards across a spot on your skin. English = itch, scratch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An unpleasant feeling on your skin that makes you want to move your fingernails across it. English = itch.",
+    "2. The act of moving your fingernails across an itchy spot on your skin. English = scratch.",
+    "3. An itchy area of red spots that appear on your skin when you are ill or have an allergy. English = rash."
+  ],
+  "idGloss": "itch.1a",
+  "oldEntry": "Popular explanation: scratching oneself."
 }

@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blab.1a",
-  "oldentry": "Popular explanation: words coming out of your mouth.",
   "english": [
     "telltale",
     "informer",
@@ -49,20 +45,8 @@
     "pimp"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To report the misdemeanours, true or fictitious, of your friends, peers, or relatives. English = tell tales, inform, pimp. Informal English = dob, dob in.",
-    "2. To reveal secrets. English = blab.",
-    "3. Especially in the Catholic religion, to tell a priest about your sins and ask for forgiveness. English = confess."
-  ],
   "cf": [
     "gossip.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who reports the misdemeanours, true or fictitious, of their friends, peers, relatives, etc. English = telltale, informer, pimp. Informal English = dobber.",
-    "2. A person who tells other people things that you did not want them to know. Informal English = blabbermouth, big mouth.",
-    "3. Especially in the Catholic religion, a religious act in which you tell a priest about your sins and ask for forgiveness. English = confession."
   ],
   "signNumber": 61,
   "recordNumber": 34,
@@ -77,5 +61,21 @@
   "synonyms": [
     "pimp",
     "comfession"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To report the misdemeanours, true or fictitious, of your friends, peers, or relatives. English = tell tales, inform, pimp. Informal English = dob, dob in.",
+    "2. To reveal secrets. English = blab.",
+    "3. Especially in the Catholic religion, to tell a priest about your sins and ask for forgiveness. English = confess."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who reports the misdemeanours, true or fictitious, of their friends, peers, relatives, etc. English = telltale, informer, pimp. Informal English = dobber.",
+    "2. A person who tells other people things that you did not want them to know. Informal English = blabbermouth, big mouth.",
+    "3. Especially in the Catholic religion, a religious act in which you tell a priest about your sins and ask for forgiveness. English = confession."
+  ],
+  "idGloss": "blab.1a",
+  "oldEntry": "Popular explanation: words coming out of your mouth."
 }

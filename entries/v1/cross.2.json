@@ -16,22 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cross.2",
-  "oldentry": "",
   "english": [
     "cross",
     "angry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel or show rather strong emotion about something that you consider unfair, cruel, or insulting. English = (be) cross, (be) angry."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6343,
   "recordNumber": 3786,
   "signVisualComposition": "",
@@ -46,5 +36,15 @@
   "synonyms": [
     "cranky",
     "angry.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel or show rather strong emotion about something that you consider unfair, cruel, or insulting. English = (be) cross, (be) angry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cross.2",
+  "oldEntry": ""
 }

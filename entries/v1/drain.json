@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drain",
-  "oldentry": "Popular explanation: the grate of a drain.",
   "english": [
     "drain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of water, to flow over and through a metal grid away to somewhere else (usually through pipes). English = drain, drain away."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A metal grid in a road, through which rainwater can flow away into pipes. English = drain."
-  ],
   "signNumber": 4008,
   "recordNumber": 2399,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of water, to flow over and through a metal grid away to somewhere else (usually through pipes). English = drain, drain away."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A metal grid in a road, through which rainwater can flow away into pipes. English = drain."
+  ],
+  "idGloss": "drain",
+  "oldEntry": "Popular explanation: the grate of a drain."
 }

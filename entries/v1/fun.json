@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fun",
-  "oldentry": "",
   "english": [
     "fun",
     "oops"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an activity, to be enjoyable or amusing. English = (be) fun."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that there has been a slight accident or mistake. English = 'Oops!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Activities which are enjoyable and amusing. English = fun."
-  ],
   "signNumber": 32,
   "recordNumber": 18,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   ],
   "synonyms": [
     "funny.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that there has been a slight accident or mistake. English = 'Oops!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an activity, to be enjoyable or amusing. English = (be) fun."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Activities which are enjoyable and amusing. English = fun."
+  ],
+  "idGloss": "fun",
+  "oldEntry": ""
 }

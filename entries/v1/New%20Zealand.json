@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "New Zealand",
-  "oldentry": "",
   "english": [
     "New Zealand"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in the south Pacific Ocean, east of Australia, called New Zealand."
-  ],
   "signNumber": 2146,
   "recordNumber": 1242,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in the south Pacific Ocean, east of Australia, called New Zealand."
+  ],
+  "idGloss": "New Zealand",
+  "oldEntry": ""
 }

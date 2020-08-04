@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "glad.2",
-  "oldentry": "",
   "english": [
     "glad"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very happy and pleased about something. English = (be) glad."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5535,
   "recordNumber": 3276,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "interest.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very happy and pleased about something. English = (be) glad."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "glad.2",
+  "oldEntry": ""
 }

@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "leg.1a",
-  "oldentry": "",
   "english": [
     "leg",
     "thigh"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The long part of your body connected to your hip that has a foot at the end of it. You have two of them. English = leg.",
-    "2. The top part of your legs, between your knees and your hips. English = thigh"
-  ],
   "signNumber": 3506,
   "recordNumber": 2051,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 17,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The long part of your body connected to your hip that has a foot at the end of it. You have two of them. English = leg.",
+    "2. The top part of your legs, between your knees and your hips. English = thigh"
+  ],
+  "idGloss": "leg.1a",
+  "oldEntry": ""
 }

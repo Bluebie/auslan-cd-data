@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reserve.1a",
-  "oldentry": "",
   "english": [
     "booking",
     "reservation",
@@ -33,18 +29,9 @@
     "reserved"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange to have or use something (such as a hotel room, or a ticket for something) at a particular time. English = book, reserve.",
-    "2. Of things such as a hotel room, a seat at the theatre, or a table at a restaurant, to be taken or claimed by someone else for future use. English = (be) booked, (be) reserved."
-  ],
   "cf": [
     "catch.1",
     "grab"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An arrangement that you make when you book something such as a theatre seat or a hotel room. English = booking, reservation."
   ],
   "signNumber": 2752,
   "recordNumber": 1538,
@@ -56,5 +43,18 @@
   "antonyms": [
     "available"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange to have or use something (such as a hotel room, or a ticket for something) at a particular time. English = book, reserve.",
+    "2. Of things such as a hotel room, a seat at the theatre, or a table at a restaurant, to be taken or claimed by someone else for future use. English = (be) booked, (be) reserved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An arrangement that you make when you book something such as a theatre seat or a hotel room. English = booking, reservation."
+  ],
+  "idGloss": "reserve.1a",
+  "oldEntry": ""
 }

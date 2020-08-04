@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pipe.3",
-  "oldentry": "Popular explanation: the form of a pipe.",
   "english": [
     "pipe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To smoke a pipe."
-  ],
   "cf": [
     "pipe.2a",
     "smoke.cigarette"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A object which is used for smoking tobacco. You put tobacco into the cup-shaped end, light it, and breathe in smoke through a narrow tube. English = pipe."
   ],
   "signNumber": 6577,
   "recordNumber": 3921,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "pipe.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To smoke a pipe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A object which is used for smoking tobacco. You put tobacco into the cup-shaped end, light it, and breathe in smoke through a narrow tube. English = pipe."
+  ],
+  "idGloss": "pipe.3",
+  "oldEntry": "Popular explanation: the form of a pipe."
 }

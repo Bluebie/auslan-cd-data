@@ -14,27 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "again",
-  "oldentry": "",
   "english": [
     "again",
     "pardon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "repeat.1a",
     "often.1a"
   ],
-  "interj": [
-    "1. Used to ask someone to repeat something that they have just told you, especially if you did not see it or hear it clearly. English = 'Pardon?', 'Can you repeat that?'"
-  ],
-  "partlex": [
-    "1. Used to describe doing something or something happening one more time or on another occasion. English = again."
-  ],
-  "nomlex": [],
   "signNumber": 1602,
   "recordNumber": 953,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "one.more"
-  ]
+  ],
+  "interjection": [
+    "1. Used to ask someone to repeat something that they have just told you, especially if you did not see it or hear it clearly. English = 'Pardon?', 'Can you repeat that?'"
+  ],
+  "particleLexeme": [
+    "1. Used to describe doing something or something happening one more time or on another occasion. English = again."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "again",
+  "oldEntry": ""
 }

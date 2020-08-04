@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peg.1a",
-  "oldentry": "Popular explanation: a peg on a line.",
   "english": [
     "clip",
     "peg"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fasten things together using a peg or clip."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small device, usually made of metal or plastic, that is specially shaped for holding things together. English = clip, peg."
-  ],
   "signNumber": 5484,
   "recordNumber": 3257,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "clothes peg.1a",
     "clip.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fasten things together using a peg or clip."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small device, usually made of metal or plastic, that is specially shaped for holding things together. English = clip, peg."
+  ],
+  "idGloss": "peg.1a",
+  "oldEntry": "Popular explanation: a peg on a line."
 }

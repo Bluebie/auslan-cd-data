@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.down.in.lift",
-  "oldentry": "",
   "english": [
     "lift",
     "elevator"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To descend in a lift."
-  ],
   "cf": [
     "lift.3a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3887,
   "recordNumber": 2313,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [
     "go.up.in.lift"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To descend in a lift."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "go.down.in.lift",
+  "oldEntry": ""
 }

@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "milkshake",
-  "oldentry": "",
   "english": [
     "milkshake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a milkshake."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cold drink made by mixing milk with ice cream and a flavouring. English = milkshake."
-  ],
   "signNumber": 1309,
   "recordNumber": 777,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a milkshake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cold drink made by mixing milk with ice cream and a flavouring. English = milkshake."
+  ],
+  "idGloss": "milkshake",
+  "oldEntry": ""
 }

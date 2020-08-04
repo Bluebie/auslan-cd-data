@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bong",
-  "oldentry": "Popular explanation: using and passing around a pipe.",
   "english": [
     "bong"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To smoke hashish through a waterpipe. Informal English = smoke a bong."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of waterpipe, used for smoking hashish. Informal English = bong."
-  ],
   "signNumber": 5733,
   "recordNumber": 3397,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 10,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To smoke hashish through a waterpipe. Informal English = smoke a bong."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of waterpipe, used for smoking hashish. Informal English = bong."
+  ],
+  "idGloss": "bong",
+  "oldEntry": "Popular explanation: using and passing around a pipe."
 }

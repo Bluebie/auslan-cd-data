@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Two facing rows of upright objects, such as poles, posts, stakes, etc., or any thing or any action directly or indirectly associated with this, depending on context.",
-  "questlex": [],
-  "idgloss": "cot.1a",
-  "oldentry": "Popular explanation: the bars of cot.",
   "english": [
     "cot"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bed for a baby, with bars or panels round it so that the baby cannot fall out. English = cot."
-  ],
   "signNumber": 2404,
   "recordNumber": 1327,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Two facing rows of upright objects, such as poles, posts, stakes, etc., or any thing or any action directly or indirectly associated with this, depending on context.",
+  "nominalLexeme": [
+    "1. A bed for a baby, with bars or panels round it so that the baby cannot fall out. English = cot."
+  ],
+  "idGloss": "cot.1a",
+  "oldEntry": "Popular explanation: the bars of cot."
 }

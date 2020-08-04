@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stack.up",
-  "oldentry": "",
   "english": [
     "stack"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange things into neat piles. English = stack, stack up."
-  ],
   "cf": [
     "tidy.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A neat pile of things, usually with one thing on top of another. English = stack."
   ],
   "signNumber": 4111,
   "recordNumber": 2470,
@@ -45,5 +33,17 @@
     "stack",
     "mass.1",
     "pile.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange things into neat piles. English = stack, stack up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A neat pile of things, usually with one thing on top of another. English = stack."
+  ],
+  "idGloss": "stack.up",
+  "oldEntry": ""
 }

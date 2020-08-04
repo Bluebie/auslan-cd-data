@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "snob.1a",
-  "oldentry": "Popular explanation: culturally shared gesture of turning up one's nose.",
   "english": [
     "snob",
     "snobbery",
@@ -26,17 +22,7 @@
     "snobby"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be too proud of your social status, intelligence, or taste. Used to show disapproval. English = (be) snobbish, (be) snobby.",
-    "2. To reject something because you do not think it is good enough for you because you are too proud of your social status, intelligence, or taste. Used to show disapproval. Idiomatic English = to turn up one's nose at someone or something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who admires upper-class people and despises lower-class people; someone who believes that they are superior to other people because of their intelligence or taste. The sign is used to show disapproval of such a person. English = snob.",
-    "2. The attitude of a snob. English = snobbery."
-  ],
   "signNumber": 543,
   "recordNumber": 310,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be too proud of your social status, intelligence, or taste. Used to show disapproval. English = (be) snobbish, (be) snobby.",
+    "2. To reject something because you do not think it is good enough for you because you are too proud of your social status, intelligence, or taste. Used to show disapproval. Idiomatic English = to turn up one's nose at someone or something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who admires upper-class people and despises lower-class people; someone who believes that they are superior to other people because of their intelligence or taste. The sign is used to show disapproval of such a person. English = snob.",
+    "2. The attitude of a snob. English = snobbery."
+  ],
+  "idGloss": "snob.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture of turning up one's nose."
 }

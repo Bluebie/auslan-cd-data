@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cream.1",
-  "oldentry": "Popular explanation: scooping the cream off the top with a spoon.",
   "english": [
     "cream",
     "scoop",
     "dollop"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To scoop or dollop cream on to food."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick, yellowish-white liquid that is taken from milk. You can use it in cooking or pour it on fruit or puddings. English = cream.",
-    "2. Of soft or sticky food (such as cream),  a small amount picked up with something such as a spoon. English = scoop.",
-    "3. Of soft or sticky food (such as cream),  a small amount served in a lump. English = dollop."
-  ],
   "signNumber": 2162,
   "recordNumber": 1249,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "antonyms": [],
   "synonyms": [
     "cream.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To scoop or dollop cream on to food."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thick, yellowish-white liquid that is taken from milk. You can use it in cooking or pour it on fruit or puddings. English = cream.",
+    "2. Of soft or sticky food (such as cream),  a small amount picked up with something such as a spoon. English = scoop.",
+    "3. Of soft or sticky food (such as cream),  a small amount served in a lump. English = dollop."
+  ],
+  "idGloss": "cream.1",
+  "oldEntry": "Popular explanation: scooping the cream off the top with a spoon."
 }

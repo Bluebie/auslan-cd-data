@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "street sign",
-  "oldentry": "",
   "english": [
     "sign",
     "street sign"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of wood, metal, or plastic with words or pictures on it, found hanging outside buildings or on the top of poles in the street. It tells you where or what a particular place is, or gives you a warning or an instruction. English = sign.",
-    "2. A sign found at the top of a pole at a street corner that tells you the name of a street. English = street sign."
-  ],
   "signNumber": 2094,
   "recordNumber": 1218,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "signpost"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of wood, metal, or plastic with words or pictures on it, found hanging outside buildings or on the top of poles in the street. It tells you where or what a particular place is, or gives you a warning or an instruction. English = sign.",
+    "2. A sign found at the top of a pole at a street corner that tells you the name of a street. English = street sign."
+  ],
+  "idGloss": "street sign",
+  "oldEntry": ""
 }

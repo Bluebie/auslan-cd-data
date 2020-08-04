@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "life.1a",
-  "oldentry": "",
   "english": [
     "life",
     "alive",
     "living"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people, animals, and plants to have the quality of not being dead. English = (be) alive, (be) living."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality which people, animals, and plants have when they are not dead and which objects and substances do not have. English = life.",
-    "2. The period of time during which someone is alive. English = life."
-  ],
   "signNumber": 6520,
   "recordNumber": 3880,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   ],
   "synonyms": [
     "living.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people, animals, and plants to have the quality of not being dead. English = (be) alive, (be) living."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality which people, animals, and plants have when they are not dead and which objects and substances do not have. English = life.",
+    "2. The period of time during which someone is alive. English = life."
+  ],
+  "idGloss": "life.1a",
+  "oldEntry": ""
 }

@@ -16,28 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wait.1",
-  "oldentry": "Popular explanation: stay there.",
   "english": [
     "wait"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To spend some time, usually doing very little and staying in the one place, before something happens. English = wait."
-  ],
   "cf": [
     "stay.1a",
     "boarder"
-  ],
-  "interj": [
-    "1. Used alone to ask someone to give you more time before you attend to them or do what they have asked you to do. English = 'Wait!', 'Hold on!'",
-    "2. Used alone to ask someone (especially children) to stop running around or making too much noise and commotion; or to stop bothering someone and leave them alone. English = 'Slow down!', 'Calm down!', 'Be quiet!', 'Don't do that!', 'Keep still!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of time in which you do very little, before something happens. English = wait."
   ],
   "signNumber": 3390,
   "recordNumber": 1980,
@@ -49,5 +34,20 @@
   "antonyms": [],
   "synonyms": [
     "wait.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to ask someone to give you more time before you attend to them or do what they have asked you to do. English = 'Wait!', 'Hold on!'",
+    "2. Used alone to ask someone (especially children) to stop running around or making too much noise and commotion; or to stop bothering someone and leave them alone. English = 'Slow down!', 'Calm down!', 'Be quiet!', 'Don't do that!', 'Keep still!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To spend some time, usually doing very little and staying in the one place, before something happens. English = wait."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of time in which you do very little, before something happens. English = wait."
+  ],
+  "idGloss": "wait.1",
+  "oldEntry": "Popular explanation: stay there."
 }

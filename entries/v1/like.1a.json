@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "like.1a",
-  "oldentry": "Popular explanation: rubbing the stomach, chest in satisfaction or in a soothing fashion.",
   "english": [
     "enjoyment",
     "like",
     "enjoy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To find something pleasant or attractive, or to approve of it. English = like.",
-    "2. To find pleasure and satisfaction in doing or experiencing something. English = enjoy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The pleasure and satisfaction in doing or experiencing something. English = enjoyment."
-  ],
   "signNumber": 3448,
   "recordNumber": 2012,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   ],
   "synonyms": [
     "enjoy.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To find something pleasant or attractive, or to approve of it. English = like.",
+    "2. To find pleasure and satisfaction in doing or experiencing something. English = enjoy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The pleasure and satisfaction in doing or experiencing something. English = enjoyment."
+  ],
+  "idGloss": "like.1a",
+  "oldEntry": "Popular explanation: rubbing the stomach, chest in satisfaction or in a soothing fashion."
 }

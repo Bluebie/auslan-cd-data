@@ -19,26 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "matron.1",
-  "oldentry": "Popular explanation: the headgear of a matron.",
   "english": [
     "matron",
     "nun"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "nurse.3a",
     "maid.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In a hospital, a senior nurse who is usually in charge of all the nursing staff. English = matron.",
-    "2. In a boarding school, a woman who looks after the health and hygiene of the children. English = matron.",
-    "3. A female member of a religious community. English = nun."
   ],
   "signNumber": 3544,
   "recordNumber": 2075,
@@ -52,5 +40,17 @@
     "nun.1",
     "nun.2",
     "matron.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In a hospital, a senior nurse who is usually in charge of all the nursing staff. English = matron.",
+    "2. In a boarding school, a woman who looks after the health and hygiene of the children. English = matron.",
+    "3. A female member of a religious community. English = nun."
+  ],
+  "idGloss": "matron.1",
+  "oldEntry": "Popular explanation: the headgear of a matron."
 }

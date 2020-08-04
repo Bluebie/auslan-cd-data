@@ -9,10 +9,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is often made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "your.yours.not",
-  "oldentry": "",
   "english": [
     "not your",
     "not yours"
@@ -20,11 +16,7 @@
   "deictic": [
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is not owned or possessed by the person or thing this sign is directed towards. In this case, the thing is not owned by the addressee. English = not yours."
   ],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5655,
   "recordNumber": 3351,
   "signVisualComposition": "",
@@ -33,5 +25,13 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "your.yours.not",
+  "oldEntry": ""
 }

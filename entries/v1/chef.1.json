@@ -18,24 +18,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chef.1",
-  "oldentry": "Popular explanation: a crown on the head.",
   "english": [
     "chef",
     "kitchen"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who cooks in a restaurant or a hotel. English = chef.",
-    "2. The type of hat often worn by chefs. It is white and shaped like a tall mushroom with a thick stem. English = chef's hat.",
-    "3. The place in a hotel, restaurant or home where cooking is done. English = kitchen."
-  ],
   "signNumber": 2904,
   "recordNumber": 1641,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
     "kitchen.1",
     "cook.1a",
     "chef.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who cooks in a restaurant or a hotel. English = chef.",
+    "2. The type of hat often worn by chefs. It is white and shaped like a tall mushroom with a thick stem. English = chef's hat.",
+    "3. The place in a hotel, restaurant or home where cooking is done. English = kitchen."
+  ],
+  "idGloss": "chef.1",
+  "oldEntry": "Popular explanation: a crown on the head."
 }

@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "save",
-  "oldentry": "",
   "english": [
     "saving",
     "retention",
@@ -39,19 +35,7 @@
     "keep"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gradually collect money by not spending it, usually so that you can buy something that you want. English = save.",
-    "2. To cause something to remain in the same state or place; to continue to have something. English = retain, keep.",
-    "3. To help someone avoid harm or to escape from a dangerous or unpleasant situation. English = save, rescue."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of collecting money by not spending it, or the money itself. English = saving, savings.",
-    "2. The act of causing something to remain in the same state or place; the act of continuing to have something. English = retention, keeping.",
-    "3. The helping of someone avoid harm or escape from a dangerous or unpleasant situation. English = rescue."
-  ],
   "signNumber": 4298,
   "recordNumber": 2616,
   "signVisualComposition": "",
@@ -67,5 +51,21 @@
     "savings",
     "salvation",
     "increase.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gradually collect money by not spending it, usually so that you can buy something that you want. English = save.",
+    "2. To cause something to remain in the same state or place; to continue to have something. English = retain, keep.",
+    "3. To help someone avoid harm or to escape from a dangerous or unpleasant situation. English = save, rescue."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of collecting money by not spending it, or the money itself. English = saving, savings.",
+    "2. The act of causing something to remain in the same state or place; the act of continuing to have something. English = retention, keeping.",
+    "3. The helping of someone avoid harm or escape from a dangerous or unpleasant situation. English = rescue."
+  ],
+  "idGloss": "save",
+  "oldEntry": ""
 }

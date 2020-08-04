@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "religion.1a",
-  "oldentry": "",
   "english": [
     "religion",
     "religious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a strong belief in a god or gods. English = (be) religious.",
-    "2. To be connected to or related to religion. English = (be) religious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The belief in a god or gods and the activities that are connected with this belief, such as prayer, worship in a church or temple. English = religion.",
-    "2. A particular system of belief in a god or gods and the activities connected with this system. English = religion."
-  ],
   "signNumber": 2185,
   "recordNumber": 1259,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [],
   "synonyms": [
     "church.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a strong belief in a god or gods. English = (be) religious.",
+    "2. To be connected to or related to religion. English = (be) religious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The belief in a god or gods and the activities that are connected with this belief, such as prayer, worship in a church or temple. English = religion.",
+    "2. A particular system of belief in a god or gods and the activities connected with this system. English = religion."
+  ],
+  "idGloss": "religion.1a",
+  "oldEntry": ""
 }

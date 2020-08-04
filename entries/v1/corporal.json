@@ -9,22 +9,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "corporal",
-  "oldentry": "Popular explanation: a corporal's stripes.",
   "english": [
     "corporal"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "sergeant"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An officer of low rank in the army. English = corporal."
   ],
   "signNumber": 1622,
   "recordNumber": 962,
@@ -34,5 +24,15 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An officer of low rank in the army. English = corporal."
+  ],
+  "idGloss": "corporal",
+  "oldEntry": "Popular explanation: a corporal's stripes."
 }

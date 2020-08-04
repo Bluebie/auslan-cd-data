@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peer.over",
-  "oldentry": "Popular explanation: pulling down a barrier or lifting oneself over it.",
   "english": [
     "peek",
     "peer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a quick and secret look at something by looking over a barrier of some sort. English = peek, peek over, peer, peer over."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A quick and secretive look at something. English = peek."
-  ],
   "signNumber": 5720,
   "recordNumber": 3385,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "peer.around"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a quick and secret look at something by looking over a barrier of some sort. English = peek, peek over, peer, peer over."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A quick and secretive look at something. English = peek."
+  ],
+  "idGloss": "peer.over",
+  "oldEntry": "Popular explanation: pulling down a barrier or lifting oneself over it."
 }

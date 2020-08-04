@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sheet",
-  "oldentry": "Popular explanation: pulling something relatively light over oneself.",
   "english": [
     "sheet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pull a sheet up over your body, usually in a bed."
-  ],
   "cf": [
     "blanket.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large rectangular piece of cloth , usually made of cotton and used with blankets or a doona to make a bed. English = sheet."
   ],
   "signNumber": 407,
   "recordNumber": 224,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pull a sheet up over your body, usually in a bed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large rectangular piece of cloth , usually made of cotton and used with blankets or a doona to make a bed. English = sheet."
+  ],
+  "idGloss": "sheet",
+  "oldEntry": "Popular explanation: pulling something relatively light over oneself."
 }

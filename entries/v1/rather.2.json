@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rather.2",
-  "oldentry": "",
   "english": [
     "rather"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be undecided about something though verging on giving a positive response."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to a question to mean that you are only half inclined to do something but probably would prefer to do what has been proposed. English = 'Okay, I think I'd rather do that.'",
-    "2. Used alone in response to a question to mean that you are undecided about something but verging on agreeing to it. English =  'Alright, I suppose so.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4315,
   "recordNumber": 2630,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "antonyms": [],
   "synonyms": [
     "rather.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to a question to mean that you are only half inclined to do something but probably would prefer to do what has been proposed. English = 'Okay, I think I'd rather do that.'",
+    "2. Used alone in response to a question to mean that you are undecided about something but verging on agreeing to it. English =  'Alright, I suppose so.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be undecided about something though verging on giving a positive response."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "rather.2",
+  "oldEntry": ""
 }

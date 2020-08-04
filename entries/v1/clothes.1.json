@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clothes.1",
-  "oldentry": "",
   "english": [
     "clothes",
     "clothing",
@@ -41,19 +37,8 @@
     "dress up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a piece of clothing or clothes on your body. English = wear (something), get dressed, clothe.",
-    "2. To have a piece of clothing or clothes on your body. English = (be) wearing (something).",
-    "3. [Especially with rounded lips and a sucking action], to put on special clothes for a special occasion. English = dress up, get dressed up."
-  ],
   "cf": [
     "dress.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The things that people wear, such as shirts, coats, trousers, and dresses. English = clothes, clothing. Formal English = garments.",
-    "2. Clothes that people wear, especially on a formal occasion. Formal English = apparel."
   ],
   "signNumber": 2651,
   "recordNumber": 1469,
@@ -63,5 +48,20 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a piece of clothing or clothes on your body. English = wear (something), get dressed, clothe.",
+    "2. To have a piece of clothing or clothes on your body. English = (be) wearing (something).",
+    "3. [Especially with rounded lips and a sucking action], to put on special clothes for a special occasion. English = dress up, get dressed up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The things that people wear, such as shirts, coats, trousers, and dresses. English = clothes, clothing. Formal English = garments.",
+    "2. Clothes that people wear, especially on a formal occasion. Formal English = apparel."
+  ],
+  "idGloss": "clothes.1",
+  "oldEntry": ""
 }

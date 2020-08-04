@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A long narrow thin object.",
-  "questlex": [],
-  "idgloss": "ruler",
-  "oldentry": "",
   "english": [
     "ruler"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, narrow, flat piece of wood, metal, or plastic with straight edges marked in inches or centimetres, which you use to measure things or to draw straight lines. English = ruler."
-  ],
   "signNumber": 5367,
   "recordNumber": 3206,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "rule.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A long narrow thin object.",
+  "nominalLexeme": [
+    "1. A long, narrow, flat piece of wood, metal, or plastic with straight edges marked in inches or centimetres, which you use to measure things or to draw straight lines. English = ruler."
+  ],
+  "idGloss": "ruler",
+  "oldEntry": ""
 }

@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "headlights",
-  "oldentry": "Popular explanation: two low-set light sources.",
   "english": [
     "headlights"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "blinkers.1a",
     "emit"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The large bright lights at the front of a car. English = headlights."
   ],
   "signNumber": 191,
   "recordNumber": 108,
@@ -39,5 +29,15 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The large bright lights at the front of a car. English = headlights."
+  ],
+  "idGloss": "headlights",
+  "oldEntry": "Popular explanation: two low-set light sources."
 }

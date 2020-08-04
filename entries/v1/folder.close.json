@@ -11,22 +11,14 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "The action of closing something with an opening and closing lid, or any thing or action directly or indirectly associated with this, such as closing a lap top computer, portable compact TTY, or pencil case, and especially a folder.",
-  "questlex": [],
-  "idgloss": "folder.close",
-  "oldentry": "",
   "english": [
     "close folder",
     "folder"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "folder"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4149,
   "recordNumber": 2503,
   "signVisualComposition": "",
@@ -37,5 +29,13 @@
   "antonyms": [
     "folder.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of closing something with an opening and closing lid, or any thing or action directly or indirectly associated with this, such as closing a lap top computer, portable compact TTY, or pencil case, and especially a folder.",
+  "nominalLexeme": [],
+  "idGloss": "folder.close",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "CULTURE + A",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "anthropology",
-  "oldentry": "",
   "english": [
     "anthropology"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The scientific study of people, society, and culture. English = anthropology."
-  ],
   "signNumber": 4888,
   "recordNumber": 2954,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The scientific study of people, society, and culture. English = anthropology."
+  ],
+  "idGloss": "anthropology",
+  "oldEntry": ""
 }

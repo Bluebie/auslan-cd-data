@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "halve",
-  "oldentry": "Popular explanation: cutting something in half and pushing one half to one side.",
   "english": [
     "halve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To divide something into two equal amounts or pieces and to get rid of one of those halves; to apportion half of something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of two equal amounts or pieces of something that have been separated and apportioned."
-  ],
   "signNumber": 4319,
   "recordNumber": 2632,
   "signVisualComposition": "HALF + REJECT",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To divide something into two equal amounts or pieces and to get rid of one of those halves; to apportion half of something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of two equal amounts or pieces of something that have been separated and apportioned."
+  ],
+  "idGloss": "halve",
+  "oldEntry": "Popular explanation: cutting something in half and pushing one half to one side."
 }

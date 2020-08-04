@@ -26,10 +26,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "muscle.1a",
-  "oldentry": "Popular explanation: the outline of large biceps.",
   "english": [
     "muscle",
     "strength",
@@ -43,20 +39,7 @@
     "empower"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have powerful, firm muscles which you can see and which make your body look big. English = (be) muscular, (be) muscle-bound.",
-    "2. To be able to do lots of physical things with your body, such as carry heavy things or hold things tightly, without getting easily tired. English = (be) strong.",
-    "3. To have control or influence over people and events. English = (be) powerful.",
-    "4. To give someone the authority or power to do something. English = empower."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of flesh found in various places inside your body which is able to become smaller and to get bigger again. It helps you make movements with your arms and legs and other parts of your body. English = muscle.",
-    "2. The physical energy that you have to perform various actions, such as lifting or moving things. English = strength, energy. Formal English = might.",
-    "3. Control over people and activities; authority or the legal right to do something. English = power."
-  ],
   "signNumber": 810,
   "recordNumber": 462,
   "signVisualComposition": "",
@@ -67,5 +50,22 @@
   "antonyms": [],
   "synonyms": [
     "strong.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have powerful, firm muscles which you can see and which make your body look big. English = (be) muscular, (be) muscle-bound.",
+    "2. To be able to do lots of physical things with your body, such as carry heavy things or hold things tightly, without getting easily tired. English = (be) strong.",
+    "3. To have control or influence over people and events. English = (be) powerful.",
+    "4. To give someone the authority or power to do something. English = empower."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of flesh found in various places inside your body which is able to become smaller and to get bigger again. It helps you make movements with your arms and legs and other parts of your body. English = muscle.",
+    "2. The physical energy that you have to perform various actions, such as lifting or moving things. English = strength, energy. Formal English = might.",
+    "3. Control over people and activities; authority or the legal right to do something. English = power."
+  ],
+  "idGloss": "muscle.1a",
+  "oldEntry": "Popular explanation: the outline of large biceps."
 }

@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stiff",
-  "oldentry": "",
   "english": [
     "stiff",
     "rigid",
@@ -31,18 +27,10 @@
     "brace"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be firm or hard and not easy to bend. English = (be) stiff, (be) rigid.",
-    "2. To stop moving and stand or sit with muscles that are suddenly tense, for example because you feel afraid or angry. English = stiffen, tense up.",
-    "3. To prepare yourself for something unpleasant or difficult. English = brace oneself."
-  ],
   "cf": [
     "stress.3",
     "solid"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2722,
   "recordNumber": 1517,
   "signVisualComposition": "",
@@ -53,5 +41,17 @@
   "antonyms": [
     "plastic.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be firm or hard and not easy to bend. English = (be) stiff, (be) rigid.",
+    "2. To stop moving and stand or sit with muscles that are suddenly tense, for example because you feel afraid or angry. English = stiffen, tense up.",
+    "3. To prepare yourself for something unpleasant or difficult. English = brace oneself."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "stiff",
+  "oldEntry": ""
 }

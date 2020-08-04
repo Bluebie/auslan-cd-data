@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pop.up.1a",
-  "oldentry": "Popular explanation: something coming up.",
   "english": [
     "opportunity",
     "chance",
@@ -31,18 +27,8 @@
     "appear"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take place without planning and unexpectedly. English = pop up, appear.",
-    "2. To be present unexpectedly at a place. English = pop up, appear."
-  ],
   "cf": [
     "happen.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation in which it is possible for something to happen, especially a situation which is unexpected and beneficial. English = opportunity, chance.",
-    "2. The arrival of someone somewhere, especially unexpectedly. English = appearance."
   ],
   "signNumber": 1235,
   "recordNumber": 729,
@@ -54,5 +40,19 @@
   "antonyms": [],
   "synonyms": [
     "unexpected"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take place without planning and unexpectedly. English = pop up, appear.",
+    "2. To be present unexpectedly at a place. English = pop up, appear."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation in which it is possible for something to happen, especially a situation which is unexpected and beneficial. English = opportunity, chance.",
+    "2. The arrival of someone somewhere, especially unexpectedly. English = appearance."
+  ],
+  "idGloss": "pop.up.1a",
+  "oldEntry": "Popular explanation: something coming up."
 }

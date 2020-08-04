@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "smell.2",
-  "oldentry": "",
   "english": [
     "smell"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The effect that something has on your nose. English = smell."
-  ],
   "signNumber": 1366,
   "recordNumber": 808,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "smell.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The effect that something has on your nose. English = smell."
+  ],
+  "idGloss": "smell.2",
+  "oldEntry": ""
 }

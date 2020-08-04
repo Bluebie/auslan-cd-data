@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "salad.1a",
-  "oldentry": "Popular explanation: tossing a salad.",
   "english": [
     "salad",
     "toss"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gently shake pieces of a salad in a container with some liquid such as a dressing in order to cover all the pieces with the liquid. English = toss a salad."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mixture of uncooked vegetables. It is usually eaten with other foods as part of a meal. English = salad."
-  ],
   "signNumber": 2796,
   "recordNumber": 1565,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gently shake pieces of a salad in a container with some liquid such as a dressing in order to cover all the pieces with the liquid. English = toss a salad."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mixture of uncooked vegetables. It is usually eaten with other foods as part of a meal. English = salad."
+  ],
+  "idGloss": "salad.1a",
+  "oldEntry": "Popular explanation: tossing a salad."
 }

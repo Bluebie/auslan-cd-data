@@ -22,13 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [
-    "1. Used to ask a question about someone's name or the identity of the person who performs the action of the verb in the sentence, or undergoes the action. English = who, whom, which one of you.",
-    "2. Used immediately next to a noun to ask questions about the name or identity of the person that the thing belongs to or relates to. English = whose."
-  ],
-  "idgloss": "who.1",
-  "oldentry": "",
   "english": [
     "who",
     "whom",
@@ -38,18 +31,7 @@
     "whomever"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately after a noun sign and before a verb sign to make absolutely clear that the person or thing named in the noun is the actor in the action named in the verb. English = who.",
-    "2. Used immediately after a noun sign and before another noun sign followed by a verb sign to mean that the first noun has the action of the verb done to it by the second noun. English = whom."
-  ],
-  "nomlex": [
-    "1. A person in the most general sense (without saying who they are exactly). English = someone.",
-    "2. A person who does something whose identity does not matter or is not known. English = whoever.",
-    "3. A person who has something  done to them whose identity does not matter or is not known. English = whomever."
-  ],
   "signNumber": 695,
   "recordNumber": 401,
   "signVisualComposition": "",
@@ -60,5 +42,23 @@
   "antonyms": [],
   "synonyms": [
     "who.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately after a noun sign and before a verb sign to make absolutely clear that the person or thing named in the noun is the actor in the action named in the verb. English = who.",
+    "2. Used immediately after a noun sign and before another noun sign followed by a verb sign to mean that the first noun has the action of the verb done to it by the second noun. English = whom."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "1. Used to ask a question about someone's name or the identity of the person who performs the action of the verb in the sentence, or undergoes the action. English = who, whom, which one of you.",
+    "2. Used immediately next to a noun to ask questions about the name or identity of the person that the thing belongs to or relates to. English = whose."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person in the most general sense (without saying who they are exactly). English = someone.",
+    "2. A person who does something whose identity does not matter or is not known. English = whoever.",
+    "3. A person who has something  done to them whose identity does not matter or is not known. English = whomever."
+  ],
+  "idGloss": "who.1",
+  "oldEntry": ""
 }

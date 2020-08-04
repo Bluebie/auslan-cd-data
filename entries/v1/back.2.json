@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "back.2",
-  "oldentry": "",
   "english": [
     "back",
     "background",
@@ -34,18 +30,7 @@
     "reverse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located at the side or part of something that is towards the rear or farthest from the front. English = at the back of.",
-    "2. To move in a direction which is the opposite direction to the one in which you normally face or in which you normally go. English = go backwards, back up, reverse.",
-    "3. To move in a direction that takes you to a place where you were before. English = go back."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The side or part of something that is towards the rear or farthest from the front. It is normally not used or seen as much as the front. English = back.",
-    "2. The kind of family you come from and the kind of education you have had. English = background."
-  ],
   "signNumber": 4723,
   "recordNumber": 2854,
   "signVisualComposition": "",
@@ -62,5 +47,20 @@
     "backward",
     "go.behind",
     "background.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located at the side or part of something that is towards the rear or farthest from the front. English = at the back of.",
+    "2. To move in a direction which is the opposite direction to the one in which you normally face or in which you normally go. English = go backwards, back up, reverse.",
+    "3. To move in a direction that takes you to a place where you were before. English = go back."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The side or part of something that is towards the rear or farthest from the front. It is normally not used or seen as much as the front. English = back.",
+    "2. The kind of family you come from and the kind of education you have had. English = background."
+  ],
+  "idGloss": "back.2",
+  "oldEntry": ""
 }

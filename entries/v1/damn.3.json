@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "damn.3",
-  "oldentry": "",
   "english": [
     "damn"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to express exasperation or anger. English = 'Damn!', 'Fuck!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2974,
   "recordNumber": 1690,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "synonyms": [
     "damn.1",
     "damn.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express exasperation or anger. English = 'Damn!', 'Fuck!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "damn.3",
+  "oldEntry": ""
 }

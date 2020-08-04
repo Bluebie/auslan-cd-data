@@ -17,10 +17,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wave.hand.2",
-  "oldentry": "",
   "english": [
     "wave",
     "good-bye",
@@ -29,16 +25,7 @@
     "hi"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand side to side in the air, usually in order to say hello or goodbye to someone.  English = wave."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone when taking leave of someone. English = 'Good-bye', 'Bye.'",
-    "2. Used alone when greeting someone. English = 'Hello!', 'Hi!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2482,
   "recordNumber": 1378,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   "synonyms": [
     "wave.hand.1",
     "hello.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone when taking leave of someone. English = 'Good-bye', 'Bye.'",
+    "2. Used alone when greeting someone. English = 'Hello!', 'Hi!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand side to side in the air, usually in order to say hello or goodbye to someone.  English = wave."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wave.hand.2",
+  "oldEntry": ""
 }

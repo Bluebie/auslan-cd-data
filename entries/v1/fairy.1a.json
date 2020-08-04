@@ -14,25 +14,14 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fairy.1a",
-  "oldentry": "Popular explanation: flapping wings.",
   "english": [
     "fairy",
     "angel"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "angel.1",
     "angel.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small imaginary creature with magical powers. It is usually said to look like a tiny girl with wings. English = fairy.",
-    "2. Spiritual being, often represented as humans with wings, that some people believe are God's messengers and servants in heaven. English = angel."
   ],
   "signNumber": 3593,
   "recordNumber": 2112,
@@ -42,5 +31,16 @@
   "primaryLocation": 13,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small imaginary creature with magical powers. It is usually said to look like a tiny girl with wings. English = fairy.",
+    "2. Spiritual being, often represented as humans with wings, that some people believe are God's messengers and servants in heaven. English = angel."
+  ],
+  "idGloss": "fairy.1a",
+  "oldEntry": "Popular explanation: flapping wings."
 }

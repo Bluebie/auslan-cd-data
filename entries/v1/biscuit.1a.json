@@ -14,23 +14,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "biscuit.1a",
-  "oldentry": "Popular explanation: breaking a cracker in the palm with the elbow.",
   "english": [
     "biscuit",
     "cracker"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small cake-like food, but hard and crisp and usually sweet. English = biscuit.",
-    "2. A thin, crisp biscuit which is often eaten with cheese. English = cracker."
-  ],
   "signNumber": 5985,
   "recordNumber": 3561,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "biscuit.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small cake-like food, but hard and crisp and usually sweet. English = biscuit.",
+    "2. A thin, crisp biscuit which is often eaten with cheese. English = cracker."
+  ],
+  "idGloss": "biscuit.1a",
+  "oldEntry": "Popular explanation: breaking a cracker in the palm with the elbow."
 }

@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any long narrow round object, such as a cylinder or a tube, or any thing or any action which is directly  or indirectly associated with this, especially a pole, pipe, or stick.",
-  "questlex": [],
-  "idgloss": "pole.1a",
-  "oldentry": "",
   "english": [
     "pole",
     "bar",
@@ -31,15 +27,7 @@
     "tube"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, thin, straight object made of metal, wood, or some other hard substance. English =  pole, bar, rod.",
-    "2. A long, narrow, round, hollow object, usually made of metal or plastic, through which a liquid or gas can flow. English = pipe.",
-    "3. A long, thin piece of wood, for example dead wood from a tree. English = stick."
-  ],
   "signNumber": 420,
   "recordNumber": 235,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any long narrow round object, such as a cylinder or a tube, or any thing or any action which is directly  or indirectly associated with this, especially a pole, pipe, or stick.",
+  "nominalLexeme": [
+    "1. A long, thin, straight object made of metal, wood, or some other hard substance. English =  pole, bar, rod.",
+    "2. A long, narrow, round, hollow object, usually made of metal or plastic, through which a liquid or gas can flow. English = pipe.",
+    "3. A long, thin piece of wood, for example dead wood from a tree. English = stick."
+  ],
+  "idGloss": "pole.1a",
+  "oldEntry": ""
 }

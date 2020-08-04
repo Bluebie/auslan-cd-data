@@ -15,29 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "anything.1a",
-  "oldentry": "",
   "english": [
     "anything",
     "any",
     "whatever"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a thing, event, or idea which is not particular or special in some way. You use it immediately before a noun to mean one (or more) of that thing, but not necessarily a particular one or particular ones.",
-    "That is, you use it when referring to something or someone without saying exactly what, who, or which kind you mean. English = any, (be) any."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to say that something is the case in all possible circumstances. You think that this is very obvious and that the person you are talking to should have known this already. English = 'Whatever!', 'Absolutely!'",
-    "2. Used alone to mean that you completely agree with someone, more because you want to end the conversation than that you are convinced the facts. English = 'Whatever!', 'Have it your way!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A thing, an event, or an idea which is not a particular one of its kind. English = anything."
-  ],
   "signNumber": 2800,
   "recordNumber": 1568,
   "signVisualComposition": "",
@@ -46,5 +30,21 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to say that something is the case in all possible circumstances. You think that this is very obvious and that the person you are talking to should have known this already. English = 'Whatever!', 'Absolutely!'",
+    "2. Used alone to mean that you completely agree with someone, more because you want to end the conversation than that you are convinced the facts. English = 'Whatever!', 'Have it your way!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a thing, event, or idea which is not particular or special in some way. You use it immediately before a noun to mean one (or more) of that thing, but not necessarily a particular one or particular ones.",
+    "That is, you use it when referring to something or someone without saying exactly what, who, or which kind you mean. English = any, (be) any."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing, an event, or an idea which is not a particular one of its kind. English = anything."
+  ],
+  "idGloss": "anything.1a",
+  "oldEntry": ""
 }

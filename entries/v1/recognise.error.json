@@ -14,25 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "recognise.error",
-  "oldentry": "",
   "english": [
     "admission"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To recognise an error or mistake.",
-    "2. To acknowledge an error or mistake (and admit that you are wrong)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The recognition of an error or a mistake.",
-    "2. The acknowledgment of an error or mistake, particularly when you are in the wrong. English = admission."
-  ],
   "signNumber": 1197,
   "recordNumber": 702,
   "signVisualComposition": "SEE + FAULT",
@@ -43,5 +29,19 @@
   "antonyms": [
     "right.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To recognise an error or mistake.",
+    "2. To acknowledge an error or mistake (and admit that you are wrong)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The recognition of an error or a mistake.",
+    "2. The acknowledgment of an error or mistake, particularly when you are in the wrong. English = admission."
+  ],
+  "idGloss": "recognise.error",
+  "oldEntry": ""
 }

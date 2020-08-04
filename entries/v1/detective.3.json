@@ -17,24 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "detective.3",
-  "oldentry": "",
   "english": [
     "detective"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "police.1a",
     "police.2a",
     "police.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job is to discover what has happened in a crime or other situation and to find the people involved. English = detective."
   ],
   "signNumber": 5329.1,
   "recordNumber": 3192,
@@ -50,5 +40,15 @@
   "synonyms": [
     "detective.1",
     "detective.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job is to discover what has happened in a crime or other situation and to find the people involved. English = detective."
+  ],
+  "idGloss": "detective.3",
+  "oldEntry": ""
 }

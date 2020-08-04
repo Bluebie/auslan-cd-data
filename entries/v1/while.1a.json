@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "while.1a",
-  "oldentry": "",
   "english": [
     "while",
     "interval",
@@ -44,21 +40,8 @@
     "fleeting"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To last for only a short period of time. English = (be) brief, (be) momentary, (be) fleeting.",
-    "2. To be intended to be used only until something more permanent is arranged or produced. English = (be) temporary. Formal English = (be) interim, (be) provisional."
-  ],
   "cf": [
     "instant.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used in between two phrases or clauses to mean the action in the second happens at the same time as the action in the first. English = while, during.",
-    "2. Used next to a verb to mean that the action of the verb lasts for only a short period of time. English = briefly, momentarily, fleetingly."
-  ],
-  "nomlex": [
-    "1. A relatively short period of time. English = while.",
-    "2. A short period of time between two events. English = interval. Formal English = interim."
   ],
   "signNumber": 6369,
   "recordNumber": 3806,
@@ -70,5 +53,22 @@
   "antonyms": [],
   "synonyms": [
     "when"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used in between two phrases or clauses to mean the action in the second happens at the same time as the action in the first. English = while, during.",
+    "2. Used next to a verb to mean that the action of the verb lasts for only a short period of time. English = briefly, momentarily, fleetingly."
+  ],
+  "verbLexeme": [
+    "1. To last for only a short period of time. English = (be) brief, (be) momentary, (be) fleeting.",
+    "2. To be intended to be used only until something more permanent is arranged or produced. English = (be) temporary. Formal English = (be) interim, (be) provisional."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A relatively short period of time. English = while.",
+    "2. A short period of time between two events. English = interval. Formal English = interim."
+  ],
+  "idGloss": "while.1a",
+  "oldEntry": ""
 }

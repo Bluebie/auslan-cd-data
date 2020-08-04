@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lecture.1a",
-  "oldentry": "",
   "english": [
     "lecture",
     "lecturer",
@@ -39,22 +35,8 @@
     "testify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give a talk in order to teach people about a particular subject. English = lecture.",
-    "2. To give a formal talk to lots of people. English = make a speech.",
-    "3. (When referring to a religious figure) to give a formal talk in a place of worship. English = preach, give a sermon.",
-    "4. To make a formal statement, especially in a court of law. English = testify."
-  ],
   "cf": [
     "speak"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A talk that someone gives in order to teach people about a particular subject. English = lecture.",
-    "2. A person who teaches at a university or college. English = lecturer.",
-    "3. A formal talk that someone gives to lots of people; a formal talk given by a religious figure. English = speech; sermon.",
-    "4. A formal statement that someone makes, especially in a court of law. English = testimony."
   ],
   "signNumber": 3256,
   "recordNumber": 1896,
@@ -64,5 +46,23 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give a talk in order to teach people about a particular subject. English = lecture.",
+    "2. To give a formal talk to lots of people. English = make a speech.",
+    "3. (When referring to a religious figure) to give a formal talk in a place of worship. English = preach, give a sermon.",
+    "4. To make a formal statement, especially in a court of law. English = testify."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A talk that someone gives in order to teach people about a particular subject. English = lecture.",
+    "2. A person who teaches at a university or college. English = lecturer.",
+    "3. A formal talk that someone gives to lots of people; a formal talk given by a religious figure. English = speech; sermon.",
+    "4. A formal statement that someone makes, especially in a court of law. English = testimony."
+  ],
+  "idGloss": "lecture.1a",
+  "oldEntry": ""
 }

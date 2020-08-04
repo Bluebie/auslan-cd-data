@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "OLD + F",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "old-fashioned.1",
-  "oldentry": "",
   "english": [
     "old-fashioned"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be no longer considered appropriate in style or design, because it has been replaced by something that is more modern. English = (be) old-fashioned.",
-    "2. Of a person, to believe in and behave according to the values and standards of the past. English = (be) old-fashioned."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2062,
   "recordNumber": 1204,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   ],
   "synonyms": [
     "old-fashioned.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be no longer considered appropriate in style or design, because it has been replaced by something that is more modern. English = (be) old-fashioned.",
+    "2. Of a person, to believe in and behave according to the values and standards of the past. English = (be) old-fashioned."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "old-fashioned.1",
+  "oldEntry": ""
 }

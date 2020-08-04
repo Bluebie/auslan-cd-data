@@ -21,10 +21,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bet.2a",
-  "oldentry": "",
   "english": [
     "bet",
     "wager",
@@ -32,19 +28,9 @@
     "owe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make an agreement with someone that if what you say will happen does happen, they will give you a sum of money, and if you are wrong you will give them a sum of money. English = bet. Formal English = wager.",
-    "2. To have borrowed money from someone and to have not yet paid it back. English = owe."
-  ],
   "cf": [
     "owe.1",
     "dice.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal English = wager.",
-    "2. The money that you have borrowed from someone and not yet paid back. English = debt."
   ],
   "signNumber": 224,
   "recordNumber": 132,
@@ -58,5 +44,19 @@
     "bet.1",
     "sue",
     "debt"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make an agreement with someone that if what you say will happen does happen, they will give you a sum of money, and if you are wrong you will give them a sum of money. English = bet. Formal English = wager.",
+    "2. To have borrowed money from someone and to have not yet paid it back. English = owe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal English = wager.",
+    "2. The money that you have borrowed from someone and not yet paid back. English = debt."
+  ],
+  "idGloss": "bet.2a",
+  "oldEntry": ""
 }

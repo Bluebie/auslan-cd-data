@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ugly.2",
-  "oldentry": "",
   "english": [
     "ugliness",
     "ugly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unattractive and unpleasant to look at. English = (be) ugly."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of being ugly. English = ugliness."
-  ],
   "signNumber": 1199,
   "recordNumber": 704,
   "signVisualComposition": "NOSE + FAULT",
@@ -47,5 +35,17 @@
   ],
   "synonyms": [
     "ugly.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unattractive and unpleasant to look at. English = (be) ugly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of being ugly. English = ugliness."
+  ],
+  "idGloss": "ugly.2",
+  "oldEntry": ""
 }

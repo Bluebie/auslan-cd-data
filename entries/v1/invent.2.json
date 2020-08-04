@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "invent.2",
-  "oldentry": "",
   "english": [
     "invention",
     "discovery",
@@ -34,17 +30,7 @@
     "innovate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think of or make something for the first time. English = invent, discover. Informal English = come up with something.",
-    "2. To introduce changes and new ideas. English = innovate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine, system (or even idea) that has been thought of or made for the first time by someone. English = invention, discovery.",
-    "2. A new thing or a new way of doing something. English = innovation."
-  ],
   "signNumber": 518,
   "recordNumber": 289,
   "signVisualComposition": "THINK + FIRST",
@@ -57,5 +43,19 @@
     "invent.1a",
     "find.1a",
     "find.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To think of or make something for the first time. English = invent, discover. Informal English = come up with something.",
+    "2. To introduce changes and new ideas. English = innovate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine, system (or even idea) that has been thought of or made for the first time by someone. English = invention, discovery.",
+    "2. A new thing or a new way of doing something. English = innovation."
+  ],
+  "idGloss": "invent.2",
+  "oldEntry": ""
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "The ASL sign on which this is based usually involves a circular movement.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reason",
-  "oldentry": "",
   "english": [
     "reason"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability people have to think and make judgements. English = reason."
-  ],
   "signNumber": 2177,
   "recordNumber": 1256,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "reasonable"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability people have to think and make judgements. English = reason."
+  ],
+  "idGloss": "reason",
+  "oldEntry": ""
 }

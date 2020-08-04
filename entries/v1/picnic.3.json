@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "CAKE + ?",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "picnic.3",
-  "oldentry": "",
   "english": [
     "picnic"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A meal eaten out of doors, usually in a field, wood, park or at the beach. English = picnic."
-  ],
   "signNumber": 3082,
   "recordNumber": 1769,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "picnic.1a",
     "picnic.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A meal eaten out of doors, usually in a field, wood, park or at the beach. English = picnic."
+  ],
+  "idGloss": "picnic.3",
+  "oldEntry": ""
 }

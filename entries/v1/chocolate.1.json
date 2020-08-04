@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "LOLLY + C",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chocolate.1",
-  "oldentry": "",
   "english": [
     "chocolate"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sweet, hard, brown food made from cocoa beans, which is eaten as a sweet. English = chocolate."
-  ],
   "signNumber": 5318,
   "recordNumber": 3183,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "chocolate.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sweet, hard, brown food made from cocoa beans, which is eaten as a sweet. English = chocolate."
+  ],
+  "idGloss": "chocolate.1",
+  "oldEntry": ""
 }

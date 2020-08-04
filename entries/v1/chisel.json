@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chisel",
-  "oldentry": "",
   "english": [
     "chisel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a chisel. English = chisel."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. English = chisel."
-  ],
   "signNumber": 2151,
   "recordNumber": 1244,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a chisel. English = chisel."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. English = chisel."
+  ],
+  "idGloss": "chisel",
+  "oldEntry": ""
 }

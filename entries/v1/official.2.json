@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "official.2",
-  "oldentry": "",
   "english": [
     "official"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something which is approved or has been decided by the government or by someone else in authority. English = official."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 400,
   "recordNumber": 219,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something which is approved or has been decided by the government or by someone else in authority. English = official."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "official.2",
+  "oldEntry": ""
 }

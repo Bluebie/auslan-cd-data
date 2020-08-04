@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "maid.2",
-  "oldentry": "",
   "english": [
     "maid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A woman who works as a servant in a hotel, private house or institution. English = maid."
-  ],
   "signNumber": 1445,
   "recordNumber": 862,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "maid.1a",
     "maid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A woman who works as a servant in a hotel, private house or institution. English = maid."
+  ],
+  "idGloss": "maid.2",
+  "oldEntry": ""
 }

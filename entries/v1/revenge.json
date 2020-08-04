@@ -20,30 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "revenge",
-  "oldentry": "Popular explanation: swap places with.",
   "english": [
     "revenge",
     "vengeance",
     "avenge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hurt or punish someone who has done something wrong or harmful to you. English = avenge. Idiomatic English = get one's own back.",
-    "2. To change the situation completely so that someone has the problems that they were trying to cause for you. Idiomatic English = turn the tables on someone.",
-    "3. To swap places with someone so that you experience what they were experiencing or vice versa."
-  ],
   "cf": [
     "change.1a",
     "about.face"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hurting of someone who has hurt you. English = revenge, vengeance.",
-    "2. A complete change in a situation so that the positions and experiences of two people are swapped. Idiomatic English = turn around."
   ],
   "signNumber": 933,
   "recordNumber": 532,
@@ -57,5 +42,20 @@
   ],
   "synonyms": [
     "grudge.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hurt or punish someone who has done something wrong or harmful to you. English = avenge. Idiomatic English = get one's own back.",
+    "2. To change the situation completely so that someone has the problems that they were trying to cause for you. Idiomatic English = turn the tables on someone.",
+    "3. To swap places with someone so that you experience what they were experiencing or vice versa."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hurting of someone who has hurt you. English = revenge, vengeance.",
+    "2. A complete change in a situation so that the positions and experiences of two people are swapped. Idiomatic English = turn around."
+  ],
+  "idGloss": "revenge",
+  "oldEntry": "Popular explanation: swap places with."
 }

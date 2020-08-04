@@ -16,24 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "venetian.blinds.2",
-  "oldentry": "Popular explanation: pulling strings on a blind.",
   "english": [
     "Venetian blind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate or adjust a Venetian blind.",
-    "2. To draw curtains."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A window blind made of thin horizontal strips of wood, plastic, or metal. The strips can be turned to a different angle in order to let in more or less light. English = Venetian blind."
-  ],
   "signNumber": 6142,
   "recordNumber": 3660,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "venetian.blinds.1",
     "curtains"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate or adjust a Venetian blind.",
+    "2. To draw curtains."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A window blind made of thin horizontal strips of wood, plastic, or metal. The strips can be turned to a different angle in order to let in more or less light. English = Venetian blind."
+  ],
+  "idGloss": "venetian.blinds.2",
+  "oldEntry": "Popular explanation: pulling strings on a blind."
 }

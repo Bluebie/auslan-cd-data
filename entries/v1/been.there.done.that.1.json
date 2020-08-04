@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "been.there.done.that.1",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "been.there.done.that.2"
   ],
-  "interj": [
-    "1. Used alone to mean that you have been to a place or know about or have experienced something already, especially when your addressee thinks you have not. English = 'Been there, done that!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6540,
   "recordNumber": 3894,
   "signVisualComposition": "TOUCH + FINISH",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you have been to a place or know about or have experienced something already, especially when your addressee thinks you have not. English = 'Been there, done that!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "been.there.done.that.1",
+  "oldEntry": ""
 }

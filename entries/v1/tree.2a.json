@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tree.2a",
-  "oldentry": "Popular explanation: the shape of a tree.",
   "english": [
     "tree"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tall plant with a hard trunk, branches, and leaves. English = tree."
-  ],
   "signNumber": 2848,
   "recordNumber": 1606,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "tree.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tall plant with a hard trunk, branches, and leaves. English = tree."
+  ],
+  "idGloss": "tree.2a",
+  "oldEntry": "Popular explanation: the shape of a tree."
 }

@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "THINK + TRUE + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.believe.1",
-  "oldentry": "",
   "english": [
     "disbelief",
     "disbeliever",
@@ -45,20 +41,7 @@
     "sceptical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not think that something is true; to think that something is false. English = not believe, disbelieve.",
-    "2. To be not at all certain that something is true or right; to have doubts about something. English = (be) unconvinced, (be) sceptical.",
-    "3. To not believe that there is a God."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The thought that something is not true, or false. English = disbelief.",
-    "2. A person who does not believe something; a person who has doubts about the truth of something. English = disbeliever, sceptic.",
-    "3. A person who does not believe that there is a God and/or does not believe in a religion. English = atheist, non-believer.",
-    "4. The belief that there is no God. English = atheism."
-  ],
   "signNumber": 1195,
   "recordNumber": 700,
   "signVisualComposition": "",
@@ -73,5 +56,22 @@
   ],
   "synonyms": [
     "not.believe.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not think that something is true; to think that something is false. English = not believe, disbelieve.",
+    "2. To be not at all certain that something is true or right; to have doubts about something. English = (be) unconvinced, (be) sceptical.",
+    "3. To not believe that there is a God."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thought that something is not true, or false. English = disbelief.",
+    "2. A person who does not believe something; a person who has doubts about the truth of something. English = disbeliever, sceptic.",
+    "3. A person who does not believe that there is a God and/or does not believe in a religion. English = atheist, non-believer.",
+    "4. The belief that there is no God. English = atheism."
+  ],
+  "idGloss": "not.believe.1",
+  "oldEntry": ""
 }

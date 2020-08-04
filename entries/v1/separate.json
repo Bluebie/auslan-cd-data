@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "separate",
-  "oldentry": "",
   "english": [
     "separation",
     "break up",
@@ -32,19 +28,7 @@
     "separately"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move apart from each other and no longer be connected. English = separate.",
-    "2. Of a married or de facto couple, to decide to live apart and end the relationship. English = separate. Idiomatic English = break up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after a verb sign to mean that the things involved or doing that action do so each one by itself, not together, and probably with a large distance between them. English = apart, separately."
-  ],
-  "nomlex": [
-    "1. The movement of two or more things away from each other so that they are no longer connected. English = separation.",
-    "2. Of a married or de facto couple, the act of living apart and deciding to end the relationship. English = separation. Idiomatic English = break up."
-  ],
   "signNumber": 3748,
   "recordNumber": 2212,
   "signVisualComposition": "",
@@ -59,5 +43,21 @@
   "synonyms": [
     "divorce.1a",
     "disconnect.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after a verb sign to mean that the things involved or doing that action do so each one by itself, not together, and probably with a large distance between them. English = apart, separately."
+  ],
+  "verbLexeme": [
+    "1. To move apart from each other and no longer be connected. English = separate.",
+    "2. Of a married or de facto couple, to decide to live apart and end the relationship. English = separate. Idiomatic English = break up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The movement of two or more things away from each other so that they are no longer connected. English = separation.",
+    "2. Of a married or de facto couple, the act of living apart and deciding to end the relationship. English = separation. Idiomatic English = break up."
+  ],
+  "idGloss": "separate",
+  "oldEntry": ""
 }

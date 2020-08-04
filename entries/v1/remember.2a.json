@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "remember.2a",
-  "oldentry": "",
   "english": [
     "remember",
     "recall",
     "recollect"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bring the thought and mental impression of something that happened in the past back into your mind now, at a later date. English = remember, recall, recollect."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1329,
   "recordNumber": 787,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   ],
   "synonyms": [
     "remember.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bring the thought and mental impression of something that happened in the past back into your mind now, at a later date. English = remember, recall, recollect."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "remember.2a",
+  "oldEntry": ""
 }

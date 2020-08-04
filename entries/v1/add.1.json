@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "add.1",
-  "oldentry": "",
   "english": [
     "addition",
     "add",
@@ -39,23 +35,9 @@
     "additionally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something in the same place as another thing. English = add.",
-    "2. To be a thing, person or amount which is added to others of the same kind, often when it is not really needed. English = (be) extra, (be) additional."
-  ],
   "cf": [
     "and.2",
     "exaggerate.1"
-  ],
-  "interj": [
-    "1. Used alone to encourage your addressee to add more details to their story. English = 'Continue!', 'Go on!', 'Tell me more!' etc."
-  ],
-  "partlex": [
-    "1. Used to introduce a piece of information or an opinion that adds to or supports the previous one. English = furthermore, additionally, in addition.",
-    "2. Used after the signs 'what', 'who' and 'where' to refer in a vague way to another thing, person, or place. English = else."
-  ],
-  "nomlex": [
-    "1. Something which as been put in the same place as another thing; an extra amount of something. English = addition."
   ],
   "signNumber": 4233,
   "recordNumber": 2561,
@@ -71,5 +53,23 @@
     "plus",
     "another",
     "other"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to encourage your addressee to add more details to their story. English = 'Continue!', 'Go on!', 'Tell me more!' etc."
+  ],
+  "particleLexeme": [
+    "1. Used to introduce a piece of information or an opinion that adds to or supports the previous one. English = furthermore, additionally, in addition.",
+    "2. Used after the signs 'what', 'who' and 'where' to refer in a vague way to another thing, person, or place. English = else."
+  ],
+  "verbLexeme": [
+    "1. To put something in the same place as another thing. English = add.",
+    "2. To be a thing, person or amount which is added to others of the same kind, often when it is not really needed. English = (be) extra, (be) additional."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which as been put in the same place as another thing; an extra amount of something. English = addition."
+  ],
+  "idGloss": "add.1",
+  "oldEntry": ""
 }

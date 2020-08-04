@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "big.1a",
-  "oldentry": "",
   "english": [
     "size",
     "width",
@@ -50,19 +46,7 @@
     "immense"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not small in size, especially in distance across something. English = (be) big, (be) large, (be) wide.",
-    "2. To become big or bigger, to get bigger.",
-    "3. To become larger, especially in the distance across something. English = get wider, widen.",
-    "4. (With amplification and stress), to be extremely big or wide. English = (be) enormous, (be) huge, (be) immense."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. How big or wide something is, especially when it is not small at all. English = (large) size, width.",
-    "2. The size of something when that thing is not small or not narrow. English = bigness, largeness, width."
-  ],
   "signNumber": 2696,
   "recordNumber": 1496,
   "signVisualComposition": "",
@@ -77,5 +61,21 @@
   "synonyms": [
     "wide",
     "big.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not small in size, especially in distance across something. English = (be) big, (be) large, (be) wide.",
+    "2. To become big or bigger, to get bigger.",
+    "3. To become larger, especially in the distance across something. English = get wider, widen.",
+    "4. (With amplification and stress), to be extremely big or wide. English = (be) enormous, (be) huge, (be) immense."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. How big or wide something is, especially when it is not small at all. English = (large) size, width.",
+    "2. The size of something when that thing is not small or not narrow. English = bigness, largeness, width."
+  ],
+  "idGloss": "big.1a",
+  "oldEntry": ""
 }

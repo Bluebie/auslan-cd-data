@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thermometer",
-  "oldentry": "Popular explanation: shaking a thermometer and then putting it in the mouth.",
   "english": [
     "thermometer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take someone's temperature using a thermometer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An instrument for measuring the temperature of a person's body. It usually consists of a narrow glass tube containing a thin column of mercury which rises and falls as the temperature rises and falls. English = thermometer."
-  ],
   "signNumber": 613,
   "recordNumber": 353,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take someone's temperature using a thermometer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An instrument for measuring the temperature of a person's body. It usually consists of a narrow glass tube containing a thin column of mercury which rises and falls as the temperature rises and falls. English = thermometer."
+  ],
+  "idGloss": "thermometer",
+  "oldEntry": "Popular explanation: shaking a thermometer and then putting it in the mouth."
 }

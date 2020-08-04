@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "LETTER + SEND",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "correspond.1a",
-  "oldentry": "",
   "english": [
     "letter",
     "missive",
@@ -36,19 +32,9 @@
     "apply"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send a written message on a piece of paper to someone, usually through the post. English = correspond.",
-    "2. To write formally to someone to ask to have something, especially to an employer for a job. English = apply."
-  ],
   "cf": [
     "glue.1",
     "stamp.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A message written on a piece of paper and which has been sent to someone, usually through the post. English = letter, missive, correspondence.",
-    "2. A formal written request to someone to ask to have something, especially a job from an employer. English = application."
   ],
   "signNumber": 4899,
   "recordNumber": 2961,
@@ -61,5 +47,19 @@
   "synonyms": [
     "letter",
     "letters.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send a written message on a piece of paper to someone, usually through the post. English = correspond.",
+    "2. To write formally to someone to ask to have something, especially to an employer for a job. English = apply."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A message written on a piece of paper and which has been sent to someone, usually through the post. English = letter, missive, correspondence.",
+    "2. A formal written request to someone to ask to have something, especially a job from an employer. English = application."
+  ],
+  "idGloss": "correspond.1a",
+  "oldEntry": ""
 }

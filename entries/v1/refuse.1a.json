@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "N + O",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "refuse.1a",
-  "oldentry": "",
   "english": [
     "refusal",
     "refuse",
     "decline"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say firmly that you will not do or accept something. English = refuse, decline."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of someone who says firmly that they will not do or accept something. English = refusal."
-  ],
   "signNumber": 2144,
   "recordNumber": 1240,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "no.1a",
     "no.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say firmly that you will not do or accept something. English = refuse, decline."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of someone who says firmly that they will not do or accept something. English = refusal."
+  ],
+  "idGloss": "refuse.1a",
+  "oldEntry": ""
 }

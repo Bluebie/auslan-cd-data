@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fortnight.1a",
-  "oldentry": "",
   "english": [
     "fortnight"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action happens every two weeks. English = fortnightly."
-  ],
-  "nomlex": [
-    "1. A period of two weeks. English = fortnight."
-  ],
   "signNumber": 1683,
   "recordNumber": 1006,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action happens every two weeks. English = fortnightly."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of two weeks. English = fortnight."
+  ],
+  "idGloss": "fortnight.1a",
+  "oldEntry": ""
 }

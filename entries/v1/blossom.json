@@ -11,20 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of a shell-like or flower-like object opening, or any object or action directly or indirectly associated with this, such as a blossom or bloom.",
-  "questlex": [],
-  "idgloss": "blossom",
-  "oldentry": "",
   "english": [
     "blossom",
     "bloom"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4593,
   "recordNumber": 2782,
   "signVisualComposition": "",
@@ -33,5 +25,13 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of a shell-like or flower-like object opening, or any object or action directly or indirectly associated with this, such as a blossom or bloom.",
+  "nominalLexeme": [],
+  "idGloss": "blossom",
+  "oldEntry": ""
 }

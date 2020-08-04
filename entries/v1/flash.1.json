@@ -13,25 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flash.1",
-  "oldentry": "Popular explanation: a flashing energy source.",
   "english": [
     "flash"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a source of light, to appear suddenly and then disappear. English = flash.",
-    "2. Of a source of sound, to give out a noise for a short period of time."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sudden brief appearance of light. English = flash.",
-    "2. A sudden brief sound, usually loud; a burst of sound; a blast of noise."
-  ],
   "signNumber": 82,
   "recordNumber": 46,
   "signVisualComposition": "",
@@ -40,5 +26,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a source of light, to appear suddenly and then disappear. English = flash.",
+    "2. Of a source of sound, to give out a noise for a short period of time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sudden brief appearance of light. English = flash.",
+    "2. A sudden brief sound, usually loud; a burst of sound; a blast of noise."
+  ],
+  "idGloss": "flash.1",
+  "oldEntry": "Popular explanation: a flashing energy source."
 }

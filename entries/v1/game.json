@@ -16,24 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "game",
-  "oldentry": "",
   "english": [
     "game",
     "activity"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "sport.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An activity or sport involving skill, knowledge, or chance, in which you follow rules and try to win against an opponent or try to solve a puzzle. English = game.",
-    "2. Something that you spend time doing usually for pleasure, amusement or in educational settings. English = activity."
   ],
   "signNumber": 4846,
   "recordNumber": 2929,
@@ -43,5 +32,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An activity or sport involving skill, knowledge, or chance, in which you follow rules and try to win against an opponent or try to solve a puzzle. English = game.",
+    "2. Something that you spend time doing usually for pleasure, amusement or in educational settings. English = activity."
+  ],
+  "idGloss": "game",
+  "oldEntry": ""
 }

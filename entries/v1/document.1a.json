@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A piece of paper with writing or printing on it, such as a lesson outline, menu, course outline, program, budget, calendar, story, text, or information, or any thing or any action directly associated with this, especially a document or story.",
-  "questlex": [],
-  "idgloss": "document.1a",
-  "oldentry": "",
   "english": [
     "document",
     "story",
@@ -46,20 +42,9 @@
     "text"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a description of imaginary or real events in order to entertain people. English = tell a story, recount a story.",
-    "2. To provide information, to explain, to describe."
-  ],
   "cf": [
     "course",
     "program"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Any piece of paper with writing or printing on it. English = text, document.",
-    "2. A description of imaginary or real events which is told in order to entertain people. English = story.",
-    "3. Facts, details and ideas which are communicated or received about something or someone. English = information."
   ],
   "signNumber": 4334,
   "recordNumber": 2641,
@@ -69,5 +54,20 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a description of imaginary or real events in order to entertain people. English = tell a story, recount a story.",
+    "2. To provide information, to explain, to describe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A piece of paper with writing or printing on it, such as a lesson outline, menu, course outline, program, budget, calendar, story, text, or information, or any thing or any action directly associated with this, especially a document or story.",
+  "nominalLexeme": [
+    "1. Any piece of paper with writing or printing on it. English = text, document.",
+    "2. A description of imaginary or real events which is told in order to entertain people. English = story.",
+    "3. Facts, details and ideas which are communicated or received about something or someone. English = information."
+  ],
+  "idGloss": "document.1a",
+  "oldEntry": ""
 }

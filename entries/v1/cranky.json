@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cranky",
-  "oldentry": "Popular explanation: the tensing and slackening mouth.",
   "english": [
     "crankiness",
     "grumpiness",
@@ -50,21 +46,7 @@
     "disagreeable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be ill-tempered or angry. English = (be) cranky, (be) cross.",
-    "2. To be bad-tempered and rather miserable. English = (be) grumpy. Informal English = (be) grouchy.",
-    "3. To be easily annoyed. English = (be) irritable, (be) disagreeable.",
-    "4. To pull a face in displeasure at something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being ill-tempered or angry. English = crankiness.",
-    "2. The feeling of being bad-tempered and rather miserable. English = grumpiness. Informal English = grouchiness.",
-    "3. A person who is bad-tempered and rather miserable. English = grump. Informal English = grouch.",
-    "3. The state of being easily annoyed. English = irritability."
-  ],
   "signNumber": 2463,
   "recordNumber": 1369,
   "signVisualComposition": "",
@@ -78,5 +60,23 @@
   ],
   "synonyms": [
     "cross.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be ill-tempered or angry. English = (be) cranky, (be) cross.",
+    "2. To be bad-tempered and rather miserable. English = (be) grumpy. Informal English = (be) grouchy.",
+    "3. To be easily annoyed. English = (be) irritable, (be) disagreeable.",
+    "4. To pull a face in displeasure at something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being ill-tempered or angry. English = crankiness.",
+    "2. The feeling of being bad-tempered and rather miserable. English = grumpiness. Informal English = grouchiness.",
+    "3. A person who is bad-tempered and rather miserable. English = grump. Informal English = grouch.",
+    "3. The state of being easily annoyed. English = irritability."
+  ],
+  "idGloss": "cranky",
+  "oldEntry": "Popular explanation: the tensing and slackening mouth."
 }

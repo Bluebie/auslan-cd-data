@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "caption.1a",
-  "oldentry": "",
   "english": [
     "caption",
     "captioning",
@@ -31,18 +27,7 @@
     "captioned"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To add sub-titles or captions to a film, video, or television program. English = caption.",
-    "2. Of a film, video or television program, to have printed words at the bottom of the screen as a translation or as an aid to the deaf and hearing-impaired. English = (be) sub-titled, (be) captioned."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The words printed underneath a picture or a cartoon which explain what it is about. English = caption.",
-    "2. The words printed at the bottom of the screen that enable deaf and hearing-impaired people to read what people are saying on television or video. English = captions, captioning.",
-    "3. The printed translations that you can read at the bottom of the screen when you are watching a foreign film. English = sub-titles."
-  ],
   "signNumber": 6482,
   "recordNumber": 3859,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To add sub-titles or captions to a film, video, or television program. English = caption.",
+    "2. Of a film, video or television program, to have printed words at the bottom of the screen as a translation or as an aid to the deaf and hearing-impaired. English = (be) sub-titled, (be) captioned."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The words printed underneath a picture or a cartoon which explain what it is about. English = caption.",
+    "2. The words printed at the bottom of the screen that enable deaf and hearing-impaired people to read what people are saying on television or video. English = captions, captioning.",
+    "3. The printed translations that you can read at the bottom of the screen when you are watching a foreign film. English = sub-titles."
+  ],
+  "idGloss": "caption.1a",
+  "oldEntry": ""
 }

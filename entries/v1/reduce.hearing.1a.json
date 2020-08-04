@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reduce.hearing.1a",
-  "oldentry": "",
   "english": [
     "hearing loss"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gradually lose one's hearing through aging or illness."
-  ],
   "cf": [
     "decrease.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The gradual loss of hearing that a person can experience through aging or illness; hearing loss."
   ],
   "signNumber": 3558,
   "recordNumber": 2086,
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "lose.hearing.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gradually lose one's hearing through aging or illness."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The gradual loss of hearing that a person can experience through aging or illness; hearing loss."
+  ],
+  "idGloss": "reduce.hearing.1a",
+  "oldEntry": ""
 }

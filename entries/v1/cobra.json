@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cobra",
-  "oldentry": "",
   "english": [
     "cobra"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A kind of poisonous snake. English = cobra."
-  ],
   "signNumber": 4066,
   "recordNumber": 2434,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A kind of poisonous snake. English = cobra."
+  ],
+  "idGloss": "cobra",
+  "oldEntry": ""
 }

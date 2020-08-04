@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bat",
-  "oldentry": "Popular explanation: a batting action.",
   "english": [
     "bat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a turn at hitting the ball in a game such as cricket, baseball, rounders, table-tennis, etc; to hit a ball with specially shaped piece of wood. English = bat."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A specially shaped piece of wood that is used for hitting the ball in games such as cricket, baseball, rounders, table-tennis, etc. English = bat."
-  ],
   "signNumber": 3337,
   "recordNumber": 1948,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "synonyms": [
     "cricket.1",
     "cricket.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a turn at hitting the ball in a game such as cricket, baseball, rounders, table-tennis, etc; to hit a ball with specially shaped piece of wood. English = bat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A specially shaped piece of wood that is used for hitting the ball in games such as cricket, baseball, rounders, table-tennis, etc. English = bat."
+  ],
+  "idGloss": "bat",
+  "oldEntry": "Popular explanation: a batting action."
 }

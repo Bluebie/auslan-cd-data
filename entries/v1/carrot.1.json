@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carrot.1",
-  "oldentry": "Popular explanation: the tapered shape of a carrot.",
   "english": [
     "carrot"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, thin, orange-coloured vegetable that grows under the ground. English = carrot."
-  ],
   "signNumber": 5307,
   "recordNumber": 3178,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "carrot.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, thin, orange-coloured vegetable that grows under the ground. English = carrot."
+  ],
+  "idGloss": "carrot.1",
+  "oldEntry": "Popular explanation: the tapered shape of a carrot."
 }

@@ -15,27 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rake",
-  "oldentry": "Popular explanation: a rake passing over the ground.",
   "english": [
     "rake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move a rake across a surface in order to make it smooth and level. English = rake.",
-    "2. To sweep up leaves or weeds using a rake. English = rake."
-  ],
   "cf": [
     "steal.1a",
     "scratch",
     "scratches"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A garden tool consisting of a row of metal teeth attached to a long handle. English = rake."
   ],
   "signNumber": 3106,
   "recordNumber": 1789,
@@ -45,5 +32,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move a rake across a surface in order to make it smooth and level. English = rake.",
+    "2. To sweep up leaves or weeds using a rake. English = rake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A garden tool consisting of a row of metal teeth attached to a long handle. English = rake."
+  ],
+  "idGloss": "rake",
+  "oldEntry": "Popular explanation: a rake passing over the ground."
 }

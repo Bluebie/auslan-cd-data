@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "CHANGE + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "repent.1",
-  "oldentry": "",
   "english": [
     "repent",
     "repentance"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel sorry for something bad that you have done in the past, especially if the motivation is religious. English = repent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Sorrow and regret that you feel for something bad that you have done in the past. English = repentance."
-  ],
   "signNumber": 2202.1,
   "recordNumber": 1262,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel sorry for something bad that you have done in the past, especially if the motivation is religious. English = repent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Sorrow and regret that you feel for something bad that you have done in the past. English = repentance."
+  ],
+  "idGloss": "repent.1",
+  "oldEntry": ""
 }

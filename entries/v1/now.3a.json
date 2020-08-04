@@ -25,10 +25,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "now.3a",
-  "oldentry": "",
   "english": [
     "present",
     "current",
@@ -38,21 +34,8 @@
     "nowadays"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be people or things that exist now, rather than those that existed in the past or those that may exist in the future. English = (be) present, (be) current.",
-    "2. Used immediately next to a sign which names a period of time ('morning', 'afternoon', 'night', 'year' etc.) to mean one of those periods of time which is happening now or closest to you. English = 'this morning', etc."
-  ],
   "cf": [
     "what.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence or immediately next to a verb to mean the action takes place at the time of talking, writing or signing and not some other time. English = now, at present, presently, currently, at the moment.",
-    "2. Used at the beginning of a sentence to mean the action takes place or the situation exists at this time in history. English = nowadays."
-  ],
-  "nomlex": [
-    "1. The present time of talking, writing or signing and not some other time. English = present.",
-    "2. [With stress, squint and/or grimace] the very instant at which you are signing, right now at the time of signing."
   ],
   "signNumber": 708,
   "recordNumber": 409,
@@ -67,5 +50,22 @@
   ],
   "synonyms": [
     "now.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence or immediately next to a verb to mean the action takes place at the time of talking, writing or signing and not some other time. English = now, at present, presently, currently, at the moment.",
+    "2. Used at the beginning of a sentence to mean the action takes place or the situation exists at this time in history. English = nowadays."
+  ],
+  "verbLexeme": [
+    "1. To be people or things that exist now, rather than those that existed in the past or those that may exist in the future. English = (be) present, (be) current.",
+    "2. Used immediately next to a sign which names a period of time ('morning', 'afternoon', 'night', 'year' etc.) to mean one of those periods of time which is happening now or closest to you. English = 'this morning', etc."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The present time of talking, writing or signing and not some other time. English = present.",
+    "2. [With stress, squint and/or grimace] the very instant at which you are signing, right now at the time of signing."
+  ],
+  "idGloss": "now.3a",
+  "oldEntry": ""
 }

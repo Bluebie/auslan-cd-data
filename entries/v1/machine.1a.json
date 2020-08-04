@@ -18,26 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "machine.1a",
-  "oldentry": "Popular explanation: moving cogs in an engine.",
   "english": [
     "machine",
     "factory",
     "run"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a machine or motor, to operate smoothly. English = run."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of equipment, especially one with turning wheels and cogs, which uses electricity or power from an engine. English = machine.",
-    "2. A large building or group of buildings where machines are used to make things in large quantities. English = factory."
-  ],
   "signNumber": 3040,
   "recordNumber": 1743,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
     "engine.1a",
     "factory.1",
     "motor"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a machine or motor, to operate smoothly. English = run."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of equipment, especially one with turning wheels and cogs, which uses electricity or power from an engine. English = machine.",
+    "2. A large building or group of buildings where machines are used to make things in large quantities. English = factory."
+  ],
+  "idGloss": "machine.1a",
+  "oldEntry": "Popular explanation: moving cogs in an engine."
 }

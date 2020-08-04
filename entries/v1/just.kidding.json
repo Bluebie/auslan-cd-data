@@ -10,22 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "just.kidding",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "kidding"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell your addressee that what has just happened is not to be taken seriously. English = 'Just kidding!'",
-    "2. Used alone to tell someone to be aware that what you are about to do to another person is just a joke and worth watching for its amusement value. English = 'Watch this...'."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 550,
   "recordNumber": 315,
   "signVisualComposition": "",
@@ -34,5 +23,16 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell your addressee that what has just happened is not to be taken seriously. English = 'Just kidding!'",
+    "2. Used alone to tell someone to be aware that what you are about to do to another person is just a joke and worth watching for its amusement value. English = 'Watch this...'."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "just.kidding",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

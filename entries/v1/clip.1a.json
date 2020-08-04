@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clip.1a",
-  "oldentry": "Popular explanation: putting a clip on something.",
   "english": [
     "clip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fasten a clip to something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small device, usually made of metal or plastic, that is specially shaped for holding things together. English = clip."
-  ],
   "signNumber": 5555,
   "recordNumber": 3286,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "clothes peg.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fasten a clip to something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small device, usually made of metal or plastic, that is specially shaped for holding things together. English = clip."
+  ],
+  "idGloss": "clip.1a",
+  "oldEntry": "Popular explanation: putting a clip on something."
 }

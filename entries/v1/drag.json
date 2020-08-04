@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drag",
-  "oldentry": "",
   "english": [
     "drag",
     "drag artist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man, especially an entertainer, to put on or be wearing women's clothes. English = (be) in drag."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of a man, especially an entertainer, wearing women's clothes. English = drag.",
-    "2. A man, particularly an entertainer, who wears women's clothes. English = drag, drag artist."
-  ],
   "signNumber": 2995,
   "recordNumber": 1706,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man, especially an entertainer, to put on or be wearing women's clothes. English = (be) in drag."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of a man, especially an entertainer, wearing women's clothes. English = drag.",
+    "2. A man, particularly an entertainer, who wears women's clothes. English = drag, drag artist."
+  ],
+  "idGloss": "drag",
+  "oldEntry": ""
 }

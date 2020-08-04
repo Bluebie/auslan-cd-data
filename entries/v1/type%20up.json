@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "type up",
-  "oldentry": "",
   "english": [
     "type up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To produce a typed form of your ideas, notes, or handwritten text. English = type up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3010,
   "recordNumber": 1719,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "type.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To produce a typed form of your ideas, notes, or handwritten text. English = type up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "type up",
+  "oldEntry": ""
 }

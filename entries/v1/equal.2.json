@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "equal.2",
-  "oldentry": "Popular explanation: the equal symbol.",
   "english": [
     "equal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two sets of numbers or entities, to be the same in size, amount, or degree. English = (be) equal to, equal."
-  ],
   "cf": [
     "make.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sign (=) which is used in arithmetic to indicate that two numbers or sets of number are equal."
   ],
   "signNumber": 1774,
   "recordNumber": 1069,
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "equal.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two sets of numbers or entities, to be the same in size, amount, or degree. English = (be) equal to, equal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sign (=) which is used in arithmetic to indicate that two numbers or sets of number are equal."
+  ],
+  "idGloss": "equal.2",
+  "oldEntry": "Popular explanation: the equal symbol."
 }

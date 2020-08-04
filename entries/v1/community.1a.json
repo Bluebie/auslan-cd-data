@@ -9,22 +9,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "community.1a",
-  "oldentry": "",
   "english": [
     "community"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "town.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The people who live in a particular area, or a particular group of people in society who are alike in some way. English = community."
   ],
   "signNumber": 3644,
   "recordNumber": 2146,
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The people who live in a particular area, or a particular group of people in society who are alike in some way. English = community."
+  ],
+  "idGloss": "community.1a",
+  "oldEntry": ""
 }

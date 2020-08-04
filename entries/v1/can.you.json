@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "can.you",
-  "oldentry": "",
   "english": [
     "amazing",
     "incredible"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to your addressee's comments to mean you are amazed and disbelieving of what you have been told. English = 'Incredible!', 'Amazing!', 'Well, I'll be damned!', and so on.",
-    "2. Used alone in response to your addressee's comments to mean you are amazed at what has been said or done and that you think it stupid or foolish. English = 'Ridiculous!', 'How could you!', 'How dare you!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5078,
   "recordNumber": 3063,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "incredible.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to your addressee's comments to mean you are amazed and disbelieving of what you have been told. English = 'Incredible!', 'Amazing!', 'Well, I'll be damned!', and so on.",
+    "2. Used alone in response to your addressee's comments to mean you are amazed at what has been said or done and that you think it stupid or foolish. English = 'Ridiculous!', 'How could you!', 'How dare you!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "can.you",
+  "oldEntry": ""
 }

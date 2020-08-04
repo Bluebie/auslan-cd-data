@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "Apparently a modified form of the ASL loan sign 'cafeteria' (which is actually identical to the Auslan sign 'cousin').",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "canteen",
-  "oldentry": "",
   "english": [
     "cafe",
     "cafeteria",
     "canteen"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where you can buy drinks, especially coffee, and light meals or snacks. English = cafe.",
-    "2. A restaurant where you choose your food from a counter and carry it to your table yourself after paying for it. English = cafeteria.",
-    "3. A place in a factory or other place of work where the people who work there can eat. English = canteen."
-  ],
   "signNumber": 4494,
   "recordNumber": 2731,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where you can buy drinks, especially coffee, and light meals or snacks. English = cafe.",
+    "2. A restaurant where you choose your food from a counter and carry it to your table yourself after paying for it. English = cafeteria.",
+    "3. A place in a factory or other place of work where the people who work there can eat. English = canteen."
+  ],
+  "idGloss": "canteen",
+  "oldEntry": ""
 }

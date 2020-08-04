@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cart",
-  "oldentry": "Popular explanation: holding the reins.",
   "english": [
     "cart",
     "sulky",
@@ -31,18 +27,7 @@
     "trotting"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ride a horse and cart."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An old fashioned wooden vehicle that is used for transporting goods or people. It is pulled by animals, especially horses. English = cart.",
-    "2. A light two-wheeled one-horse carriage. English = sulky.",
-    "3. Thin leather straps attached to a horse's bridle, which you hold and use for controlling the horse when you are riding it or pulling a vehicle. English = reins.",
-    "4. Races for trotting or pacing horses. English = trots, trotting."
-  ],
   "signNumber": 6177,
   "recordNumber": 3688,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ride a horse and cart."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An old fashioned wooden vehicle that is used for transporting goods or people. It is pulled by animals, especially horses. English = cart.",
+    "2. A light two-wheeled one-horse carriage. English = sulky.",
+    "3. Thin leather straps attached to a horse's bridle, which you hold and use for controlling the horse when you are riding it or pulling a vehicle. English = reins.",
+    "4. Races for trotting or pacing horses. English = trots, trotting."
+  ],
+  "idGloss": "cart",
+  "oldEntry": "Popular explanation: holding the reins."
 }

@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mobile-phone",
-  "oldentry": "",
   "english": [
     "mobile-phone"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a mobile-phone."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small cordless portable telephone that you can take with you anywhere and make and receive calls. English = mobile-phone."
-  ],
   "signNumber": 4477.1,
   "recordNumber": 2720,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a mobile-phone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small cordless portable telephone that you can take with you anywhere and make and receive calls. English = mobile-phone."
+  ],
+  "idGloss": "mobile-phone",
+  "oldEntry": ""
 }

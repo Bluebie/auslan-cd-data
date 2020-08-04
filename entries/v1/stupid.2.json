@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stupid.2",
-  "oldentry": "",
   "english": [
     "foolishness",
     "idiocy",
@@ -48,20 +44,7 @@
     "crazy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say or do things which are foolish, silly or strange. English = (be) mad, (be) stupid, (be) crazy, (be) idiotic. Informal English = (be) loony.",
-    "2. To fool or take advantage of someone."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you think what someone has said is untrue, stupid or foolish. English = 'Nonsense!', 'Rubbish!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which is foolish, silly or strange. English = foolishness, idiocy, craziness, stupidity.",
-    "2. A person whose behaviour is foolish, silly or strange. English = fool, idiot, madman. Informal English = loony.",
-    "3. Something written or said that you think is untrue, foolish or stupid. English = nonsense."
-  ],
   "signNumber": 5971,
   "recordNumber": 3551,
   "signVisualComposition": "",
@@ -72,5 +55,22 @@
   "antonyms": [],
   "synonyms": [
     "stupid.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you think what someone has said is untrue, stupid or foolish. English = 'Nonsense!', 'Rubbish!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say or do things which are foolish, silly or strange. English = (be) mad, (be) stupid, (be) crazy, (be) idiotic. Informal English = (be) loony.",
+    "2. To fool or take advantage of someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which is foolish, silly or strange. English = foolishness, idiocy, craziness, stupidity.",
+    "2. A person whose behaviour is foolish, silly or strange. English = fool, idiot, madman. Informal English = loony.",
+    "3. Something written or said that you think is untrue, foolish or stupid. English = nonsense."
+  ],
+  "idGloss": "stupid.2",
+  "oldEntry": ""
 }

@@ -13,26 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spear",
-  "oldentry": "Popular explanation: throwing a spear.",
   "english": [
     "spear",
     "javelin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To throw a spear, to spear.",
-    "2. To throw a javelin."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A weapon consisting of a long pole with a sharp point. English = spear.",
-    "2. A long spear which is used in sports competitions. English = javelin."
-  ],
   "signNumber": 5589,
   "recordNumber": 3308,
   "signVisualComposition": "",
@@ -41,5 +27,19 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To throw a spear, to spear.",
+    "2. To throw a javelin."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A weapon consisting of a long pole with a sharp point. English = spear.",
+    "2. A long spear which is used in sports competitions. English = javelin."
+  ],
+  "idGloss": "spear",
+  "oldEntry": "Popular explanation: throwing a spear."
 }

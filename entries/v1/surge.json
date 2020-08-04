@@ -18,31 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "surge",
-  "oldentry": "",
   "english": [
     "surge",
     "flash",
     "roar"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To emit or let out a sudden outburst of light, sound, or energy.",
-    "2. To move forward, out of, or from something suddenly and with great energy. English = surge.",
-    "3. To emit a sudden outburst of light. English = flash.",
-    "4. Of an animal, to emit a sudden outburst of loud noise from its mouth. English = roar."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sudden outpouring or emission of light, sound, or energy from some source.",
-    "2. A sudden great increase in something. English = surge.",
-    "3. A sudden outburst of light. English = flash.",
-    "4. A sudden outburst of loud noise from the mouth of an animal. English = roar."
-  ],
   "signNumber": 5764,
   "recordNumber": 3416,
   "signVisualComposition": "",
@@ -51,5 +33,23 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To emit or let out a sudden outburst of light, sound, or energy.",
+    "2. To move forward, out of, or from something suddenly and with great energy. English = surge.",
+    "3. To emit a sudden outburst of light. English = flash.",
+    "4. Of an animal, to emit a sudden outburst of loud noise from its mouth. English = roar."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sudden outpouring or emission of light, sound, or energy from some source.",
+    "2. A sudden great increase in something. English = surge.",
+    "3. A sudden outburst of light. English = flash.",
+    "4. A sudden outburst of loud noise from the mouth of an animal. English = roar."
+  ],
+  "idGloss": "surge",
+  "oldEntry": ""
 }

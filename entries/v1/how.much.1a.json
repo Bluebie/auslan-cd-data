@@ -18,12 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [
-    "1. Used to ask the amount of money that must be paid in order to buy something. English = How much?"
-  ],
-  "idgloss": "how.much.1a",
-  "oldentry": "",
   "english": [
     "price",
     "cost",
@@ -31,16 +25,9 @@
     "how much"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "when",
     "how.old"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The amount of money you must pay in order to buy something. English = price, cost.",
-    "2. The amount of money you must pay in order to buy something, especially a service rather than a thing. English = charge."
   ],
   "signNumber": 2464,
   "recordNumber": 1370,
@@ -50,5 +37,18 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "1. Used to ask the amount of money that must be paid in order to buy something. English = How much?"
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The amount of money you must pay in order to buy something. English = price, cost.",
+    "2. The amount of money you must pay in order to buy something, especially a service rather than a thing. English = charge."
+  ],
+  "idGloss": "how.much.1a",
+  "oldEntry": ""
 }

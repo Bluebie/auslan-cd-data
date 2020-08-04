@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hairdresser.1a",
-  "oldentry": "Popular explanation: cutting hair.",
   "english": [
     "hairdressing",
     "hairdresser",
     "hair cut"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut someone's hair, or to have someone cut your hair."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity or occupation of cutting, washing, and styling people's hair. English = hairdressing.",
-    "2. A person who cuts, washes and styles people's hair. English = hairdresser.",
-    "3. The style in which you hair has been cut. English = hair cut."
-  ],
   "signNumber": 1531,
   "recordNumber": 911,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "antonyms": [],
   "synonyms": [
     "barber"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut someone's hair, or to have someone cut your hair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity or occupation of cutting, washing, and styling people's hair. English = hairdressing.",
+    "2. A person who cuts, washes and styles people's hair. English = hairdresser.",
+    "3. The style in which you hair has been cut. English = hair cut."
+  ],
+  "idGloss": "hairdresser.1a",
+  "oldEntry": "Popular explanation: cutting hair."
 }

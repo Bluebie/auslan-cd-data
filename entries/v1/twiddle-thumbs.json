@@ -9,21 +9,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "twiddle-thumbs",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To move your thumbs around each other while your fingers are linked together because you are bored or because you have nothing else to do. Idiomatic English = twiddle your thumbs."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you are bored by something or tired of waiting and that you want this to end or that you want to be given something to do."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2668,
   "recordNumber": 1484,
   "signVisualComposition": "",
@@ -32,5 +20,17 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you are bored by something or tired of waiting and that you want this to end or that you want to be given something to do."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your thumbs around each other while your fingers are linked together because you are bored or because you have nothing else to do. Idiomatic English = twiddle your thumbs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "twiddle-thumbs",
+  "oldEntry": ""
 }

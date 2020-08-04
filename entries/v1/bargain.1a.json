@@ -20,10 +20,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bargain.1a",
-  "oldentry": "",
   "english": [
     "bargain",
     "discount",
@@ -33,17 +29,7 @@
     "discount"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be low in price and be affordable; or to make low in price. English = (be) cheap; cheapen.",
-    "2. To be lower in price than normal; or to make lower in price than normal. English = (be) discounted; discount."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is low in price and affordable. English = bargain.",
-    "2. A reduction in the normal price of something. English = discount."
-  ],
   "signNumber": 4228,
   "recordNumber": 2558,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   ],
   "synonyms": [
     "decrease.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be low in price and be affordable; or to make low in price. English = (be) cheap; cheapen.",
+    "2. To be lower in price than normal; or to make lower in price than normal. English = (be) discounted; discount."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is low in price and affordable. English = bargain.",
+    "2. A reduction in the normal price of something. English = discount."
+  ],
+  "idGloss": "bargain.1a",
+  "oldEntry": ""
 }

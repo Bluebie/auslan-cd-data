@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wheelchair.2",
-  "oldentry": "Popular explanation: operating a wheelchair.",
   "english": [
     "wheelchair"
   ],
   "deictic": [],
-  "verblex": [
-    "2. To operate a wheelchair."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A chair with wheels that ill or injured people use in order to move about, when they cannot walk. English = wheelchair."
-  ],
   "signNumber": 5938,
   "recordNumber": 3537,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "wheelchair.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "2. To operate a wheelchair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A chair with wheels that ill or injured people use in order to move about, when they cannot walk. English = wheelchair."
+  ],
+  "idGloss": "wheelchair.2",
+  "oldEntry": "Popular explanation: operating a wheelchair."
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "syllabus",
-  "oldentry": "",
   "english": [
     "syllabus"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One particular course of study that is taught in a school, college, or university. English = syllabus."
-  ],
   "signNumber": 6041,
   "recordNumber": 3596,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "curriculum"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One particular course of study that is taught in a school, college, or university. English = syllabus."
+  ],
+  "idGloss": "syllabus",
+  "oldEntry": ""
 }

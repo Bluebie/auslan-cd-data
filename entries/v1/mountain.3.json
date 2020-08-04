@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mountain.3",
-  "oldentry": "",
   "english": [
     "mountain"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "mountain.1a",
     "hill"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very high piece of land with steep sides which are difficult to climb English = mountain."
   ],
   "signNumber": 3173.1,
   "recordNumber": 1842,
@@ -40,5 +30,15 @@
   "antonyms": [
     "high.flat.surface.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very high piece of land with steep sides which are difficult to climb English = mountain."
+  ],
+  "idGloss": "mountain.3",
+  "oldEntry": ""
 }

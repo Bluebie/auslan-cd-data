@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "maths",
-  "oldentry": "",
   "english": [
     "mathematics",
     "maths"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A subject which involves the study of numbers, quantities, or shapes. English = mathematics, maths."
-  ],
   "signNumber": 2857,
   "recordNumber": 1612,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "mathematics"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A subject which involves the study of numbers, quantities, or shapes. English = mathematics, maths."
+  ],
+  "idGloss": "maths",
+  "oldEntry": ""
 }

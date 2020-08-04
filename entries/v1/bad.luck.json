@@ -21,10 +21,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bad.luck",
-  "oldentry": "",
   "english": [
     "bad luck",
     "misfortune",
@@ -32,21 +28,8 @@
     "unfortunately"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have bad luck. English = unlucky. Formal English = unfortunate."
-  ],
   "cf": [
     "shame"
-  ],
-  "interj": [
-    "1. Used to express sympathy for someone who has failed to do something or failed to get something. English = 'Bad luck!', 'Hard luck!', 'Shame!', 'What a pity!' and so on.",
-    "2. Used to express a lack of sympathy for someone, especially someone you do not like, who has failed to do something or failed to get something. English = 'Bad luck!', 'Tough!' and so on."
-  ],
-  "partlex": [
-    "1. Used to express regret about what you are saying. English = unfortunately."
-  ],
-  "nomlex": [
-    "1. A lack of success or bad things that happen to you, that have not been caused by yourself or other people. English = bad luck. Formal English = misfortune."
   ],
   "signNumber": 6639,
   "recordNumber": 3953,
@@ -60,5 +43,22 @@
   ],
   "synonyms": [
     "terrible"
-  ]
+  ],
+  "interjection": [
+    "1. Used to express sympathy for someone who has failed to do something or failed to get something. English = 'Bad luck!', 'Hard luck!', 'Shame!', 'What a pity!' and so on.",
+    "2. Used to express a lack of sympathy for someone, especially someone you do not like, who has failed to do something or failed to get something. English = 'Bad luck!', 'Tough!' and so on."
+  ],
+  "particleLexeme": [
+    "1. Used to express regret about what you are saying. English = unfortunately."
+  ],
+  "verbLexeme": [
+    "1. To have bad luck. English = unlucky. Formal English = unfortunate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A lack of success or bad things that happen to you, that have not been caused by yourself or other people. English = bad luck. Formal English = misfortune."
+  ],
+  "idGloss": "bad.luck",
+  "oldEntry": ""
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "switch.over.1a",
-  "oldentry": "",
   "english": [
     "switch",
     "changeover",
@@ -37,19 +33,8 @@
     "revert"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To change from one thing to another thing, especially its opposite. English = switch, changeover, convert, invert.",
-    "2. To change or be changed from one thing to another thing, especially its opposite in direction or orientation, so that it faces in the opposite direction. English = invert, turn upside down; (be) inverted, (be) upside down.",
-    "3. To change back to something else that was the case before. English = revert."
-  ],
   "cf": [
     "change.mind"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A change from one thing to another thing, especially its opposite. English = switch, changeover, conversion, inversion.",
-    "2. A change back to something else that was the case before. English = reversion."
   ],
   "signNumber": 1607,
   "recordNumber": 957,
@@ -59,5 +44,20 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To change from one thing to another thing, especially its opposite. English = switch, changeover, convert, invert.",
+    "2. To change or be changed from one thing to another thing, especially its opposite in direction or orientation, so that it faces in the opposite direction. English = invert, turn upside down; (be) inverted, (be) upside down.",
+    "3. To change back to something else that was the case before. English = revert."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A change from one thing to another thing, especially its opposite. English = switch, changeover, conversion, inversion.",
+    "2. A change back to something else that was the case before. English = reversion."
+  ],
+  "idGloss": "switch.over.1a",
+  "oldEntry": ""
 }

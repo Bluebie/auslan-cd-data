@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A long tapering object or any action or any thing directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "parsnip",
-  "oldentry": "",
   "english": [
     "parsnip"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, thick, pale cream vegetable that grows under the ground. English = parsnip."
-  ],
   "signNumber": 4437,
   "recordNumber": 2696,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A long tapering object or any action or any thing directly or indirectly associated with this.",
+  "nominalLexeme": [
+    "1. A long, thick, pale cream vegetable that grows under the ground. English = parsnip."
+  ],
+  "idGloss": "parsnip",
+  "oldEntry": ""
 }

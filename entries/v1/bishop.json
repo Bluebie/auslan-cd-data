@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bishop",
-  "oldentry": "",
   "english": [
     "bishop"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A clergyman of high rank, especially in the Roman Catholic, Anglican, and Orthodox churches. English = bishop."
-  ],
   "signNumber": 2934,
   "recordNumber": 1666,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A clergyman of high rank, especially in the Roman Catholic, Anglican, and Orthodox churches. English = bishop."
+  ],
+  "idGloss": "bishop",
+  "oldEntry": ""
 }

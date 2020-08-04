@@ -9,21 +9,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "check.2",
-  "oldentry": "",
   "english": [
     "check"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make sure that something is satisfactory, safe, or correct. English = check."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2383,
   "recordNumber": 1313,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "antonyms": [],
   "synonyms": [
     "check.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make sure that something is satisfactory, safe, or correct. English = check."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "check.2",
+  "oldEntry": ""
 }

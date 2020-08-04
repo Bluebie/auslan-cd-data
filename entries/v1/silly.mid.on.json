@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "silly.mid.on",
-  "oldentry": "",
   "english": [
     "silly mid on"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "wicket-keeper.1",
     "wicket-keeper.2",
     "cricket.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In cricket, fielding positions close in to the batsman's wicket. English = silly mid-on, silly mid-off."
   ],
   "signNumber": 6562,
   "recordNumber": 3912,
@@ -40,5 +30,15 @@
   "primaryLocation": 3,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In cricket, fielding positions close in to the batsman's wicket. English = silly mid-on, silly mid-off."
+  ],
+  "idGloss": "silly.mid.on",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fly.3",
-  "oldentry": "",
   "english": [
     "fly",
     "pants",
@@ -29,19 +25,10 @@
     "jeans"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a pair of trousers, pants or jeans that has a fly."
-  ],
   "cf": [
     "fly.open",
     "fly.close",
     "zip.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The front opening on a pair of trousers. English = fly.",
-    "2. A pair of pants or trousers that has a fly, especially a pair of jeans."
   ],
   "signNumber": 6190,
   "recordNumber": 3698,
@@ -51,5 +38,18 @@
   "primaryLocation": 17,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a pair of trousers, pants or jeans that has a fly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The front opening on a pair of trousers. English = fly.",
+    "2. A pair of pants or trousers that has a fly, especially a pair of jeans."
+  ],
+  "idGloss": "fly.3",
+  "oldEntry": ""
 }

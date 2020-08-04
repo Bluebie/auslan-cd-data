@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "distinguished",
-  "oldentry": "",
   "english": [
     "style",
     "class",
@@ -47,22 +43,9 @@
     "formal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very successful, famous, or important; to have a lot of money and a high standard of living. English = (be) distinguished, (be) prestigious, (be) reputable; (be) affluent, (be) wealthy, (be) well off.",
-    "2. To show experience in social situations and know about culture, fashion, and other matters that are considered socially important; to be smart, elegant, and fashionable. English = (be) sophisticated, (be) stylish. Informal English = (be) classy.",
-    "3. To be intellectual, academic, and difficult to understand. English = highbrow.",
-    "4. Of events, to be not casual or to require smart clothes and correct behaviour. English = (be) formal."
-  ],
   "cf": [
     "top.1",
     "important.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being smart and elegant, or being sophisticated. English = style, class. sophistication.",
-    "2. The state of having a lot of money and a high standard of living. English = affluence.",
-    "3. The quality you have when people admire you because of your position in society or the high quality of your work. English = prestige."
   ],
   "signNumber": 2918,
   "recordNumber": 1655,
@@ -72,5 +55,22 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very successful, famous, or important; to have a lot of money and a high standard of living. English = (be) distinguished, (be) prestigious, (be) reputable; (be) affluent, (be) wealthy, (be) well off.",
+    "2. To show experience in social situations and know about culture, fashion, and other matters that are considered socially important; to be smart, elegant, and fashionable. English = (be) sophisticated, (be) stylish. Informal English = (be) classy.",
+    "3. To be intellectual, academic, and difficult to understand. English = highbrow.",
+    "4. Of events, to be not casual or to require smart clothes and correct behaviour. English = (be) formal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being smart and elegant, or being sophisticated. English = style, class. sophistication.",
+    "2. The state of having a lot of money and a high standard of living. English = affluence.",
+    "3. The quality you have when people admire you because of your position in society or the high quality of your work. English = prestige."
+  ],
+  "idGloss": "distinguished",
+  "oldEntry": ""
 }

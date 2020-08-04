@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vomit.1a",
-  "oldentry": "Popular explanation: vomit leaving the body.",
   "english": [
     "vomit",
     "chunder",
@@ -31,17 +27,8 @@
     "throw up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have food and drink come back from your stomach and out through your mouth, usually because you are ill. English = vomit, (be) sick. Idiomatic English = throw up. Informal English = chunder."
-  ],
   "cf": [
     "not.want"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Partly digested food and drink that has come back up from someone's stomach and out through their mouth. English = vomit. Informal English = chunder.",
-    "2. The act of ejecting food and drink from your stomach and out through your mouth, usually because you are ill. English = vomiting."
   ],
   "signNumber": 2508,
   "recordNumber": 1394,
@@ -51,5 +38,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have food and drink come back from your stomach and out through your mouth, usually because you are ill. English = vomit, (be) sick. Idiomatic English = throw up. Informal English = chunder."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Partly digested food and drink that has come back up from someone's stomach and out through their mouth. English = vomit. Informal English = chunder.",
+    "2. The act of ejecting food and drink from your stomach and out through your mouth, usually because you are ill. English = vomiting."
+  ],
+  "idGloss": "vomit.1a",
+  "oldEntry": "Popular explanation: vomit leaving the body."
 }

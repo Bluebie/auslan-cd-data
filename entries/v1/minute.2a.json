@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "minute.2a",
-  "oldentry": "",
   "english": [
     "minutes"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "hour.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Some of the sixty equal parts of an hour. English = minutes.",
-    "2. The written records of what is said or decided at a meeting. English = minutes."
   ],
   "signNumber": 1351,
   "recordNumber": 797,
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "minute.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Some of the sixty equal parts of an hour. English = minutes.",
+    "2. The written records of what is said or decided at a meeting. English = minutes."
+  ],
+  "idGloss": "minute.2a",
+  "oldEntry": ""
 }

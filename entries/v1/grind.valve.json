@@ -10,19 +10,9 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "The act of rubbing your palms together or rubbing, scraping, or grinding anything between two other objects, or any thing or any action directly or indirectly associated with this, especially griding the valves of a car.",
-  "questlex": [],
-  "idgloss": "grind.valve",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To grind the valves of a car engine."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3765,
   "recordNumber": 2227,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To grind the valves of a car engine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of rubbing your palms together or rubbing, scraping, or grinding anything between two other objects, or any thing or any action directly or indirectly associated with this, especially griding the valves of a car.",
+  "nominalLexeme": [],
+  "idGloss": "grind.valve",
+  "oldEntry": ""
 }

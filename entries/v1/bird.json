@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bird",
-  "oldentry": "Popular explanation: the beak of a bird opening and closing.",
   "english": [
     "bird",
     "chicken",
@@ -36,19 +32,7 @@
     "birdie"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sing or twitter like a bird.",
-    "2. To be afraid to do something. Informal English = (be) chicken."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A creature with feathers and wings. Most of them can fly. The females lay eggs. English = bird.",
-    "2. Birds which are kept on a farm for their eggs and for their meat; the meat of such birds. English = chickens, fowl; chicken, poultry.",
-    "3. A person who is afraid to do something. Informal English = chicken.",
-    "4. In golf, the act of getting the golf ball into the hole in one stroke fewer than the number that is thought a good golfer should take. English = birdie."
-  ],
   "signNumber": 5119,
   "recordNumber": 3092,
   "signVisualComposition": "",
@@ -59,5 +43,21 @@
   "antonyms": [],
   "synonyms": [
     "peck.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sing or twitter like a bird.",
+    "2. To be afraid to do something. Informal English = (be) chicken."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A creature with feathers and wings. Most of them can fly. The females lay eggs. English = bird.",
+    "2. Birds which are kept on a farm for their eggs and for their meat; the meat of such birds. English = chickens, fowl; chicken, poultry.",
+    "3. A person who is afraid to do something. Informal English = chicken.",
+    "4. In golf, the act of getting the golf ball into the hole in one stroke fewer than the number that is thought a good golfer should take. English = birdie."
+  ],
+  "idGloss": "bird",
+  "oldEntry": "Popular explanation: the beak of a bird opening and closing."
 }

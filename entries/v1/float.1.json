@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "float.1",
-  "oldentry": "",
   "english": [
     "float"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to lying or moving slowly along the surface of water. English = float."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1693,
   "recordNumber": 1012,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "float.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to lying or moving slowly along the surface of water. English = float."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "float.1",
+  "oldEntry": ""
 }

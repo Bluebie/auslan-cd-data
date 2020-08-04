@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "block.2",
-  "oldentry": "Popular explanation: bound hands.",
   "english": [
     "blockage",
     "obstacle",
@@ -47,21 +43,7 @@
     "bind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something across a road, channel, pipe, or way so that nothing can get through or to stop; to not allow something happening. English = block, obstruct; prevent.",
-    "2. To catch an animal, bird or person using a trap. English = trap.",
-    "3. To be caught in an unpleasant situation, or to be unable to move; of an engine or a device that has moving parts, to stop normal functioning. English = (be) trapped, (be) stuck; seize up, (be) stuck.",
-    "4. To tie a piece of string or rope tightly round someone's hands; of hands, to be tied tightly together with string or rope. English = bind; (be) bound."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where something is blocking a pipe, tube, channel, road, or way; something that makes it difficult to go where you want to go or do what you want to do. English = blockage; obstacle.",
-    "2. Something such as a piece of equipment or a hole that is carefully positioned in order to catch animals or birds; a trick that is intended to catch or deceive someone. English = trap.",
-    "3. The condition where a device that normally has moving parts suddenly stops working and the parts do not move. English = seizure, stoppage.",
-    "4. The act of stopping or not allowing something to happen. English = prevention."
-  ],
   "signNumber": 5905,
   "recordNumber": 3510,
   "signVisualComposition": "",
@@ -70,5 +52,23 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put something across a road, channel, pipe, or way so that nothing can get through or to stop; to not allow something happening. English = block, obstruct; prevent.",
+    "2. To catch an animal, bird or person using a trap. English = trap.",
+    "3. To be caught in an unpleasant situation, or to be unable to move; of an engine or a device that has moving parts, to stop normal functioning. English = (be) trapped, (be) stuck; seize up, (be) stuck.",
+    "4. To tie a piece of string or rope tightly round someone's hands; of hands, to be tied tightly together with string or rope. English = bind; (be) bound."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where something is blocking a pipe, tube, channel, road, or way; something that makes it difficult to go where you want to go or do what you want to do. English = blockage; obstacle.",
+    "2. Something such as a piece of equipment or a hole that is carefully positioned in order to catch animals or birds; a trick that is intended to catch or deceive someone. English = trap.",
+    "3. The condition where a device that normally has moving parts suddenly stops working and the parts do not move. English = seizure, stoppage.",
+    "4. The act of stopping or not allowing something to happen. English = prevention."
+  ],
+  "idGloss": "block.2",
+  "oldEntry": "Popular explanation: bound hands."
 }

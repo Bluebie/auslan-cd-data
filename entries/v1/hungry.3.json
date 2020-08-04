@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hungry.3",
-  "oldentry": "",
   "english": [
     "hungry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want to eat food. English = (be) hungry."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 657,
   "recordNumber": 383,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "hungry.1",
     "hungry.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want to eat food. English = (be) hungry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hungry.3",
+  "oldEntry": ""
 }

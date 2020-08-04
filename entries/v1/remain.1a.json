@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "remain.1a",
-  "oldentry": "",
   "english": [
     "remain",
     "stay",
     "still"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be somewhere and not to move away. English = remain, stay."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action started happening before the time of speaking or some other time, and continues to happen now (or until some other time) without having stopped. English = still."
-  ],
-  "nomlex": [
-    "1. The act of being in a place and not moving away."
-  ],
   "signNumber": 1471,
   "recordNumber": 878,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
     "continue.1a",
     "stay.1a",
     "still.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action started happening before the time of speaking or some other time, and continues to happen now (or until some other time) without having stopped. English = still."
+  ],
+  "verbLexeme": [
+    "1. To be somewhere and not to move away. English = remain, stay."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of being in a place and not moving away."
+  ],
+  "idGloss": "remain.1a",
+  "oldEntry": ""
 }

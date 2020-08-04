@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "open-minded",
-  "oldentry": "",
   "english": [
     "open-mindedness",
     "broad-mindedness",
@@ -34,17 +30,7 @@
     "liberal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be willing to consider new ideas and other people's opinions. English = (be) open-minded, (be) broad-minded.",
-    "2. To accept behaviour and opinions which are different from your own. English = (be) tolerant, (be) liberal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of being willing to consider new ideas and other people's opinions. English = open-mindedness, broad-mindedness.",
-    "2. The acceptance of behaviour and opinions which are different from your own. English = tolerance."
-  ],
   "signNumber": 3541,
   "recordNumber": 2073,
   "signVisualComposition": "",
@@ -55,5 +41,19 @@
   "antonyms": [
     "narrow-minded"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be willing to consider new ideas and other people's opinions. English = (be) open-minded, (be) broad-minded.",
+    "2. To accept behaviour and opinions which are different from your own. English = (be) tolerant, (be) liberal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of being willing to consider new ideas and other people's opinions. English = open-mindedness, broad-mindedness.",
+    "2. The acceptance of behaviour and opinions which are different from your own. English = tolerance."
+  ],
+  "idGloss": "open-minded",
+  "oldEntry": ""
 }

@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rugby league.1a",
-  "oldentry": "Popular explanation: passing the rugby ball.",
   "english": [
     "rugby",
     "football"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game played by two teams, who try to score points by carrying an oval ball to their opponents' end of the pitch, or by kicking the ball over a bar fixed between two goal posts. English = rugby, football."
-  ],
   "signNumber": 4626,
   "recordNumber": 2802,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game played by two teams, who try to score points by carrying an oval ball to their opponents' end of the pitch, or by kicking the ball over a bar fixed between two goal posts. English = rugby, football."
+  ],
+  "idGloss": "rugby league.1a",
+  "oldEntry": "Popular explanation: passing the rugby ball."
 }

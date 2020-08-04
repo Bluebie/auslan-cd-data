@@ -15,21 +15,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "like-love",
-  "oldentry": "",
   "english": [
     "like"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To find something or someone pleasant and attractive. English = like."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5109,
   "recordNumber": 3083,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
   "synonyms": [
     "like.1a",
     "like.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To find something or someone pleasant and attractive. English = like."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "like-love",
+  "oldEntry": ""
 }

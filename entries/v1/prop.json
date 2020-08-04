@@ -9,22 +9,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prop",
-  "oldentry": "",
   "english": [
     "prop",
     "prop-forward"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In rugby, either of the two forwards outermost in the front row of the scrum. English = prop, prop-forward."
-  ],
   "signNumber": 3180.1,
   "recordNumber": 1848,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": null,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In rugby, either of the two forwards outermost in the front row of the scrum. English = prop, prop-forward."
+  ],
+  "idGloss": "prop",
+  "oldEntry": ""
 }

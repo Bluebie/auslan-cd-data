@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "amateur",
-  "oldentry": "",
   "english": [
     "amateur"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be done as part of a hobby and not as a job. English = (be) amateur."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who does something as a hobby and not as a job. English = amateur."
-  ],
   "signNumber": 5643,
   "recordNumber": 3345,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "antonyms": [
     "professional.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be done as part of a hobby and not as a job. English = (be) amateur."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who does something as a hobby and not as a job. English = amateur."
+  ],
+  "idGloss": "amateur",
+  "oldEntry": ""
 }

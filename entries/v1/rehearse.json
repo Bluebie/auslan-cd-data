@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "ASL REHEARSE + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rehearse",
-  "oldentry": "",
   "english": [
     "rehearsal",
     "rehearse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To practise a play, dance, or piece of music, in order to prepare for a performance. English = rehearse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a play, dance, or a piece of music, a practice, in which it is prepared for a performance. English = rehearsal."
-  ],
   "signNumber": 1507,
   "recordNumber": 897,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "practice.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To practise a play, dance, or piece of music, in order to prepare for a performance. English = rehearse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a play, dance, or a piece of music, a practice, in which it is prepared for a performance. English = rehearsal."
+  ],
+  "idGloss": "rehearse",
+  "oldEntry": ""
 }

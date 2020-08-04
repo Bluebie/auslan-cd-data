@@ -11,24 +11,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sensible",
-  "oldentry": "",
   "english": [
     "sensible",
     "sensibly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to make good decisions and judgements based on reasons rather than emotions. English = (be) sensible."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action is done in a way that is based on reasons rather than emotions. English = sensibly."
-  ],
-  "nomlex": [],
   "signNumber": 1357,
   "recordNumber": 800,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action is done in a way that is based on reasons rather than emotions. English = sensibly."
+  ],
+  "verbLexeme": [
+    "1. To be able to make good decisions and judgements based on reasons rather than emotions. English = (be) sensible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sensible",
+  "oldEntry": ""
 }

@@ -20,29 +20,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bath.1a",
-  "oldentry": "Popular explanation: scrubbing oneself.",
   "english": [
     "bath",
     "bathtub",
     "bathe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wash in a bath. English = bathe, have a bath."
-  ],
   "cf": [
     "shower",
     "wash",
     "wash.face"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, rectangular container which you fill with water and sit in while you wash your body. English = bath, bathtub.",
-    "2. A wash you have in a bath. English = bath."
   ],
   "signNumber": 5847,
   "recordNumber": 3479,
@@ -52,5 +39,18 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wash in a bath. English = bathe, have a bath."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, rectangular container which you fill with water and sit in while you wash your body. English = bath, bathtub.",
+    "2. A wash you have in a bath. English = bath."
+  ],
+  "idGloss": "bath.1a",
+  "oldEntry": "Popular explanation: scrubbing oneself."
 }

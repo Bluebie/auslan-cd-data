@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "father.1",
-  "oldentry": "",
   "english": [
     "father"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "aunt.1",
     "daughter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The man who is one of your parents. English = father."
   ],
   "signNumber": 2056,
   "recordNumber": 1201,
@@ -43,5 +33,15 @@
     "mother.1a",
     "mother.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The man who is one of your parents. English = father."
+  ],
+  "idGloss": "father.1",
+  "oldEntry": ""
 }

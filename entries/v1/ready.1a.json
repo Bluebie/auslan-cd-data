@@ -13,26 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ready.1a",
-  "oldentry": "",
   "english": [
     "ready",
     "already"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have prepared yourself or to have been prepared for something. English = (be) ready."
-  ],
   "cf": [
     "prepare"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used to describe something that has happened before the present time, and which does not need to happen again, or which has happened earlier than you expected. English = already."
-  ],
-  "nomlex": [],
   "signNumber": 6304,
   "recordNumber": 3766,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [
     "not.yet.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to describe something that has happened before the present time, and which does not need to happen again, or which has happened earlier than you expected. English = already."
+  ],
+  "verbLexeme": [
+    "1. To have prepared yourself or to have been prepared for something. English = (be) ready."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "ready.1a",
+  "oldEntry": ""
 }

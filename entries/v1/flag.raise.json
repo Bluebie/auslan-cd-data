@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flag.raise",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To raise a flag on a flag pole."
-  ],
   "cf": [
     "flag"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3982,
   "recordNumber": 2382,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "flag.lower"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To raise a flag on a flag pole."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "flag.raise",
+  "oldEntry": ""
 }

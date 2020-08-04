@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "postpone.2",
-  "oldentry": "Popular explanation: pick up and move to another place or time.",
   "english": [
     "postponement",
     "postpone",
@@ -27,15 +23,7 @@
     "defer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange for an event to take place at a later time than was originally planned. English = postpone, put off. Formal English = defer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of arranging for an event to take place at a later time than was originally planned. English = postponement."
-  ],
   "signNumber": 404,
   "recordNumber": 222,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "postpone.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange for an event to take place at a later time than was originally planned. English = postpone, put off. Formal English = defer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of arranging for an event to take place at a later time than was originally planned. English = postponement."
+  ],
+  "idGloss": "postpone.2",
+  "oldEntry": "Popular explanation: pick up and move to another place or time."
 }

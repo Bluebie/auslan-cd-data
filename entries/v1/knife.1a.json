@@ -18,27 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "knife.1a",
-  "oldentry": "Popular explanation: cutting with a knife.",
   "english": [
     "knife",
     "cut"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut food with a knife in order to eat it."
-  ],
   "cf": [
     "fork.1a",
     "sharp",
     "cutlery"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An object you hold in your hand and use to cut things with. It consists of a sharp, flat piece of metal attached to a handle. English = knife (singular), knives (plural)."
   ],
   "signNumber": 1049,
   "recordNumber": 616,
@@ -50,5 +38,17 @@
   "antonyms": [],
   "synonyms": [
     "cut.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut food with a knife in order to eat it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An object you hold in your hand and use to cut things with. It consists of a sharp, flat piece of metal attached to a handle. English = knife (singular), knives (plural)."
+  ],
+  "idGloss": "knife.1a",
+  "oldEntry": "Popular explanation: cutting with a knife."
 }

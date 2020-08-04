@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers produce this sign with a Cup handshape rather than a Letter-c handshape.",
-  "genmean": "Something relatively thick or large at the top of or on a vertical flat surface, such as a think line, border or title across a sheet of paper, or any thing or any action directly or indirectly associated with this, especially a paragraph.",
-  "questlex": [],
-  "idgloss": "paragraph",
-  "oldentry": "",
   "english": [
     "paragraph"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "column.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A section of a piece of writing which always begins on a new line. English = paragraph."
   ],
   "signNumber": 5405.1,
   "recordNumber": 3224,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something relatively thick or large at the top of or on a vertical flat surface, such as a think line, border or title across a sheet of paper, or any thing or any action directly or indirectly associated with this, especially a paragraph.",
+  "nominalLexeme": [
+    "1. A section of a piece of writing which always begins on a new line. English = paragraph."
+  ],
+  "idGloss": "paragraph",
+  "oldEntry": ""
 }

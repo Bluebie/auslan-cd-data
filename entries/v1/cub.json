@@ -13,26 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cub",
-  "oldentry": "Popular explanation: the Cub salute.",
   "english": [
     "cub",
     "salute"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a cub, to salute."
-  ],
   "cf": [
     "salute",
     "scout"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A junior member (aged 8 to 11) of the Scout Association. Scouts go camping, learn how to look after themselves, and do things to help other people. English = cub."
   ],
   "signNumber": 1537,
   "recordNumber": 915,
@@ -42,5 +30,17 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a cub, to salute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A junior member (aged 8 to 11) of the Scout Association. Scouts go camping, learn how to look after themselves, and do things to help other people. English = cub."
+  ],
+  "idGloss": "cub",
+  "oldEntry": "Popular explanation: the Cub salute."
 }

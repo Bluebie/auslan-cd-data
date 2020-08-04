@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "HAVE + IDEA",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "got.idea",
-  "oldentry": "",
   "english": [
     "idea"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to introduce a sentence which contains a new or interesting idea or suggestion you have, especially one that has just suddenly come to you and which you think is quite good or appropriate. English = 'What about this...', 'I've got a great idea..."
-  ],
-  "nomlex": [],
   "signNumber": 5568,
   "recordNumber": 3293,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to introduce a sentence which contains a new or interesting idea or suggestion you have, especially one that has just suddenly come to you and which you think is quite good or appropriate. English = 'What about this...', 'I've got a great idea..."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "got.idea",
+  "oldEntry": ""
 }

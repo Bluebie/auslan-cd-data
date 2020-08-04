@@ -15,26 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hear.1a",
-  "oldentry": "",
   "english": [
     "hear  of",
     "hear about",
     "informed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To learn about news or some information because someone tells you about it or you learn about it from the television. English = hear of, hear about.",
-    "2. To know about something already because you have been told about it, or it has been mentioned on the television. English = have heard of, (be) informed of, (be) told of."
-  ],
   "cf": [
     "loud.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 569,
   "recordNumber": 326,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "synonyms": [
     "hear.of.1a",
     "hear.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To learn about news or some information because someone tells you about it or you learn about it from the television. English = hear of, hear about.",
+    "2. To know about something already because you have been told about it, or it has been mentioned on the television. English = have heard of, (be) informed of, (be) told of."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hear.1a",
+  "oldEntry": ""
 }

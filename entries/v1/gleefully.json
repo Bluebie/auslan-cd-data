@@ -12,26 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gleefully",
-  "oldentry": "",
   "english": [
     "happy",
     "gleeful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have feelings of pleasure often because something nice has happened. English = (be) happy.",
-    "2. To be full of joy and excitement, often because of someone else's foolishness or failure. English = (be) gleeful."
-  ],
   "cf": [],
-  "interj": [
-    "1. Often used alone to show that you are more than happy to do something for someone.",
-    "2. Often used alone ironically."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4491,
   "recordNumber": 2728,
   "signVisualComposition": "",
@@ -40,5 +26,19 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Often used alone to show that you are more than happy to do something for someone.",
+    "2. Often used alone ironically."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have feelings of pleasure often because something nice has happened. English = (be) happy.",
+    "2. To be full of joy and excitement, often because of someone else's foolishness or failure. English = (be) gleeful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "gleefully",
+  "oldEntry": ""
 }

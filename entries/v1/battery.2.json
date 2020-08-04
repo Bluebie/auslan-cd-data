@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "battery.2",
-  "oldentry": "",
   "english": [
     "battery"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device which produces the electricity in something such as a torch or radio. English = battery."
-  ],
   "signNumber": 416,
   "recordNumber": 233,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "battery.1a",
     "battery.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device which produces the electricity in something such as a torch or radio. English = battery."
+  ],
+  "idGloss": "battery.2",
+  "oldEntry": ""
 }

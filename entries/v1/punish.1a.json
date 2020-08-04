@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "punish.1a",
-  "oldentry": "Popular explanation: caning a palm.",
   "english": [
     "punishment",
     "caning",
@@ -32,17 +28,7 @@
     "cane"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make someone suffer in some way because they have done something wrong. English = punish.",
-    "2. To punish someone, especially a child at a school, by hitting them with a stick made of the long, hollow stems of a plant such as bamboo. English = cane, give someone the cane."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Things done to someone to make them suffer because they have done something wrong. English = punishment.",
-    "2. The hitting of someone, especially a child at a school, using a stick made of the long, hollow stems of a plant such as bamboo. English = caning."
-  ],
   "signNumber": 5997,
   "recordNumber": 3570,
   "signVisualComposition": "",
@@ -55,5 +41,19 @@
     "whip.1",
     "whip.2a",
     "penalise"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make someone suffer in some way because they have done something wrong. English = punish.",
+    "2. To punish someone, especially a child at a school, by hitting them with a stick made of the long, hollow stems of a plant such as bamboo. English = cane, give someone the cane."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Things done to someone to make them suffer because they have done something wrong. English = punishment.",
+    "2. The hitting of someone, especially a child at a school, using a stick made of the long, hollow stems of a plant such as bamboo. English = caning."
+  ],
+  "idGloss": "punish.1a",
+  "oldEntry": "Popular explanation: caning a palm."
 }

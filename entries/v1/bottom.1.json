@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bottom.1",
-  "oldentry": "Popular explanation: one level or surface below another level or surface.",
   "english": [
     "bottom",
     "bed",
@@ -32,17 +28,7 @@
     "river bed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or be located at the lowest part of something; to be the lowest layer or thing in a series; to have the least powerful or least important level in an organisation; to be the worst student in a class. English = (be) bottom.",
-    "2. To be located on the ground at the bottom of the sea or a river."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The lowest part of something; the lowest layer or thing in a series; the least powerful or important level in an organisation; the worst student in a class. English = bottom.",
-    "2. The ground at the bottom of the sea or a river. English = sea bed, river bed."
-  ],
   "signNumber": 4124,
   "recordNumber": 2483,
   "signVisualComposition": "",
@@ -57,5 +43,19 @@
   "synonyms": [
     "bottom.2",
     "last.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or be located at the lowest part of something; to be the lowest layer or thing in a series; to have the least powerful or least important level in an organisation; to be the worst student in a class. English = (be) bottom.",
+    "2. To be located on the ground at the bottom of the sea or a river."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The lowest part of something; the lowest layer or thing in a series; the least powerful or important level in an organisation; the worst student in a class. English = bottom.",
+    "2. The ground at the bottom of the sea or a river. English = sea bed, river bed."
+  ],
+  "idGloss": "bottom.1",
+  "oldEntry": "Popular explanation: one level or surface below another level or surface."
 }

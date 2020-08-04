@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A large spherically shaped object, or any thing or any action directly or indirectly associated with this, such as a lettuce, cabbage, ball, globe and so on.",
-  "questlex": [],
-  "idgloss": "sphere",
-  "oldentry": "Popular explanation: a sphere shaped object.",
   "english": [
     "sphere",
     "ball",
@@ -26,11 +22,7 @@
     "globe"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3011,
   "recordNumber": 1720,
   "signVisualComposition": "",
@@ -39,5 +31,13 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A large spherically shaped object, or any thing or any action directly or indirectly associated with this, such as a lettuce, cabbage, ball, globe and so on.",
+  "nominalLexeme": [],
+  "idGloss": "sphere",
+  "oldEntry": "Popular explanation: a sphere shaped object."
 }

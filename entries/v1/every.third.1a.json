@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "every.third.1a",
-  "oldentry": "",
   "english": [
     "third"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used in a sentence (immediately next to a verb, or at the beginning or end of the sentence) to mean that the action happens every third week or every third unit of time which has already been established (day, month, semester, year, etc.)."
-  ],
-  "nomlex": [
-    "1. Each and every week which is the third week in a cycle (usually of four weeks or a month), or each and every unit of time which is the third unit in a cycle."
-  ],
   "signNumber": 1134,
   "recordNumber": 665,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used in a sentence (immediately next to a verb, or at the beginning or end of the sentence) to mean that the action happens every third week or every third unit of time which has already been established (day, month, semester, year, etc.)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Each and every week which is the third week in a cycle (usually of four weeks or a month), or each and every unit of time which is the third unit in a cycle."
+  ],
+  "idGloss": "every.third.1a",
+  "oldEntry": ""
 }

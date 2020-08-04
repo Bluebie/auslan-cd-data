@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "squash.1a",
-  "oldentry": "Popular explanation: squashing something in one's palms.",
   "english": [
     "squash"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To press something so that it becomes flat or loses its shape. English = squash."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2774,
   "recordNumber": 1553,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To press something so that it becomes flat or loses its shape. English = squash."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "squash.1a",
+  "oldEntry": "Popular explanation: squashing something in one's palms."
 }

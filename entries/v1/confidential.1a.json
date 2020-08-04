@@ -15,25 +15,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "confidential.1a",
-  "oldentry": "",
   "english": [
     "confidence"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep a secret or a confidence; to not speak about something. Idiomatic English = hold one's tongue.",
-    "2. To say nothing about something bad; to not complain about something wrong or unjust; to not speak out."
-  ],
   "cf": [
     "private.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation in which you tell someone a secret or someone tells you a secret. English = confidence."
   ],
   "signNumber": 2459,
   "recordNumber": 1366,
@@ -48,5 +35,18 @@
   "synonyms": [
     "shut.up.1a",
     "secret.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep a secret or a confidence; to not speak about something. Idiomatic English = hold one's tongue.",
+    "2. To say nothing about something bad; to not complain about something wrong or unjust; to not speak out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation in which you tell someone a secret or someone tells you a secret. English = confidence."
+  ],
+  "idGloss": "confidential.1a",
+  "oldEntry": ""
 }

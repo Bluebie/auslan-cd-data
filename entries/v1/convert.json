@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "convert",
-  "oldentry": "",
   "english": [
     "convert",
     "conversion"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To change your religious or political beliefs. English = convert.",
-    "2. To change your opinion about something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has changed their religious or political beliefs. English = convert.",
-    "2. The process of changing your religious or political beliefs. English = conversion."
-  ],
   "signNumber": 835,
   "recordNumber": 476,
   "signVisualComposition": "THINK + ROLL-OVER",
@@ -44,5 +30,19 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To change your religious or political beliefs. English = convert.",
+    "2. To change your opinion about something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has changed their religious or political beliefs. English = convert.",
+    "2. The process of changing your religious or political beliefs. English = conversion."
+  ],
+  "idGloss": "convert",
+  "oldEntry": ""
 }

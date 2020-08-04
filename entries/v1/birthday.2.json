@@ -15,23 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "birthday.2",
-  "oldentry": "",
   "english": [
     "birthday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "birthday.5"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The anniversary of the date on which you were born. English = birthday.",
-    "2. A celebration of the anniversary of the date on which you were born. English = birthday party."
   ],
   "signNumber": 3754,
   "recordNumber": 2217,
@@ -45,5 +34,16 @@
     "birthday.1",
     "birthday.3",
     "birthday.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The anniversary of the date on which you were born. English = birthday.",
+    "2. A celebration of the anniversary of the date on which you were born. English = birthday party."
+  ],
+  "idGloss": "birthday.2",
+  "oldEntry": ""
 }

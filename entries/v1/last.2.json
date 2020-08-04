@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "last.2",
-  "oldentry": "",
   "english": [
     "last",
     "final",
@@ -30,18 +26,7 @@
     "finally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be at the end of something, such as a series of numbers. English = (be) last, (be) final.",
-    "2. To be the only thing that remains after all the others have gone. English = (be) last."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence, to mean that what you are about to say is the last of a series of things you want to mention. English = lastly, finally."
-  ],
-  "nomlex": [
-    "1. The thing or part that comes at the end of something. English = the last."
-  ],
   "signNumber": 5019,
   "recordNumber": 3029,
   "signVisualComposition": "",
@@ -55,5 +40,20 @@
   ],
   "synonyms": [
     "last.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence, to mean that what you are about to say is the last of a series of things you want to mention. English = lastly, finally."
+  ],
+  "verbLexeme": [
+    "1. To be at the end of something, such as a series of numbers. English = (be) last, (be) final.",
+    "2. To be the only thing that remains after all the others have gone. English = (be) last."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thing or part that comes at the end of something. English = the last."
+  ],
+  "idGloss": "last.2",
+  "oldEntry": ""
 }

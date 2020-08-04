@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cursor",
-  "oldentry": "",
   "english": [
     "cursor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A marker on a computer screen which indicates where anything typed by the user will appear. English = cursor."
-  ],
   "signNumber": 5145,
   "recordNumber": 3103,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A marker on a computer screen which indicates where anything typed by the user will appear. English = cursor."
+  ],
+  "idGloss": "cursor",
+  "oldEntry": ""
 }

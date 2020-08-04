@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cup.1a",
-  "oldentry": "Popular explanation: the form of a cup.",
   "english": [
     "glass",
     "cup",
     "mug"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To place a glass, cup, mug or other cylindrical object on a flat surface."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A container made from glass which you can drink from. They do not have handles. English = glass.",
-    "2. A small, round container, usually with a handle, from which you drink liquids such as tea and coffee. English = cup.",
-    "3. A large deep cup with straight sides. It usually has a large handle. English = mug."
-  ],
   "signNumber": 4678,
   "recordNumber": 2826,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "antonyms": [],
   "synonyms": [
     "drink.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To place a glass, cup, mug or other cylindrical object on a flat surface."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A container made from glass which you can drink from. They do not have handles. English = glass.",
+    "2. A small, round container, usually with a handle, from which you drink liquids such as tea and coffee. English = cup.",
+    "3. A large deep cup with straight sides. It usually has a large handle. English = mug."
+  ],
+  "idGloss": "cup.1a",
+  "oldEntry": "Popular explanation: the form of a cup."
 }

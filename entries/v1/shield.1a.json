@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shield.1a",
-  "oldentry": "Popular explanation: the outline of a shield.",
   "english": [
     "shield"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sports trophy or badge in the shape of a shield. English = shield."
-  ],
   "signNumber": 891,
   "recordNumber": 511,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sports trophy or badge in the shape of a shield. English = shield."
+  ],
+  "idGloss": "shield.1a",
+  "oldEntry": "Popular explanation: the outline of a shield."
 }

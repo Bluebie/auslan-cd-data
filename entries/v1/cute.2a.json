@@ -14,22 +14,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cute.2a",
-  "oldentry": "",
   "english": [
     "cute",
     "pretty"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a girl especially, to be nice to look at and attractive in a delicate way. English = (be) pretty, (be) cute."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5108,
   "recordNumber": 3082,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "synonyms": [
     "cute.1a",
     "cute.1b"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a girl especially, to be nice to look at and attractive in a delicate way. English = (be) pretty, (be) cute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cute.2a",
+  "oldEntry": ""
 }

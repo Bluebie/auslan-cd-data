@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wave.1a",
-  "oldentry": "",
   "english": [
     "sea",
     "ocean",
@@ -29,19 +25,8 @@
     "undulate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be changing level gently, up and down. English = undulate."
-  ],
   "cf": [
     "rough.surface"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The large area of salty water that covers about three-quarters of the earths surface. English = sea.",
-    "2. A large area of salty water. English = sea, ocean.",
-    "3. A raised line of water on the surface of water, especially the sea, which is caused by the wind or by tides making the surface of the water rise and fall. English = wave",
-    "4. A surface which moves gently up and down; an undulating surface."
   ],
   "signNumber": 4080,
   "recordNumber": 2446,
@@ -53,5 +38,20 @@
   "antonyms": [
     "flat.surface.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be changing level gently, up and down. English = undulate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The large area of salty water that covers about three-quarters of the earths surface. English = sea.",
+    "2. A large area of salty water. English = sea, ocean.",
+    "3. A raised line of water on the surface of water, especially the sea, which is caused by the wind or by tides making the surface of the water rise and fall. English = wave",
+    "4. A surface which moves gently up and down; an undulating surface."
+  ],
+  "idGloss": "wave.1a",
+  "oldEntry": ""
 }

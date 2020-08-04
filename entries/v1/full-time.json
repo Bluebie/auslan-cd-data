@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "full-time",
-  "oldentry": "",
   "english": [
     "full-time"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of work or study, to take up the whole of each normal working week rather than just a part of it. English = (be) full-time."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The end of the match in some sports such as football, hockey, and rugby. English = full-time."
-  ],
   "signNumber": 4102,
   "recordNumber": 2463,
   "signVisualComposition": "FULL + TIME",
@@ -40,5 +28,17 @@
   "antonyms": [
     "part-time"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of work or study, to take up the whole of each normal working week rather than just a part of it. English = (be) full-time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The end of the match in some sports such as football, hockey, and rugby. English = full-time."
+  ],
+  "idGloss": "full-time",
+  "oldEntry": ""
 }

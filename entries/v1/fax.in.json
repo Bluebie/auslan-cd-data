@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fax.in",
-  "oldentry": "",
   "english": [
     "fax"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To receive an electronic signal along a telephone line on a special machine that makes a copy of a picture or letter which is in another place; receive a fax."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A letter or a picture which is copy of one which is in another place and which has been produced by a machine that receives electronic information along a telephone line about the original. English = fax."
-  ],
   "signNumber": 4098,
   "recordNumber": 2459,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "synonyms": [
     "fax.out",
     "fax.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To receive an electronic signal along a telephone line on a special machine that makes a copy of a picture or letter which is in another place; receive a fax."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A letter or a picture which is copy of one which is in another place and which has been produced by a machine that receives electronic information along a telephone line about the original. English = fax."
+  ],
+  "idGloss": "fax.in",
+  "oldEntry": ""
 }

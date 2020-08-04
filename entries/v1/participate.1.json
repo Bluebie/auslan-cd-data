@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "participate.1",
-  "oldentry": "",
   "english": [
     "participation",
     "participate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take part in some activity so that you do something with another person or other people. English = participate."
-  ],
   "cf": [
     "go.in.1a",
     "involve.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of taking part in some activity so that you do something with another person or other people. English = participation."
   ],
   "signNumber": 4382,
   "recordNumber": 2670,
@@ -51,5 +39,17 @@
   "synonyms": [
     "involve.1a",
     "participate.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take part in some activity so that you do something with another person or other people. English = participate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of taking part in some activity so that you do something with another person or other people. English = participation."
+  ],
+  "idGloss": "participate.1",
+  "oldEntry": ""
 }

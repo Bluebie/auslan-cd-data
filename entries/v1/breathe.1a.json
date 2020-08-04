@@ -16,27 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breathe.1a",
-  "oldentry": "Popular explanation: the chest moving during breathing.",
   "english": [
     "breathing",
     "lungs",
     "breathe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take in air into your lungs and let it out again. English = breathe."
-  ],
   "cf": [
     "asthma"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of taking in air into your lungs and letting it out again. English = breathing.",
-    "2. The two parts of your body inside your chest which fill with air when you breathe. English = lungs."
   ],
   "signNumber": 2505,
   "recordNumber": 1391,
@@ -46,5 +33,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take in air into your lungs and let it out again. English = breathe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of taking in air into your lungs and letting it out again. English = breathing.",
+    "2. The two parts of your body inside your chest which fill with air when you breathe. English = lungs."
+  ],
+  "idGloss": "breathe.1a",
+  "oldEntry": "Popular explanation: the chest moving during breathing."
 }

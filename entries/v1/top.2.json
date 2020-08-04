@@ -20,29 +20,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "top.2",
-  "oldentry": "Popular explanation: striking an upper limit barrier.",
   "english": [
     "top"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located at the highest point, part or surface of something. English = (be) at the top.",
-    "2. To be located just under the inside of the top surface of a covered space or a container.",
-    "3. To rise to the top of a covered space or a container, that is to just under the inside of the top surface."
-  ],
   "cf": [
     "beneath.flat.surface",
     "beneath.solid.object",
     "under"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The highest point, part or surface of something. English = top.",
-    "2. The highest point, part or surface of something, especially of a room or a container that is covered and viewed from the inside; the inside upper surface of a covered space or a container."
   ],
   "signNumber": 5970,
   "recordNumber": 3550,
@@ -56,5 +41,20 @@
   ],
   "synonyms": [
     "fill.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located at the highest point, part or surface of something. English = (be) at the top.",
+    "2. To be located just under the inside of the top surface of a covered space or a container.",
+    "3. To rise to the top of a covered space or a container, that is to just under the inside of the top surface."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The highest point, part or surface of something. English = top.",
+    "2. The highest point, part or surface of something, especially of a room or a container that is covered and viewed from the inside; the inside upper surface of a covered space or a container."
+  ],
+  "idGloss": "top.2",
+  "oldEntry": "Popular explanation: striking an upper limit barrier."
 }

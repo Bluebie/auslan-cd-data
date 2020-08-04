@@ -15,27 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "telepathy",
-  "oldentry": "",
   "english": [
     "telepathy",
     "ESP"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To share the same interests and attitudes as someone else and to understand each other very well. Idiomatic English = (be) on the same wavelength.",
-    "2. To have an uncanny, almost unnatural or magical, ability to communicate with another person and understand them well.",
-    "3. To communicate directly between people's minds; to communicate telepathically."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An uncanny, almost unnatural or magical, ability to communicate with another person and understand them well, even without the help of words or signs.",
-    "2. Direct communication between people's minds. English = telepathy, extrasensory perception (ESP)."
-  ],
   "signNumber": 2582,
   "recordNumber": 1425,
   "signVisualComposition": "",
@@ -44,5 +29,20 @@
   "primaryLocation": 3,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To share the same interests and attitudes as someone else and to understand each other very well. Idiomatic English = (be) on the same wavelength.",
+    "2. To have an uncanny, almost unnatural or magical, ability to communicate with another person and understand them well.",
+    "3. To communicate directly between people's minds; to communicate telepathically."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An uncanny, almost unnatural or magical, ability to communicate with another person and understand them well, even without the help of words or signs.",
+    "2. Direct communication between people's minds. English = telepathy, extrasensory perception (ESP)."
+  ],
+  "idGloss": "telepathy",
+  "oldEntry": ""
 }

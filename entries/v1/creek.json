@@ -13,24 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something which is long, not straight and relatively thin or narrow, such as a track, trickle of water, or even river (as seen from a great height), or any thing or any action directly or indirectly associated with this, especially a creek.",
-  "questlex": [],
-  "idgloss": "creek",
-  "oldentry": "",
   "english": [
     "creek",
     "path",
     "track"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small stream or river. English = creek.",
-    "2. A long, thin line of ground that has been marked by people walking, for example through a forest or up a mountain. English = path, track."
-  ],
   "signNumber": 5352,
   "recordNumber": 3200,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something which is long, not straight and relatively thin or narrow, such as a track, trickle of water, or even river (as seen from a great height), or any thing or any action directly or indirectly associated with this, especially a creek.",
+  "nominalLexeme": [
+    "1. A small stream or river. English = creek.",
+    "2. A long, thin line of ground that has been marked by people walking, for example through a forest or up a mountain. English = path, track."
+  ],
+  "idGloss": "creek",
+  "oldEntry": ""
 }

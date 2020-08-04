@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "problem.1",
-  "oldentry": "Popular explanation: jabbing on the arm.",
   "english": [
     "problem",
     "trouble",
@@ -44,20 +40,9 @@
     "annoying"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause or give difficulties because it is unsatisfactory in some way. English = problem.",
-    "2. To cause or give difficulties or problems to someone in an way that makes them slightly angry. English = trouble, hassle, bother, irritate, annoy.",
-    "3. To make you feel slightly angry because it gives you problems or difficulties. English = (be) troublesome, (be) bothersome, (be) irritating, (be) annoying."
-  ],
   "cf": [
     "tribulation",
     "interrupt"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something or a situation which is unsatisfactory and causes difficulties. English = problem.",
-    "2. Something which causes difficulties or problems in an intrusive way or in a way which makes you slightly angry, or is a difficulty or problem in itself. English = trouble, hassle, bother, irritation, nuisance, annoyance."
   ],
   "signNumber": 4043,
   "recordNumber": 2419,
@@ -70,5 +55,20 @@
   "synonyms": [
     "problem.2a",
     "trouble"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause or give difficulties because it is unsatisfactory in some way. English = problem.",
+    "2. To cause or give difficulties or problems to someone in an way that makes them slightly angry. English = trouble, hassle, bother, irritate, annoy.",
+    "3. To make you feel slightly angry because it gives you problems or difficulties. English = (be) troublesome, (be) bothersome, (be) irritating, (be) annoying."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something or a situation which is unsatisfactory and causes difficulties. English = problem.",
+    "2. Something which causes difficulties or problems in an intrusive way or in a way which makes you slightly angry, or is a difficulty or problem in itself. English = trouble, hassle, bother, irritation, nuisance, annoyance."
+  ],
+  "idGloss": "problem.1",
+  "oldEntry": "Popular explanation: jabbing on the arm."
 }

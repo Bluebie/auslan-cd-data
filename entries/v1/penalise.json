@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of striking something with a stick or stick-like object.",
-  "questlex": [],
-  "idgloss": "penalise",
-  "oldentry": "",
   "english": [
     "caning",
     "punishment",
@@ -43,23 +39,9 @@
     "condemn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To punish a child or a student by hitting them, usually on the palm, with a cane. English = cane, give someone the cane.",
-    "2. To make someone suffer in some way because they have done something wrong. English = punish, penalise, condemn.",
-    "3. To make someone suffer financially because they have done something wrong. English = fine.",
-    "4. To formally accuse someone of committing a crime. English = charge."
-  ],
   "cf": [
     "discriminate",
     "sue"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of punishing a child or a student by hitting them, usually on the palm, with a cane. English = caning.",
-    "2. The act of punishing someone. English = punishment.",
-    "3. The thing someone has to do as punishment for some wrong-doing; the amount of money someone must pay as punishment. English = penalty; fine.",
-    "4. A formal accusation that someone has committed a crime. English = charge."
   ],
   "signNumber": 1259,
   "recordNumber": 747,
@@ -69,5 +51,23 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To punish a child or a student by hitting them, usually on the palm, with a cane. English = cane, give someone the cane.",
+    "2. To make someone suffer in some way because they have done something wrong. English = punish, penalise, condemn.",
+    "3. To make someone suffer financially because they have done something wrong. English = fine.",
+    "4. To formally accuse someone of committing a crime. English = charge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of striking something with a stick or stick-like object.",
+  "nominalLexeme": [
+    "1. The act of punishing a child or a student by hitting them, usually on the palm, with a cane. English = caning.",
+    "2. The act of punishing someone. English = punishment.",
+    "3. The thing someone has to do as punishment for some wrong-doing; the amount of money someone must pay as punishment. English = penalty; fine.",
+    "4. A formal accusation that someone has committed a crime. English = charge."
+  ],
+  "idGloss": "penalise",
+  "oldEntry": ""
 }

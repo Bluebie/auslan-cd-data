@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "catch.1",
-  "oldentry": "Popular explanation: catching something.",
   "english": [
     "catch",
     "full-back",
     "caught out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To seize an object which is moving through the air with your hands. English = catch.",
-    "2. In cricket, when the fieldsman catches a ball that has just been hit by a batsman and has not yet touched the ground, the batsman has to stop playing and is replaced by another member from his team. English = (be) caught out."
-  ],
   "cf": [
     "grab",
     "capture.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of seizing an object which is moving through the air with your hands. English = catch.",
-    "2. In rugby, a defending player who plays close to the goal or line that he or she is defending. English = full-back."
   ],
   "signNumber": 2641,
   "recordNumber": 1464,
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "defence.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To seize an object which is moving through the air with your hands. English = catch.",
+    "2. In cricket, when the fieldsman catches a ball that has just been hit by a batsman and has not yet touched the ground, the batsman has to stop playing and is replaced by another member from his team. English = (be) caught out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of seizing an object which is moving through the air with your hands. English = catch.",
+    "2. In rugby, a defending player who plays close to the goal or line that he or she is defending. English = full-back."
+  ],
+  "idGloss": "catch.1",
+  "oldEntry": "Popular explanation: catching something."
 }

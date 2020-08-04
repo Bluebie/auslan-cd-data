@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "man.1a",
-  "oldentry": "Popular explanation: stroking a beard.",
   "english": [
     "man",
     "men",
@@ -33,20 +29,10 @@
     "masculine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To belong to the sex that cannot have babies or lay eggs. English = (be) male.",
-    "2. To relate to or be typical of men, rather than women. English = masculine."
-  ],
   "cf": [
     "boy.1",
     "boy.2",
     "gentleman.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An adult male human being. English = man (singular), men (plural).",
-    "2. An animal, like a man, that belongs to the sex that cannot have babies or lay eggs. English = male."
   ],
   "signNumber": 5616,
   "recordNumber": 3327,
@@ -59,5 +45,19 @@
     "woman.1a",
     "woman.2a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To belong to the sex that cannot have babies or lay eggs. English = (be) male.",
+    "2. To relate to or be typical of men, rather than women. English = masculine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An adult male human being. English = man (singular), men (plural).",
+    "2. An animal, like a man, that belongs to the sex that cannot have babies or lay eggs. English = male."
+  ],
+  "idGloss": "man.1a",
+  "oldEntry": "Popular explanation: stroking a beard."
 }

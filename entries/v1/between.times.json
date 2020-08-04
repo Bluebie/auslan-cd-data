@@ -9,19 +9,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "between.times",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to two time signs to mean precisely between these two times."
-  ],
-  "nomlex": [],
   "signNumber": 3634,
   "recordNumber": 2138,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "antonyms": [],
   "synonyms": [
     "period.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to two time signs to mean precisely between these two times."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "between.times",
+  "oldEntry": ""
 }

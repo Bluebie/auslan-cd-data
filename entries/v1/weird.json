@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "ASL-STRANGE + W",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "weird",
-  "oldentry": "",
   "english": [
     "weird"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something or someone, to seem strange and peculiar. English = (be) weird."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strange thought, idea or suggestion."
-  ],
   "signNumber": 2234.1,
   "recordNumber": 1271,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something or someone, to seem strange and peculiar. English = (be) weird."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strange thought, idea or suggestion."
+  ],
+  "idGloss": "weird",
+  "oldEntry": ""
 }

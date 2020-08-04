@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "natural.1a",
-  "oldentry": "",
   "english": [
     "natural",
     "normal",
@@ -27,17 +23,7 @@
     "naturally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be what happens or is the case because it is part of the usual processes of life and has little or nothing to do with changes made by humans. English = (be) natural.",
-    "2. To be a part of someone's personality without them acting or changing themselves in any way. English = (be) natural.",
-    "3. To be usual and ordinary, and what people expect. English = (be) normal."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to show your strong agreement with what someone has said. You think this is something that everyone would know or agree with. English = 'Of course!', 'Naturally'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2002,
   "recordNumber": 1177,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to show your strong agreement with what someone has said. You think this is something that everyone would know or agree with. English = 'Of course!', 'Naturally'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be what happens or is the case because it is part of the usual processes of life and has little or nothing to do with changes made by humans. English = (be) natural.",
+    "2. To be a part of someone's personality without them acting or changing themselves in any way. English = (be) natural.",
+    "3. To be usual and ordinary, and what people expect. English = (be) normal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "natural.1a",
+  "oldEntry": ""
 }

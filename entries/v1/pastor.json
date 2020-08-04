@@ -14,21 +14,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pastor",
-  "oldentry": "Popular explanation: the outline of the adornments worn around the collars of some ministers of religion in the past.",
   "english": [
     "pastor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A member of the Christian clergy, especially one who is not a member of the Catholic or Anglican churches. English = pastor."
-  ],
   "signNumber": 5366,
   "recordNumber": 3205,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "priest.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A member of the Christian clergy, especially one who is not a member of the Catholic or Anglican churches. English = pastor."
+  ],
+  "idGloss": "pastor",
+  "oldEntry": "Popular explanation: the outline of the adornments worn around the collars of some ministers of religion in the past."
 }

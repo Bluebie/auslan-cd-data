@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "genius",
-  "oldentry": "Popular explanation: a big brain.",
   "english": [
     "genius",
     "intellect",
@@ -32,18 +28,9 @@
     "brainy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a very great natural ability and talent, especially for a particular subject or activity; to be very clever. English = (be) brilliant. Informal English = (be) brainy."
-  ],
   "cf": [
     "brain",
     "idea.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has a very great natural ability and talent, especially for a particular subject or activity; a person who is very clever indeed. English = genius.",
-    "2. A very great ability or skill in something. English = genius, intellect."
   ],
   "signNumber": 2909,
   "recordNumber": 1645,
@@ -59,5 +46,18 @@
   ],
   "synonyms": [
     "clever.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a very great natural ability and talent, especially for a particular subject or activity; to be very clever. English = (be) brilliant. Informal English = (be) brainy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has a very great natural ability and talent, especially for a particular subject or activity; a person who is very clever indeed. English = genius.",
+    "2. A very great ability or skill in something. English = genius, intellect."
+  ],
+  "idGloss": "genius",
+  "oldEntry": "Popular explanation: a big brain."
 }

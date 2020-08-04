@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "difficult.1",
-  "oldentry": "Popular explanation: striking a hard surface.",
   "english": [
     "difficulty",
     "difficult",
@@ -40,17 +36,7 @@
     "harsh"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To involve a lot of effort or energy and to be not easy to do, understand, or solve. English = (be) difficult, (be) hard.",
-    "2. To be tiring and involving a lot of effort. English = (be) arduous, (be) strenuous.",
-    "3. Of a person (especially one in authority), to not tolerate impolite or disobedient behaviour and to insist that others follow the rules without exception. English = (be) strict, (be) hard, (be) harsh."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The degree or amount to which something requires effort to do. English = difficulty."
-  ],
   "signNumber": 6004,
   "recordNumber": 3575,
   "signVisualComposition": "",
@@ -66,5 +52,19 @@
     "difficult.2a",
     "hard.1a",
     "strict"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To involve a lot of effort or energy and to be not easy to do, understand, or solve. English = (be) difficult, (be) hard.",
+    "2. To be tiring and involving a lot of effort. English = (be) arduous, (be) strenuous.",
+    "3. Of a person (especially one in authority), to not tolerate impolite or disobedient behaviour and to insist that others follow the rules without exception. English = (be) strict, (be) hard, (be) harsh."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The degree or amount to which something requires effort to do. English = difficulty."
+  ],
+  "idGloss": "difficult.1",
+  "oldEntry": "Popular explanation: striking a hard surface."
 }

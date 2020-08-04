@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wake",
-  "oldentry": "Popular explanation: opening one's eyes.",
   "english": [
     "wakefulness",
     "consciousness",
@@ -36,18 +32,8 @@
     "aware"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become conscious again after being asleep. English = wake, wake up, awaken.",
-    "2. To not be asleep. English = (be) awake, (be) conscious.",
-    "3. To realise that something is present or is happening because you hear it, see it, smell it, or feel it. English = (be) aware, (be) conscious."
-  ],
   "cf": [
     "alert.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of not being asleep. English = wakefulness, consciousness."
   ],
   "signNumber": 6338,
   "recordNumber": 3783,
@@ -60,5 +46,19 @@
     "sleep.1a",
     "sound.asleep"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become conscious again after being asleep. English = wake, wake up, awaken.",
+    "2. To not be asleep. English = (be) awake, (be) conscious.",
+    "3. To realise that something is present or is happening because you hear it, see it, smell it, or feel it. English = (be) aware, (be) conscious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of not being asleep. English = wakefulness, consciousness."
+  ],
+  "idGloss": "wake",
+  "oldEntry": "Popular explanation: opening one's eyes."
 }

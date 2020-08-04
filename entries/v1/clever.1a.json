@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clever.1a",
-  "oldentry": "",
   "english": [
     "cleverness",
     "smartness",
@@ -41,18 +37,8 @@
     "wise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To understand or learn things easily or be able to plans things well. English = (be) clever, (be) smart, (be) intelligent.",
-    "2. To be able to use your experience and knowledge (especially because of age) in order to make sensible decisions and judgements. English = (be) wise."
-  ],
   "cf": [
     "idea.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to understand or learn things easily or plan things well. English = cleverness, smartness, intelligence.",
-    "2. The ability to use your experience and knowledge in order to make sensible decisions and judgements. Often thought to be a quality of older people. English = wisdom."
   ],
   "signNumber": 4712,
   "recordNumber": 2847,
@@ -69,5 +55,19 @@
   "synonyms": [
     "wise",
     "brain"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To understand or learn things easily or be able to plans things well. English = (be) clever, (be) smart, (be) intelligent.",
+    "2. To be able to use your experience and knowledge (especially because of age) in order to make sensible decisions and judgements. English = (be) wise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to understand or learn things easily or plan things well. English = cleverness, smartness, intelligence.",
+    "2. The ability to use your experience and knowledge in order to make sensible decisions and judgements. Often thought to be a quality of older people. English = wisdom."
+  ],
+  "idGloss": "clever.1a",
+  "oldEntry": ""
 }

@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "creepy-crawly.1a",
-  "oldentry": "",
   "english": [
     "creepy-crawly",
     "creep",
     "crawl"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an insect or small animal, to move about. English = creep, crawl."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small insect which gives you a feeling of fear or disgust. Informal children's English = creepy-crawly."
-  ],
   "signNumber": 2976,
   "recordNumber": 1691,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "spider"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an insect or small animal, to move about. English = creep, crawl."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small insect which gives you a feeling of fear or disgust. Informal children's English = creepy-crawly."
+  ],
+  "idGloss": "creepy-crawly.1a",
+  "oldEntry": ""
 }

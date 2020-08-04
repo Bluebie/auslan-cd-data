@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "accumulate",
-  "oldentry": "",
   "english": [
     "accumulation",
     "increase",
     "accumulate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a mass or an amount of something (especially money), to get bigger or larger. English = accumulate, increase."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The increase in the mass or amount of something, especially money. English = accumulation, increase."
-  ],
   "signNumber": 3090,
   "recordNumber": 1778,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "increase.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a mass or an amount of something (especially money), to get bigger or larger. English = accumulate, increase."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The increase in the mass or amount of something, especially money. English = accumulation, increase."
+  ],
+  "idGloss": "accumulate",
+  "oldEntry": ""
 }

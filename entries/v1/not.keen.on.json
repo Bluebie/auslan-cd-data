@@ -15,28 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.keen.on",
-  "oldentry": "",
   "english": [
     "disagreeable",
     "not keen"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not desire something (or no longer find something desireable) because it has too much of some quality. English = (be) not keen on.",
-    "2. Of something, to have too much of some quality so that it is not desireable or is no longer desireable. English = (be) disagreeable."
-  ],
   "cf": [
     "useless",
     "very.sweet"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used before some noun signs to mean there is a lot or too much of that thing."
-  ],
-  "nomlex": [],
   "signNumber": 4744,
   "recordNumber": 2868,
   "signVisualComposition": "SWEET + 'NOT'",
@@ -45,5 +32,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before some noun signs to mean there is a lot or too much of that thing."
+  ],
+  "verbLexeme": [
+    "1. To not desire something (or no longer find something desireable) because it has too much of some quality. English = (be) not keen on.",
+    "2. Of something, to have too much of some quality so that it is not desireable or is no longer desireable. English = (be) disagreeable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.keen.on",
+  "oldEntry": ""
 }

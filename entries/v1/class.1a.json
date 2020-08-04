@@ -15,24 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "class.1a",
-  "oldentry": "",
   "english": [
     "class"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "team",
     "family.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of pupils or students who are taught together. English = class.",
-    "2. A short period of teaching in a particular subject. English = class."
   ],
   "signNumber": 5370,
   "recordNumber": 3208,
@@ -44,5 +33,16 @@
   "antonyms": [],
   "synonyms": [
     "group.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of pupils or students who are taught together. English = class.",
+    "2. A short period of teaching in a particular subject. English = class."
+  ],
+  "idGloss": "class.1a",
+  "oldEntry": ""
 }

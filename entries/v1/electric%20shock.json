@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "electric shock",
-  "oldentry": "",
   "english": [
     "shock",
     "electric shock"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sudden painful feeling that you get when you touch something which is connected to a supply of electricity. English = shock, electric shock."
-  ],
   "signNumber": 2720,
   "recordNumber": 1515,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sudden painful feeling that you get when you touch something which is connected to a supply of electricity. English = shock, electric shock."
+  ],
+  "idGloss": "electric shock",
+  "oldEntry": ""
 }

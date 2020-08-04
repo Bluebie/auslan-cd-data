@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "barrack.for",
-  "oldentry": "",
   "english": [
     "barracker",
     "supporter",
@@ -35,17 +31,7 @@
     "favour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shout out to show you like someone, especially a sports team, and want them to do well or win. English = barrack for, support, (be) a fan of.",
-    "2. To agree with someone's ideas or aims and to want them to succeed, and perhaps to help them. English = support, back up.",
-    "3. To treat someone better or more kindly than you treat other people. English = favour."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who shouts out to show they like someone, especially a sports team, and wants them to do well or win. English = barracker, supporter, fan."
-  ],
   "signNumber": 4869,
   "recordNumber": 2945,
   "signVisualComposition": "",
@@ -58,5 +44,19 @@
   ],
   "synonyms": [
     "support.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shout out to show you like someone, especially a sports team, and want them to do well or win. English = barrack for, support, (be) a fan of.",
+    "2. To agree with someone's ideas or aims and to want them to succeed, and perhaps to help them. English = support, back up.",
+    "3. To treat someone better or more kindly than you treat other people. English = favour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who shouts out to show they like someone, especially a sports team, and wants them to do well or win. English = barracker, supporter, fan."
+  ],
+  "idGloss": "barrack.for",
+  "oldEntry": ""
 }

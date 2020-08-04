@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "SEE + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "show.1",
-  "oldentry": "",
   "english": [
     "show",
     "display",
@@ -39,19 +35,8 @@
     "performance"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something visible or noticeable so that other people can see it and know about it. English = show.",
-    "2. To put something in a place where people can easily see it. English = show, display, exhibit."
-  ],
   "cf": [
     "express"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A form of entertainment at the theatre or on television that usually consists of several items. English = show.",
-    "2. An arrangement of things that is intended to attract people's attention. English = display, exhibition.",
-    "3. A public event that is intended to entertain people. English = display, spectacle, performance."
   ],
   "signNumber": 560,
   "recordNumber": 323,
@@ -69,5 +54,20 @@
     "show.2",
     "show.3a",
     "perform.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something visible or noticeable so that other people can see it and know about it. English = show.",
+    "2. To put something in a place where people can easily see it. English = show, display, exhibit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A form of entertainment at the theatre or on television that usually consists of several items. English = show.",
+    "2. An arrangement of things that is intended to attract people's attention. English = display, exhibition.",
+    "3. A public event that is intended to entertain people. English = display, spectacle, performance."
+  ],
+  "idGloss": "show.1",
+  "oldEntry": ""
 }

@@ -20,26 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "since.1a",
-  "oldentry": "",
   "english": [
     "since",
     "henceforth",
     "thereafter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "not.since"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action begins at the present time (or a time which is understood) and continues into the future (or after that time). English =  since, from now onwards, henceforth, after now.",
-    "2. Used immediately next to a time sign to mean from that time and into the future from that time. English = since, from that time onwards, after then, thereafter."
-  ],
-  "nomlex": [],
   "signNumber": 3970,
   "recordNumber": 2373,
   "signVisualComposition": "",
@@ -53,5 +42,16 @@
   ],
   "synonyms": [
     "from.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action begins at the present time (or a time which is understood) and continues into the future (or after that time). English =  since, from now onwards, henceforth, after now.",
+    "2. Used immediately next to a time sign to mean from that time and into the future from that time. English = since, from that time onwards, after then, thereafter."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "since.1a",
+  "oldEntry": ""
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "courage",
-  "oldentry": "",
   "english": [
     "courage",
     "bravery",
@@ -33,16 +29,7 @@
     "brave"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To show great courage. English = (be) courageous, (be) brave. Informal English = have guts."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. English = courage, bravery. Informal English = guts.",
-    "2. A person you admire greatly because they have done things that are courageous or brave. English = hero."
-  ],
   "signNumber": 5747,
   "recordNumber": 3403,
   "signVisualComposition": "",
@@ -55,5 +42,18 @@
     "hero.1",
     "hero.2",
     "brave"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To show great courage. English = (be) courageous, (be) brave. Informal English = have guts."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. English = courage, bravery. Informal English = guts.",
+    "2. A person you admire greatly because they have done things that are courageous or brave. English = hero."
+  ],
+  "idGloss": "courage",
+  "oldEntry": ""
 }

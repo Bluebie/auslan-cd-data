@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "elbow",
-  "oldentry": "",
   "english": [
     "elbow"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part in the middle of your arm where your arm bends. English = elbow."
-  ],
   "signNumber": 818,
   "recordNumber": 467,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 19,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part in the middle of your arm where your arm bends. English = elbow."
+  ],
+  "idGloss": "elbow",
+  "oldEntry": ""
 }

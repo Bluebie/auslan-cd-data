@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "messiah",
-  "oldentry": "",
   "english": [
     "Messiah"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "king"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. For Jews, the King of the Jews, who will be sent to them by God. English = Messiah.",
-    "2. For Christians, Jesus Christ. English = Messiah."
   ],
   "signNumber": 2368.1,
   "recordNumber": 1304,
@@ -38,5 +27,16 @@
   "primaryLocation": 13,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. For Jews, the King of the Jews, who will be sent to them by God. English = Messiah.",
+    "2. For Christians, Jesus Christ. English = Messiah."
+  ],
+  "idGloss": "messiah",
+  "oldEntry": ""
 }

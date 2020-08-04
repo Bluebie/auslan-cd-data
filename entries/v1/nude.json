@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "PINK + N",
   "queries": "Some signers produce this sign with a wiggling or twisting movement down the cheek.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nude",
-  "oldentry": "",
   "english": [
     "nude",
     "nudist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, not to be wearing any clothes. English = (be) nude."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who does not wear clothes, especially because they believe it is a good thing not to wear clothes. They do this at home or at special outdoor clubs. English = nudist."
-  ],
   "signNumber": 1918,
   "recordNumber": 1145,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "naked.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, not to be wearing any clothes. English = (be) nude."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who does not wear clothes, especially because they believe it is a good thing not to wear clothes. They do this at home or at special outdoor clubs. English = nudist."
+  ],
+  "idGloss": "nude",
+  "oldEntry": ""
 }

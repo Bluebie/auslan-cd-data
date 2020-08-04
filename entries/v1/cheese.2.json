@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cheese.2",
-  "oldentry": "",
   "english": [
     "cheese"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A solid food made from milk. It is usually white or yellow. English = cheese."
-  ],
   "signNumber": 6658,
   "recordNumber": 3962,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "cheese.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A solid food made from milk. It is usually white or yellow. English = cheese."
+  ],
+  "idGloss": "cheese.2",
+  "oldEntry": ""
 }

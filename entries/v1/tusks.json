@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tusks",
-  "oldentry": "",
   "english": [
     "tusks"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The pair of very long, pointed teeth of an elephant, wild boar, or walrus. English = tusks."
-  ],
   "signNumber": 4576,
   "recordNumber": 2771,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "antonyms": [],
   "synonyms": [
     "elephant.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The pair of very long, pointed teeth of an elephant, wild boar, or walrus. English = tusks."
+  ],
+  "idGloss": "tusks",
+  "oldEntry": ""
 }

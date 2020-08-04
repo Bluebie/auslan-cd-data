@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "naked.1a",
-  "oldentry": "Popular explanation: nothing on the body.",
   "english": [
     "naked",
     "nude"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to not be wearing any clothes. English = (be) naked, (be) nude."
-  ],
   "cf": [
     "bald.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 324,
   "recordNumber": 181,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "nude"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to not be wearing any clothes. English = (be) naked, (be) nude."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "naked.1a",
+  "oldEntry": "Popular explanation: nothing on the body."
 }

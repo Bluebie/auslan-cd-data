@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overtake.2",
-  "oldentry": "",
   "english": [
     "overtake",
     "catch up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In a competition or ranking, to go from being last or well behind the leaders to being first or well in front of the others. English = overtake, catch up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4375,
   "recordNumber": 2665,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In a competition or ranking, to go from being last or well behind the leaders to being first or well in front of the others. English = overtake, catch up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "overtake.2",
+  "oldEntry": ""
 }

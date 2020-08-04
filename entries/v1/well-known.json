@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "well-known",
-  "oldentry": "",
   "english": [
     "well-known"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be known by a lot of people and is therefore famous or familiar. English = (be) well-known."
-  ],
   "cf": [
     "know",
     "familiar.with"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4802,
   "recordNumber": 2898,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "famous.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be known by a lot of people and is therefore famous or familiar. English = (be) well-known."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "well-known",
+  "oldEntry": ""
 }

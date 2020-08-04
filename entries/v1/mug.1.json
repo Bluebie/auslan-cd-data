@@ -14,28 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mug.1",
-  "oldentry": "Popular explanation: drinking from a mug while holding on to the handle.",
   "english": [
     "mug",
     "stein"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drink from a mug.",
-    "2. To drink beer from a stein."
-  ],
   "cf": [
     "cup.1a",
     "drink.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, deep cup with straight sides. English = mug.",
-    "2. A large mug for drinking beer. English = stein."
   ],
   "signNumber": 5611,
   "recordNumber": 3323,
@@ -45,5 +31,19 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drink from a mug.",
+    "2. To drink beer from a stein."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, deep cup with straight sides. English = mug.",
+    "2. A large mug for drinking beer. English = stein."
+  ],
+  "idGloss": "mug.1",
+  "oldEntry": "Popular explanation: drinking from a mug while holding on to the handle."
 }

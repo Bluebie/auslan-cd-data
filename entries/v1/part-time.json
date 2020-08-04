@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "part-time",
-  "oldentry": "",
   "english": [
     "part-time"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work for only part of each day or week. English = (be) part-time."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4313,
   "recordNumber": 2628,
   "signVisualComposition": "PART + TIME",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work for only part of each day or week. English = (be) part-time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "part-time",
+  "oldEntry": ""
 }

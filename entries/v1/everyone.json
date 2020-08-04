@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "everyone",
-  "oldentry": "",
   "english": [
     "everyone"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a group or number of people, each and every single one of them. English = everyone."
-  ],
   "signNumber": 920,
   "recordNumber": 524,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a group or number of people, each and every single one of them. English = everyone."
+  ],
+  "idGloss": "everyone",
+  "oldEntry": ""
 }

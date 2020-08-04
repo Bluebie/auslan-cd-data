@@ -19,10 +19,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horrible.1a",
-  "oldentry": "",
   "english": [
     "terrible",
     "horrible",
@@ -31,16 +27,7 @@
     "appalling"
   ],
   "deictic": [],
-  "verblex": [
-    "1. A situation or experience which is very serious and unpleasant. English = (be) terrible.",
-    "2. To cause you to feel great shock, fear, and disgust. English = (be) horrible, (be) shocking, (be) dreadful, (be) appalling."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to show that you feel very unpleasant, shocked, frightened, or disgusted. English = 'Terrible!', 'How awful!', 'Shocking!', 'Appalling!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5001,
   "recordNumber": 3015,
   "signVisualComposition": "",
@@ -54,5 +41,18 @@
   "synonyms": [
     "terrible",
     "awful.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to show that you feel very unpleasant, shocked, frightened, or disgusted. English = 'Terrible!', 'How awful!', 'Shocking!', 'Appalling!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. A situation or experience which is very serious and unpleasant. English = (be) terrible.",
+    "2. To cause you to feel great shock, fear, and disgust. English = (be) horrible, (be) shocking, (be) dreadful, (be) appalling."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "horrible.1a",
+  "oldEntry": ""
 }

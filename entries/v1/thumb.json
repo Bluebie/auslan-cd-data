@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thumb",
-  "oldentry": "Popular explanation: pointing to the thumb.",
   "english": [
     "thumb"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The short, thick finger on the side of your hand. English = thumb."
-  ],
   "signNumber": 1315,
   "recordNumber": 779,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The short, thick finger on the side of your hand. English = thumb."
+  ],
+  "idGloss": "thumb",
+  "oldEntry": "Popular explanation: pointing to the thumb."
 }

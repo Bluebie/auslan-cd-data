@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serve.you.right.1a",
-  "oldentry": "",
   "english": [
     "serve you right"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used when something unpleasant happens to someone, and you believe it is their own fault and you have no sympathy for them. English = 'Serves you right!', 'That's your fault!', 'What do you expect!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 392,
   "recordNumber": 215,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "serve.you.right.2",
     "silly.you"
-  ]
+  ],
+  "interjection": [
+    "1. Used when something unpleasant happens to someone, and you believe it is their own fault and you have no sympathy for them. English = 'Serves you right!', 'That's your fault!', 'What do you expect!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "serve.you.right.1a",
+  "oldEntry": ""
 }

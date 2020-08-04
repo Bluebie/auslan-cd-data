@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "BOOK + LIST",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bibliography",
-  "oldentry": "",
   "english": [
     "bibliography"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A list of books on a particular subject. English = bibliography.",
-    "2. A list of books and articles that are referred to in a particular book. English = bibliography."
-  ],
   "signNumber": 3727,
   "recordNumber": 2198,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A list of books on a particular subject. English = bibliography.",
+    "2. A list of books and articles that are referred to in a particular book. English = bibliography."
+  ],
+  "idGloss": "bibliography",
+  "oldEntry": ""
 }

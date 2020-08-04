@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shark.2",
-  "oldentry": "",
   "english": [
     "shark"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very large fish with sharp teeth. It sometimes attacks people. English = shark."
-  ],
   "signNumber": 4009,
   "recordNumber": 2400,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "shark.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very large fish with sharp teeth. It sometimes attacks people. English = shark."
+  ],
+  "idGloss": "shark.2",
+  "oldEntry": ""
 }

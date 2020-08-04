@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "family.1",
-  "oldentry": "",
   "english": [
     "family",
     "relatives",
@@ -29,16 +25,7 @@
     "familial"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to or concern families in general. Formal English = (be) familial."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of people who are related to each other, especially parents and children. English = family.",
-    "2. All the people you are related to, not just your parents or your children. English = relatives, relations."
-  ],
   "signNumber": 2775,
   "recordNumber": 1554,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "antonyms": [],
   "synonyms": [
     "family.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to or concern families in general. Formal English = (be) familial."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of people who are related to each other, especially parents and children. English = family.",
+    "2. All the people you are related to, not just your parents or your children. English = relatives, relations."
+  ],
+  "idGloss": "family.1",
+  "oldEntry": ""
 }

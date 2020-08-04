@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "minute.1",
-  "oldentry": "Popular explanation: the hand of the clock moving a minute.",
   "english": [
     "minute"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the sixty equal parts that an hour is divided into. English = minute."
-  ],
   "signNumber": 1286,
   "recordNumber": 765,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "minute.2a",
     "m.words"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the sixty equal parts that an hour is divided into. English = minute."
+  ],
+  "idGloss": "minute.1",
+  "oldEntry": "Popular explanation: the hand of the clock moving a minute."
 }

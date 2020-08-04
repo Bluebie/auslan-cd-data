@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "leave",
-  "oldentry": "Popular explanation: waving something or someone away from oneself.",
   "english": [
     "going",
     "leaving",
@@ -34,16 +30,8 @@
     "depart"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move or travel away from the place where you are now. English = go, leave, go away, depart."
-  ],
   "cf": [
     "lose.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of moving or travelling away from the place where you are now. English = going, leaving, going away, departure."
   ],
   "signNumber": 3736,
   "recordNumber": 2204,
@@ -58,5 +46,17 @@
   ],
   "synonyms": [
     "depart.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move or travel away from the place where you are now. English = go, leave, go away, depart."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of moving or travelling away from the place where you are now. English = going, leaving, going away, departure."
+  ],
+  "idGloss": "leave",
+  "oldEntry": "Popular explanation: waving something or someone away from oneself."
 }

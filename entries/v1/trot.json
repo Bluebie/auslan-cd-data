@@ -17,27 +17,15 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trot",
-  "oldentry": "",
   "english": [
     "trot",
     "trots",
     "trotting"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a horse, to move fairly fast, lifting its feet quite highly off the ground, in a gait between a walk and a run. English = trot."
-  ],
   "cf": [
     "horse.racing.1",
     "gallop.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Races for trotting or pacing horses. English = trots, trotting."
   ],
   "signNumber": 1795,
   "recordNumber": 1082,
@@ -49,5 +37,17 @@
   "antonyms": [],
   "synonyms": [
     "cart"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a horse, to move fairly fast, lifting its feet quite highly off the ground, in a gait between a walk and a run. English = trot."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Races for trotting or pacing horses. English = trots, trotting."
+  ],
+  "idGloss": "trot",
+  "oldEntry": ""
 }

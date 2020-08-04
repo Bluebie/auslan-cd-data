@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "official.1",
-  "oldentry": "Popular explanation: applying a stamp to something.",
   "english": [
     "certification",
     "approval",
@@ -31,17 +27,7 @@
     "approved"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a document, to be formally accepted by the government or by someone in authority, especially by having been stamped or marked in some way. English = (be) official, (be) certified, (be) approved.",
-    "2. Of a policy, action, to be formally accepted by the government or by someone in authority. English = (be) approved, (be) official."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Formal acceptance of a document by the government or by someone in authority, especially if that is shown by a stamp or mark on it. English = certification, approval.",
-    "2. Formal acceptance of a policy or action by the government or by someone in authority. English = approval."
-  ],
   "signNumber": 5990,
   "recordNumber": 3564,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "official.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a document, to be formally accepted by the government or by someone in authority, especially by having been stamped or marked in some way. English = (be) official, (be) certified, (be) approved.",
+    "2. Of a policy, action, to be formally accepted by the government or by someone in authority. English = (be) approved, (be) official."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Formal acceptance of a document by the government or by someone in authority, especially if that is shown by a stamp or mark on it. English = certification, approval.",
+    "2. Formal acceptance of a policy or action by the government or by someone in authority. English = approval."
+  ],
+  "idGloss": "official.1",
+  "oldEntry": "Popular explanation: applying a stamp to something."
 }

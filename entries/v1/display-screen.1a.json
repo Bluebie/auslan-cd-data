@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "display-screen.1a",
-  "oldentry": "",
   "english": [
     "VDU",
     "visual display unit",
@@ -25,15 +21,7 @@
     "computer screen"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To display information or pictures on a computer screen."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The vertical surface of a computer on which information and pictures are displayed. English = visual display screen, display screen, visual display unit (VDU), computer screen, monitor."
-  ],
   "signNumber": 851,
   "recordNumber": 487,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To display information or pictures on a computer screen."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The vertical surface of a computer on which information and pictures are displayed. English = visual display screen, display screen, visual display unit (VDU), computer screen, monitor."
+  ],
+  "idGloss": "display-screen.1a",
+  "oldEntry": ""
 }

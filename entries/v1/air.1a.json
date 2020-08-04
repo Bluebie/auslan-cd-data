@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "air.1a",
-  "oldentry": "",
   "english": [
     "air",
     "atmosphere",
@@ -37,21 +33,7 @@
     "airy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. The gentle movement of air, a gentle wind. English = breeze.",
-    "2. Of the weather, to have a strong but pleasant wind blowing. English = (be) breezy.",
-    "3. To let fresh air into a room or building. English = air.",
-    "4. Of a building or room, to be large and have a lot of fresh air inside. English = (be) airy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The mixture of gases which forms the earth's atmosphere and which we breathe. English = air.",
-    "2. The layer of air or other gases around a planet. English = atmosphere.",
-    "3. The general impression you get of a place, especially when it is good and interesting. English = atmosphere.",
-    "4. The feeling of a place and the feeling of the people in it. English = mood."
-  ],
   "signNumber": 2602,
   "recordNumber": 1442,
   "signVisualComposition": "",
@@ -60,5 +42,23 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. The gentle movement of air, a gentle wind. English = breeze.",
+    "2. Of the weather, to have a strong but pleasant wind blowing. English = (be) breezy.",
+    "3. To let fresh air into a room or building. English = air.",
+    "4. Of a building or room, to be large and have a lot of fresh air inside. English = (be) airy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The mixture of gases which forms the earth's atmosphere and which we breathe. English = air.",
+    "2. The layer of air or other gases around a planet. English = atmosphere.",
+    "3. The general impression you get of a place, especially when it is good and interesting. English = atmosphere.",
+    "4. The feeling of a place and the feeling of the people in it. English = mood."
+  ],
+  "idGloss": "air.1a",
+  "oldEntry": ""
 }

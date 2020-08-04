@@ -14,27 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "compare",
-  "oldentry": "Popular explanation: placing two things side by side.",
   "english": [
     "comparison",
     "compare"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To consider two or more things together and discover the differences or similarities between them. English = compare."
-  ],
   "cf": [
     "different.1a",
     "same.1a",
     "matched.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The consideration of two or more things together regarding their differences or similarities. English = comparison."
   ],
   "signNumber": 3844,
   "recordNumber": 2285,
@@ -44,5 +32,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To consider two or more things together and discover the differences or similarities between them. English = compare."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The consideration of two or more things together regarding their differences or similarities. English = comparison."
+  ],
+  "idGloss": "compare",
+  "oldEntry": "Popular explanation: placing two things side by side."
 }

@@ -19,26 +19,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "believe.3",
-  "oldentry": "Popular explanation: mind in the heart.",
   "english": [
     "faith",
     "believe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a strong religious belief. English = have faith, believe in.",
-    "2. To have a feeling of certainty that something exists, is true, or is good. English = believe."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong religious belief. English = faith.",
-    "2.  A feeling of certainty that something exists, is true, or is good."
-  ],
   "signNumber": 6458,
   "recordNumber": 3849,
   "signVisualComposition": "NAME + HEART?",
@@ -53,5 +39,19 @@
   "synonyms": [
     "believe.1",
     "believe.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a strong religious belief. English = have faith, believe in.",
+    "2. To have a feeling of certainty that something exists, is true, or is good. English = believe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong religious belief. English = faith.",
+    "2.  A feeling of certainty that something exists, is true, or is good."
+  ],
+  "idGloss": "believe.3",
+  "oldEntry": "Popular explanation: mind in the heart."
 }

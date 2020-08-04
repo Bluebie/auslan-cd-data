@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "award",
-  "oldentry": "",
   "english": [
     "presentation",
     "award",
@@ -35,23 +31,9 @@
     "hand over"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give or hand over something special to someone.",
-    "2. To formally give something, such as a prize, to someone; to give someone something because they have done something useful or good. English = present, award; reward.",
-    "3. To give someone the responsibility for dealing with something which you were previously responsible for. English = hand over.",
-    "4. To give a lecture or a talk about something, or to perform something in front of an audience. English = present, make a presentation."
-  ],
   "cf": [
     "present.1a",
     "parcel"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something important or special which is given or handed over to someone.",
-    "2. Something important or special which is given or handed over to someone because they have won something or because people want to show their appreciation. English = presentation, award.",
-    "3. A lecture or a talk about something, or something that is performed in front of an audience. English = presentation.",
-    "4. Something that you get or are given because you have done something useful or good. English = reward."
   ],
   "signNumber": 6193,
   "recordNumber": 3699,
@@ -61,5 +43,23 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give or hand over something special to someone.",
+    "2. To formally give something, such as a prize, to someone; to give someone something because they have done something useful or good. English = present, award; reward.",
+    "3. To give someone the responsibility for dealing with something which you were previously responsible for. English = hand over.",
+    "4. To give a lecture or a talk about something, or to perform something in front of an audience. English = present, make a presentation."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something important or special which is given or handed over to someone.",
+    "2. Something important or special which is given or handed over to someone because they have won something or because people want to show their appreciation. English = presentation, award.",
+    "3. A lecture or a talk about something, or something that is performed in front of an audience. English = presentation.",
+    "4. Something that you get or are given because you have done something useful or good. English = reward."
+  ],
+  "idGloss": "award",
+  "oldEntry": ""
 }

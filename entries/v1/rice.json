@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "Many native Auslan signers simply fingerspell 'rice'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rice",
-  "oldentry": "",
   "english": [
     "rice"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Food consisting of white grains which you cook and eat, usually with meat and vegetables. English = rice."
-  ],
   "signNumber": 2226,
   "recordNumber": 1269,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Food consisting of white grains which you cook and eat, usually with meat and vegetables. English = rice."
+  ],
+  "idGloss": "rice",
+  "oldEntry": ""
 }

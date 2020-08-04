@@ -15,23 +15,12 @@
   "sense": "",
   "blend": "LITTLE + CHILDREN or LITTLE + SHORT",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "children.1a",
-  "oldentry": "",
   "english": [
     "children",
     "kids"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Human beings who are not yet adults. English = children. Informal English = kids.",
-    "2. Someone's sons and daughters of any age. English = children."
-  ],
   "signNumber": 280,
   "recordNumber": 164,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   "synonyms": [
     "children.2",
     "child"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Human beings who are not yet adults. English = children. Informal English = kids.",
+    "2. Someone's sons and daughters of any age. English = children."
+  ],
+  "idGloss": "children.1a",
+  "oldEntry": ""
 }

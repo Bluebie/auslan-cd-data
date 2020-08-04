@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "other",
-  "oldentry": "",
   "english": [
     "other",
     "another",
@@ -32,19 +28,8 @@
     "else"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = other, another, one other; (be) other, (be) another, (be) one other."
-  ],
   "cf": [
     "others.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to introduce things of a different sort in addition to the sort of things you have just mentioned. English = otherwise.",
-    "2. Used immediately after a question sign (e.g., 'who' or 'what') to ask the same question a second time, but this time about something or someone different (e.g., 'Who else?). English = else."
-  ],
-  "nomlex": [
-    "1. A thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = the other, another, one other."
   ],
   "signNumber": 1342,
   "recordNumber": 791,
@@ -57,5 +42,20 @@
   "synonyms": [
     "another",
     "one.more"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to introduce things of a different sort in addition to the sort of things you have just mentioned. English = otherwise.",
+    "2. Used immediately after a question sign (e.g., 'who' or 'what') to ask the same question a second time, but this time about something or someone different (e.g., 'Who else?). English = else."
+  ],
+  "verbLexeme": [
+    "1. To be a thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = other, another, one other; (be) other, (be) another, (be) one other."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = the other, another, one other."
+  ],
+  "idGloss": "other",
+  "oldEntry": ""
 }

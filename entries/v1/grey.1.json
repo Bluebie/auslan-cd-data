@@ -12,24 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grey.1",
-  "oldentry": "",
   "english": [
     "grey",
     "gray"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or have the colour of ashes or of clouds on a rainy day; to be or have the colour half-way between black and white. English = (be) grey, (be) gray."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of ashes or of clouds on a rainy day; the colour half-way between black and white. English = grey, gray."
-  ],
   "signNumber": 3233,
   "recordNumber": 1879,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "grey.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or have the colour of ashes or of clouds on a rainy day; to be or have the colour half-way between black and white. English = (be) grey, (be) gray."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of ashes or of clouds on a rainy day; the colour half-way between black and white. English = grey, gray."
+  ],
+  "idGloss": "grey.1",
+  "oldEntry": ""
 }

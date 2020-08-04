@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.my.responsibility",
-  "oldentry": "",
   "english": [
     "not responsible",
     "no responsibility"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not have the duty to deal with, make decision about, or accept the blame for something; (be) not responsible for; to have no responsibility."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you have no interest or connection with what someone is talking about, especially because they mistakenly think you have done something or are someway involved in it. English = 'It's got nothing to do with me!'",
-    "'It's not my responsibility!', 'Damned if I know or care!', and so on.",
-    "2. Used alone to mean that you are mildly surprised at what someone has said. English = 'That's news to me!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6522,
   "recordNumber": 3881,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean you have no interest or connection with what someone is talking about, especially because they mistakenly think you have done something or are someway involved in it. English = 'It's got nothing to do with me!'",
+    "'It's not my responsibility!', 'Damned if I know or care!', and so on.",
+    "2. Used alone to mean that you are mildly surprised at what someone has said. English = 'That's news to me!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not have the duty to deal with, make decision about, or accept the blame for something; (be) not responsible for; to have no responsibility."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.my.responsibility",
+  "oldEntry": ""
 }

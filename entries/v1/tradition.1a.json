@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "CARRY + GENERATION",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tradition.1a",
-  "oldentry": "",
   "english": [
     "tradition",
     "custom",
@@ -44,20 +40,7 @@
     "heritable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be some belief or way of doing things that has not changed for a long time. English = (be) traditional, (be) customary.",
-    "2. To give or teach to one's descendants or offspring. English = hand down, hand on, pass on, bequeath.",
-    "3. To be a physical condition that one gets from one's parents, grandparents etc. English = (be) hereditary, (be) heritable."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A belief or way of doing things that has existed for a long time without changing. English = tradition, custom.",
-    "2. Things or ways of doing things that have been given or taught to the present generation from earlier generations. English = heritage.",
-    "3. A physical condition that one gets or inherits from one's parents, grandparents etc.",
-    "4. The quality of being acquired through biological transmission from one's parents, grandparents etc. English = hereditary, hereditariness."
-  ],
   "signNumber": 4136,
   "recordNumber": 2492,
   "signVisualComposition": "",
@@ -70,5 +53,22 @@
   ],
   "synonyms": [
     "from.long.ago"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be some belief or way of doing things that has not changed for a long time. English = (be) traditional, (be) customary.",
+    "2. To give or teach to one's descendants or offspring. English = hand down, hand on, pass on, bequeath.",
+    "3. To be a physical condition that one gets from one's parents, grandparents etc. English = (be) hereditary, (be) heritable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A belief or way of doing things that has existed for a long time without changing. English = tradition, custom.",
+    "2. Things or ways of doing things that have been given or taught to the present generation from earlier generations. English = heritage.",
+    "3. A physical condition that one gets or inherits from one's parents, grandparents etc.",
+    "4. The quality of being acquired through biological transmission from one's parents, grandparents etc. English = hereditary, hereditariness."
+  ],
+  "idGloss": "tradition.1a",
+  "oldEntry": ""
 }

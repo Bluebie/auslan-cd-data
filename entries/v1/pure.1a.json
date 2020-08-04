@@ -32,10 +32,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pure.1a",
-  "oldentry": "",
   "english": [
     "exact",
     "purity",
@@ -51,22 +47,8 @@
     "accurate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be completely clean. English = (be) spotless.",
-    "2. To be completely clean, or to be not mixed with anything else and containing no harmful substances. English = (be) pure.",
-    "3. To be or to make something easy to understand, see or hear, or to be obvious and impossible to be mistaken about. English = (be) clear; clarify.",
-    "4. To be correct or proper in every way possible, especially with reference to the answer to a question or problem. English = (be) precise, (be) accurate, (be) exact."
-  ],
   "cf": [
     "coincidence"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition or state of being completely clean. English = spotlessness.",
-    "2. The condition or state of being completely clean, or not mixed with anything else and containing no harmful substances. English = purity.",
-    "3. The quality of being easy to understand, see or hear, or of being obvious and impossible to be mistaken about. English = clarity.",
-    "4. The ability to perform a task without making a mistake or to do something exactly as it should be done. English = accuracy, precision, exactness."
   ],
   "signNumber": 1922,
   "recordNumber": 1147,
@@ -78,5 +60,23 @@
   "antonyms": [],
   "synonyms": [
     "pure.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be completely clean. English = (be) spotless.",
+    "2. To be completely clean, or to be not mixed with anything else and containing no harmful substances. English = (be) pure.",
+    "3. To be or to make something easy to understand, see or hear, or to be obvious and impossible to be mistaken about. English = (be) clear; clarify.",
+    "4. To be correct or proper in every way possible, especially with reference to the answer to a question or problem. English = (be) precise, (be) accurate, (be) exact."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition or state of being completely clean. English = spotlessness.",
+    "2. The condition or state of being completely clean, or not mixed with anything else and containing no harmful substances. English = purity.",
+    "3. The quality of being easy to understand, see or hear, or of being obvious and impossible to be mistaken about. English = clarity.",
+    "4. The ability to perform a task without making a mistake or to do something exactly as it should be done. English = accuracy, precision, exactness."
+  ],
+  "idGloss": "pure.1a",
+  "oldEntry": ""
 }

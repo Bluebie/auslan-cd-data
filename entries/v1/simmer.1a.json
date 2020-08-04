@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "simmer.1a",
-  "oldentry": "",
   "english": [
     "simmer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cook food by keeping it at or just below the boiling point. English = simmer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3057,
   "recordNumber": 1755,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cook food by keeping it at or just below the boiling point. English = simmer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "simmer.1a",
+  "oldEntry": ""
 }

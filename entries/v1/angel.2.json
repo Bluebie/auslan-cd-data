@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "angel.2",
-  "oldentry": "",
   "english": [
     "angel"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Spiritual beings that some people believe are God's messengers and servants in heaven. English = angel."
-  ],
   "signNumber": 3710,
   "recordNumber": 2187,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "angel.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Spiritual beings that some people believe are God's messengers and servants in heaven. English = angel."
+  ],
+  "idGloss": "angel.2",
+  "oldEntry": ""
 }

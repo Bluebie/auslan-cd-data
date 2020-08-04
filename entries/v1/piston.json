@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "piston",
-  "oldentry": "Popular explanation: a piston going up and down inside the cylinder.",
   "english": [
     "piston"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a piston, to go up and down inside a chamber or cylinder."
-  ],
   "cf": [
     "rocket.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cylinder or metal disc that is part of an engine. It slides up and down inside tubes and causes various parts of the engine to move. English = piston."
   ],
   "signNumber": 6052,
   "recordNumber": 3601,
@@ -45,5 +33,17 @@
   "synonyms": [
     "four-cylinder",
     "six-cylinder"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a piston, to go up and down inside a chamber or cylinder."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cylinder or metal disc that is part of an engine. It slides up and down inside tubes and causes various parts of the engine to move. English = piston."
+  ],
+  "idGloss": "piston",
+  "oldEntry": "Popular explanation: a piston going up and down inside the cylinder."
 }

@@ -13,26 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ridiculous",
-  "oldentry": "",
   "english": [
     "ridiculous",
     "ludicrous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look or be foolish, silly or stupid. English = (be) ridiculous, (be) ludicrous."
-  ],
   "cf": [
     "can't"
   ],
-  "interj": [
-    "1. Used alone in response to your addressee's comments to mean you are amazed at what has been said or done and that you think it stupid or foolish. English = 'Ridiculous!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 534,
   "recordNumber": 303,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "incredible.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to your addressee's comments to mean you are amazed at what has been said or done and that you think it stupid or foolish. English = 'Ridiculous!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look or be foolish, silly or stupid. English = (be) ridiculous, (be) ludicrous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "ridiculous",
+  "oldEntry": ""
 }

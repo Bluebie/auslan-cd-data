@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "believe.2a",
-  "oldentry": "",
   "english": [
     "belief",
     "conviction",
@@ -41,20 +37,7 @@
     "faith"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think that something is true. English = believe.",
-    "2. To strongly believe that something is true, especially something religious. English = (be) convinced of, have faith in.",
-    "3. To believe that someone is telling the truth and is honest and will not deliberately do anything to harm you. English = trust."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The idea or feeling that something is true. English = belief.",
-    "2. A strong belief that something is true, especially something religious. English = conviction, faith.",
-    "3. The belief and confidence that you have that someone is honest and will not deliberately do anything to harm you. English = trust.",
-    "4. A set of beliefs, principles, or opinions that strongly influence the way people live or work. English = creed, faith."
-  ],
   "signNumber": 1328,
   "recordNumber": 786,
   "signVisualComposition": "THINK + HOLD",
@@ -70,5 +53,22 @@
     "trust",
     "believe.1",
     "true"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To think that something is true. English = believe.",
+    "2. To strongly believe that something is true, especially something religious. English = (be) convinced of, have faith in.",
+    "3. To believe that someone is telling the truth and is honest and will not deliberately do anything to harm you. English = trust."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The idea or feeling that something is true. English = belief.",
+    "2. A strong belief that something is true, especially something religious. English = conviction, faith.",
+    "3. The belief and confidence that you have that someone is honest and will not deliberately do anything to harm you. English = trust.",
+    "4. A set of beliefs, principles, or opinions that strongly influence the way people live or work. English = creed, faith."
+  ],
+  "idGloss": "believe.2a",
+  "oldEntry": ""
 }

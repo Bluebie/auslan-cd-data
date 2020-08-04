@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "habit",
-  "oldentry": "Popular explanation: bound hands.",
   "english": [
     "habit",
     "addiction",
@@ -35,20 +31,7 @@
     "habitually"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or relate to a habit. English = (be) habitual.",
-    "2. To be unable to stop taking a harmful drug. English = (be) addicted to. Idiomatic English = (be) hooked on."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action of the verb is done often and regularly and that the actor finds it difficult not to do it. English = habitually."
-  ],
-  "nomlex": [
-    "1. Something you do often and regularly. English = habit.",
-    "2. An action that someone has done many times before and finds difficult to stop, especially when this action is considered to be bad. English = habit.",
-    "3. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
-  ],
   "signNumber": 5910,
   "recordNumber": 3515,
   "signVisualComposition": "",
@@ -59,5 +42,22 @@
   "antonyms": [],
   "synonyms": [
     "typical.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action of the verb is done often and regularly and that the actor finds it difficult not to do it. English = habitually."
+  ],
+  "verbLexeme": [
+    "1. To be or relate to a habit. English = (be) habitual.",
+    "2. To be unable to stop taking a harmful drug. English = (be) addicted to. Idiomatic English = (be) hooked on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something you do often and regularly. English = habit.",
+    "2. An action that someone has done many times before and finds difficult to stop, especially when this action is considered to be bad. English = habit.",
+    "3. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
+  ],
+  "idGloss": "habit",
+  "oldEntry": "Popular explanation: bound hands."
 }

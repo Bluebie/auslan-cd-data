@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "next.week.1a",
-  "oldentry": "",
   "english": [
     "week",
     "next week"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean the action takes place during the next calendar week after the week of speaking. English = next week."
-  ],
-  "nomlex": [
-    "1. The next calendar week after the week of speaking. English = next week.",
-    "2. A period of seven days after another specified day in the past or future."
-  ],
   "signNumber": 1027,
   "recordNumber": 602,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean the action takes place during the next calendar week after the week of speaking. English = next week."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The next calendar week after the week of speaking. English = next week.",
+    "2. A period of seven days after another specified day in the past or future."
+  ],
+  "idGloss": "next.week.1a",
+  "oldEntry": ""
 }

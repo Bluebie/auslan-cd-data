@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "door.knob",
-  "oldentry": "Popular explanation: turning a door knob.",
   "english": [
     "doorknob"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a door using a doorknob."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A round handle on a door. English = doorknob."
-  ],
   "signNumber": 2971,
   "recordNumber": 1689,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a door using a doorknob."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A round handle on a door. English = doorknob."
+  ],
+  "idGloss": "door.knob",
+  "oldEntry": "Popular explanation: turning a door knob."
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yes.1a",
-  "oldentry": "Popular explanation: nodding the head.",
   "english": [
     "affirmation",
     "acceptance",
@@ -34,23 +30,7 @@
     "approve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To nod your head up and down as a way of indicating your answer or response to something is 'yes'; to say yes. Idiomatic English = give the nod.",
-    "2. To say that something is true, especially when it has been claimed to be not true of you. English = affirm.",
-    "3. To give someone permission to do something; to okay something.",
-    "4. To accept an offer of something; to say something is acceptable. English = approve."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to say yes, give acceptance or show approval. English = 'Yes!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A statement in which you say something is true, usually by nodding you head up an down.",
-    "2. A statement in which you say something is true, especially when it has been claimed to be not true of you. English = affirmation.",
-    "3. The saying of yes to an offer. English = acceptance.",
-    "4. The act of saying you like something and that it is acceptable. English = approval."
-  ],
   "signNumber": 5943,
   "recordNumber": 3539,
   "signVisualComposition": "",
@@ -59,5 +39,25 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to say yes, give acceptance or show approval. English = 'Yes!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To nod your head up and down as a way of indicating your answer or response to something is 'yes'; to say yes. Idiomatic English = give the nod.",
+    "2. To say that something is true, especially when it has been claimed to be not true of you. English = affirm.",
+    "3. To give someone permission to do something; to okay something.",
+    "4. To accept an offer of something; to say something is acceptable. English = approve."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A statement in which you say something is true, usually by nodding you head up an down.",
+    "2. A statement in which you say something is true, especially when it has been claimed to be not true of you. English = affirmation.",
+    "3. The saying of yes to an offer. English = acceptance.",
+    "4. The act of saying you like something and that it is acceptable. English = approval."
+  ],
+  "idGloss": "yes.1a",
+  "oldEntry": "Popular explanation: nodding the head."
 }

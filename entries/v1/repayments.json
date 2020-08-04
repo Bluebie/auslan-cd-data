@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "repayments",
-  "oldentry": "",
   "english": [
     "repayment",
     "instalment",
@@ -29,19 +25,9 @@
     "pay off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make regular payments of money that you owe to a person or organisation. English = repay, make repayments, pay off."
-  ],
   "cf": [
     "mortgage",
     "rent"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Amounts of money that you pay at regular intervals to a person or organisation in order to repay a debt, especially a loan, over a period of time. English = repayments.",
-    "2. The process of paying money back to a person or organisation you owe it to. English = repayment.",
-    "3. The small amounts of money that are paid at regular intervals to repay a larger debt over a period of time. English = instalment."
   ],
   "signNumber": 6248,
   "recordNumber": 3733,
@@ -51,5 +37,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make regular payments of money that you owe to a person or organisation. English = repay, make repayments, pay off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Amounts of money that you pay at regular intervals to a person or organisation in order to repay a debt, especially a loan, over a period of time. English = repayments.",
+    "2. The process of paying money back to a person or organisation you owe it to. English = repayment.",
+    "3. The small amounts of money that are paid at regular intervals to repay a larger debt over a period of time. English = instalment."
+  ],
+  "idGloss": "repayments",
+  "oldEntry": ""
 }

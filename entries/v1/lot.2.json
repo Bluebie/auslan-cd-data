@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lot.2",
-  "oldentry": "",
   "english": [
     "lot",
     "much",
@@ -28,15 +24,7 @@
     "often"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For there to be a large amount or large number of something. English = (be) a lot of, (be) much, (be) many."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action happens a lot of the time. English = often."
-  ],
-  "nomlex": [],
   "signNumber": 2799,
   "recordNumber": 1567,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   "synonyms": [
     "lot.1a",
     "often.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action happens a lot of the time. English = often."
+  ],
+  "verbLexeme": [
+    "1. For there to be a large amount or large number of something. English = (be) a lot of, (be) much, (be) many."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lot.2",
+  "oldEntry": ""
 }

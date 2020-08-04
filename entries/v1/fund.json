@@ -15,26 +15,14 @@
   "sense": "2",
   "blend": "",
   "queries": "Though a borrowing from ASL ('money'), this sign has undergone a change of meaning in Auslan.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fund",
-  "oldentry": "",
   "english": [
     "funds",
     "funding",
     "fund"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To provide money to be spent on something. English = fund."
-  ],
   "cf": [
     "budgeting"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding."
   ],
   "signNumber": 225,
   "recordNumber": 133,
@@ -44,5 +32,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To provide money to be spent on something. English = fund."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding."
+  ],
+  "idGloss": "fund",
+  "oldEntry": ""
 }

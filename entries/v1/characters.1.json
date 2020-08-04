@@ -13,25 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "characters.1",
-  "oldentry": "",
   "english": [
     "character"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unable to be read something because the writing system (script) is unknown, secret or very unclear. English = (be) indecipherable, (be) unreadable."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A symbol in a written language, such as a letter or number. English = character.",
-    "2. Letters, numbers, or other symbols that are written or printed in the unknown script of a foreign language.",
-    "3. The letters, numbers, and other symbols of the written script of the Chinese and related languages. English = Chinese characters, Japanese characters, kanji."
-  ],
   "signNumber": 885,
   "recordNumber": 507,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "antonyms": [],
   "synonyms": [
     "characters.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unable to be read something because the writing system (script) is unknown, secret or very unclear. English = (be) indecipherable, (be) unreadable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A symbol in a written language, such as a letter or number. English = character.",
+    "2. Letters, numbers, or other symbols that are written or printed in the unknown script of a foreign language.",
+    "3. The letters, numbers, and other symbols of the written script of the Chinese and related languages. English = Chinese characters, Japanese characters, kanji."
+  ],
+  "idGloss": "characters.1",
+  "oldEntry": ""
 }

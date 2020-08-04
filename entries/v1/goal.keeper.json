@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "goal.keeper",
-  "oldentry": "Popular explanation: goal keeper's antics.",
   "english": [
     "goalkeeper",
     "goalie",
@@ -29,17 +25,7 @@
     "field"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To guard the goal in a game, especially soccer.",
-    "2. In a game of cricket, to be the team that is trying to catch the ball, rather than batting. English = field."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The player in a sports team, especially a soccer team, whose job is to guard the goal. English = goalkeeper. Informal English = goalie.",
-    "2. In cricket, a player who is fielding (rather than bowling or keeping the wicket) or one who has particular skill at fielding. English = fielder."
-  ],
   "signNumber": 2712,
   "recordNumber": 1510,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To guard the goal in a game, especially soccer.",
+    "2. In a game of cricket, to be the team that is trying to catch the ball, rather than batting. English = field."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The player in a sports team, especially a soccer team, whose job is to guard the goal. English = goalkeeper. Informal English = goalie.",
+    "2. In cricket, a player who is fielding (rather than bowling or keeping the wicket) or one who has particular skill at fielding. English = fielder."
+  ],
+  "idGloss": "goal.keeper",
+  "oldEntry": "Popular explanation: goal keeper's antics."
 }

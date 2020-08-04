@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is used immediately after a person's name or role and before the sign for something to express possession. For example, 'brother' + 'apostrophe' + 'car' means 'brother's car'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "apostrophe",
-  "oldentry": "",
   "english": [
     "apostrophe"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A symbol written before or after an 's' at the end of a word to indicate that what follows belongs to or relates to the word, as in 'the cat's whiskers'. English = apostrophe.",
-    "2. A mark written to indicate that one or more letters have been omitted from a word, as in 'can't and 'he'll'. English = apostrophe."
-  ],
   "signNumber": 5020,
   "recordNumber": 3030,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A symbol written before or after an 's' at the end of a word to indicate that what follows belongs to or relates to the word, as in 'the cat's whiskers'. English = apostrophe.",
+    "2. A mark written to indicate that one or more letters have been omitted from a word, as in 'can't and 'he'll'. English = apostrophe."
+  ],
+  "idGloss": "apostrophe",
+  "oldEntry": ""
 }

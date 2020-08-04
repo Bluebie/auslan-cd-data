@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A small container with an opening and closing lid, or any action or any thing directly or indirectly associated with this, especially a packet.",
-  "questlex": [],
-  "idgloss": "packet.2",
-  "oldentry": "Popular explanation: the lid closing on a packet.",
   "english": [
     "packet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small container in which a quantity of something is sold. It is either a small box made of thin cardboard, or a bag or envelope made of paper or plastic. English = packet."
-  ],
   "signNumber": 4387,
   "recordNumber": 2674,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "packet.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A small container with an opening and closing lid, or any action or any thing directly or indirectly associated with this, especially a packet.",
+  "nominalLexeme": [
+    "1. A small container in which a quantity of something is sold. It is either a small box made of thin cardboard, or a bag or envelope made of paper or plastic. English = packet."
+  ],
+  "idGloss": "packet.2",
+  "oldEntry": "Popular explanation: the lid closing on a packet."
 }

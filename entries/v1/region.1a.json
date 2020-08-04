@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "region.1a",
-  "oldentry": "",
   "english": [
     "region",
     "district",
@@ -43,22 +39,9 @@
     "divisionally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located in each of the large areas of land that are different from other areas of land, for example because they are different parts of a country or because they have a particular geographical features. English = (be) regional.",
-    "2. To be located in each of the parts of an organisation, institution or some other entity which together make up the whole. English = (be) divisional, (be) departmental."
-  ],
   "cf": [
     "city.1",
     "scones"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action happens or the thing exists in each of the various areas of a country, or parts of an organisation. English = regionally, divisionally."
-  ],
-  "nomlex": [
-    "1. One of, or a number of, large areas of land that are different from other areas of land, for example because they are different parts of a country or because they have a particular geographical features. English = region, regions; district, districts.",
-    "2. One of, or a number of, the parts of an organisation, institution or some other entity which together make up the whole. English = division, divisions, department, departments.",
-    "3. One of, or a number of, the separate areas of a large town or city that are not close to the centre. People often work in the centre and live in one of these areas. English = suburb, suburbs."
   ],
   "signNumber": 3084,
   "recordNumber": 1771,
@@ -68,5 +51,22 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action happens or the thing exists in each of the various areas of a country, or parts of an organisation. English = regionally, divisionally."
+  ],
+  "verbLexeme": [
+    "1. To be located in each of the large areas of land that are different from other areas of land, for example because they are different parts of a country or because they have a particular geographical features. English = (be) regional.",
+    "2. To be located in each of the parts of an organisation, institution or some other entity which together make up the whole. English = (be) divisional, (be) departmental."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of, or a number of, large areas of land that are different from other areas of land, for example because they are different parts of a country or because they have a particular geographical features. English = region, regions; district, districts.",
+    "2. One of, or a number of, the parts of an organisation, institution or some other entity which together make up the whole. English = division, divisions, department, departments.",
+    "3. One of, or a number of, the separate areas of a large town or city that are not close to the centre. People often work in the centre and live in one of these areas. English = suburb, suburbs."
+  ],
+  "idGloss": "region.1a",
+  "oldEntry": ""
 }

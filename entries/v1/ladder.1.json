@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ladder.1",
-  "oldentry": "",
   "english": [
     "ladder"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To climb up using a ladder."
-  ],
   "cf": [
     "step",
     "climb.1",
     "climb.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of equipment used for climbing up something such as a wall or a tree. It consists of two long pieces of wood, metal, or rope with steps fixed between them. English = ladder."
   ],
   "signNumber": 3699,
   "recordNumber": 2180,
@@ -44,5 +32,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To climb up using a ladder."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of equipment used for climbing up something such as a wall or a tree. It consists of two long pieces of wood, metal, or rope with steps fixed between them. English = ladder."
+  ],
+  "idGloss": "ladder.1",
+  "oldEntry": ""
 }

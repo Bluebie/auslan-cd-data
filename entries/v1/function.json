@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "function",
-  "oldentry": "",
   "english": [
     "function"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In mathematics, a quantity whose value depends upon the values of other quantities, called the arguments or independent variables. English = function."
-  ],
   "signNumber": 1473,
   "recordNumber": 880,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In mathematics, a quantity whose value depends upon the values of other quantities, called the arguments or independent variables. English = function."
+  ],
+  "idGloss": "function",
+  "oldEntry": ""
 }

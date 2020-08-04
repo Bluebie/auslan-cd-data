@@ -15,22 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "live.3",
-  "oldentry": "Popular explanation: a breathing action.",
   "english": [
     "live",
     "reside"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have your home in a particular place. English = live. Formal English = reside."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2622.1,
   "recordNumber": 1457,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "live.1",
     "live.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have your home in a particular place. English = live. Formal English = reside."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "live.3",
+  "oldEntry": "Popular explanation: a breathing action."
 }

@@ -18,24 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "after.1",
-  "oldentry": "",
   "english": [
     "after"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "later.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action happens during a period of time that follows the time of speaking or some other reference time. English = after.",
-    "2. Used at the beginning (or end) of a sentence to mean that the event of the sentence happens after an event or time that has already been described. English = afterwards."
-  ],
-  "nomlex": [],
   "signNumber": 5141,
   "recordNumber": 3102,
   "signVisualComposition": "",
@@ -52,5 +41,16 @@
     "after.2",
     "pass.1a",
     "since.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action happens during a period of time that follows the time of speaking or some other reference time. English = after.",
+    "2. Used at the beginning (or end) of a sentence to mean that the event of the sentence happens after an event or time that has already been described. English = afterwards."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "after.1",
+  "oldEntry": ""
 }

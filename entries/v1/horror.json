@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horror",
-  "oldentry": "",
   "english": [
     "horror"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a film or story, to be very frightening and usually about ghosts, witches, or imaginary monsters."
-  ],
   "cf": [
     "ghost.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A film or story which is very frightening and usually about ghosts, witches, or imaginary monsters. English = horror film, horror story."
   ],
   "signNumber": 2751.1,
   "recordNumber": 1537,
@@ -41,5 +29,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a film or story, to be very frightening and usually about ghosts, witches, or imaginary monsters."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A film or story which is very frightening and usually about ghosts, witches, or imaginary monsters. English = horror film, horror story."
+  ],
+  "idGloss": "horror",
+  "oldEntry": ""
 }

@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "earthquake",
-  "oldentry": "Popular explanation: the ground moving.",
   "english": [
     "earthquake",
     "tremor"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the ground, to shake because of movement of the earth's crust."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shaking of the ground caused by movement of the earth's crust. English = earthquake.",
-    "2. A small earthquake. English = tremor."
-  ],
   "signNumber": 2759,
   "recordNumber": 1543,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the ground, to shake because of movement of the earth's crust."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shaking of the ground caused by movement of the earth's crust. English = earthquake.",
+    "2. A small earthquake. English = tremor."
+  ],
+  "idGloss": "earthquake",
+  "oldEntry": "Popular explanation: the ground moving."
 }

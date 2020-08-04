@@ -16,27 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "temptation.1",
-  "oldentry": "Popular explanation: tugging on a shirt.",
   "english": [
     "temptation",
     "tempt",
     "tempting"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To offer something to someone that they want in order to encourage them to do something that you want them to do. English = tempt.",
-    "2. Of something, to make you want to do or have it, even though you know it may be wrong or harmful. English = (be) tempting."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state you are in when you want to do or have something, although you know it may be wrong or harmful.  English = temptation.",
-    "2. Something that makes you want to do or have something, even though you know it may wrong or harmful. English = temptation."
-  ],
   "signNumber": 321,
   "recordNumber": 179,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "synonyms": [
     "temptation.2",
     "temptation.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To offer something to someone that they want in order to encourage them to do something that you want them to do. English = tempt.",
+    "2. Of something, to make you want to do or have it, even though you know it may be wrong or harmful. English = (be) tempting."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state you are in when you want to do or have something, although you know it may be wrong or harmful.  English = temptation.",
+    "2. Something that makes you want to do or have something, even though you know it may wrong or harmful. English = temptation."
+  ],
+  "idGloss": "temptation.1",
+  "oldEntry": "Popular explanation: tugging on a shirt."
 }

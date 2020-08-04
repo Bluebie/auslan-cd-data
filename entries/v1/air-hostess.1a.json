@@ -15,25 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "air-hostess.1a",
-  "oldentry": "Popular explanation: the shape of an air-hostess' cap.",
   "english": [
     "flight attendant",
     "flight steward",
     "air-hostess"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "waiter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who works on an aeroplane and who looks after the passengers, serving them food and drink, and helping them when they need it. English = flight attendant, flight steward, air-hostess.",
-    "2. A type of tapered cap, commonly worn by female flight attendants (air-hostesses) in the past."
   ],
   "signNumber": 3127,
   "recordNumber": 1805,
@@ -43,5 +32,16 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who works on an aeroplane and who looks after the passengers, serving them food and drink, and helping them when they need it. English = flight attendant, flight steward, air-hostess.",
+    "2. A type of tapered cap, commonly worn by female flight attendants (air-hostesses) in the past."
+  ],
+  "idGloss": "air-hostess.1a",
+  "oldEntry": "Popular explanation: the shape of an air-hostess' cap."
 }

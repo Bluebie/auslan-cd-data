@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mistake.2",
-  "oldentry": "",
   "english": [
     "mistake",
     "error",
@@ -42,21 +38,7 @@
     "rotten"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do or think something that is wrong, or that is not what you intended to do or think. English = make a mistake, (be) mistaken.",
-    "2. To be wicked and enjoy doing things that harm other people. English = (be) evil.",
-    "3. To be extremely dirty. English = (be) filthy.",
-    "4. Of food, to no longer be fresh and to have started to rot. English = (be) rotten."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or opinion that is wrong, or that is not what you intended to do. English = mistake, error.",
-    "2. All the wicked and bad things that happen in the world. English = evil, wickedness.",
-    "3. A disgusting amount of dirt. English = filth.",
-    "4. Behaviour which is considered to be very bad and immoral. English = sin."
-  ],
   "signNumber": 5049,
   "recordNumber": 3044,
   "signVisualComposition": "",
@@ -67,5 +49,23 @@
   "antonyms": [],
   "synonyms": [
     "mistake.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do or think something that is wrong, or that is not what you intended to do or think. English = make a mistake, (be) mistaken.",
+    "2. To be wicked and enjoy doing things that harm other people. English = (be) evil.",
+    "3. To be extremely dirty. English = (be) filthy.",
+    "4. Of food, to no longer be fresh and to have started to rot. English = (be) rotten."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or opinion that is wrong, or that is not what you intended to do. English = mistake, error.",
+    "2. All the wicked and bad things that happen in the world. English = evil, wickedness.",
+    "3. A disgusting amount of dirt. English = filth.",
+    "4. Behaviour which is considered to be very bad and immoral. English = sin."
+  ],
+  "idGloss": "mistake.2",
+  "oldEntry": ""
 }

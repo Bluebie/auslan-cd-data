@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bootmaker",
-  "oldentry": "",
   "english": [
     "bootmaker"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who makes or repairs shoes. English = bootmaker."
-  ],
   "signNumber": 1332,
   "recordNumber": 789,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 11,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who makes or repairs shoes. English = bootmaker."
+  ],
+  "idGloss": "bootmaker",
+  "oldEntry": ""
 }

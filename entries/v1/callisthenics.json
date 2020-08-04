@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "callisthenics",
-  "oldentry": "",
   "english": [
     "callisthenics",
     "gymnastics",
     "exercises"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do energetic movements in order to become fit or to remain healthy. English = do exercises, do callisthenics, do gymnastics."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Energetic movements which you do in order to become fit or remain healthy. English = callisthenics, gymnastics, exercises."
-  ],
   "signNumber": 3614,
   "recordNumber": 2130,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "gym"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do energetic movements in order to become fit or to remain healthy. English = do exercises, do callisthenics, do gymnastics."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Energetic movements which you do in order to become fit or remain healthy. English = callisthenics, gymnastics, exercises."
+  ],
+  "idGloss": "callisthenics",
+  "oldEntry": ""
 }

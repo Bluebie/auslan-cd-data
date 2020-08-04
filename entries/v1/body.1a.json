@@ -18,28 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "body.1a",
-  "oldentry": "",
   "english": [
     "body",
     "trunk",
     "physical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Qualities, actions, or things which are connected with a person's body, rather than with their mind. English = (be) physical."
-  ],
   "cf": [
     "human"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the main physical parts of a person, including the head, arms and legs. English = body.",
-    "2. A person who is dead. English = body.",
-    "3. The main central part of your body, but not your neck, head, legs, or arms. English = trunk."
   ],
   "signNumber": 3801,
   "recordNumber": 2257,
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "body.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Qualities, actions, or things which are connected with a person's body, rather than with their mind. English = (be) physical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the main physical parts of a person, including the head, arms and legs. English = body.",
+    "2. A person who is dead. English = body.",
+    "3. The main central part of your body, but not your neck, head, legs, or arms. English = trunk."
+  ],
+  "idGloss": "body.1a",
+  "oldEntry": ""
 }

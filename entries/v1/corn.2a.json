@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of holding on to something long and more or less cylindrical and rotating it near the mouth, or any thing or any action directly or indirectly associated with this, especially eating a cob of corn or a bone.",
-  "questlex": [],
-  "idgloss": "corn.2a",
-  "oldentry": "Popular explanation: holding and eating a cob of corn.",
   "english": [
     "corn",
     "cob",
@@ -33,18 +29,7 @@
     "bone"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat corn on the cob.",
-    "2. To eat the flesh around the bone of an animal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tall crop which produces yellow grains packed tightly on large spikes. English = corn.",
-    "2. The yellow grain spikes of corn, especially when they have been harvested. English = cob of corn, corn cob.",
-    "3. One of the hard parts inside an animal's body, which together form its skeleton, after the animal has been killed and dismembered. English = bone."
-  ],
   "signNumber": 5732,
   "recordNumber": 3396,
   "signVisualComposition": "",
@@ -57,5 +42,20 @@
     "corn.1",
     "bone.1",
     "bone.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat corn on the cob.",
+    "2. To eat the flesh around the bone of an animal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of holding on to something long and more or less cylindrical and rotating it near the mouth, or any thing or any action directly or indirectly associated with this, especially eating a cob of corn or a bone.",
+  "nominalLexeme": [
+    "1. A tall crop which produces yellow grains packed tightly on large spikes. English = corn.",
+    "2. The yellow grain spikes of corn, especially when they have been harvested. English = cob of corn, corn cob.",
+    "3. One of the hard parts inside an animal's body, which together form its skeleton, after the animal has been killed and dismembered. English = bone."
+  ],
+  "idGloss": "corn.2a",
+  "oldEntry": "Popular explanation: holding and eating a cob of corn."
 }

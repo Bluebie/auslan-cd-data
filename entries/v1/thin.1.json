@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thin.1",
-  "oldentry": "Popular explanation: the outline of something tall and thin.",
   "english": [
     "thin",
     "skinny",
@@ -34,15 +30,7 @@
     "narrow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or an animal, to have very little fat on its body. English = (be) thin, (be) skinny, (be) lean.",
-    "2. [With cheeks sucked in], to be very thin. English = (be) gaunt.",
-    "3. Of anything, to have a small distance between its two opposite surfaces. English = (be) thin, (be) narrow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5438,
   "recordNumber": 3237,
   "signVisualComposition": "",
@@ -58,5 +46,17 @@
     "skinny",
     "emaciated.1",
     "thin.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or an animal, to have very little fat on its body. English = (be) thin, (be) skinny, (be) lean.",
+    "2. [With cheeks sucked in], to be very thin. English = (be) gaunt.",
+    "3. Of anything, to have a small distance between its two opposite surfaces. English = (be) thin, (be) narrow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "thin.1",
+  "oldEntry": "Popular explanation: the outline of something tall and thin."
 }

@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "healthy",
-  "oldentry": "",
   "english": [
     "health",
     "well-being",
@@ -28,18 +24,8 @@
     "fit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be well and not suffering from any illness. English = (be) healthy, (be) fit."
-  ],
   "cf": [
     "cure"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state in which you are fit and well and not ill. English = health.",
-    "2. Your condition in life (mental and physical), that is whether you are healthy and happy. English = well-being.",
-    "3. The condition of your body. English = health."
   ],
   "signNumber": 3443,
   "recordNumber": 2010,
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "well.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be well and not suffering from any illness. English = (be) healthy, (be) fit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state in which you are fit and well and not ill. English = health.",
+    "2. Your condition in life (mental and physical), that is whether you are healthy and happy. English = well-being.",
+    "3. The condition of your body. English = health."
+  ],
+  "idGloss": "healthy",
+  "oldEntry": ""
 }

@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of swivelling one flat object down onto another, or any thing or any object that is directly or indirectly associated with this, especially closing a trapdoor or hatch.",
-  "questlex": [],
-  "idgloss": "hatch.close",
-  "oldentry": "",
   "english": [
     "trapdoor",
     "hatch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To close a trapdoor or hatch."
-  ],
   "cf": [
     "hatch.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4370,
   "recordNumber": 2661,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [
     "hatch.close"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To close a trapdoor or hatch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of swivelling one flat object down onto another, or any thing or any object that is directly or indirectly associated with this, especially closing a trapdoor or hatch.",
+  "nominalLexeme": [],
+  "idGloss": "hatch.close",
+  "oldEntry": ""
 }

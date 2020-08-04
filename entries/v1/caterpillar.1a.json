@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "caterpillar.1a",
-  "oldentry": "Popular explanation: the shape of a crawling grub.",
   "english": [
     "worm",
     "caterpillar",
@@ -30,19 +26,8 @@
     "crawl"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To crawl around like a worm, caterpillar or grub."
-  ],
   "cf": [
     "maggot"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small animal with a longish soft body (usually with no legs) and no bones that wiggles around on plants or on or in the ground.",
-    "2. A small animal with a long thin body, no bones, and no legs, which lives in the soil. English = worm.",
-    "3. A small worm-like animal that feeds on plants and eventually develops into a butterfly or moth. English = caterpillar.",
-    "4. A young insect which has just come out of an egg and looks like a short fat worm. English = grub."
   ],
   "signNumber": 1218,
   "recordNumber": 718,
@@ -52,5 +37,20 @@
   "primaryLocation": 15,
   "secondLocation": 20,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To crawl around like a worm, caterpillar or grub."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small animal with a longish soft body (usually with no legs) and no bones that wiggles around on plants or on or in the ground.",
+    "2. A small animal with a long thin body, no bones, and no legs, which lives in the soil. English = worm.",
+    "3. A small worm-like animal that feeds on plants and eventually develops into a butterfly or moth. English = caterpillar.",
+    "4. A young insect which has just come out of an egg and looks like a short fat worm. English = grub."
+  ],
+  "idGloss": "caterpillar.1a",
+  "oldEntry": "Popular explanation: the shape of a crawling grub."
 }

@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "commandment",
-  "oldentry": "",
   "english": [
     "commandment"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of ten rules of behaviour which, according to the Old Testament in the Bible, Christians believe God said people should obey. English = commandment."
-  ],
   "signNumber": 4683,
   "recordNumber": 2829,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of ten rules of behaviour which, according to the Old Testament in the Bible, Christians believe God said people should obey. English = commandment."
+  ],
+  "idGloss": "commandment",
+  "oldEntry": ""
 }

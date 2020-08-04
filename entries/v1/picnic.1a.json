@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "picnic.1a",
-  "oldentry": "",
   "english": [
     "picnic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a meal outside, usually in a field, forest or at the beach. English = picnic."
-  ],
   "cf": [
     "party.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A meal which is eaten outside, usually in a field or forest or at the beach. English = picnic."
   ],
   "signNumber": 123,
   "recordNumber": 65,
@@ -44,5 +32,17 @@
   "synonyms": [
     "picnic.2",
     "picnic.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a meal outside, usually in a field, forest or at the beach. English = picnic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A meal which is eaten outside, usually in a field or forest or at the beach. English = picnic."
+  ],
+  "idGloss": "picnic.1a",
+  "oldEntry": ""
 }

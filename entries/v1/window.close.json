@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "window.close",
-  "oldentry": "",
   "english": [
     "window"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To close a space in a wall or roof or in the side of a vehicle, often with glass in it so that light can pass through it and people can see through it; to close a window."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4144,
   "recordNumber": 2499,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   ],
   "synonyms": [
     "window"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To close a space in a wall or roof or in the side of a vehicle, often with glass in it so that light can pass through it and people can see through it; to close a window."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "window.close",
+  "oldEntry": ""
 }

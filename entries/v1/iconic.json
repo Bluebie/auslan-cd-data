@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "iconic",
-  "oldentry": "",
   "english": [
     "iconicity",
     "iconic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a symbol (especially a sign in a sign language) to look like or resemble the thing it stands for or means. English = (be) iconic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality that symbols (especially signs in a sign language) can have whereby the symbol looks like or resembles the thing it stands for or means. English = iconicity."
-  ],
   "signNumber": 5506,
   "recordNumber": 3263,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a symbol (especially a sign in a sign language) to look like or resemble the thing it stands for or means. English = (be) iconic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality that symbols (especially signs in a sign language) can have whereby the symbol looks like or resembles the thing it stands for or means. English = iconicity."
+  ],
+  "idGloss": "iconic",
+  "oldEntry": ""
 }

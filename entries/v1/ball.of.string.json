@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of pulling something small or long and thin out of a round object, such as a length of string from a ball of string, or any thing or any action directly or indirectly associated with this, especially string.",
-  "questlex": [],
-  "idgloss": "ball.of.string",
-  "oldentry": "",
   "english": [
     "string"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thin rope made of twisted threads. English = string.",
-    "2. A long piece of string rolled into a ball. English = ball of string."
-  ],
   "signNumber": 484,
   "recordNumber": 268,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "antonyms": [],
   "synonyms": [
     "string.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of pulling something small or long and thin out of a round object, such as a length of string from a ball of string, or any thing or any action directly or indirectly associated with this, especially string.",
+  "nominalLexeme": [
+    "1. A thin rope made of twisted threads. English = string.",
+    "2. A long piece of string rolled into a ball. English = ball of string."
+  ],
+  "idGloss": "ball.of.string",
+  "oldEntry": ""
 }

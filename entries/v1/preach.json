@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "preach",
-  "oldentry": "",
   "english": [
     "preacher",
     "sermon",
     "preach"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give a talk on a religious or moral subject during a church service; to try to persuade other people to accept a belief or to take a course of action. English = preach."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person, usually a member of the clergy, who preaches sermons as part of a church service. English = preacher.",
-    "2. A talk on a religious or moral subject during a church service; a talk which tries to persuade other people to accept a belief or to take a course of action. English = sermon."
-  ],
   "signNumber": 625,
   "recordNumber": 362,
   "signVisualComposition": "SAY + LECTURE",
@@ -47,5 +34,18 @@
   "antonyms": [],
   "synonyms": [
     "lecture.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give a talk on a religious or moral subject during a church service; to try to persuade other people to accept a belief or to take a course of action. English = preach."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person, usually a member of the clergy, who preaches sermons as part of a church service. English = preacher.",
+    "2. A talk on a religious or moral subject during a church service; a talk which tries to persuade other people to accept a belief or to take a course of action. English = sermon."
+  ],
+  "idGloss": "preach",
+  "oldEntry": ""
 }

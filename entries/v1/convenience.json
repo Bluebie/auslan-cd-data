@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "convenience",
-  "oldentry": "",
   "english": [
     "toilet",
     "lavatory",
@@ -28,13 +24,7 @@
     "W.C."
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small room with a toilet, especially a public one with several rooms and several toilets. English = toilet, lavatory. Informal English = loo. Euphemistic formal English = convenience, conveniences, W.C."
-  ],
   "signNumber": 5342,
   "recordNumber": 3198,
   "signVisualComposition": "",
@@ -47,5 +37,15 @@
     "toilet.1",
     "toilet.2",
     "toilet.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small room with a toilet, especially a public one with several rooms and several toilets. English = toilet, lavatory. Informal English = loo. Euphemistic formal English = convenience, conveniences, W.C."
+  ],
+  "idGloss": "convenience",
+  "oldEntry": ""
 }

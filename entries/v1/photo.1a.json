@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "photo.1a",
-  "oldentry": "Popular explanation: copy the face.",
   "english": [
     "photo",
     "photography",
@@ -32,19 +28,9 @@
     "photographic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a camera to make a picture. English = photo, photograph.",
-    "2. To relate to photography. English = (be) photographic."
-  ],
   "cf": [
     "camera.1",
     "camera.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture that is made by using a camera. English = photo, photography, picture.",
-    "2. The art and skill of using a camera and producing photographs. English = photography."
   ],
   "signNumber": 2435,
   "recordNumber": 1351,
@@ -54,5 +40,19 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a camera to make a picture. English = photo, photograph.",
+    "2. To relate to photography. English = (be) photographic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture that is made by using a camera. English = photo, photography, picture.",
+    "2. The art and skill of using a camera and producing photographs. English = photography."
+  ],
+  "idGloss": "photo.1a",
+  "oldEntry": "Popular explanation: copy the face."
 }

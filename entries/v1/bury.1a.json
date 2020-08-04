@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bury.1a",
-  "oldentry": "Popular explanation: the coffin lowering into the grave, the sides of a grave.",
   "english": [
     "funeral",
     "burial",
@@ -33,19 +29,8 @@
     "bury"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put the body of a dead person into the ground and cover it with earth. English = bury."
-  ],
   "cf": [
     "coffin.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ceremony that takes place when a dead body is put into the ground and covered or burnt. English = funeral.",
-    "2. The ceremony that takes place when a dead body is put into the ground and covered. English = burial.",
-    "3. The place where a dead body is put into the ground and covered. English = grave.",
-    "4. A place where dead people are buried. English = cemetery."
   ],
   "signNumber": 3950,
   "recordNumber": 2355,
@@ -57,5 +42,20 @@
   "antonyms": [],
   "synonyms": [
     "funeral.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put the body of a dead person into the ground and cover it with earth. English = bury."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ceremony that takes place when a dead body is put into the ground and covered or burnt. English = funeral.",
+    "2. The ceremony that takes place when a dead body is put into the ground and covered. English = burial.",
+    "3. The place where a dead body is put into the ground and covered. English = grave.",
+    "4. A place where dead people are buried. English = cemetery."
+  ],
+  "idGloss": "bury.1a",
+  "oldEntry": "Popular explanation: the coffin lowering into the grave, the sides of a grave."
 }

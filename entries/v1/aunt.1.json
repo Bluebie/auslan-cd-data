@@ -18,24 +18,14 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "aunt.1",
-  "oldentry": "",
   "english": [
     "aunt",
     "auntie",
     "aunty"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cousin"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sister of your mother or father, or the wife of the brother of your mother or father. English = aunt, auntie, aunty."
   ],
   "signNumber": 4837,
   "recordNumber": 2922,
@@ -50,5 +40,15 @@
   "synonyms": [
     "aunt.2a",
     "aunt.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sister of your mother or father, or the wife of the brother of your mother or father. English = aunt, auntie, aunty."
+  ],
+  "idGloss": "aunt.1",
+  "oldEntry": ""
 }

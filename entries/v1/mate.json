@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mate",
-  "oldentry": "",
   "english": [
     "mate",
     "pal",
@@ -27,15 +23,7 @@
     "friend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To know a person well and to like spending time with them. English = (be) mates, (be) pals, (be) chums, (be) friends."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person you know well and like to spend time with. English = mate, pal, chum, friend."
-  ],
   "signNumber": 4832,
   "recordNumber": 2918,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "friend.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To know a person well and to like spending time with them. English = (be) mates, (be) pals, (be) chums, (be) friends."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person you know well and like to spend time with. English = mate, pal, chum, friend."
+  ],
+  "idGloss": "mate",
+  "oldEntry": ""
 }

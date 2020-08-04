@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "supply",
-  "oldentry": "",
   "english": [
     "supply",
     "provide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give someone something that they need or want. English = supply, provide."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6194,
   "recordNumber": 3700,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "distribute.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give someone something that they need or want. English = supply, provide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "supply",
+  "oldEntry": ""
 }

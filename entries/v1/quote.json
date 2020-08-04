@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "quote",
-  "oldentry": "Popular explanation: quotation marks.",
   "english": [
     "quote",
     "quotation",
@@ -34,18 +30,8 @@
     "so-called"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To repeat the exact words or signs that someone has said or written. English = quote. Formal English = cite.",
-    "2. To be the name or word that is generally used to describe something. You feel that there is something wrong or inappropriate about that name or word. English = (be) so-called."
-  ],
   "cf": [
     "inch"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sentence or phrase from a book, film, poem, song, or play. English = quote, quotation.",
-    "2. Punctuation marks that are used to show where something someone has said or a quotation begins and ends. English = quotation marks, inverted commas."
   ],
   "signNumber": 1636,
   "recordNumber": 972,
@@ -55,5 +41,19 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To repeat the exact words or signs that someone has said or written. English = quote. Formal English = cite.",
+    "2. To be the name or word that is generally used to describe something. You feel that there is something wrong or inappropriate about that name or word. English = (be) so-called."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sentence or phrase from a book, film, poem, song, or play. English = quote, quotation.",
+    "2. Punctuation marks that are used to show where something someone has said or a quotation begins and ends. English = quotation marks, inverted commas."
+  ],
+  "idGloss": "quote",
+  "oldEntry": "Popular explanation: quotation marks."
 }

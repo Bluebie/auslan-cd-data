@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "In context, used to refer to any thing or any action named with an English word beginning with 'm' particularly if it has already been fully fingerspelt earlier in the conversation, especially minute, month, metre, and maiden.",
-  "questlex": [],
-  "idgloss": "m.words",
-  "oldentry": "",
   "english": [
     "minute",
     "month",
@@ -28,16 +24,7 @@
     "maiden"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An abbreviation used to stand for one of the sixty equal parts of an hour. English = minute.",
-    "2. An abbreviation used to stand for one of the twelve periods of time that a year is divided into, for example January or February. English = month.",
-    "3. An abbreviation used to stand for a unit of length equal to 100 centimetres. English = metre.",
-    "4. In cricket, an over in which no runs are made. English = maiden."
-  ],
   "signNumber": 2348,
   "recordNumber": 1298,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "antonyms": [],
   "synonyms": [
     "minute.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "In context, used to refer to any thing or any action named with an English word beginning with 'm' particularly if it has already been fully fingerspelt earlier in the conversation, especially minute, month, metre, and maiden.",
+  "nominalLexeme": [
+    "1. An abbreviation used to stand for one of the sixty equal parts of an hour. English = minute.",
+    "2. An abbreviation used to stand for one of the twelve periods of time that a year is divided into, for example January or February. English = month.",
+    "3. An abbreviation used to stand for a unit of length equal to 100 centimetres. English = metre.",
+    "4. In cricket, an over in which no runs are made. English = maiden."
+  ],
+  "idGloss": "m.words",
+  "oldEntry": ""
 }

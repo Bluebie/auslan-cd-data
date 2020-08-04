@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "on",
-  "oldentry": "",
   "english": [
     "on",
     "at",
@@ -29,18 +25,7 @@
     "concerning"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located on a surface. English = (be) on.",
-    "2. To put something on a surface; to lay something on a surface; to place something on a surface.",
-    "3. To be located or situated at a place. English = (be) at."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to re-introduce a topic of discussion. English = about, with reference to.",
-    "2. Used after many verbs (especially 'talk', 'write' and 'think') and before a noun to mean that the topic of the activity is the following noun. English = on, about, concerning, pertaining to."
-  ],
-  "nomlex": [],
   "signNumber": 4269,
   "recordNumber": 2589,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "antonyms": [
     "off"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to re-introduce a topic of discussion. English = about, with reference to.",
+    "2. Used after many verbs (especially 'talk', 'write' and 'think') and before a noun to mean that the topic of the activity is the following noun. English = on, about, concerning, pertaining to."
+  ],
+  "verbLexeme": [
+    "1. To be located on a surface. English = (be) on.",
+    "2. To put something on a surface; to lay something on a surface; to place something on a surface.",
+    "3. To be located or situated at a place. English = (be) at."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "on",
+  "oldEntry": ""
 }

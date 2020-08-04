@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tunnel.1a",
-  "oldentry": "Popular explanation: going through and under.",
   "english": [
     "tunnel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel through a tunnel."
-  ],
   "cf": [
     "under",
     "rocket.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long passage which has been made under the ground, usually through a hill or under the sea. English = tunnel."
   ],
   "signNumber": 1226,
   "recordNumber": 724,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "tunnel.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel through a tunnel."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long passage which has been made under the ground, usually through a hill or under the sea. English = tunnel."
+  ],
+  "idGloss": "tunnel.1a",
+  "oldEntry": "Popular explanation: going through and under."
 }

@@ -9,23 +9,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cut.with.scissors",
-  "oldentry": "",
   "english": [
     "scissors"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut something with scissors."
-  ],
   "cf": [
     "scissors"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1606,
   "recordNumber": 956,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut something with scissors."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cut.with.scissors",
+  "oldEntry": ""
 }

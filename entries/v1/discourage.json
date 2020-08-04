@@ -17,27 +17,14 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "discourage",
-  "oldentry": "",
   "english": [
     "discouragement",
     "discouraged",
     "disappointed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lose your enthusiasm or to become unwilling to do something. English = (be) discouraged.",
-    "2. To be sad because something you wanted has not happened or because it is not as good as you hoped it would be. English = (be) disappointed. Idiomatic English = (be) let down."
-  ],
   "cf": [
     "humiliate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that makes you unwilling to do something because you are afraid of the consequences or because you have lost your enthusiasm. English = discouragement."
   ],
   "signNumber": 2881,
   "recordNumber": 1628,
@@ -51,5 +38,18 @@
   ],
   "synonyms": [
     "disappoint.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lose your enthusiasm or to become unwilling to do something. English = (be) discouraged.",
+    "2. To be sad because something you wanted has not happened or because it is not as good as you hoped it would be. English = (be) disappointed. Idiomatic English = (be) let down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that makes you unwilling to do something because you are afraid of the consequences or because you have lost your enthusiasm. English = discouragement."
+  ],
+  "idGloss": "discourage",
+  "oldEntry": ""
 }

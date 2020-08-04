@@ -13,26 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "should.not.2",
-  "oldentry": "",
   "english": [
     "should not",
     "must not",
     "ought not"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you think that the action under discussion is not right, it is not good that it happens, or that you feel that it will not happen."
-  ],
-  "partlex": [
-    "1. Used before or after a verb (action) sign to mean that you think that it is not right or not good that the action happens, or that you feel that it will not happen. English = shouldn't , ought not to.",
-    "You use this sign when you are suggesting that someone not do something."
-  ],
-  "nomlex": [],
   "signNumber": 4755,
   "recordNumber": 2875,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [
     "should.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean you think that the action under discussion is not right, it is not good that it happens, or that you feel that it will not happen."
+  ],
+  "particleLexeme": [
+    "1. Used before or after a verb (action) sign to mean that you think that it is not right or not good that the action happens, or that you feel that it will not happen. English = shouldn't , ought not to.",
+    "You use this sign when you are suggesting that someone not do something."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "should.not.2",
+  "oldEntry": ""
 }

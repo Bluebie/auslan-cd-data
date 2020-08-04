@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serviette.2",
-  "oldentry": "Popular explanation: dabbing the lips with a serviette.",
   "english": [
     "serviette",
     "napkin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wipe your mouth or to dab your lips with a serviette."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A square of cloth or paper that you use to protect your clothes or to wipe your mouth when you are eating. English = serviette. American English = napkin."
-  ],
   "signNumber": 125,
   "recordNumber": 67,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "serviette.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wipe your mouth or to dab your lips with a serviette."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A square of cloth or paper that you use to protect your clothes or to wipe your mouth when you are eating. English = serviette. American English = napkin."
+  ],
+  "idGloss": "serviette.2",
+  "oldEntry": "Popular explanation: dabbing the lips with a serviette."
 }

@@ -16,24 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hearing.2",
-  "oldentry": "Popular explanation: the ear and the mouth.",
   "english": [
     "hearing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to hear and speak; to be able to hear and use speech; to be hearing; to be a hearing and speaking person."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who can hear and speak.",
-    "2. The sense of being able to hear sounds, especially speech, and the ability to speak."
-  ],
   "signNumber": 577,
   "recordNumber": 332,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "synonyms": [
     "hearing.1a",
     "speaking"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be able to hear and speak; to be able to hear and use speech; to be hearing; to be a hearing and speaking person."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who can hear and speak.",
+    "2. The sense of being able to hear sounds, especially speech, and the ability to speak."
+  ],
+  "idGloss": "hearing.2",
+  "oldEntry": "Popular explanation: the ear and the mouth."
 }

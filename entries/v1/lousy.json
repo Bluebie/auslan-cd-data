@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lousy",
-  "oldentry": "",
   "english": [
     "lousy",
     "rotten",
@@ -38,17 +34,7 @@
     "go off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be of very bad quality and not to be liked at all; to be worth nothing at all. English = (be) lousy, (be) rotten; (be) worthless.",
-    "2. To severely harm, damage or spoil something; to damage something so that it no longer works. English = ruin.",
-    "3. (When talking of food, wood or the bodies of animals) to become no good because they are getting old, dying, or are dead and are being attacked by micro-organisms or insects. English = rot, decay, go off."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you think something is of very bad quality or that you think someone has very poor skills or abilities. English = 'Hopeless!', 'What crap!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4916,
   "recordNumber": 2970,
   "signVisualComposition": "",
@@ -62,5 +48,19 @@
   "synonyms": [
     "terrible",
     "mistake.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you think something is of very bad quality or that you think someone has very poor skills or abilities. English = 'Hopeless!', 'What crap!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be of very bad quality and not to be liked at all; to be worth nothing at all. English = (be) lousy, (be) rotten; (be) worthless.",
+    "2. To severely harm, damage or spoil something; to damage something so that it no longer works. English = ruin.",
+    "3. (When talking of food, wood or the bodies of animals) to become no good because they are getting old, dying, or are dead and are being attacked by micro-organisms or insects. English = rot, decay, go off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lousy",
+  "oldEntry": ""
 }

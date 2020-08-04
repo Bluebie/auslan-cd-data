@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tiny.1",
-  "oldentry": "",
   "english": [
     "bit",
     "tiny",
@@ -34,20 +30,8 @@
     "slightly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very small or very little. English = (be) tiny.",
-    "2. To be extremely small. English = (be) minute.",
-    "3. To be very small in degree or quantity. English = (be) slight."
-  ],
   "cf": [
     "instant.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that that action or quality is done or exists only to a small extent or degree. English = slightly, a bit."
-  ],
-  "nomlex": [
-    "1. A very small amount or piece of something. English = bit."
   ],
   "signNumber": 5454,
   "recordNumber": 3243,
@@ -63,5 +47,21 @@
   "synonyms": [
     "less.1a",
     "little.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that that action or quality is done or exists only to a small extent or degree. English = slightly, a bit."
+  ],
+  "verbLexeme": [
+    "1. To be very small or very little. English = (be) tiny.",
+    "2. To be extremely small. English = (be) minute.",
+    "3. To be very small in degree or quantity. English = (be) slight."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very small amount or piece of something. English = bit."
+  ],
+  "idGloss": "tiny.1",
+  "oldEntry": ""
 }

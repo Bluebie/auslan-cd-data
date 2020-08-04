@@ -18,27 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "responsibility.2",
-  "oldentry": "",
   "english": [
     "responsibility",
     "burden",
     "duty"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "burden"
-  ],
-  "interj": [
-    "1. Used alone to mean that you think the person you are talking to or about (you point the end of the sign towards that person) has the duty to do something about something. English = 'It's your responsibility!', 'That's your problem!'",
-    "2. Used alone to mean that you think the issue or problem under discussion belongs to the person you are talking to or about (you point the end of the sign towards that person) and not anyone else, including you. English = 'It's your business.'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The obligation that a person has to deal with something or make decisions relating to something and not ignore it or give the work to someone else. English = responsibility, duty."
   ],
   "signNumber": 4187.1,
   "recordNumber": 2534,
@@ -52,5 +39,18 @@
   ],
   "synonyms": [
     "responsibility.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you think the person you are talking to or about (you point the end of the sign towards that person) has the duty to do something about something. English = 'It's your responsibility!', 'That's your problem!'",
+    "2. Used alone to mean that you think the issue or problem under discussion belongs to the person you are talking to or about (you point the end of the sign towards that person) and not anyone else, including you. English = 'It's your business.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The obligation that a person has to deal with something or make decisions relating to something and not ignore it or give the work to someone else. English = responsibility, duty."
+  ],
+  "idGloss": "responsibility.2",
+  "oldEntry": ""
 }

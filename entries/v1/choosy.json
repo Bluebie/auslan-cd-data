@@ -15,26 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "choosy",
-  "oldentry": "",
   "english": [
     "indecisive",
     "choosy",
     "fastidious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to find it not easy to make decisions or choices. English = (be) indecisive.",
-    "2. Of a person, to be difficult to please, because they will only accept something if it is exactly what they want. English = (be) choosy, (be) fastidious."
-  ],
   "cf": [
     "which.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6610,
   "recordNumber": 3933,
   "signVisualComposition": "",
@@ -43,5 +32,16 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to find it not easy to make decisions or choices. English = (be) indecisive.",
+    "2. Of a person, to be difficult to please, because they will only accept something if it is exactly what they want. English = (be) choosy, (be) fastidious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "choosy",
+  "oldEntry": ""
 }

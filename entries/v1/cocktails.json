@@ -11,21 +11,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cocktails",
-  "oldentry": "Popular explanation: mixing a drink using a cocktail shaker.",
   "english": [
     "cocktail"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An alcoholic drink which contains several ingredients which are often shaken together. English = cocktail."
-  ],
   "signNumber": 2996,
   "recordNumber": 1707,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An alcoholic drink which contains several ingredients which are often shaken together. English = cocktail."
+  ],
+  "idGloss": "cocktails",
+  "oldEntry": "Popular explanation: mixing a drink using a cocktail shaker."
 }

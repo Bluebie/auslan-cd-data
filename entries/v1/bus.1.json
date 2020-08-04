@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bus.1",
-  "oldentry": "Popular explanation: steering a large vehicle.",
   "english": [
     "bus",
     "truck",
@@ -36,18 +32,7 @@
     "lorry driver"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drive a large vehicle, such as a bus, truck, lorry, or tractor."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large vehicle, such as a bus, truck, lorry, or tractor which has a large, almost horizontal, steering wheel.",
-    "2. A large motor vehicle that carries passengers from one place to another. English = bus.",
-    "3. A large vehicle that is used to transport goods by road. English = truck, lorry.",
-    "4. A person whose job is driving buses, trucks or lorries. English = bus driver, truck driver, lorry driver."
-  ],
   "signNumber": 5931,
   "recordNumber": 3529,
   "signVisualComposition": "",
@@ -60,5 +45,20 @@
     "van.1",
     "truck",
     "tractor.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drive a large vehicle, such as a bus, truck, lorry, or tractor."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large vehicle, such as a bus, truck, lorry, or tractor which has a large, almost horizontal, steering wheel.",
+    "2. A large motor vehicle that carries passengers from one place to another. English = bus.",
+    "3. A large vehicle that is used to transport goods by road. English = truck, lorry.",
+    "4. A person whose job is driving buses, trucks or lorries. English = bus driver, truck driver, lorry driver."
+  ],
+  "idGloss": "bus.1",
+  "oldEntry": "Popular explanation: steering a large vehicle."
 }

@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "last.week.1",
-  "oldentry": "",
   "english": [
     "week",
     "last week"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean the action took place the week before the week of speaking. English = last week, one week ago.",
-    "2. Used at the beginning or end of a sentence or immediately next to a verb to mean the action took place the week before an already specified week in the past. English = the previous week, one week before that."
-  ],
-  "nomlex": [
-    "1. The calendar week before the week of speaking. English = last week, one week ago.",
-    "2. The calendar week before an already specified week in the past. English = the week before that, the previous week."
-  ],
   "signNumber": 1032,
   "recordNumber": 604,
   "signVisualComposition": "YESTERDAY + WEEK",
@@ -47,5 +33,19 @@
   "antonyms": [],
   "synonyms": [
     "last.week.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean the action took place the week before the week of speaking. English = last week, one week ago.",
+    "2. Used at the beginning or end of a sentence or immediately next to a verb to mean the action took place the week before an already specified week in the past. English = the previous week, one week before that."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The calendar week before the week of speaking. English = last week, one week ago.",
+    "2. The calendar week before an already specified week in the past. English = the week before that, the previous week."
+  ],
+  "idGloss": "last.week.1",
+  "oldEntry": ""
 }

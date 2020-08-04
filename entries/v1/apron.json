@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "apron",
-  "oldentry": "",
   "english": [
     "apron"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on an apron."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing that you put on over the front of your normal clothes and tie round your waist, especially when you are cooking, in order to prevent your clothes from getting dirty. English = apron."
-  ],
   "signNumber": 6205,
   "recordNumber": 3708,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 16,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on an apron."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing that you put on over the front of your normal clothes and tie round your waist, especially when you are cooking, in order to prevent your clothes from getting dirty. English = apron."
+  ],
+  "idGloss": "apron",
+  "oldEntry": ""
 }

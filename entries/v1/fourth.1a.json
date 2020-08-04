@@ -14,26 +14,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fourth.1a",
-  "oldentry": "",
   "english": [
     "fourth",
     "fourthly"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "first.1a",
     "second.5a",
     "third.2a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a phrase to mean that what you are talking about is the fourth of four, or the fourth in a series. It is often used to relate siblings in a family to each other. English = fourthly, the fourth is, the fourth-born is."
-  ],
-  "nomlex": [],
   "signNumber": 3997,
   "recordNumber": 2389,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a phrase to mean that what you are talking about is the fourth of four, or the fourth in a series. It is often used to relate siblings in a family to each other. English = fourthly, the fourth is, the fourth-born is."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fourth.1a",
+  "oldEntry": ""
 }

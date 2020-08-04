@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A box-like thing near the eyes or any thing or any action directly or indirectly associated with this, especially tunnel-vision.",
-  "questlex": [],
-  "idgloss": "tunnel-vision",
-  "oldentry": "",
   "english": [
     "tunnel-vision"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A medical condition in which peripheral vision is greatly reduced. English = tunnel-vision."
-  ],
   "signNumber": 3562,
   "recordNumber": 2089,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A box-like thing near the eyes or any thing or any action directly or indirectly associated with this, especially tunnel-vision.",
+  "nominalLexeme": [
+    "1. A medical condition in which peripheral vision is greatly reduced. English = tunnel-vision."
+  ],
+  "idGloss": "tunnel-vision",
+  "oldEntry": ""
 }

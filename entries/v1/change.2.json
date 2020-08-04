@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "change.2",
-  "oldentry": "",
   "english": [
     "change",
     "alteration",
@@ -46,22 +42,8 @@
     "evolve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become or make something different. English = change, alter.",
-    "2. [With attenuation] to change something slightly in order to improve it. English = modify.",
-    "3. [With augmentation] to completely change something. English = transform.",
-    "4. Of living and other dynamic things, to change over time in response to the environment in order to better suit it. English = adapt, evolve."
-  ],
   "cf": [
     "alternate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of something being different to what it was before; the aspect of something that is different from a previous condition. English = change, alteration.",
-    "2. [With attenuation] a small change in something which improves it. English = modification.",
-    "3. [With augmentation] a complete change in something. English = transformation.",
-    "4. The process of living or dynamic things changing over time in response to the environment that make it better suited to it. English = adaptations, evolution."
   ],
   "signNumber": 5781,
   "recordNumber": 3427,
@@ -73,5 +55,23 @@
   "antonyms": [],
   "synonyms": [
     "change.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become or make something different. English = change, alter.",
+    "2. [With attenuation] to change something slightly in order to improve it. English = modify.",
+    "3. [With augmentation] to completely change something. English = transform.",
+    "4. Of living and other dynamic things, to change over time in response to the environment in order to better suit it. English = adapt, evolve."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of something being different to what it was before; the aspect of something that is different from a previous condition. English = change, alteration.",
+    "2. [With attenuation] a small change in something which improves it. English = modification.",
+    "3. [With augmentation] a complete change in something. English = transformation.",
+    "4. The process of living or dynamic things changing over time in response to the environment that make it better suited to it. English = adaptations, evolution."
+  ],
+  "idGloss": "change.2",
+  "oldEntry": ""
 }

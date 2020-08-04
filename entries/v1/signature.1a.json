@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "signature.1a",
-  "oldentry": "",
   "english": [
     "signature",
     "contract",
@@ -37,22 +33,8 @@
     "apply"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To write your name in your own characteristic way on some kind of document. English = sign.",
-    "2. To make or be bound by a written and signed legal agreement. English = contract, (be) contracted.",
-    "3. To make a formal written request for a position in an organisation. English = apply, make an application.",
-    "4. To add your name to a list, especially a list of people who are to do something. English = sign up."
-  ],
   "cf": [
     "petition"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Your name when you write it in your own characteristic way. English = signature.",
-    "2. A document which has been signed or which has space provided for a signature somewhere on it.",
-    "3. A legally binding agreement in the form of a document which has been or must be signed. English = contract.",
-    "4. A formal written request for a position in an organisation, such as a job or place at a college, which has been signed. English = application."
   ],
   "signNumber": 2152,
   "recordNumber": 1245,
@@ -64,5 +46,23 @@
   "antonyms": [],
   "synonyms": [
     "signature.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To write your name in your own characteristic way on some kind of document. English = sign.",
+    "2. To make or be bound by a written and signed legal agreement. English = contract, (be) contracted.",
+    "3. To make a formal written request for a position in an organisation. English = apply, make an application.",
+    "4. To add your name to a list, especially a list of people who are to do something. English = sign up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Your name when you write it in your own characteristic way. English = signature.",
+    "2. A document which has been signed or which has space provided for a signature somewhere on it.",
+    "3. A legally binding agreement in the form of a document which has been or must be signed. English = contract.",
+    "4. A formal written request for a position in an organisation, such as a job or place at a college, which has been signed. English = application."
+  ],
+  "idGloss": "signature.1a",
+  "oldEntry": ""
 }

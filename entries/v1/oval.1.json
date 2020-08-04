@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oval.1",
-  "oldentry": "",
   "english": [
     "oval"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat area sometimes elliptical on which sporting activities take place. English = oval."
-  ],
   "signNumber": 4948,
   "recordNumber": 2990,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat area sometimes elliptical on which sporting activities take place. English = oval."
+  ],
+  "idGloss": "oval.1",
+  "oldEntry": ""
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jigsaw.1a",
-  "oldentry": "",
   "english": [
     "jigsaw",
     "jigsaw puzzle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game using a picture on cardboard or wood that has been cut up into odd shapes. You have to make the picture again by putting the pieces together correctly. English = jigsaw, jigsaw puzzle."
-  ],
   "signNumber": 2757,
   "recordNumber": 1541,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game using a picture on cardboard or wood that has been cut up into odd shapes. You have to make the picture again by putting the pieces together correctly. English = jigsaw, jigsaw puzzle."
+  ],
+  "idGloss": "jigsaw.1a",
+  "oldEntry": ""
 }

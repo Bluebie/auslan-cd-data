@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "face.2a",
-  "oldentry": "",
   "english": [
     "face",
     "looks",
@@ -36,18 +32,7 @@
     "resemble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to have the same facial features as another person. English = look like, resemble.",
-    "2. Of a person, to look like an older relative. English = resemble, take after.",
-    "3. Of a person, to give the impression to other people from their expression or behaviour that they feel something or someone will do something . English = seem, look like, appear."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The front of your head from your forehead to your chin. English = face.",
-    "2. The way someone's face appears to other people and the degree to which it is thought to be pretty, handsome, or even ugly. English = looks."
-  ],
   "signNumber": 4476,
   "recordNumber": 2718,
   "signVisualComposition": "",
@@ -60,5 +45,20 @@
     "face.1a",
     "seem.1",
     "fair"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to have the same facial features as another person. English = look like, resemble.",
+    "2. Of a person, to look like an older relative. English = resemble, take after.",
+    "3. Of a person, to give the impression to other people from their expression or behaviour that they feel something or someone will do something . English = seem, look like, appear."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The front of your head from your forehead to your chin. English = face.",
+    "2. The way someone's face appears to other people and the degree to which it is thought to be pretty, handsome, or even ugly. English = looks."
+  ],
+  "idGloss": "face.2a",
+  "oldEntry": ""
 }

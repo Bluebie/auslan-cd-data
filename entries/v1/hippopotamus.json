@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hippopotamus",
-  "oldentry": "",
   "english": [
     "hippopotamus"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large animal with short legs and thick, wrinkled skin and a large rounded jaw. They live near rivers in Africa. English = hippopotamus."
-  ],
   "signNumber": 3582,
   "recordNumber": 2104,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 9,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large animal with short legs and thick, wrinkled skin and a large rounded jaw. They live near rivers in Africa. English = hippopotamus."
+  ],
+  "idGloss": "hippopotamus",
+  "oldEntry": ""
 }

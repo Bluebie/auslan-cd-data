@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "private.3",
-  "oldentry": "",
   "english": [
     "private",
     "confidential"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be kept secret and not told or shown to anyone else. English = (be) private, (be) confidential."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 330.1,
   "recordNumber": 184,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "private.1",
     "private.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be kept secret and not told or shown to anyone else. English = (be) private, (be) confidential."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "private.3",
+  "oldEntry": ""
 }

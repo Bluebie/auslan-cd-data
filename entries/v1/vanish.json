@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vanish",
-  "oldentry": "",
   "english": [
     "disappearance",
     "vanish",
@@ -26,16 +22,7 @@
     "zoom off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To disappear suddenly and rapidly, usually by moving away into the distance. English = vanish.",
-    "2. To leave a place quickly or suddenly. Idiomatic English = dash off, zoom off."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process of something suddenly becoming unable to be seen or found, usually by moving away into the distance. English = disappearance."
-  ],
   "signNumber": 2429,
   "recordNumber": 1346,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "synonyms": [
     "disappear.2",
     "disappear.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To disappear suddenly and rapidly, usually by moving away into the distance. English = vanish.",
+    "2. To leave a place quickly or suddenly. Idiomatic English = dash off, zoom off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process of something suddenly becoming unable to be seen or found, usually by moving away into the distance. English = disappearance."
+  ],
+  "idGloss": "vanish",
+  "oldEntry": ""
 }

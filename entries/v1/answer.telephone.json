@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "answer.telephone",
-  "oldentry": "Popular explanation: picking up a telephone receiver.",
   "english": [
     "telephone call",
     "answer telephone"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pick up the telephone when it rings or because you want to make a telephone call. English = answer the telephone."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of telephoning someone. English = telephone call."
-  ],
   "signNumber": 6611,
   "recordNumber": 3934,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "synonyms": [
     "telephone.1",
     "TTY.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pick up the telephone when it rings or because you want to make a telephone call. English = answer the telephone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of telephoning someone. English = telephone call."
+  ],
+  "idGloss": "answer.telephone",
+  "oldEntry": "Popular explanation: picking up a telephone receiver."
 }

@@ -10,21 +10,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "auto-doors.close",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. Of automatic doors, to close."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The closing of a set of automatic doors."
-  ],
   "signNumber": 3734,
   "recordNumber": 2203,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "antonyms": [
     "auto-doors.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of automatic doors, to close."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The closing of a set of automatic doors."
+  ],
+  "idGloss": "auto-doors.close",
+  "oldEntry": ""
 }

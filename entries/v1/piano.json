@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "piano",
-  "oldentry": "Popular explanation: playing a piano.",
   "english": [
     "piano",
     "pianist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a piano."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument with a row of black and white keys. When these keys are pressed down by the player's fingers, little hammers hit wire strings and different notes are played. English = piano.",
-    "2. A person who plays the piano. English = pianist."
-  ],
   "signNumber": 2733,
   "recordNumber": 1524,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a piano."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A musical instrument with a row of black and white keys. When these keys are pressed down by the player's fingers, little hammers hit wire strings and different notes are played. English = piano.",
+    "2. A person who plays the piano. English = pianist."
+  ],
+  "idGloss": "piano",
+  "oldEntry": "Popular explanation: playing a piano."
 }

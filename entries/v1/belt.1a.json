@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "belt.1a",
-  "oldentry": "Popular explanation: the trace outline of a belt.",
   "english": [
     "belt"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "unbuckle"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strip of leather or cloth that you fasten around your waist. English = belt."
   ],
   "signNumber": 5477,
   "recordNumber": 3252,
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "buckle.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strip of leather or cloth that you fasten around your waist. English = belt."
+  ],
+  "idGloss": "belt.1a",
+  "oldEntry": "Popular explanation: the trace outline of a belt."
 }

@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "runs",
-  "oldentry": "Popular explanation: two people going backward and forward.",
   "english": [
     "runs"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In cricket, to make runs."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In cricket, a score of one which is made by players running between marked places on the pitch after hitting the ball. English = runs (plural)."
-  ],
   "signNumber": 930,
   "recordNumber": 530,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In cricket, to make runs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In cricket, a score of one which is made by players running between marked places on the pitch after hitting the ball. English = runs (plural)."
+  ],
+  "idGloss": "runs",
+  "oldEntry": "Popular explanation: two people going backward and forward."
 }

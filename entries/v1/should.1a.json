@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "should.1a",
-  "oldentry": "",
   "english": [
     "should",
     "must",
@@ -29,17 +25,7 @@
     "have to"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you think that the action under discussion is right, it is good that it happens, or that you feel that it will happen.",
-    "2. [With stress] used alone to mean you feel strongly that the action under discussion is right, it is good that it happens, or that you feel that it will happen or has happened."
-  ],
-  "partlex": [
-    "1. Used before or after a verb to mean that you think that it is right or good that the action happens, or that you feel that it will happen. You use this form of the sign when you are suggesting that someone do something.",
-    "Produced with stress it means that you feel very strongly that it happens, or that you are ordering someone to do something. English = should, ought to; (with stress) must, have to."
-  ],
-  "nomlex": [],
   "signNumber": 4754,
   "recordNumber": 2874,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   "synonyms": [
     "must.1a",
     "necessary"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you think that the action under discussion is right, it is good that it happens, or that you feel that it will happen.",
+    "2. [With stress] used alone to mean you feel strongly that the action under discussion is right, it is good that it happens, or that you feel that it will happen or has happened."
+  ],
+  "particleLexeme": [
+    "1. Used before or after a verb to mean that you think that it is right or good that the action happens, or that you feel that it will happen. You use this form of the sign when you are suggesting that someone do something.",
+    "Produced with stress it means that you feel very strongly that it happens, or that you are ordering someone to do something. English = should, ought to; (with stress) must, have to."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "should.1a",
+  "oldEntry": ""
 }

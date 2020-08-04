@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dollar.2a",
-  "oldentry": "Popular explanation: the outline of a bank-note.",
   "english": [
     "dollar",
     "buck"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "c.words.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A unit of money used in Australia, the USA, Canada, and some other countries. It is equal to 100 cents. English = dollar. Informal English = buck."
   ],
   "signNumber": 4673,
   "recordNumber": 2823,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "dollar.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A unit of money used in Australia, the USA, Canada, and some other countries. It is equal to 100 cents. English = dollar. Informal English = buck."
+  ],
+  "idGloss": "dollar.2a",
+  "oldEntry": "Popular explanation: the outline of a bank-note."
 }

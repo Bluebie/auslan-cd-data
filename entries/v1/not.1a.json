@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.1a",
-  "oldentry": "Popular explanation: the shape of the numeral zero.",
   "english": [
     "not",
     "no",
@@ -26,17 +22,9 @@
     "didn't"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "O.1"
   ],
-  "interj": [
-    "1. Used alone to say that something is not true, to refuse an offer, or to refuse permission. English = 'No!'"
-  ],
-  "partlex": [
-    "1. Used immediately next to a verb or adjective to mean the action or the quality does not happen or exist at the time specified or understood. English = not, don't, doesn't, didn't."
-  ],
-  "nomlex": [],
   "signNumber": 301,
   "recordNumber": 173,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to say that something is not true, to refuse an offer, or to refuse permission. English = 'No!'"
+  ],
+  "particleLexeme": [
+    "1. Used immediately next to a verb or adjective to mean the action or the quality does not happen or exist at the time specified or understood. English = not, don't, doesn't, didn't."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.1a",
+  "oldEntry": "Popular explanation: the shape of the numeral zero."
 }

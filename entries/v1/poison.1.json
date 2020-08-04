@@ -15,27 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "poison.1",
-  "oldentry": "",
   "english": [
     "poison",
     "poisonous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To kill a person or to make them ill by means of poison. English = poison.",
-    "2. To have the ability to kill you or make you ill if you eat it or absorb it in some way. English = (be) poisonous.",
-    "3. To have the ability to gossip quite viciously."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A substance that harms or kills people or animals if they swallow it or absorb it. English = poison.",
-    "2. A person who gossips quite viciously."
-  ],
   "signNumber": 1392,
   "recordNumber": 826,
   "signVisualComposition": "",
@@ -44,5 +29,20 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To kill a person or to make them ill by means of poison. English = poison.",
+    "2. To have the ability to kill you or make you ill if you eat it or absorb it in some way. English = (be) poisonous.",
+    "3. To have the ability to gossip quite viciously."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A substance that harms or kills people or animals if they swallow it or absorb it. English = poison.",
+    "2. A person who gossips quite viciously."
+  ],
+  "idGloss": "poison.1",
+  "oldEntry": ""
 }

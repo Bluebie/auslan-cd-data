@@ -16,24 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pudding.1a",
-  "oldentry": "",
   "english": [
     "pudding",
     "dessert",
     "sweet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cooked sweet food made with flour, fat, and eggs, and usually served hot and eaten at the end of a meal. English = pudding.",
-    "2. Something sweet, such as fruit or a pudding, that you eat at the end of a meal. English = dessert, sweet."
-  ],
   "signNumber": 4283,
   "recordNumber": 2603,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "antonyms": [],
   "synonyms": [
     "soup.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cooked sweet food made with flour, fat, and eggs, and usually served hot and eaten at the end of a meal. English = pudding.",
+    "2. Something sweet, such as fruit or a pudding, that you eat at the end of a meal. English = dessert, sweet."
+  ],
+  "idGloss": "pudding.1a",
+  "oldEntry": ""
 }

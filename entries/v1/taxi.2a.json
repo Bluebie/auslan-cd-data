@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "taxi.2a",
-  "oldentry": "Popular explanation: the roof light of a taxi.",
   "english": [
     "taxi"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A car driven by someone whose job is to take you where you want to go in return for money. English = taxi."
-  ],
   "signNumber": 8,
   "recordNumber": 6,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A car driven by someone whose job is to take you where you want to go in return for money. English = taxi."
+  ],
+  "idGloss": "taxi.2a",
+  "oldEntry": "Popular explanation: the roof light of a taxi."
 }

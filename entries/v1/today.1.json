@@ -17,22 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "today.1",
-  "oldentry": "",
   "english": [
     "today"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "now.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The day on which you are signing, speaking, or writing. English = today."
   ],
   "signNumber": 4357,
   "recordNumber": 2652,
@@ -48,5 +38,15 @@
   ],
   "synonyms": [
     "now.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The day on which you are signing, speaking, or writing. English = today."
+  ],
+  "idGloss": "today.1",
+  "oldEntry": ""
 }

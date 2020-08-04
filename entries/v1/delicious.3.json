@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "delicious.3",
-  "oldentry": "",
   "english": [
     "delicious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of food, to have a very pleasant taste. English = (be) delicious.",
-    "2. Of any experience, to be extremely enjoyable and pleasant."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1736,
   "recordNumber": 1041,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "synonyms": [
     "delicious.1",
     "delicious.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of food, to have a very pleasant taste. English = (be) delicious.",
+    "2. Of any experience, to be extremely enjoyable and pleasant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "delicious.3",
+  "oldEntry": ""
 }

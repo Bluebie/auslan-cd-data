@@ -18,26 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "frown",
-  "oldentry": "Popular explanation: the outline of a smile.",
   "english": [
     "unhappiness",
     "unhappy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To show that you are unhappy, displeased, or being unfriendly by turning down the corners of your mouth.",
-    "2. To feel displeasure when something unwanted or unwelcome has happened. English = (be) unhappy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The expression you have when you are unhappy, displeased, or being unfriendly by turning down the corners of your mouth.",
-    "2. The feeling of displeasure you have when something unwanted or unwelcome has happened. English = unhappiness."
-  ],
   "signNumber": 860,
   "recordNumber": 492,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
   "synonyms": [
     "sad.1a",
     "depressed.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To show that you are unhappy, displeased, or being unfriendly by turning down the corners of your mouth.",
+    "2. To feel displeasure when something unwanted or unwelcome has happened. English = (be) unhappy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The expression you have when you are unhappy, displeased, or being unfriendly by turning down the corners of your mouth.",
+    "2. The feeling of displeasure you have when something unwanted or unwelcome has happened. English = unhappiness."
+  ],
+  "idGloss": "frown",
+  "oldEntry": "Popular explanation: the outline of a smile."
 }

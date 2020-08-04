@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "This is one of the few Auslan verb signs which is a past tense form. (The sign 'go' is directed backwards.)",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gone.1",
-  "oldentry": "Popular explanation: waving something or someone away from oneself.",
   "english": [
     "gone",
     "went",
@@ -27,13 +23,7 @@
     "departed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have moved or travelled away from a place. English = gone, went, left, departed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3488,
   "recordNumber": 2039,
   "signVisualComposition": "",
@@ -47,5 +37,15 @@
   ],
   "synonyms": [
     "depart.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have moved or travelled away from a place. English = gone, went, left, departed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "gone.1",
+  "oldEntry": "Popular explanation: waving something or someone away from oneself."
 }

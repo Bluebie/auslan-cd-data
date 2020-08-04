@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "desire",
-  "oldentry": "",
   "english": [
     "thirst",
     "desire",
@@ -45,20 +41,7 @@
     "desirable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel the need to drink something. English = (be) thirsty.",
-    "2. To want something very much. English = desire, covet.",
-    "3. To have a strong feeling of wanting to have sex with someone. Formal English = desire, (be) lascivious. Informal English = (be) randy, (be) horny. Idiomatic English = have the hots for, (be) keen on.",
-    "4. To arouse strong sexual feelings in others. English = (be) desirable, (be) sexy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The need to drink something. English = thirst.",
-    "2. The feeling of wanting something very much. English = desire.",
-    "3. The strong feeling of wanting to have sex with someone. English = desire, randiness, attraction. Idiomatic English = the hots."
-  ],
   "signNumber": 3308,
   "recordNumber": 1931,
   "signVisualComposition": "",
@@ -69,5 +52,22 @@
   "antonyms": [],
   "synonyms": [
     "thirsty.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel the need to drink something. English = (be) thirsty.",
+    "2. To want something very much. English = desire, covet.",
+    "3. To have a strong feeling of wanting to have sex with someone. Formal English = desire, (be) lascivious. Informal English = (be) randy, (be) horny. Idiomatic English = have the hots for, (be) keen on.",
+    "4. To arouse strong sexual feelings in others. English = (be) desirable, (be) sexy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The need to drink something. English = thirst.",
+    "2. The feeling of wanting something very much. English = desire.",
+    "3. The strong feeling of wanting to have sex with someone. English = desire, randiness, attraction. Idiomatic English = the hots."
+  ],
+  "idGloss": "desire",
+  "oldEntry": ""
 }

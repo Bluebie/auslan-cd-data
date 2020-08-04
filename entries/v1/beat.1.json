@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of holding something and using it to hit something or someone (ie, beating, striking, or hitting), or any action or any thing directly or indirectly associated with this, such as a baton, a stick, a club, and so on.",
-  "questlex": [],
-  "idgloss": "beat.1",
-  "oldentry": "Popular explanation: holding something and striking something else.",
   "english": [
     "beat",
     "strike",
@@ -28,11 +24,7 @@
     "club"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5663,
   "recordNumber": 3356,
   "signVisualComposition": "",
@@ -43,5 +35,13 @@
   "antonyms": [],
   "synonyms": [
     "hit"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of holding something and using it to hit something or someone (ie, beating, striking, or hitting), or any action or any thing directly or indirectly associated with this, such as a baton, a stick, a club, and so on.",
+  "nominalLexeme": [],
+  "idGloss": "beat.1",
+  "oldEntry": "Popular explanation: holding something and striking something else."
 }

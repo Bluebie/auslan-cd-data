@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "double-breasted suit",
-  "oldentry": "",
   "english": [
     "suit",
     "double-breasted suit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear or put on a double-breasted suit or jacket."
-  ],
   "cf": [
     "jacket.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A suit in which the jacket or coat has two very wide sections at the front which overlap when you button them up. English = double-breasted jacket, double-breasted suit."
   ],
   "signNumber": 3767,
   "recordNumber": 2228,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "suit"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear or put on a double-breasted suit or jacket."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A suit in which the jacket or coat has two very wide sections at the front which overlap when you button them up. English = double-breasted jacket, double-breasted suit."
+  ],
+  "idGloss": "double-breasted suit",
+  "oldEntry": ""
 }

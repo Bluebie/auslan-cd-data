@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "possible",
-  "oldentry": "",
   "english": [
     "possibility",
     "potential",
@@ -35,22 +31,7 @@
     "possibly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to be done, or to be something that might happen. English = (be) possible.",
-    "2. [With affirmative head nod] to be likely to be true or to happen. English = (be) probable, (be) likely.",
-    "3. To be capable of becoming a particular kind of thing or of doing something. English = (be) potential."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to partially agree with someone about the likelihood of something being true or happening, even though you are not certain. English = 'Possibly...', 'Yes, it's possible...'"
-  ],
-  "partlex": [
-    "1. Used to introduce (or close) a sentence that you do not know for certain is true but you think might happen or might have happened. English = Possibly...,"
-  ],
-  "nomlex": [
-    "1. The opportunity for something to happen and the likelihood that it might happen. English = possibility.",
-    "2. The ability of something to become a particular kind of thing or to do something. English = potential."
-  ],
   "signNumber": 5079,
   "recordNumber": 3064,
   "signVisualComposition": "",
@@ -62,5 +43,24 @@
     "impossible.1a",
     "can't"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to partially agree with someone about the likelihood of something being true or happening, even though you are not certain. English = 'Possibly...', 'Yes, it's possible...'"
+  ],
+  "particleLexeme": [
+    "1. Used to introduce (or close) a sentence that you do not know for certain is true but you think might happen or might have happened. English = Possibly...,"
+  ],
+  "verbLexeme": [
+    "1. To be able to be done, or to be something that might happen. English = (be) possible.",
+    "2. [With affirmative head nod] to be likely to be true or to happen. English = (be) probable, (be) likely.",
+    "3. To be capable of becoming a particular kind of thing or of doing something. English = (be) potential."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The opportunity for something to happen and the likelihood that it might happen. English = possibility.",
+    "2. The ability of something to become a particular kind of thing or to do something. English = potential."
+  ],
+  "idGloss": "possible",
+  "oldEntry": ""
 }

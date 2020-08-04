@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "every.second.1a",
-  "oldentry": "",
   "english": [
     "second"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used in a sentence (immediately next to a verb, or at the beginning or end of the sentence) to mean that the action happens every second week or every second unit of time which has already been established (day, month, semester, year, etc.)."
-  ],
-  "nomlex": [
-    "1. Each and every week which is the second week in a cycle (usually of four weeks or a month), or each and every unit of time which is the second unit in a cycle."
-  ],
   "signNumber": 1127,
   "recordNumber": 662,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used in a sentence (immediately next to a verb, or at the beginning or end of the sentence) to mean that the action happens every second week or every second unit of time which has already been established (day, month, semester, year, etc.)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Each and every week which is the second week in a cycle (usually of four weeks or a month), or each and every unit of time which is the second unit in a cycle."
+  ],
+  "idGloss": "every.second.1a",
+  "oldEntry": ""
 }

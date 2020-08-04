@@ -19,26 +19,13 @@
   "sense": "",
   "blend": "ABSORB + BOOK",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "student.1a",
-  "oldentry": "",
   "english": [
     "student",
     "learn",
     "study"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To obtain knowledge about something as a result of reading and or being taught at a school, university or college. English = learn.",
-    "2. To spend time learning about a particular subject. English = study."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is learning about a particular subject, particularly in a school, college or university. English = student."
-  ],
   "signNumber": 2871,
   "recordNumber": 1622,
   "signVisualComposition": "",
@@ -53,5 +40,18 @@
     "study.1a",
     "study.2",
     "learn.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To obtain knowledge about something as a result of reading and or being taught at a school, university or college. English = learn.",
+    "2. To spend time learning about a particular subject. English = study."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is learning about a particular subject, particularly in a school, college or university. English = student."
+  ],
+  "idGloss": "student.1a",
+  "oldEntry": ""
 }

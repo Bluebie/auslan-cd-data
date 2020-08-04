@@ -15,23 +15,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pig",
-  "oldentry": "Popular explanation: the snout of a pig.",
   "english": [
     "pig",
     "pork"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A pink or black animal with short legs and not much hair on its skin. They are often kept on farms for their meat. English = pig.",
-    "2. Meat from a pig which is eaten as a food, especially if it is fresh and not smoked or salted. English = pork."
-  ],
   "signNumber": 5573,
   "recordNumber": 3298,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
     "rubbish",
     "greedy.1",
     "greedy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A pink or black animal with short legs and not much hair on its skin. They are often kept on farms for their meat. English = pig.",
+    "2. Meat from a pig which is eaten as a food, especially if it is fresh and not smoked or salted. English = pork."
+  ],
+  "idGloss": "pig",
+  "oldEntry": "Popular explanation: the snout of a pig."
 }

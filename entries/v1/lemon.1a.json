@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lemon.1a",
-  "oldentry": "",
   "english": [
     "lemon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "orange"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bright yellow fruit with a sour juice. English = lemon."
   ],
   "signNumber": 4490,
   "recordNumber": 2727,
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "lemon.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A bright yellow fruit with a sour juice. English = lemon."
+  ],
+  "idGloss": "lemon.1a",
+  "oldEntry": ""
 }

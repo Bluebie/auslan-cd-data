@@ -13,25 +13,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "draw.2",
-  "oldentry": "",
   "english": [
     "drawing",
     "draw"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a picture, pattern, or diagram using a pencil, pen, or crayon. English = draw."
-  ],
   "cf": [
     "print.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture made with a pencil, pen, or crayon. English = drawing."
   ],
   "signNumber": 1888,
   "recordNumber": 1129,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "draw.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a picture, pattern, or diagram using a pencil, pen, or crayon. English = draw."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture made with a pencil, pen, or crayon. English = drawing."
+  ],
+  "idGloss": "draw.2",
+  "oldEntry": ""
 }

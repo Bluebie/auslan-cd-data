@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "west",
-  "oldentry": "",
   "english": [
     "west",
     "western",
@@ -29,19 +25,9 @@
     "westwards"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located in or associated with the west. English = (be) west, (be) western, (be) westerly."
-  ],
   "cf": [
     "north",
     "south"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb to mean the direction of movement is towards the west. English = west, westwards."
-  ],
-  "nomlex": [
-    "1. The direction which you look towards in order to see the sun set. English = west."
   ],
   "signNumber": 2633,
   "recordNumber": 1462,
@@ -53,5 +39,19 @@
   "antonyms": [
     "east"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb to mean the direction of movement is towards the west. English = west, westwards."
+  ],
+  "verbLexeme": [
+    "1. To be located in or associated with the west. English = (be) west, (be) western, (be) westerly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The direction which you look towards in order to see the sun set. English = west."
+  ],
+  "idGloss": "west",
+  "oldEntry": ""
 }

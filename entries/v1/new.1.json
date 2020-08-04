@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "Some informants, especially those form WA and SA, also have a form in which the direction of the sweeping movement is reversed.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "new.1",
-  "oldentry": "",
   "english": [
     "newness",
     "novelty",
@@ -31,17 +27,7 @@
     "novel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be made or created recently; to be not owned or used by anyone else before; to be different from what you had, used, or experienced before; or to be only recently discovered. English = (be) new.",
-    "2. To be unlike anything that has been done or created before. English = (be) novel."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being recently made or created; of not being owned or used before; of being different from what you had before; or of being only recently discovered. English = newness.",
-    "2. The quality of being different, new, and unusual. English = novelty."
-  ],
   "signNumber": 4078,
   "recordNumber": 2445,
   "signVisualComposition": "",
@@ -55,5 +41,19 @@
   "synonyms": [
     "new.2",
     "born.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be made or created recently; to be not owned or used by anyone else before; to be different from what you had, used, or experienced before; or to be only recently discovered. English = (be) new.",
+    "2. To be unlike anything that has been done or created before. English = (be) novel."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being recently made or created; of not being owned or used before; of being different from what you had before; or of being only recently discovered. English = newness.",
+    "2. The quality of being different, new, and unusual. English = novelty."
+  ],
+  "idGloss": "new.1",
+  "oldEntry": ""
 }

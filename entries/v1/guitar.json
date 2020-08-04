@@ -16,28 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "guitar",
-  "oldentry": "Popular explanation: playing a guitar.",
   "english": [
     "guitar",
     "band",
     "strum"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a stringed instrument, especially a guitar. English = strum.",
-    "2. To play in a band; to be a member of a band."
-  ],
   "cf": [
     "conductor"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument with six strings. You play it by plucking or strumming the strings. English = guitar.",
-    "2. A group of musicians who play jazz, rock, or pop music.  English = band."
   ],
   "signNumber": 2886,
   "recordNumber": 1629,
@@ -47,5 +33,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a stringed instrument, especially a guitar. English = strum.",
+    "2. To play in a band; to be a member of a band."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A musical instrument with six strings. You play it by plucking or strumming the strings. English = guitar.",
+    "2. A group of musicians who play jazz, rock, or pop music.  English = band."
+  ],
+  "idGloss": "guitar",
+  "oldEntry": "Popular explanation: playing a guitar."
 }

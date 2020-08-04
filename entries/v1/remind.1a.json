@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "remind.1a",
-  "oldentry": "",
   "english": [
     "reminder",
     "remind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately say something to someone to make them think of and remember something they already know about. English = remind."
-  ],
   "cf": [
     "touch.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thing that makes you think of another thing. English = reminder.",
-    "2. A letter or message you receive that tells you that you have not done something you were supposed to do (eg, pay a bill). English = reminder."
   ],
   "signNumber": 3160,
   "recordNumber": 1831,
@@ -43,5 +30,18 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately say something to someone to make them think of and remember something they already know about. English = remind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing that makes you think of another thing. English = reminder.",
+    "2. A letter or message you receive that tells you that you have not done something you were supposed to do (eg, pay a bill). English = reminder."
+  ],
+  "idGloss": "remind.1a",
+  "oldEntry": ""
 }

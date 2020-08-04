@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "circle",
-  "oldentry": "Popular explanation: the outline of a circle.",
   "english": [
     "circle",
     "circular"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the shape of a circle. English = (be) circular.",
-    "2. To draw a circle around something or to move in a circular path around something. English = circle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shape consisting of a curved line completely surrounding an area. Every part of the line is the same distance from the centre of the area. English = circle."
-  ],
   "signNumber": 742,
   "recordNumber": 427,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "around.1a",
     "around.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the shape of a circle. English = (be) circular.",
+    "2. To draw a circle around something or to move in a circular path around something. English = circle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shape consisting of a curved line completely surrounding an area. Every part of the line is the same distance from the centre of the area. English = circle."
+  ],
+  "idGloss": "circle",
+  "oldEntry": "Popular explanation: the outline of a circle."
 }

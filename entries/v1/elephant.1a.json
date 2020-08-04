@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "elephant.1a",
-  "oldentry": "Popular explanation: the trunk of an elephant.",
   "english": [
     "elephant",
     "trunk"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very large animal with a long trunk. They are found in Africa and India. English = elephant.",
-    "2. The very long nose of an elephant that it uses to lift food and water. English = trunk."
-  ],
   "signNumber": 5579,
   "recordNumber": 3304,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "antonyms": [],
   "synonyms": [
     "tusks"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very large animal with a long trunk. They are found in Africa and India. English = elephant.",
+    "2. The very long nose of an elephant that it uses to lift food and water. English = trunk."
+  ],
+  "idGloss": "elephant.1a",
+  "oldEntry": "Popular explanation: the trunk of an elephant."
 }

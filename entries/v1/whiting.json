@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whiting",
-  "oldentry": "",
   "english": [
     "whiting"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A kind of small fish. English = whiting."
-  ],
   "signNumber": 680,
   "recordNumber": 395,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A kind of small fish. English = whiting."
+  ],
+  "idGloss": "whiting",
+  "oldEntry": ""
 }

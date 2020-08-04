@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is particularly used in religious contexts as part of the ancient name of kings in the Bible (e.g., King David, King Solomon, etc.).",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "king",
-  "oldentry": "",
   "english": [
     "king"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A man who is head of his country. He is a member of the royal family. English = king."
-  ],
   "signNumber": 1828,
   "recordNumber": 1097,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "monarch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A man who is head of his country. He is a member of the royal family. English = king."
+  ],
+  "idGloss": "king",
+  "oldEntry": ""
 }

@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "necessary",
-  "oldentry": "",
   "english": [
     "necessity",
     "necessary"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be needed in order to get the result that is wanted. English = (be) necessary."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that needs to be done, or something that is needed in order for something else to be done. English = necessity."
-  ],
   "signNumber": 5673,
   "recordNumber": 3361,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "synonyms": [
     "should.1a",
     "must.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be needed in order to get the result that is wanted. English = (be) necessary."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that needs to be done, or something that is needed in order for something else to be done. English = necessity."
+  ],
+  "idGloss": "necessary",
+  "oldEntry": ""
 }

@@ -17,27 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crucifixion",
-  "oldentry": "Popular explanation: hammer into the palm.",
   "english": [
     "crucifixion",
     "crucify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To kill someone by tying or nailing them to a cross and leaving them there to die. English = crucify."
-  ],
   "cf": [
     "Jesus.1",
     "crucifix",
     "Calvary"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A way of killing people which was common in the Roman Empire, in which they were tied or nailed to a cross and left there to die. English = crucifixion."
   ],
   "signNumber": 6046,
   "recordNumber": 3599,
@@ -47,5 +35,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To kill someone by tying or nailing them to a cross and leaving them there to die. English = crucify."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A way of killing people which was common in the Roman Empire, in which they were tied or nailed to a cross and left there to die. English = crucifixion."
+  ],
+  "idGloss": "crucifixion",
+  "oldEntry": "Popular explanation: hammer into the palm."
 }

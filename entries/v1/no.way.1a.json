@@ -12,25 +12,14 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "no.way.1a",
-  "oldentry": "",
   "english": [
     "no way"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "don't.1a",
     "don't.2"
   ],
-  "interj": [
-    "1. Used alone to refuse an offer. English = 'No!', 'No thanks!'",
-    "2. Used alone to mean that you think there is no possibility or likelihood of what is being discussed actually happening or being really true. English = 'No!', 'No, that's not right!', 'No way!', 'Absolutely not!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2482.1,
   "recordNumber": 1379,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to refuse an offer. English = 'No!', 'No thanks!'",
+    "2. Used alone to mean that you think there is no possibility or likelihood of what is being discussed actually happening or being really true. English = 'No!', 'No, that's not right!', 'No way!', 'Absolutely not!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "no.way.1a",
+  "oldEntry": ""
 }

@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "imagination.1a",
-  "oldentry": "",
   "english": [
     "imagination",
     "imagine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To form a picture of idea of something in your mind. English = imagine."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability that you have to form ideas of new or exciting things; the part of your mind which you use to form pictures or ideas of things that do not necessarily exist in real life. English = imagination."
-  ],
   "signNumber": 500,
   "recordNumber": 278,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "imagine.1a",
     "imagine.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To form a picture of idea of something in your mind. English = imagine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability that you have to form ideas of new or exciting things; the part of your mind which you use to form pictures or ideas of things that do not necessarily exist in real life. English = imagination."
+  ],
+  "idGloss": "imagination.1a",
+  "oldEntry": ""
 }

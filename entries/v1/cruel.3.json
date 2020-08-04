@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cruel.3",
-  "oldentry": "",
   "english": [
     "cruel",
     "mean"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately cause people or animals pain or distress. English = (be) cruel, (be) mean."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4980,
   "recordNumber": 3008,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "cruel.1a",
     "cruel.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately cause people or animals pain or distress. English = (be) cruel, (be) mean."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cruel.3",
+  "oldEntry": ""
 }

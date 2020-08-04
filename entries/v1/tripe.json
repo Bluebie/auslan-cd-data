@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tripe",
-  "oldentry": "",
   "english": [
     "tripe"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The stomach of a pig, cow, or ox, which is eaten as food. English = tripe."
-  ],
   "signNumber": 1625,
   "recordNumber": 965,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The stomach of a pig, cow, or ox, which is eaten as food. English = tripe."
+  ],
+  "idGloss": "tripe",
+  "oldEntry": ""
 }

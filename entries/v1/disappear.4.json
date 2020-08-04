@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disappear.4",
-  "oldentry": "",
   "english": [
     "disappearance",
     "disappear",
     "missing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a thing or person, to be unable to be seen because it (or he or she) has gone away or been taken away unexpectedly or has been lost. English = disappear, (be) missing."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The situation in which a thing or a person cannot be found and nobody knows where they have gone or where they have been taken to. English = disappearance."
-  ],
   "signNumber": 2869,
   "recordNumber": 1620,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
     "disappear.1a",
     "disappear.2",
     "disappear.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a thing or person, to be unable to be seen because it (or he or she) has gone away or been taken away unexpectedly or has been lost. English = disappear, (be) missing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The situation in which a thing or a person cannot be found and nobody knows where they have gone or where they have been taken to. English = disappearance."
+  ],
+  "idGloss": "disappear.4",
+  "oldEntry": ""
 }

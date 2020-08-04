@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "regular",
-  "oldentry": "",
   "english": [
     "regularity",
     "reliability",
@@ -44,22 +40,7 @@
     "always"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To happen often and usually with the same length of time and space between each occurrence. English = (be) regular, (be) usual; (with signs for days, weeks, months, etc.) every.",
-    "2. To be likely to work well or behave in a way you want someone or something to. English = (be) reliable.",
-    "3. To be in a situation or place all the time, especially in a work situation. English = (be) permanent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used before (or after) a verb to mean that the action happens often or again and again with the same length of time between each occurrence. English = regularly, always.",
-    "2. Used after a verb to mean that the action continued or continues to happen correctly and appropriately without any problems for a following or subsequent period of time."
-  ],
-  "nomlex": [
-    "1. The quality of happening often and usually with the same length of time and space between each occurrence. English = regularity.",
-    "2. The quality of being likely to work well or behave in a way you want someone or something to. English = reliability.",
-    "3. The quality of being in a situation or place all the time. English = permanency."
-  ],
   "signNumber": 4931,
   "recordNumber": 2981,
   "signVisualComposition": "",
@@ -70,5 +51,24 @@
   "antonyms": [],
   "synonyms": [
     "always.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before (or after) a verb to mean that the action happens often or again and again with the same length of time between each occurrence. English = regularly, always.",
+    "2. Used after a verb to mean that the action continued or continues to happen correctly and appropriately without any problems for a following or subsequent period of time."
+  ],
+  "verbLexeme": [
+    "1. To happen often and usually with the same length of time and space between each occurrence. English = (be) regular, (be) usual; (with signs for days, weeks, months, etc.) every.",
+    "2. To be likely to work well or behave in a way you want someone or something to. English = (be) reliable.",
+    "3. To be in a situation or place all the time, especially in a work situation. English = (be) permanent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of happening often and usually with the same length of time and space between each occurrence. English = regularity.",
+    "2. The quality of being likely to work well or behave in a way you want someone or something to. English = reliability.",
+    "3. The quality of being in a situation or place all the time. English = permanency."
+  ],
+  "idGloss": "regular",
+  "oldEntry": ""
 }

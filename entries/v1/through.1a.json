@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "through.1a",
-  "oldentry": "Popular explanation: an object passing through something.",
   "english": [
     "interruption",
     "interference",
@@ -43,24 +39,10 @@
     "throughout"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say or sign something that causes someone who is talking or signing to pause or stop. English = interrupt, break into a conversation.",
-    "2. To try to influence or become involved in a situation although it does not really concern you. English = interfere. Informal English = butt into.",
-    "3. To go through, pass through or break through some kind of barrier or impediment."
-  ],
   "cf": [
     "transparent",
     "drain",
     "when"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used between a verb and a sign for a period of time or an event to mean the action being talked about happens continuously or several times in that period. English = during, through, throughout."
-  ],
-  "nomlex": [
-    "1. Something which temporarily prevents an activity from continuing. English = interruption.",
-    "2. The act of trying to influence or become involved in a situation although it does not really concern you. English = interference.",
-    "3. An important development or achievement. English = breakthrough."
   ],
   "signNumber": 3998,
   "recordNumber": 2390,
@@ -70,5 +52,23 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used between a verb and a sign for a period of time or an event to mean the action being talked about happens continuously or several times in that period. English = during, through, throughout."
+  ],
+  "verbLexeme": [
+    "1. To say or sign something that causes someone who is talking or signing to pause or stop. English = interrupt, break into a conversation.",
+    "2. To try to influence or become involved in a situation although it does not really concern you. English = interfere. Informal English = butt into.",
+    "3. To go through, pass through or break through some kind of barrier or impediment."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which temporarily prevents an activity from continuing. English = interruption.",
+    "2. The act of trying to influence or become involved in a situation although it does not really concern you. English = interference.",
+    "3. An important development or achievement. English = breakthrough."
+  ],
+  "idGloss": "through.1a",
+  "oldEntry": "Popular explanation: an object passing through something."
 }

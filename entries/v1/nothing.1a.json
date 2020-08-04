@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nothing.1a",
-  "oldentry": "",
   "english": [
     "trifle",
     "triviality",
@@ -31,20 +27,8 @@
     "insignificant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very unimportant and not worth attention. English = (be) nothing, (be) trivial, (be) trifling, (be) insignificant.",
-    "2. To do nothing at all, usually because you are lazy or uninterested."
-  ],
   "cf": [
     "O.1"
-  ],
-  "interj": [
-    "1. Used alone in response from your addressee to repeat something you have said to mean that you won't bother because what you said was not very important. English = 'It's nothing!', 'Forget it!', and so on.",
-    "2. Used alone to deny that you have done or said something. English = 'I haven't done a thing!', 'I've done nothing!', 'I didn't say anything at all!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is not very important. English = trifle, triviality."
   ],
   "signNumber": 308,
   "recordNumber": 175,
@@ -56,5 +40,21 @@
   "antonyms": [
     "some.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone in response from your addressee to repeat something you have said to mean that you won't bother because what you said was not very important. English = 'It's nothing!', 'Forget it!', and so on.",
+    "2. Used alone to deny that you have done or said something. English = 'I haven't done a thing!', 'I've done nothing!', 'I didn't say anything at all!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very unimportant and not worth attention. English = (be) nothing, (be) trivial, (be) trifling, (be) insignificant.",
+    "2. To do nothing at all, usually because you are lazy or uninterested."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is not very important. English = trifle, triviality."
+  ],
+  "idGloss": "nothing.1a",
+  "oldEntry": ""
 }

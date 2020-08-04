@@ -16,24 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "handsome.2",
-  "oldentry": "",
   "english": [
     "handsome",
     "good-looking"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of men especially, to have an attractive face with regular features. English = (be) handsome, (be) good-looking."
-  ],
   "cf": [
     "face.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5070,
   "recordNumber": 3058,
   "signVisualComposition": "NOSE + GOOD",
@@ -48,5 +38,15 @@
   "synonyms": [
     "handsome.1",
     "lovely"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of men especially, to have an attractive face with regular features. English = (be) handsome, (be) good-looking."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "handsome.2",
+  "oldEntry": ""
 }

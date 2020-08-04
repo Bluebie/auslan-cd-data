@@ -19,27 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "close.2",
-  "oldentry": "",
   "english": [
     "end",
     "close",
     "ending"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something which is the last part of an activity, or the last part of a text (such as a book or a film). English = end, close.",
-    "2. To move something, such as a door or gate, so that you can no longer go through an opening. English = close."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The last part of an activity. English = end, close.",
-    "2. The last part of a book or a film. English = end, ending."
-  ],
   "signNumber": 3809,
   "recordNumber": 2263,
   "signVisualComposition": "",
@@ -55,5 +41,19 @@
   "synonyms": [
     "close.1a",
     "finish.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something which is the last part of an activity, or the last part of a text (such as a book or a film). English = end, close.",
+    "2. To move something, such as a door or gate, so that you can no longer go through an opening. English = close."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The last part of an activity. English = end, close.",
+    "2. The last part of a book or a film. English = end, ending."
+  ],
+  "idGloss": "close.2",
+  "oldEntry": ""
 }

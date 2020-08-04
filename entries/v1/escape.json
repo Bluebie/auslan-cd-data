@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "escape",
-  "oldentry": "Popular explanation: going out, under and away.",
   "english": [
     "exit",
     "departure",
@@ -42,22 +38,8 @@
     "flee"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go out of or from a confined space (such as a room or a building). English = exit, depart.",
-    "2. To avoid, get away from or leave the presence of something or someone that you do not like, especially a prison. English = escape.",
-    "3. To run away from someone or something; to leave a place quickly because you are in danger. English = flee.",
-    "4. Of a child, to leave their parent's home without permission and without any intention of returning. English = run away from home."
-  ],
   "cf": [
     "under"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of leaving or going out of or from a confined space (such as a room or a building). English = exit, departure.",
-    "2. A door in a public building through which you can leave; the path you follow to get out of a building or group of buildings. English = exit; way out.",
-    "3. A person who has escaped from a prison. English = escapee.",
-    "4. Someone who has runaway from something, especially a child from their parent's home. English = runaway."
   ],
   "signNumber": 1228,
   "recordNumber": 726,
@@ -67,5 +49,23 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go out of or from a confined space (such as a room or a building). English = exit, depart.",
+    "2. To avoid, get away from or leave the presence of something or someone that you do not like, especially a prison. English = escape.",
+    "3. To run away from someone or something; to leave a place quickly because you are in danger. English = flee.",
+    "4. Of a child, to leave their parent's home without permission and without any intention of returning. English = run away from home."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of leaving or going out of or from a confined space (such as a room or a building). English = exit, departure.",
+    "2. A door in a public building through which you can leave; the path you follow to get out of a building or group of buildings. English = exit; way out.",
+    "3. A person who has escaped from a prison. English = escapee.",
+    "4. Someone who has runaway from something, especially a child from their parent's home. English = runaway."
+  ],
+  "idGloss": "escape",
+  "oldEntry": "Popular explanation: going out, under and away."
 }

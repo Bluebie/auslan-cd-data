@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "water.1",
-  "oldentry": "",
   "english": [
     "water",
     "wet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be covered in water, rain, sweat or some other liquid. English = (be) wet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The clear, thin liquid that has no colour and no taste when it is pure. It falls from clouds as rain and enters rivers and seas. All animals and people need to drink it in order to live. English = water."
-  ],
   "signNumber": 3253,
   "recordNumber": 1894,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "water.2",
     "wet.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be covered in water, rain, sweat or some other liquid. English = (be) wet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The clear, thin liquid that has no colour and no taste when it is pure. It falls from clouds as rain and enters rivers and seas. All animals and people need to drink it in order to live. English = water."
+  ],
+  "idGloss": "water.1",
+  "oldEntry": ""
 }

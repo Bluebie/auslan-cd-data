@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reach.1a",
-  "oldentry": "",
   "english": [
     "arrival",
     "reaching",
@@ -33,18 +29,7 @@
     "attain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To reach a place which is high or important at the end of a journey. English = arrive at, reach, get to.",
-    "2. To achieve some goal, usually after a lot of effort. English = attain.",
-    "3. To stretch out your arm in order to do something, touch something, or get something. English = reach."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of coming to or ending up at a place, which is high or important, after a journey. English = arrival, reaching.",
-    "2. The achieving of some goal, usually after a lot of effort. English = attainment."
-  ],
   "signNumber": 4361,
   "recordNumber": 2655,
   "signVisualComposition": "",
@@ -55,5 +40,20 @@
   "antonyms": [],
   "synonyms": [
     "arrive"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To reach a place which is high or important at the end of a journey. English = arrive at, reach, get to.",
+    "2. To achieve some goal, usually after a lot of effort. English = attain.",
+    "3. To stretch out your arm in order to do something, touch something, or get something. English = reach."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of coming to or ending up at a place, which is high or important, after a journey. English = arrival, reaching.",
+    "2. The achieving of some goal, usually after a lot of effort. English = attainment."
+  ],
+  "idGloss": "reach.1a",
+  "oldEntry": ""
 }

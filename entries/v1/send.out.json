@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "send.out",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "send out",
     "dismiss",
@@ -36,22 +32,10 @@
     "force"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To order someone to leave somewhere, especially to go out of a room; to eject someone from a room or building.",
-    "2. Of a player in a team, to be told to stop playing by the referee and to be told to leave the court or field. English = (be) sent off.",
-    "3. To send someone out to get something, to send someone on an errand, or to a job.",
-    "4. To give someone permission to leave, to let someone go. English = dismiss."
-  ],
   "cf": [
     "order",
     "ignore"
   ],
-  "interj": [
-    "1. Used alone to order someone to get out of a room or go away from you. English = 'Get out!', 'Get lost!'",
-    "2. Used alone to give someone permission to leave. English = 'Okay, you can go now.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 776,
   "recordNumber": 446,
   "signVisualComposition": "",
@@ -67,5 +51,21 @@
     "send.from",
     "dismiss",
     "force.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to order someone to get out of a room or go away from you. English = 'Get out!', 'Get lost!'",
+    "2. Used alone to give someone permission to leave. English = 'Okay, you can go now.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To order someone to leave somewhere, especially to go out of a room; to eject someone from a room or building.",
+    "2. Of a player in a team, to be told to stop playing by the referee and to be told to leave the court or field. English = (be) sent off.",
+    "3. To send someone out to get something, to send someone on an errand, or to a job.",
+    "4. To give someone permission to leave, to let someone go. English = dismiss."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "send.out",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

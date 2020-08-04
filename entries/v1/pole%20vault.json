@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pole vault",
-  "oldentry": "Popular explanation: planting a pole in pole vaulting.",
   "english": [
     "pole vault"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In athletics, a very long high jump which athletes make over a high bar, using a long, flexible pole to help lift themselves up. English = pole vault."
-  ],
   "signNumber": 5831,
   "recordNumber": 3467,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In athletics, a very long high jump which athletes make over a high bar, using a long, flexible pole to help lift themselves up. English = pole vault."
+  ],
+  "idGloss": "pole vault",
+  "oldEntry": "Popular explanation: planting a pole in pole vaulting."
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "FM-hearing.aid",
-  "oldentry": "",
   "english": [
     "FM hearing aid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hearing aid that receives signals via radio waves. English = FM hearing aid."
-  ],
   "signNumber": 352,
   "recordNumber": 193,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hearing aid that receives signals via radio waves. English = FM hearing aid."
+  ],
+  "idGloss": "FM-hearing.aid",
+  "oldEntry": ""
 }

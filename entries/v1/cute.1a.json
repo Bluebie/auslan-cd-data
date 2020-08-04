@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cute.1a",
-  "oldentry": "",
   "english": [
     "cute"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very pretty or attractive. English = (be) cute."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1940,
   "recordNumber": 1158,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very pretty or attractive. English = (be) cute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cute.1a",
+  "oldEntry": ""
 }

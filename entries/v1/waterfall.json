@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "WATER + OVERFLOW",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "waterfall",
-  "oldentry": "",
   "english": [
     "waterfall"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Water that flows over the edge of a steep cliff and falls to the ground below. English = waterfall."
-  ],
   "signNumber": 1506,
   "recordNumber": 896,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 9,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Water that flows over the edge of a steep cliff and falls to the ground below. English = waterfall."
+  ],
+  "idGloss": "waterfall",
+  "oldEntry": ""
 }

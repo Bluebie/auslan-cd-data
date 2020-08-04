@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "procrastinate",
-  "oldentry": "",
   "english": [
     "put off",
     "procrastinate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very slow to do something because you keep leaving it to another time. English = put off, procrastinate."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you'd rather not do something now, but will put it off to some other time in the future."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 579,
   "recordNumber": 334,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
     "postpone.1",
     "postpone.2",
     "delay"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you'd rather not do something now, but will put it off to some other time in the future."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very slow to do something because you keep leaving it to another time. English = put off, procrastinate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "procrastinate",
+  "oldEntry": ""
 }

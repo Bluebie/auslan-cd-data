@@ -12,22 +12,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mouse.1a",
-  "oldentry": "",
   "english": [
     "mouse",
     "mice"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very small furry animal with a long tail. English = mouse (singular), mice (plural)."
-  ],
   "signNumber": 1393,
   "recordNumber": 827,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "mouse.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very small furry animal with a long tail. English = mouse (singular), mice (plural)."
+  ],
+  "idGloss": "mouse.1a",
+  "oldEntry": ""
 }

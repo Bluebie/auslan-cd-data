@@ -16,29 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "approximate.2",
-  "oldentry": "",
   "english": [
     "approximation",
     "estimate",
     "approximate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say or give a number, time, or position for something which is close to the correct number, time, or position but is not exact. The exact figures may or may not be known. English = approximate.",
-    "2. To be close to but not exactly like the correct number, time or position for something. English = (be) approximate.",
-    "3. To say or give a number, time, or position for something which is only a reasoned guess based on evidence because the exact answer is not known. English = estimate."
-  ],
   "cf": [
     "average"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A statement of the number, time or position of something which is close to the correct amount but which is not exact. The exact figures may or may not be know. English = approximation.",
-    "2. A statement of the number, time or position of something which is a reasoned guess based on evidence when the exact answer is not known. English = estimate."
   ],
   "signNumber": 3361,
   "recordNumber": 1963,
@@ -50,5 +35,20 @@
   "antonyms": [],
   "synonyms": [
     "approximate.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say or give a number, time, or position for something which is close to the correct number, time, or position but is not exact. The exact figures may or may not be known. English = approximate.",
+    "2. To be close to but not exactly like the correct number, time or position for something. English = (be) approximate.",
+    "3. To say or give a number, time, or position for something which is only a reasoned guess based on evidence because the exact answer is not known. English = estimate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A statement of the number, time or position of something which is close to the correct amount but which is not exact. The exact figures may or may not be know. English = approximation.",
+    "2. A statement of the number, time or position of something which is a reasoned guess based on evidence when the exact answer is not known. English = estimate."
+  ],
+  "idGloss": "approximate.2",
+  "oldEntry": ""
 }

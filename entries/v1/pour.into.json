@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of emptying the contents of one container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "pour.into",
-  "oldentry": "",
   "english": [
     "pour",
     "tip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn a container sideways so that a liquid flows out of it. English = tip, pour."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4606,
   "recordNumber": 2788,
   "signVisualComposition": "POUR + CONTAINER",
@@ -40,5 +30,15 @@
   "synonyms": [
     "pour.from",
     "tip.into"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn a container sideways so that a liquid flows out of it. English = tip, pour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of emptying the contents of one container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "pour.into",
+  "oldEntry": ""
 }

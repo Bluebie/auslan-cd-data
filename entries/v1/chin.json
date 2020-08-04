@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chin",
-  "oldentry": "",
   "english": [
     "chin"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body that is below your mouth and above your neck. English = chin."
-  ],
   "signNumber": 635,
   "recordNumber": 369,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body that is below your mouth and above your neck. English = chin."
+  ],
+  "idGloss": "chin",
+  "oldEntry": ""
 }

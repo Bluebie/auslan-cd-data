@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shelf.1a",
-  "oldentry": "",
   "english": [
     "shelf",
     "ledge"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat piece of wood, metal, or glass which is attached to a wall or the sides of a cupboard. They are used for keeping things on. English = shelf.",
-    "2. A narrow shelf along the bottom edge of a window. English = ledge.",
-    "3. A narrow, flat place in the side of a cliff or mountain. English = ledge."
-  ],
   "signNumber": 4355,
   "recordNumber": 2651,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat piece of wood, metal, or glass which is attached to a wall or the sides of a cupboard. They are used for keeping things on. English = shelf.",
+    "2. A narrow shelf along the bottom edge of a window. English = ledge.",
+    "3. A narrow, flat place in the side of a cliff or mountain. English = ledge."
+  ],
+  "idGloss": "shelf.1a",
+  "oldEntry": ""
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something long and narrow that goes over your shoulder, or any thing or any action directly or indirectly associated with this, such as the strap of a bag or satchel, the strap of a bra, slip or dress, and especially a singlet.",
-  "questlex": [],
-  "idgloss": "singlet",
-  "oldentry": "Popular explanation: the outline of a strap.",
   "english": [
     "singlet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "social.worker.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sleeveless piece of underwear that is worn by a man on the top half of his body. English = singlet."
   ],
   "signNumber": 5455,
   "recordNumber": 3244,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something long and narrow that goes over your shoulder, or any thing or any action directly or indirectly associated with this, such as the strap of a bag or satchel, the strap of a bra, slip or dress, and especially a singlet.",
+  "nominalLexeme": [
+    "1. A sleeveless piece of underwear that is worn by a man on the top half of his body. English = singlet."
+  ],
+  "idGloss": "singlet",
+  "oldEntry": "Popular explanation: the outline of a strap."
 }

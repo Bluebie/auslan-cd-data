@@ -22,10 +22,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jail",
-  "oldentry": "Popular explanation: the bound hands of a prisoner.",
   "english": [
     "jail",
     "gaol",
@@ -37,17 +33,7 @@
     "imprisoned"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put someone into a special place where they are kept locked up, usually because they have been found guilty of a crime. English = jail, gaol, imprison.",
-    "2. To be put into prison. English = (be) jailed, (be) imprisoned."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A special place where people are kept locked up, usually because they have been found guilty of a crime. English = jail, gaol, prison.",
-    "2. A person who is locked up in a prison. English = prisoner, inmate."
-  ],
   "signNumber": 5912,
   "recordNumber": 3517,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put someone into a special place where they are kept locked up, usually because they have been found guilty of a crime. English = jail, gaol, imprison.",
+    "2. To be put into prison. English = (be) jailed, (be) imprisoned."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A special place where people are kept locked up, usually because they have been found guilty of a crime. English = jail, gaol, prison.",
+    "2. A person who is locked up in a prison. English = prisoner, inmate."
+  ],
+  "idGloss": "jail",
+  "oldEntry": "Popular explanation: the bound hands of a prisoner."
 }

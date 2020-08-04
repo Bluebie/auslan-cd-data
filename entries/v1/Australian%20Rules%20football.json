@@ -12,22 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Australian Rules football",
-  "oldentry": "Popular explanation: hitting the ball with your fist.",
   "english": [
     "Australian Rules",
     "Aussie Rules"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A code of football which originated in Australia and which is most popular in the southern and western States. It has its origins in Gaelic football. English = Australian Rules football. Informal English = Aussie Rules."
-  ],
   "signNumber": 6020.1,
   "recordNumber": 3585,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A code of football which originated in Australia and which is most popular in the southern and western States. It has its origins in Gaelic football. English = Australian Rules football. Informal English = Aussie Rules."
+  ],
+  "idGloss": "Australian Rules football",
+  "oldEntry": "Popular explanation: hitting the ball with your fist."
 }

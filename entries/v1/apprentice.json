@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "apprentice",
-  "oldentry": "",
   "english": [
     "apprentice",
     "apprenticeship",
@@ -29,17 +25,8 @@
     "bonded"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
-  ],
   "cf": [
     "TAFE"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A young person who works with someone in order to learn their skill. English = apprentice.",
-    "2. A fixed period of time in which someone works with a person who has a particular skill in order to learn the skill. English = apprenticeship."
   ],
   "signNumber": 4654,
   "recordNumber": 2813,
@@ -51,5 +38,18 @@
   "antonyms": [],
   "synonyms": [
     "trade"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A young person who works with someone in order to learn their skill. English = apprentice.",
+    "2. A fixed period of time in which someone works with a person who has a particular skill in order to learn the skill. English = apprenticeship."
+  ],
+  "idGloss": "apprentice",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shine.2",
-  "oldentry": "",
   "english": [
     "shiny",
     "glisten",
@@ -29,16 +25,8 @@
     "glitter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a surface, to reflect a lot of light and to be bright. English = (be) shiny, glisten, glitter, shine."
-  ],
   "cf": [
     "mirror"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An object, surface or fabric which reflects a lot of light and which is bright, such as something made with or of metal, glass or precious stones."
   ],
   "signNumber": 6536,
   "recordNumber": 3891,
@@ -50,5 +38,17 @@
   "antonyms": [],
   "synonyms": [
     "shine.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a surface, to reflect a lot of light and to be bright. English = (be) shiny, glisten, glitter, shine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An object, surface or fabric which reflects a lot of light and which is bright, such as something made with or of metal, glass or precious stones."
+  ],
+  "idGloss": "shine.2",
+  "oldEntry": ""
 }

@@ -16,10 +16,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spiteful",
-  "oldentry": "",
   "english": [
     "spite",
     "malice",
@@ -27,17 +23,8 @@
     "malicious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately do something or say something nasty, because you want to hurt or upset someone. English = (be) spiteful, (be) malicious."
-  ],
   "cf": [
     "lizard"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Actions or language which are deliberately nasty, because you want to hurt or upset someone. English = spite, malice.",
-    "."
   ],
   "signNumber": 6395,
   "recordNumber": 3818,
@@ -47,5 +34,18 @@
   "primaryLocation": 11,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately do something or say something nasty, because you want to hurt or upset someone. English = (be) spiteful, (be) malicious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Actions or language which are deliberately nasty, because you want to hurt or upset someone. English = spite, malice.",
+    "."
+  ],
+  "idGloss": "spiteful",
+  "oldEntry": ""
 }

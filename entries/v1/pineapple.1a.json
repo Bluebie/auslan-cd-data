@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pineapple.1a",
-  "oldentry": "Popular explanation: the form of a pineapple.",
   "english": [
     "pineapple"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large oval fruit that grows in hot countries. It is sweet, juicy, and yellow inside and has a thick, brownish skin. English = pineapple."
-  ],
   "signNumber": 3016,
   "recordNumber": 1724,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large oval fruit that grows in hot countries. It is sweet, juicy, and yellow inside and has a thick, brownish skin. English = pineapple."
+  ],
+  "idGloss": "pineapple.1a",
+  "oldEntry": "Popular explanation: the form of a pineapple."
 }

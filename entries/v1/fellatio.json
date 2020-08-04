@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fellatio",
-  "oldentry": "",
   "english": [
     "fellatio",
     "cock-sucking",
@@ -26,15 +22,7 @@
     "suck off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stimulate the male genitals orally. Formal English = fellate, perform fellatio. Vulgar informal English = suck off, give head."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Oral stimulation of the male genitals. Formal English = fellatio. Vulgar informal English = cock-sucking."
-  ],
   "signNumber": 4582,
   "recordNumber": 2775,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 10,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stimulate the male genitals orally. Formal English = fellate, perform fellatio. Vulgar informal English = suck off, give head."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Oral stimulation of the male genitals. Formal English = fellatio. Vulgar informal English = cock-sucking."
+  ],
+  "idGloss": "fellatio",
+  "oldEntry": ""
 }

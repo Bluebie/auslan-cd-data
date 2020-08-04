@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "GUILTY + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "innocent",
-  "oldentry": "",
   "english": [
     "innocence",
     "innocent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not responsible for or not guilty of a crime. English = (be) innocent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of not being responsible for or not being guilty of a crime. English = innocence."
-  ],
   "signNumber": 4767,
   "recordNumber": 2881,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   ],
   "synonyms": [
     "deny"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not responsible for or not guilty of a crime. English = (be) innocent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of not being responsible for or not being guilty of a crime. English = innocence."
+  ],
+  "idGloss": "innocent",
+  "oldEntry": ""
 }

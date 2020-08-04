@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "refrigerator.1",
-  "oldentry": "Popular explanation: opening and closing a fridge door.",
   "english": [
     "refrigerator",
     "fridge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open and close the door on a refrigerator."
-  ],
   "cf": [
     "oven.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large container which is kept cool inside, usually by electricity, so that the food and drink in it stays fresh. English = refrigerator. Informal English = fridge."
   ],
   "signNumber": 5687,
   "recordNumber": 3366,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "refrigerator.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open and close the door on a refrigerator."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large container which is kept cool inside, usually by electricity, so that the food and drink in it stays fresh. English = refrigerator. Informal English = fridge."
+  ],
+  "idGloss": "refrigerator.1",
+  "oldEntry": "Popular explanation: opening and closing a fridge door."
 }

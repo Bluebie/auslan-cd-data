@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Jew.1",
-  "oldentry": "Popular explanation: the beard of a traditional Jew.",
   "english": [
     "Jew",
     "Jewish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of or relating to Judaism. English = Jewish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who believes in and practices the religion of Judaism. English = Jew."
-  ],
   "signNumber": 4499,
   "recordNumber": 2734,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "Jew.2",
     "Jew.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of or relating to Judaism. English = Jewish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who believes in and practices the religion of Judaism. English = Jew."
+  ],
+  "idGloss": "Jew.1",
+  "oldEntry": "Popular explanation: the beard of a traditional Jew."
 }

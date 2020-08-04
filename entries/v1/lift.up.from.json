@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lift.up.from",
-  "oldentry": "",
   "english": [
     "lift"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lift something up from a flat surface.",
-    "2. To be lifted up from a flat surface.",
-    "3. To cause something to be lifted up, to be raised, or to be increased."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4276,
   "recordNumber": 2596,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "lift.up.1a",
     "increase.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lift something up from a flat surface.",
+    "2. To be lifted up from a flat surface.",
+    "3. To cause something to be lifted up, to be raised, or to be increased."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lift.up.from",
+  "oldEntry": ""
 }

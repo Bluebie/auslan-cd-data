@@ -16,28 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "technique.1",
-  "oldentry": "",
   "english": [
     "technology",
     "technique",
     "technical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Involving the use of special words, or the use of ordinary words in a special way, in order to describe the details of a subject or an activity. English = (be) technical.",
-    "2. Involving the practical skills and methods a person uses in an activity such as an art, a craft, or a sport. English = (be) technical.",
-    "3. Involving details about machines, processes, and materials that are used, especially in industry, transport, and communications. English = (be) technical."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity or study of using scientific knowledge for practical purposes in industry, farming, medicine, or business. English = technology.",
-    "2. A particular method of doing something. English = technique."
-  ],
   "signNumber": 6549,
   "recordNumber": 3901,
   "signVisualComposition": "",
@@ -46,5 +31,20 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Involving the use of special words, or the use of ordinary words in a special way, in order to describe the details of a subject or an activity. English = (be) technical.",
+    "2. Involving the practical skills and methods a person uses in an activity such as an art, a craft, or a sport. English = (be) technical.",
+    "3. Involving details about machines, processes, and materials that are used, especially in industry, transport, and communications. English = (be) technical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity or study of using scientific knowledge for practical purposes in industry, farming, medicine, or business. English = technology.",
+    "2. A particular method of doing something. English = technique."
+  ],
+  "idGloss": "technique.1",
+  "oldEntry": ""
 }

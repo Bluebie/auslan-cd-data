@@ -12,23 +12,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "original",
-  "oldentry": "",
   "english": [
     "original",
     "authentic",
     "genuine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be real and exactly what it appears to be, and not a copy. English = (be) original, (be) authentic, (be) genuine."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4293,
   "recordNumber": 2612,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [
     "false.2a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be real and exactly what it appears to be, and not a copy. English = (be) original, (be) authentic, (be) genuine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "original",
+  "oldEntry": ""
 }

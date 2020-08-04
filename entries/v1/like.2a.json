@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "like.2a",
-  "oldentry": "",
   "english": [
     "likeness",
     "resemblance",
@@ -28,15 +24,7 @@
     "resemble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be similar in appearance to something else. English = (be) like, (be) similar, resemble."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of being similar in appearance to something else. English = likeness, resemblance."
-  ],
   "signNumber": 4857,
   "recordNumber": 2935,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "antonyms": [],
   "synonyms": [
     "same.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be similar in appearance to something else. English = (be) like, (be) similar, resemble."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of being similar in appearance to something else. English = likeness, resemblance."
+  ],
+  "idGloss": "like.2a",
+  "oldEntry": ""
 }

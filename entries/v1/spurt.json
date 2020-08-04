@@ -16,27 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Of a liquid, to spurt out of a container or central location, such as water out of a fountain, or any thing or any action directly or indirectly associated with this, especially a volcano.",
-  "questlex": [],
-  "idgloss": "spurt",
-  "oldentry": "",
   "english": [
     "spurt",
     "volcano"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, to come out of something quickly in one or a number of powerful streams. English = spurt."
-  ],
   "cf": [
     "grow",
     "ejaculate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A single powerful stream or a number of powerful streams of a liquid that suddenly and quickly comes out of something. English = spurt.",
-    "2. A mountain which hot melted rock, gas, steam, and ash sometimes burst out of, coming from inside the earth. English = volcano."
   ],
   "signNumber": 6023,
   "recordNumber": 3587,
@@ -49,5 +36,18 @@
   "synonyms": [
     "lava",
     "open.up"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, to come out of something quickly in one or a number of powerful streams. English = spurt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Of a liquid, to spurt out of a container or central location, such as water out of a fountain, or any thing or any action directly or indirectly associated with this, especially a volcano.",
+  "nominalLexeme": [
+    "1. A single powerful stream or a number of powerful streams of a liquid that suddenly and quickly comes out of something. English = spurt.",
+    "2. A mountain which hot melted rock, gas, steam, and ash sometimes burst out of, coming from inside the earth. English = volcano."
+  ],
+  "idGloss": "spurt",
+  "oldEntry": ""
 }

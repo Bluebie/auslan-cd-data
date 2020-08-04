@@ -18,10 +18,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "freeze.1a",
-  "oldentry": "",
   "english": [
     "ice",
     "freeze",
@@ -29,18 +25,7 @@
     "freezer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, to become solid because it is very cold, especially water turning to ice. English = freeze.",
-    "2. Of water or a liquid, to be solid because it is very cold. English = (be) frozen.",
-    "3. A large container in which you can store food for long periods of time, because the temperature inside is kept below freezing point. English = freezer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A solid which is only a solid and not a liquid because it is very cold and frozen.",
-    "2. Water that is solid because it is very cold and frozen. English = ice."
-  ],
   "signNumber": 2723,
   "recordNumber": 1518,
   "signVisualComposition": "",
@@ -49,5 +34,20 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, to become solid because it is very cold, especially water turning to ice. English = freeze.",
+    "2. Of water or a liquid, to be solid because it is very cold. English = (be) frozen.",
+    "3. A large container in which you can store food for long periods of time, because the temperature inside is kept below freezing point. English = freezer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A solid which is only a solid and not a liquid because it is very cold and frozen.",
+    "2. Water that is solid because it is very cold and frozen. English = ice."
+  ],
+  "idGloss": "freeze.1a",
+  "oldEntry": ""
 }

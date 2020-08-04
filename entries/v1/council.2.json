@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "council.2",
-  "oldentry": "",
   "english": [
     "council"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of people who are elected to run a town, borough, city, or country. English = council."
-  ],
   "signNumber": 684,
   "recordNumber": 396,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "council.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of people who are elected to run a town, borough, city, or country. English = council."
+  ],
+  "idGloss": "council.2",
+  "oldEntry": ""
 }

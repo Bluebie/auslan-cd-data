@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "snail",
-  "oldentry": "Popular explanation: the eye-stalks of a snail.",
   "english": [
     "snail",
     "sluggard"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small animal with a long, slimy body, a spiral shaped shell, and long eye stalks on the top of its head. It moves very slowly. English = snail.",
-    "2. A person who is very low at doing something, for example at driving a car. English = snail, sluggard."
-  ],
   "signNumber": 1442,
   "recordNumber": 861,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small animal with a long, slimy body, a spiral shaped shell, and long eye stalks on the top of its head. It moves very slowly. English = snail.",
+    "2. A person who is very low at doing something, for example at driving a car. English = snail, sluggard."
+  ],
+  "idGloss": "snail",
+  "oldEntry": "Popular explanation: the eye-stalks of a snail."
 }

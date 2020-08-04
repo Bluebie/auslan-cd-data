@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beg.3",
-  "oldentry": "Popular explanation: assuming the stance of a begging dog.",
   "english": [
     "dog",
     "beg"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a dog, to sit on your hind legs and raise your forelegs. English = beg."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog."
-  ],
   "signNumber": 3934,
   "recordNumber": 2345,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "synonyms": [
     "dog.1",
     "dog.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a dog, to sit on your hind legs and raise your forelegs. English = beg."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog."
+  ],
+  "idGloss": "beg.3",
+  "oldEntry": "Popular explanation: assuming the stance of a begging dog."
 }

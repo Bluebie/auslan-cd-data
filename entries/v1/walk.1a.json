@@ -18,25 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "walk.1a",
-  "oldentry": "Popular explanation: moving legs.",
   "english": [
     "walk"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move along by putting one foot in front of the other on the ground. English = walk."
-  ],
   "cf": [
     "run.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of walking rather than running. English = walk.",
-    "2. A journey which you make by walking. English = walk."
   ],
   "signNumber": 1726,
   "recordNumber": 1035,
@@ -50,5 +37,18 @@
     "stroll",
     "stride",
     "step"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move along by putting one foot in front of the other on the ground. English = walk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of walking rather than running. English = walk.",
+    "2. A journey which you make by walking. English = walk."
+  ],
+  "idGloss": "walk.1a",
+  "oldEntry": "Popular explanation: moving legs."
 }

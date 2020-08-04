@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gale.1a",
-  "oldentry": "Popular explanation: trees swaying in the wind.",
   "english": [
     "gale",
     "gust",
@@ -31,17 +27,7 @@
     "gusty"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a lot of strong wind about. English = (be) windy, (be) gusty."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very strong wind. English = gale.",
-    "2. A very strong, sudden and short lived wind. English = gust.",
-    "3. A very violent storm. Formal literary English = tempest."
-  ],
   "signNumber": 3601,
   "recordNumber": 2117,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "lightning.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a lot of strong wind about. English = (be) windy, (be) gusty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very strong wind. English = gale.",
+    "2. A very strong, sudden and short lived wind. English = gust.",
+    "3. A very violent storm. Formal literary English = tempest."
+  ],
+  "idGloss": "gale.1a",
+  "oldEntry": "Popular explanation: trees swaying in the wind."
 }

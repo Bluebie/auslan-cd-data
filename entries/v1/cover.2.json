@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cover.2",
-  "oldentry": "",
   "english": [
     "cover",
     "complete"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have enough money to pay for the expenses of something. English = cover.",
-    "2. To finish doing something completely; to do all of something. English = complete."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4417,
   "recordNumber": 2685,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "synonyms": [
     "finish.1",
     "cover.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have enough money to pay for the expenses of something. English = cover.",
+    "2. To finish doing something completely; to do all of something. English = complete."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cover.2",
+  "oldEntry": ""
 }

@@ -25,10 +25,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spots.1a",
-  "oldentry": "",
   "english": [
     "specks",
     "speckles",
@@ -40,19 +36,8 @@
     "dotted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have lots of little marks or shapes on a surface. English = (be) speckled.",
-    "2. To cover something with lots of little marks or shapes. English = speckle.",
-    "3. To have lots of little round marks or shapes on a surface, especially as a design on a fabric. English = (be) spotted, (be) dotted."
-  ],
   "cf": [
     "freckles"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Lots of tiny little marks on a surface. English = specks, speckles.",
-    "2. Lots of tiny little round marks or shapes on a surface. English = spots, dots."
   ],
   "signNumber": 3101,
   "recordNumber": 1785,
@@ -64,5 +49,20 @@
   "antonyms": [],
   "synonyms": [
     "dot"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have lots of little marks or shapes on a surface. English = (be) speckled.",
+    "2. To cover something with lots of little marks or shapes. English = speckle.",
+    "3. To have lots of little round marks or shapes on a surface, especially as a design on a fabric. English = (be) spotted, (be) dotted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Lots of tiny little marks on a surface. English = specks, speckles.",
+    "2. Lots of tiny little round marks or shapes on a surface. English = spots, dots."
+  ],
+  "idGloss": "spots.1a",
+  "oldEntry": ""
 }

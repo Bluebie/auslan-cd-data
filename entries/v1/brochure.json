@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brochure",
-  "oldentry": "",
   "english": [
     "brochure"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "book"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A magazine, booklet, or leaflet with pictures that gives you information about a product or service. English = brochure."
   ],
   "signNumber": 3606,
   "recordNumber": 2122,
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A magazine, booklet, or leaflet with pictures that gives you information about a product or service. English = brochure."
+  ],
+  "idGloss": "brochure",
+  "oldEntry": ""
 }

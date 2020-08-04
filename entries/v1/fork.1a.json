@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fork.1a",
-  "oldentry": "Popular explanation: the form of a fork.",
   "english": [
     "fork"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "toast.1a",
     "knife.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool that you use to eat food. It consists of  three or four prongs on the end of a handle. English = fork."
   ],
   "signNumber": 2285,
   "recordNumber": 1290,
@@ -40,5 +30,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool that you use to eat food. It consists of  three or four prongs on the end of a handle. English = fork."
+  ],
+  "idGloss": "fork.1a",
+  "oldEntry": "Popular explanation: the form of a fork."
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is based on a stylised and reduced fingerspelling of 'how'. Only the letters 'h' and 'w' are actually produced.",
-  "genmean": "",
-  "questlex": [
-    "1. Used at the beginning, end or at both the beginning and the end of a sentence to ask for information about the route, stages or technique by which something is done. English = how."
-  ],
-  "idgloss": "how.2",
-  "oldentry": "",
   "english": [
     "how"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4250.1,
   "recordNumber": 2579,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "how.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "1. Used at the beginning, end or at both the beginning and the end of a sentence to ask for information about the route, stages or technique by which something is done. English = how."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "how.2",
+  "oldEntry": ""
 }

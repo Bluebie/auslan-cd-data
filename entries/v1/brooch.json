@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brooch",
-  "oldentry": "Popular explanation: pining on a brooch.",
   "english": [
     "brooch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pin a brooch onto a dress or a blouse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small piece of jewellery with a pin at the back. You attach it to a dress or a blouse. English = brooch."
-  ],
   "signNumber": 5134,
   "recordNumber": 3100,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pin a brooch onto a dress or a blouse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small piece of jewellery with a pin at the back. You attach it to a dress or a blouse. English = brooch."
+  ],
+  "idGloss": "brooch",
+  "oldEntry": "Popular explanation: pining on a brooch."
 }

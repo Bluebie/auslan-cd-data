@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flat",
-  "oldentry": "",
   "english": [
     "flat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set of rooms for living in, usually on one floor of a large building. English = flat."
-  ],
   "signNumber": 2059,
   "recordNumber": 1202,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set of rooms for living in, usually on one floor of a large building. English = flat."
+  ],
+  "idGloss": "flat",
+  "oldEntry": ""
 }

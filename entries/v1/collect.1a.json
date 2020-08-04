@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "collect.1a",
-  "oldentry": "",
   "english": [
     "collection",
     "fund-raising",
@@ -36,21 +32,8 @@
     "raise funds"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bring a number of things together from several places. English = collect, gather.",
-    "2. To get a large number of particular things, for example stamps or books, because you are interested in them. English = collect.",
-    "3. To collect money for a particular purpose or organisation. English = raise funds.",
-    "4. To make a profit."
-  ],
   "cf": [
     "take.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of bringing a number of things together from several places. English = collection.",
-    "2. The activity of collecting money for a particular purpose or organisation. English = fund-raising.",
-    "3. The amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit."
   ],
   "signNumber": 4674,
   "recordNumber": 2824,
@@ -64,5 +47,22 @@
     "profit.1a",
     "profit.2a",
     "profit.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bring a number of things together from several places. English = collect, gather.",
+    "2. To get a large number of particular things, for example stamps or books, because you are interested in them. English = collect.",
+    "3. To collect money for a particular purpose or organisation. English = raise funds.",
+    "4. To make a profit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of bringing a number of things together from several places. English = collection.",
+    "2. The activity of collecting money for a particular purpose or organisation. English = fund-raising.",
+    "3. The amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit."
+  ],
+  "idGloss": "collect.1a",
+  "oldEntry": ""
 }

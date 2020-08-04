@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sight.1a",
-  "oldentry": "",
   "english": [
     "eyes",
     "eyesight",
@@ -47,21 +43,7 @@
     "visual"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To see something with both your eyes, clearly, distinctly and unmistakably; to see for oneself; to see with one's own eyes.",
-    "2. To be able to see and not blind. English = (be) sighted.",
-    "3. To see an event and be able to describe it and confirm that it happened. English = eyewitness, witness.",
-    "4. To create a picture in your mind of or about something; to relate to the eyes, sight or vision. English = visualise; (be) visual."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The two things in your face that you see with. English = eyes.",
-    "2. Your ability to see; your ability to see clearly. English = eyesight, sight; vision.",
-    "3. A person who has seen an event and can therefore describe it, for example in a law court. English = eyewitness, witness.",
-    "4. Something which you see which causes you to believe that something is true or has really happened. English = evidence, proof."
-  ],
   "signNumber": 522,
   "recordNumber": 292,
   "signVisualComposition": "",
@@ -75,5 +57,23 @@
   "synonyms": [
     "vision",
     "witness.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To see something with both your eyes, clearly, distinctly and unmistakably; to see for oneself; to see with one's own eyes.",
+    "2. To be able to see and not blind. English = (be) sighted.",
+    "3. To see an event and be able to describe it and confirm that it happened. English = eyewitness, witness.",
+    "4. To create a picture in your mind of or about something; to relate to the eyes, sight or vision. English = visualise; (be) visual."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The two things in your face that you see with. English = eyes.",
+    "2. Your ability to see; your ability to see clearly. English = eyesight, sight; vision.",
+    "3. A person who has seen an event and can therefore describe it, for example in a law court. English = eyewitness, witness.",
+    "4. Something which you see which causes you to believe that something is true or has really happened. English = evidence, proof."
+  ],
+  "idGloss": "sight.1a",
+  "oldEntry": ""
 }

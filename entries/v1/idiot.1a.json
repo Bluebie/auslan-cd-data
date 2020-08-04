@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "idiot.1a",
-  "oldentry": "",
   "english": [
     "idiot",
     "idiotic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very stupid. English = (be) idiotic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very stupid person. English = idiot."
-  ],
   "signNumber": 1331,
   "recordNumber": 788,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 3,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very stupid. English = (be) idiotic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very stupid person. English = idiot."
+  ],
+  "idGloss": "idiot.1a",
+  "oldEntry": ""
 }

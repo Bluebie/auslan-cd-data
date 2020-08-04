@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "optometrist",
-  "oldentry": "",
   "english": [
     "optometrist",
     "optician"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone whose job involves testing people's eyesight or providing glasses and contact lenses. English = optician, optometrist."
-  ],
   "signNumber": 1192,
   "recordNumber": 698,
   "signVisualComposition": "EYE + DOCTOR",
@@ -35,5 +25,15 @@
   "primaryLocation": 4,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone whose job involves testing people's eyesight or providing glasses and contact lenses. English = optician, optometrist."
+  ],
+  "idGloss": "optometrist",
+  "oldEntry": ""
 }

@@ -14,29 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fence.1a",
-  "oldentry": "",
   "english": [
     "fence",
     "wall",
     "barrier"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To form a fence, barrier, partition or wall.",
-    "2. To form a row of upright objects close together ."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A barrier made of wood or wire supported by posts. English = fence.",
-    "2. A long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall.",
-    "3. A fence or wall that prevents people or things form moving from one area to another; a wall or screen that separates one part of a room or vehicle from another. English = barrier; partition.",
-    "4. A row of upright objects close together."
-  ],
   "signNumber": 3678,
   "recordNumber": 2166,
   "signVisualComposition": "",
@@ -45,5 +29,21 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To form a fence, barrier, partition or wall.",
+    "2. To form a row of upright objects close together ."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A barrier made of wood or wire supported by posts. English = fence.",
+    "2. A long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall.",
+    "3. A fence or wall that prevents people or things form moving from one area to another; a wall or screen that separates one part of a room or vehicle from another. English = barrier; partition.",
+    "4. A row of upright objects close together."
+  ],
+  "idGloss": "fence.1a",
+  "oldEntry": ""
 }

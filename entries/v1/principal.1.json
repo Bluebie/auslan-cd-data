@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "SCHOOL + BOSS",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "principal.1",
-  "oldentry": "",
   "english": [
     "principal"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The person in charge of a school or college. English = principal."
-  ],
   "signNumber": 3184,
   "recordNumber": 1850,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The person in charge of a school or college. English = principal."
+  ],
+  "idGloss": "principal.1",
+  "oldEntry": ""
 }

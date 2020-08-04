@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "temptation.3",
-  "oldentry": "",
   "english": [
     "temptation",
     "tempt",
@@ -30,19 +26,7 @@
     "gullible"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to make you want to do or have it, although you know it might be wrong or harmful. English = tempt.",
-    "2. To want to do or have something, although you know it might be wrong or harmful. English = (be) tempted.",
-    "3. To believe a lie or a trick even though it is not true. Idiomatic English = fall for something, swallow something.",
-    "4. To be easily tricked because you are too trusting or naive. English = (be) gullible."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that makes you want to do or have something, although you know it might be wrong or harmful. English = temptation.",
-    "2. The state you are in when you want to do or have something, although you know it might be wrong or harmful. English = temptation."
-  ],
   "signNumber": 6345,
   "recordNumber": 3788,
   "signVisualComposition": "",
@@ -54,5 +38,21 @@
   "synonyms": [
     "temptation.1",
     "temptation.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to make you want to do or have it, although you know it might be wrong or harmful. English = tempt.",
+    "2. To want to do or have something, although you know it might be wrong or harmful. English = (be) tempted.",
+    "3. To believe a lie or a trick even though it is not true. Idiomatic English = fall for something, swallow something.",
+    "4. To be easily tricked because you are too trusting or naive. English = (be) gullible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that makes you want to do or have something, although you know it might be wrong or harmful. English = temptation.",
+    "2. The state you are in when you want to do or have something, although you know it might be wrong or harmful. English = temptation."
+  ],
+  "idGloss": "temptation.3",
+  "oldEntry": ""
 }

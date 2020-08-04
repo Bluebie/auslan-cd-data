@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "loan",
-  "oldentry": "",
   "english": [
     "lender",
     "loan",
@@ -30,18 +26,8 @@
     "borrow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To allow someone to have something or use it for a period of time. English = lend, loan.",
-    "2. To take something from someone and have it or use it for a period of time. English = borrow."
-  ],
   "cf": [
     "adopt.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person or institution that allows people to have and use some of its money for a period of time before they pay it back. English = lender.",
-    "2. A sum of money that you borrow from a lender. English = loan."
   ],
   "signNumber": 5121,
   "recordNumber": 3093,
@@ -53,5 +39,19 @@
   "antonyms": [],
   "synonyms": [
     "borrow"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To allow someone to have something or use it for a period of time. English = lend, loan.",
+    "2. To take something from someone and have it or use it for a period of time. English = borrow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person or institution that allows people to have and use some of its money for a period of time before they pay it back. English = lender.",
+    "2. A sum of money that you borrow from a lender. English = loan."
+  ],
+  "idGloss": "loan",
+  "oldEntry": ""
 }

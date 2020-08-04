@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "England.1a",
-  "oldentry": "",
   "english": [
     "England",
     "English"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to England. English = (be) English.",
-    "2. To belong to the language that originally came from England and is now used in many countries around the world, including Australia and the United States. English = (be) English."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An island country in north western Europe between Ireland and the Continent, called England. On the same island Scotland is to the north and Wales is to the west.",
-    "2. The language used originally in England and now used in many countries around the world, including Australia and the United States. English = English."
-  ],
   "signNumber": 1044,
   "recordNumber": 613,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to England. English = (be) English.",
+    "2. To belong to the language that originally came from England and is now used in many countries around the world, including Australia and the United States. English = (be) English."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An island country in north western Europe between Ireland and the Continent, called England. On the same island Scotland is to the north and Wales is to the west.",
+    "2. The language used originally in England and now used in many countries around the world, including Australia and the United States. English = English."
+  ],
+  "idGloss": "England.1a",
+  "oldEntry": ""
 }

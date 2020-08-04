@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers perform this sign with both hands twisting outwards as the hands uncross (so that they end with the palms facing away).",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "terrible",
-  "oldentry": "",
   "english": [
     "terrible",
     "dreadful",
@@ -30,16 +26,7 @@
     "disastrous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. A situation or experience which is very serious and unpleasant. English = (be) terrible, (be) dreadful.",
-    "2. Of an event, to be very unsuccessful or unpleasant, especially when it is unexpected and causes a lot of damage or suffering. English = (be) disastrous."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An event which is very unsuccessful or unpleasant, especially one that is unexpected and which causes a lot of damage or suffering. English = disaster."
-  ],
   "signNumber": 5000,
   "recordNumber": 3014,
   "signVisualComposition": "",
@@ -53,5 +40,18 @@
   "synonyms": [
     "horrible.1a",
     "bad.luck"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. A situation or experience which is very serious and unpleasant. English = (be) terrible, (be) dreadful.",
+    "2. Of an event, to be very unsuccessful or unpleasant, especially when it is unexpected and causes a lot of damage or suffering. English = (be) disastrous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An event which is very unsuccessful or unpleasant, especially one that is unexpected and which causes a lot of damage or suffering. English = disaster."
+  ],
+  "idGloss": "terrible",
+  "oldEntry": ""
 }

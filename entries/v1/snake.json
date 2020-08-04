@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "snake",
-  "oldentry": "Popular explanation: the snake's tongue.",
   "english": [
     "snake",
     "hiss",
@@ -30,19 +26,8 @@
     "bitchy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a snake, to flick out its forked tongue (usually while making a sound). English = hiss.",
-    "2. Of a person, to say nasty things about other people. English = bitch.",
-    "3. Of a person, to behave in a way that is rude and offensive, particularly by saying nasty things about other people. English = (be) bitchy."
-  ],
   "cf": [
     "lizard"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, thin reptile with no legs. English = snake.",
-    "2. A person who says nasty things about other people. English = bitch."
   ],
   "signNumber": 6465,
   "recordNumber": 3854,
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "bitch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a snake, to flick out its forked tongue (usually while making a sound). English = hiss.",
+    "2. Of a person, to say nasty things about other people. English = bitch.",
+    "3. Of a person, to behave in a way that is rude and offensive, particularly by saying nasty things about other people. English = (be) bitchy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, thin reptile with no legs. English = snake.",
+    "2. A person who says nasty things about other people. English = bitch."
+  ],
+  "idGloss": "snake",
+  "oldEntry": "Popular explanation: the snake's tongue."
 }

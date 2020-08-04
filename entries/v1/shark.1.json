@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shark.1",
-  "oldentry": "",
   "english": [
     "shark",
     "dorsal fin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. (Of fish with dorsal fins) to travel through water close to the surface with the dorsal fin sticking out of the water."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very large fish with sharp teeth. It sometimes attacks people. English = shark.",
-    "2. A flat object that sticks out the back of some fish. It helps the fish swim and keep its balance. English = dorsal fin."
-  ],
   "signNumber": 3375,
   "recordNumber": 1973,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "shark.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. (Of fish with dorsal fins) to travel through water close to the surface with the dorsal fin sticking out of the water."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very large fish with sharp teeth. It sometimes attacks people. English = shark.",
+    "2. A flat object that sticks out the back of some fish. It helps the fish swim and keep its balance. English = dorsal fin."
+  ],
+  "idGloss": "shark.1",
+  "oldEntry": ""
 }

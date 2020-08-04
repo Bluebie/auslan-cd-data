@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "past.the.hour.2",
-  "oldentry": "",
   "english": [
     "past"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used between two number signs to mean the time in terms of minutes past the hour. The first number refers to the minutes and the second number to the hour. English = past."
-  ],
-  "nomlex": [],
   "signNumber": 6412,
   "recordNumber": 3827,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used between two number signs to mean the time in terms of minutes past the hour. The first number refers to the minutes and the second number to the hour. English = past."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "past.the.hour.2",
+  "oldEntry": ""
 }

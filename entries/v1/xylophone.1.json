@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "To hit something rhythmically with something else, or any thing or any action directly or indirectly associated with this, such as a row of drums, and especially a xylophone.",
-  "questlex": [],
-  "idgloss": "xylophone.1",
-  "oldentry": "Popular explanation: striking the keys of a xylophone.",
   "english": [
     "xylophone",
     "drum",
     "drums"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument made of a row of wooden bars of different lengths that you hit with a special hammer. English = xylophone."
-  ],
   "signNumber": 6173,
   "recordNumber": 3684,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "To hit something rhythmically with something else, or any thing or any action directly or indirectly associated with this, such as a row of drums, and especially a xylophone.",
+  "nominalLexeme": [
+    "1. A musical instrument made of a row of wooden bars of different lengths that you hit with a special hammer. English = xylophone."
+  ],
+  "idGloss": "xylophone.1",
+  "oldEntry": "Popular explanation: striking the keys of a xylophone."
 }

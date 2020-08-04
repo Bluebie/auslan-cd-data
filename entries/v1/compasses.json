@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "compasses",
-  "oldentry": "Popular explanation: swivelling a compass.",
   "english": [
     "compasses"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw a circle using a hinged V-shaped instrument."
-  ],
   "cf": [
     "plan.1",
     "compass"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hinged V-shaped instrument you use for drawing circles. English = compasses."
   ],
   "signNumber": 1868,
   "recordNumber": 1118,
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw a circle using a hinged V-shaped instrument."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hinged V-shaped instrument you use for drawing circles. English = compasses."
+  ],
+  "idGloss": "compasses",
+  "oldEntry": "Popular explanation: swivelling a compass."
 }

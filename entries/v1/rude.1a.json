@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rude.1a",
-  "oldentry": "",
   "english": [
     "rudeness",
     "impoliteness",
@@ -33,18 +29,7 @@
     "uncouth"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave in a way that is not polite. English = (be) rude, (be) impolite.",
-    "2. Of language and behaviour, to be likely to embarrass or offend people because they relate to sex or other bodily functions. English = (be) rude.",
-    "3. To behave in a bad-mannered, unpleasant and unacceptable way. English = (be) uncouth."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour that is not polite. English = rudeness, impoliteness.",
-    "2. Language and behaviour that are likely to embarrass or offend people because they relate to sex or other bodily functions. English = rudeness."
-  ],
   "signNumber": 4978,
   "recordNumber": 3006,
   "signVisualComposition": "",
@@ -57,5 +42,20 @@
     "rude.2",
     "rude.3",
     "cheeky"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave in a way that is not polite. English = (be) rude, (be) impolite.",
+    "2. Of language and behaviour, to be likely to embarrass or offend people because they relate to sex or other bodily functions. English = (be) rude.",
+    "3. To behave in a bad-mannered, unpleasant and unacceptable way. English = (be) uncouth."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour that is not polite. English = rudeness, impoliteness.",
+    "2. Language and behaviour that are likely to embarrass or offend people because they relate to sex or other bodily functions. English = rudeness."
+  ],
+  "idGloss": "rude.1a",
+  "oldEntry": ""
 }

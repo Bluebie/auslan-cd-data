@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crash",
-  "oldentry": "Popular explanation: object crashing into another.",
   "english": [
     "crash",
     "smash",
     "accident"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a car or other moving vehicle, to hit something and be badly damaged or destroyed. English = crash, smash, have an accident."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An event in which a moving car or other vehicle hits something and is badly damaged or destroyed. English = crash, smash, accident."
-  ],
   "signNumber": 5974,
   "recordNumber": 3553,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a car or other moving vehicle, to hit something and be badly damaged or destroyed. English = crash, smash, have an accident."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An event in which a moving car or other vehicle hits something and is badly damaged or destroyed. English = crash, smash, accident."
+  ],
+  "idGloss": "crash",
+  "oldEntry": "Popular explanation: object crashing into another."
 }

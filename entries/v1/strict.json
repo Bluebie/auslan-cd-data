@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strict",
-  "oldentry": "",
   "english": [
     "strictness",
     "sternness",
@@ -46,20 +42,7 @@
     "toughen"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To insist on polite and obedient behaviour, especially from children; or to insist on people following rules which are difficult. English = (be) strict; (be) tough.",
-    "2. To have a strong, independent character and be able to tolerate a lot of pain or hardship. English = (be) tough, (be) stoic.",
-    "3. (When talking of meat), to be difficult to cut and chew. English = (be) tough.",
-    "4. To make something firm or hard. English = toughen."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of insisting on polite and obedient behaviour, especially from children; or being unsympathetic and inflexible and insisting people follow whatever the rules are. English = strictness, sternness, firmness; toughness.",
-    "2. The strength of character and will that makes a person able to tolerate a lot of pain or hardship, especially without complaint. English = stoicism.",
-    "3. The quality of meat that is difficult to cut and chew. English = toughness."
-  ],
   "signNumber": 4921,
   "recordNumber": 2975,
   "signVisualComposition": "",
@@ -76,5 +59,22 @@
     "warn",
     "hard.1a",
     "difficult.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To insist on polite and obedient behaviour, especially from children; or to insist on people following rules which are difficult. English = (be) strict; (be) tough.",
+    "2. To have a strong, independent character and be able to tolerate a lot of pain or hardship. English = (be) tough, (be) stoic.",
+    "3. (When talking of meat), to be difficult to cut and chew. English = (be) tough.",
+    "4. To make something firm or hard. English = toughen."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of insisting on polite and obedient behaviour, especially from children; or being unsympathetic and inflexible and insisting people follow whatever the rules are. English = strictness, sternness, firmness; toughness.",
+    "2. The strength of character and will that makes a person able to tolerate a lot of pain or hardship, especially without complaint. English = stoicism.",
+    "3. The quality of meat that is difficult to cut and chew. English = toughness."
+  ],
+  "idGloss": "strict",
+  "oldEntry": ""
 }

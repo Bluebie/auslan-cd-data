@@ -13,21 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "honey.3",
-  "oldentry": "",
   "english": [
     "honey"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sweet, sticky, yellowish substance that is made by bees. English = honey."
-  ],
   "signNumber": 449,
   "recordNumber": 254,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "honey.1",
     "honey.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sweet, sticky, yellowish substance that is made by bees. English = honey."
+  ],
+  "idGloss": "honey.3",
+  "oldEntry": ""
 }

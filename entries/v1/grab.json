@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grab",
-  "oldentry": "Popular explanation: grabbing something.",
   "english": [
     "grab",
     "arrest",
@@ -38,20 +34,8 @@
     "catch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take something with your hand suddenly and roughly. English = grab.",
-    "2. Of an animal or person, to pursue them, reach them and then take hold of them so that they cannot get away using just your hands or by using a trap, net, or other device. English = catch.",
-    "3. Of the police, to catch someone and then to take them somewhere in order to decide whether they should be charged with an offence. English = arrest."
-  ],
   "cf": [
     "reserve.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sudden and rough movement with your hand when you take or try to take something. English = grab.",
-    "2. Of an animal or person, the action of pursuing them, reaching them and then taking hold of them so that they cannot get away using just your hands or by using a trap, net, or other device. English = catching, capture.",
-    "3. Of the police, the act of catching someone and then taking them somewhere in order to decide whether they should be charged with an offence. English = arrest."
   ],
   "signNumber": 2554,
   "recordNumber": 1411,
@@ -65,5 +49,21 @@
     "grab",
     "capture.1",
     "capture.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take something with your hand suddenly and roughly. English = grab.",
+    "2. Of an animal or person, to pursue them, reach them and then take hold of them so that they cannot get away using just your hands or by using a trap, net, or other device. English = catch.",
+    "3. Of the police, to catch someone and then to take them somewhere in order to decide whether they should be charged with an offence. English = arrest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sudden and rough movement with your hand when you take or try to take something. English = grab.",
+    "2. Of an animal or person, the action of pursuing them, reaching them and then taking hold of them so that they cannot get away using just your hands or by using a trap, net, or other device. English = catching, capture.",
+    "3. Of the police, the act of catching someone and then taking them somewhere in order to decide whether they should be charged with an offence. English = arrest."
+  ],
+  "idGloss": "grab",
+  "oldEntry": "Popular explanation: grabbing something."
 }

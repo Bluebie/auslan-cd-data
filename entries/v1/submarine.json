@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "submarine",
-  "oldentry": "Popular explanation: the periscope of the submarine going under water.",
   "english": [
     "submarine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel beneath the surface of the sea in a submarine."
-  ],
   "cf": [
     "under",
     "go.in.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of ship that can travel below the surface of the sea. English = submarine."
   ],
   "signNumber": 1188,
   "recordNumber": 694,
@@ -42,5 +30,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel beneath the surface of the sea in a submarine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of ship that can travel below the surface of the sea. English = submarine."
+  ],
+  "idGloss": "submarine",
+  "oldEntry": "Popular explanation: the periscope of the submarine going under water."
 }

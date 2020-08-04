@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "engaged.1a",
-  "oldentry": "Popular explanation: the engagement ring on the ring finger.",
   "english": [
     "diamond ring",
     "engagement ring",
@@ -33,17 +29,7 @@
     "engaged"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a promise to marry someone; to have made a promise to marry someone. English = become engaged; (be) engaged."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small circle of metal that you wear on your finger as an ornament or to show that you are engaged or married. It often has a diamond in it. English = diamond ring, engagement ring, wedding ring.",
-    "2. An agreement that two people have made with each other to get married. English = engagement.",
-    "3. The man to whom a woman is engaged to be married; the woman to whom a man is engaged to be married. English = fiancee; fiance."
-  ],
   "signNumber": 1190,
   "recordNumber": 697,
   "signVisualComposition": "",
@@ -55,5 +41,19 @@
   "synonyms": [
     "diamond.1a",
     "spouse.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a promise to marry someone; to have made a promise to marry someone. English = become engaged; (be) engaged."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small circle of metal that you wear on your finger as an ornament or to show that you are engaged or married. It often has a diamond in it. English = diamond ring, engagement ring, wedding ring.",
+    "2. An agreement that two people have made with each other to get married. English = engagement.",
+    "3. The man to whom a woman is engaged to be married; the woman to whom a man is engaged to be married. English = fiancee; fiance."
+  ],
+  "idGloss": "engaged.1a",
+  "oldEntry": "Popular explanation: the engagement ring on the ring finger."
 }

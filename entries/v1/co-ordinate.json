@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "co-ordinate",
-  "oldentry": "",
   "english": [
     "cooperation",
     "co-ordination",
@@ -27,17 +23,7 @@
     "co-ordinate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work or act together for a purpose. English = cooperate.",
-    "2. To organise people so that their actions happen as planned. English = co-ordinate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Working or acting together for a purpose. English = cooperation.",
-    "2. Of an activity, the organisation of people in it so that actions and processes happen as planned. English = co-ordination."
-  ],
   "signNumber": 385,
   "recordNumber": 208,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "antonyms": [],
   "synonyms": [
     "cooperate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work or act together for a purpose. English = cooperate.",
+    "2. To organise people so that their actions happen as planned. English = co-ordinate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Working or acting together for a purpose. English = cooperation.",
+    "2. Of an activity, the organisation of people in it so that actions and processes happen as planned. English = co-ordination."
+  ],
+  "idGloss": "co-ordinate",
+  "oldEntry": ""
 }

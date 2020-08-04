@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "licence.1",
-  "oldentry": "Popular explanation: the outline of a licence.",
   "english": [
     "licence",
     "permit",
@@ -33,17 +29,8 @@
     "licensed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an official document which gives you permission to do, use, or own something. English = (be) licensed."
-  ],
   "cf": [
     "permit.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An official document which gives you permission to do, use, or own something. English = licence, permit.",
-    "2. A official document which gives you permission to drive a car. English = driver's licence."
   ],
   "signNumber": 5215,
   "recordNumber": 3132,
@@ -55,5 +42,18 @@
   "antonyms": [],
   "synonyms": [
     "licence.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an official document which gives you permission to do, use, or own something. English = (be) licensed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An official document which gives you permission to do, use, or own something. English = licence, permit.",
+    "2. A official document which gives you permission to drive a car. English = driver's licence."
+  ],
+  "idGloss": "licence.1",
+  "oldEntry": "Popular explanation: the outline of a licence."
 }

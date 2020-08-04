@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "research.1a",
-  "oldentry": "",
   "english": [
     "research",
     "researcher",
@@ -31,19 +27,7 @@
     "analyse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To try to discover facts about something by studying it. English = research, analyse",
-    "2. To consider or examine something in order to understand it or to find out what it consists of. English = analyse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Work that involves studying something and trying to discover facts about it. English = research.",
-    "2. A person who does research. English = researcher.",
-    "3. The process of considering something in order to understand it or to find out what it consists of. English = analysis.",
-    "4. An explanation or description that is the result of considering something. English = analysis."
-  ],
   "signNumber": 1790,
   "recordNumber": 1080,
   "signVisualComposition": "",
@@ -52,5 +36,21 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To try to discover facts about something by studying it. English = research, analyse",
+    "2. To consider or examine something in order to understand it or to find out what it consists of. English = analyse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Work that involves studying something and trying to discover facts about it. English = research.",
+    "2. A person who does research. English = researcher.",
+    "3. The process of considering something in order to understand it or to find out what it consists of. English = analysis.",
+    "4. An explanation or description that is the result of considering something. English = analysis."
+  ],
+  "idGloss": "research.1a",
+  "oldEntry": ""
 }

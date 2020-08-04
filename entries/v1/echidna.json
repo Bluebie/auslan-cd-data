@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "echidna",
-  "oldentry": "Popular explanation: the spikes on the back of an echidna.",
   "english": [
     "echidna"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal with a long spiny coat, a long snout, and claws. It lays eggs in burrows on the ground, and eats ants and insects. It lives in Australia and New Zealand. English = echidna."
-  ],
   "signNumber": 2898,
   "recordNumber": 1636,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal with a long spiny coat, a long snout, and claws. It lays eggs in burrows on the ground, and eats ants and insects. It lives in Australia and New Zealand. English = echidna."
+  ],
+  "idGloss": "echidna",
+  "oldEntry": "Popular explanation: the spikes on the back of an echidna."
 }

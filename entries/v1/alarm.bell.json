@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "alarm.bell",
-  "oldentry": "Popular explanation: the hammer of a bell striking a surface.",
   "english": [
     "alarm",
     "alarm bell"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an alarm, to make a loud noise by ringing (or by any other means) in order to warn people of some danger."
-  ],
   "cf": [
     "ring.bell"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An automatic device that warns you of danger, for example by ringing a bell. English = alarm, alarm bell."
   ],
   "signNumber": 1284,
   "recordNumber": 763,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "siren"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an alarm, to make a loud noise by ringing (or by any other means) in order to warn people of some danger."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An automatic device that warns you of danger, for example by ringing a bell. English = alarm, alarm bell."
+  ],
+  "idGloss": "alarm.bell",
+  "oldEntry": "Popular explanation: the hammer of a bell striking a surface."
 }

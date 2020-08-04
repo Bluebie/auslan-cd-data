@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sack",
-  "oldentry": "",
   "english": [
     "sacking",
     "firing",
@@ -36,16 +32,7 @@
     "fired"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an employer, to say to someone (an employee) that they can no longer work for you, often because their work is not good enough. English = sack, fire, dismiss.",
-    "2. Of an employee, to be told by your boss (your employer) that you can no longer work for them. English = (be) sacked, get sacked, (be) fired, get fired. Idiomatic English = get the sack, (be) given the sack, get the push."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of telling an employee that they can no longer work for you, or being told that you can no longer work for someone else. English = sacking, firing, dismissal."
-  ],
   "signNumber": 6027,
   "recordNumber": 3588,
   "signVisualComposition": "",
@@ -56,5 +43,18 @@
   "antonyms": [],
   "synonyms": [
     "dismiss"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an employer, to say to someone (an employee) that they can no longer work for you, often because their work is not good enough. English = sack, fire, dismiss.",
+    "2. Of an employee, to be told by your boss (your employer) that you can no longer work for them. English = (be) sacked, get sacked, (be) fired, get fired. Idiomatic English = get the sack, (be) given the sack, get the push."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of telling an employee that they can no longer work for you, or being told that you can no longer work for someone else. English = sacking, firing, dismissal."
+  ],
+  "idGloss": "sack",
+  "oldEntry": ""
 }

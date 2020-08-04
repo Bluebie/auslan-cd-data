@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "girl.1a",
-  "oldentry": "",
   "english": [
     "girl"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "people.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A female child. English = girl."
   ],
   "signNumber": 493,
   "recordNumber": 274,
@@ -44,5 +34,15 @@
   ],
   "synonyms": [
     "girl.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A female child. English = girl."
+  ],
+  "idGloss": "girl.1a",
+  "oldEntry": ""
 }

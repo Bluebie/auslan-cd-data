@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A wavy or irregular line drawn on a flat surface, or any thing or any action directly or indirectly associated with this, especially a graph or an audiogram.",
-  "questlex": [],
-  "idgloss": "graph.1a",
-  "oldentry": "",
   "english": [
     "graph",
     "audiogram"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw a graph."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mathematical diagram, usually a line or curve, which shows how two or more sets of numbers or measurements are related. English = graph.",
-    "2. A graphic representation of the acuteness of someone's hearing in a range of sound frequencies. English = audiogram."
-  ],
   "signNumber": 1246,
   "recordNumber": 737,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw a graph."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A wavy or irregular line drawn on a flat surface, or any thing or any action directly or indirectly associated with this, especially a graph or an audiogram.",
+  "nominalLexeme": [
+    "1. A mathematical diagram, usually a line or curve, which shows how two or more sets of numbers or measurements are related. English = graph.",
+    "2. A graphic representation of the acuteness of someone's hearing in a range of sound frequencies. English = audiogram."
+  ],
+  "idGloss": "graph.1a",
+  "oldEntry": ""
 }

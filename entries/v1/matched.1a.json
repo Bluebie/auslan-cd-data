@@ -15,25 +15,14 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "matched.1a",
-  "oldentry": "",
   "english": [
     "match",
     "matched"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To decide that one thing is suitable for another, for example, that they have the same colour or design. English = match.",
-    "2. Of two things, to be similar to one another, to have similar qualities, or to be as good or equal to one another in speed, size, or quality. English = match, (be) matched."
-  ],
   "cf": [
     "compare"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3828,
   "recordNumber": 2274,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "antonyms": [],
   "synonyms": [
     "match.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To decide that one thing is suitable for another, for example, that they have the same colour or design. English = match.",
+    "2. Of two things, to be similar to one another, to have similar qualities, or to be as good or equal to one another in speed, size, or quality. English = match, (be) matched."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "matched.1a",
+  "oldEntry": ""
 }

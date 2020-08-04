@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of pouring a small amount of something out of a container, such as sauce, or any action or thing directly or indirectly associated with this, especially cordial.",
-  "questlex": [],
-  "idgloss": "pour.from",
-  "oldentry": "",
   "english": [
     "pour",
     "pour from",
     "cordial"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sweet drink made from fruit juice. English = cordial."
-  ],
   "signNumber": 4541,
   "recordNumber": 2752,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
     "tip.into",
     "pour.into",
     "cordial"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of pouring a small amount of something out of a container, such as sauce, or any action or thing directly or indirectly associated with this, especially cordial.",
+  "nominalLexeme": [
+    "1. A sweet drink made from fruit juice. English = cordial."
+  ],
+  "idGloss": "pour.from",
+  "oldEntry": ""
 }

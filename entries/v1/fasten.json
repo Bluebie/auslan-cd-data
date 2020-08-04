@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as splicing film together, joining streamers and, particularly, joining up the two ends of a belt.",
-  "questlex": [],
-  "idgloss": "fasten",
-  "oldentry": "",
   "english": [
     "fasten",
     "buckle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To join up the two ends of a belt, strap, or some other similar device, so that the two ends are fixed to each other. English = fasten, buckle."
-  ],
   "cf": [
     "edit"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2040,
   "recordNumber": 1194,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "buckle.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To join up the two ends of a belt, strap, or some other similar device, so that the two ends are fixed to each other. English = fasten, buckle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as splicing film together, joining streamers and, particularly, joining up the two ends of a belt.",
+  "nominalLexeme": [],
+  "idGloss": "fasten",
+  "oldEntry": ""
 }

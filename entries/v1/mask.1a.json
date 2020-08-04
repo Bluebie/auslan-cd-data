@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mask.1a",
-  "oldentry": "",
   "english": [
     "mask"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "glasses"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which you wear over your face, especially around the eyes, in order to hide or protect it or to make yourself look different. English = mask."
   ],
   "signNumber": 5066,
   "recordNumber": 3055,
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "goggles.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which you wear over your face, especially around the eyes, in order to hide or protect it or to make yourself look different. English = mask."
+  ],
+  "idGloss": "mask.1a",
+  "oldEntry": ""
 }

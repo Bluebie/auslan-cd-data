@@ -19,25 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Of two objects, especially two vehicles, for one to go past or by the other, or any thing or any action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "go.by",
-  "oldentry": "",
   "english": [
     "pass"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go past or by something; to pass by.",
-    "2. To go past or by a building or vehicle in a vehicle; to pass by in a vehicle."
-  ],
   "cf": [
     "go.by.vehicle.1a",
     "speed.2"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4202,
   "recordNumber": 2542,
   "signVisualComposition": "",
@@ -52,5 +41,16 @@
     "speed.1",
     "fast.1",
     "quick.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go past or by something; to pass by.",
+    "2. To go past or by a building or vehicle in a vehicle; to pass by in a vehicle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Of two objects, especially two vehicles, for one to go past or by the other, or any thing or any action directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "go.by",
+  "oldEntry": ""
 }

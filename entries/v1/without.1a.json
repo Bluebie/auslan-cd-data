@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "WITH + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "without.1a",
-  "oldentry": "",
   "english": [
     "without"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not have something. English = (be) without."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to join two sentences together. The action in the second sentence does not happen. English = without."
-  ],
-  "nomlex": [],
   "signNumber": 3920,
   "recordNumber": 2337,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to join two sentences together. The action in the second sentence does not happen. English = without."
+  ],
+  "verbLexeme": [
+    "1. To not have something. English = (be) without."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "without.1a",
+  "oldEntry": ""
 }

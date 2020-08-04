@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "devil.1a",
-  "oldentry": "Popular explanation: the horns of the devil.",
   "english": [
     "devil",
     "Satan",
@@ -30,16 +26,7 @@
     "mischievous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very bad and enjoy doing things that harm other people. English = (be) evil.",
-    "2. Of children, to be eager to have fun or be naughty, especially be embarrassing people or by playing tricks. English = (be) mischievous."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Christianity, the most powerful evil spirit. English = devil, Satan"
-  ],
   "signNumber": 6565,
   "recordNumber": 3913,
   "signVisualComposition": "",
@@ -54,5 +41,18 @@
   ],
   "synonyms": [
     "bull.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very bad and enjoy doing things that harm other people. English = (be) evil.",
+    "2. Of children, to be eager to have fun or be naughty, especially be embarrassing people or by playing tricks. English = (be) mischievous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Christianity, the most powerful evil spirit. English = devil, Satan"
+  ],
+  "idGloss": "devil.1a",
+  "oldEntry": "Popular explanation: the horns of the devil."
 }

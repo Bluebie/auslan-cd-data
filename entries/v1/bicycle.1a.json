@@ -17,27 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bicycle.1a",
-  "oldentry": "Popular explanation: legs peddling.",
   "english": [
     "bicycle",
     "cycling",
     "pedal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ride a bicycle; to pedal."
-  ],
   "cf": [
     "ride.horse.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A vehicle with two wheels which you ride by sitting on it and pushing two pedals with your feet. English = bicycle.",
-    "2. A sport in which people race each other riding bicycles. English = cycling."
   ],
   "signNumber": 1458,
   "recordNumber": 870,
@@ -47,5 +34,18 @@
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ride a bicycle; to pedal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A vehicle with two wheels which you ride by sitting on it and pushing two pedals with your feet. English = bicycle.",
+    "2. A sport in which people race each other riding bicycles. English = cycling."
+  ],
+  "idGloss": "bicycle.1a",
+  "oldEntry": "Popular explanation: legs peddling."
 }

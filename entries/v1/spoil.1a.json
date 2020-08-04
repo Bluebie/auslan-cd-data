@@ -14,27 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spoil.1a",
-  "oldentry": "",
   "english": [
     "spoil",
     "damage",
     "ruin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something less enjoyable, attractive, valuable, useful or interesting than it would otherwise have been. English = spoil, damage, ruin.",
-    "2. Of food, to no longer be good enough to eat. English = spoil.",
-    "3. Of a child, to give them everything they want or ask for. By doing this, you make their behaviour and character worse than they would otherwise have been. English = spoil."
-  ],
   "cf": [
     "waste"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6303,
   "recordNumber": 3765,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something less enjoyable, attractive, valuable, useful or interesting than it would otherwise have been. English = spoil, damage, ruin.",
+    "2. Of food, to no longer be good enough to eat. English = spoil.",
+    "3. Of a child, to give them everything they want or ask for. By doing this, you make their behaviour and character worse than they would otherwise have been. English = spoil."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "spoil.1a",
+  "oldEntry": ""
 }

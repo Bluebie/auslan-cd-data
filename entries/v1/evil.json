@@ -15,24 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "Appears to be ASL loan sign, but interestingly some Auslan signers interpret it as 'wrong' initialised for 'e' and sign it lower in space.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "evil",
-  "oldentry": "",
   "english": [
     "evil"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to be very bad and to enjoy doing things that harm other people. English = (be) evil.",
-    "2. Of actions, to cause a great deal of harm to people. English = (be) evil."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the wicked and bad things that happen in the world. English = evil."
-  ],
   "signNumber": 65,
   "recordNumber": 37,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "synonyms": [
     "mistake.2",
     "devil.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to be very bad and to enjoy doing things that harm other people. English = (be) evil.",
+    "2. Of actions, to cause a great deal of harm to people. English = (be) evil."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the wicked and bad things that happen in the world. English = evil."
+  ],
+  "idGloss": "evil",
+  "oldEntry": ""
 }

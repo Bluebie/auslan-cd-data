@@ -13,27 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grow.up.1a",
-  "oldentry": "",
   "english": [
     "childhood",
     "grow up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gradually change from being a child into being an adult. English = grow up.",
-    "2. To work one's way up in an organisation from a very low position so that you occupy positions of greater power or status."
-  ],
   "cf": [
     "grow",
     "bring.up"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The period of time in which you gradually change from being a child into being an adult. English = childhood."
   ],
   "signNumber": 3497,
   "recordNumber": 2045,
@@ -43,5 +30,18 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gradually change from being a child into being an adult. English = grow up.",
+    "2. To work one's way up in an organisation from a very low position so that you occupy positions of greater power or status."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of time in which you gradually change from being a child into being an adult. English = childhood."
+  ],
+  "idGloss": "grow.up.1a",
+  "oldEntry": ""
 }

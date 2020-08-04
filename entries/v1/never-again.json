@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "AGAIN + FINISH",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "never-again",
-  "oldentry": "",
   "english": [
     "never again"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you are relieved that something has finished and to express your determination that you will never do it again, or let it happen again. English = 'Never again!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1592,
   "recordNumber": 950,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "never.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you are relieved that something has finished and to express your determination that you will never do it again, or let it happen again. English = 'Never again!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "never-again",
+  "oldEntry": ""
 }

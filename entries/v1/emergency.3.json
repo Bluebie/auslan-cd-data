@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emergency.3",
-  "oldentry": "",
   "english": [
     "emergency"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
-  ],
   "signNumber": 961,
   "recordNumber": 553,
   "signVisualComposition": "E + M + G",
@@ -35,5 +25,15 @@
   "synonyms": [
     "emergency.1",
     "emergency.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
+  ],
+  "idGloss": "emergency.3",
+  "oldEntry": ""
 }

@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lid.close",
-  "oldentry": "",
   "english": [
     "lid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lower the top of a box when you want to close it after getting at the contents or putting things inside. English = close lid."
-  ],
   "cf": [
     "lid.3"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4091,
   "recordNumber": 2454,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [
     "lid.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lower the top of a box when you want to close it after getting at the contents or putting things inside. English = close lid."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lid.close",
+  "oldEntry": ""
 }

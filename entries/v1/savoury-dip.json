@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of scooping up a soft paste-like substance with something held with your hand, or any thing or action directly or indirectly associated with this, especially a savoury-dip.",
-  "questlex": [],
-  "idgloss": "savoury-dip",
-  "oldentry": "",
   "english": [
     "dip",
     "savoury-dip",
     "scoop up"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "filler"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick, creamy mixture which you can eat by scooping it up with raw vegetables or biscuits. English = dip, savoury-dip."
   ],
   "signNumber": 219,
   "recordNumber": 128,
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of scooping up a soft paste-like substance with something held with your hand, or any thing or action directly or indirectly associated with this, especially a savoury-dip.",
+  "nominalLexeme": [
+    "1. A thick, creamy mixture which you can eat by scooping it up with raw vegetables or biscuits. English = dip, savoury-dip."
+  ],
+  "idGloss": "savoury-dip",
+  "oldEntry": ""
 }

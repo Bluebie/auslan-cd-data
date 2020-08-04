@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cow",
-  "oldentry": "Popular explanation: the horns of a cow.",
   "english": [
     "cow"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large female animal that is kept on farms for its milk. English = cow."
-  ],
   "signNumber": 5715,
   "recordNumber": 3381,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "cattle.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large female animal that is kept on farms for its milk. English = cow."
+  ],
+  "idGloss": "cow",
+  "oldEntry": "Popular explanation: the horns of a cow."
 }

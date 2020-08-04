@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "WHO + gesture of retraction",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stranger.1",
-  "oldentry": "",
   "english": [
     "stranger"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to politely and discreetly ask someone you are with about the identity of a third person, especially if they appear to know your or it appears you should know them. English = 'Excuse me, but who is that? Do I know them?'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone you have never met before, or someone you have met before but do not remember or recognise. English = stranger."
-  ],
   "signNumber": 1409,
   "recordNumber": 838,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "stranger.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to politely and discreetly ask someone you are with about the identity of a third person, especially if they appear to know your or it appears you should know them. English = 'Excuse me, but who is that? Do I know them?'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone you have never met before, or someone you have met before but do not remember or recognise. English = stranger."
+  ],
+  "idGloss": "stranger.1",
+  "oldEntry": ""
 }

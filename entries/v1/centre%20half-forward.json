@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "centre half-forward",
-  "oldentry": "",
   "english": [
     "centre half-forward"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "centre half-back"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian rules football, one of the three positions on the line between the centre line and the full-forward line. English = centre half-forward.",
-    "2. In Australian rules football, a player occupying the centre half-forward line. English = centre half-forward."
   ],
   "signNumber": 6546,
   "recordNumber": 3899,
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian rules football, one of the three positions on the line between the centre line and the full-forward line. English = centre half-forward.",
+    "2. In Australian rules football, a player occupying the centre half-forward line. English = centre half-forward."
+  ],
+  "idGloss": "centre half-forward",
+  "oldEntry": ""
 }

@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "desk.1",
-  "oldentry": "",
   "english": [
     "desk",
     "drawers"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A table, often with drawers, which you sit at in order to write or work. English = desk.",
-    "2. A piece of furniture with drawers. English = drawers, chest of drawers"
-  ],
   "signNumber": 3897,
   "recordNumber": 2320,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "antonyms": [],
   "synonyms": [
     "table"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A table, often with drawers, which you sit at in order to write or work. English = desk.",
+    "2. A piece of furniture with drawers. English = drawers, chest of drawers"
+  ],
+  "idGloss": "desk.1",
+  "oldEntry": ""
 }

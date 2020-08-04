@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "domino",
-  "oldentry": "Popular explanation: dominoes end to end.",
   "english": [
     "domino",
     "dominoes"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Small rectangular blocks marked with two groups of spots on one side, used for playing games. English = domino (singular), dominoes (plural).",
-    "2. A game played using dominoes. English = dominoes."
-  ],
   "signNumber": 2074,
   "recordNumber": 1208,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Small rectangular blocks marked with two groups of spots on one side, used for playing games. English = domino (singular), dominoes (plural).",
+    "2. A game played using dominoes. English = dominoes."
+  ],
+  "idGloss": "domino",
+  "oldEntry": "Popular explanation: dominoes end to end."
 }

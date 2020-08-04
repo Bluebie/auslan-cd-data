@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "TABLE + T",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "altar.2",
-  "oldentry": "",
   "english": [
     "altar"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A holy table in a church or temple. English = altar."
-  ],
   "signNumber": 4872.1,
   "recordNumber": 2948,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A holy table in a church or temple. English = altar."
+  ],
+  "idGloss": "altar.2",
+  "oldEntry": ""
 }

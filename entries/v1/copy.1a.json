@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "copy.1a",
-  "oldentry": "Popular explanation: taking from something.",
   "english": [
     "copy",
     "mimicry",
@@ -46,23 +42,9 @@
     "absorb"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something which looks exactly the same as something else. English = copy.",
-    "2. Of a person, group, or society, to behave in the same way as another person, group, or society. English = imitate, mimic.",
-    "3. To copy the work of another student in an exam. English = cheat.",
-    "4. To soak up or take in a liquid, gas, light, or heat. English = absorb."
-  ],
   "cf": [
     "photo.1a",
     "photocopy"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that is made to look exactly the same as something else. English = copy.",
-    "2. The copying of someone else's actions or behaviour. English = mimicry, imitation.",
-    "3. The copying of the work of another student in an exam. English = cheating.",
-    "4. The action of absorbing something. English = absorption."
   ],
   "signNumber": 2860,
   "recordNumber": 1614,
@@ -74,5 +56,23 @@
   "antonyms": [],
   "synonyms": [
     "false.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something which looks exactly the same as something else. English = copy.",
+    "2. Of a person, group, or society, to behave in the same way as another person, group, or society. English = imitate, mimic.",
+    "3. To copy the work of another student in an exam. English = cheat.",
+    "4. To soak up or take in a liquid, gas, light, or heat. English = absorb."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that is made to look exactly the same as something else. English = copy.",
+    "2. The copying of someone else's actions or behaviour. English = mimicry, imitation.",
+    "3. The copying of the work of another student in an exam. English = cheating.",
+    "4. The action of absorbing something. English = absorption."
+  ],
+  "idGloss": "copy.1a",
+  "oldEntry": "Popular explanation: taking from something."
 }

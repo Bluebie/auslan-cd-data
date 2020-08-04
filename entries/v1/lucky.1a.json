@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "? + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lucky.1a",
-  "oldentry": "",
   "english": [
     "luck",
     "chance",
@@ -38,22 +34,7 @@
     "accidentally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have something that is very desirable; to be in a very desirable situation; to have something good happen to you that is not the result of your own efforts or happens by chance. English = (be) lucky, (be) fortunate."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to wish someone well or success in what they are about to do. English = 'Good luck!'",
-    "2. Used alone to express congratulations or envy towards someone who has had some good fortune. English = 'Lucky you!'"
-  ],
-  "partlex": [
-    "1. Used to introduce a sentence, to mean that you are glad that what you are about to say happened. English = Luckily..., Fortunately...,",
-    "2. Used immediately next to a verb to mean that the action happened without planning or without any special effort. English = by chance, accidentally."
-  ],
-  "nomlex": [
-    "1. Success that does not come from your own abilities or efforts. English = luck.",
-    "2. An opportunity to do something which will be good for you. English = chance."
-  ],
   "signNumber": 5071,
   "recordNumber": 3059,
   "signVisualComposition": "",
@@ -64,5 +45,24 @@
   "antonyms": [
     "bad.luck"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to wish someone well or success in what they are about to do. English = 'Good luck!'",
+    "2. Used alone to express congratulations or envy towards someone who has had some good fortune. English = 'Lucky you!'"
+  ],
+  "particleLexeme": [
+    "1. Used to introduce a sentence, to mean that you are glad that what you are about to say happened. English = Luckily..., Fortunately...,",
+    "2. Used immediately next to a verb to mean that the action happened without planning or without any special effort. English = by chance, accidentally."
+  ],
+  "verbLexeme": [
+    "1. To have something that is very desirable; to be in a very desirable situation; to have something good happen to you that is not the result of your own efforts or happens by chance. English = (be) lucky, (be) fortunate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Success that does not come from your own abilities or efforts. English = luck.",
+    "2. An opportunity to do something which will be good for you. English = chance."
+  ],
+  "idGloss": "lucky.1a",
+  "oldEntry": ""
 }

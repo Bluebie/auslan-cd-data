@@ -16,27 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stair.1a",
-  "oldentry": "Popular explanation: walking up stairs.",
   "english": [
     "stairs",
     "stairway",
     "staircase"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To walk up stairs."
-  ],
   "cf": [
     "step",
     "footsteps"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set of steps inside or outside a building which go from one floor to another. English = stairs, stairway, staircase."
   ],
   "signNumber": 1616,
   "recordNumber": 960,
@@ -46,5 +34,17 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To walk up stairs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set of steps inside or outside a building which go from one floor to another. English = stairs, stairway, staircase."
+  ],
+  "idGloss": "stair.1a",
+  "oldEntry": "Popular explanation: walking up stairs."
 }

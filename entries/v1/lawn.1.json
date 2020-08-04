@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lawn.1",
-  "oldentry": "",
   "english": [
     "lawn"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An area of grass that is kept cut short, found as part of a garden or park. English = lawn."
-  ],
   "signNumber": 4033,
   "recordNumber": 2412,
   "signVisualComposition": "GRASS + GROUND",
@@ -38,5 +28,15 @@
   "synonyms": [
     "grass",
     "green.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An area of grass that is kept cut short, found as part of a garden or park. English = lawn."
+  ],
+  "idGloss": "lawn.1",
+  "oldEntry": ""
 }

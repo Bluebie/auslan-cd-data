@@ -15,23 +15,12 @@
   "sense": "",
   "blend": "TASTE + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "delicious.2",
-  "oldentry": "",
   "english": [
     "delicious",
     "tasty"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a very pleasant taste. English = (be) delicious.",
-    "2. To be enjoyable because it has a pleasant flavour. English = (be) tasty."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5107,
   "recordNumber": 3081,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   ],
   "synonyms": [
     "delicious.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a very pleasant taste. English = (be) delicious.",
+    "2. To be enjoyable because it has a pleasant flavour. English = (be) tasty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "delicious.2",
+  "oldEntry": ""
 }

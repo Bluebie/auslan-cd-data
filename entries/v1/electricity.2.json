@@ -14,25 +14,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "electricity.2",
-  "oldentry": "",
   "english": [
     "electricity",
     "electric",
     "electrical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of various devices and machines, to depend on electricity as a source of power. English = (be) electric, (be) electrical."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A form of energy, transmitted by wires, that is used for heating and lighting, and to provide power for machines in houses and factories. English = electricity."
-  ],
   "signNumber": 1937,
   "recordNumber": 1157,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "electricity.1a",
     "light.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of various devices and machines, to depend on electricity as a source of power. English = (be) electric, (be) electrical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A form of energy, transmitted by wires, that is used for heating and lighting, and to provide power for machines in houses and factories. English = electricity."
+  ],
+  "idGloss": "electricity.2",
+  "oldEntry": ""
 }

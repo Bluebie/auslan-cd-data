@@ -21,29 +21,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "corner.1a",
-  "oldentry": "Popular explanation: the corner of an object.",
   "english": [
     "corner",
     "convergence",
     "converge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To form a corner by two edges, sides or surfaces converging and joining.",
-    "2. For two edges, sides or surfaces of something to come closer and closer and meet; or for two once separate things to come together and merge in some way. English = converge."
-  ],
   "cf": [
     "street.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A point or an area where two or more of its edges, sides, or surfaces join. English = corner.",
-    "2. A place where two streets join. English = corner.",
-    "3. The coming together of two edges, sides or surfaces of something; or the coming together in some way of two once separate things. English = convergence."
   ],
   "signNumber": 3769,
   "recordNumber": 2230,
@@ -58,5 +43,20 @@
   ],
   "synonyms": [
     "intersection"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To form a corner by two edges, sides or surfaces converging and joining.",
+    "2. For two edges, sides or surfaces of something to come closer and closer and meet; or for two once separate things to come together and merge in some way. English = converge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A point or an area where two or more of its edges, sides, or surfaces join. English = corner.",
+    "2. A place where two streets join. English = corner.",
+    "3. The coming together of two edges, sides or surfaces of something; or the coming together in some way of two once separate things. English = convergence."
+  ],
+  "idGloss": "corner.1a",
+  "oldEntry": "Popular explanation: the corner of an object."
 }

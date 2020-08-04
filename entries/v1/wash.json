@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wash",
-  "oldentry": "Popular explanation: washing by hand.",
   "english": [
     "washing",
     "laundry",
@@ -33,19 +29,7 @@
     "launder"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To clean something using soap and water. English = wash.",
-    "2. To clean clothes using soap and water. English = wash clothes, do the laundry, do the washing, launder.",
-    "3. To wash clothes by hand."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of cleaning something using soap and water. English = washing.",
-    "2. The clothes that have been or are to be washed. English = the washing, the laundry.",
-    "3. A room in a house or a hotel where clothes are washed. English = laundry."
-  ],
   "signNumber": 5915,
   "recordNumber": 3519,
   "signVisualComposition": "",
@@ -58,5 +42,21 @@
     "clean.3a",
     "wash.face",
     "bath.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To clean something using soap and water. English = wash.",
+    "2. To clean clothes using soap and water. English = wash clothes, do the laundry, do the washing, launder.",
+    "3. To wash clothes by hand."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of cleaning something using soap and water. English = washing.",
+    "2. The clothes that have been or are to be washed. English = the washing, the laundry.",
+    "3. A room in a house or a hotel where clothes are washed. English = laundry."
+  ],
+  "idGloss": "wash",
+  "oldEntry": "Popular explanation: washing by hand."
 }

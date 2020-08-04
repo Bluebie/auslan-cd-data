@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sliding-door.close",
-  "oldentry": "",
   "english": [
     "sliding-door",
     "close sliding-door"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To close a sliding door by moving it sideways."
-  ],
   "cf": [
     "sliding-door"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4181,
   "recordNumber": 2528,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [
     "sliding-door.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To close a sliding door by moving it sideways."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sliding-door.close",
+  "oldEntry": ""
 }

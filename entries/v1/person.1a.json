@@ -15,28 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "person.1a",
-  "oldentry": "",
   "english": [
     "person",
     "character",
     "client"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately after verbs of liking and hating with reference to people to mean your feelings are directed towards a person in themselves, not their job or role in society. English = 'as a person'.",
-    "2. Used by some signers immediately after noun signs to remove any ambiguity that they are referring to a person who does that action, rather than the action itself. English = 'er' as in 'work' + 'er' for 'work-person'."
-  ],
-  "nomlex": [
-    "1. A man or a woman. English = person.",
-    "2. A person in a film or play. English = character.",
-    "3. A person or company that receives a service from a professional person or organisation. English = client."
-  ],
   "signNumber": 5337,
   "recordNumber": 3195,
   "signVisualComposition": "",
@@ -47,5 +32,20 @@
   "antonyms": [],
   "synonyms": [
     "character"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately after verbs of liking and hating with reference to people to mean your feelings are directed towards a person in themselves, not their job or role in society. English = 'as a person'.",
+    "2. Used by some signers immediately after noun signs to remove any ambiguity that they are referring to a person who does that action, rather than the action itself. English = 'er' as in 'work' + 'er' for 'work-person'."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A man or a woman. English = person.",
+    "2. A person in a film or play. English = character.",
+    "3. A person or company that receives a service from a professional person or organisation. English = client."
+  ],
+  "idGloss": "person.1a",
+  "oldEntry": ""
 }

@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ski.2",
-  "oldentry": "",
   "english": [
     "skiing",
     "water-skiing",
@@ -30,17 +26,7 @@
     "water-ski"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move over snow using skis. English = ski.",
-    "2. To move over water using water-skis. English = water-ski."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sport in which you move on snow wearing long, flat, narrow pieces of wood, metal, or plastic that are fastened to boots. English = skiing.",
-    "2. The sport in which you ski on water while being pulled by a boat. English = water-skiing."
-  ],
   "signNumber": 1664,
   "recordNumber": 988,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "ski.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move over snow using skis. English = ski.",
+    "2. To move over water using water-skis. English = water-ski."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sport in which you move on snow wearing long, flat, narrow pieces of wood, metal, or plastic that are fastened to boots. English = skiing.",
+    "2. The sport in which you ski on water while being pulled by a boat. English = water-skiing."
+  ],
+  "idGloss": "ski.2",
+  "oldEntry": ""
 }

@@ -9,20 +9,9 @@
   "sense": "",
   "blend": "",
   "queries": "This is one of the very few true idioms in Auslan. Though some Auslan signers claim this is an old expression, it appears to be borrowed from ASL.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "train's-gone",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used in response to someone's request for you to clarify or to repeat something because they  have joined or rejoined a conversation you are having with someone else. It is too late for them to follow because they have missed something vital.",
-    "You are not really prepared to repeat yourself. It is used particularly when you have just given the punch-line to a joke and someone does not understand because they were not paying full attention."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1764,
   "recordNumber": 1060,
   "signVisualComposition": "",
@@ -31,5 +20,16 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used in response to someone's request for you to clarify or to repeat something because they  have joined or rejoined a conversation you are having with someone else. It is too late for them to follow because they have missed something vital.",
+    "You are not really prepared to repeat yourself. It is used particularly when you have just given the punch-line to a joke and someone does not understand because they were not paying full attention."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "train's-gone",
+  "oldEntry": ""
 }

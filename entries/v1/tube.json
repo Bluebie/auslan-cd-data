@@ -10,21 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any long, thick, hollow cylindrical object, or any thing or action directly or indirectly associated with this, such as a tunnel, pipe, tube.",
-  "questlex": [],
-  "idgloss": "tube",
-  "oldentry": "",
   "english": [
     "tunnel",
     "pipe",
     "tube"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4588,
   "recordNumber": 2778,
   "signVisualComposition": "",
@@ -33,5 +25,13 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any long, thick, hollow cylindrical object, or any thing or action directly or indirectly associated with this, such as a tunnel, pipe, tube.",
+  "nominalLexeme": [],
+  "idGloss": "tube",
+  "oldEntry": ""
 }

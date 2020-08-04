@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "committee.1a",
-  "oldentry": "",
   "english": [
     "committee"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of people who represent a larger group or organisation and who make decisions or plans for that group or organisation. English = committee."
-  ],
   "signNumber": 14,
   "recordNumber": 10,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of people who represent a larger group or organisation and who make decisions or plans for that group or organisation. English = committee."
+  ],
+  "idGloss": "committee.1a",
+  "oldEntry": ""
 }

@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bewildered",
-  "oldentry": "",
   "english": [
     "simpleton",
     "bewildered"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very confused by something, especially something you see; to find something incomprehensible, especially something you see. English = (be) bewildered."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person with very low intelligence. English = simpleton."
-  ],
   "signNumber": 2431,
   "recordNumber": 1348,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very confused by something, especially something you see; to find something incomprehensible, especially something you see. English = (be) bewildered."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person with very low intelligence. English = simpleton."
+  ],
+  "idGloss": "bewildered",
+  "oldEntry": ""
 }

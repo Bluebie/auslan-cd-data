@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "communicate.1a",
-  "oldentry": "",
   "english": [
     "communication",
     "communicate",
@@ -36,19 +32,7 @@
     "converse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use signals such as speech, signs, radio signals, or body movements to give another person information. English = communicate.",
-    "2. To make another person aware of an idea or feeling you have. English = communicate.",
-    "3. Of two or more people, to talk to each other. English = converse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity or process of giving information to other people or to other living things. English = communication.",
-    "2. The systems and processes that are used to communicate or broadcast information, especially by means of electricity or radio waves. English = communications.",
-    "3. The act of two or more people talking to each other. English = conversation."
-  ],
   "signNumber": 4598,
   "recordNumber": 2783,
   "signVisualComposition": "",
@@ -60,5 +44,21 @@
   "synonyms": [
     "discuss.1a",
     "dialogue.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use signals such as speech, signs, radio signals, or body movements to give another person information. English = communicate.",
+    "2. To make another person aware of an idea or feeling you have. English = communicate.",
+    "3. Of two or more people, to talk to each other. English = converse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity or process of giving information to other people or to other living things. English = communication.",
+    "2. The systems and processes that are used to communicate or broadcast information, especially by means of electricity or radio waves. English = communications.",
+    "3. The act of two or more people talking to each other. English = conversation."
+  ],
+  "idGloss": "communicate.1a",
+  "oldEntry": ""
 }

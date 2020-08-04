@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "niece",
-  "oldentry": "",
   "english": [
     "niece"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "clean.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The daughter of someone's sister or brother. English = niece."
   ],
   "signNumber": 1915,
   "recordNumber": 1143,
@@ -41,5 +31,15 @@
   ],
   "synonyms": [
     "niece.nephew"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The daughter of someone's sister or brother. English = niece."
+  ],
+  "idGloss": "niece",
+  "oldEntry": ""
 }

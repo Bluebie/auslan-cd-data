@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sauce",
-  "oldentry": "Popular explanation: shaking sauce out from a bottle.",
   "english": [
     "sauce",
     "seasoning",
@@ -28,18 +24,7 @@
     "sprinkle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pour sauce from a bottle.",
-    "2. To sprinkle something from a container, such as pepper or salt."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick liquid which is served with other food and which often comes in a bottle. English = sauce.",
-    "2. Salt, pepper, or spices that are added to food to improve its flavour. English = seasoning.",
-    "3. A container for salt, pepper, or spices."
-  ],
   "signNumber": 4524,
   "recordNumber": 2745,
   "signVisualComposition": "",
@@ -48,5 +33,20 @@
   "primaryLocation": 14,
   "secondLocation": 0,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pour sauce from a bottle.",
+    "2. To sprinkle something from a container, such as pepper or salt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thick liquid which is served with other food and which often comes in a bottle. English = sauce.",
+    "2. Salt, pepper, or spices that are added to food to improve its flavour. English = seasoning.",
+    "3. A container for salt, pepper, or spices."
+  ],
+  "idGloss": "sauce",
+  "oldEntry": "Popular explanation: shaking sauce out from a bottle."
 }

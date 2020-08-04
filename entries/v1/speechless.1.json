@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "speechless.1",
-  "oldentry": "Popular explanation: the jaw dropping open.",
   "english": [
     "speechless",
     "flabbergasted",
@@ -31,17 +27,7 @@
     "agape"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be so surprised by what someone says or does that you cannot think of anything to say or do. English = (be) speechless, (be) flabbergasted, (be) dumbfounded, (be) open-mouthed.",
-    "2. To open your mouth in surprise or amazement. English = gape.",
-    "3. Of a mouth, to be held wide open in surprise. English = (be) agape."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you are completely amazed at what someone has said or done such that you do not know what to say or do. English = 'I'm speechless!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2936,
   "recordNumber": 1668,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "speechless.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you are completely amazed at what someone has said or done such that you do not know what to say or do. English = 'I'm speechless!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be so surprised by what someone says or does that you cannot think of anything to say or do. English = (be) speechless, (be) flabbergasted, (be) dumbfounded, (be) open-mouthed.",
+    "2. To open your mouth in surprise or amazement. English = gape.",
+    "3. Of a mouth, to be held wide open in surprise. English = (be) agape."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "speechless.1",
+  "oldEntry": "Popular explanation: the jaw dropping open."
 }

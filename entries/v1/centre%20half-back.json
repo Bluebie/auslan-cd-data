@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "centre half-back",
-  "oldentry": "",
   "english": [
     "centre half-back"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "centre half-forward"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian rules football, the centre position on the half-back line, between the two flanks. English = centre half-back.",
-    "2. In Australian rules football, the player who occupies the centre position on the half-back line, between the two flanks. English = centre half-back."
   ],
   "signNumber": 6545,
   "recordNumber": 3898,
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian rules football, the centre position on the half-back line, between the two flanks. English = centre half-back.",
+    "2. In Australian rules football, the player who occupies the centre position on the half-back line, between the two flanks. English = centre half-back."
+  ],
+  "idGloss": "centre half-back",
+  "oldEntry": ""
 }

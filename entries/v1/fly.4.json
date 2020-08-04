@@ -12,21 +12,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fly.4",
-  "oldentry": "Popular explanation: flapping wings.",
   "english": [
     "fly"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small insect with two wings. English = fly."
-  ],
   "signNumber": 3595,
   "recordNumber": 2113,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "insect.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small insect with two wings. English = fly."
+  ],
+  "idGloss": "fly.4",
+  "oldEntry": "Popular explanation: flapping wings."
 }

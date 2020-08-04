@@ -16,26 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "advanced.1",
-  "oldentry": "Popular explanation: one level raised up high to another.",
   "english": [
     "advanced",
     "advance"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be at a level of study or skill where you already know the basic facts or techniques and are now doing more difficult work. English = (be) advanced.",
-    "2. To go or move beyond the basic level in learning something or acquiring a skill. English = advance."
-  ],
   "cf": [
     "equal.1a",
     "far.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4105.1,
   "recordNumber": 2467,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "antonyms": [],
   "synonyms": [
     "advanced.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be at a level of study or skill where you already know the basic facts or techniques and are now doing more difficult work. English = (be) advanced.",
+    "2. To go or move beyond the basic level in learning something or acquiring a skill. English = advance."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "advanced.1",
+  "oldEntry": "Popular explanation: one level raised up high to another."
 }

@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sex.3",
-  "oldentry": "",
   "english": [
     "sex"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have sex."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The physical activity by which people and animals can produce young or which they do for pleasure. English = sex."
-  ],
   "signNumber": 1789,
   "recordNumber": 1079,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "sex.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have sex."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The physical activity by which people and animals can produce young or which they do for pleasure. English = sex."
+  ],
+  "idGloss": "sex.3",
+  "oldEntry": ""
 }

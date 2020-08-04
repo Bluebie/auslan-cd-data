@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fast forward",
-  "oldentry": "",
   "english": [
     "fast forward"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make the tape on a video cassette recorder or similar machine go forward quickly so that you can play a different part of the tape. English = fast forward."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4850,
   "recordNumber": 2931,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [
     "rewind.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make the tape on a video cassette recorder or similar machine go forward quickly so that you can play a different part of the tape. English = fast forward."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fast forward",
+  "oldEntry": ""
 }

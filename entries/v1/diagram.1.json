@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "diagram.1",
-  "oldentry": "Popular explanation: drawing something.",
   "english": [
     "diagram"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw a picture or diagram."
-  ],
   "cf": [
     "write.1a",
     "picture.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A simple drawing consisting mainly of lines, often one which is used to explain how something works. English = diagram."
   ],
   "signNumber": 6453,
   "recordNumber": 3847,
@@ -46,5 +34,17 @@
   "synonyms": [
     "art",
     "paint.picture.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw a picture or diagram."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A simple drawing consisting mainly of lines, often one which is used to explain how something works. English = diagram."
+  ],
+  "idGloss": "diagram.1",
+  "oldEntry": "Popular explanation: drawing something."
 }

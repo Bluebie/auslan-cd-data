@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers also position the subordinate hand as if holding onto reins.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jockey",
-  "oldentry": "Popular explanation: hitting a horse with a whip.",
   "english": [
     "jockey",
     "whip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hit an animal, especially a horse, with a piece of leather or rope fastened to a handle to make it work harder or run faster. English = whip."
-  ],
   "cf": [
     "punish.1a",
     "penalise"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who rides horses in a race. English = jockey."
   ],
   "signNumber": 6134,
   "recordNumber": 3651,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "whip.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hit an animal, especially a horse, with a piece of leather or rope fastened to a handle to make it work harder or run faster. English = whip."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who rides horses in a race. English = jockey."
+  ],
+  "idGloss": "jockey",
+  "oldEntry": "Popular explanation: hitting a horse with a whip."
 }

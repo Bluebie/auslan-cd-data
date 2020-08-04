@@ -15,25 +15,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "invite.1",
-  "oldentry": "Popular explanation: tugging at someone.",
   "english": [
     "invitation",
     "invite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask someone to come to an occasion, such as a party or a meal. English = invite."
-  ],
   "cf": [
     "accept.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A written, spoken or signed request to some to an event such as a party, a meal, or a meeting. English = invitation."
   ],
   "signNumber": 5168,
   "recordNumber": 3109,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "invite.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask someone to come to an occasion, such as a party or a meal. English = invite."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A written, spoken or signed request to some to an event such as a party, a meal, or a meeting. English = invitation."
+  ],
+  "idGloss": "invite.1",
+  "oldEntry": "Popular explanation: tugging at someone."
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "owl",
-  "oldentry": "",
   "english": [
     "owl"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bird"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bird with a flat face and large eyes, which hunts small animals at night. English = owl."
   ],
   "signNumber": 4804,
   "recordNumber": 2900,
@@ -36,5 +26,15 @@
   "primaryLocation": 4,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A bird with a flat face and large eyes, which hunts small animals at night. English = owl."
+  ],
+  "idGloss": "owl",
+  "oldEntry": ""
 }

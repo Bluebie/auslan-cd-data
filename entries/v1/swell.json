@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swell",
-  "oldentry": "Popular explanation: something getting bigger.",
   "english": [
     "expansion",
     "enlargement",
@@ -39,20 +35,8 @@
     "swell up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become larger. English = enlarge, expand.",
-    "2. To become larger and rounder by being filled with liquid or air. English = swell.",
-    "3. Of a body part, to become larger and rounder than normal, usually as a result of an injury or an illness. English = swell, swell up."
-  ],
   "cf": [
     "mumps.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The increase in size of something such that it becomes larger. English = expansion, enlargement.",
-    "2. The increase in size of something such that it becomes larger and rounder by being filled with liquid or air. English = swelling.",
-    "3. The increase in size of a body part such that it becomes larger and rounder than normal, usually as a result of an injury or an illness. English = swelling."
   ],
   "signNumber": 153,
   "recordNumber": 84,
@@ -68,5 +52,21 @@
   "synonyms": [
     "expand.1a",
     "magnify"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become larger. English = enlarge, expand.",
+    "2. To become larger and rounder by being filled with liquid or air. English = swell.",
+    "3. Of a body part, to become larger and rounder than normal, usually as a result of an injury or an illness. English = swell, swell up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The increase in size of something such that it becomes larger. English = expansion, enlargement.",
+    "2. The increase in size of something such that it becomes larger and rounder by being filled with liquid or air. English = swelling.",
+    "3. The increase in size of a body part such that it becomes larger and rounder than normal, usually as a result of an injury or an illness. English = swelling."
+  ],
+  "idGloss": "swell",
+  "oldEntry": "Popular explanation: something getting bigger."
 }

@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brave",
-  "oldentry": "",
   "english": [
     "bravery",
     "courage",
@@ -28,18 +24,10 @@
     "courageous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be willing to do things which are dangerous without showing fear; to not show fear in difficult or dangerous situations. Used to show approval of the person. English = (be) brave, (be) courageous."
-  ],
   "cf": [
     "feel.1a",
     "strong.1a",
     "cure"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. Used to show approval of the person. English = bravery, courage."
   ],
   "signNumber": 2794,
   "recordNumber": 1564,
@@ -51,5 +39,17 @@
   "antonyms": [],
   "synonyms": [
     "courage"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be willing to do things which are dangerous without showing fear; to not show fear in difficult or dangerous situations. Used to show approval of the person. English = (be) brave, (be) courageous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. Used to show approval of the person. English = bravery, courage."
+  ],
+  "idGloss": "brave",
+  "oldEntry": ""
 }

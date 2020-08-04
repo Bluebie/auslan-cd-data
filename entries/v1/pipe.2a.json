@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any medium-sized, horizontal cylindrical object, such as a pipe, pole, bar, or rod, or any thing or any action directly or indirectly associated with this, such as a degree or diploma.",
-  "questlex": [],
-  "idgloss": "pipe.2a",
-  "oldentry": "Popular explanation: the outline of a pipe.",
   "english": [
     "pipe",
     "pole",
@@ -33,15 +29,7 @@
     "diploma"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, round, hollow object, usually made of metal or plastic, through which a liquid or gas can flow. English = pipe.",
-    "2. A long, thin, straight object made of metal, wood, or some other hard substance. English =  pole, bar, rod.",
-    "3. A qualification gained by passing a course of study at a university or college. English = degree, diploma."
-  ],
   "signNumber": 179,
   "recordNumber": 101,
   "signVisualComposition": "",
@@ -53,5 +41,17 @@
   "synonyms": [
     "pole.1a",
     "certificate.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any medium-sized, horizontal cylindrical object, such as a pipe, pole, bar, or rod, or any thing or any action directly or indirectly associated with this, such as a degree or diploma.",
+  "nominalLexeme": [
+    "1. A long, round, hollow object, usually made of metal or plastic, through which a liquid or gas can flow. English = pipe.",
+    "2. A long, thin, straight object made of metal, wood, or some other hard substance. English =  pole, bar, rod.",
+    "3. A qualification gained by passing a course of study at a university or college. English = degree, diploma."
+  ],
+  "idGloss": "pipe.2a",
+  "oldEntry": "Popular explanation: the outline of a pipe."
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "close.call",
-  "oldentry": "",
   "english": [
     "close call"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to indicate that you have just narrowly avoided something unpleasant happening to you. English = 'That was a close call!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3484,
   "recordNumber": 2036,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to indicate that you have just narrowly avoided something unpleasant happening to you. English = 'That was a close call!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "close.call",
+  "oldEntry": ""
 }

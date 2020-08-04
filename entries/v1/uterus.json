@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "STOMACH + U",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "uterus",
-  "oldentry": "",
   "english": [
     "uterus"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "womb"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part inside a woman's body where a baby grows before it is born. English = uterus."
   ],
   "signNumber": 1991,
   "recordNumber": 1171,
@@ -36,5 +26,15 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part inside a woman's body where a baby grows before it is born. English = uterus."
+  ],
+  "idGloss": "uterus",
+  "oldEntry": ""
 }

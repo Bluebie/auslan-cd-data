@@ -14,24 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tortoise",
-  "oldentry": "Popular explanation: the legs of a tortoise sticking out of its shell.",
   "english": [
     "tortoise",
     "turtle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "snail"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A slow-moving animal with a large, hard shell over its body. It can pull its head and legs into the shell in order to protect them. English = tortoise.",
-    "2. A large reptile which has a thick shell covering its body and which lives in the sea most of the time. English = turtle."
   ],
   "signNumber": 3888,
   "recordNumber": 2314,
@@ -41,5 +30,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A slow-moving animal with a large, hard shell over its body. It can pull its head and legs into the shell in order to protect them. English = tortoise.",
+    "2. A large reptile which has a thick shell covering its body and which lives in the sea most of the time. English = turtle."
+  ],
+  "idGloss": "tortoise",
+  "oldEntry": "Popular explanation: the legs of a tortoise sticking out of its shell."
 }

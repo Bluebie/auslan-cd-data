@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Thursday",
-  "oldentry": "",
   "english": [
     "Thursday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the days of the week, between Wednesday and Friday, called Thursday."
-  ],
   "signNumber": 6542,
   "recordNumber": 3896,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the days of the week, between Wednesday and Friday, called Thursday."
+  ],
+  "idGloss": "Thursday",
+  "oldEntry": ""
 }

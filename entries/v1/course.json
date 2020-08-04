@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "course",
-  "oldentry": "",
   "english": [
     "course"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "list.2",
     "subject",
     "policy"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A series of lessons or lectures on a particular subject. It usually includes reading and written work that student has to do. English = course."
   ],
   "signNumber": 4689,
   "recordNumber": 2833,
@@ -41,5 +31,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A series of lessons or lectures on a particular subject. It usually includes reading and written work that student has to do. English = course."
+  ],
+  "idGloss": "course",
+  "oldEntry": ""
 }

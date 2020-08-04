@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cat.2a",
-  "oldentry": "Popular explanation: the whiskers of a cat.",
   "english": [
     "cat",
     "pussy",
@@ -28,14 +24,7 @@
     "whiskers"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, furry animal with a tail, whiskers, and sharp claws, which is often kept as a pet. English = cat. Informal English (especially for children) = pussy, pussy-cat.",
-    "2. The long, stiff hairs that grow near the mouth of a cat. English = whiskers."
-  ],
   "signNumber": 5098,
   "recordNumber": 3076,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "antonyms": [],
   "synonyms": [
     "cat.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, furry animal with a tail, whiskers, and sharp claws, which is often kept as a pet. English = cat. Informal English (especially for children) = pussy, pussy-cat.",
+    "2. The long, stiff hairs that grow near the mouth of a cat. English = whiskers."
+  ],
+  "idGloss": "cat.2a",
+  "oldEntry": "Popular explanation: the whiskers of a cat."
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swim.1",
-  "oldentry": "Popular explanation: a swimming action.",
   "english": [
     "swimming",
     "swim",
@@ -29,18 +25,7 @@
     "breast-stroke"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move through the water by making movements with your arms and legs. English = swim.",
-    "2. To swim breast stroke. English = breast-stroke."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sport or recreation in which people move through the water by making movements with your arms and legs. English = swimming.",
-    "2. A short period of activity during which people move through the water by making movements with your arms and legs. English = swim.",
-    "3. A style of swimming. English = breast stroke."
-  ],
   "signNumber": 3908,
   "recordNumber": 2327,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   ],
   "synonyms": [
     "swim.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move through the water by making movements with your arms and legs. English = swim.",
+    "2. To swim breast stroke. English = breast-stroke."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sport or recreation in which people move through the water by making movements with your arms and legs. English = swimming.",
+    "2. A short period of activity during which people move through the water by making movements with your arms and legs. English = swim.",
+    "3. A style of swimming. English = breast stroke."
+  ],
+  "idGloss": "swim.1",
+  "oldEntry": "Popular explanation: a swimming action."
 }

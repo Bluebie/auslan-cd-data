@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rebore",
-  "oldentry": "",
   "english": [
     "rebore"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bore out the cylinders of an internal-combustion engine. English = rebore."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6636,
   "recordNumber": 3950,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bore out the cylinders of an internal-combustion engine. English = rebore."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "rebore",
+  "oldEntry": ""
 }

@@ -16,25 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carry.1a",
-  "oldentry": "Popular explanation: carrying something towards oneself.",
   "english": [
     "carry",
     "bear"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take something with you, holding it so that it does not touch the ground, often by supporting it from underneath. English = carry, bear."
-  ],
   "cf": [
     "bring.1a",
     "drop.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3839,
   "recordNumber": 2282,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take something with you, holding it so that it does not touch the ground, often by supporting it from underneath. English = carry, bear."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "carry.1a",
+  "oldEntry": "Popular explanation: carrying something towards oneself."
 }

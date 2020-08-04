@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eye-popping",
-  "oldentry": "Popular explanation: large, wide open eyes.",
   "english": [
     "eye-popping"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of someone or something, to be very interesting or attractive so that you cannot stop looking at them."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5534,
   "recordNumber": 3275,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 4,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of someone or something, to be very interesting or attractive so that you cannot stop looking at them."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "eye-popping",
+  "oldEntry": "Popular explanation: large, wide open eyes."
 }

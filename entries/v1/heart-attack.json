@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heart-attack",
-  "oldentry": "",
   "english": [
     "heart-attack",
     "cardiac arrest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have or suffer a heart attack; to have or suffer a cardiac arrest."
-  ],
   "cf": [
     "stroke.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sudden sickness in which your heart starts to beat irregularly or fails to pump blood properly, so that it causes you a lot of pain. People often die because of this. English = heart attack. Formal medical English = cardiac arrest."
   ],
   "signNumber": 5638,
   "recordNumber": 3341,
@@ -41,5 +29,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have or suffer a heart attack; to have or suffer a cardiac arrest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sudden sickness in which your heart starts to beat irregularly or fails to pump blood properly, so that it causes you a lot of pain. People often die because of this. English = heart attack. Formal medical English = cardiac arrest."
+  ],
+  "idGloss": "heart-attack",
+  "oldEntry": ""
 }

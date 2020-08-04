@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "draw.line.1a",
-  "oldentry": "",
   "english": [
     "write"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw a line, especially on a vertical surface or a board."
-  ],
   "cf": [
     "write.report"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line which has been drawn on a vertical surface or a board."
   ],
   "signNumber": 6443,
   "recordNumber": 3839,
@@ -45,5 +33,17 @@
   "synonyms": [
     "write.1a",
     "author"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw a line, especially on a vertical surface or a board."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line which has been drawn on a vertical surface or a board."
+  ],
+  "idGloss": "draw.line.1a",
+  "oldEntry": ""
 }

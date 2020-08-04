@@ -12,23 +12,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overturn",
-  "oldentry": "",
   "english": [
     "overturn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of moving vehicles, to turn onto the side or upside down. English = overturn."
-  ],
   "cf": [
     "go.by.vehicle.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4258,
   "recordNumber": 2584,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of moving vehicles, to turn onto the side or upside down. English = overturn."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "overturn",
+  "oldEntry": ""
 }

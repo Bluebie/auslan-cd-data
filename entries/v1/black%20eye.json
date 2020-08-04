@@ -9,22 +9,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "black eye",
-  "oldentry": "",
   "english": [
     "black eye"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "eyeball"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An eye which has been injured and has a dark-coloured bruise around it. English = black eye."
   ],
   "signNumber": 2910.1,
   "recordNumber": 1647,
@@ -34,5 +24,15 @@
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An eye which has been injured and has a dark-coloured bruise around it. English = black eye."
+  ],
+  "idGloss": "black eye",
+  "oldEntry": ""
 }

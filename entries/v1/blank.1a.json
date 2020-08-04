@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blank.1a",
-  "oldentry": "",
   "english": [
     "blank",
     "bare",
@@ -29,14 +25,7 @@
     "deserted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a surface or object, to have nothing on it, or to not be covered or decorated with anything. English = (be) blank, (be) bare.",
-    "2. Of a place, to have no people in it. English = (be) empty, (be) deserted."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 475,
   "recordNumber": 263,
   "signVisualComposition": "",
@@ -52,5 +41,16 @@
     "eliminate",
     "bare",
     "empty.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a surface or object, to have nothing on it, or to not be covered or decorated with anything. English = (be) blank, (be) bare.",
+    "2. Of a place, to have no people in it. English = (be) empty, (be) deserted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "blank.1a",
+  "oldEntry": ""
 }

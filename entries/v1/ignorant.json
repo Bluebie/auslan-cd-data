@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ignorant",
-  "oldentry": "",
   "english": [
     "ignorance",
     "dimwit",
@@ -27,16 +23,7 @@
     "ignorant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not know anything about something. English = (be) ignorant."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who cannot learn what someone is trying to teach them. English = dimwit, dunce.",
-    "2. The lack of knowledge about something. English = ignorance."
-  ],
   "signNumber": 5572,
   "recordNumber": 3297,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "antonyms": [],
   "synonyms": [
     "not.know.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not know anything about something. English = (be) ignorant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who cannot learn what someone is trying to teach them. English = dimwit, dunce.",
+    "2. The lack of knowledge about something. English = ignorance."
+  ],
+  "idGloss": "ignorant",
+  "oldEntry": ""
 }

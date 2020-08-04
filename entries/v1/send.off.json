@@ -13,24 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "send.off",
-  "oldentry": "",
   "english": [
     "send off",
     "dismiss",
     "out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In sports, to tell a player to leave the playing field because they have broken the rules of the game in some way. English = send off, dismiss.",
-    "2. In sports and games, to have done something which means you can no longer participate. English = (be) out."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6296,
   "recordNumber": 3762,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "eliminate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In sports, to tell a player to leave the playing field because they have broken the rules of the game in some way. English = send off, dismiss.",
+    "2. In sports and games, to have done something which means you can no longer participate. English = (be) out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "send.off",
+  "oldEntry": ""
 }

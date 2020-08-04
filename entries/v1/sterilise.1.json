@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sterilise.1",
-  "oldentry": "",
   "english": [
     "sterilisation",
     "tubal ligation",
@@ -31,19 +27,8 @@
     "sterilise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate on a male or a female so as to make it impossible for him or her to produce or have babies. English = sterilise.",
-    "2. Of a woman, to have a tubal ligation. Idiomatic English = have one's tubes tied."
-  ],
   "cf": [
     "operate.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A medical operation that makes it impossible for a male or female to produce or have babies. English = sterilisation.",
-    "2. A medical operation that makes it impossible for a female to have or produce babies, for example by cutting or tying the fallopian tubes. English = tubal ligation.",
-    "3. A medical operation on a male in which the vas deferens in the testicles are excised so as to make it impossible for him to produce babies. English = vasectomy."
   ],
   "signNumber": 4886,
   "recordNumber": 2952,
@@ -55,5 +40,20 @@
   "antonyms": [],
   "synonyms": [
     "sterilise.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate on a male or a female so as to make it impossible for him or her to produce or have babies. English = sterilise.",
+    "2. Of a woman, to have a tubal ligation. Idiomatic English = have one's tubes tied."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A medical operation that makes it impossible for a male or female to produce or have babies. English = sterilisation.",
+    "2. A medical operation that makes it impossible for a female to have or produce babies, for example by cutting or tying the fallopian tubes. English = tubal ligation.",
+    "3. A medical operation on a male in which the vas deferens in the testicles are excised so as to make it impossible for him to produce babies. English = vasectomy."
+  ],
+  "idGloss": "sterilise.1",
+  "oldEntry": ""
 }

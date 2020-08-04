@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trunk.1",
-  "oldentry": "",
   "english": [
     "trunk"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, strong case or box with a lid, used for storing things or for taking them on a journey. English = trunk."
-  ],
   "signNumber": 3789,
   "recordNumber": 2246,
   "signVisualComposition": "BOX + LID",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "box"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, strong case or box with a lid, used for storing things or for taking them on a journey. English = trunk."
+  ],
+  "idGloss": "trunk.1",
+  "oldEntry": ""
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fussy.1a",
-  "oldentry": "",
   "english": [
     "fussy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be excessively nervous, concerned with details, or careful in choosing things. English = (be) fussy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 540,
   "recordNumber": 308,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be excessively nervous, concerned with details, or careful in choosing things. English = (be) fussy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fussy.1a",
+  "oldEntry": ""
 }

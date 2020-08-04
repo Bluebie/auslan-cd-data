@@ -10,22 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "champion",
-  "oldentry": "",
   "english": [
     "champion"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who has won the first prize in a competition, contest, or fight. English = champion.",
-    "2. A person who is extremely good or talented at doing something, and is better than most other people at it. English = champion."
-  ],
   "signNumber": 3244,
   "recordNumber": 1888,
   "signVisualComposition": "",
@@ -34,5 +23,16 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who has won the first prize in a competition, contest, or fight. English = champion.",
+    "2. A person who is extremely good or talented at doing something, and is better than most other people at it. English = champion."
+  ],
+  "idGloss": "champion",
+  "oldEntry": ""
 }

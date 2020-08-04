@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fork-lift",
-  "oldentry": "",
   "english": [
     "fork-lift"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a fork-lift."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small vehicle with two moveable arms on the front that are used to lift heavy loads. English = fork-lift."
-  ],
   "signNumber": 1662,
   "recordNumber": 987,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a fork-lift."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small vehicle with two moveable arms on the front that are used to lift heavy loads. English = fork-lift."
+  ],
+  "idGloss": "fork-lift",
+  "oldEntry": ""
 }

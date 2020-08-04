@@ -11,19 +11,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mark time",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To do something uninteresting or unimportant while you are waiting for something else to happen. Idiomatic English = to mark time, to hang about waiting, to kill time."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1725,
   "recordNumber": 1034,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "synonyms": [
     "wait.1",
     "wait.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something uninteresting or unimportant while you are waiting for something else to happen. Idiomatic English = to mark time, to hang about waiting, to kill time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "mark time",
+  "oldEntry": ""
 }

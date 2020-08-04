@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cricket.1",
-  "oldentry": "Popular explanation: using a cricket bat.",
   "english": [
     "cricket",
     "cricket bat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a game of cricket.",
-    "2. To use a cricket bat."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. English = cricket.",
-    "2. The wooden bat used in the game of cricket. English = cricket bat."
-  ],
   "signNumber": 5936,
   "recordNumber": 3534,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "synonyms": [
     "cricket.2",
     "bat"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a game of cricket.",
+    "2. To use a cricket bat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. English = cricket.",
+    "2. The wooden bat used in the game of cricket. English = cricket bat."
+  ],
+  "idGloss": "cricket.1",
+  "oldEntry": "Popular explanation: using a cricket bat."
 }

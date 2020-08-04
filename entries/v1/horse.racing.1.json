@@ -18,26 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horse.racing.1",
-  "oldentry": "",
   "english": [
     "horse racing",
     "horse race",
     "race"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To race horses."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Races run between horses in which people place bets on the horse they think will win. English = horse racing.",
-    "2. A race run between horses. English = horse race."
-  ],
   "signNumber": 1796,
   "recordNumber": 1083,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "synonyms": [
     "horse.racing.2",
     "trots"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To race horses."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Races run between horses in which people place bets on the horse they think will win. English = horse racing.",
+    "2. A race run between horses. English = horse race."
+  ],
+  "idGloss": "horse.racing.1",
+  "oldEntry": ""
 }

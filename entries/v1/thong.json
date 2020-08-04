@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers use a Two handshape on the dominant hand.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thong",
-  "oldentry": "Popular explanation: the straps of a thong on a foot.",
   "english": [
     "thongs",
     "flip-flops"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear thongs."
-  ],
   "cf": [
     "sandal"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Sandals, usually made of rubber, which are held on your foot by a V-shaped strap that goes between your big toe and the toe next to it. English = thongs. British English = flip-flops."
   ],
   "signNumber": 1189,
   "recordNumber": 695,
@@ -42,5 +30,17 @@
   "primaryLocation": 16,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear thongs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Sandals, usually made of rubber, which are held on your foot by a V-shaped strap that goes between your big toe and the toe next to it. English = thongs. British English = flip-flops."
+  ],
+  "idGloss": "thong",
+  "oldEntry": "Popular explanation: the straps of a thong on a foot."
 }

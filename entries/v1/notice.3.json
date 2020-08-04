@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "notice.3",
-  "oldentry": "",
   "english": [
     "notice",
     "observe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look at something because you have just become aware of it. English = notice.",
-    "2. To become aware of something by having seen it or looked at it. English = notice, observe."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1548,
   "recordNumber": 921,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [
     "look.right.through"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look at something because you have just become aware of it. English = notice.",
+    "2. To become aware of something by having seen it or looked at it. English = notice, observe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "notice.3",
+  "oldEntry": ""
 }

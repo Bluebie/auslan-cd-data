@@ -15,10 +15,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vision",
-  "oldentry": "",
   "english": [
     "eyesight",
     "sight",
@@ -26,15 +22,7 @@
     "visual"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of or relating to the eyes or to the sense of sight. English = (be) visual."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to see clearly. English = eyesight, sight, vision."
-  ],
   "signNumber": 1632.1,
   "recordNumber": 969,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "sight.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of or relating to the eyes or to the sense of sight. English = (be) visual."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to see clearly. English = eyesight, sight, vision."
+  ],
+  "idGloss": "vision",
+  "oldEntry": ""
 }

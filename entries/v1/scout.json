@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "scout",
-  "oldentry": "Popular explanation: forming the scout salute.",
   "english": [
     "scout"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a scout salute."
-  ],
   "cf": [
     "salute",
     "girl guide"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A boy who is a member of the Scout Association. They go camping, learn how to look after themselves, and do things to help other people. English = scout.",
-    "2. The salute used by scouts."
   ],
   "signNumber": 2292,
   "recordNumber": 1292,
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "peaked.hat"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a scout salute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A boy who is a member of the Scout Association. They go camping, learn how to look after themselves, and do things to help other people. English = scout.",
+    "2. The salute used by scouts."
+  ],
+  "idGloss": "scout",
+  "oldEntry": "Popular explanation: forming the scout salute."
 }

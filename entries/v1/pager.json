@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pager",
-  "oldentry": "",
   "english": [
     "pager",
     "page",
     "paged"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send or receive a signal on a pager. English = page, (be) paged."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small portable device which receives, but does not transmit, audible signals, used as a means of contacting or conveying instructions to the person carrying it. English = pager."
-  ],
   "signNumber": 1994,
   "recordNumber": 1173,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "primaryLocation": 17,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send or receive a signal on a pager. English = page, (be) paged."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small portable device which receives, but does not transmit, audible signals, used as a means of contacting or conveying instructions to the person carrying it. English = pager."
+  ],
+  "idGloss": "pager",
+  "oldEntry": ""
 }

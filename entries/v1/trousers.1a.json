@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trousers.1a",
-  "oldentry": "",
   "english": [
     "trousers",
     "pants",
@@ -30,17 +26,7 @@
     "jeans"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be wearing or to put on a pair of trousers, pants, slacks or jeans."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing that covers your body from the waist downwards, and covers each leg separately. English = trousers, pants.",
-    "2. Casual trousers. English = slacks.",
-    "3. Casual trousers made of denim. English = jeans."
-  ],
   "signNumber": 2807,
   "recordNumber": 1574,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "fly.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be wearing or to put on a pair of trousers, pants, slacks or jeans."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing that covers your body from the waist downwards, and covers each leg separately. English = trousers, pants.",
+    "2. Casual trousers. English = slacks.",
+    "3. Casual trousers made of denim. English = jeans."
+  ],
+  "idGloss": "trousers.1a",
+  "oldEntry": ""
 }

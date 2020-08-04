@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shave.1a",
-  "oldentry": "Popular explanation: dragging a blade across the face.",
   "english": [
     "shave"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man, to cut the hair from his face using a razor. English = shave, have a shave."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of cutting hair from your face using a razor. English = shave."
-  ],
   "signNumber": 1382,
   "recordNumber": 820,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "electric.shaver.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man, to cut the hair from his face using a razor. English = shave, have a shave."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of cutting hair from your face using a razor. English = shave."
+  ],
+  "idGloss": "shave.1a",
+  "oldEntry": "Popular explanation: dragging a blade across the face."
 }

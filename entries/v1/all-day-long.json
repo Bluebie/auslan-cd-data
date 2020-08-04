@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "all-day-long",
-  "oldentry": "",
   "english": [
     "day"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sign phrase, or immediately next to a verb sign, to mean that the action took place all through the period of a day. English = all day long."
-  ],
-  "nomlex": [],
   "signNumber": 3167,
   "recordNumber": 1835,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sign phrase, or immediately next to a verb sign, to mean that the action took place all through the period of a day. English = all day long."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "all-day-long",
+  "oldEntry": ""
 }

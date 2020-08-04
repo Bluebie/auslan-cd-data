@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "interest.1",
-  "oldentry": "",
   "english": [
     "keenness",
     "eagerness",
@@ -40,20 +36,9 @@
     "glad to"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want to do something very much. English = (be) keen, (be) eager.",
-    "2. To be enthusiastic and interested in what you are doing or will do. English = (be) keen, (be) eager.",
-    "3. To have interest in something. English = (be) interested in.",
-    "4. To have no objection to doing something you have been asked to do. Idiomatic English = (be) glad to do something, (be) happy to do something."
-  ],
   "cf": [
     "impress.1a",
     "glad.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong desire and interest in doing something. English = keenness, eagerness, enthusiasm."
   ],
   "signNumber": 2993,
   "recordNumber": 1704,
@@ -67,5 +52,20 @@
     "interest.2",
     "eager",
     "crazy.about"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want to do something very much. English = (be) keen, (be) eager.",
+    "2. To be enthusiastic and interested in what you are doing or will do. English = (be) keen, (be) eager.",
+    "3. To have interest in something. English = (be) interested in.",
+    "4. To have no objection to doing something you have been asked to do. Idiomatic English = (be) glad to do something, (be) happy to do something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong desire and interest in doing something. English = keenness, eagerness, enthusiasm."
+  ],
+  "idGloss": "interest.1",
+  "oldEntry": ""
 }

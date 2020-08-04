@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suicide",
-  "oldentry": "Popular explanation: cutting wrists.",
   "english": [
     "suicide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately kill yourself because you do not want to continue living. English = commit suicide."
-  ],
   "cf": [
     "kill"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of deliberately killing yourself because you do not want to continue living. English = suicide."
   ],
   "signNumber": 1052,
   "recordNumber": 618,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately kill yourself because you do not want to continue living. English = commit suicide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of deliberately killing yourself because you do not want to continue living. English = suicide."
+  ],
+  "idGloss": "suicide",
+  "oldEntry": "Popular explanation: cutting wrists."
 }

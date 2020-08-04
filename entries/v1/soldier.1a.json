@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "soldier.1a",
-  "oldentry": "Popular explanation: presenting arms.",
   "english": [
     "soldier",
     "army",
     "military"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to the armed forces of a country. English = (be) military."
-  ],
   "cf": [
     "sailor",
     "aeroplane"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who fights in an army. English = soldier.",
-    "2. A large organised group of people who are armed and trained to fight on land in a war. English = army.",
-    "3. The armed forces of a country. English = military."
   ],
   "signNumber": 5842,
   "recordNumber": 3475,
@@ -50,5 +36,19 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to the armed forces of a country. English = (be) military."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who fights in an army. English = soldier.",
+    "2. A large organised group of people who are armed and trained to fight on land in a war. English = army.",
+    "3. The armed forces of a country. English = military."
+  ],
+  "idGloss": "soldier.1a",
+  "oldEntry": "Popular explanation: presenting arms."
 }

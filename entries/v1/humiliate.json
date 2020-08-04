@@ -19,28 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "humiliate",
-  "oldentry": "Popular explanation: retracting and hiding in shame.",
   "english": [
     "humiliation",
     "humiliated",
     "mortified"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be made to feel extreme embarrassment and to feel ashamed, helpless, or stupid. English = (be) humiliated, (be) mortified. Idiomatic English = die of embarrassment.",
-    "2. In an argument or conflict, to retreat and admit that you have made a mistake with some loss of face; to be proven wrong; to concede a point."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to concede that you have done or said something foolish or incorrect."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The extreme embarrassment that you feel when you are made to appear helpless or stupid. English = humiliation."
-  ],
   "signNumber": 6053,
   "recordNumber": 3602,
   "signVisualComposition": "",
@@ -53,5 +38,20 @@
     "blush.2a",
     "ashamed.1a",
     "shame"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to concede that you have done or said something foolish or incorrect."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be made to feel extreme embarrassment and to feel ashamed, helpless, or stupid. English = (be) humiliated, (be) mortified. Idiomatic English = die of embarrassment.",
+    "2. In an argument or conflict, to retreat and admit that you have made a mistake with some loss of face; to be proven wrong; to concede a point."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The extreme embarrassment that you feel when you are made to appear helpless or stupid. English = humiliation."
+  ],
+  "idGloss": "humiliate",
+  "oldEntry": "Popular explanation: retracting and hiding in shame."
 }

@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "good.1a",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "goodness",
     "virtue",
@@ -40,22 +36,7 @@
     "well"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be desirable, acceptable, or right or behave in such a way. English = (be) good, (be) virtuous.",
-    "2. To say something is desirable, acceptable or right. English = to approve of.",
-    "3. To love something or someone a lot. English = to adore."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone on meeting someone (usually with a questioning look) to acknowledge them and as the standard form of greeting. English = 'How are you?', 'How are you going?'",
-    "2. Used alone as the standard response to a greeting. English = 'Fine, thanks', 'Good, thank you'."
-  ],
-  "partlex": [
-    "1. Used before or after a verb (action) sign to mean that the action is done correctly, properly or skilfully, or according to certain moral principles. English = well."
-  ],
-  "nomlex": [
-    "1. The quality of being desirable, acceptable or right, or behaviour which is gentle and kind. English = goodness, virtue."
-  ],
   "signNumber": 4776,
   "recordNumber": 2887,
   "signVisualComposition": "",
@@ -66,5 +47,24 @@
   "antonyms": [
     "bad"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone on meeting someone (usually with a questioning look) to acknowledge them and as the standard form of greeting. English = 'How are you?', 'How are you going?'",
+    "2. Used alone as the standard response to a greeting. English = 'Fine, thanks', 'Good, thank you'."
+  ],
+  "particleLexeme": [
+    "1. Used before or after a verb (action) sign to mean that the action is done correctly, properly or skilfully, or according to certain moral principles. English = well."
+  ],
+  "verbLexeme": [
+    "1. To be desirable, acceptable, or right or behave in such a way. English = (be) good, (be) virtuous.",
+    "2. To say something is desirable, acceptable or right. English = to approve of.",
+    "3. To love something or someone a lot. English = to adore."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being desirable, acceptable or right, or behaviour which is gentle and kind. English = goodness, virtue."
+  ],
+  "idGloss": "good.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

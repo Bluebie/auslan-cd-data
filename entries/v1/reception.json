@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reception",
-  "oldentry": "Popular explanation: inserting and removing lines in an old fashioned telephone switchboard.",
   "english": [
     "switchboard",
     "switch",
@@ -30,15 +26,7 @@
     "receptionist"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place in a large office or business where all the telephone calls are connected. English = switchboard, switch.",
-    "2. The place in an office, business, hotel, doctor's surgery, etc., where people go when they first arrive and where all the telephone calls are often also connected or dealt with. English = reception.",
-    "3. In a hotel, office, or doctor's surgery, the person whose job is to deal with guests or clients when they first arrive, answer the telephone, and arrange reservations or appointments. English = receptionist."
-  ],
   "signNumber": 6176,
   "recordNumber": 3687,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place in a large office or business where all the telephone calls are connected. English = switchboard, switch.",
+    "2. The place in an office, business, hotel, doctor's surgery, etc., where people go when they first arrive and where all the telephone calls are often also connected or dealt with. English = reception.",
+    "3. In a hotel, office, or doctor's surgery, the person whose job is to deal with guests or clients when they first arrive, answer the telephone, and arrange reservations or appointments. English = receptionist."
+  ],
+  "idGloss": "reception",
+  "oldEntry": "Popular explanation: inserting and removing lines in an old fashioned telephone switchboard."
 }

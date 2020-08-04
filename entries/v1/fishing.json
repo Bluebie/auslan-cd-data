@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fishing",
-  "oldentry": "Popular explanation: jerking up on a fishing line.",
   "english": [
     "fishing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To try to catch fish, either as a sport or for food."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sport or hobby of catching fish. English = fishing."
-  ],
   "signNumber": 6165,
   "recordNumber": 3679,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To try to catch fish, either as a sport or for food."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sport or hobby of catching fish. English = fishing."
+  ],
+  "idGloss": "fishing",
+  "oldEntry": "Popular explanation: jerking up on a fishing line."
 }

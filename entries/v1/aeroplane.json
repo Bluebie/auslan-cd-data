@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "aeroplane",
-  "oldentry": "",
   "english": [
     "airplane",
     "aeroplane",
@@ -39,19 +35,9 @@
     "air force"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel or go by plane. English = fly."
-  ],
   "cf": [
     "sailor",
     "soldier.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A vehicle with wings and one or more engines that enable it to fly through the air. English = airplane, aeroplane, plane, aircraft, jet.",
-    "2. A journey made by flying in an aeroplane. English = flight.",
-    "3. The part of a country's military organisation that is concerned with fighting in the air. English = air force."
   ],
   "signNumber": 6571,
   "recordNumber": 3917,
@@ -61,5 +47,19 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel or go by plane. English = fly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A vehicle with wings and one or more engines that enable it to fly through the air. English = airplane, aeroplane, plane, aircraft, jet.",
+    "2. A journey made by flying in an aeroplane. English = flight.",
+    "3. The part of a country's military organisation that is concerned with fighting in the air. English = air force."
+  ],
+  "idGloss": "aeroplane",
+  "oldEntry": ""
 }

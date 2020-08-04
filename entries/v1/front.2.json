@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "front.2",
-  "oldentry": "",
   "english": [
     "front"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The side or surface of your body that you can see and is on the same side as your chest. English = front."
-  ],
   "signNumber": 3187,
   "recordNumber": 1852,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "synonyms": [
     "front.1",
     "front.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The side or surface of your body that you can see and is on the same side as your chest. English = front."
+  ],
+  "idGloss": "front.2",
+  "oldEntry": ""
 }

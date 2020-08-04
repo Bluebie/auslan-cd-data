@@ -17,25 +17,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beach",
-  "oldentry": "",
   "english": [
     "beach",
     "picnic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go the area of sand or pebbles beside the sea for an outing in order to swim, relax or eat a meal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The area of sand or pebbles beside the sea. English = beach.",
-    "2. A meal eaten out of doors, usually in a field, wood, park or at the beach. English = picnic."
-  ],
   "signNumber": 4728,
   "recordNumber": 2857,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
     "picnic.1a",
     "picnic.2",
     "surf"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go the area of sand or pebbles beside the sea for an outing in order to swim, relax or eat a meal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The area of sand or pebbles beside the sea. English = beach.",
+    "2. A meal eaten out of doors, usually in a field, wood, park or at the beach. English = picnic."
+  ],
+  "idGloss": "beach",
+  "oldEntry": ""
 }

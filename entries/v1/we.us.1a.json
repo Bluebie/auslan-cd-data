@@ -13,10 +13,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "we.us.1a",
-  "oldentry": "",
   "english": [
     "we",
     "us"
@@ -25,13 +21,9 @@
     "Used to refer to the signer and one or more other people as a group. Immediately next to a verb it means the signer and the others do the action or that the action happens to the signer and the others (i.e., some other referent does the action)",
     "depending on the type of verb or on the number of other referents in the sentence. English = we, us."
   ],
-  "verblex": [],
   "cf": [
     "me/I.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 875,
   "recordNumber": 499,
   "signVisualComposition": "",
@@ -42,5 +34,13 @@
   "antonyms": [
     "they.them"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "we.us.1a",
+  "oldEntry": ""
 }

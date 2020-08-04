@@ -10,25 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drop.2",
-  "oldentry": "",
   "english": [
     "drop",
     "drip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a single drop of liquid, to fall. English = drip."
-  ],
   "cf": [
     "drip"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very small amount of liquid shaped like a little ball. English = drop."
   ],
   "signNumber": 1436,
   "recordNumber": 856,
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a single drop of liquid, to fall. English = drip."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very small amount of liquid shaped like a little ball. English = drop."
+  ],
+  "idGloss": "drop.2",
+  "oldEntry": ""
 }

@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pay",
-  "oldentry": "",
   "english": [
     "payment",
     "funds",
@@ -38,21 +34,9 @@
     "fund"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give an amount of money to someone because you are buying something or because you owe it to them. English = pay.",
-    "2. Of an organisation or government, to give an amount of money to an individual or organisation so that they can do something. English = fund.",
-    "3. Of a person or organisation, to pay some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
-  ],
   "cf": [
     "rent",
     "mortgage"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of paying money to someone. English = payment.",
-    "2. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding.",
-    "3. A person or organisation who pays some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
   ],
   "signNumber": 6247,
   "recordNumber": 3732,
@@ -64,5 +48,21 @@
   "antonyms": [
     "income.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give an amount of money to someone because you are buying something or because you owe it to them. English = pay.",
+    "2. Of an organisation or government, to give an amount of money to an individual or organisation so that they can do something. English = fund.",
+    "3. Of a person or organisation, to pay some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of paying money to someone. English = payment.",
+    "2. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding.",
+    "3. A person or organisation who pays some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
+  ],
+  "idGloss": "pay",
+  "oldEntry": ""
 }

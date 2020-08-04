@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "relief.1a",
-  "oldentry": "",
   "english": [
     "relief",
     "calm",
@@ -29,18 +25,8 @@
     "relieved"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel glad because something unpleasant has not happened or is no longer happening. English = (be) relieved.",
-    "2. To feel quiet and peaceful and not show or experience any worry or excitement. English = (be) calm."
-  ],
   "cf": [
     "depressed.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The glad feeling you have because something unpleasant has not happened or is no longer happening. English = relief, calm.",
-    "2. The state of quietness and peacefulness when you do not show or experience any worry or excitement. English = calm, calmness."
   ],
   "signNumber": 3439,
   "recordNumber": 2007,
@@ -55,5 +41,19 @@
   ],
   "synonyms": [
     "relieved"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel glad because something unpleasant has not happened or is no longer happening. English = (be) relieved.",
+    "2. To feel quiet and peaceful and not show or experience any worry or excitement. English = (be) calm."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The glad feeling you have because something unpleasant has not happened or is no longer happening. English = relief, calm.",
+    "2. The state of quietness and peacefulness when you do not show or experience any worry or excitement. English = calm, calmness."
+  ],
+  "idGloss": "relief.1a",
+  "oldEntry": ""
 }

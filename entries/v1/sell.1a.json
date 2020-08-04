@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sell.1a",
-  "oldentry": "",
   "english": [
     "sale",
     "sell"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To let someone have something in return for money. English = sell."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The letting of someone have something in return for money. English = sale."
-  ],
   "signNumber": 6012,
   "recordNumber": 3580,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "rid"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To let someone have something in return for money. English = sell."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The letting of someone have something in return for money. English = sale."
+  ],
+  "idGloss": "sell.1a",
+  "oldEntry": ""
 }

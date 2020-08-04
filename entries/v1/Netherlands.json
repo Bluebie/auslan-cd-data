@@ -14,25 +14,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Netherlands",
-  "oldentry": "Popular explanation: the outline of a traditional Dutch hat.",
   "english": [
     "Netherlands",
     "Holland",
     "Dutch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. A person or thing from or relating to the Netherlands. English = Dutch."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in north western Europe, east of Germany and north of Belgium, called the Netherlands, or Holland."
-  ],
   "signNumber": 3555,
   "recordNumber": 2083,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. A person or thing from or relating to the Netherlands. English = Dutch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in north western Europe, east of Germany and north of Belgium, called the Netherlands, or Holland."
+  ],
+  "idGloss": "Netherlands",
+  "oldEntry": "Popular explanation: the outline of a traditional Dutch hat."
 }

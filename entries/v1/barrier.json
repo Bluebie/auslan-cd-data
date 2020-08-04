@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Some kind of vertical surface or line of things in front of and to the sides of you or the person, place or thing you represent, such as a barrier or fence, or any thing or any action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "barrier",
-  "oldentry": "",
   "english": [
     "barrier"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To resolve that you will no longer consider or talk about someone else's concerns or affairs because you consider it to be none of your business."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that something is none of one's business or concern and you have no intention of getting involved. English = 'I'm keeping right out of that. It's got nothing to do with me.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3936,
   "recordNumber": 2347,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "not.my.responsibility"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that something is none of one's business or concern and you have no intention of getting involved. English = 'I'm keeping right out of that. It's got nothing to do with me.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To resolve that you will no longer consider or talk about someone else's concerns or affairs because you consider it to be none of your business."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Some kind of vertical surface or line of things in front of and to the sides of you or the person, place or thing you represent, such as a barrier or fence, or any thing or any action directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "barrier",
+  "oldEntry": ""
 }

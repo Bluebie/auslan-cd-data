@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "head-scarf",
-  "oldentry": "Popular explanation: tying up a scarf.",
   "english": [
     "scarf",
     "head scarf"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or wear a head scarf."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of cloth that you wear round your head, usually to keep yourself warm. Usually worn by women. English = scarf, head scarf."
-  ],
   "signNumber": 6151,
   "recordNumber": 3667,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "scarf"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or wear a head scarf."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of cloth that you wear round your head, usually to keep yourself warm. Usually worn by women. English = scarf, head scarf."
+  ],
+  "idGloss": "head-scarf",
+  "oldEntry": "Popular explanation: tying up a scarf."
 }

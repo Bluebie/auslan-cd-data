@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "progress",
-  "oldentry": "Popular explanation: a level moving upwards.",
   "english": [
     "progress",
     "promotion",
@@ -33,18 +29,7 @@
     "promoted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gradually get better or nearer to achieving something or completing something; to improve circumstances. English = progress.",
-    "2. To give someone a more important job in an organisation. English = promote.",
-    "3. To progress to a more important job in an organisation. English = (be) promoted, work your way up, get on, get ahead."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process of gradually getting better or nearer to achieving something or completing something; an improvement in circumstances. English = progress.",
-    "2. The movement from a less important to a more important job in an organisation. English = promotion."
-  ],
   "signNumber": 3980,
   "recordNumber": 2380,
   "signVisualComposition": "",
@@ -60,5 +45,20 @@
     "improve.1a",
     "promote.1",
     "forward.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gradually get better or nearer to achieving something or completing something; to improve circumstances. English = progress.",
+    "2. To give someone a more important job in an organisation. English = promote.",
+    "3. To progress to a more important job in an organisation. English = (be) promoted, work your way up, get on, get ahead."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process of gradually getting better or nearer to achieving something or completing something; an improvement in circumstances. English = progress.",
+    "2. The movement from a less important to a more important job in an organisation. English = promotion."
+  ],
+  "idGloss": "progress",
+  "oldEntry": "Popular explanation: a level moving upwards."
 }

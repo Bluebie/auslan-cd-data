@@ -15,24 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "slim",
-  "oldentry": "",
   "english": [
     "slim"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an attractively thin and well-shaped body, especially narrow waists. English = (be) slim.",
-    "2. To have a narrow waist, to be narrow waisted."
-  ],
   "cf": [
     "figure.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3783,
   "recordNumber": 2240,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "synonyms": [
     "thin.1",
     "diet"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an attractively thin and well-shaped body, especially narrow waists. English = (be) slim.",
+    "2. To have a narrow waist, to be narrow waisted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "slim",
+  "oldEntry": ""
 }

@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "history.1",
-  "oldentry": "",
   "english": [
     "history",
     "ancestors"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move from the present into the past, to look into the past, to recall long past events."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The events and people of the past. English = history.",
-    "2. The people who are your parents, grandparents, great grandparents, and so on, long into the past. English = ancestors."
-  ],
   "signNumber": 4138,
   "recordNumber": 2493,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "long.ago.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move from the present into the past, to look into the past, to recall long past events."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The events and people of the past. English = history.",
+    "2. The people who are your parents, grandparents, great grandparents, and so on, long into the past. English = ancestors."
+  ],
+  "idGloss": "history.1",
+  "oldEntry": ""
 }

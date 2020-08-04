@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "Often made with puffed cheeks followed by a blowing action.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "incensed",
-  "oldentry": "Popular explanation: an explosion of emotion.",
   "english": [
     "fury",
     "rage",
@@ -34,16 +30,7 @@
     "enraged"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To suddenly become extremely angry. Idiomatic English = blow one's top, blow up, hit the roof, fly off the handle.",
-    "2. To be extremely angry. English = furious. Formal English = incensed, enraged."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The very strong emotion that you feel when you think that someone has behaved in an unfair, cruel, or insulting way; extreme anger. English = fury, rage."
-  ],
   "signNumber": 121,
   "recordNumber": 64,
   "signVisualComposition": "",
@@ -59,5 +46,18 @@
   "synonyms": [
     "temper.1a",
     "angry.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To suddenly become extremely angry. Idiomatic English = blow one's top, blow up, hit the roof, fly off the handle.",
+    "2. To be extremely angry. English = furious. Formal English = incensed, enraged."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The very strong emotion that you feel when you think that someone has behaved in an unfair, cruel, or insulting way; extreme anger. English = fury, rage."
+  ],
+  "idGloss": "incensed",
+  "oldEntry": "Popular explanation: an explosion of emotion."
 }

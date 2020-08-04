@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "timetable",
-  "oldentry": "",
   "english": [
     "timetable",
     "schedule"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A plan of the times when particular activities or jobs should be done. English = timetable.",
-    "2. A list of the times when particular trains, boats, buses, or aeroplanes arrive and depart. English = timetable, schedule."
-  ],
   "signNumber": 2420,
   "recordNumber": 1339,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A plan of the times when particular activities or jobs should be done. English = timetable.",
+    "2. A list of the times when particular trains, boats, buses, or aeroplanes arrive and depart. English = timetable, schedule."
+  ],
+  "idGloss": "timetable",
+  "oldEntry": ""
 }

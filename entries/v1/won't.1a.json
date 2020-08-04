@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "won't.1a",
-  "oldentry": "",
   "english": [
     "won't",
     "wouldn't"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb or verb phrase to mean that the person responsible for the action does not intend to do it after the time of speaking, sometime in the future. It expresses lack of intent, determination not to or unwillingness.",
-    "English = won't (when time of speaking is now and action is in the future), wouldn't (when time of speaking was in the past and the action was, or still is, in the future)."
-  ],
-  "nomlex": [],
   "signNumber": 5601,
   "recordNumber": 3316,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [
     "will.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb or verb phrase to mean that the person responsible for the action does not intend to do it after the time of speaking, sometime in the future. It expresses lack of intent, determination not to or unwillingness.",
+    "English = won't (when time of speaking is now and action is in the future), wouldn't (when time of speaking was in the past and the action was, or still is, in the future)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "won't.1a",
+  "oldEntry": ""
 }

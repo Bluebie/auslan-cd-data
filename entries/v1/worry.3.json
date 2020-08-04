@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "THINK + SUFFER",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "worry.3",
-  "oldentry": "",
   "english": [
     "worry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep thinking about a problem or something unpleasant that might happen. English = worry."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 513,
   "recordNumber": 285,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "worry.1a",
     "worry.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep thinking about a problem or something unpleasant that might happen. English = worry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "worry.3",
+  "oldEntry": ""
 }

@@ -13,26 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of flicking something off a part of your body, such as an insect or leaf, or any thing or any action directly or indirectly associated with this, especially a pest.",
-  "questlex": [],
-  "idgloss": "pest",
-  "oldentry": "Popular explanation: flicking an insect off one's arm.",
   "english": [
     "insect",
     "bug",
     "pest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get rid of a pest."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small animal that has six legs and usually wings. Examples include, ants, flies, butterflies and beetles. English = insect, bug.",
-    "2. An insect, bug or small animal that bites or otherwise irritates you. English = pest."
-  ],
   "signNumber": 6307,
   "recordNumber": 3767,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get rid of a pest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of flicking something off a part of your body, such as an insect or leaf, or any thing or any action directly or indirectly associated with this, especially a pest.",
+  "nominalLexeme": [
+    "1. A small animal that has six legs and usually wings. Examples include, ants, flies, butterflies and beetles. English = insect, bug.",
+    "2. An insect, bug or small animal that bites or otherwise irritates you. English = pest."
+  ],
+  "idGloss": "pest",
+  "oldEntry": "Popular explanation: flicking an insect off one's arm."
 }

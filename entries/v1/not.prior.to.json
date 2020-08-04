@@ -12,20 +12,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.prior.to",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action did not occur at some time in the past (or at a time which has already been mentioned) and did not happen up to the present (or another nominated time).",
-    "English = nothing up to now/then, nothing before now/then, and so on."
-  ],
-  "nomlex": [],
   "signNumber": 429,
   "recordNumber": 238,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   ],
   "synonyms": [
     "not.before.that"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action did not occur at some time in the past (or at a time which has already been mentioned) and did not happen up to the present (or another nominated time).",
+    "English = nothing up to now/then, nothing before now/then, and so on."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.prior.to",
+  "oldEntry": ""
 }

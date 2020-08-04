@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "To hold something edible up to the mouth and chew on it, or any thing or any action directly or indirectly associated with this, such as a chocolate bar or a stick of celery, and especially a carrot.",
-  "questlex": [],
-  "idgloss": "carrot.2",
-  "oldentry": "Popular explanation: the action of chewing on a carrot.",
   "english": [
     "carrot"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, thin, orange-coloured vegetable that grows under the ground. English = carrot."
-  ],
   "signNumber": 5610,
   "recordNumber": 3322,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "carrot.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "To hold something edible up to the mouth and chew on it, or any thing or any action directly or indirectly associated with this, such as a chocolate bar or a stick of celery, and especially a carrot.",
+  "nominalLexeme": [
+    "1. A long, thin, orange-coloured vegetable that grows under the ground. English = carrot."
+  ],
+  "idGloss": "carrot.2",
+  "oldEntry": "Popular explanation: the action of chewing on a carrot."
 }

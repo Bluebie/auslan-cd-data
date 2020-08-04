@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overtake.1a",
-  "oldentry": "",
   "english": [
     "overtaking",
     "overtake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pass someone in a vehicle because you are driving faster then they are. English = overtake."
-  ],
   "cf": [
     "car-park"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of passing someone in a vehicle because you are driving faster then they are. English = overtaking."
   ],
   "signNumber": 4117,
   "recordNumber": 2476,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "speed.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pass someone in a vehicle because you are driving faster then they are. English = overtake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of passing someone in a vehicle because you are driving faster then they are. English = overtaking."
+  ],
+  "idGloss": "overtake.1a",
+  "oldEntry": ""
 }

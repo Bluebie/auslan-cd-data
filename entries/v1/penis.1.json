@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "A polite or euphemistic sign.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "penis.1",
-  "oldentry": "",
   "english": [
     "penis"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cock.1a",
     "penis.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of a man's body that he uses when urinating and when having sex. English = penis."
   ],
   "signNumber": 6494,
   "recordNumber": 3866,
@@ -37,5 +27,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of a man's body that he uses when urinating and when having sex. English = penis."
+  ],
+  "idGloss": "penis.1",
+  "oldEntry": ""
 }

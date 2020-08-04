@@ -21,27 +21,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "promote.1",
-  "oldentry": "",
   "english": [
     "promotion",
     "promote",
     "promoted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give someone a more important job in an organisation. English = promote.",
-    "2. To progress to a more important job in an organisation. English = (be) promoted, work your way up, get on, get ahead."
-  ],
   "cf": [
     "upward"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The movement from a less important to a more important job in an organisation. English = promotion."
   ],
   "signNumber": 3656,
   "recordNumber": 2154,
@@ -58,5 +45,18 @@
     "progress",
     "tall.1a",
     "improve.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give someone a more important job in an organisation. English = promote.",
+    "2. To progress to a more important job in an organisation. English = (be) promoted, work your way up, get on, get ahead."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The movement from a less important to a more important job in an organisation. English = promotion."
+  ],
+  "idGloss": "promote.1",
+  "oldEntry": ""
 }

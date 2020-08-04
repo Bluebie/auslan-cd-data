@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "form.1",
-  "oldentry": "Popular explanation: the outline of a form.",
   "english": [
     "form",
     "brochure",
@@ -26,14 +22,7 @@
     "flier"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of paper with questions on it. You write the answers on the same piece of paper. English = form.",
-    "2. A sheet of paper, sometimes with pictures, that gives you information about a product or service. English = brochure, flyer, flier."
-  ],
   "signNumber": 890,
   "recordNumber": 510,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of paper with questions on it. You write the answers on the same piece of paper. English = form.",
+    "2. A sheet of paper, sometimes with pictures, that gives you information about a product or service. English = brochure, flyer, flier."
+  ],
+  "idGloss": "form.1",
+  "oldEntry": "Popular explanation: the outline of a form."
 }

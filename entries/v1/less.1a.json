@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "less.1a",
-  "oldentry": "",
   "english": [
     "small",
     "less",
@@ -32,15 +28,7 @@
     "reduce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something which is not large in physical size; or not as large in volume or amount; or not as wide. English = (be) small; (be) less; (be) narrow.",
-    "2. To make something become not as big in size; or in width; or in volume; or in intensity. English = make small; narrow; lessen; reduce.",
-    "3. To be not as much in amount or degree as before or as something else. English = (be) less."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3781,
   "recordNumber": 2239,
   "signVisualComposition": "",
@@ -54,5 +42,17 @@
   "synonyms": [
     "low.1",
     "short.of"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something which is not large in physical size; or not as large in volume or amount; or not as wide. English = (be) small; (be) less; (be) narrow.",
+    "2. To make something become not as big in size; or in width; or in volume; or in intensity. English = make small; narrow; lessen; reduce.",
+    "3. To be not as much in amount or degree as before or as something else. English = (be) less."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "less.1a",
+  "oldEntry": ""
 }

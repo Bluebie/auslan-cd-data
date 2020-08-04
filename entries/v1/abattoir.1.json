@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "abattoir.1",
-  "oldentry": "Popular explanation: slitting the throat of an animal with a cutthroat razor.",
   "english": [
     "abattoir",
     "slaughter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To kill animals and then cut them up for their meat. English = slaughter."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where animals are killed for their meat. English = abattoir."
-  ],
   "signNumber": 6585,
   "recordNumber": 3926,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "abattoir.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To kill animals and then cut them up for their meat. English = slaughter."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where animals are killed for their meat. English = abattoir."
+  ],
+  "idGloss": "abattoir.1",
+  "oldEntry": "Popular explanation: slitting the throat of an animal with a cutthroat razor."
 }

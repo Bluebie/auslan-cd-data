@@ -19,10 +19,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sculpture.2",
-  "oldentry": "",
   "english": [
     "sculpture",
     "sculptor",
@@ -30,19 +26,10 @@
     "carve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make works of art by carving and shaping stone, wood, or clay. English = sculpt, carve."
-  ],
   "cf": [
     "art",
     "paint.picture.1a",
     "diagram.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A work of art that is made by carving and shaping stone, wood, or clay. English = sculpture.",
-    "2. An artist who makes works of art from carving and shaping stone, wood, or clay. English = sculptor."
   ],
   "signNumber": 4817,
   "recordNumber": 2908,
@@ -54,5 +41,18 @@
   "antonyms": [],
   "synonyms": [
     "sculpture.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make works of art by carving and shaping stone, wood, or clay. English = sculpt, carve."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A work of art that is made by carving and shaping stone, wood, or clay. English = sculpture.",
+    "2. An artist who makes works of art from carving and shaping stone, wood, or clay. English = sculptor."
+  ],
+  "idGloss": "sculpture.2",
+  "oldEntry": ""
 }

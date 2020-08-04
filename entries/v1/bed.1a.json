@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bed.1a",
-  "oldentry": "Popular explanation: a sleeping posture.",
   "english": [
     "bed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go to bed in order to sleep."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of furniture that you lie on when you sleep. English = bed."
-  ],
   "signNumber": 3214,
   "recordNumber": 1866,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "bed.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go to bed in order to sleep."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of furniture that you lie on when you sleep. English = bed."
+  ],
+  "idGloss": "bed.1a",
+  "oldEntry": "Popular explanation: a sleeping posture."
 }

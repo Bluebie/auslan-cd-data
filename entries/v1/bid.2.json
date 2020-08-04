@@ -11,23 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bid.2",
-  "oldentry": "",
   "english": [
     "bid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To offer to pay a particular amount of money for something, especially at an auction. English = bid."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An offer to pay a particular amount of money to buy something, especially at an auction. English = bid."
-  ],
   "signNumber": 3336,
   "recordNumber": 1947,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "bid.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To offer to pay a particular amount of money for something, especially at an auction. English = bid."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An offer to pay a particular amount of money to buy something, especially at an auction. English = bid."
+  ],
+  "idGloss": "bid.2",
+  "oldEntry": ""
 }

@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "moustache.1",
-  "oldentry": "",
   "english": [
     "moustache"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a moustache, or wear a moustache."
-  ],
   "cf": [
     "shave.1a",
     "Schadenfreude"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hair grows on a man's upper lip. English = moustache."
   ],
   "signNumber": 6352,
   "recordNumber": 3794,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "moustache.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a moustache, or wear a moustache."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hair grows on a man's upper lip. English = moustache."
+  ],
+  "idGloss": "moustache.1",
+  "oldEntry": ""
 }

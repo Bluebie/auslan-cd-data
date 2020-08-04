@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "second.1",
-  "oldentry": "",
   "english": [
     "second",
     "secondly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the thing, person, event or period of time that happens or comes before all the others of the same kind, except for one. English = (be) second."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action is done before anyone else or anything else does it, except for one. English = second.",
-    "2. Used at the beginning of a sentence after you have started to mention several things (events, reasons, etc.) and have got to your number two point. English = second, secondly."
-  ],
-  "nomlex": [],
   "signNumber": 1581,
   "recordNumber": 941,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action is done before anyone else or anything else does it, except for one. English = second.",
+    "2. Used at the beginning of a sentence after you have started to mention several things (events, reasons, etc.) and have got to your number two point. English = second, secondly."
+  ],
+  "verbLexeme": [
+    "1. To be the thing, person, event or period of time that happens or comes before all the others of the same kind, except for one. English = (be) second."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "second.1",
+  "oldEntry": ""
 }

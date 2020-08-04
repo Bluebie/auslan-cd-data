@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stages",
-  "oldentry": "",
   "english": [
     "stage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a process, to occur in several distinct stages."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Parts of a process. English = stages."
-  ],
   "signNumber": 3749,
   "recordNumber": 2213,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a process, to occur in several distinct stages."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Parts of a process. English = stages."
+  ],
+  "idGloss": "stages",
+  "oldEntry": ""
 }

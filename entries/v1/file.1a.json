@@ -16,27 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "file.1a",
-  "oldentry": "",
   "english": [
     "file",
     "order",
     "sequence"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a document away in its correct file; to sort documents; to put documents away in a filing cabinet. English = file.",
-    "2. To arrange things to certain principles which puts one thing or type of thing first, another thing or type of thing second, and so on. English = order, sequence."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A box or a folded piece of card in which someone keeps documents that belong together. English = file.",
-    "2. The special arrangement of things that is made according to certain principles which puts one thing or type of thing first, another thing or type of thing second, and so on. English = order, sequence."
-  ],
   "signNumber": 4153,
   "recordNumber": 2506,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "synonyms": [
     "list.1",
     "sequence.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a document away in its correct file; to sort documents; to put documents away in a filing cabinet. English = file.",
+    "2. To arrange things to certain principles which puts one thing or type of thing first, another thing or type of thing second, and so on. English = order, sequence."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A box or a folded piece of card in which someone keeps documents that belong together. English = file.",
+    "2. The special arrangement of things that is made according to certain principles which puts one thing or type of thing first, another thing or type of thing second, and so on. English = order, sequence."
+  ],
+  "idGloss": "file.1a",
+  "oldEntry": ""
 }

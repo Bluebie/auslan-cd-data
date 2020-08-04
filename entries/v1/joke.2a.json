@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "joke.2a",
-  "oldentry": "",
   "english": [
     "joke",
     "fake",
@@ -30,20 +26,8 @@
     "artificial"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say or do something to make people laugh. English = joke.",
-    "2. Of an object, to be made to look like something valuable or real, often in order to deceive people. English = (be) artificial, (be) fake.",
-    "3. To make someone believe that you will do something when you do not really intend to do it. English = bluff."
-  ],
   "cf": [
     "not.true"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is said or done in order to make people laugh. English = joke.",
-    "2. An object which has been make to look like something valuable or real, often in order to deceive people. English = fake.",
-    "3. An attempt to make someone believe you will do something when you do not really intend to do it. English = bluff."
   ],
   "signNumber": 256,
   "recordNumber": 149,
@@ -55,5 +39,21 @@
   "antonyms": [],
   "synonyms": [
     "joke.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say or do something to make people laugh. English = joke.",
+    "2. Of an object, to be made to look like something valuable or real, often in order to deceive people. English = (be) artificial, (be) fake.",
+    "3. To make someone believe that you will do something when you do not really intend to do it. English = bluff."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is said or done in order to make people laugh. English = joke.",
+    "2. An object which has been make to look like something valuable or real, often in order to deceive people. English = fake.",
+    "3. An attempt to make someone believe you will do something when you do not really intend to do it. English = bluff."
+  ],
+  "idGloss": "joke.2a",
+  "oldEntry": ""
 }

@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Tuesday",
-  "oldentry": "",
   "english": [
     "Tuesday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the seven days of the week, after Monday and before Wednesday, called Tuesday."
-  ],
   "signNumber": 1178,
   "recordNumber": 689,
   "signVisualComposition": "T + T",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the seven days of the week, after Monday and before Wednesday, called Tuesday."
+  ],
+  "idGloss": "Tuesday",
+  "oldEntry": ""
 }

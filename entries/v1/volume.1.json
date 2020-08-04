@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "volume.1",
-  "oldentry": "",
   "english": [
     "volume",
     "turn up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To adjust the controls on something such as a radio or heater so as to increase the amount of sound or heat being produced. English = turn up."
-  ],
   "cf": [
     "channel.TV.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The control on something such as a radio or heater that controls the amount of sound or heat being produced.",
-    "2. The amount of sound that a radio, TV, record player, CD player, etc., produces. English = volume."
   ],
   "signNumber": 5170,
   "recordNumber": 3111,
@@ -51,5 +38,18 @@
   ],
   "synonyms": [
     "lift.up.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To adjust the controls on something such as a radio or heater so as to increase the amount of sound or heat being produced. English = turn up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The control on something such as a radio or heater that controls the amount of sound or heat being produced.",
+    "2. The amount of sound that a radio, TV, record player, CD player, etc., produces. English = volume."
+  ],
+  "idGloss": "volume.1",
+  "oldEntry": ""
 }

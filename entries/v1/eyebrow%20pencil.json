@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eyebrow pencil",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "draw.line.1a",
     "eyeliner",
     "make-up"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A pencil which is used to apply dark lines or colour to the eyebrows. It is used for cosmetic purposes by women. English = eyebrow pencil.",
-    "2. Eyebrows which have been coloured using an eyebrow pencil."
   ],
   "signNumber": 6337.1,
   "recordNumber": 3781,
@@ -38,5 +27,16 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A pencil which is used to apply dark lines or colour to the eyebrows. It is used for cosmetic purposes by women. English = eyebrow pencil.",
+    "2. Eyebrows which have been coloured using an eyebrow pencil."
+  ],
+  "idGloss": "eyebrow pencil",
+  "oldEntry": ""
 }

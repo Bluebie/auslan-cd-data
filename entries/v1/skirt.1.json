@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "skirt.1",
-  "oldentry": "",
   "english": [
     "skirt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a skirt."
-  ],
   "cf": [
     "dress.1a",
     "clothes.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing worn by women and girls which fastens at the waist and hangs down to above or below the knees. English = skirt."
   ],
   "signNumber": 3957,
   "recordNumber": 2361,
@@ -51,5 +39,17 @@
   "synonyms": [
     "tutu",
     "skirt.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a skirt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing worn by women and girls which fastens at the waist and hangs down to above or below the knees. English = skirt."
+  ],
+  "idGloss": "skirt.1",
+  "oldEntry": ""
 }

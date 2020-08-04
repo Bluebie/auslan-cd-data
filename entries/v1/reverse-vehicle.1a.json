@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reverse-vehicle.1a",
-  "oldentry": "",
   "english": [
     "reverse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drive a car backwards, especially after it has been parked somewhere. English = reverse."
-  ],
   "cf": [
     "parking.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4071,
   "recordNumber": 2438,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [
     "park-vehicle.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drive a car backwards, especially after it has been parked somewhere. English = reverse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "reverse-vehicle.1a",
+  "oldEntry": ""
 }

@@ -19,26 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trophy.1",
-  "oldentry": "Popular explanation: the handles on the side of a trophy.",
   "english": [
     "trophy",
     "award"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give or present a trophy or award to someone. English = award."
-  ],
   "cf": [
     "prize"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A prize, for example a silver cup or shield, that is given to the winner of a competition or race. English = trophy.",
-    "2. A prize or certificate that a person is given for doing something well. English = award."
   ],
   "signNumber": 6624,
   "recordNumber": 3942,
@@ -51,5 +38,18 @@
   "synonyms": [
     "trophy.2",
     "trophy.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give or present a trophy or award to someone. English = award."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A prize, for example a silver cup or shield, that is given to the winner of a competition or race. English = trophy.",
+    "2. A prize or certificate that a person is given for doing something well. English = award."
+  ],
+  "idGloss": "trophy.1",
+  "oldEntry": "Popular explanation: the handles on the side of a trophy."
 }

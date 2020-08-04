@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "twin.2",
-  "oldentry": "",
   "english": [
     "twin",
     "twins"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of two people who have the same mother and were born at the same time. English = twin.",
-    "2. Two people who have the same mother and were born at the same time. English = twins."
-  ],
   "signNumber": 1543,
   "recordNumber": 919,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of two people who have the same mother and were born at the same time. English = twin.",
+    "2. Two people who have the same mother and were born at the same time. English = twins."
+  ],
+  "idGloss": "twin.2",
+  "oldEntry": ""
 }

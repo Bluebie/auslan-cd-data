@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jam.2",
-  "oldentry": "Popular explanation: spooning something out of a container with a small implement.",
   "english": [
     "jam"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take jam out from a container using a spoon or other small utensil."
-  ],
   "cf": [
     "honey.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A food that is made by cooking fruit with sugar. Usually you spread it on bread or toast. English = jam."
   ],
   "signNumber": 5029,
   "recordNumber": 3036,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "jam.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take jam out from a container using a spoon or other small utensil."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A food that is made by cooking fruit with sugar. Usually you spread it on bread or toast. English = jam."
+  ],
+  "idGloss": "jam.2",
+  "oldEntry": "Popular explanation: spooning something out of a container with a small implement."
 }

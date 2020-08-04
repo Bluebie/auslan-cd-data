@@ -11,24 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tithe",
-  "oldentry": "",
   "english": [
     "tithe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a church, to charge members a fixed amount of money or goods, usually one tenth of their income, in order to support the church, its priests and charities. English = tithe.",
-    "2. Of a church member, to pay a fixed amount of money or goods, usually one tenth of their income, in order to support the church, its priests and charities; to pay a tithe."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A fixed amount of money or goods, usually one tenth of income, that people give regularly in order to support churches, priests, charities, etc. English = tithe."
-  ],
   "signNumber": 703,
   "recordNumber": 406,
   "signVisualComposition": "",
@@ -37,5 +24,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a church, to charge members a fixed amount of money or goods, usually one tenth of their income, in order to support the church, its priests and charities. English = tithe.",
+    "2. Of a church member, to pay a fixed amount of money or goods, usually one tenth of their income, in order to support the church, its priests and charities; to pay a tithe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A fixed amount of money or goods, usually one tenth of income, that people give regularly in order to support churches, priests, charities, etc. English = tithe."
+  ],
+  "idGloss": "tithe",
+  "oldEntry": ""
 }

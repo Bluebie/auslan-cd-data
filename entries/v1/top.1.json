@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "top.1",
-  "oldentry": "Popular explanation: the top of something.",
   "english": [
     "top",
     "majority",
@@ -34,20 +30,7 @@
     "major"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located at the highest point, part or surface of something; to be at the top of.",
-    "2. To be located over or on the highest point, part or surface of something. English = (be) on top.",
-    "3. To be the most important thing in a particular situation. English = (be) main.",
-    "4. To be the largest or biggest thing in a particular situation. English = (be) major."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The highest point, part or surface of something. English = top.",
-    "2. The main thing in a particular situation.",
-    "3. The largest or biggest part of a thing in a particular situation. English = majority."
-  ],
   "signNumber": 2810,
   "recordNumber": 1576,
   "signVisualComposition": "",
@@ -61,5 +44,22 @@
   "synonyms": [
     "important.1a",
     "distinguished"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located at the highest point, part or surface of something; to be at the top of.",
+    "2. To be located over or on the highest point, part or surface of something. English = (be) on top.",
+    "3. To be the most important thing in a particular situation. English = (be) main.",
+    "4. To be the largest or biggest thing in a particular situation. English = (be) major."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The highest point, part or surface of something. English = top.",
+    "2. The main thing in a particular situation.",
+    "3. The largest or biggest part of a thing in a particular situation. English = majority."
+  ],
+  "idGloss": "top.1",
+  "oldEntry": "Popular explanation: the top of something."
 }

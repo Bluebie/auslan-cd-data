@@ -11,24 +11,14 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hash",
-  "oldentry": "",
   "english": [
     "hash",
     "hashish"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "smoke.dope.2",
     "smoke.dope.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A drug made from the marijuana plant which people smoke or eat to make them feel relaxed. Informal English = hash, hashish."
   ],
   "signNumber": 6657,
   "recordNumber": 3961,
@@ -38,5 +28,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A drug made from the marijuana plant which people smoke or eat to make them feel relaxed. Informal English = hash, hashish."
+  ],
+  "idGloss": "hash",
+  "oldEntry": ""
 }

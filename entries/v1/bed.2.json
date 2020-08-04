@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bed.2",
-  "oldentry": "Popular explanation: the form of a four-poster bed.",
   "english": [
     "bed"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bedroom"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of furniture that you lie on when you sleep. English = bed."
   ],
   "signNumber": 6660,
   "recordNumber": 3963,
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "bed.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of furniture that you lie on when you sleep. English = bed."
+  ],
+  "idGloss": "bed.2",
+  "oldEntry": "Popular explanation: the form of a four-poster bed."
 }

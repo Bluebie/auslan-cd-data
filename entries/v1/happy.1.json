@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "happy.1",
-  "oldentry": "",
   "english": [
     "happiness",
     "gladness",
@@ -32,15 +28,7 @@
     "merry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have feelings of pleasure, often because something nice has happened. English = (be) happy, (be) glad, (be) merry."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Feeling of pleasure, often because something nice has happened. English = happiness, gladness."
-  ],
   "signNumber": 4280,
   "recordNumber": 2600,
   "signVisualComposition": "",
@@ -56,5 +44,17 @@
     "happy.2",
     "smile.1a",
     "pleased"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have feelings of pleasure, often because something nice has happened. English = (be) happy, (be) glad, (be) merry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Feeling of pleasure, often because something nice has happened. English = happiness, gladness."
+  ],
+  "idGloss": "happy.1",
+  "oldEntry": ""
 }

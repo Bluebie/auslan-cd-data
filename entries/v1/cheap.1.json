@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cheap.1",
-  "oldentry": "",
   "english": [
     "bargain",
     "cheap",
     "inexpensive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cost less money than usual or not much money at all. English = (be) cheap, (be) inexpensive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is sold at a low price and which you think is good value for the money. English = bargain."
-  ],
   "signNumber": 1465,
   "recordNumber": 874,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "bargain.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cost less money than usual or not much money at all. English = (be) cheap, (be) inexpensive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is sold at a low price and which you think is good value for the money. English = bargain."
+  ],
+  "idGloss": "cheap.1",
+  "oldEntry": ""
 }

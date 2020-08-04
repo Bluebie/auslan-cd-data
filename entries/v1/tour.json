@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tour",
-  "oldentry": "",
   "english": [
     "tour",
     "tourist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go on a long journey or trip around a place. English = tour."
-  ],
   "cf": [
     "trip.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long journey in which you visit several places. English = tour.",
-    "2. A person who visits places for pleasure and interest as part of a holiday. English = tourist."
   ],
   "signNumber": 1776,
   "recordNumber": 1071,
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "tour.country"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go on a long journey or trip around a place. English = tour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long journey in which you visit several places. English = tour.",
+    "2. A person who visits places for pleasure and interest as part of a holiday. English = tourist."
+  ],
+  "idGloss": "tour",
+  "oldEntry": ""
 }

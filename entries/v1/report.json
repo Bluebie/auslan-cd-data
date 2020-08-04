@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "SWEAR + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "report",
-  "oldentry": "",
   "english": [
     "report",
     "school report"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people about something that has happened, especially because it is your job or duty to do so. English = report.",
-    "2. Of someone, to tell a person in authority about something wrong that they have done. English = report."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A written, spoken, or signed account of an event or situation. English = report.",
-    "2. An official written account of how well or how badly a student has done at school during the term that has just finished. English = report, school report."
-  ],
   "signNumber": 2217,
   "recordNumber": 1264,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [],
   "synonyms": [
     "swear.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people about something that has happened, especially because it is your job or duty to do so. English = report.",
+    "2. Of someone, to tell a person in authority about something wrong that they have done. English = report."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A written, spoken, or signed account of an event or situation. English = report.",
+    "2. An official written account of how well or how badly a student has done at school during the term that has just finished. English = report, school report."
+  ],
+  "idGloss": "report",
+  "oldEntry": ""
 }

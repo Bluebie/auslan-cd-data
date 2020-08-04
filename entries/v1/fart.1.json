@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fart.1",
-  "oldentry": "Popular explanation: waving away an unpleasant smell.",
   "english": [
     "fart",
     "farting",
@@ -34,19 +30,7 @@
     "smelly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an effect on your nose, especially if the effect is unpleasant. English = smell, (be) smelly.",
-    "2. To allow air to be forced out of your body through your anus. English = fart. Polite English = break wind."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to indicate that you can smell something very unpleasant. English = 'Phew!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The effect that something has on your nose, especially if the effect is unpleasant. English = smell, odour.",
-    "2. The act of forcing air out of your body through your anus, or the resulting unpleasantly smelling expelled air. English = fart."
-  ],
   "signNumber": 3170,
   "recordNumber": 1839,
   "signVisualComposition": "",
@@ -58,5 +42,21 @@
   "synonyms": [
     "fart.2a",
     "bad.smell"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to indicate that you can smell something very unpleasant. English = 'Phew!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an effect on your nose, especially if the effect is unpleasant. English = smell, (be) smelly.",
+    "2. To allow air to be forced out of your body through your anus. English = fart. Polite English = break wind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The effect that something has on your nose, especially if the effect is unpleasant. English = smell, odour.",
+    "2. The act of forcing air out of your body through your anus, or the resulting unpleasantly smelling expelled air. English = fart."
+  ],
+  "idGloss": "fart.1",
+  "oldEntry": "Popular explanation: waving away an unpleasant smell."
 }

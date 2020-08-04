@@ -13,21 +13,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stingy.1a",
-  "oldentry": "",
   "english": [
     "stingy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to be very unwilling to spend money or to use very much of a particular thing, especially when this means sharing with other people. English = (be) stingy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2726,
   "recordNumber": 1520,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "mean"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to be very unwilling to spend money or to use very much of a particular thing, especially when this means sharing with other people. English = (be) stingy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "stingy.1a",
+  "oldEntry": ""
 }

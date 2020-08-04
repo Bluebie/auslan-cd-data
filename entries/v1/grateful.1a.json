@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grateful.1a",
-  "oldentry": "",
   "english": [
     "appreciation",
     "gratefulness",
@@ -35,15 +31,7 @@
     "appreciate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have friendly feelings towards someone and to wish to thank them because they have given you something or done something for you. English = (be) grateful, (be) appreciative, (be) thankful; appreciate, give thanks, show your appreciation."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The friendly feelings you have towards someone and the wish to thank them because they have given you something or done something for you. English = appreciation, gratefulness, thanks."
-  ],
   "signNumber": 3608,
   "recordNumber": 2124,
   "signVisualComposition": "",
@@ -54,5 +42,17 @@
   "antonyms": [],
   "synonyms": [
     "thank"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have friendly feelings towards someone and to wish to thank them because they have given you something or done something for you. English = (be) grateful, (be) appreciative, (be) thankful; appreciate, give thanks, show your appreciation."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The friendly feelings you have towards someone and the wish to thank them because they have given you something or done something for you. English = appreciation, gratefulness, thanks."
+  ],
+  "idGloss": "grateful.1a",
+  "oldEntry": ""
 }

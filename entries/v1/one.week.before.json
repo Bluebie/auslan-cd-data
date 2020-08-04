@@ -18,26 +18,12 @@
   "sense": "",
   "blend": "BEFORE.THAT = WEEK",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "one.week.before",
-  "oldentry": "",
   "english": [
     "week",
     "last week"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action took place sometime during the previous seven days from the day of speaking. English = during the past week, during the past seven days.",
-    "2. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action took place sometime during the seven days before another day already identified in the past or future. English = during the previous seven days."
-  ],
-  "nomlex": [
-    "1. The period of seven days before the time of speaking.",
-    "2. A period of seven days before another day already specified in the past or future."
-  ],
   "signNumber": 1031,
   "recordNumber": 603,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
   "synonyms": [
     "last.week.1",
     "last.week.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action took place sometime during the previous seven days from the day of speaking. English = during the past week, during the past seven days.",
+    "2. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action took place sometime during the seven days before another day already identified in the past or future. English = during the previous seven days."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of seven days before the time of speaking.",
+    "2. A period of seven days before another day already specified in the past or future."
+  ],
+  "idGloss": "one.week.before",
+  "oldEntry": ""
 }

@@ -14,27 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [
-    "1. Used to ask the number of years a person has lived. English = how old, what age."
-  ],
-  "idgloss": "how.old",
-  "oldentry": "",
   "english": [
     "age",
     "how old",
     "what age"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "number.1a",
     "how.much.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The number of years that you have lived. English = age."
   ],
   "signNumber": 2432,
   "recordNumber": 1349,
@@ -44,5 +32,17 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "1. Used to ask the number of years a person has lived. English = how old, what age."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The number of years that you have lived. English = age."
+  ],
+  "idGloss": "how.old",
+  "oldEntry": ""
 }

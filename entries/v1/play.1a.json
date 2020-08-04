@@ -21,28 +21,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "play.1a",
-  "oldentry": "",
   "english": [
     "play",
     "act"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of children, to spend time with toys, taking part in games or acting out imaginary situations and roles. English = play.",
-    "2. Of actors, to take on a role of a character in a play. English = play, act.",
-    "3. To take part in a sport. English = play."
-  ],
   "cf": [
     "break"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Time spent by children with toys or taking part in games or acting out imaginary situations and roles. English = play.",
-    "2. A piece of theatre, performed or written. English = play."
   ],
   "signNumber": 3852,
   "recordNumber": 2289,
@@ -58,5 +43,20 @@
     "theatre",
     "perform.1a",
     "act"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of children, to spend time with toys, taking part in games or acting out imaginary situations and roles. English = play.",
+    "2. Of actors, to take on a role of a character in a play. English = play, act.",
+    "3. To take part in a sport. English = play."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Time spent by children with toys or taking part in games or acting out imaginary situations and roles. English = play.",
+    "2. A piece of theatre, performed or written. English = play."
+  ],
+  "idGloss": "play.1a",
+  "oldEntry": ""
 }

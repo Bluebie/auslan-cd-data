@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "difficult.2a",
-  "oldentry": "",
   "english": [
     "difficulty",
     "difficult",
     "hard"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not easy to do, understand, or solve. English = (be) difficult, (be) hard."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that is a problem for you because it is not easy to do, understand, or solve. English = difficulty."
-  ],
   "signNumber": 5391,
   "recordNumber": 3221,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "difficult.1",
     "hard.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not easy to do, understand, or solve. English = (be) difficult, (be) hard."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that is a problem for you because it is not easy to do, understand, or solve. English = difficulty."
+  ],
+  "idGloss": "difficult.2a",
+  "oldEntry": ""
 }

@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oops",
-  "oldentry": "",
   "english": [
     "boo-boo",
     "oops"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a slight mistake, especially overlooking or forgetting something. Idiomatic English = boo-boo, make a boo-boo."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to indicate that there has been a slight accident or mistake. English = 'Oops!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 246,
   "recordNumber": 143,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to indicate that there has been a slight accident or mistake. English = 'Oops!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a slight mistake, especially overlooking or forgetting something. Idiomatic English = boo-boo, make a boo-boo."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "oops",
+  "oldEntry": ""
 }

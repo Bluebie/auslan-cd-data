@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "telebrailler",
-  "oldentry": "",
   "english": [
     "telebrailler"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a telebrailler."
-  ],
   "cf": [
     "braille",
     "TTY.1",
     "TTY.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device for sending and receiving messages in braille over the telephone. Incoming braille messages can be felt on a keyboard. English = telebrailler."
   ],
   "signNumber": 2734,
   "recordNumber": 1525,
@@ -44,5 +32,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a telebrailler."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device for sending and receiving messages in braille over the telephone. Incoming braille messages can be felt on a keyboard. English = telebrailler."
+  ],
+  "idGloss": "telebrailler",
+  "oldEntry": ""
 }

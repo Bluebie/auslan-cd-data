@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "answering-machine",
-  "oldentry": "",
   "english": [
     "answering machine"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device which you connect to your telephone so that it records telephone calls while you are out. English = answering machine."
-  ],
   "signNumber": 1153,
   "recordNumber": 678,
   "signVisualComposition": "ANSWER + TAPE-RECORDER",
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device which you connect to your telephone so that it records telephone calls while you are out. English = answering machine."
+  ],
+  "idGloss": "answering-machine",
+  "oldEntry": ""
 }

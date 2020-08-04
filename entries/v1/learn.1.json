@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "learn.1",
-  "oldentry": "",
   "english": [
     "learning",
     "learn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To find out about something, especially abstract or theoretical knowledge, by being told about it or by reading and studying about it. English = learn."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Knowledge about abstract or theoretical things that has been gained by being told it or by reading and studying. English = learning."
-  ],
   "signNumber": 3128,
   "recordNumber": 1806,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "learn.2a",
     "learn.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To find out about something, especially abstract or theoretical knowledge, by being told about it or by reading and studying about it. English = learn."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Knowledge about abstract or theoretical things that has been gained by being told it or by reading and studying. English = learning."
+  ],
+  "idGloss": "learn.1",
+  "oldEntry": ""
 }

@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "big.2a",
-  "oldentry": "",
   "english": [
     "size",
     "bigness",
@@ -48,20 +44,7 @@
     "overly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not small in size at all. English = (be) very big, (be) large.",
-    "2. To become very big or even bigger, to get even bigger.",
-    "3. (With amplification and stress), to be extremely big. English = (be) enormous, (be) huge, (be) immense."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb or an adjective to mean that there is a lot of that quality or action, probably more than is needed or wanted or is good for the situation. English = too, too much, too many, overly."
-  ],
-  "nomlex": [
-    "1. How big something is, especially when it is not small at all. English = (large) size.",
-    "2. The size of something when that thing is not small. English = bigness, largeness."
-  ],
   "signNumber": 2678,
   "recordNumber": 1488,
   "signVisualComposition": "",
@@ -77,5 +60,22 @@
   "synonyms": [
     "big.1a",
     "big.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb or an adjective to mean that there is a lot of that quality or action, probably more than is needed or wanted or is good for the situation. English = too, too much, too many, overly."
+  ],
+  "verbLexeme": [
+    "1. To be not small in size at all. English = (be) very big, (be) large.",
+    "2. To become very big or even bigger, to get even bigger.",
+    "3. (With amplification and stress), to be extremely big. English = (be) enormous, (be) huge, (be) immense."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. How big something is, especially when it is not small at all. English = (large) size.",
+    "2. The size of something when that thing is not small. English = bigness, largeness."
+  ],
+  "idGloss": "big.2a",
+  "oldEntry": ""
 }

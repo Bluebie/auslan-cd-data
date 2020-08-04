@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "attention.1",
-  "oldentry": "Popular explanation: the blinkers which direct your attention.",
   "english": [
     "attention",
     "blinkers",
@@ -34,19 +30,7 @@
     "single minded"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look at, listen to, or think about something carefully. English = attend to, pay attention to",
-    "2. To be looking at, listening to, or thinking about something carefully. English = (be) attentive.",
-    "3. To have only one thing in your mind most of the time; or to be unable to change your habits and attitudes easily or at all. English = (be) single minded, (be) set in your ways.",
-    "4. To be wearing blinkers."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of looking at, listening to, or thinking about something carefully. English = attention.",
-    "2. Two pieces of leather which are placed at the side of a horse's eyes so that it can only see straight ahead. English = blinkers."
-  ],
   "signNumber": 3561,
   "recordNumber": 2088,
   "signVisualComposition": "",
@@ -60,5 +44,21 @@
   "synonyms": [
     "concentrate.1a",
     "narrow-minded"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look at, listen to, or think about something carefully. English = attend to, pay attention to",
+    "2. To be looking at, listening to, or thinking about something carefully. English = (be) attentive.",
+    "3. To have only one thing in your mind most of the time; or to be unable to change your habits and attitudes easily or at all. English = (be) single minded, (be) set in your ways.",
+    "4. To be wearing blinkers."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of looking at, listening to, or thinking about something carefully. English = attention.",
+    "2. Two pieces of leather which are placed at the side of a horse's eyes so that it can only see straight ahead. English = blinkers."
+  ],
+  "idGloss": "attention.1",
+  "oldEntry": "Popular explanation: the blinkers which direct your attention."
 }

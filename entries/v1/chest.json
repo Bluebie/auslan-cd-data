@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chest",
-  "oldentry": "Popular explanation: indicating the chest.",
   "english": [
     "chest"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "me/I.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The top part of the front of your body, where your ribs, lungs, and heart are. English = chest."
   ],
   "signNumber": 2504,
   "recordNumber": 1390,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The top part of the front of your body, where your ribs, lungs, and heart are. English = chest."
+  ],
+  "idGloss": "chest",
+  "oldEntry": "Popular explanation: indicating the chest."
 }

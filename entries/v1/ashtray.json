@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ashtray",
-  "oldentry": "Popular explanation: putting ash in an ashtray.",
   "english": [
     "ashtray",
     "ash"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To flick the ash off the end of a cigarette or cigar by tapping your finger on it, usually into an ashtray. English = ash."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small dish in which people can put the ash from their cigarettes and cigars. English = ashtray.",
-    "2. The grey or back powdery substance that is left after a cigarette or cigar is burnt. English = ash."
-  ],
   "signNumber": 1270,
   "recordNumber": 755,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To flick the ash off the end of a cigarette or cigar by tapping your finger on it, usually into an ashtray. English = ash."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small dish in which people can put the ash from their cigarettes and cigars. English = ashtray.",
+    "2. The grey or back powdery substance that is left after a cigarette or cigar is burnt. English = ash."
+  ],
+  "idGloss": "ashtray",
+  "oldEntry": "Popular explanation: putting ash in an ashtray."
 }

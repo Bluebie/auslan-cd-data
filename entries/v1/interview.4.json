@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "To hold something to your mouth and pass it back and forward to the mouth of another person (eg, an ice-cream) or to move it to and fro away from your mouth, or any thing or any action directly or indirectly associated with this, especially an interview.",
-  "questlex": [],
-  "idgloss": "interview.4",
-  "oldentry": "Popular explanation: moving a microphone back and forwards.",
   "english": [
     "interview",
     "interviewer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To interview someone using a microphone, especially a television news journalist."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A news interview made by using a microphone, especially one made by a television news journalist.",
-    "2. A person whose job is to interview people using a microphone for television news. English = interviewer."
-  ],
   "signNumber": 5619,
   "recordNumber": 3329,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To interview someone using a microphone, especially a television news journalist."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "To hold something to your mouth and pass it back and forward to the mouth of another person (eg, an ice-cream) or to move it to and fro away from your mouth, or any thing or any action directly or indirectly associated with this, especially an interview.",
+  "nominalLexeme": [
+    "1. A news interview made by using a microphone, especially one made by a television news journalist.",
+    "2. A person whose job is to interview people using a microphone for television news. English = interviewer."
+  ],
+  "idGloss": "interview.4",
+  "oldEntry": "Popular explanation: moving a microphone back and forwards."
 }

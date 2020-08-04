@@ -12,24 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jam.1",
-  "oldentry": "",
   "english": [
     "jam",
     "preserve",
     "honey"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A food that is made by cooking fruit with sugar. Usually you spread it on bread or toast. English = jam, preserve.",
-    "2. A sweet sticky yellowish substance that is made by bees. English = honey."
-  ],
   "signNumber": 4969,
   "recordNumber": 3001,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "antonyms": [],
   "synonyms": [
     "jam.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A food that is made by cooking fruit with sugar. Usually you spread it on bread or toast. English = jam, preserve.",
+    "2. A sweet sticky yellowish substance that is made by bees. English = honey."
+  ],
+  "idGloss": "jam.1",
+  "oldEntry": ""
 }

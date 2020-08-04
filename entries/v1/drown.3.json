@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drown.3",
-  "oldentry": "",
   "english": [
     "drown"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To die because you go under water and cannot breathe. English = drown."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1896,
   "recordNumber": 1133,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "synonyms": [
     "drown.1",
     "drown.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To die because you go under water and cannot breathe. English = drown."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "drown.3",
+  "oldEntry": ""
 }

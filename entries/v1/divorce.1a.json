@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "divorce.1a",
-  "oldentry": "Popular explanation: taking off the wedding ring.",
   "english": [
     "divorce",
     "divorced"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To legally end a marriage. English = divorce.",
-    "2. Of a man and a woman, to have legally ended a marriage. English = (be) divorced."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The formal ending of a marriage by law. English = divorce."
-  ],
   "signNumber": 444,
   "recordNumber": 251,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "synonyms": [
     "divorce.2",
     "divorce.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To legally end a marriage. English = divorce.",
+    "2. Of a man and a woman, to have legally ended a marriage. English = (be) divorced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The formal ending of a marriage by law. English = divorce."
+  ],
+  "idGloss": "divorce.1a",
+  "oldEntry": "Popular explanation: taking off the wedding ring."
 }

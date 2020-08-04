@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pressure cooker",
-  "oldentry": "",
   "english": [
     "pressure cooker"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "saucepan"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large saucepan with a lid that fights tightly, in which you can cook food quickly using steam at high pressure. English = pressure cooker."
   ],
   "signNumber": 6217,
   "recordNumber": 3713,
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large saucepan with a lid that fights tightly, in which you can cook food quickly using steam at high pressure. English = pressure cooker."
+  ],
+  "idGloss": "pressure cooker",
+  "oldEntry": ""
 }

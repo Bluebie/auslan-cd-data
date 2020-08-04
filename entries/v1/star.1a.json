@@ -15,28 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "star.1a",
-  "oldentry": "",
   "english": [
     "star",
     "starry",
     "twinkle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the night sky, to have stars in it. English = (be) starry.",
-    "2. Of a star, to shine with an unsteady light. English = twinkle."
-  ],
   "cf": [
     "silver.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of an immense number of large balls of burning gas in space. They appear to us as small points of light in the sky on clear nights. English = star.",
-    "2. A flat object which has four, five, or more points sticking out of it in a regular pattern. English = star."
   ],
   "signNumber": 6274,
   "recordNumber": 3749,
@@ -46,5 +32,19 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the night sky, to have stars in it. English = (be) starry.",
+    "2. Of a star, to shine with an unsteady light. English = twinkle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of an immense number of large balls of burning gas in space. They appear to us as small points of light in the sky on clear nights. English = star.",
+    "2. A flat object which has four, five, or more points sticking out of it in a regular pattern. English = star."
+  ],
+  "idGloss": "star.1a",
+  "oldEntry": ""
 }

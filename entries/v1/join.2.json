@@ -34,10 +34,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "join.2",
-  "oldentry": "Popular explanation: a link.",
   "english": [
     "connection",
     "link",
@@ -51,22 +47,9 @@
     "lock"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For two people or things to come together; or for one thing to become a part of another thing. English = join, combine, unite, connect.",
-    "2. To become a member of a club, society, or organisation. English = join.",
-    "3. To be a part of or a member of a club, society, or organisation. English = belong.",
-    "4. To fasten two things or two parts of something together using a padlock. English = padlock, lock."
-  ],
   "cf": [
     "home",
     "relationship"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The thing that joins two things or people. English = connection, link.",
-    "2. Of one group, a close connection with another group or close involvement with it. English = affiliation.",
-    "3. A lock which is used for fastening two things or two parts of something together. It consists of a block of metal with a U-shaped bar attached to it. One end of the bar is released when it is unlocked with a key. English = padlock."
   ],
   "signNumber": 2687,
   "recordNumber": 1491,
@@ -80,5 +63,22 @@
     "member.1a",
     "member.2",
     "join.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For two people or things to come together; or for one thing to become a part of another thing. English = join, combine, unite, connect.",
+    "2. To become a member of a club, society, or organisation. English = join.",
+    "3. To be a part of or a member of a club, society, or organisation. English = belong.",
+    "4. To fasten two things or two parts of something together using a padlock. English = padlock, lock."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thing that joins two things or people. English = connection, link.",
+    "2. Of one group, a close connection with another group or close involvement with it. English = affiliation.",
+    "3. A lock which is used for fastening two things or two parts of something together. It consists of a block of metal with a U-shaped bar attached to it. One end of the bar is released when it is unlocked with a key. English = padlock."
+  ],
+  "idGloss": "join.2",
+  "oldEntry": "Popular explanation: a link."
 }

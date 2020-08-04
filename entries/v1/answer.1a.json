@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "answer.1a",
-  "oldentry": "",
   "english": [
     "answer",
     "reply",
@@ -36,21 +32,7 @@
     "respond"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say something back to someone who has asked you a question. English = answer.",
-    "2. To say something back to someone as a result of what they have said or done or as a result of a question. English = reply, respond.",
-    "3. To write a letter back to someone as a result of having already received one from them. English = answer, reply."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to make clear that what follows is what you want to say back to someone who has said something or who has asked you something. English = in response, to answer your question, in reply, and so on."
-  ],
-  "nomlex": [
-    "1. What you say or write back to someone who has asked you a question. English = answer.",
-    "2. What you say or write to someone as a result of what they have said or written to you. English = answer, reply, response.",
-    "3. A possible solution to a problem. English = answer."
-  ],
   "signNumber": 1151,
   "recordNumber": 677,
   "signVisualComposition": "",
@@ -62,5 +44,23 @@
     "question.1a",
     "question.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to make clear that what follows is what you want to say back to someone who has said something or who has asked you something. English = in response, to answer your question, in reply, and so on."
+  ],
+  "verbLexeme": [
+    "1. To say something back to someone who has asked you a question. English = answer.",
+    "2. To say something back to someone as a result of what they have said or done or as a result of a question. English = reply, respond.",
+    "3. To write a letter back to someone as a result of having already received one from them. English = answer, reply."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. What you say or write back to someone who has asked you a question. English = answer.",
+    "2. What you say or write to someone as a result of what they have said or written to you. English = answer, reply, response.",
+    "3. A possible solution to a problem. English = answer."
+  ],
+  "idGloss": "answer.1a",
+  "oldEntry": ""
 }

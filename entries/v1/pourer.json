@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of holding onto something, especially something with a handle, and turning it to one side so that its contents flow out, or any thing or any action directly or indirectly associated with this, especially a kettle or teapot.",
-  "questlex": [],
-  "idgloss": "pourer",
-  "oldentry": "Popular explanation: pouring a liquid from a container.",
   "english": [
     "pourer",
     "jug",
@@ -37,21 +33,9 @@
     "pour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a liquid or other substance flow steadily out of a container by holding the container at an angle by the handle. English = pour.",
-    "2. To pour hot water from a kettle.",
-    "3. To pour tea from a teapot."
-  ],
   "cf": [
     "spout.1a",
     "spout.1b"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A container with a handle that is used for holding liquids or other substances before you pour the contents into other containers or over other surfaces. English = pourer, jug, pitcher.",
-    "2. A covered round container that you use for boiling water. It has a handle on top and a spout for pouring. English = kettle.",
-    "3. A container with a lid, a handle, and a spout for pouring. You use it for making and serving tea. English = teapot."
   ],
   "signNumber": 5671,
   "recordNumber": 3360,
@@ -63,5 +47,21 @@
   "antonyms": [],
   "synonyms": [
     "gravy"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a liquid or other substance flow steadily out of a container by holding the container at an angle by the handle. English = pour.",
+    "2. To pour hot water from a kettle.",
+    "3. To pour tea from a teapot."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of holding onto something, especially something with a handle, and turning it to one side so that its contents flow out, or any thing or any action directly or indirectly associated with this, especially a kettle or teapot.",
+  "nominalLexeme": [
+    "1. A container with a handle that is used for holding liquids or other substances before you pour the contents into other containers or over other surfaces. English = pourer, jug, pitcher.",
+    "2. A covered round container that you use for boiling water. It has a handle on top and a spout for pouring. English = kettle.",
+    "3. A container with a lid, a handle, and a spout for pouring. You use it for making and serving tea. English = teapot."
+  ],
+  "idGloss": "pourer",
+  "oldEntry": "Popular explanation: pouring a liquid from a container."
 }

@@ -12,26 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers perform this sign with the dominant hand alone.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "on reflection",
-  "oldentry": "",
   "english": [
     "recollections",
     "look back"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think about things that happened in the past. English = look back."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to indicate that you are thinking about things that happened in the past. English = looking back. Formal English = on reflection."
-  ],
-  "nomlex": [
-    "1. Thoughts about things that happened in the past. English = recollections."
-  ],
   "signNumber": 1670,
   "recordNumber": 994,
   "signVisualComposition": "",
@@ -40,5 +26,19 @@
   "primaryLocation": 8,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to indicate that you are thinking about things that happened in the past. English = looking back. Formal English = on reflection."
+  ],
+  "verbLexeme": [
+    "1. To think about things that happened in the past. English = look back."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Thoughts about things that happened in the past. English = recollections."
+  ],
+  "idGloss": "on reflection",
+  "oldEntry": ""
 }

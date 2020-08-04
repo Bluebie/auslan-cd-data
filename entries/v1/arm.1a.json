@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "arm.1a",
-  "oldentry": "Popular explanation: the arm.",
   "english": [
     "arm"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The long part of your body that is attached to your shoulder and has a hand at the end. You have two of them. English = arm."
-  ],
   "signNumber": 3520,
   "recordNumber": 2062,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The long part of your body that is attached to your shoulder and has a hand at the end. You have two of them. English = arm."
+  ],
+  "idGloss": "arm.1a",
+  "oldEntry": "Popular explanation: the arm."
 }

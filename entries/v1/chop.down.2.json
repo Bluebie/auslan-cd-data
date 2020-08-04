@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chop.down.2",
-  "oldentry": "Popular explanation: swinging an axe.",
   "english": [
     "axe",
     "chop down"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To chop something with an axe, to chop down."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool used for cutting wood. It consists of a blade attached to the end of a long handle, at one side. English = axe"
-  ],
   "signNumber": 5836,
   "recordNumber": 3470,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To chop something with an axe, to chop down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool used for cutting wood. It consists of a blade attached to the end of a long handle, at one side. English = axe"
+  ],
+  "idGloss": "chop.down.2",
+  "oldEntry": "Popular explanation: swinging an axe."
 }

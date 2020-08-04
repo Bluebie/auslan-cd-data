@@ -12,22 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cut.2",
-  "oldentry": "",
   "english": [
     "cut",
     "stop"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell your addressee(s) to immediately stop what they are doing. This sign is particularly used in theatrical circles. English = 'Cut!' , 'Hold everything!' etc."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4289,
   "recordNumber": 2607,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell your addressee(s) to immediately stop what they are doing. This sign is particularly used in theatrical circles. English = 'Cut!' , 'Hold everything!' etc."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cut.2",
+  "oldEntry": ""
 }

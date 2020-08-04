@@ -16,28 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swallow",
-  "oldentry": "Popular explanation: something going into the mouth and throat.",
   "english": [
     "swallow",
     "gulp"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something go from your mouth inside your throat and down into your stomach. English = swallow.",
-    "2. To make a large amount (ie a full mouthful) of food or drink go from your mouth inside your throat and down into your stomach. English = gulp."
-  ],
   "cf": [
     "drink.1a",
     "eat.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of making something go from your mouth inside your throat and down into your stomach. English = swallow, gulp.",
-    "2. A large quantity of food or drink which is taken into your mouth at one time (ie a full mouthful) and then made to go inside your throat and down into your stomach."
   ],
   "signNumber": 668,
   "recordNumber": 389,
@@ -47,5 +33,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something go from your mouth inside your throat and down into your stomach. English = swallow.",
+    "2. To make a large amount (ie a full mouthful) of food or drink go from your mouth inside your throat and down into your stomach. English = gulp."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of making something go from your mouth inside your throat and down into your stomach. English = swallow, gulp.",
+    "2. A large quantity of food or drink which is taken into your mouth at one time (ie a full mouthful) and then made to go inside your throat and down into your stomach."
+  ],
+  "idGloss": "swallow",
+  "oldEntry": "Popular explanation: something going into the mouth and throat."
 }

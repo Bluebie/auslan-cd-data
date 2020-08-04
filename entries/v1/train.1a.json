@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers, especially in WA, produce this sign with two Spoon handshapes.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "train.1a",
-  "oldentry": "",
   "english": [
     "train"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go or travel by train (usually steam or diesel powered)."
-  ],
   "cf": [
     "railway.station"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of carriages or trucks which are pulled by an engine (usually steam or diesel powered) along a railway line. English = train."
   ],
   "signNumber": 5792,
   "recordNumber": 3436,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "train.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go or travel by train (usually steam or diesel powered)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of carriages or trucks which are pulled by an engine (usually steam or diesel powered) along a railway line. English = train."
+  ],
+  "idGloss": "train.1a",
+  "oldEntry": ""
 }

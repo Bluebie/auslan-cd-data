@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "perfect.1a",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "perfection",
     "perfect",
@@ -43,22 +39,7 @@
     "exactly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be as good as possible. English = (be) perfect.",
-    "2. To be as accurate as possible English = (be) precise, (be) exact. Idiomatic English = (be) spot on.",
-    "3. To be more important or better than other things of its kind. English = (be) special, (be) exceptional, (be) outstanding."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you think that something is good in all possible ways. It could hardly be any better. English = 'Perfect!', 'That's ideal!'",
-    "2. Used alone to mean you think someone's answer to a question is exactly right and could hardly be any better. English = 'Exactly!', 'Spot on!', and so on."
-  ],
-  "partlex": [
-    "1. Used in a phrase to indicate that what you are saying applies more to one thing or situation than to any other. English = especially."
-  ],
-  "nomlex": [
-    "1. The quality of being the best of its kind, of being perfect. English = perfection."
-  ],
   "signNumber": 358,
   "recordNumber": 198,
   "signVisualComposition": "",
@@ -70,5 +51,24 @@
   "synonyms": [
     "important.1a",
     "outstanding"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you think that something is good in all possible ways. It could hardly be any better. English = 'Perfect!', 'That's ideal!'",
+    "2. Used alone to mean you think someone's answer to a question is exactly right and could hardly be any better. English = 'Exactly!', 'Spot on!', and so on."
+  ],
+  "particleLexeme": [
+    "1. Used in a phrase to indicate that what you are saying applies more to one thing or situation than to any other. English = especially."
+  ],
+  "verbLexeme": [
+    "1. To be as good as possible. English = (be) perfect.",
+    "2. To be as accurate as possible English = (be) precise, (be) exact. Idiomatic English = (be) spot on.",
+    "3. To be more important or better than other things of its kind. English = (be) special, (be) exceptional, (be) outstanding."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being the best of its kind, of being perfect. English = perfection."
+  ],
+  "idGloss": "perfect.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

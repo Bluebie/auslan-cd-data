@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strawberry.1",
-  "oldentry": "",
   "english": [
     "strawberry"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small red fruit which is soft and juicy. It has thin, slightly rough skin. English = strawberry."
-  ],
   "signNumber": 2098,
   "recordNumber": 1219,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "berry"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small red fruit which is soft and juicy. It has thin, slightly rough skin. English = strawberry."
+  ],
+  "idGloss": "strawberry.1",
+  "oldEntry": ""
 }

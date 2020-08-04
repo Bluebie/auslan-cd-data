@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "conference.1a",
-  "oldentry": "",
   "english": [
     "meeting",
     "conference"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold a meeting or a conference."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An event at which people meet formally and discuss issues, make decisions or take votes. English = meeting.",
-    "2. A large formal meeting at which discussions take place, especially one about a particular subject. English = conference."
-  ],
   "signNumber": 921,
   "recordNumber": 525,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold a meeting or a conference."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An event at which people meet formally and discuss issues, make decisions or take votes. English = meeting.",
+    "2. A large formal meeting at which discussions take place, especially one about a particular subject. English = conference."
+  ],
+  "idGloss": "conference.1a",
+  "oldEntry": ""
 }

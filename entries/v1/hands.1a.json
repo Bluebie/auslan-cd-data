@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hands.1a",
-  "oldentry": "",
   "english": [
     "hands"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The parts of your body at the end of your arms. They have four fingers and one thumb each. English = hands."
-  ],
   "signNumber": 4456,
   "recordNumber": 2707,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "hand"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The parts of your body at the end of your arms. They have four fingers and one thumb each. English = hands."
+  ],
+  "idGloss": "hands.1a",
+  "oldEntry": ""
 }

@@ -18,28 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yacht.1a",
-  "oldentry": "Popular explanation: the sail and hull of a yacht.",
   "english": [
     "yacht",
     "yachting",
     "sail"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a boat move across water using its sail. English = sail.",
-    "2. Of a ship, to move over the sea. English = sail."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A boat with sails used for racing or for pleasure trips. English = yacht.",
-    "2. The sport or activity of sailing a yacht. English = yachting.",
-    "3. A large piece of material attached to a mast of a ship. The wind blows against the material and pushes the ship along. English = sail."
-  ],
   "signNumber": 4668,
   "recordNumber": 2818,
   "signVisualComposition": "",
@@ -48,5 +33,20 @@
   "primaryLocation": 14,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a boat move across water using its sail. English = sail.",
+    "2. Of a ship, to move over the sea. English = sail."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A boat with sails used for racing or for pleasure trips. English = yacht.",
+    "2. The sport or activity of sailing a yacht. English = yachting.",
+    "3. A large piece of material attached to a mast of a ship. The wind blows against the material and pushes the ship along. English = sail."
+  ],
+  "idGloss": "yacht.1a",
+  "oldEntry": "Popular explanation: the sail and hull of a yacht."
 }

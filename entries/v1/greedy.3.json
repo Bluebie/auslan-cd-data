@@ -19,28 +19,15 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "greedy.3",
-  "oldentry": "Popular explanation: the snout of a pig.",
   "english": [
     "greed",
     "pig",
     "greedy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want more of something such as food, money, or power than is necessary or fair for you to have. English = (be) greedy."
-  ],
   "cf": [
     "selfish.1",
     "selfish.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An eager desire for more of something such as food, money, or power than it is necessary or fair for you to have. English = greed.",
-    "2. A person who is unpleasant in some way, especially because they are greedy or unkind. English = pig."
   ],
   "signNumber": 5575,
   "recordNumber": 3300,
@@ -53,5 +40,18 @@
   "synonyms": [
     "greedy.1",
     "greedy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want more of something such as food, money, or power than is necessary or fair for you to have. English = (be) greedy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An eager desire for more of something such as food, money, or power than it is necessary or fair for you to have. English = greed.",
+    "2. A person who is unpleasant in some way, especially because they are greedy or unkind. English = pig."
+  ],
+  "idGloss": "greedy.3",
+  "oldEntry": "Popular explanation: the snout of a pig."
 }

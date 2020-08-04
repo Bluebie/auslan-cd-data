@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emaciated.1",
-  "oldentry": "",
   "english": [
     "thin",
     "emaciated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to have very little fat on their body. English = (be) thin.",
-    "2. To be very thin and weak, especially because of illness or lack of food. English = (be) emaciated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 262,
   "recordNumber": 152,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to have very little fat on their body. English = (be) thin.",
+    "2. To be very thin and weak, especially because of illness or lack of food. English = (be) emaciated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "emaciated.1",
+  "oldEntry": ""
 }

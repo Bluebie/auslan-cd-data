@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "FIGURE + S",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shape",
-  "oldentry": "",
   "english": [
     "shape"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The appearance of the outside edges of an object or area, for example whether it is round, square, curved, or wide. English = shape."
-  ],
   "signNumber": 5788,
   "recordNumber": 3432,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "figure.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The appearance of the outside edges of an object or area, for example whether it is round, square, curved, or wide. English = shape."
+  ],
+  "idGloss": "shape",
+  "oldEntry": ""
 }

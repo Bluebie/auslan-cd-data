@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "paralysed",
-  "oldentry": "",
   "english": [
     "paralysis",
     "stroke",
     "paralysed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lose feeling in your body or in part of it, especially the face, and to be unable to move it. English = (be) paralysed.",
-    "2. To have a sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = have a stroke."
-  ],
   "cf": [
     "freeze.1a",
     "facial.expression.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The loss of feeling in your body or in part of it, especially the face, and to be unable to move it. English = paralysis.",
-    "2. A sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = stroke."
   ],
   "signNumber": 2990,
   "recordNumber": 1701,
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "stroke.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lose feeling in your body or in part of it, especially the face, and to be unable to move it. English = (be) paralysed.",
+    "2. To have a sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = have a stroke."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The loss of feeling in your body or in part of it, especially the face, and to be unable to move it. English = paralysis.",
+    "2. A sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = stroke."
+  ],
+  "idGloss": "paralysed",
+  "oldEntry": ""
 }

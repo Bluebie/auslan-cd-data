@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "enquiry",
-  "oldentry": "",
   "english": [
     "enquiry",
     "inquiry",
@@ -26,15 +22,7 @@
     "inquire"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask about something in order to find out information about it. English = enquire, inquire."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process of asking about something in order to find out information about it. English = enquiry, inquiry."
-  ],
   "signNumber": 355,
   "recordNumber": 196,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask about something in order to find out information about it. English = enquire, inquire."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process of asking about something in order to find out information about it. English = enquiry, inquiry."
+  ],
+  "idGloss": "enquiry",
+  "oldEntry": ""
 }

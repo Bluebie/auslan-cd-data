@@ -24,10 +24,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "poor.1a",
-  "oldentry": "Popular explanation: stroking another in sympathy.",
   "english": [
     "pity",
     "sympathy",
@@ -40,18 +36,7 @@
     "compassionate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unlucky and to make other people feel sorry for you. English = (be) poor, (be) unfortunate, (be) pitied.",
-    "2. To feel sorry for someone because they are unlucky or unfortunate. English = pity, sympathise, (be) sympathetic, (be) compassionate."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to show sympathy towards someone when something unfortunate and unpleasant has happened to them. English = 'You poor thing!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling you have for someone because they are unlucky or unfortunate and you feel sad for them. English = pity, sympathy, compassion."
-  ],
   "signNumber": 3353,
   "recordNumber": 1956,
   "signVisualComposition": "",
@@ -62,5 +47,20 @@
   "antonyms": [],
   "synonyms": [
     "mercy"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to show sympathy towards someone when something unfortunate and unpleasant has happened to them. English = 'You poor thing!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unlucky and to make other people feel sorry for you. English = (be) poor, (be) unfortunate, (be) pitied.",
+    "2. To feel sorry for someone because they are unlucky or unfortunate. English = pity, sympathise, (be) sympathetic, (be) compassionate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling you have for someone because they are unlucky or unfortunate and you feel sad for them. English = pity, sympathy, compassion."
+  ],
+  "idGloss": "poor.1a",
+  "oldEntry": "Popular explanation: stroking another in sympathy."
 }

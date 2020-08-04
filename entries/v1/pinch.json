@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pinch",
-  "oldentry": "Popular explanation: pinching something.",
   "english": [
     "pinch",
     "tweak"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To squeeze a part of someone's body between your thumb and first finger. English = pinch, tweak."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The grabbing or squeezing of a part of someone's body between your thumb and first finger. English = pinch, tweak."
-  ],
   "signNumber": 2527,
   "recordNumber": 1404,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To squeeze a part of someone's body between your thumb and first finger. English = pinch, tweak."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The grabbing or squeezing of a part of someone's body between your thumb and first finger. English = pinch, tweak."
+  ],
+  "idGloss": "pinch",
+  "oldEntry": "Popular explanation: pinching something."
 }

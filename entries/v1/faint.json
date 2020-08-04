@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "faint",
-  "oldentry": "",
   "english": [
     "faint",
     "collapse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lose consciousness for a short time. English = faint, collapse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3551,
   "recordNumber": 2080,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 6,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lose consciousness for a short time. English = faint, collapse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "faint",
+  "oldEntry": ""
 }

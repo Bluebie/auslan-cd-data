@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "new.3",
-  "oldentry": "",
   "english": [
     "new"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to be recently made or created. English = (be) new."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4426,
   "recordNumber": 2691,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to be recently made or created. English = (be) new."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "new.3",
+  "oldEntry": ""
 }

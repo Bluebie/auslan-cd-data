@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "power.1",
-  "oldentry": "",
   "english": [
     "power"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Control over people and activities; authority or the legal right to do something. English = power."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Control over people and activities; authority or the legal right to do something. English = power."
-  ],
   "signNumber": 816,
   "recordNumber": 466,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   ],
   "synonyms": [
     "strong.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Control over people and activities; authority or the legal right to do something. English = power."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Control over people and activities; authority or the legal right to do something. English = power."
+  ],
+  "idGloss": "power.1",
+  "oldEntry": ""
 }

@@ -9,19 +9,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crazy.about",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To be very enthusiastic about and interested in something. Idiomatic English = crazy about."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2987,
   "recordNumber": 1698,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "antonyms": [],
   "synonyms": [
     "interest.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very enthusiastic about and interested in something. Idiomatic English = crazy about."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "crazy.about",
+  "oldEntry": ""
 }

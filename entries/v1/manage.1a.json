@@ -28,10 +28,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "manage.1a",
-  "oldentry": "",
   "english": [
     "management",
     "manager",
@@ -44,22 +40,8 @@
     "deal with"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be responsible for controlling an organisation, business, or system. English = manage.",
-    "2. To make all the arrangements for an activity or event; to plan or control an activity or event. English = organise.",
-    "3. To make plans for an event or meeting to happen. English = arrange.",
-    "4. Of a situation or problem, to do what is necessary to achieve the result you want; of a theory or idea, to be able to explain a particular event or thing. English = deal with."
-  ],
   "cf": [
     "scrimp"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The responsibility for and actions involved in controlling an organisation, business, or system. English = management.",
-    "2. The person or people responsible for controlling an organisation, business, or system. English = manager, management",
-    "3. The plans for an event or meeting to happen. English = arrangement, arrangements.",
-    "4. An agreement or arrangement that is made, especially in business. English = deal, transaction."
   ],
   "signNumber": 3761,
   "recordNumber": 2223,
@@ -71,5 +53,23 @@
   "antonyms": [],
   "synonyms": [
     "agree.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be responsible for controlling an organisation, business, or system. English = manage.",
+    "2. To make all the arrangements for an activity or event; to plan or control an activity or event. English = organise.",
+    "3. To make plans for an event or meeting to happen. English = arrange.",
+    "4. Of a situation or problem, to do what is necessary to achieve the result you want; of a theory or idea, to be able to explain a particular event or thing. English = deal with."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The responsibility for and actions involved in controlling an organisation, business, or system. English = management.",
+    "2. The person or people responsible for controlling an organisation, business, or system. English = manager, management",
+    "3. The plans for an event or meeting to happen. English = arrangement, arrangements.",
+    "4. An agreement or arrangement that is made, especially in business. English = deal, transaction."
+  ],
+  "idGloss": "manage.1a",
+  "oldEntry": ""
 }

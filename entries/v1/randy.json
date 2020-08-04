@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "randy",
-  "oldentry": "",
   "english": [
     "randiness",
     "horniness",
@@ -31,18 +27,8 @@
     "horny"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be eager to have sex or sexual intercourse or to be easily sexually aroused. English = (be) sexually excited. Informal English = (be) randy, (be) horny.",
-    "2. To experience the moment of greatest pleasure and excitement during sexual activity. English = have an orgasm."
-  ],
   "cf": [
     "mouse.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An eagerness to have sex or sexual intercourse or the fact of being easily sexually aroused. English = sexual excitement. Informal English = randiness, horniness.",
-    "2. The moment of greatest pleasure and excitement during sexual activity. English = orgasm."
   ],
   "signNumber": 1394,
   "recordNumber": 828,
@@ -54,5 +40,19 @@
   "antonyms": [],
   "synonyms": [
     "desire"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be eager to have sex or sexual intercourse or to be easily sexually aroused. English = (be) sexually excited. Informal English = (be) randy, (be) horny.",
+    "2. To experience the moment of greatest pleasure and excitement during sexual activity. English = have an orgasm."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An eagerness to have sex or sexual intercourse or the fact of being easily sexually aroused. English = sexual excitement. Informal English = randiness, horniness.",
+    "2. The moment of greatest pleasure and excitement during sexual activity. English = orgasm."
+  ],
+  "idGloss": "randy",
+  "oldEntry": ""
 }

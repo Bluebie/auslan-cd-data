@@ -22,10 +22,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chairperson.1a",
-  "oldentry": "Popular explanation: sitting in an armchair.",
   "english": [
     "president",
     "chairperson",
@@ -35,19 +31,7 @@
     "preside"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To act as the president of an organisation or of a country. English = preside over.",
-    "2. To act as the chairperson of a meeting, committee, or organisation. English = chair."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The person in an organisation who has the highest position. English = president.",
-    "2. In a country that has no king or queen, the person who has the highest political position and is the leader of the country. English = president.",
-    "3. The person in charge of a meeting, committee, or organisation. English = chairperson, chairman, chairwoman.",
-    "4. The position occupied by a chairperson. English = chair."
-  ],
   "signNumber": 5893,
   "recordNumber": 3504,
   "signVisualComposition": "",
@@ -58,5 +42,21 @@
   "antonyms": [],
   "synonyms": [
     "minister.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To act as the president of an organisation or of a country. English = preside over.",
+    "2. To act as the chairperson of a meeting, committee, or organisation. English = chair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The person in an organisation who has the highest position. English = president.",
+    "2. In a country that has no king or queen, the person who has the highest political position and is the leader of the country. English = president.",
+    "3. The person in charge of a meeting, committee, or organisation. English = chairperson, chairman, chairwoman.",
+    "4. The position occupied by a chairperson. English = chair."
+  ],
+  "idGloss": "chairperson.1a",
+  "oldEntry": "Popular explanation: sitting in an armchair."
 }

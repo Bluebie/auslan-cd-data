@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bunk.1a",
-  "oldentry": "Popular explanation: sleeping one above the other.",
   "english": [
     "bunk"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two beds, one above the other, held in a frame. English = bunk, bunk beds."
-  ],
   "signNumber": 2052,
   "recordNumber": 1199,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two beds, one above the other, held in a frame. English = bunk, bunk beds."
+  ],
+  "idGloss": "bunk.1a",
+  "oldEntry": "Popular explanation: sleeping one above the other."
 }

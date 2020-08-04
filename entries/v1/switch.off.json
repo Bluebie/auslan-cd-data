@@ -10,23 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "switch.off",
-  "oldentry": "",
   "english": [
     "switch off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a switch to turn a device off. English = switch off."
-  ],
   "cf": [
     "switch"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6348,
   "recordNumber": 3792,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [
     "switch.on"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a switch to turn a device off. English = switch off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "switch.off",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "BOOK + POCKET",
   "queries": "Some signers invert the order of the two elements of this sign (ie, 'pocket' + 'book', rather than 'book' + 'pocket').",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wallet.2",
-  "oldentry": "",
   "english": [
     "wallet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small flat case made of leather or plastic, which is used for keeping paper money in and other small things such as credit cards. English = wallet."
-  ],
   "signNumber": 3726,
   "recordNumber": 2197,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "wallet.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small flat case made of leather or plastic, which is used for keeping paper money in and other small things such as credit cards. English = wallet."
+  ],
+  "idGloss": "wallet.2",
+  "oldEntry": ""
 }

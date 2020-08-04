@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "film.1",
-  "oldentry": "",
   "english": [
     "film",
     "movie",
@@ -33,17 +29,8 @@
     "project"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a film appear on a screen or wall. English = project, show a film."
-  ],
   "cf": [
     "film.5"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Moving images that have been recorded so that they can be shown in a theatre or on television. English = film, films, movie, movies, picture, pictures.",
-    "2. A special theatre where films are shown. English = cinema."
   ],
   "signNumber": 2855,
   "recordNumber": 1610,
@@ -57,5 +44,18 @@
     "film.2a",
     "film.3",
     "film.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a film appear on a screen or wall. English = project, show a film."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Moving images that have been recorded so that they can be shown in a theatre or on television. English = film, films, movie, movies, picture, pictures.",
+    "2. A special theatre where films are shown. English = cinema."
+  ],
+  "idGloss": "film.1",
+  "oldEntry": ""
 }

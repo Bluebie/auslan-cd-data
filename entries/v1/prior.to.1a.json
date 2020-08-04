@@ -17,25 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prior.to.1a",
-  "oldentry": "",
   "english": [
     "prior"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "after.1",
     "after.2"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action began at some time in the past (or at a time which has already been mentioned) and continued up to the present (or another nominated time). English =  from then to now, from then up to now;",
-    "prior to and up to now."
-  ],
-  "nomlex": [],
   "signNumber": 3968,
   "recordNumber": 2371,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "antonyms": [
     "not.prior.to"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action began at some time in the past (or at a time which has already been mentioned) and continued up to the present (or another nominated time). English =  from then to now, from then up to now;",
+    "prior to and up to now."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "prior.to.1a",
+  "oldEntry": ""
 }

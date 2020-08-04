@@ -18,27 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "come.1a",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "come"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or thing, to move somewhere, especially to where you are now. English = come.",
-    "2. Of a time or event, to arrive or happen. English = come."
-  ],
   "cf": [
     "go.to.and.fro.1a"
-  ],
-  "interj": [
-    "1. Used alone to tell or ask someone to approach you. English = 'Come here!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone's or something's arrival at or movement to a place."
   ],
   "signNumber": 1421,
   "recordNumber": 849,
@@ -51,5 +36,20 @@
     "leave",
     "send.out"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell or ask someone to approach you. English = 'Come here!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or thing, to move somewhere, especially to where you are now. English = come.",
+    "2. Of a time or event, to arrive or happen. English = come."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone's or something's arrival at or movement to a place."
+  ],
+  "idGloss": "come.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

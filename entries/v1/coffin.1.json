@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "coffin.1",
-  "oldentry": "",
   "english": [
     "coffin",
     "inter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a dead body into a coffin and bury them. Formal English = inter."
-  ],
   "cf": [
     "box",
     "bury.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A box in which a dead body is buried or cremated. English = coffin."
   ],
   "signNumber": 3952,
   "recordNumber": 2356,
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a dead body into a coffin and bury them. Formal English = inter."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A box in which a dead body is buried or cremated. English = coffin."
+  ],
+  "idGloss": "coffin.1",
+  "oldEntry": ""
 }

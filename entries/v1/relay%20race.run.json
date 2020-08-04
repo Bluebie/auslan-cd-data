@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "relay race.run",
-  "oldentry": "",
   "english": [
     "relay",
     "relay race"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A race between two or more teams, for example teams of runners. Each member of the team runs one section of the race and passes a baton to the next member of the team at the end of their section. English = relay, relay race."
-  ],
   "signNumber": 2705,
   "recordNumber": 1503,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "relay race.swim"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A race between two or more teams, for example teams of runners. Each member of the team runs one section of the race and passes a baton to the next member of the team at the end of their section. English = relay, relay race."
+  ],
+  "idGloss": "relay race.run",
+  "oldEntry": ""
 }

@@ -17,28 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "draw.3a",
-  "oldentry": "",
   "english": [
     "drawing",
     "sketch",
     "draw"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a picture, pattern, or diagram using a pencil, pen or crayon. English = draw.",
-    "2. To produce a picture quickly and without a lot of details. English = sketch."
-  ],
   "cf": [
     "portrait"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture which someone has made with a pencil, pen or crayon. English = drawing.",
-    "2. A drawing that is done quickly without a lot of details. English = sketch."
   ],
   "signNumber": 2133,
   "recordNumber": 1235,
@@ -50,5 +36,19 @@
   "antonyms": [],
   "synonyms": [
     "draw.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a picture, pattern, or diagram using a pencil, pen or crayon. English = draw.",
+    "2. To produce a picture quickly and without a lot of details. English = sketch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture which someone has made with a pencil, pen or crayon. English = drawing.",
+    "2. A drawing that is done quickly without a lot of details. English = sketch."
+  ],
+  "idGloss": "draw.3a",
+  "oldEntry": ""
 }

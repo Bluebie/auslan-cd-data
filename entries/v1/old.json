@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "old",
-  "oldentry": "Popular explanation: the lines of age on the face.",
   "english": [
     "age",
     "old",
     "aged"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or thing, to become old. English = age.",
-    "2. Of a person, to have lived for many years and to be no longer young. English = (be) old. Formal English = (be) aged.",
-    "3. Of a thing, to have existed for a long time and to be no longer new. English = (be) old."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The period of time during which a person is old. English = old age."
-  ],
   "signNumber": 1757,
   "recordNumber": 1054,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
     "young.1",
     "new.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or thing, to become old. English = age.",
+    "2. Of a person, to have lived for many years and to be no longer young. English = (be) old. Formal English = (be) aged.",
+    "3. Of a thing, to have existed for a long time and to be no longer new. English = (be) old."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of time during which a person is old. English = old age."
+  ],
+  "idGloss": "old",
+  "oldEntry": "Popular explanation: the lines of age on the face."
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tractor.2",
-  "oldentry": "",
   "english": [
     "tractor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A farm vehicle with large rear wheels that is used for ploughing fields, sowing crops, and pulling trailers. English = tractor."
-  ],
   "signNumber": 1109,
   "recordNumber": 652,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "bus.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A farm vehicle with large rear wheels that is used for ploughing fields, sowing crops, and pulling trailers. English = tractor."
+  ],
+  "idGloss": "tractor.2",
+  "oldEntry": ""
 }

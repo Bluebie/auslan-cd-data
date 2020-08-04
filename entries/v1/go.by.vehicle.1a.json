@@ -10,21 +10,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.by.vehicle.1a",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To travel somewhere or go somewhere in a vehicle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The path taken by a vehicle."
-  ],
   "signNumber": 3395,
   "recordNumber": 1984,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "antonyms": [
     "reverse.in.vehicle.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel somewhere or go somewhere in a vehicle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The path taken by a vehicle."
+  ],
+  "idGloss": "go.by.vehicle.1a",
+  "oldEntry": ""
 }

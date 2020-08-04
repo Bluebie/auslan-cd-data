@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "soil",
-  "oldentry": "Popular explanation: crumbling soil with one's fingers.",
   "english": [
     "soil",
     "earth",
     "dirt"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The substance on the land surface of the earth in which plants grow. English = soil, earth, dirt."
-  ],
   "signNumber": 169,
   "recordNumber": 94,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 0,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The substance on the land surface of the earth in which plants grow. English = soil, earth, dirt."
+  ],
+  "idGloss": "soil",
+  "oldEntry": "Popular explanation: crumbling soil with one's fingers."
 }

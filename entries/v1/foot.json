@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "foot",
-  "oldentry": "",
   "english": [
     "foot",
     "feet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "step",
     "footsteps"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body which is at the end of your leg and which you stand on. English = foot (singular), feet (plural)."
   ],
   "signNumber": 1222,
   "recordNumber": 721,
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body which is at the end of your leg and which you stand on. English = foot (singular), feet (plural)."
+  ],
+  "idGloss": "foot",
+  "oldEntry": ""
 }

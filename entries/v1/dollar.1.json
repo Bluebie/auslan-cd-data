@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dollar.1",
-  "oldentry": "Popular explanation: handling bank notes.",
   "english": [
     "dollar",
     "buck",
@@ -29,14 +25,7 @@
     "bill"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A unit of money used in the USA, Australia and some other countries. It is made up of one hundred smaller units, called cents. English = dollar. Idiomatic English = buck.",
-    "2. A piece of printed paper or plastic that is used as money. English = note, bill."
-  ],
   "signNumber": 4159,
   "recordNumber": 2510,
   "signVisualComposition": "",
@@ -50,5 +39,16 @@
   ],
   "synonyms": [
     "dollar.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A unit of money used in the USA, Australia and some other countries. It is made up of one hundred smaller units, called cents. English = dollar. Idiomatic English = buck.",
+    "2. A piece of printed paper or plastic that is used as money. English = note, bill."
+  ],
+  "idGloss": "dollar.1",
+  "oldEntry": "Popular explanation: handling bank notes."
 }

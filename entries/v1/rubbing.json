@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rubbing",
-  "oldentry": "",
   "english": [
     "rubbing",
     "rub"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand or a cloth backwards and forwards over something while pressing firmly. English = rub."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of moving your hand or a cloth backwards and forwards over something while pressing firmly. English = rubbing."
-  ],
   "signNumber": 4249,
   "recordNumber": 2576,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "rub.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand or a cloth backwards and forwards over something while pressing firmly. English = rub."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of moving your hand or a cloth backwards and forwards over something while pressing firmly. English = rubbing."
+  ],
+  "idGloss": "rubbing",
+  "oldEntry": ""
 }

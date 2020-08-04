@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "APPLE + ORANGE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fruit.1a",
-  "oldentry": "",
   "english": [
     "fruit"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that grows on a tree or a bush and which contains seeds or a stone covered by a substance that you can eat. Examples include apples, oranges, grapes, and bananas. English = fruit."
-  ],
   "signNumber": 4482,
   "recordNumber": 2724,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that grows on a tree or a bush and which contains seeds or a stone covered by a substance that you can eat. Examples include apples, oranges, grapes, and bananas. English = fruit."
+  ],
+  "idGloss": "fruit.1a",
+  "oldEntry": ""
 }

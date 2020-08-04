@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heaven",
-  "oldentry": "Popular explanation: heaven above.",
   "english": [
     "heaven"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The place where God is believed to live, and where good people are believed to go when they die. English = heaven."
-  ],
   "signNumber": 3865,
   "recordNumber": 2298,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "go.upwards.1a",
     "sky.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where God is believed to live, and where good people are believed to go when they die. English = heaven."
+  ],
+  "idGloss": "heaven",
+  "oldEntry": "Popular explanation: heaven above."
 }

@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "STREET + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "road",
-  "oldentry": "",
   "english": [
     "road"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "lane.1",
     "way"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long piece of hard ground which is built between two places so that people can drive or ride easily from one place to the other. English = road."
   ],
   "signNumber": 2210,
   "recordNumber": 1263,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "street.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long piece of hard ground which is built between two places so that people can drive or ride easily from one place to the other. English = road."
+  ],
+  "idGloss": "road",
+  "oldEntry": ""
 }

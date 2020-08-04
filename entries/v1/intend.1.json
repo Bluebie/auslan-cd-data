@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "intend.1",
-  "oldentry": "",
   "english": [
     "intention",
     "intend",
     "goal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think or plan to do something specific; to decide to so something or plan to do something. English = intend."
-  ],
   "cf": [
     "relevant"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The idea, plan or decision to do something. English = intention, goal."
   ],
   "signNumber": 836,
   "recordNumber": 477,
@@ -48,5 +36,17 @@
   "synonyms": [
     "determined.1a",
     "intend.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To think or plan to do something specific; to decide to so something or plan to do something. English = intend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The idea, plan or decision to do something. English = intention, goal."
+  ],
+  "idGloss": "intend.1",
+  "oldEntry": ""
 }

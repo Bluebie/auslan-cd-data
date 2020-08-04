@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cancer",
-  "oldentry": "",
   "english": [
     "cancer"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths. English = cancer."
-  ],
   "signNumber": 5332,
   "recordNumber": 3194,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths. English = cancer."
+  ],
+  "idGloss": "cancer",
+  "oldEntry": ""
 }

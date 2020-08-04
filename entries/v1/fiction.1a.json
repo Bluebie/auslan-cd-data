@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fiction.1a",
-  "oldentry": "",
   "english": [
     "invention",
     "concoction",
@@ -50,22 +46,8 @@
     "guess"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make up an idea or story which is not true, often for dishonest reasons. English = make up, invent, concoct, contrive.",
-    "2. To think imaginatively about something for creative pleasure or because you would like it to happen even though it is unlikely to happen. English = fantasise, make believe.",
-    "3. To make up a story, based on something that actually happened, but with some details changed or added. English = fictionalise.",
-    "4. To say something in a play or speech which has not been planned or prepared beforehand; to give an answer when you do not know if it is correct. English = ad lib; guess."
-  ],
   "cf": [
     "dream.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A story or idea which is made up and not true. Its purpose is often dishonest. It is like a lie but it is not as bad or as serious. English = invention, concoction, contrivance.",
-    "2. A situation or event that you think about or imagine, although it is unlikely to happen or be true. English = fantasy, make believe.",
-    "3. A story or stories about imaginary people and events, especially when written down in books. English = fiction.",
-    "4. The process or result of trying to guess something without knowing all the facts. English = guesswork, speculation."
   ],
   "signNumber": 498,
   "recordNumber": 277,
@@ -78,5 +60,23 @@
   "synonyms": [
     "liar",
     "imagine.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make up an idea or story which is not true, often for dishonest reasons. English = make up, invent, concoct, contrive.",
+    "2. To think imaginatively about something for creative pleasure or because you would like it to happen even though it is unlikely to happen. English = fantasise, make believe.",
+    "3. To make up a story, based on something that actually happened, but with some details changed or added. English = fictionalise.",
+    "4. To say something in a play or speech which has not been planned or prepared beforehand; to give an answer when you do not know if it is correct. English = ad lib; guess."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A story or idea which is made up and not true. Its purpose is often dishonest. It is like a lie but it is not as bad or as serious. English = invention, concoction, contrivance.",
+    "2. A situation or event that you think about or imagine, although it is unlikely to happen or be true. English = fantasy, make believe.",
+    "3. A story or stories about imaginary people and events, especially when written down in books. English = fiction.",
+    "4. The process or result of trying to guess something without knowing all the facts. English = guesswork, speculation."
+  ],
+  "idGloss": "fiction.1a",
+  "oldEntry": ""
 }

@@ -13,28 +13,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "turn.over.1a",
-  "oldentry": "",
   "english": [
     "turn",
     "turn over",
     "anyhow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something, usually a flat object, reverse its orientation so that the side that was up is now down and vice versa. English = turn, turn over.",
-    "2. Of flat objects, to reverse orientation so that the side that was up is now down and vice versa. English = turn, turn over."
-  ],
   "cf": [
     "barbecue.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sign sentence to give further information (to your partner or to your own previous statements) which is at variance to what has been said before. English = on the other hand, anyhow, in any case."
-  ],
-  "nomlex": [],
   "signNumber": 3438,
   "recordNumber": 2006,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sign sentence to give further information (to your partner or to your own previous statements) which is at variance to what has been said before. English = on the other hand, anyhow, in any case."
+  ],
+  "verbLexeme": [
+    "1. To make something, usually a flat object, reverse its orientation so that the side that was up is now down and vice versa. English = turn, turn over.",
+    "2. Of flat objects, to reverse orientation so that the side that was up is now down and vice versa. English = turn, turn over."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "turn.over.1a",
+  "oldEntry": ""
 }

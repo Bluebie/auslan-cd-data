@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers also produce this sign with two Flat handshapes moving up the chest.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blanket.1",
-  "oldentry": "Popular explanation: pulling a blanket over oneself.",
   "english": [
     "blanket"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pull a blanket up over yourself."
-  ],
   "cf": [
     "sheet",
     "mattress.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A square or rectangular piece of thick cloth, especially one which you put on a bed to keep you warm. English = blanket."
   ],
   "signNumber": 5752,
   "recordNumber": 3407,
@@ -41,5 +29,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pull a blanket up over yourself."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A square or rectangular piece of thick cloth, especially one which you put on a bed to keep you warm. English = blanket."
+  ],
+  "idGloss": "blanket.1",
+  "oldEntry": "Popular explanation: pulling a blanket over oneself."
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "you.first",
-  "oldentry": "",
   "english": [
     "you first",
     "after you"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean to the person it is directed at that you think they are next to do something, when you are both waiting to do the same thing, but that you are after them. English = 'I'm after you!', 'You then me!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1981,
   "recordNumber": 1170,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "after.you"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean to the person it is directed at that you think they are next to do something, when you are both waiting to do the same thing, but that you are after them. English = 'I'm after you!', 'You then me!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "you.first",
+  "oldEntry": ""
 }

@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "participate.2",
-  "oldentry": "",
   "english": [
     "participation",
     "participant",
     "participate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To join in or take part in some activity. English = participate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Joining in or taking part in some activity. English = participation.",
-    "2. A person who takes part in some activity. English = participant."
-  ],
   "signNumber": 1845,
   "recordNumber": 1105,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To join in or take part in some activity. English = participate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Joining in or taking part in some activity. English = participation.",
+    "2. A person who takes part in some activity. English = participant."
+  ],
+  "idGloss": "participate.2",
+  "oldEntry": ""
 }

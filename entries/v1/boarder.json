@@ -20,29 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boarder",
-  "oldentry": "",
   "english": [
     "board",
     "boarder"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stay somewhere long term, especially someone else's house or at a school, and pay for your food and room. English = board."
-  ],
   "cf": [
     "wait.1",
     "boarding.school",
     "accommodation.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The cost of food and a room which is provided when you stay somewhere long term, like in a hotel, but especially in a private home or school. English = board.",
-    "2. A person who stays long term in someone's house and pays for food and accommodation. English = boarder.",
-    "3. A pupil who lives at school during term time. English = boarder."
   ],
   "signNumber": 3915,
   "recordNumber": 2333,
@@ -54,5 +40,19 @@
   "antonyms": [
     "go.to.and.fro.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stay somewhere long term, especially someone else's house or at a school, and pay for your food and room. English = board."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The cost of food and a room which is provided when you stay somewhere long term, like in a hotel, but especially in a private home or school. English = board.",
+    "2. A person who stays long term in someone's house and pays for food and accommodation. English = boarder.",
+    "3. A pupil who lives at school during term time. English = boarder."
+  ],
+  "idGloss": "boarder",
+  "oldEntry": ""
 }

@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trailer.1",
-  "oldentry": "Popular explanation: one vehicle attached to another.",
   "english": [
     "trailer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tow a trailer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A vehicle like a cart which can be loaded with things and pulled behind a car. English = trailer."
-  ],
   "signNumber": 4118,
   "recordNumber": 2477,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "tow.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tow a trailer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A vehicle like a cart which can be loaded with things and pulled behind a car. English = trailer."
+  ],
+  "idGloss": "trailer.1",
+  "oldEntry": "Popular explanation: one vehicle attached to another."
 }

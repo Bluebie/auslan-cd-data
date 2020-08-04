@@ -13,23 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "silver.2a",
-  "oldentry": "",
   "english": [
     "silver"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be greyish-white in colour. English = (be) silver."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A valuable greyish-white metal that is used for making jewellery and ornaments. English = silver."
-  ],
   "signNumber": 6290,
   "recordNumber": 3759,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "silver.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be greyish-white in colour. English = (be) silver."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A valuable greyish-white metal that is used for making jewellery and ornaments. English = silver."
+  ],
+  "idGloss": "silver.2a",
+  "oldEntry": ""
 }

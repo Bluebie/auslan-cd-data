@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pepper.1",
-  "oldentry": "Popular explanation: shaking the pepper container.",
   "english": [
     "pepper"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sprinkle pepper on food. English = pepper."
-  ],
   "cf": [
     "salt",
     "sauce"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hot tasting powder which is used to flavour food."
   ],
   "signNumber": 6098,
   "recordNumber": 3625,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "pepper.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sprinkle pepper on food. English = pepper."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hot tasting powder which is used to flavour food."
+  ],
+  "idGloss": "pepper.1",
+  "oldEntry": "Popular explanation: shaking the pepper container."
 }

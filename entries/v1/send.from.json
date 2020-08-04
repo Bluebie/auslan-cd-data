@@ -13,25 +13,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "send.from",
-  "oldentry": "",
   "english": [
     "send",
     "send out",
     "send from"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send someone or something out and away from somewhere."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of sending someone or something out and away from somewhere."
-  ],
   "signNumber": 944,
   "recordNumber": 543,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "summons.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send someone or something out and away from somewhere."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of sending someone or something out and away from somewhere."
+  ],
+  "idGloss": "send.from",
+  "oldEntry": ""
 }

@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bottle-opener.1",
-  "oldentry": "Popular explanation: the action of using a bottle-opener.",
   "english": [
     "bottle-opener"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To remove the lid from a bottle using a bottle-opener."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A metal device for removing lids from bottles. English = bottle-opener."
-  ],
   "signNumber": 5304,
   "recordNumber": 3177,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "synonyms": [
     "corkscrew",
     "bottle-opener.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To remove the lid from a bottle using a bottle-opener."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A metal device for removing lids from bottles. English = bottle-opener."
+  ],
+  "idGloss": "bottle-opener.1",
+  "oldEntry": "Popular explanation: the action of using a bottle-opener."
 }

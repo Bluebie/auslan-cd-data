@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disagree",
-  "oldentry": "",
   "english": [
     "disagreement",
     "disagree"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a different opinion to other people about what is true or correct. English = disagree."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An opinion about what is true or correct that is different to the opinion of other people. English = disagreement."
-  ],
   "signNumber": 4835,
   "recordNumber": 2921,
   "signVisualComposition": "AGREE + 'NOT'",
@@ -46,5 +34,17 @@
   ],
   "synonyms": [
     "argue"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a different opinion to other people about what is true or correct. English = disagree."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An opinion about what is true or correct that is different to the opinion of other people. English = disagreement."
+  ],
+  "idGloss": "disagree",
+  "oldEntry": ""
 }

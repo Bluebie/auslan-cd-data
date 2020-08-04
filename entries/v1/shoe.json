@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shoe",
-  "oldentry": "Popular explanation: a shoe on a foot.",
   "english": [
     "shoe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a shoe or shoes.",
-    "2. To wear a shoe or shoes."
-  ],
   "cf": [
     "polished.shoes"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Objects which you wear on your feet. They cover most of your foot and you wear them over socks or stockings. English = shoe."
   ],
   "signNumber": 4661,
   "recordNumber": 2817,
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a shoe or shoes.",
+    "2. To wear a shoe or shoes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Objects which you wear on your feet. They cover most of your foot and you wear them over socks or stockings. English = shoe."
+  ],
+  "idGloss": "shoe",
+  "oldEntry": "Popular explanation: a shoe on a foot."
 }

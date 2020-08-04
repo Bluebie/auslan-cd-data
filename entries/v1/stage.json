@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stage",
-  "oldentry": "",
   "english": [
     "stage"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "act"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In a theatre, a raised platform where actors or other entertainers perform. English = stage."
   ],
   "signNumber": 5962,
   "recordNumber": 3548,
@@ -38,5 +28,15 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In a theatre, a raised platform where actors or other entertainers perform. English = stage."
+  ],
+  "idGloss": "stage",
+  "oldEntry": ""
 }

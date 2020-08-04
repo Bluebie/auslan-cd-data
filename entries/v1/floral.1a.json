@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "floral.1a",
-  "oldentry": "",
   "english": [
     "pattern",
     "patterned",
@@ -31,19 +27,8 @@
     "ornate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have or be an arrangement of lines or shapes, especially one in which the same shape is repeated at regular intervals over a surface. English = (be) patterned.",
-    "2. To have or be a pattern of flowers. English = (be) floral.",
-    "3. To be special, unusual or elaborate, especially when talking about a pattern. English = (be) fancy, (be) ornate."
-  ],
   "cf": [
     "tree.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An arrangement of lines or shapes, especially a design in which the same shape is repeated at regular intervals over a surface. English =  pattern.",
-    "2. A pattern of flowers. English = floral pattern."
   ],
   "signNumber": 3005,
   "recordNumber": 1714,
@@ -53,5 +38,20 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have or be an arrangement of lines or shapes, especially one in which the same shape is repeated at regular intervals over a surface. English = (be) patterned.",
+    "2. To have or be a pattern of flowers. English = (be) floral.",
+    "3. To be special, unusual or elaborate, especially when talking about a pattern. English = (be) fancy, (be) ornate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An arrangement of lines or shapes, especially a design in which the same shape is repeated at regular intervals over a surface. English =  pattern.",
+    "2. A pattern of flowers. English = floral pattern."
+  ],
+  "idGloss": "floral.1a",
+  "oldEntry": ""
 }

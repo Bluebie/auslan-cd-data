@@ -14,26 +14,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whistle.1",
-  "oldentry": "Popular explanation: preparing to whistle.",
   "english": [
     "whistle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a sound by forcing air out between your lips; to blow on a whistle. English = whistle."
-  ],
   "cf": [
     "referee.1",
     "referee.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small metal tube which you blow in order to produce a loud sound and attract someone's attention. English = whistle.",
-    "2. A sound that you make when you force your breath out between your lips or blow on a whistle. English = whistle."
   ],
   "signNumber": 1934,
   "recordNumber": 1153,
@@ -43,5 +30,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a sound by forcing air out between your lips; to blow on a whistle. English = whistle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small metal tube which you blow in order to produce a loud sound and attract someone's attention. English = whistle.",
+    "2. A sound that you make when you force your breath out between your lips or blow on a whistle. English = whistle."
+  ],
+  "idGloss": "whistle.1",
+  "oldEntry": "Popular explanation: preparing to whistle."
 }

@@ -17,28 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mistake.3",
-  "oldentry": "",
   "english": [
     "misunderstanding",
     "misunderstand"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fail to understand something such as a situation or a person's remarks without realising the mistake immediately; to talk at cross purposes.",
-    "2. To make a foolish mistake based on a misunderstanding.",
-    "3. To completely miss the point of what someone is saying.",
-    "4. To not understand what someone is saying or doing. English = misunderstand."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The failure to understand something such as a situation or a person's remarks. English = misunderstanding.",
-    "2. A foolish mistake based on a misunderstanding."
-  ],
   "signNumber": 882,
   "recordNumber": 505,
   "signVisualComposition": "",
@@ -49,5 +33,21 @@
   "antonyms": [],
   "synonyms": [
     "misunderstand.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fail to understand something such as a situation or a person's remarks without realising the mistake immediately; to talk at cross purposes.",
+    "2. To make a foolish mistake based on a misunderstanding.",
+    "3. To completely miss the point of what someone is saying.",
+    "4. To not understand what someone is saying or doing. English = misunderstand."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The failure to understand something such as a situation or a person's remarks. English = misunderstanding.",
+    "2. A foolish mistake based on a misunderstanding."
+  ],
+  "idGloss": "mistake.3",
+  "oldEntry": ""
 }

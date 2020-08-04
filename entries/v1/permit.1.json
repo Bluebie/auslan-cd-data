@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is only partially directional. It does not normally allow for a movement towards the signer, but all other agreement points are acceptable.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "permit.1",
-  "oldentry": "",
   "english": [
     "permission",
     "permit",
@@ -38,18 +34,7 @@
     "let"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make it possible for something to happen; to say yes to someone who wants to do something; to do nothing to stop something happening. English = permit, allow, let.",
-    "2. To say officially that something can happen or take place. English = authorise."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Approval from someone to say that something can happen or that you can do something. English = permission.",
-    "2. A piece of paper that gives you permission to do something. English = permit.",
-    "3. Official power to approve something or the approval itself. English = authority."
-  ],
   "signNumber": 3841,
   "recordNumber": 2284,
   "signVisualComposition": "",
@@ -64,5 +49,20 @@
   ],
   "synonyms": [
     "depart.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make it possible for something to happen; to say yes to someone who wants to do something; to do nothing to stop something happening. English = permit, allow, let.",
+    "2. To say officially that something can happen or take place. English = authorise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Approval from someone to say that something can happen or that you can do something. English = permission.",
+    "2. A piece of paper that gives you permission to do something. English = permit.",
+    "3. Official power to approve something or the approval itself. English = authority."
+  ],
+  "idGloss": "permit.1",
+  "oldEntry": ""
 }

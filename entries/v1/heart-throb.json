@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heart-throb",
-  "oldentry": "Popular explanation: a beating heart.",
   "english": [
     "heartbeat",
     "love",
@@ -34,18 +30,7 @@
     "fall in love"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the heart, to move as it pumps blood around the body. English = beat, throb.",
-    "2. To feel romantically or sexually attracted to someone. English = love. Idiomatic English = (be) in love.",
-    "3. To start to be in love with someone. Idiomatic English = fall in love."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The regular movement of the heart as it pumps blood around the body. English = heartbeat.",
-    "2. A very strong feeling of affection for someone who you are romantically or sexually attracted to. English = love."
-  ],
   "signNumber": 144,
   "recordNumber": 78,
   "signVisualComposition": "",
@@ -60,5 +45,20 @@
   "synonyms": [
     "lover",
     "love"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the heart, to move as it pumps blood around the body. English = beat, throb.",
+    "2. To feel romantically or sexually attracted to someone. English = love. Idiomatic English = (be) in love.",
+    "3. To start to be in love with someone. Idiomatic English = fall in love."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The regular movement of the heart as it pumps blood around the body. English = heartbeat.",
+    "2. A very strong feeling of affection for someone who you are romantically or sexually attracted to. English = love."
+  ],
+  "idGloss": "heart-throb",
+  "oldEntry": "Popular explanation: a beating heart."
 }

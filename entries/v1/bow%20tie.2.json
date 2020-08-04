@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bow tie.2",
-  "oldentry": "",
   "english": [
     "bow tie"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a bow tie."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A man's tie in the form of a bow, worn especially for formal occasions. English = bow tie."
-  ],
   "signNumber": 6398,
   "recordNumber": 3820,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "bow tie.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a bow tie."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A man's tie in the form of a bow, worn especially for formal occasions. English = bow tie."
+  ],
+  "idGloss": "bow tie.2",
+  "oldEntry": ""
 }

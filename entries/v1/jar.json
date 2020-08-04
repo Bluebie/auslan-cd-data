@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jar",
-  "oldentry": "Popular explanation: opening a jar.",
   "english": [
     "screw-top",
     "top",
@@ -29,16 +25,7 @@
     "jar"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fasten or unfasten a screw-top on a jar."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat round covering to a container, such as a jar, that is fastened by being tightly twisted. English = screw-top, top, cap, lid.",
-    "2. A glass container with a screw-top that is used for storing food such as jam. English = jar."
-  ],
   "signNumber": 3111,
   "recordNumber": 1794,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "antonyms": [],
   "synonyms": [
     "lid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fasten or unfasten a screw-top on a jar."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat round covering to a container, such as a jar, that is fastened by being tightly twisted. English = screw-top, top, cap, lid.",
+    "2. A glass container with a screw-top that is used for storing food such as jam. English = jar."
+  ],
+  "idGloss": "jar",
+  "oldEntry": "Popular explanation: opening a jar."
 }

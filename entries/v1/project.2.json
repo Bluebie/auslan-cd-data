@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "project.2",
-  "oldentry": "",
   "english": [
     "project"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large-scale attempt to do or achieve something, which is carefully planned and will take some time. English = project."
-  ],
   "signNumber": 1851,
   "recordNumber": 1111,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large-scale attempt to do or achieve something, which is carefully planned and will take some time. English = project."
+  ],
+  "idGloss": "project.2",
+  "oldEntry": ""
 }

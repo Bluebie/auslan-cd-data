@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "icy-pole",
-  "oldentry": "Popular explanation: holding and licking something.",
   "english": [
     "ice-block",
     "icy-pole"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very cold, sweet-tasting food made from water and sugar. English = ice-block, icy-pole."
-  ],
   "signNumber": 6079,
   "recordNumber": 3617,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "ice-cream"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very cold, sweet-tasting food made from water and sugar. English = ice-block, icy-pole."
+  ],
+  "idGloss": "icy-pole",
+  "oldEntry": "Popular explanation: holding and licking something."
 }

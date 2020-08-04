@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "promise.3",
-  "oldentry": "",
   "english": [
     "promise",
     "vow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say to someone that you will definitely do something. English = promise, vow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A statement you make to someone in which you say that you will definitely do something or give them something. English = promise, vow."
-  ],
   "signNumber": 1410,
   "recordNumber": 839,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "promise.1",
     "promise.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say to someone that you will definitely do something. English = promise, vow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A statement you make to someone in which you say that you will definitely do something or give them something. English = promise, vow."
+  ],
+  "idGloss": "promise.3",
+  "oldEntry": ""
 }

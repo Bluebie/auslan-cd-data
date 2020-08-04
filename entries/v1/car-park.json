@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "car-park",
-  "oldentry": "Popular explanation: one vehicle parking behind another.",
   "english": [
     "car park",
     "parking lot",
@@ -33,20 +29,10 @@
     "reverse park"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drive a car into a parking space and leave it there. English = park.",
-    "2. To drive a car backwards usually in order to park it. English = back up, reverse park."
-  ],
   "cf": [
     "speed.1",
     "backward",
     "overtake.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An area or a building where people can leave their cars. English = car park, parking lot.",
-    "2. An individual space for a car on the side of a road or within a car park. English = park, parking space."
   ],
   "signNumber": 4116,
   "recordNumber": 2475,
@@ -56,5 +42,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drive a car into a parking space and leave it there. English = park.",
+    "2. To drive a car backwards usually in order to park it. English = back up, reverse park."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An area or a building where people can leave their cars. English = car park, parking lot.",
+    "2. An individual space for a car on the side of a road or within a car park. English = park, parking space."
+  ],
+  "idGloss": "car-park",
+  "oldEntry": "Popular explanation: one vehicle parking behind another."
 }

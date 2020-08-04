@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "watch.1a",
-  "oldentry": "Popular explanation: the outline of a watch.",
   "english": [
     "watch",
     "wristwatch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a small clock on a strap on your wrist."
-  ],
   "cf": [
     "watch.the.time"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small clock you wear on a strap on your wrist. English = watch, wristwatch."
   ],
   "signNumber": 1212,
   "recordNumber": 714,
@@ -48,5 +36,17 @@
   "synonyms": [
     "watch.2",
     "wind.watch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a small clock on a strap on your wrist."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small clock you wear on a strap on your wrist. English = watch, wristwatch."
+  ],
+  "idGloss": "watch.1a",
+  "oldEntry": "Popular explanation: the outline of a watch."
 }

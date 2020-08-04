@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "feed.1a",
-  "oldentry": "",
   "english": [
     "feeding",
     "feed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give food to a baby or an animal or to a person who is unable to eat without help. English = feed.",
-    "2. To supply food to your family or your community. English = feed."
-  ],
   "cf": [
     "breastfeed"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of giving food to a baby or an animal or to a person who is unable to eat without help. English = feeding."
   ],
   "signNumber": 6214,
   "recordNumber": 3711,
@@ -46,5 +33,18 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give food to a baby or an animal or to a person who is unable to eat without help. English = feed.",
+    "2. To supply food to your family or your community. English = feed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of giving food to a baby or an animal or to a person who is unable to eat without help. English = feeding."
+  ],
+  "idGloss": "feed.1a",
+  "oldEntry": ""
 }

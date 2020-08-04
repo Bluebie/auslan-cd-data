@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "police.1a",
-  "oldentry": "",
   "english": [
     "police",
     "policeman",
@@ -26,15 +22,7 @@
     "police officer"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The official organisation that is responsible for making sure that people obey the law. English = police.",
-    "2. The men and women who are members of the police. English = police.",
-    "3. A man or woman who is a member of the police force. English = police officer, policeman, policewoman."
-  ],
   "signNumber": 4652,
   "recordNumber": 2812,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "police.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The official organisation that is responsible for making sure that people obey the law. English = police.",
+    "2. The men and women who are members of the police. English = police.",
+    "3. A man or woman who is a member of the police force. English = police officer, policeman, policewoman."
+  ],
+  "idGloss": "police.1a",
+  "oldEntry": ""
 }

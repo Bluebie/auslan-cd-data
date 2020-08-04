@@ -10,22 +10,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "arrow",
-  "oldentry": "",
   "english": [
     "arrow"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "sharp"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long thin weapon which is sharp and pointed at one end. It is shot from a bow. English = arrow."
   ],
   "signNumber": 949,
   "recordNumber": 545,
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long thin weapon which is sharp and pointed at one end. It is shot from a bow. English = arrow."
+  ],
+  "idGloss": "arrow",
+  "oldEntry": ""
 }

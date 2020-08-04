@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jaws",
-  "oldentry": "Popular explanation: a large mouth opening and closing.",
   "english": [
     "jaws",
     "crocodile",
     "alligator"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an animal, to open and close its jaws or to bite with its jaws."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The large mouth of a large and often dangerous animal with large and sharp teeth. English = jaws.",
-    "2. A large reptile with a long body and large jaws. It lives in rivers and eats meat. English = crocodile, alligator."
-  ],
   "signNumber": 3053,
   "recordNumber": 1751,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "synonyms": [
     "alligator",
     "bite.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an animal, to open and close its jaws or to bite with its jaws."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The large mouth of a large and often dangerous animal with large and sharp teeth. English = jaws.",
+    "2. A large reptile with a long body and large jaws. It lives in rivers and eats meat. English = crocodile, alligator."
+  ],
+  "idGloss": "jaws",
+  "oldEntry": "Popular explanation: a large mouth opening and closing."
 }

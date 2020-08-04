@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "abuse",
-  "oldentry": "Popular explanation: repeatedly striking with the fist.",
   "english": [
     "abuse",
     "abused"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To treat someone cruelly and violently. English = abuse.",
-    "2. To be treated cruelly and violently. English = (be) abused."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The cruel and violent treatment of someone. English = abuse."
-  ],
   "signNumber": 5950,
   "recordNumber": 3545,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To treat someone cruelly and violently. English = abuse.",
+    "2. To be treated cruelly and violently. English = (be) abused."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The cruel and violent treatment of someone. English = abuse."
+  ],
+  "idGloss": "abuse",
+  "oldEntry": "Popular explanation: repeatedly striking with the fist."
 }

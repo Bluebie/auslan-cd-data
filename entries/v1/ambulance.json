@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ambulance",
-  "oldentry": "Popular explanation: the rotating light of a siren on a roof.",
   "english": [
     "ambulance"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a visual alarm or siren, especially one on top of a vehicle such as an ambulance, to rotate and flash."
-  ],
   "cf": [
     "alarm.bell"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A vehicle for taking people to or from hospital. English = ambulance.",
-    "2. An alarm or siren, usually attached to the top of a vehicle, that consists of a rotating and/or flashing light, with or without an audible alarm."
   ],
   "signNumber": 2124,
   "recordNumber": 1232,
@@ -42,5 +29,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a visual alarm or siren, especially one on top of a vehicle such as an ambulance, to rotate and flash."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A vehicle for taking people to or from hospital. English = ambulance.",
+    "2. An alarm or siren, usually attached to the top of a vehicle, that consists of a rotating and/or flashing light, with or without an audible alarm."
+  ],
+  "idGloss": "ambulance",
+  "oldEntry": "Popular explanation: the rotating light of a siren on a roof."
 }

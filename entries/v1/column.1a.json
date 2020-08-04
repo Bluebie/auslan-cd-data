@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "column.1a",
-  "oldentry": "Popular explanation: something long and thin on a page.",
   "english": [
     "column",
     "article"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put text or numbers into a vertical section of writing; to put into columns."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In a newspaper or magazine, a vertical section of writing. English = column.",
-    "2. A piece of writing that has been written for publication in a newspaper or magazine. English = article."
-  ],
   "signNumber": 5407,
   "recordNumber": 3226,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put text or numbers into a vertical section of writing; to put into columns."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In a newspaper or magazine, a vertical section of writing. English = column.",
+    "2. A piece of writing that has been written for publication in a newspaper or magazine. English = article."
+  ],
+  "idGloss": "column.1a",
+  "oldEntry": "Popular explanation: something long and thin on a page."
 }

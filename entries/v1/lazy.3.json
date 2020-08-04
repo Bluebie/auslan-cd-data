@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lazy.3",
-  "oldentry": "",
   "english": [
     "laziness",
     "idleness",
@@ -27,16 +23,8 @@
     "idle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To try to avoid doing any work or making any effort to do something. English = (be) lazy, (be) idle."
-  ],
   "cf": [
     "business.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The attempt to or fact of avoiding any work or of making little or no effort to do something. English = laziness, idleness."
   ],
   "signNumber": 3498,
   "recordNumber": 2046,
@@ -49,5 +37,17 @@
   "synonyms": [
     "lazy.1",
     "lazy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To try to avoid doing any work or making any effort to do something. English = (be) lazy, (be) idle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The attempt to or fact of avoiding any work or of making little or no effort to do something. English = laziness, idleness."
+  ],
+  "idGloss": "lazy.3",
+  "oldEntry": ""
 }

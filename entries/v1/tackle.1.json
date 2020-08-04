@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tackle.1",
-  "oldentry": "",
   "english": [
     "tackle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In soccer, to try to take the ball away from your opponent using your legs only. English = tackle."
-  ],
   "cf": [
     "tackle.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In soccer, the act of trying to take the ball away from your opponent using your legs only. English = tackle."
   ],
   "signNumber": 1658,
   "recordNumber": 984,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In soccer, to try to take the ball away from your opponent using your legs only. English = tackle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In soccer, the act of trying to take the ball away from your opponent using your legs only. English = tackle."
+  ],
+  "idGloss": "tackle.1",
+  "oldEntry": ""
 }

@@ -13,24 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "knockout",
-  "oldentry": "Popular explanation: punching someone in the jaw.",
   "english": [
     "knockout"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In boxing, to punch your opponent so that he falls to the floor and is not able to stand up before the referee has counted to ten. English = knockout."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In boxing, a blow or punch that makes one of the boxers fall to the floor and not be able to stand up before the referee has counted to ten. English = knockout.",
-    "2. A competition in which the winner of each match goes on to the next round, until one competitor or team is the winner. English = knockout competition."
-  ],
   "signNumber": 5624,
   "recordNumber": 3330,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "antonyms": [],
   "synonyms": [
     "punch.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In boxing, to punch your opponent so that he falls to the floor and is not able to stand up before the referee has counted to ten. English = knockout."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In boxing, a blow or punch that makes one of the boxers fall to the floor and not be able to stand up before the referee has counted to ten. English = knockout.",
+    "2. A competition in which the winner of each match goes on to the next round, until one competitor or team is the winner. English = knockout competition."
+  ],
+  "idGloss": "knockout",
+  "oldEntry": "Popular explanation: punching someone in the jaw."
 }

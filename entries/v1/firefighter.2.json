@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "firefighter.2",
-  "oldentry": "",
   "english": [
     "firefighter",
     "fireman"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job it is to put out fires. He or she also rescues people or animals when they are trapped, for example in burning buildings or cars. English = firefighter, fireman."
-  ],
   "signNumber": 4463,
   "recordNumber": 2712,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "firefighter.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job it is to put out fires. He or she also rescues people or animals when they are trapped, for example in burning buildings or cars. English = firefighter, fireman."
+  ],
+  "idGloss": "firefighter.2",
+  "oldEntry": ""
 }

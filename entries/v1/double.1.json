@@ -10,26 +10,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "double.1",
-  "oldentry": "",
   "english": [
     "double"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to become twice as large as it was before. English = double.",
-    "2. Of something, to be twice its normal size. English = (be) double.",
-    "3. Of something, to consist of two things of the same kind or to be something, for example a bed, that is intended to be used by two people. English = (be) double."
-  ],
   "cf": [
     "single.1a",
     "doubles.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1599,
   "recordNumber": 952,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "double.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to become twice as large as it was before. English = double.",
+    "2. Of something, to be twice its normal size. English = (be) double.",
+    "3. Of something, to consist of two things of the same kind or to be something, for example a bed, that is intended to be used by two people. English = (be) double."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "double.1",
+  "oldEntry": ""
 }

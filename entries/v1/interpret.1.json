@@ -17,24 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "interpret.1",
-  "oldentry": "",
   "english": [
     "interpreter",
     "interpret"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To translate something someone is saying or signing immediately into another language. English = interpret."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job it is to listen to or watch what someone is saying or signing and translate it immediately into another language. English = interpreter."
-  ],
   "signNumber": 383,
   "recordNumber": 206,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To translate something someone is saying or signing immediately into another language. English = interpret."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job it is to listen to or watch what someone is saying or signing and translate it immediately into another language. English = interpreter."
+  ],
+  "idGloss": "interpret.1",
+  "oldEntry": ""
 }

@@ -9,21 +9,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "second.3",
-  "oldentry": "",
   "english": [
     "second"
   ],
   "deictic": [],
-  "verblex": [
-    "1. When giving dates of the calendar, to be the second day in the month."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1582,
   "recordNumber": 942,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. When giving dates of the calendar, to be the second day in the month."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "second.3",
+  "oldEntry": ""
 }

@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stress.2",
-  "oldentry": "",
   "english": [
     "stress",
     "anxiety",
@@ -39,20 +35,7 @@
     "puzzled"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel worried and tense because of difficulties in your life. English = (be) stressed, (be) anxious. Idiomatic English = (be) sick with worry, worry yourself sick.",
-    "2. To feel nervous or worried before performing on stage or doing something in public. Idiomatic English = have butterflies in your stomach.",
-    "3. To feel slightly worried or doubt something over a long time; to not understand or be confused by something over a long time English = (be) niggled; (be) puzzled.",
-    "4. To make someone feel slightly worried or confused about something for a long time. English = niggle, puzzle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of worry and tenseness because of difficulties in your life. English = anxiety, stress.",
-    "2. A small worry or doubt that you keep thinking about. English = niggle.",
-    "3. Something that is not understood or known about. English = mystery."
-  ],
   "signNumber": 3035,
   "recordNumber": 1741,
   "signVisualComposition": "",
@@ -63,5 +46,22 @@
   "antonyms": [],
   "synonyms": [
     "stress.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel worried and tense because of difficulties in your life. English = (be) stressed, (be) anxious. Idiomatic English = (be) sick with worry, worry yourself sick.",
+    "2. To feel nervous or worried before performing on stage or doing something in public. Idiomatic English = have butterflies in your stomach.",
+    "3. To feel slightly worried or doubt something over a long time; to not understand or be confused by something over a long time English = (be) niggled; (be) puzzled.",
+    "4. To make someone feel slightly worried or confused about something for a long time. English = niggle, puzzle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of worry and tenseness because of difficulties in your life. English = anxiety, stress.",
+    "2. A small worry or doubt that you keep thinking about. English = niggle.",
+    "3. Something that is not understood or known about. English = mystery."
+  ],
+  "idGloss": "stress.2",
+  "oldEntry": ""
 }

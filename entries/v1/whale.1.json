@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whale.1",
-  "oldentry": "Popular explanation: the whale spurting from its breathing hole.",
   "english": [
     "whale"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
-  ],
   "signNumber": 1,
   "recordNumber": 1,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
+  ],
+  "idGloss": "whale.1",
+  "oldEntry": "Popular explanation: the whale spurting from its breathing hole."
 }

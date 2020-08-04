@@ -19,28 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pocket",
-  "oldentry": "Popular explanation: putting a hand into a pocket.",
   "english": [
     "pocket",
     "profit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put into a pocket. English = pocket.",
-    "2. To take something without being entitled to it; to steal something. English = pocket.",
-    "3. To benefit or gain from something. English = profit."
-  ],
   "cf": [
     "tuck"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small bag that is sewn into a piece of clothing, and that is used for carrying small things such as money or a handkerchief. English = pocket.",
-    "2. An amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit."
   ],
   "signNumber": 3476,
   "recordNumber": 2030,
@@ -54,5 +39,20 @@
     "profit.1a",
     "profit.2a",
     "pouch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put into a pocket. English = pocket.",
+    "2. To take something without being entitled to it; to steal something. English = pocket.",
+    "3. To benefit or gain from something. English = profit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small bag that is sewn into a piece of clothing, and that is used for carrying small things such as money or a handkerchief. English = pocket.",
+    "2. An amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit."
+  ],
+  "idGloss": "pocket",
+  "oldEntry": "Popular explanation: putting a hand into a pocket."
 }

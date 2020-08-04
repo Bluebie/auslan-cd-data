@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Switzerland.1a",
-  "oldentry": "",
   "english": [
     "Switzerland",
     "Swiss"
   ],
   "deictic": [],
-  "verblex": [
-    "1. A person, product or service which relates to or comes from Switzerland. English = (be) Swiss."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in central Western Europe, located in the Alps, called Switzerland."
-  ],
   "signNumber": 5326,
   "recordNumber": 3188,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. A person, product or service which relates to or comes from Switzerland. English = (be) Swiss."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in central Western Europe, located in the Alps, called Switzerland."
+  ],
+  "idGloss": "Switzerland.1a",
+  "oldEntry": ""
 }

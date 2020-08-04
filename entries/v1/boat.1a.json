@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boat.1a",
-  "oldentry": "Popular explanation: the shape of the bow of a boat.",
   "english": [
     "boat",
     "ship",
@@ -37,21 +33,9 @@
     "sail"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel across water in boat or ship. English = boat, sail.",
-    "2. To travel on a ship and visit a number of places as part of a holiday. English = cruise, go on a cruise."
-  ],
   "cf": [
     "boat.sink",
     "berth"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small vehicle which is used for travelling across water. English = boat.",
-    "2. A large boat that carries passengers or cargo. English = ship.",
-    "3. A holiday in which you travel on a ship and visit a number of places. English = cruise.",
-    "4. A boat that carries passengers or vehicles across a river or a narrow bit of sea. English = ferry."
   ],
   "signNumber": 3773,
   "recordNumber": 2232,
@@ -61,5 +45,21 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel across water in boat or ship. English = boat, sail.",
+    "2. To travel on a ship and visit a number of places as part of a holiday. English = cruise, go on a cruise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small vehicle which is used for travelling across water. English = boat.",
+    "2. A large boat that carries passengers or cargo. English = ship.",
+    "3. A holiday in which you travel on a ship and visit a number of places. English = cruise.",
+    "4. A boat that carries passengers or vehicles across a river or a narrow bit of sea. English = ferry."
+  ],
+  "idGloss": "boat.1a",
+  "oldEntry": "Popular explanation: the shape of the bow of a boat."
 }

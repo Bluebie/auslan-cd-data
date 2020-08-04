@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chemistry.1a",
-  "oldentry": "",
   "english": [
     "chemistry"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The scientific study of the characteristics and composition of substances and of the ways they react with other substances. English = chemistry."
-  ],
   "signNumber": 4602,
   "recordNumber": 2785,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The scientific study of the characteristics and composition of substances and of the ways they react with other substances. English = chemistry."
+  ],
+  "idGloss": "chemistry.1a",
+  "oldEntry": ""
 }

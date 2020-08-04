@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deceive",
-  "oldentry": "",
   "english": [
     "deception",
     "deceit",
@@ -35,18 +31,7 @@
     "betray"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately make someone believe something that is not true. English = deceive.",
-    "2. To do something which harms someone who thinks you support or love them, often by helping their enemies or opponents. English = betray."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that you say or do which is intended to deceive someone. English = deception.",
-    "2. Behaviour that is intended to make people believe something which is not true. English = deceit, duplicity.",
-    "3. The action of betraying someone. English = betrayal."
-  ],
   "signNumber": 1675,
   "recordNumber": 999,
   "signVisualComposition": "",
@@ -58,5 +43,20 @@
   "synonyms": [
     "liar",
     "double talk"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately make someone believe something that is not true. English = deceive.",
+    "2. To do something which harms someone who thinks you support or love them, often by helping their enemies or opponents. English = betray."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that you say or do which is intended to deceive someone. English = deception.",
+    "2. Behaviour that is intended to make people believe something which is not true. English = deceit, duplicity.",
+    "3. The action of betraying someone. English = betrayal."
+  ],
+  "idGloss": "deceive",
+  "oldEntry": ""
 }

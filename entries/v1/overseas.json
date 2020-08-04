@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overseas",
-  "oldentry": "",
   "english": [
     "overseas",
     "foreigner",
@@ -33,19 +29,7 @@
     "foreign"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go across the sea to another country. English = go overseas, go abroad.",
-    "2. To be across the sea in a another country. English = (be) overseas, (be) abroad.",
-    "3. To belong to a another country. English = (be) foreign."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Any place which is not in Australia but in other countries. English = overseas.",
-    "2. A person who comes from another country. English = foreigner, alien.",
-    "3. In Tasmania, the large or main part of the country of Australia, in contrast to the island of Tasmania itself. English = the mainland."
-  ],
   "signNumber": 4065,
   "recordNumber": 2433,
   "signVisualComposition": "",
@@ -54,5 +38,21 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go across the sea to another country. English = go overseas, go abroad.",
+    "2. To be across the sea in a another country. English = (be) overseas, (be) abroad.",
+    "3. To belong to a another country. English = (be) foreign."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Any place which is not in Australia but in other countries. English = overseas.",
+    "2. A person who comes from another country. English = foreigner, alien.",
+    "3. In Tasmania, the large or main part of the country of Australia, in contrast to the island of Tasmania itself. English = the mainland."
+  ],
+  "idGloss": "overseas",
+  "oldEntry": ""
 }

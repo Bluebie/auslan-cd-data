@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whisper",
-  "oldentry": "Popular explanation: a whispering posture.",
   "english": [
     "whisper"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say something to someone very quietly, using only your breath and not your throat, so that other people cannot hear what you are saying; to sign secretly by hiding one's hands from the view of other people. English = whisper."
-  ],
   "cf": [
     "fingerspell.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very quiet voice in which you use your breath and not your throat. English = whisper."
   ],
   "signNumber": 3246,
   "recordNumber": 1889,
@@ -46,5 +34,17 @@
     "yell.1a",
     "yell.2a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say something to someone very quietly, using only your breath and not your throat, so that other people cannot hear what you are saying; to sign secretly by hiding one's hands from the view of other people. English = whisper."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very quiet voice in which you use your breath and not your throat. English = whisper."
+  ],
+  "idGloss": "whisper",
+  "oldEntry": "Popular explanation: a whispering posture."
 }

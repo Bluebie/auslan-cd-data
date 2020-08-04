@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "H + HERE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Hobart",
-  "oldentry": "",
   "english": [
     "Hobart"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The city of Hobart, capital city of the Australian state of Tasmania."
-  ],
   "signNumber": 4326,
   "recordNumber": 2637,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The city of Hobart, capital city of the Australian state of Tasmania."
+  ],
+  "idGloss": "Hobart",
+  "oldEntry": ""
 }

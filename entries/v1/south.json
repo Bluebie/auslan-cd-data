@@ -18,28 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "south",
-  "oldentry": "",
   "english": [
     "south",
     "southern",
     "southerly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be at or relate to the south. English = (be) south, (be) southern.",
-    "2. Of a direction that something faces or the direction from which a wind blows, to be from or face the south. English = (be) southerly."
-  ],
   "cf": [
     "east",
     "west"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The direction which is on your right side when you are looking towards the direction where the sun rises. English = south."
   ],
   "signNumber": 5039,
   "recordNumber": 3040,
@@ -51,5 +38,18 @@
   "antonyms": [
     "north"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be at or relate to the south. English = (be) south, (be) southern.",
+    "2. Of a direction that something faces or the direction from which a wind blows, to be from or face the south. English = (be) southerly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The direction which is on your right side when you are looking towards the direction where the sun rises. English = south."
+  ],
+  "idGloss": "south",
+  "oldEntry": ""
 }

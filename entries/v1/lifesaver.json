@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lifesaver",
-  "oldentry": "Popular explanation: feeding the line.",
   "english": [
     "lifesaver",
     "lifeguard"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a lifesaver, to feed out a line attached to another lifesaver who is swimming out to save someone who is in danger of drowning."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person at a beach or swimming pool whose job is to rescue people when they are in danger of drowning. English = lifeguard. Australian English = lifesaver."
-  ],
   "signNumber": 5714,
   "recordNumber": 3380,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 1,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a lifesaver, to feed out a line attached to another lifesaver who is swimming out to save someone who is in danger of drowning."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person at a beach or swimming pool whose job is to rescue people when they are in danger of drowning. English = lifeguard. Australian English = lifesaver."
+  ],
+  "idGloss": "lifesaver",
+  "oldEntry": "Popular explanation: feeding the line."
 }

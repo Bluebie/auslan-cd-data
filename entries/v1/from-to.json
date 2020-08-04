@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "from-to",
-  "oldentry": "",
   "english": [
     "from",
     "to"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used between two number signs to indicate the range of values for some quantity (age, time, kilometres, etc.). English = 'x' through 'y', from 'x' to 'y', and so on."
-  ],
-  "nomlex": [],
   "signNumber": 764,
   "recordNumber": 440,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used between two number signs to indicate the range of values for some quantity (age, time, kilometres, etc.). English = 'x' through 'y', from 'x' to 'y', and so on."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "from-to",
+  "oldEntry": ""
 }

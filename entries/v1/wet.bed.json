@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wet.bed",
-  "oldentry": "",
   "english": [
     "wet the bed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people, especially children, to urinate in your bed because you cannot control your bladder. Idiomatic English = wet the bed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3217,
   "recordNumber": 1869,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people, especially children, to urinate in your bed because you cannot control your bladder. Idiomatic English = wet the bed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wet.bed",
+  "oldEntry": ""
 }

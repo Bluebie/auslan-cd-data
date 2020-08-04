@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "A combination of the ASL signs for 'mother' and 'father' with the letter 'p'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parent",
-  "oldentry": "",
   "english": [
     "parent",
     "parents",
     "parental"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to parents in general, or to come from or relate to one or both of the parents of a particular child, especially in the sense of caring and loving children. English = (be) parental."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Your mother or your father, or both. English = parent, parents."
-  ],
   "signNumber": 1811,
   "recordNumber": 1093,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   ],
   "synonyms": [
     "parents.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to parents in general, or to come from or relate to one or both of the parents of a particular child, especially in the sense of caring and loving children. English = (be) parental."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Your mother or your father, or both. English = parent, parents."
+  ],
+  "idGloss": "parent",
+  "oldEntry": ""
 }

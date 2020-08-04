@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "schnitzel",
-  "oldentry": "",
   "english": [
     "schnitzel"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thin piece of meat, coated with bread crumbs and fried. English = schnitzel."
-  ],
   "signNumber": 2476,
   "recordNumber": 1374,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thin piece of meat, coated with bread crumbs and fried. English = schnitzel."
+  ],
+  "idGloss": "schnitzel",
+  "oldEntry": ""
 }

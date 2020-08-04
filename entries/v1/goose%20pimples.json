@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign if often located on or near the head (and performed as a double-handed sign) in the sense of 'hair-raising' or 'terrifying'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "goose pimples",
-  "oldentry": "",
   "english": [
     "goose pimples",
     "goose bumps",
@@ -43,21 +39,7 @@
     "frightening"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have or to get goose pimples or goose bumps.",
-    "2. To experience a sudden feeling of great excitement and pleasure; to cause a great feeling of excitement and pleasure. English = (be) thrilled; (be) thrilling.",
-    "3. To experience a sudden feeling of fear; to cause a sudden experience of fear. English = (be) frightened; (be) frightening, (be) hair-raising, (be) spine-chilling.",
-    "4. To experience a strange feeling about something which you cannot explain."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of your skin when you are cold or scared. The hairs on your skin stand up so that it is covered with tiny bumps. English = goose pimples, goose bumps. British English = goose flesh.",
-    "2. A sudden feeling of great excitement and pleasure. English = thrill. Literary English = frisson.",
-    "3. A sudden feeling of fear. English = horrors, scare, terror. Idiomatic English = shivers down one's spine, cold shivers, cold sweat. Informal English = the creeps, the heebie-jeebies.",
-    "4. A sudden strange feeling about something you cannot explain."
-  ],
   "signNumber": 209,
   "recordNumber": 121,
   "signVisualComposition": "",
@@ -66,5 +48,23 @@
   "primaryLocation": 15,
   "secondLocation": 20,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have or to get goose pimples or goose bumps.",
+    "2. To experience a sudden feeling of great excitement and pleasure; to cause a great feeling of excitement and pleasure. English = (be) thrilled; (be) thrilling.",
+    "3. To experience a sudden feeling of fear; to cause a sudden experience of fear. English = (be) frightened; (be) frightening, (be) hair-raising, (be) spine-chilling.",
+    "4. To experience a strange feeling about something which you cannot explain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of your skin when you are cold or scared. The hairs on your skin stand up so that it is covered with tiny bumps. English = goose pimples, goose bumps. British English = goose flesh.",
+    "2. A sudden feeling of great excitement and pleasure. English = thrill. Literary English = frisson.",
+    "3. A sudden feeling of fear. English = horrors, scare, terror. Idiomatic English = shivers down one's spine, cold shivers, cold sweat. Informal English = the creeps, the heebie-jeebies.",
+    "4. A sudden strange feeling about something you cannot explain."
+  ],
+  "idGloss": "goose pimples",
+  "oldEntry": ""
 }

@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "open",
-  "oldentry": "Popular explanation: something opening.",
   "english": [
     "start",
     "beginning",
@@ -43,21 +39,9 @@
     "open"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something which is the first part of an activity, or the first part of a text (such as a book or a film). English = start, begin, open.",
-    "2. To move something, such as a door or a lid on a box, so that it no longer covers a hole or a gap; to move, remove, or cut part of a thing such as a cupboard, container, or letter so that you can take out what is inside. English = open.",
-    "3. To tell people at a special ceremony that a new product is available to the public. English = launch."
-  ],
   "cf": [
     "stop",
     "finish.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The first part of an activity. English = start, beginning.",
-    "2. The first part of a book or a film. English = opening, beginning.",
-    "3. The start of a large and important activity, or the official announcement of when a new product is made available to the public. English = opening, launch."
   ],
   "signNumber": 3738,
   "recordNumber": 2205,
@@ -75,5 +59,21 @@
     "begin.1a",
     "start.1a",
     "launch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something which is the first part of an activity, or the first part of a text (such as a book or a film). English = start, begin, open.",
+    "2. To move something, such as a door or a lid on a box, so that it no longer covers a hole or a gap; to move, remove, or cut part of a thing such as a cupboard, container, or letter so that you can take out what is inside. English = open.",
+    "3. To tell people at a special ceremony that a new product is available to the public. English = launch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The first part of an activity. English = start, beginning.",
+    "2. The first part of a book or a film. English = opening, beginning.",
+    "3. The start of a large and important activity, or the official announcement of when a new product is made available to the public. English = opening, launch."
+  ],
+  "idGloss": "open",
+  "oldEntry": "Popular explanation: something opening."
 }

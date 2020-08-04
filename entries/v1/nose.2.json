@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nose.2",
-  "oldentry": "Popular explanation: the outline of a nose.",
   "english": [
     "nose",
     "busybody",
@@ -32,17 +28,8 @@
     "inquisitive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask lots of questions about other people's affairs or about things that do not concern you, often in a way that irritates them. English = (be) nosy, (be) inquisitive."
-  ],
   "cf": [
     "nose.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is very inquisitive and always wants to know everything that is happening, particularly other people's affairs. Informal English = busybody, sticky-beak.",
-    "2. The part of your face which sticks out above your mouth. You use it for smelling and breathing. English = nose."
   ],
   "signNumber": 526,
   "recordNumber": 297,
@@ -56,5 +43,18 @@
     "sticky-beak.1a",
     "sticky-beak.2",
     "sticky-beak.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask lots of questions about other people's affairs or about things that do not concern you, often in a way that irritates them. English = (be) nosy, (be) inquisitive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is very inquisitive and always wants to know everything that is happening, particularly other people's affairs. Informal English = busybody, sticky-beak.",
+    "2. The part of your face which sticks out above your mouth. You use it for smelling and breathing. English = nose."
+  ],
+  "idGloss": "nose.2",
+  "oldEntry": "Popular explanation: the outline of a nose."
 }

@@ -18,25 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "give.1",
-  "oldentry": "Popular explanation: handing something over.",
   "english": [
     "gift",
     "give"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To offer something to someone as a present; to hand something over to someone; to provide someone with something and let them keep it. English = give, hand over."
-  ],
   "cf": [
     "come.back"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that you give to someone as a present. English = gift."
   ],
   "signNumber": 3840,
   "recordNumber": 2283,
@@ -49,5 +37,17 @@
   "synonyms": [
     "offer",
     "give.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To offer something to someone as a present; to hand something over to someone; to provide someone with something and let them keep it. English = give, hand over."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that you give to someone as a present. English = gift."
+  ],
+  "idGloss": "give.1",
+  "oldEntry": "Popular explanation: handing something over."
 }

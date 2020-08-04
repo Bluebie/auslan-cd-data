@@ -9,22 +9,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "inch",
-  "oldentry": "Popular explanation: inch marks.",
   "english": [
     "inch"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "quote"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A unit for measuring length, approximately equal to 2.54 centimetres. There are twelve of these in a foot. English = inch."
   ],
   "signNumber": 1574,
   "recordNumber": 938,
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A unit for measuring length, approximately equal to 2.54 centimetres. There are twelve of these in a foot. English = inch."
+  ],
+  "idGloss": "inch",
+  "oldEntry": "Popular explanation: inch marks."
 }

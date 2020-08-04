@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boot.car",
-  "oldentry": "",
   "english": [
     "boot",
     "trunk"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "boot.car.open",
     "boot.car.close"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The covered space at the back of a car in which you carry things such as luggage. English = boot. American English = trunk."
   ],
   "signNumber": 4669,
   "recordNumber": 2819,
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The covered space at the back of a car in which you carry things such as luggage. English = boot. American English = trunk."
+  ],
+  "idGloss": "boot.car",
+  "oldEntry": ""
 }

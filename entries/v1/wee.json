@@ -15,27 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wee",
-  "oldentry": "",
   "english": [
     "wee",
     "wee-wee"
   ],
   "deictic": [],
-  "verblex": [
-    "2. To urinate. Used especially when talking to children. English = wee, wee-wee, do wee-wees."
-  ],
   "cf": [
     "toilet.1",
     "toilet.2",
     "toilet.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act or an instance of urinating. Used especially when talking to children. English = wee, wee-wee."
   ],
   "signNumber": 3490,
   "recordNumber": 2041,
@@ -47,5 +35,17 @@
   "antonyms": [],
   "synonyms": [
     "piss.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "2. To urinate. Used especially when talking to children. English = wee, wee-wee, do wee-wees."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act or an instance of urinating. Used especially when talking to children. English = wee, wee-wee."
+  ],
+  "idGloss": "wee",
+  "oldEntry": ""
 }

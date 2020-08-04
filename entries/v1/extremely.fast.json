@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "extremely.fast",
-  "oldentry": "",
   "english": [
     "speed",
     "rapidity",
     "rush"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move, do something, or happen with extreme and great speed or extremely quickly."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Extreme speed and rapidity."
-  ],
   "signNumber": 1057,
   "recordNumber": 622,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "fast.1",
     "fast.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move, do something, or happen with extreme and great speed or extremely quickly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Extreme speed and rapidity."
+  ],
+  "idGloss": "extremely.fast",
+  "oldEntry": ""
 }

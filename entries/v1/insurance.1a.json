@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "insurance.1a",
-  "oldentry": "",
   "english": [
     "insurance",
     "insure"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pay money to an insurance company so that, if you become ill or if your property is damaged or stolen, the company will pay you a sum of money. English = insure."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An agreement in which you pay a fixed sum of money to a special company, usually each year. Then, if you become ill or if your property is damaged or stolen, the company pays you a sum of money. English = insurance."
-  ],
   "signNumber": 1167,
   "recordNumber": 686,
   "signVisualComposition": "I + I",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pay money to an insurance company so that, if you become ill or if your property is damaged or stolen, the company will pay you a sum of money. English = insure."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An agreement in which you pay a fixed sum of money to a special company, usually each year. Then, if you become ill or if your property is damaged or stolen, the company pays you a sum of money. English = insurance."
+  ],
+  "idGloss": "insurance.1a",
+  "oldEntry": ""
 }

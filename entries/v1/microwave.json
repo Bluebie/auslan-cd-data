@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "microwave",
-  "oldentry": "Popular explanation: microwaves being emitted.",
   "english": [
     "microwave",
     "microwave oven"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cook in a microwave oven. English = microwave."
-  ],
   "cf": [
     "oven.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An oven or cooker which cooks food very quickly by short-wave radiation rather than by heat. English = microwave, microwave oven."
   ],
   "signNumber": 161,
   "recordNumber": 89,
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cook in a microwave oven. English = microwave."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An oven or cooker which cooks food very quickly by short-wave radiation rather than by heat. English = microwave, microwave oven."
+  ],
+  "idGloss": "microwave",
+  "oldEntry": "Popular explanation: microwaves being emitted."
 }

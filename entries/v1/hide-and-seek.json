@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hide-and-seek",
-  "oldentry": "Popular explanation: resting your head against a wall.",
   "english": [
     "hide-and-seek"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game in which one player covers his or her eyes until the other players have hidden themselves, and then he or she tries to find them. English = hide-and-seek."
-  ],
   "signNumber": 5567,
   "recordNumber": 3292,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "hide.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game in which one player covers his or her eyes until the other players have hidden themselves, and then he or she tries to find them. English = hide-and-seek."
+  ],
+  "idGloss": "hide-and-seek",
+  "oldEntry": "Popular explanation: resting your head against a wall."
 }

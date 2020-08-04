@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vase.1",
-  "oldentry": "",
   "english": [
     "vase"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A jar, usually made of glass or pottery which is used for holding cut flowers or as an ornament. English = vase."
-  ],
   "signNumber": 6435,
   "recordNumber": 3835,
   "signVisualComposition": "FLOWER + GLASS",
@@ -33,5 +23,15 @@
   "primaryLocation": 5,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A jar, usually made of glass or pottery which is used for holding cut flowers or as an ornament. English = vase."
+  ],
+  "idGloss": "vase.1",
+  "oldEntry": ""
 }

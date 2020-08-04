@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hate.1",
-  "oldentry": "Popular explanation: as if pushing away an unwanted object.",
   "english": [
     "loathing",
     "hate",
@@ -48,18 +44,7 @@
     "despicable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an extremely strong dislike for something. English = hate, detest, loathe.",
-    "2. To be disliked very much. English = (be) hated, (be) loathsome, (be) detested, (be) detestable.",
-    "3. To have a very low opinion of someone and to dislike them very much. English = despise.",
-    "4. To be extremely nasty and evil. English = (be) despicable."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An extremely strong dislike for something. English = hate, hatred, loathing."
-  ],
   "signNumber": 2744,
   "recordNumber": 1531,
   "signVisualComposition": "",
@@ -74,5 +59,20 @@
   "synonyms": [
     "hate.2",
     "dislike.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an extremely strong dislike for something. English = hate, detest, loathe.",
+    "2. To be disliked very much. English = (be) hated, (be) loathsome, (be) detested, (be) detestable.",
+    "3. To have a very low opinion of someone and to dislike them very much. English = despise.",
+    "4. To be extremely nasty and evil. English = (be) despicable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An extremely strong dislike for something. English = hate, hatred, loathing."
+  ],
+  "idGloss": "hate.1",
+  "oldEntry": "Popular explanation: as if pushing away an unwanted object."
 }

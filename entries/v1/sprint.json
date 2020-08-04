@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sprint",
-  "oldentry": "",
   "english": [
     "sprint",
     "athletics"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To run as fast as you can over a short distance. English = sprint."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short race in which runners race very fast. English = sprint.",
-    "2. Various field and track sports, such as running, the high jump, and the javelin. English = athletics."
-  ],
   "signNumber": 3807,
   "recordNumber": 2262,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "synonyms": [
     "run.1a",
     "run.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To run as fast as you can over a short distance. English = sprint."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short race in which runners race very fast. English = sprint.",
+    "2. Various field and track sports, such as running, the high jump, and the javelin. English = athletics."
+  ],
+  "idGloss": "sprint",
+  "oldEntry": ""
 }

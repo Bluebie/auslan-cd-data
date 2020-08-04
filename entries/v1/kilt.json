@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kilt",
-  "oldentry": "",
   "english": [
     "kilt"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short pleated skirt that is sometimes worn by Scotsmen. They can also be worn by women and girls. English = kilt."
-  ],
   "signNumber": 3956,
   "recordNumber": 2360,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 17,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short pleated skirt that is sometimes worn by Scotsmen. They can also be worn by women and girls. English = kilt."
+  ],
+  "idGloss": "kilt",
+  "oldEntry": ""
 }

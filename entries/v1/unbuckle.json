@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unbuckle",
-  "oldentry": "",
   "english": [
     "unbuckle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take off or unbuckle a belt.",
-    "2. To take off or unbuckle a seat belt."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5242,
   "recordNumber": 3146,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "antonyms": [
     "buckle.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take off or unbuckle a belt.",
+    "2. To take off or unbuckle a seat belt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unbuckle",
+  "oldEntry": ""
 }

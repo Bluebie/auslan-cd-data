@@ -17,28 +17,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "put.1a",
-  "oldentry": "Popular explanation: putting something somewhere.",
   "english": [
     "put",
     "put away",
     "deposit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move something into a particular place or position. English = put.",
-    "2. To put something into a place where it is normally kept, for example in a cupboard or in a drawer. English = put away.",
-    "3. When talking about money, to put a sum of money in a bank account, or to pay part of the price of something when you agree to buy it. English = deposit."
-  ],
   "cf": [
     "pack",
     "transfer"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 103,
   "recordNumber": 54,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "antonyms": [],
   "synonyms": [
     "deposit"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move something into a particular place or position. English = put.",
+    "2. To put something into a place where it is normally kept, for example in a cupboard or in a drawer. English = put away.",
+    "3. When talking about money, to put a sum of money in a bank account, or to pay part of the price of something when you agree to buy it. English = deposit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "put.1a",
+  "oldEntry": "Popular explanation: putting something somewhere."
 }

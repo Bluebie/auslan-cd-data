@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "narrow-minded",
-  "oldentry": "",
   "english": [
     "narrow-mindedness",
     "small-mindedness",
@@ -32,17 +28,7 @@
     "intolerant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unwilling to consider new ideas or other people's opinions. English = (be) narrow-minded, (be) small-minded.",
-    "2. To disapprove of behaviour and opinions which are different from your own. English = (be) intolerant."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of being unwilling to consider new ideas or other people's opinions. English = narrow-mindedness, small-mindedness.",
-    "2. The disapproval of behaviour and opinions which are different from your own. English = intolerance."
-  ],
   "signNumber": 3540,
   "recordNumber": 2072,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   "antonyms": [
     "open-minded"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unwilling to consider new ideas or other people's opinions. English = (be) narrow-minded, (be) small-minded.",
+    "2. To disapprove of behaviour and opinions which are different from your own. English = (be) intolerant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of being unwilling to consider new ideas or other people's opinions. English = narrow-mindedness, small-mindedness.",
+    "2. The disapproval of behaviour and opinions which are different from your own. English = intolerance."
+  ],
+  "idGloss": "narrow-minded",
+  "oldEntry": ""
 }

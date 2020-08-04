@@ -18,28 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chair.1",
-  "oldentry": "Popular explanation: the form of a chair.",
   "english": [
     "chair",
     "seat",
     "sit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be seated in a chair.",
-    "2. To sit down on a chair, to sit down in a chair."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell or ask someone to sit down."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of furniture for one person to sit on, with a back and four legs. English = chair, seat."
-  ],
   "signNumber": 3676,
   "recordNumber": 2165,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "synonyms": [
     "chair.2a",
     "sit.on"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell or ask someone to sit down."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be seated in a chair.",
+    "2. To sit down on a chair, to sit down in a chair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of furniture for one person to sit on, with a back and four legs. English = chair, seat."
+  ],
+  "idGloss": "chair.1",
+  "oldEntry": "Popular explanation: the form of a chair."
 }

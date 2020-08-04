@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "toothpaste",
-  "oldentry": "",
   "english": [
     "toothpaste"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put toothpaste on your toothbrush."
-  ],
   "cf": [
     "toothbrush.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick substance which you put on your toothbrush and use to clean your teeth. English = toothpaste."
   ],
   "signNumber": 6226,
   "recordNumber": 3719,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put toothpaste on your toothbrush."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thick substance which you put on your toothbrush and use to clean your teeth. English = toothpaste."
+  ],
+  "idGloss": "toothpaste",
+  "oldEntry": ""
 }

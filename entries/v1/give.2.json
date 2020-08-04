@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign cannot be modified in terms of direction (i.e., you cannot change the direction to mean 'I give you'). It only means 'I was given' or 'Give me'. Naturally, it can still be modified by repetition or by stress.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "give.2",
-  "oldentry": "",
   "english": [
     "hand-me-down",
     "give"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the signer, to be given or handed something by someone, to be provided with it or allowed to have it; to be given something; to be given back something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Things, especially clothing, which have been used by other people before you and which have been given to you for your use. Idiomatic English = hand-me-down."
-  ],
   "signNumber": 6601,
   "recordNumber": 3929,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "give.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the signer, to be given or handed something by someone, to be provided with it or allowed to have it; to be given something; to be given back something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Things, especially clothing, which have been used by other people before you and which have been given to you for your use. Idiomatic English = hand-me-down."
+  ],
+  "idGloss": "give.2",
+  "oldEntry": ""
 }

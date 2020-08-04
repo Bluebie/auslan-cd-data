@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers flick open the handshapes at the end of each movement.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "feedback",
-  "oldentry": "",
   "english": [
     "feedback"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Comments you get about something that you have done or made. English = feedback."
-  ],
   "signNumber": 353,
   "recordNumber": 194,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Comments you get about something that you have done or made. English = feedback."
+  ],
+  "idGloss": "feedback",
+  "oldEntry": ""
 }

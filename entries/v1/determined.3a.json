@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "determined.3a",
-  "oldentry": "",
   "english": [
     "determined",
     "resolve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something because you have made a firm decision to do it and will not let anything stop you. English = (be) determined, (be) resolved."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6286,
   "recordNumber": 3757,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "determined.1a",
     "resolute"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something because you have made a firm decision to do it and will not let anything stop you. English = (be) determined, (be) resolved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "determined.3a",
+  "oldEntry": ""
 }

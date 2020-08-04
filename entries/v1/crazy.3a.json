@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "MIND + OUT (?) or + SPOIL(?)",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crazy.3a",
-  "oldentry": "",
   "english": [
     "craziness",
     "recklessness",
@@ -41,21 +37,7 @@
     "intoxicated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave in a strange or foolish way, for example because of mental illness or intoxication. English = crazy. Idiomatic English = (be) out of one's mind.",
-    "2. To behave in a strange or foolish way, for example because of lack of attention or care. English = (be) reckless, (be) careless, (be) dreamy.",
-    "3. To enjoy yourself or amuse yourself, especially by behaving in a careless or reckless way. Idiomatic English = have a wild time.",
-    "4. To enjoy yourself or amuse yourself, usually by behaving in a careless or reckless way, especially when on drugs. English = (be) intoxicated. Idiomatic English = (be) off one's face."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which is strange or foolish, for example because of mental illness or intoxication. English = craziness.",
-    "2. Behaviour which is strange or foolish because of a lack of attention or care; the situation of having a lack of attention, as if thinking of something else. English = recklessness, carelessness; dreaminess.",
-    "3. A time during which you amuse yourself, especially by behaving in a careless or reckless way.",
-    "4. A time during which you amuse yourself, usually behaving in a careless or reckless way, especially when intoxicated or on drugs."
-  ],
   "signNumber": 6278,
   "recordNumber": 3750,
   "signVisualComposition": "",
@@ -70,5 +52,23 @@
   "synonyms": [
     "crazy.2a",
     "crazy.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave in a strange or foolish way, for example because of mental illness or intoxication. English = crazy. Idiomatic English = (be) out of one's mind.",
+    "2. To behave in a strange or foolish way, for example because of lack of attention or care. English = (be) reckless, (be) careless, (be) dreamy.",
+    "3. To enjoy yourself or amuse yourself, especially by behaving in a careless or reckless way. Idiomatic English = have a wild time.",
+    "4. To enjoy yourself or amuse yourself, usually by behaving in a careless or reckless way, especially when on drugs. English = (be) intoxicated. Idiomatic English = (be) off one's face."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which is strange or foolish, for example because of mental illness or intoxication. English = craziness.",
+    "2. Behaviour which is strange or foolish because of a lack of attention or care; the situation of having a lack of attention, as if thinking of something else. English = recklessness, carelessness; dreaminess.",
+    "3. A time during which you amuse yourself, especially by behaving in a careless or reckless way.",
+    "4. A time during which you amuse yourself, usually behaving in a careless or reckless way, especially when intoxicated or on drugs."
+  ],
+  "idGloss": "crazy.3a",
+  "oldEntry": ""
 }

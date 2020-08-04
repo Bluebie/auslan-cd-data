@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pong",
-  "oldentry": "",
   "english": [
     "pong",
     "stink"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a strong or offensive smell. English = stink. Informal English = pong."
-  ],
   "cf": [
     "smell.1a",
     "smell.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An offensive or strong smell. Informal English = pong."
   ],
   "signNumber": 6496,
   "recordNumber": 3868,
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "bad.smell"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a strong or offensive smell. English = stink. Informal English = pong."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An offensive or strong smell. Informal English = pong."
+  ],
+  "idGloss": "pong",
+  "oldEntry": ""
 }

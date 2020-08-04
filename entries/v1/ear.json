@@ -13,25 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ear",
-  "oldentry": "",
   "english": [
     "ear",
     "ear lobe"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "earring.1a",
     "hearing.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The two parts of your body, one on each side of your head, with which most people hear sounds. English = ear, ears.",
-    "2. The soft part at the bottom  of your ears. English = ear lobe.\u0002"
   ],
   "signNumber": 6349,
   "recordNumber": 3793,
@@ -41,5 +30,16 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The two parts of your body, one on each side of your head, with which most people hear sounds. English = ear, ears.",
+    "2. The soft part at the bottom  of your ears. English = ear lobe.\u0002"
+  ],
+  "idGloss": "ear",
+  "oldEntry": ""
 }

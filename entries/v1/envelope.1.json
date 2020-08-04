@@ -12,23 +12,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "envelope.1",
-  "oldentry": "Popular explanation: folding down an envelope.",
   "english": [
     "envelope"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To seal, close or fold down an envelope."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rectangular paper cover in which you send a letter or card to someone through the post. English = envelope."
-  ],
   "signNumber": 4148,
   "recordNumber": 2502,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "envelope.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To seal, close or fold down an envelope."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rectangular paper cover in which you send a letter or card to someone through the post. English = envelope."
+  ],
+  "idGloss": "envelope.1",
+  "oldEntry": "Popular explanation: folding down an envelope."
 }

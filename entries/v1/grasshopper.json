@@ -18,26 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "The handshape on the subordinate hand is unimportant but is usually open and relaxed (as in a Flat handshape) or closed into a fist (as in the Fist handshape).",
-  "genmean": "Any thing or animal which jumps or leaps across the ground, such as an insect, or any thing or action directly or indirectly associated with this, especially a grasshopper or a frog.",
-  "questlex": [],
-  "idgloss": "grasshopper",
-  "oldentry": "",
   "english": [
     "grasshopper",
     "frog"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an insect, to jump along a surface."
-  ],
   "cf": [
     "animal.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An insect which has long back legs and can jump high into the air. They make a high, vibrating sound. English = grasshopper.",
-    "2. A small creature with smooth skin, big eyes, and long back legs which it uses for jumping. It lives near water. English = frog."
   ],
   "signNumber": 1803,
   "recordNumber": 1090,
@@ -51,5 +38,18 @@
     "insect.1a",
     "spider",
     "frog"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an insect, to jump along a surface."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any thing or animal which jumps or leaps across the ground, such as an insect, or any thing or action directly or indirectly associated with this, especially a grasshopper or a frog.",
+  "nominalLexeme": [
+    "1. An insect which has long back legs and can jump high into the air. They make a high, vibrating sound. English = grasshopper.",
+    "2. A small creature with smooth skin, big eyes, and long back legs which it uses for jumping. It lives near water. English = frog."
+  ],
+  "idGloss": "grasshopper",
+  "oldEntry": ""
 }

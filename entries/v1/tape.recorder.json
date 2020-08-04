@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tape.recorder",
-  "oldentry": "Popular explanation: the turning spools of a reel to reel tape recorder.",
   "english": [
     "tape recorder",
     "tape",
     "tape record"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a tape recorder to record sounds on tape. English = tape, tape record."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine that records and plays sounds on tape. English = tape recorder.",
-    "2. Plastic tape made in long strips and covered with a magnetic substance. It is used to record sounds, pictures, and computer information. English = magnetic tape (particularly computers); audio tape (sound only); video tape (pictures and sound)."
-  ],
   "signNumber": 1098,
   "recordNumber": 645,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a tape recorder to record sounds on tape. English = tape, tape record."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine that records and plays sounds on tape. English = tape recorder.",
+    "2. Plastic tape made in long strips and covered with a magnetic substance. It is used to record sounds, pictures, and computer information. English = magnetic tape (particularly computers); audio tape (sound only); video tape (pictures and sound)."
+  ],
+  "idGloss": "tape.recorder",
+  "oldEntry": "Popular explanation: the turning spools of a reel to reel tape recorder."
 }

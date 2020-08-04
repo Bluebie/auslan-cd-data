@@ -18,28 +18,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cap.1a",
-  "oldentry": "Popular explanation: pulling the rim of a hat down.",
   "english": [
     "cap",
     "peaked cap",
     "baseball cap"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a cap or a hat.",
-    "2. Of a cap, to have a pointed or rounded part that sticks out above your eyes. English = (be) peaked.",
-    "3. To wear a peaked cap."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A soft, flat hat which is usually worn by men or boys. English = cap.",
-    "2. A cap that has a pointed or rounded part that sticks out above your eyes. English = peaked cap. American English = baseball cap."
-  ],
   "signNumber": 6064,
   "recordNumber": 3606,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   "antonyms": [],
   "synonyms": [
     "hat.head.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a cap or a hat.",
+    "2. Of a cap, to have a pointed or rounded part that sticks out above your eyes. English = (be) peaked.",
+    "3. To wear a peaked cap."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A soft, flat hat which is usually worn by men or boys. English = cap.",
+    "2. A cap that has a pointed or rounded part that sticks out above your eyes. English = peaked cap. American English = baseball cap."
+  ],
+  "idGloss": "cap.1a",
+  "oldEntry": "Popular explanation: pulling the rim of a hat down."
 }

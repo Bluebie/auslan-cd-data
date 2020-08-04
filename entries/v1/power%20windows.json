@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "power windows",
-  "oldentry": "",
   "english": [
     "power windows"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The passenger windows in a motor vehicle that operate on electric power. English = power windows."
-  ],
   "signNumber": 3578.1,
   "recordNumber": 2100,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The passenger windows in a motor vehicle that operate on electric power. English = power windows."
+  ],
+  "idGloss": "power windows",
+  "oldEntry": ""
 }

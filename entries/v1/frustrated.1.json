@@ -16,24 +16,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "frustrated.1",
-  "oldentry": "",
   "english": [
     "frustration",
     "frustrated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel upset and angry because you are unable to do what you would like to do. English = (be) frustrated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The unpleasant feeling you have when you are upset and angry because you are unable to do what you would like to do. English = frustration."
-  ],
   "signNumber": 1022,
   "recordNumber": 598,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   ],
   "synonyms": [
     "frustrated.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel upset and angry because you are unable to do what you would like to do. English = (be) frustrated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The unpleasant feeling you have when you are upset and angry because you are unable to do what you would like to do. English = frustration."
+  ],
+  "idGloss": "frustrated.1",
+  "oldEntry": ""
 }

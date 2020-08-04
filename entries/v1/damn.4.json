@@ -9,21 +9,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "damn.4",
-  "oldentry": "",
   "english": [
     "damn"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to express regret at not having done something when you had the opportunity to do it. English = 'Oh how stupid of me!', 'I should have done that!', 'I wish I had done that!', 'Damn!'."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6076,
   "recordNumber": 3615,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to express regret at not having done something when you had the opportunity to do it. English = 'Oh how stupid of me!', 'I should have done that!', 'I wish I had done that!', 'Damn!'."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "damn.4",
+  "oldEntry": ""
 }

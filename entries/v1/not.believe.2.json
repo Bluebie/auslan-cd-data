@@ -16,25 +16,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.believe.2",
-  "oldentry": "",
   "english": [
     "disbelief",
     "not believe",
     "disbelieve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not think that something is true; to think that something is false. English = not believe, disbelieve."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The thought that something is not true, or false. English = disbelief."
-  ],
   "signNumber": 5823,
   "recordNumber": 3460,
   "signVisualComposition": "BELIEVE + 'NOT'",
@@ -47,5 +35,17 @@
   ],
   "synonyms": [
     "not.believe.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not think that something is true; to think that something is false. English = not believe, disbelieve."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thought that something is not true, or false. English = disbelief."
+  ],
+  "idGloss": "not.believe.2",
+  "oldEntry": ""
 }

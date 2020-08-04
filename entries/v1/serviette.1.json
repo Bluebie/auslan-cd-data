@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serviette.1",
-  "oldentry": "",
   "english": [
     "serviette",
     "napkin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lay a serviette on your lap."
-  ],
   "cf": [
     "tablecloth",
     "sheet"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A square of cloth or paper that you use to protect your clothes or wipe your mouth when you are eating. English = serviette. American English = napkin."
   ],
   "signNumber": 415,
   "recordNumber": 232,
@@ -48,5 +36,17 @@
   "synonyms": [
     "serviette.2",
     "serviette.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lay a serviette on your lap."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A square of cloth or paper that you use to protect your clothes or wipe your mouth when you are eating. English = serviette. American English = napkin."
+  ],
+  "idGloss": "serviette.1",
+  "oldEntry": ""
 }

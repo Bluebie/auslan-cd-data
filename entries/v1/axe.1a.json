@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "axe.1a",
-  "oldentry": "Popular explanation: a chopping action.",
   "english": [
     "axe",
     "hatchet",
     "chop"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut something into pieces by hitting it with an axe, hatchet or knife. English = axe, chop."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool used for cutting wood. It consists of a blade attached to the end of a long handle, at the side. English = axe.",
-    "2. A small axe. English = hatchet."
-  ],
   "signNumber": 4190,
   "recordNumber": 2536,
   "signVisualComposition": "",
@@ -42,5 +29,18 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut something into pieces by hitting it with an axe, hatchet or knife. English = axe, chop."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool used for cutting wood. It consists of a blade attached to the end of a long handle, at the side. English = axe.",
+    "2. A small axe. English = hatchet."
+  ],
+  "idGloss": "axe.1a",
+  "oldEntry": "Popular explanation: a chopping action."
 }

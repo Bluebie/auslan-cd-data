@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "packet.1",
-  "oldentry": "Popular explanation: indicating the dimensions of a packet.",
   "english": [
     "packet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small container in which a quantity of something is sold, they are usually small boxes made of thin cardboard. English = packet."
-  ],
   "signNumber": 3675,
   "recordNumber": 2164,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "box"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small container in which a quantity of something is sold, they are usually small boxes made of thin cardboard. English = packet."
+  ],
+  "idGloss": "packet.1",
+  "oldEntry": "Popular explanation: indicating the dimensions of a packet."
 }

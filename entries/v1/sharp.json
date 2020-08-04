@@ -16,27 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sharp",
-  "oldentry": "",
   "english": [
     "sharp",
     "sharpen"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a knife etc., to have a very thin edge that is good for cutting things. English = (be) sharp.",
-    "2. To make a knife or other cutting implement sharp. English = sharpen.",
-    "3. Of someone's mind or intelligence, to be very good, clever and quick. English = (be) sharp, (be) quick witted."
-  ],
   "cf": [
     "arrow",
     "knife.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1047,
   "recordNumber": 615,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "antonyms": [
     "blunt"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a knife etc., to have a very thin edge that is good for cutting things. English = (be) sharp.",
+    "2. To make a knife or other cutting implement sharp. English = sharpen.",
+    "3. Of someone's mind or intelligence, to be very good, clever and quick. English = (be) sharp, (be) quick witted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sharp",
+  "oldEntry": ""
 }

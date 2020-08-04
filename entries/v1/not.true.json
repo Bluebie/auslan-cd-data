@@ -21,10 +21,6 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.true",
-  "oldentry": "",
   "english": [
     "falsehood",
     "not true",
@@ -33,18 +29,7 @@
     "unsure"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Not to be based on facts or on things that really have happened but on things which are invented. English = (be) not true, (be) not factual, (be) false.",
-    "2. To have doubts that something is in agreement with the facts, to have doubts that something is true. English = (be) uncertain, (be) unsure."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to deny what someone has said, just short of calling them a liar. English = 'Definitely not!' , 'That's not true!', 'Surely not!', etc."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is not true and not in accordance with the facts. English = falsehood."
-  ],
   "signNumber": 4294,
   "recordNumber": 2613,
   "signVisualComposition": "TRUE + NEGATIVE AFFIX",
@@ -58,5 +43,20 @@
   "synonyms": [
     "liar",
     "false.2a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to deny what someone has said, just short of calling them a liar. English = 'Definitely not!' , 'That's not true!', 'Surely not!', etc."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Not to be based on facts or on things that really have happened but on things which are invented. English = (be) not true, (be) not factual, (be) false.",
+    "2. To have doubts that something is in agreement with the facts, to have doubts that something is true. English = (be) uncertain, (be) unsure."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is not true and not in accordance with the facts. English = falsehood."
+  ],
+  "idGloss": "not.true",
+  "oldEntry": ""
 }

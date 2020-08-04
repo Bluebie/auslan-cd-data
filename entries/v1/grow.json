@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grow",
-  "oldentry": "",
   "english": [
     "growth",
     "growing",
@@ -41,22 +37,9 @@
     "bloom"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of animals, plants, children, ideas, feeling and organisations, to get bigger in size and/or become more important. English = grow, get bigger, mature.",
-    "2. Of plants, to be alive in a particular place and to do well there. English = grow.",
-    "3. Of flowers and flower buds, to appear on a plant and open. English = flower, bloom.",
-    "4. To put seeds or young plants in the ground and look after them as they develop. English = grow, cultivate."
-  ],
   "cf": [
     "spurt",
     "grow.up.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of people, animals, or plants, the process of increasing in size and development. English = growth, growing.",
-    "2. A living thing that grows in the earth and has a stem, leaves, and roots. English =  plant.",
-    "3. The season between winter and summer when the weather begins to get warmer and plants begin to grow again. English = spring."
   ],
   "signNumber": 231,
   "recordNumber": 138,
@@ -66,5 +49,22 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of animals, plants, children, ideas, feeling and organisations, to get bigger in size and/or become more important. English = grow, get bigger, mature.",
+    "2. Of plants, to be alive in a particular place and to do well there. English = grow.",
+    "3. Of flowers and flower buds, to appear on a plant and open. English = flower, bloom.",
+    "4. To put seeds or young plants in the ground and look after them as they develop. English = grow, cultivate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of people, animals, or plants, the process of increasing in size and development. English = growth, growing.",
+    "2. A living thing that grows in the earth and has a stem, leaves, and roots. English =  plant.",
+    "3. The season between winter and summer when the weather begins to get warmer and plants begin to grow again. English = spring."
+  ],
+  "idGloss": "grow",
+  "oldEntry": ""
 }

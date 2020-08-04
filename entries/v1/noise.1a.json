@@ -19,27 +19,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "noise.1a",
-  "oldentry": "",
   "english": [
     "sound",
     "noise",
     "noisy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a noise or a sound.",
-    "2. To be full of a lot of loud noise, often in an unpleasant way. English = (be) noisy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that you hear. English = sound.",
-    "2. A sound that someone or something makes, often loud and unpleasant. English = noise."
-  ],
   "signNumber": 573,
   "recordNumber": 329,
   "signVisualComposition": "",
@@ -54,5 +40,19 @@
   "synonyms": [
     "loud.1a",
     "sound"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a noise or a sound.",
+    "2. To be full of a lot of loud noise, often in an unpleasant way. English = (be) noisy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that you hear. English = sound.",
+    "2. A sound that someone or something makes, often loud and unpleasant. English = noise."
+  ],
+  "idGloss": "noise.1a",
+  "oldEntry": ""
 }

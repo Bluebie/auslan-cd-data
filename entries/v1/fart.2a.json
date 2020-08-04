@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fart.2a",
-  "oldentry": "Popular explanation: something exploding behind oneself.",
   "english": [
     "fart"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To allow air to be forced out of your body through your anus. English = fart."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of forcing air out of your body through your anus, or the (usually foul smelling) air itself. English = fart."
-  ],
   "signNumber": 5711,
   "recordNumber": 3378,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "fart.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To allow air to be forced out of your body through your anus. English = fart."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of forcing air out of your body through your anus, or the (usually foul smelling) air itself. English = fart."
+  ],
+  "idGloss": "fart.2a",
+  "oldEntry": "Popular explanation: something exploding behind oneself."
 }

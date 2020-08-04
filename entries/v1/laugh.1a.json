@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "laugh.1a",
-  "oldentry": "",
   "english": [
     "laughter",
     "mirth",
@@ -42,21 +38,7 @@
     "hilarious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make the sound by which people show that they are happy or amused. English = laugh.",
-    "2. To be happy and joyful and to show it in your behaviour. English = (be) cheerful.",
-    "3. To be funny and make you want to laugh; [especially with stress] to be extremely funny and to make you laugh a lot. English = (be) humorous; (be) hilarious.",
-    "4. [Especially with stress] to laugh very loudly and with great energy. Idiomatic English = roar with laughter, (be) in the aisles laughing."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sounds people make by which they show that they are happy or amused or the action of makings such sounds. English = laughter.",
-    "2. Amusement which you express by laughing. Literary English = mirth.",
-    "3. Something that is funny and makes you want to laugh; a style or type of theatre that is funny. English = humour; comedy.",
-    "4. [Especially with stress] great amusement and laughter. English = hilarity."
-  ],
   "signNumber": 5114,
   "recordNumber": 3088,
   "signVisualComposition": "",
@@ -68,5 +50,23 @@
   "synonyms": [
     "funny.1a",
     "giggle"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make the sound by which people show that they are happy or amused. English = laugh.",
+    "2. To be happy and joyful and to show it in your behaviour. English = (be) cheerful.",
+    "3. To be funny and make you want to laugh; [especially with stress] to be extremely funny and to make you laugh a lot. English = (be) humorous; (be) hilarious.",
+    "4. [Especially with stress] to laugh very loudly and with great energy. Idiomatic English = roar with laughter, (be) in the aisles laughing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sounds people make by which they show that they are happy or amused or the action of makings such sounds. English = laughter.",
+    "2. Amusement which you express by laughing. Literary English = mirth.",
+    "3. Something that is funny and makes you want to laugh; a style or type of theatre that is funny. English = humour; comedy.",
+    "4. [Especially with stress] great amusement and laughter. English = hilarity."
+  ],
+  "idGloss": "laugh.1a",
+  "oldEntry": ""
 }

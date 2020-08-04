@@ -89,6 +89,14 @@ async function run() {
       locsecond: 'secondLocation',
       ant: 'antonyms',
       syn: 'synonyms',
+      interj: 'interjection',
+      partlex: 'particleLexeme',
+      verblex: 'verbLexeme',
+      questlex: 'questionLexeme',
+      genmean: 'genitiveClassifiers',
+      nomlex: 'nominalLexeme',
+      idgloss: 'idGloss',
+      oldentry: 'oldEntry',
     })
 
     let json = {
@@ -96,7 +104,7 @@ async function run() {
       ...entry,
     }
     // write out a json file
-    await fs.writeJSON(`./entries/${version}/${encodeURIComponent(entry.idgloss)}.json`, json, {
+    await fs.writeJSON(`./entries/${version}/${encodeURIComponent(entry.idGloss)}.json`, json, {
       spaces: 2,
     })
   }

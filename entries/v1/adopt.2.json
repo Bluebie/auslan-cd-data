@@ -18,27 +18,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "adopt.2",
-  "oldentry": "",
   "english": [
     "adoption",
     "adopt",
     "adopted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take a child into your own family and make it legally your son or daughter. English = adopt.",
-    "2. To be taken into a family to which you are not biologically related and to be legally made a son or daughter of that family. English = (be) adopted."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process by which a child is taken into a family to which it is not biologically related and legally made a son or daughter of that family. English = adoption.",
-    "2. A child who has been taken into a family to which it is not biologically related and legally made a son or daughter."
-  ],
   "signNumber": 2767,
   "recordNumber": 1548,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "synonyms": [
     "adopt.1",
     "scavenge"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take a child into your own family and make it legally your son or daughter. English = adopt.",
+    "2. To be taken into a family to which you are not biologically related and to be legally made a son or daughter of that family. English = (be) adopted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process by which a child is taken into a family to which it is not biologically related and legally made a son or daughter of that family. English = adoption.",
+    "2. A child who has been taken into a family to which it is not biologically related and legally made a son or daughter."
+  ],
+  "idGloss": "adopt.2",
+  "oldEntry": ""
 }

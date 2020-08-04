@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boat.sink",
-  "oldentry": "",
   "english": [
     "sink"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a boat, to stop floating and to move slowly downwards below the level of the water. English = sink."
-  ],
   "cf": [
     "boat.1a",
     "sink.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4075.1,
   "recordNumber": 2443,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a boat, to stop floating and to move slowly downwards below the level of the water. English = sink."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "boat.sink",
+  "oldEntry": ""
 }

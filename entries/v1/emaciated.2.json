@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emaciated.2",
-  "oldentry": "",
   "english": [
     "emaciated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very thin and weak, especially because of illness or lack of food. English = (be) emaciated."
-  ],
   "cf": [
     "pole.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 398,
   "recordNumber": 217,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
     "thin.1",
     "skinny",
     "thin.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very thin and weak, especially because of illness or lack of food. English = (be) emaciated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "emaciated.2",
+  "oldEntry": ""
 }

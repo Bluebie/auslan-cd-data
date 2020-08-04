@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suspicion.1a",
-  "oldentry": "",
   "english": [
     "suspicion",
     "invention",
@@ -36,17 +32,7 @@
     "improvise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lack trust in someone or to think that something is wrong in some way; to feel that something is probably true (especially someone's guilt) or is likely to happen. English = suspect.",
-    "2. To come up with ideas about something, especially new and creative ones. English = invent, create, improvise."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling that you do not trust someone or that something is wrong in some way; a feeling that something is probably true (especially if it involves the guilt of someone) or is likely to happen. English = suspicion.",
-    "2. The act of coming up with ideas about something, particularly new and creative ones. English = invention, creation, improvisation."
-  ],
   "signNumber": 515,
   "recordNumber": 287,
   "signVisualComposition": "",
@@ -57,5 +43,19 @@
   "antonyms": [],
   "synonyms": [
     "suspicion.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lack trust in someone or to think that something is wrong in some way; to feel that something is probably true (especially someone's guilt) or is likely to happen. English = suspect.",
+    "2. To come up with ideas about something, especially new and creative ones. English = invent, create, improvise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling that you do not trust someone or that something is wrong in some way; a feeling that something is probably true (especially if it involves the guilt of someone) or is likely to happen. English = suspicion.",
+    "2. The act of coming up with ideas about something, particularly new and creative ones. English = invention, creation, improvisation."
+  ],
+  "idGloss": "suspicion.1a",
+  "oldEntry": ""
 }

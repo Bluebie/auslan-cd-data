@@ -14,25 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tea.1a",
-  "oldentry": "Popular explanation: drinking tea from a teacup and saucer.",
   "english": [
     "tea"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drink tea.",
-    "2. To drink using a teacup, or any fine piece of crockery."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A drink made with hot water and the chopped, dried leaves of a particular bush. Milk and sugar are often added to the drink. English = tea.",
-    "2. A cup of tea, or a cup of any other drinks made with hot water and leaves or flowers."
-  ],
   "signNumber": 479,
   "recordNumber": 265,
   "signVisualComposition": "",
@@ -41,5 +27,19 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drink tea.",
+    "2. To drink using a teacup, or any fine piece of crockery."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A drink made with hot water and the chopped, dried leaves of a particular bush. Milk and sugar are often added to the drink. English = tea.",
+    "2. A cup of tea, or a cup of any other drinks made with hot water and leaves or flowers."
+  ],
+  "idGloss": "tea.1a",
+  "oldEntry": "Popular explanation: drinking tea from a teacup and saucer."
 }

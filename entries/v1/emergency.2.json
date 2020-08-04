@@ -16,23 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emergency.2",
-  "oldentry": "",
   "english": [
     "emergency",
     "ambulance"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An unexpected or dangerous situation, which must be dealt with immediately. English = emergency",
-    "2. A vehicle for taking people to and from hospital. English = ambulance"
-  ],
   "signNumber": 954,
   "recordNumber": 550,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
     "emergency.1",
     "emergency.2",
     "ambulance"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An unexpected or dangerous situation, which must be dealt with immediately. English = emergency",
+    "2. A vehicle for taking people to and from hospital. English = ambulance"
+  ],
+  "idGloss": "emergency.2",
+  "oldEntry": ""
 }

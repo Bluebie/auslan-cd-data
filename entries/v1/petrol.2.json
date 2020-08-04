@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "SMELL + PETROL",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "petrol.2",
-  "oldentry": "",
   "english": [
     "petrol",
     "gasoline"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To smell strongly of petrol."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A liquid which is used as a fuel for motor vehicles. English = petrol. American English = gasoline.",
-    "2. The smell or the fumes that come from petrol."
-  ],
   "signNumber": 1898,
   "recordNumber": 1135,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "antonyms": [],
   "synonyms": [
     "petrol.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To smell strongly of petrol."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A liquid which is used as a fuel for motor vehicles. English = petrol. American English = gasoline.",
+    "2. The smell or the fumes that come from petrol."
+  ],
+  "idGloss": "petrol.2",
+  "oldEntry": ""
 }

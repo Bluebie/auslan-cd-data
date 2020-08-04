@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "personality",
-  "oldentry": "",
   "english": [
     "personality"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person's whole character and nature. English = personality."
-  ],
   "signNumber": 1819,
   "recordNumber": 1095,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 13,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person's whole character and nature. English = personality."
+  ],
+  "idGloss": "personality",
+  "oldEntry": ""
 }

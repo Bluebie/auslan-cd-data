@@ -11,24 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overnight.1a",
-  "oldentry": "",
   "english": [
     "overnight"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stay somewhere for all of one night; to stay overnight.",
-    "2. To happen or take place during all of one night, to happen overnight."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action happens during all of the night. English = overnight."
-  ],
-  "nomlex": [],
   "signNumber": 3559,
   "recordNumber": 2087,
   "signVisualComposition": "",
@@ -37,5 +24,18 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action happens during all of the night. English = overnight."
+  ],
+  "verbLexeme": [
+    "1. To stay somewhere for all of one night; to stay overnight.",
+    "2. To happen or take place during all of one night, to happen overnight."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "overnight.1a",
+  "oldEntry": ""
 }

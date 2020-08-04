@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "leather.1",
-  "oldentry": "",
   "english": [
     "leather"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The specially treated skin of animals. It is used for making shoes, clothes, bags, and furniture. English = leather."
-  ],
   "signNumber": 4920,
   "recordNumber": 2974,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The specially treated skin of animals. It is used for making shoes, clothes, bags, and furniture. English = leather."
+  ],
+  "idGloss": "leather.1",
+  "oldEntry": ""
 }

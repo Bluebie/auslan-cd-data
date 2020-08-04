@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "foul",
-  "oldentry": "Popular explanation: the foot over the line.",
   "english": [
     "foul"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something which is against the rules in a game or sport; to make a foul."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action which is against the rules in a game or sport. English = foul."
-  ],
   "signNumber": 3989,
   "recordNumber": 2386,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something which is against the rules in a game or sport; to make a foul."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action which is against the rules in a game or sport. English = foul."
+  ],
+  "idGloss": "foul",
+  "oldEntry": "Popular explanation: the foot over the line."
 }

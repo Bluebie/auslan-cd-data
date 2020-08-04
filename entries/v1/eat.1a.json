@@ -17,28 +17,15 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eat.1a",
-  "oldentry": "Popular explanation: putting food in the mouth by hand.",
   "english": [
     "food",
     "meal",
     "eat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something in your mouth, chew it, and swallow it. English = eat."
-  ],
   "cf": [
     "grapes.1a",
     "take.tablet.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Things which you can put into your mouth, chew and then swallow. English = food.",
-    "2. An occasion when people eat or the quantity of food that they eat on that occasion. English = meal."
   ],
   "signNumber": 50,
   "recordNumber": 29,
@@ -48,5 +35,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put something in your mouth, chew it, and swallow it. English = eat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Things which you can put into your mouth, chew and then swallow. English = food.",
+    "2. An occasion when people eat or the quantity of food that they eat on that occasion. English = meal."
+  ],
+  "idGloss": "eat.1a",
+  "oldEntry": "Popular explanation: putting food in the mouth by hand."
 }

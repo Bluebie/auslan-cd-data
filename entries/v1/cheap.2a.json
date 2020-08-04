@@ -14,22 +14,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cheap.2a",
-  "oldentry": "",
   "english": [
     "cheap",
     "inexpensive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cost less money than usual. English = (be) cheap, (be) inexpensive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5266,
   "recordNumber": 3160,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   ],
   "synonyms": [
     "cheap.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cost less money than usual. English = (be) cheap, (be) inexpensive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cheap.2a",
+  "oldEntry": ""
 }

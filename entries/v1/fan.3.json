@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fan.3",
-  "oldentry": "",
   "english": [
     "fan",
     "ceiling fan"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of electrical equipment attached to the ceiling in a room. It hangs down and has revolving blades which move the air and keep the room cool. English = ceiling fan."
-  ],
   "signNumber": 486,
   "recordNumber": 270,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of electrical equipment attached to the ceiling in a room. It hangs down and has revolving blades which move the air and keep the room cool. English = ceiling fan."
+  ],
+  "idGloss": "fan.3",
+  "oldEntry": ""
 }

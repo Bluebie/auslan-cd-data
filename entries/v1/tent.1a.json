@@ -16,26 +16,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tent.1a",
-  "oldentry": "Popular explanation: the outline of a tent.",
   "english": [
     "tent",
     "camping"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pitch a tent.",
-    "2. To go camping."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shelter made of canvas or nylon, which you sleep in when you are camping. It is held up by poles and ropes. English = tent.",
-    "2. The activity of travelling in the countryside and staying overnight in tents. English = camping."
-  ],
   "signNumber": 2023,
   "recordNumber": 1185,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "antonyms": [],
   "synonyms": [
     "wear.backpack"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pitch a tent.",
+    "2. To go camping."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shelter made of canvas or nylon, which you sleep in when you are camping. It is held up by poles and ropes. English = tent.",
+    "2. The activity of travelling in the countryside and staying overnight in tents. English = camping."
+  ],
+  "idGloss": "tent.1a",
+  "oldEntry": "Popular explanation: the outline of a tent."
 }

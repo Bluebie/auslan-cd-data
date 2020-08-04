@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "travel",
-  "oldentry": "",
   "english": [
     "travelling",
     "travels",
@@ -35,19 +31,8 @@
     "commute"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go to one place from another, usually repeatedly, or to go to several places, also usually repeatedly. English = travel.",
-    "2. To travel a long distance every day between your home and your place of work. English = commute."
-  ],
   "cf": [
     "far.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity of moving back and forth between two or many different places, especially for pleasure. English = travelling.",
-    "2. The journeys that someone makes to places a long way from their home. English = travels.",
-    "3. A person who travels a long distance every day between home and place of work. English = commuter."
   ],
   "signNumber": 5239,
   "recordNumber": 3145,
@@ -61,5 +46,20 @@
     "tour",
     "tour.country",
     "return.journey"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go to one place from another, usually repeatedly, or to go to several places, also usually repeatedly. English = travel.",
+    "2. To travel a long distance every day between your home and your place of work. English = commute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity of moving back and forth between two or many different places, especially for pleasure. English = travelling.",
+    "2. The journeys that someone makes to places a long way from their home. English = travels.",
+    "3. A person who travels a long distance every day between home and place of work. English = commuter."
+  ],
+  "idGloss": "travel",
+  "oldEntry": ""
 }

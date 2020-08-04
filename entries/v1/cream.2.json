@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cream.2",
-  "oldentry": "",
   "english": [
     "cream"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick, yellowish-white liquid that is taken from milk. You can use it in cooking or pour it on fruit or puddings. English = cream."
-  ],
   "signNumber": 1944,
   "recordNumber": 1160,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "cream.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thick, yellowish-white liquid that is taken from milk. You can use it in cooking or pour it on fruit or puddings. English = cream."
+  ],
+  "idGloss": "cream.2",
+  "oldEntry": ""
 }

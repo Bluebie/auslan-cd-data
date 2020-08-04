@@ -21,30 +21,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "give.lift.1a",
-  "oldentry": "",
   "english": [
     "lift",
     "chairlift"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel seated in a vehicle, such as a train, car or bus; to ride in a train, car or bus.",
-    "2. To give someone a lift in a vehicle.",
-    "3. To ride on a chairlift."
-  ],
   "cf": [
     "hitch-hike",
     "chair.2a",
     "passenger.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A ride from one place to another in a car or truck which someone offers you for free. English = lift.",
-    "2. A line of chairs that hang from a moving cable and carry people up or down a mountain or other steep slope. English = chairlift."
   ],
   "signNumber": 3883,
   "recordNumber": 2309,
@@ -56,5 +41,20 @@
   "antonyms": [],
   "synonyms": [
     "ride"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel seated in a vehicle, such as a train, car or bus; to ride in a train, car or bus.",
+    "2. To give someone a lift in a vehicle.",
+    "3. To ride on a chairlift."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A ride from one place to another in a car or truck which someone offers you for free. English = lift.",
+    "2. A line of chairs that hang from a moving cable and carry people up or down a mountain or other steep slope. English = chairlift."
+  ],
+  "idGloss": "give.lift.1a",
+  "oldEntry": ""
 }

@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "newsagent",
-  "oldentry": "",
   "english": [
     "newsagent"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "newspaper.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shop which sells newspapers and magazines, and often cigarettes, sweets, and stationery. English = newsagent, newsagent's."
   ],
   "signNumber": 5787,
   "recordNumber": 3431,
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shop which sells newspapers and magazines, and often cigarettes, sweets, and stationery. English = newsagent, newsagent's."
+  ],
+  "idGloss": "newsagent",
+  "oldEntry": ""
 }

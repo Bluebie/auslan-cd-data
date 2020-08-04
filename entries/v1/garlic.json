@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "garlic",
-  "oldentry": "Popular explanation: from the mouth.",
   "english": [
     "garlic",
     "bad breath"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a strong or foul-smelling breath, to have bad breath."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The small round white bulb of an onion-like plant. It has a very strong smell and taste and is used in cooking. English = garlic.",
-    "2. Breath which smells bad, bad breath."
-  ],
   "signNumber": 2461,
   "recordNumber": 1368,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a strong or foul-smelling breath, to have bad breath."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The small round white bulb of an onion-like plant. It has a very strong smell and taste and is used in cooking. English = garlic.",
+    "2. Breath which smells bad, bad breath."
+  ],
+  "idGloss": "garlic",
+  "oldEntry": "Popular explanation: from the mouth."
 }

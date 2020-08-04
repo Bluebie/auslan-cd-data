@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "LIST + C",
   "queries": "Some signers use the Cup handshape (the ASL letter 'c') instead with or without the palms also facing each other.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chapter",
-  "oldentry": "",
   "english": [
     "chapter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "list.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the parts that a book is divided into. English = chapter."
   ],
   "signNumber": 5408,
   "recordNumber": 3227,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the parts that a book is divided into. English = chapter."
+  ],
+  "idGloss": "chapter",
+  "oldEntry": ""
 }

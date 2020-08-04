@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cover.1a",
-  "oldentry": "Popular explanation: one things covers another.",
   "english": [
     "cover",
     "lid",
@@ -36,20 +32,8 @@
     "cover up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To place something over another thing in order to protect or hide it. English = cover.",
-    "2. To form a layer over something. English = cover, envelope.",
-    "3. To hide things from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
-  ],
   "cf": [
     "grave"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thing which is placed over another thing to hide or protect it. English = cover, lid, covering.",
-    "2. A large flat surface of something this is on top of something else. English = layer.",
-    "3. An attempt to hide things and information from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
   ],
   "signNumber": 4063,
   "recordNumber": 2432,
@@ -61,5 +45,21 @@
   "antonyms": [],
   "synonyms": [
     "cover.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To place something over another thing in order to protect or hide it. English = cover.",
+    "2. To form a layer over something. English = cover, envelope.",
+    "3. To hide things from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing which is placed over another thing to hide or protect it. English = cover, lid, covering.",
+    "2. A large flat surface of something this is on top of something else. English = layer.",
+    "3. An attempt to hide things and information from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
+  ],
+  "idGloss": "cover.1a",
+  "oldEntry": "Popular explanation: one things covers another."
 }

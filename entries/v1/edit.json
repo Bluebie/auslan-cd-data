@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as joining streamers and, particularly, splicing film together in order to edit it.",
-  "questlex": [],
-  "idgloss": "edit",
-  "oldentry": "",
   "english": [
     "edit",
     "splice"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To choose some material that has been filmed or recorded and arrange it in a particular order. English = edit.",
-    "2. To join two pieces of film or tape together neatly at the ends so that they make one long continuous piece. English = splice."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2083,
   "recordNumber": 1209,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To choose some material that has been filmed or recorded and arrange it in a particular order. English = edit.",
+    "2. To join two pieces of film or tape together neatly at the ends so that they make one long continuous piece. English = splice."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as joining streamers and, particularly, splicing film together in order to edit it.",
+  "nominalLexeme": [],
+  "idGloss": "edit",
+  "oldEntry": ""
 }

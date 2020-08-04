@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wide",
-  "oldentry": "Popular explanation: moving the sides of something apart.",
   "english": [
     "width",
     "widen",
@@ -32,17 +28,8 @@
     "broad"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something measure more from side to side. English = widen.",
-    "2. To measure a large distance from one side to another. English = (be) wide, (be) broad."
-  ],
   "cf": [
     "big.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The measure of the distance from one side of an object to the other, the measure of the narrowness or width of something. English = width."
   ],
   "signNumber": 3778,
   "recordNumber": 2236,
@@ -56,5 +43,18 @@
   ],
   "synonyms": [
     "broad.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something measure more from side to side. English = widen.",
+    "2. To measure a large distance from one side to another. English = (be) wide, (be) broad."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The measure of the distance from one side of an object to the other, the measure of the narrowness or width of something. English = width."
+  ],
+  "idGloss": "wide",
+  "oldEntry": "Popular explanation: moving the sides of something apart."
 }

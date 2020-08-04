@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "overalls",
-  "oldentry": "Popular explanation: pressing together the fasteners on a pair of overalls.",
   "english": [
     "overalls",
     "boiler suit"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing consisting of trousers and a top that are joined together in one piece, which people wear when they are working in order to keep their ordinary clothes clean. English = overalls, boiler suit."
-  ],
   "signNumber": 4823,
   "recordNumber": 2912,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing consisting of trousers and a top that are joined together in one piece, which people wear when they are working in order to keep their ordinary clothes clean. English = overalls, boiler suit."
+  ],
+  "idGloss": "overalls",
+  "oldEntry": "Popular explanation: pressing together the fasteners on a pair of overalls."
 }

@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stay.1a",
-  "oldentry": "",
   "english": [
     "stay",
     "remain",
@@ -45,23 +41,8 @@
     "stop dead"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To continue to be somewhere and not move away. English = stay, remain. Idiomatic English = stay put.",
-    "2. To be in a place, not move away, and not move at all. English = keep still, (be) still, (be) motionless.",
-    "3. To suddenly stop moving and remain still in one place. Idiomatic English = stop dead, freeze.",
-    "4. To continue to happen or exist for a long time. Formal (religious) English = abide."
-  ],
   "cf": [
     "wait.1"
-  ],
-  "interj": [
-    "1. Used alone to tell someone not to move or to leave a place. English = 'Stay there!', 'Don't move!', 'Keep still!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of continuing to be somewhere without moving away.",
-    "2. The act of being in a place, not moving away, and not moving at all.",
-    "3. The act of suddenly stopping any movement and remaining still in one place. Idiomatic English = freezing."
   ],
   "signNumber": 1455,
   "recordNumber": 868,
@@ -76,5 +57,24 @@
   ],
   "synonyms": [
     "remain.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone not to move or to leave a place. English = 'Stay there!', 'Don't move!', 'Keep still!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To continue to be somewhere and not move away. English = stay, remain. Idiomatic English = stay put.",
+    "2. To be in a place, not move away, and not move at all. English = keep still, (be) still, (be) motionless.",
+    "3. To suddenly stop moving and remain still in one place. Idiomatic English = stop dead, freeze.",
+    "4. To continue to happen or exist for a long time. Formal (religious) English = abide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of continuing to be somewhere without moving away.",
+    "2. The act of being in a place, not moving away, and not moving at all.",
+    "3. The act of suddenly stopping any movement and remaining still in one place. Idiomatic English = freezing."
+  ],
+  "idGloss": "stay.1a",
+  "oldEntry": ""
 }

@@ -10,22 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "many.prior",
-  "oldentry": "",
   "english": [
     "prior"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to mean that an action begins at some time, before some other time, and extends up to that time. It involves either many actors, many entities of some kind, or many units of time (days, weeks, etc.).",
-    "2. Used to mean that an action began at some time in the past, before some other time, and extended up to that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.)."
-  ],
-  "nomlex": [],
   "signNumber": 2823,
   "recordNumber": 1584,
   "signVisualComposition": "",
@@ -34,5 +23,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to mean that an action begins at some time, before some other time, and extends up to that time. It involves either many actors, many entities of some kind, or many units of time (days, weeks, etc.).",
+    "2. Used to mean that an action began at some time in the past, before some other time, and extended up to that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "many.prior",
+  "oldEntry": ""
 }

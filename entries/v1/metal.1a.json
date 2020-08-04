@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "It appears that this sign has evolved from tapping the fingertip on the teeth. Today the normal form is made by tapping the chin.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "metal.1a",
-  "oldentry": "Popular explanation: something hard, like the teeth.",
   "english": [
     "rock",
     "stone",
@@ -43,21 +39,8 @@
     "rocky"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a thing, to be extremely hard or rigid. English = (be) rock hard.",
-    "2. To be made of metal; to look and sound like metal. English = (be) metallic.",
-    "3. Of ground, to be rough and to contain a lot of stones or rocks. English = stony, rocky."
-  ],
   "cf": [
     "berry"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hard, rigid substance.",
-    "2. A hard substance such as iron, steel, copper, or lead. English = metal.",
-    "3. The hard substance which the earth is made of. It often sticks out of the ground or the sea. It is often used for building houses. English = stone, rock.",
-    "4. In golf, a club that has a head is made of metal rather than wood. English = iron."
   ],
   "signNumber": 1399,
   "recordNumber": 831,
@@ -70,5 +53,22 @@
   "synonyms": [
     "knob.1a",
     "solid"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a thing, to be extremely hard or rigid. English = (be) rock hard.",
+    "2. To be made of metal; to look and sound like metal. English = (be) metallic.",
+    "3. Of ground, to be rough and to contain a lot of stones or rocks. English = stony, rocky."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hard, rigid substance.",
+    "2. A hard substance such as iron, steel, copper, or lead. English = metal.",
+    "3. The hard substance which the earth is made of. It often sticks out of the ground or the sea. It is often used for building houses. English = stone, rock.",
+    "4. In golf, a club that has a head is made of metal rather than wood. English = iron."
+  ],
+  "idGloss": "metal.1a",
+  "oldEntry": "Popular explanation: something hard, like the teeth."
 }

@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "educate.1a",
-  "oldentry": "Popular explanation: take from one mind and put into another.",
   "english": [
     "teaching",
     "instruction",
@@ -44,21 +40,8 @@
     "educational"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give someone instructions about something so that they know about it or know how to do it. English = teach, instruct.",
-    "2. To help students learn about something in a school, college or university. English = teach, educate.",
-    "3. To help someone become better at a particular sport or subject. English = coach.",
-    "4. Concerned with or related to education, or to be something you could learn from. English = (be) educational."
-  ],
   "cf": [
     "discipline"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The work of a teacher or instructor. English = teaching, instruction.",
-    "2. Helping students learn about various subjects in a school, college or university. English = education.",
-    "3. Someone who helps a person or a group of people become better at a particular sport or subject. English = coach."
   ],
   "signNumber": 115,
   "recordNumber": 60,
@@ -70,5 +53,22 @@
   "antonyms": [],
   "synonyms": [
     "teach"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give someone instructions about something so that they know about it or know how to do it. English = teach, instruct.",
+    "2. To help students learn about something in a school, college or university. English = teach, educate.",
+    "3. To help someone become better at a particular sport or subject. English = coach.",
+    "4. Concerned with or related to education, or to be something you could learn from. English = (be) educational."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The work of a teacher or instructor. English = teaching, instruction.",
+    "2. Helping students learn about various subjects in a school, college or university. English = education.",
+    "3. Someone who helps a person or a group of people become better at a particular sport or subject. English = coach."
+  ],
+  "idGloss": "educate.1a",
+  "oldEntry": "Popular explanation: take from one mind and put into another."
 }

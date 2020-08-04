@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lolly",
-  "oldentry": "",
   "english": [
     "lolly",
     "sweets",
     "candy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "chocolate.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Food that contains a lot of sugar or is covered with sugar and is eaten for enjoyment, especially by children. Examples include toffees, chocolates, mints, and so on. English = lolly, lollies (Australian), sweets (British), candy (American)."
   ],
   "signNumber": 595,
   "recordNumber": 343,
@@ -39,5 +29,15 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Food that contains a lot of sugar or is covered with sugar and is eaten for enjoyment, especially by children. Examples include toffees, chocolates, mints, and so on. English = lolly, lollies (Australian), sweets (British), candy (American)."
+  ],
+  "idGloss": "lolly",
+  "oldEntry": ""
 }

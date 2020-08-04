@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lazy.2",
-  "oldentry": "",
   "english": [
     "laziness",
     "idleness",
@@ -37,17 +33,7 @@
     "bludge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do nothing, especially when other people are working and when you are expected to work also. English = (be) lazy, (be) idle.",
-    "2. Of a person, to evade responsibilities or work. English = bludge."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The avoidance of physical work. English = laziness, idleness.",
-    "2. A lazy or irresponsible person. Used to show disapproval. English = good-for-nothing. Informal English = bludger."
-  ],
   "signNumber": 6559,
   "recordNumber": 3909,
   "signVisualComposition": "",
@@ -59,5 +45,19 @@
   "synonyms": [
     "lazy.1",
     "lazy.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do nothing, especially when other people are working and when you are expected to work also. English = (be) lazy, (be) idle.",
+    "2. Of a person, to evade responsibilities or work. English = bludge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The avoidance of physical work. English = laziness, idleness.",
+    "2. A lazy or irresponsible person. Used to show disapproval. English = good-for-nothing. Informal English = bludger."
+  ],
+  "idGloss": "lazy.2",
+  "oldEntry": ""
 }

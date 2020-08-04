@@ -14,24 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tape.measure",
-  "oldentry": "Popular explanation: using a tape measure.",
   "english": [
     "tape measure"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To measure something using a tape measure.",
-    "2. To measure something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strip of plastic or cloth with centimetres or inches marked on it. You use it for measuring things. English = tape measure."
-  ],
   "signNumber": 6199,
   "recordNumber": 3703,
   "signVisualComposition": "",
@@ -42,5 +29,18 @@
   "antonyms": [],
   "synonyms": [
     "tape.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To measure something using a tape measure.",
+    "2. To measure something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strip of plastic or cloth with centimetres or inches marked on it. You use it for measuring things. English = tape measure."
+  ],
+  "idGloss": "tape.measure",
+  "oldEntry": "Popular explanation: using a tape measure."
 }

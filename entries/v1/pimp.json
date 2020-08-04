@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pimp",
-  "oldentry": "",
   "english": [
     "pimp",
     "blabbermouth",
@@ -30,15 +26,7 @@
     "inform on"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people in authority about the goings on of your peers when they involve either secrets or wrong-doings such as the breaking of rules, regulations or laws. English = pimp, blab, tell tales, inform on."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who betrays the trust of others by telling people in authority about the goings on of their peers when they involve either secrets or wrong-doings such as the breaking of rules, regulations or laws. English = pimp, blabbermouth, informant."
-  ],
   "signNumber": 3301,
   "recordNumber": 1927,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "antonyms": [],
   "synonyms": [
     "gossip.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people in authority about the goings on of your peers when they involve either secrets or wrong-doings such as the breaking of rules, regulations or laws. English = pimp, blab, tell tales, inform on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who betrays the trust of others by telling people in authority about the goings on of their peers when they involve either secrets or wrong-doings such as the breaking of rules, regulations or laws. English = pimp, blabbermouth, informant."
+  ],
+  "idGloss": "pimp",
+  "oldEntry": ""
 }

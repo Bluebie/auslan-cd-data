@@ -16,23 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "uncle.1",
-  "oldentry": "",
   "english": [
     "uncle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cousin",
     "father.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The brother of your mother or father, or the husband of your aunt. English = uncle."
   ],
   "signNumber": 5007,
   "recordNumber": 3019,
@@ -48,5 +38,15 @@
   ],
   "synonyms": [
     "uncle.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The brother of your mother or father, or the husband of your aunt. English = uncle."
+  ],
+  "idGloss": "uncle.1",
+  "oldEntry": ""
 }

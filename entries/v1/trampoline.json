@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of jumping up an down on a surface, or any action or thing directly or indirectly associated with this, especially a trampoline.",
-  "questlex": [],
-  "idgloss": "trampoline",
-  "oldentry": "Popular explanation: someone jumping on a trampoline.",
   "english": [
     "trampoline"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "thrilled"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An apparatus on which you can do acrobatic jumps. It consists of a large piece of strong cloth held by springs in a frame. English = trampoline."
   ],
   "signNumber": 1707,
   "recordNumber": 1020,
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of jumping up an down on a surface, or any action or thing directly or indirectly associated with this, especially a trampoline.",
+  "nominalLexeme": [
+    "1. An apparatus on which you can do acrobatic jumps. It consists of a large piece of strong cloth held by springs in a frame. English = trampoline."
+  ],
+  "idGloss": "trampoline",
+  "oldEntry": "Popular explanation: someone jumping on a trampoline."
 }

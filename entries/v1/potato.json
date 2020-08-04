@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "potato",
-  "oldentry": "Popular explanation: peeling a potato.",
   "english": [
     "potato"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "peel"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A round white vegetable with a brown or red skin. It grows underground. English = potato."
   ],
   "signNumber": 1494,
   "recordNumber": 891,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A round white vegetable with a brown or red skin. It grows underground. English = potato."
+  ],
+  "idGloss": "potato",
+  "oldEntry": "Popular explanation: peeling a potato."
 }

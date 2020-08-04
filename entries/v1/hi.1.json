@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hi.1",
-  "oldentry": "",
   "english": [
     "hi",
     "hello"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to greet someone in an informal way. English = 'Hi!', 'Hello!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3141.1,
   "recordNumber": 1818,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "hello.1a",
     "hello.3"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to greet someone in an informal way. English = 'Hi!', 'Hello!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hi.1",
+  "oldEntry": ""
 }

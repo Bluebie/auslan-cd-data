@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "alcohol",
-  "oldentry": "",
   "english": [
     "alcohol"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Drink such as beer, wine, and whisky that can make people drunk. English = alcohol."
-  ],
   "signNumber": 1150,
   "recordNumber": 676,
   "signVisualComposition": "A + A",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Drink such as beer, wine, and whisky that can make people drunk. English = alcohol."
+  ],
+  "idGloss": "alcohol",
+  "oldEntry": ""
 }

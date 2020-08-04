@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "A stressed form of this, reported by informants from South Australia, has the Spread (5) handshape closing to a Fist handshape.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "laborious.1a",
-  "oldentry": "",
   "english": [
     "labour",
     "toil",
@@ -35,18 +31,7 @@
     "effort"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work hard or a lot, to make an effort.",
-    "2. Of an action or job, to require or take a lot of effort to do. English = (be) laborious.",
-    "3. Of a person, to be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or job that requires an unusual amount of physical or mental energy to do it. English = effort.",
-    "2. Physical or mental work which is difficult and very hard, even painful. English = labour, toil, exertion. Formal English = travail."
-  ],
   "signNumber": 4184,
   "recordNumber": 2531,
   "signVisualComposition": "",
@@ -58,5 +43,20 @@
   "synonyms": [
     "busy.1",
     "busy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work hard or a lot, to make an effort.",
+    "2. Of an action or job, to require or take a lot of effort to do. English = (be) laborious.",
+    "3. Of a person, to be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or job that requires an unusual amount of physical or mental energy to do it. English = effort.",
+    "2. Physical or mental work which is difficult and very hard, even painful. English = labour, toil, exertion. Formal English = travail."
+  ],
+  "idGloss": "laborious.1a",
+  "oldEntry": ""
 }

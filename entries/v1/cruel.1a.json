@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cruel.1a",
-  "oldentry": "",
   "english": [
     "cruelty",
     "abuse",
@@ -38,18 +34,7 @@
     "vicious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave in a way that deliberately causes pain or distress to people or animals. English = (be) cruel.",
-    "2. To be the kind of attitude or action in which people all want the same thing and do not care if they harm each other in getting it. English = (be) cutthroat, (be) ruthless.",
-    "3. To be cruel and violent. English = (be) vicious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour that deliberately causes pain or distress to people or animals. English = cruelty, abuse, harshness.",
-    "2. The kind of attitude or action in which people all want the same thing and do not care if they harm each other in getting it. English = ruthlessness."
-  ],
   "signNumber": 652,
   "recordNumber": 380,
   "signVisualComposition": "",
@@ -62,5 +47,20 @@
   ],
   "synonyms": [
     "cruel.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave in a way that deliberately causes pain or distress to people or animals. English = (be) cruel.",
+    "2. To be the kind of attitude or action in which people all want the same thing and do not care if they harm each other in getting it. English = (be) cutthroat, (be) ruthless.",
+    "3. To be cruel and violent. English = (be) vicious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour that deliberately causes pain or distress to people or animals. English = cruelty, abuse, harshness.",
+    "2. The kind of attitude or action in which people all want the same thing and do not care if they harm each other in getting it. English = ruthlessness."
+  ],
+  "idGloss": "cruel.1a",
+  "oldEntry": ""
 }

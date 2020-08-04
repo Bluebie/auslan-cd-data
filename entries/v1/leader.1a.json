@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "leader.1a",
-  "oldentry": "Popular explanation: one hand leads the other.",
   "english": [
     "leader",
     "guide",
@@ -33,20 +29,7 @@
     "lead"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take someone somewhere. English = lead, guide.",
-    "2. To be in control of an activity or organisation. English = lead.",
-    "3. To make sure someone goes in the right direction. English = guide.",
-    "4. To take someone to a place and show it to them. English = guide."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who takes a person or group of people somewhere. English = leader, guide.",
-    "2. A person who controls and guides an activity or organisation. English = leader.",
-    "3. The qualities of a good leader. English =  leadership."
-  ],
   "signNumber": 216,
   "recordNumber": 126,
   "signVisualComposition": "",
@@ -55,5 +38,22 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take someone somewhere. English = lead, guide.",
+    "2. To be in control of an activity or organisation. English = lead.",
+    "3. To make sure someone goes in the right direction. English = guide.",
+    "4. To take someone to a place and show it to them. English = guide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who takes a person or group of people somewhere. English = leader, guide.",
+    "2. A person who controls and guides an activity or organisation. English = leader.",
+    "3. The qualities of a good leader. English =  leadership."
+  ],
+  "idGloss": "leader.1a",
+  "oldEntry": "Popular explanation: one hand leads the other."
 }

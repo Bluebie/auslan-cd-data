@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "worry.2",
-  "oldentry": "",
   "english": [
     "worry",
     "anxiety",
@@ -34,15 +30,7 @@
     "fretful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep thinking about a problem or about something unpleasant that might happen. English = worry, fret; (be) worried, (be) anxious, (be) concerned, (be) fretful."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Thoughts or constant thinking about a problem that you have or about something unpleasant that might happen and the feeling of unhappiness and unease that this causes. English = worry, anxiety, concern."
-  ],
   "signNumber": 3028,
   "recordNumber": 1735,
   "signVisualComposition": "",
@@ -53,5 +41,17 @@
   "antonyms": [],
   "synonyms": [
     "worry.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep thinking about a problem or about something unpleasant that might happen. English = worry, fret; (be) worried, (be) anxious, (be) concerned, (be) fretful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Thoughts or constant thinking about a problem that you have or about something unpleasant that might happen and the feeling of unhappiness and unease that this causes. English = worry, anxiety, concern."
+  ],
+  "idGloss": "worry.2",
+  "oldEntry": ""
 }

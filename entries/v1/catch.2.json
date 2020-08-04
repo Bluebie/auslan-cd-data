@@ -18,27 +18,14 @@
   "sense": "",
   "blend": "SIGN + CATCH",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "catch.2",
-  "oldentry": "Popular explanation: catching something.",
   "english": [
     "catch",
     "follow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To know what someone has signed and to understand what they mean by it. English = catch (someone's meaning), follow (someone's meaning)."
-  ],
   "cf": [
     "catch.1"
   ],
-  "interj": [
-    "1. Used alone with a positive facial expression to mean you did follow and understand what someone has just signed. English = 'Yes, I got that!', 'Yes, I'm following you.', and so on.",
-    "2. Used alone with a negative facial expression to mean you did not follow what someone has just signed. English = 'Sorry, I don't follow you.', 'I don't get it!', 'I didn't catch that!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2627,
   "recordNumber": 1458,
   "signVisualComposition": "",
@@ -52,5 +39,18 @@
   "synonyms": [
     "understand.1a",
     "capture.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone with a positive facial expression to mean you did follow and understand what someone has just signed. English = 'Yes, I got that!', 'Yes, I'm following you.', and so on.",
+    "2. Used alone with a negative facial expression to mean you did not follow what someone has just signed. English = 'Sorry, I don't follow you.', 'I don't get it!', 'I didn't catch that!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To know what someone has signed and to understand what they mean by it. English = catch (someone's meaning), follow (someone's meaning)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "catch.2",
+  "oldEntry": "Popular explanation: catching something."
 }

@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "delicious.1",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "delicious",
     "yummy",
     "scrumptious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a very pleasant taste, to taste good. English = (be) delicious. Informal English = (be) yummy.",
-    "2. To have an extremely pleasant taste, to taste extremely good. English = (be) scrumptious."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to indicate that you like the food you are eating very much, especially to the person who made it or is responsible for it. English = 'Yummy!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3485,
   "recordNumber": 2037,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   ],
   "synonyms": [
     "delicious.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to indicate that you like the food you are eating very much, especially to the person who made it or is responsible for it. English = 'Yummy!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a very pleasant taste, to taste good. English = (be) delicious. Informal English = (be) yummy.",
+    "2. To have an extremely pleasant taste, to taste extremely good. English = (be) scrumptious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "delicious.1",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

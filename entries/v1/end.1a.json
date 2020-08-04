@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "end.1a",
-  "oldentry": "",
   "english": [
     "end",
     "conclusion",
@@ -34,19 +30,7 @@
     "finally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come to the last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclude, finish.",
-    "2. To be the last thing in a series of things. English = (be) final."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to introduce the last thing that happened in a series of events, or the last topic you want to talk about. English =  to conclude, in conclusion, finally, last of all."
-  ],
-  "nomlex": [
-    "1. The last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclusion, finish.",
-    "2. The last thing in a series of things, especially the last in the order of siblings in a family."
-  ],
   "signNumber": 4406,
   "recordNumber": 2681,
   "signVisualComposition": "",
@@ -61,5 +45,21 @@
     "final",
     "last.1",
     "last.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to introduce the last thing that happened in a series of events, or the last topic you want to talk about. English =  to conclude, in conclusion, finally, last of all."
+  ],
+  "verbLexeme": [
+    "1. To come to the last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclude, finish.",
+    "2. To be the last thing in a series of things. English = (be) final."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclusion, finish.",
+    "2. The last thing in a series of things, especially the last in the order of siblings in a family."
+  ],
+  "idGloss": "end.1a",
+  "oldEntry": ""
 }

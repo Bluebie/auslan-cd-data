@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drawer.close",
-  "oldentry": "",
   "english": [
     "drawer",
     "close drawer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To close a drawer"
-  ],
   "cf": [
     "drawer.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4625,
   "recordNumber": 2801,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [
     "drawer.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To close a drawer"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "drawer.close",
+  "oldEntry": ""
 }

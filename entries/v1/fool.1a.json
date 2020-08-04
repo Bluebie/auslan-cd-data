@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fool.1a",
-  "oldentry": "Popular explanation: culturally shared gesture associated with simple-minded people.",
   "english": [
     "fool",
     "silliness",
@@ -28,17 +24,8 @@
     "foolish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave like a child or do things which are stupid. English = (be) silly, (be) foolish."
-  ],
   "cf": [
     "donkey"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who behaves like a child or does things which are stupid or silly. English = fool.",
-    "2. The kind of behaviour associated with a fool. English = silliness."
   ],
   "signNumber": 2424,
   "recordNumber": 1342,
@@ -50,5 +37,18 @@
   "antonyms": [],
   "synonyms": [
     "silly.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave like a child or do things which are stupid. English = (be) silly, (be) foolish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who behaves like a child or does things which are stupid or silly. English = fool.",
+    "2. The kind of behaviour associated with a fool. English = silliness."
+  ],
+  "idGloss": "fool.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture associated with simple-minded people."
 }

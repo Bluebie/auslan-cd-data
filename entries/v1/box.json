@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "box",
-  "oldentry": "Popular explanation: the sides of a box.",
   "english": [
     "box",
     "container",
@@ -32,18 +28,8 @@
     "block"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something in a box or container. English = box."
-  ],
   "cf": [
     "coffin.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A square or rectangular object for putting things in which sometimes has a lid. English = box, container.",
-    "2. A large, strong cardboard box in which goods are packed for storage and transport. English = carton.",
-    "3. A large rectangular piece of something. English = block."
   ],
   "signNumber": 3788,
   "recordNumber": 2245,
@@ -57,5 +43,19 @@
     "trunk.1",
     "block.1",
     "packet.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put something in a box or container. English = box."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A square or rectangular object for putting things in which sometimes has a lid. English = box, container.",
+    "2. A large, strong cardboard box in which goods are packed for storage and transport. English = carton.",
+    "3. A large rectangular piece of something. English = block."
+  ],
+  "idGloss": "box",
+  "oldEntry": "Popular explanation: the sides of a box."
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "silence",
-  "oldentry": "",
   "english": [
     "silence",
     "quietness",
@@ -35,18 +31,8 @@
     "still"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make no sound at all. English = (be) silent, (be) quiet.",
-    "2. To make no movement at all. English = (be) still."
-  ],
   "cf": [
     "secret.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The lack of any noise in a place. English = silence, quietness.",
-    "2. The lack of any busy activity in a place. English = calm, stillness."
   ],
   "signNumber": 3635,
   "recordNumber": 2139,
@@ -59,5 +45,19 @@
   "synonyms": [
     "quiet.1a",
     "quiet.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make no sound at all. English = (be) silent, (be) quiet.",
+    "2. To make no movement at all. English = (be) still."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The lack of any noise in a place. English = silence, quietness.",
+    "2. The lack of any busy activity in a place. English = calm, stillness."
+  ],
+  "idGloss": "silence",
+  "oldEntry": ""
 }

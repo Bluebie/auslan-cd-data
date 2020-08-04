@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "In the sense of 'all' (ie, each) when scoring, the sign can include other number handshapes for 'two all', 'three all', and so on.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "even.stevens",
-  "oldentry": "",
   "english": [
     "get even",
     "all"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get one's revenge. Idiomatic English = get even.",
-    "2. When scoring the competitors or teams in a game, competition or match, to have one point each. English = (be) one all."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express your pleasure at the fact that you have harmed or annoyed someone who has harmed or annoyed you. English = 'Now we're even!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 917,
   "recordNumber": 522,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "equal.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express your pleasure at the fact that you have harmed or annoyed someone who has harmed or annoyed you. English = 'Now we're even!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get one's revenge. Idiomatic English = get even.",
+    "2. When scoring the competitors or teams in a game, competition or match, to have one point each. English = (be) one all."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "even.stevens",
+  "oldEntry": ""
 }

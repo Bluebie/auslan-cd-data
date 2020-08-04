@@ -34,10 +34,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "free.1a",
-  "oldentry": "Popular explanation: holding braces.",
   "english": [
     "freedom",
     "liberty",
@@ -51,22 +47,8 @@
     "relax"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not restricted, controlled, or limited. English = (be) free.",
-    "2. To be able to do something at a certain time because you are not or will not be doing anything else. English = (be) free, (be) available.",
-    "3. To have left your job and to have stopped working altogether, usually because of age. English = (be) retired.",
-    "4. To do nothing physically or mentally active for a period of time. English = rest, relax. Idiomatic English = have a break."
-  ],
   "cf": [
     "available"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of being able to say and do what you want to. English = freedom. Formal English = liberty.",
-    "2. A person who has left his or her job and has stopped working altogether, usually because of age. English = retiree.",
-    "3. The period of time after which a person who has left his or her job and has stopped working altogether, usually because of age. English = retirement.",
-    "4. A period of time when you do no physical or mental activity. English = rest. Idiomatic English = break."
   ],
   "signNumber": 2654,
   "recordNumber": 1471,
@@ -84,5 +66,23 @@
     "automatic.1a",
     "retire.1a",
     "rest.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not restricted, controlled, or limited. English = (be) free.",
+    "2. To be able to do something at a certain time because you are not or will not be doing anything else. English = (be) free, (be) available.",
+    "3. To have left your job and to have stopped working altogether, usually because of age. English = (be) retired.",
+    "4. To do nothing physically or mentally active for a period of time. English = rest, relax. Idiomatic English = have a break."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of being able to say and do what you want to. English = freedom. Formal English = liberty.",
+    "2. A person who has left his or her job and has stopped working altogether, usually because of age. English = retiree.",
+    "3. The period of time after which a person who has left his or her job and has stopped working altogether, usually because of age. English = retirement.",
+    "4. A period of time when you do no physical or mental activity. English = rest. Idiomatic English = break."
+  ],
+  "idGloss": "free.1a",
+  "oldEntry": "Popular explanation: holding braces."
 }

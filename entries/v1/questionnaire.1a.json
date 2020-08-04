@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "questionnaire.1a",
-  "oldentry": "",
   "english": [
     "questionnaire"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do a questionnaire."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A written list of questions which are answered by a lot of people in order to provide information for a report or a survey. English = questionnaire."
-  ],
   "signNumber": 1483,
   "recordNumber": 885,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do a questionnaire."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A written list of questions which are answered by a lot of people in order to provide information for a report or a survey. English = questionnaire."
+  ],
+  "idGloss": "questionnaire.1a",
+  "oldEntry": ""
 }

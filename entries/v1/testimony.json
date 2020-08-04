@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "testimony",
-  "oldentry": "",
   "english": [
     "testimony"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A formal statement that someone makes, especially an open declaration of faith. English = testimony."
-  ],
   "signNumber": 6150,
   "recordNumber": 3666,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 10,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A formal statement that someone makes, especially an open declaration of faith. English = testimony."
+  ],
+  "idGloss": "testimony",
+  "oldEntry": ""
 }

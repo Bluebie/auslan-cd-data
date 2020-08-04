@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of ejecting something small from your mouth, or any action or any thing directly or indirectly associated with this, especially a pip or seed.",
-  "questlex": [],
-  "idgloss": "pip",
-  "oldentry": "Popular explanation: removing something small from your mouth.",
   "english": [
     "pip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To spit a pip out of your mouth."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the small hard seeds in a fruit such as an apple, orange, or pear. English = pip."
-  ],
   "signNumber": 6355,
   "recordNumber": 3796,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To spit a pip out of your mouth."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of ejecting something small from your mouth, or any action or any thing directly or indirectly associated with this, especially a pip or seed.",
+  "nominalLexeme": [
+    "1. One of the small hard seeds in a fruit such as an apple, orange, or pear. English = pip."
+  ],
+  "idGloss": "pip",
+  "oldEntry": "Popular explanation: removing something small from your mouth."
 }

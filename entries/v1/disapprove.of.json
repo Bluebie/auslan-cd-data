@@ -32,10 +32,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disapprove.of",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "lousiness",
     "rottenness",
@@ -48,23 +44,7 @@
     "fail"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely bad. English = (be) lousy.",
-    "2. To feel or show that you do not like someone or something and that you think it or they are wrong. English = disapprove.",
-    "3. To become worse in condition (especially in illness), or to become more difficult or unpleasant. English = deteriorate.",
-    "4. To become so bad that you do not succeed in doing what you are trying to do. English = fail."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to show you do not like someone or something. English = 'Down with it!', 'Down with you!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of being no good. English = lousiness, rottenness.",
-    "2. The feeling that you do not like someone or something and that you think it or they are wrong. English = disapproval.",
-    "3. The state of getting worse and worse in condition (especially in illness), or to become more difficult or unpleasant. English = deterioration.",
-    "4. The lack of success in achieving or doing something. English = failure."
-  ],
   "signNumber": 4796,
   "recordNumber": 2894,
   "signVisualComposition": "",
@@ -81,5 +61,25 @@
     "fail.1a",
     "bad",
     "lousy"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to show you do not like someone or something. English = 'Down with it!', 'Down with you!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely bad. English = (be) lousy.",
+    "2. To feel or show that you do not like someone or something and that you think it or they are wrong. English = disapprove.",
+    "3. To become worse in condition (especially in illness), or to become more difficult or unpleasant. English = deteriorate.",
+    "4. To become so bad that you do not succeed in doing what you are trying to do. English = fail."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of being no good. English = lousiness, rottenness.",
+    "2. The feeling that you do not like someone or something and that you think it or they are wrong. English = disapproval.",
+    "3. The state of getting worse and worse in condition (especially in illness), or to become more difficult or unpleasant. English = deterioration.",
+    "4. The lack of success in achieving or doing something. English = failure."
+  ],
+  "idGloss": "disapprove.of",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

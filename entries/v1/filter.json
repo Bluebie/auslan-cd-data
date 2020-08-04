@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "filter",
-  "oldentry": "",
   "english": [
     "filter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pass a substance through a device which is designed to remove particles from it. English = filter."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device through which something is filtered. English = filter."
-  ],
   "signNumber": 2667,
   "recordNumber": 1483,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "petrol filter"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pass a substance through a device which is designed to remove particles from it. English = filter."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device through which something is filtered. English = filter."
+  ],
+  "idGloss": "filter",
+  "oldEntry": ""
 }

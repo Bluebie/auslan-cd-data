@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "start.1a",
-  "oldentry": "",
   "english": [
     "start",
     "commencement",
@@ -33,17 +29,7 @@
     "begin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something you were not doing before and to continue doing it. English = start, commence, begin.",
-    "2. To start a race."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The first part of some activity. English = start, commencement, beginning.",
-    "2. The first part of a race or competition. English = start."
-  ],
   "signNumber": 6316,
   "recordNumber": 3770,
   "signVisualComposition": "",
@@ -58,5 +44,19 @@
   "synonyms": [
     "open",
     "begin.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something you were not doing before and to continue doing it. English = start, commence, begin.",
+    "2. To start a race."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The first part of some activity. English = start, commencement, beginning.",
+    "2. The first part of a race or competition. English = start."
+  ],
+  "idGloss": "start.1a",
+  "oldEntry": ""
 }

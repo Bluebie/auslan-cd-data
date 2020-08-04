@@ -17,10 +17,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "portrait",
-  "oldentry": "Popular explanation: painting a face.",
   "english": [
     "portrait",
     "portrait painter",
@@ -28,18 +24,8 @@
     "paint"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To paint or draw a portrait of someone."
-  ],
   "cf": [
     "paint.picture.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A painting or drawing of someone. English = portrait.",
-    "2. A person who paints or draws pictures of people. English = portrait painter.",
-    "3. The art of painting or drawing portraits. English = portraiture."
   ],
   "signNumber": 1887,
   "recordNumber": 1128,
@@ -49,5 +35,19 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To paint or draw a portrait of someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A painting or drawing of someone. English = portrait.",
+    "2. A person who paints or draws pictures of people. English = portrait painter.",
+    "3. The art of painting or drawing portraits. English = portraiture."
+  ],
+  "idGloss": "portrait",
+  "oldEntry": "Popular explanation: painting a face."
 }

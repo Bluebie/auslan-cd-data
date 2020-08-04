@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stripes",
-  "oldentry": "Popular explanation: a line of stripes.",
   "english": [
     "stripes",
     "striped"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a pattern with a series of long parallel lines which are usually of different colours or which alternate between two colours. English = (be) striped."
-  ],
   "cf": [
     "zebra"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A pattern with a series of long parallel lines which are usually of different colours or which alternate between two colours. English = stripes."
   ],
   "signNumber": 2384,
   "recordNumber": 1314,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "ruler"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a pattern with a series of long parallel lines which are usually of different colours or which alternate between two colours. English = (be) striped."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A pattern with a series of long parallel lines which are usually of different colours or which alternate between two colours. English = stripes."
+  ],
+  "idGloss": "stripes",
+  "oldEntry": "Popular explanation: a line of stripes."
 }

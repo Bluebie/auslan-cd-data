@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "week",
-  "oldentry": "",
   "english": [
     "week"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "next.week.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of seven days, beginning on a Sunday and ending on a Saturday. English = week."
   ],
   "signNumber": 2629,
   "recordNumber": 1459,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of seven days, beginning on a Sunday and ending on a Saturday. English = week."
+  ],
+  "idGloss": "week",
+  "oldEntry": ""
 }

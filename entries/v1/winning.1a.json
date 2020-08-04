@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "winning.1a",
-  "oldentry": "",
   "english": [
     "win"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In a competition or race, to be just ahead of your rival; to be winning; to overtake; to edge ahead."
-  ],
   "cf": [
     "neck.and.neck.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4373,
   "recordNumber": 2663,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [
     "losing.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In a competition or race, to be just ahead of your rival; to be winning; to overtake; to edge ahead."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "winning.1a",
+  "oldEntry": ""
 }

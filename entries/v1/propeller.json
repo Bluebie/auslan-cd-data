@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "propeller",
-  "oldentry": "Popular explanation: the turning blades of a propeller.",
   "english": [
     "propeller"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device with blades which is attached to a boat or aircraft. The engine makes it spin round and causes the boat or aircraft to move. English = propeller."
-  ],
   "signNumber": 2836,
   "recordNumber": 1596,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device with blades which is attached to a boat or aircraft. The engine makes it spin round and causes the boat or aircraft to move. English = propeller."
+  ],
+  "idGloss": "propeller",
+  "oldEntry": "Popular explanation: the turning blades of a propeller."
 }

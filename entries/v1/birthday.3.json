@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "birthday.3",
-  "oldentry": "",
   "english": [
     "birthday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "birthday.5"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The anniversary of the date on which you were born. English = birthday."
   ],
   "signNumber": 538,
   "recordNumber": 306,
@@ -42,5 +32,15 @@
     "birthday.1",
     "birthday.2",
     "birthday.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The anniversary of the date on which you were born. English = birthday."
+  ],
+  "idGloss": "birthday.3",
+  "oldEntry": ""
 }

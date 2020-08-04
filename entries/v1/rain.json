@@ -19,28 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rain",
-  "oldentry": "",
   "english": [
     "rain",
     "downpour",
     "pour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For water to fall from the clouds in small drops. English = rain.",
-    "2. [With stress] to rain heavily. English = pour."
-  ],
   "cf": [
     "drip"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Water that falls from the clouds in small drops. English = rain.",
-    "2. [With stress] a fast and heavy rain. English = downpour."
   ],
   "signNumber": 2984,
   "recordNumber": 1696,
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "drizzle"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For water to fall from the clouds in small drops. English = rain.",
+    "2. [With stress] to rain heavily. English = pour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Water that falls from the clouds in small drops. English = rain.",
+    "2. [With stress] a fast and heavy rain. English = downpour."
+  ],
+  "idGloss": "rain",
+  "oldEntry": ""
 }

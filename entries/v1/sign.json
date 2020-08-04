@@ -28,10 +28,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sign",
-  "oldentry": "Popular explanation: a signing action.",
   "english": [
     "sign language",
     "sign",
@@ -41,21 +37,7 @@
     "signify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To communicate with someone using a sign language. English = sign.",
-    "2. Of a unit of language (word or sign) or a whole expression, to refer to a thing or idea or express something. English = mean. Formal English = signify.",
-    "3. To intend to communicate a particular message. English = mean."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to mean that you are about to explain something again more clearly or to justify something you have said. English = I mean..., What I mean is...."
-  ],
-  "nomlex": [
-    "1. A language which is made and communicated by using visual-gestural signs. English = sign language, sign.",
-    "2. The thing that a single unit of a language (word or sign) or a whole expression refers to or expresses. Often this 'thing' is just other words and signs, rather than something you can point at. English = meaning, significance.",
-    "3. A single visual-gestural unit of a sign language. English = sign."
-  ],
   "signNumber": 2701,
   "recordNumber": 1499,
   "signVisualComposition": "",
@@ -66,5 +48,23 @@
   "antonyms": [],
   "synonyms": [
     "meaning"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to mean that you are about to explain something again more clearly or to justify something you have said. English = I mean..., What I mean is...."
+  ],
+  "verbLexeme": [
+    "1. To communicate with someone using a sign language. English = sign.",
+    "2. Of a unit of language (word or sign) or a whole expression, to refer to a thing or idea or express something. English = mean. Formal English = signify.",
+    "3. To intend to communicate a particular message. English = mean."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A language which is made and communicated by using visual-gestural signs. English = sign language, sign.",
+    "2. The thing that a single unit of a language (word or sign) or a whole expression refers to or expresses. Often this 'thing' is just other words and signs, rather than something you can point at. English = meaning, significance.",
+    "3. A single visual-gestural unit of a sign language. English = sign."
+  ],
+  "idGloss": "sign",
+  "oldEntry": "Popular explanation: a signing action."
 }

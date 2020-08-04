@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "very.2",
-  "oldentry": "",
   "english": [
     "very",
     "extremely"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to an adjective or adverb in order to emphasise it. English = very, extremely."
-  ],
-  "nomlex": [],
   "signNumber": 1703,
   "recordNumber": 1018,
   "signVisualComposition": "V + V",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "very.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to an adjective or adverb in order to emphasise it. English = very, extremely."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "very.2",
+  "oldEntry": ""
 }

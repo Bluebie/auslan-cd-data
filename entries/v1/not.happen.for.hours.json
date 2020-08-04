@@ -9,22 +9,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.happen.for.hours",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "happen.1a",
     "not.happen"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action did not occur during the period of an hour."
-  ],
-  "nomlex": [],
   "signNumber": 431,
   "recordNumber": 240,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action did not occur during the period of an hour."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.happen.for.hours",
+  "oldEntry": ""
 }

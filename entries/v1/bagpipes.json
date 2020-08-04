@@ -10,23 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bagpipes",
-  "oldentry": "Popular explanation: playing bagpipes.",
   "english": [
     "bagpipes"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play the bagpipes."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument which you play by blowing air through a pipe into a leather bag, and then squeezing the bag to force the air out through other pipes. English = bagpipes."
-  ],
   "signNumber": 2511,
   "recordNumber": 1396,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play the bagpipes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A musical instrument which you play by blowing air through a pipe into a leather bag, and then squeezing the bag to force the air out through other pipes. English = bagpipes."
+  ],
+  "idGloss": "bagpipes",
+  "oldEntry": "Popular explanation: playing bagpipes."
 }

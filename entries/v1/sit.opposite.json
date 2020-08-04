@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sit.opposite",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To sit opposite someone across a table or a room."
-  ],
   "cf": [
     "chair.1",
     "chair.2a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1782,
   "recordNumber": 1075,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "sit.on"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sit opposite someone across a table or a room."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sit.opposite",
+  "oldEntry": ""
 }

@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "red.2",
-  "oldentry": "",
   "english": [
     "red",
     "redden"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or have the colour of blood or of a ripe tomato. English = (be) red.",
-    "2. To become the colour of blood or of a ripe tomato. English = redden."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of blood or of a ripe tomato. English = red."
-  ],
   "signNumber": 1411,
   "recordNumber": 840,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "red.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or have the colour of blood or of a ripe tomato. English = (be) red.",
+    "2. To become the colour of blood or of a ripe tomato. English = redden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of blood or of a ripe tomato. English = red."
+  ],
+  "idGloss": "red.2",
+  "oldEntry": ""
 }

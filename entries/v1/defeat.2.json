@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "defeat.2",
-  "oldentry": "",
   "english": [
     "defeat",
     "oppression",
@@ -45,22 +41,8 @@
     "subjugate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To win a victory over someone in a battle, game, or contest; to win completely or very convincingly. English = defeat; thrash.",
-    "2. To treat someone or a group of people cruelly or unfairly. English = oppress.",
-    "3. Of an army or a government, to prevent something from continuing; to keep someone or a group of people under your control. English = suppress; subjugate. Idiomatic English = put down.",
-    "4. To criticise someone and make them look foolish. Idiomatic English = put down."
-  ],
   "cf": [
     "depressed.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of being beaten in a battle, game, or contest. English = defeat.",
-    "2. The cruel or unfair treatment of someone or a group of people. English = oppression.",
-    "3. The prevention of something from continuing by an army or a government; keeping someone or a group of people under your control. English = suppression; subjugation.",
-    "4. A criticism that makes someone look foolish. Idiomatic English = put down."
   ],
   "signNumber": 2826,
   "recordNumber": 1588,
@@ -74,5 +56,23 @@
   ],
   "synonyms": [
     "beat.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To win a victory over someone in a battle, game, or contest; to win completely or very convincingly. English = defeat; thrash.",
+    "2. To treat someone or a group of people cruelly or unfairly. English = oppress.",
+    "3. Of an army or a government, to prevent something from continuing; to keep someone or a group of people under your control. English = suppress; subjugate. Idiomatic English = put down.",
+    "4. To criticise someone and make them look foolish. Idiomatic English = put down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of being beaten in a battle, game, or contest. English = defeat.",
+    "2. The cruel or unfair treatment of someone or a group of people. English = oppression.",
+    "3. The prevention of something from continuing by an army or a government; keeping someone or a group of people under your control. English = suppression; subjugation.",
+    "4. A criticism that makes someone look foolish. Idiomatic English = put down."
+  ],
+  "idGloss": "defeat.2",
+  "oldEntry": ""
 }

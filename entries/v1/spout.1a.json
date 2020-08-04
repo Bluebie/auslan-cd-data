@@ -19,28 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spout.1a",
-  "oldentry": "Popular explanation: the spout and handle of a teapot.",
   "english": [
     "spout",
     "teapot",
     "kettle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pour liquid from a container with a spout."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A container for holding liquids that has a tube attached to it where the liquid comes out when you tip it sideways.",
-    "2. The tube that liquid comes out of which is attached to a container. English = spout.",
-    "3. A container with a lid, a handle, and a spout. You use it for making and serving tea. English = teapot.",
-    "4. A container for boiling water in that has a spout. English = kettle."
-  ],
   "signNumber": 6591,
   "recordNumber": 3927,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "antonyms": [],
   "synonyms": [
     "pourer"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pour liquid from a container with a spout."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A container for holding liquids that has a tube attached to it where the liquid comes out when you tip it sideways.",
+    "2. The tube that liquid comes out of which is attached to a container. English = spout.",
+    "3. A container with a lid, a handle, and a spout. You use it for making and serving tea. English = teapot.",
+    "4. A container for boiling water in that has a spout. English = kettle."
+  ],
+  "idGloss": "spout.1a",
+  "oldEntry": "Popular explanation: the spout and handle of a teapot."
 }

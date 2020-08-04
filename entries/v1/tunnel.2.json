@@ -13,10 +13,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tunnel.2",
-  "oldentry": "",
   "english": [
     "tunnelling",
     "boring",
@@ -24,15 +20,7 @@
     "bore"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a tunnel under the ground by boring using special machinery. English = tunnel, bore."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity of making a tunnel under the ground by boring using special machinery. English = tunnelling, boring."
-  ],
   "signNumber": 1227,
   "recordNumber": 725,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a tunnel under the ground by boring using special machinery. English = tunnel, bore."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity of making a tunnel under the ground by boring using special machinery. English = tunnelling, boring."
+  ],
+  "idGloss": "tunnel.2",
+  "oldEntry": ""
 }

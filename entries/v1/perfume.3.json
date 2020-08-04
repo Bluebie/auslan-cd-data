@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "perfume.3",
-  "oldentry": "",
   "english": [
     "perfume"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To apply perfume to your body."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A pleasant-smelling liquid which you put on your body to make yourself smell nice. English = perfume."
-  ],
   "signNumber": 1416.1,
   "recordNumber": 845,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "synonyms": [
     "perfume.1a",
     "perfume.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To apply perfume to your body."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A pleasant-smelling liquid which you put on your body to make yourself smell nice. English = perfume."
+  ],
+  "idGloss": "perfume.3",
+  "oldEntry": ""
 }

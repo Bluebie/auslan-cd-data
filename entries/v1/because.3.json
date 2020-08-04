@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "because.3",
-  "oldentry": "",
   "english": [
     "because"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to introduce a statement that is the reason for something. English = because."
-  ],
-  "nomlex": [],
   "signNumber": 4290,
   "recordNumber": 2608,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "synonyms": [
     "because.1a",
     "why-because.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to introduce a statement that is the reason for something. English = because."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "because.3",
+  "oldEntry": ""
 }

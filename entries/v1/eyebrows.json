@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eyebrows",
-  "oldentry": "",
   "english": [
     "eyebrows"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The lines of hair that grow in an arch above each of your eyes. English = eyebrows."
-  ],
   "signNumber": 1446.1,
   "recordNumber": 863,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": null,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The lines of hair that grow in an arch above each of your eyes. English = eyebrows."
+  ],
+  "idGloss": "eyebrows",
+  "oldEntry": ""
 }

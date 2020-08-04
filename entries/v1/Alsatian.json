@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Alsatian",
-  "oldentry": "",
   "english": [
     "Alsatian",
     "German shepherd"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, usually fierce dog that is often used to guard buildings or used by the police to help them find criminals. English = Alsatian, German shepherd."
-  ],
   "signNumber": 1628,
   "recordNumber": 966,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, usually fierce dog that is often used to guard buildings or used by the police to help them find criminals. English = Alsatian, German shepherd."
+  ],
+  "idGloss": "Alsatian",
+  "oldEntry": ""
 }

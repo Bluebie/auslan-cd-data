@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unit.1a",
-  "oldentry": "Popular explanation: bringing two halves together to form a whole'",
   "english": [
     "group",
     "unit",
@@ -31,20 +27,8 @@
     "team"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a number of things or people come together in one place or within one organisation. English = group.",
-    "2. To make something which is fragmented or broken into a single, complete thing. English = make whole."
-  ],
   "cf": [
     "all.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of people or things which are together at one place at one time. English = group.",
-    "2. A set of people or things which have something in common. English = group.",
-    "3. Something you can consider as a single, complete thing. English = unit, whole.",
-    "4. A group of people who work together at a specific job, often in a particular place. English = unit, team."
   ],
   "signNumber": 4611,
   "recordNumber": 2792,
@@ -56,5 +40,21 @@
   "antonyms": [],
   "synonyms": [
     "group.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a number of things or people come together in one place or within one organisation. English = group.",
+    "2. To make something which is fragmented or broken into a single, complete thing. English = make whole."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of people or things which are together at one place at one time. English = group.",
+    "2. A set of people or things which have something in common. English = group.",
+    "3. Something you can consider as a single, complete thing. English = unit, whole.",
+    "4. A group of people who work together at a specific job, often in a particular place. English = unit, team."
+  ],
+  "idGloss": "unit.1a",
+  "oldEntry": "Popular explanation: bringing two halves together to form a whole'"
 }

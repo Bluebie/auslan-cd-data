@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "handshape.1a",
-  "oldentry": "",
   "english": [
     "handshape"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The particular arrangement of the fingers of the hand that is one of a limited set of typical and distinctive configurations used in a sign language. English = handshape."
-  ],
   "signNumber": 4459,
   "recordNumber": 2709,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The particular arrangement of the fingers of the hand that is one of a limited set of typical and distinctive configurations used in a sign language. English = handshape."
+  ],
+  "idGloss": "handshape.1a",
+  "oldEntry": ""
 }

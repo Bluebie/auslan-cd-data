@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "get.off.1a",
-  "oldentry": "Popular explanation: legs moving on or off something.",
   "english": [
     "get off",
     "step off",
@@ -27,15 +23,9 @@
     "alight"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move off something, especially a form of transport such as a bus or train. English = get off, step off, get out. Formal English = alight."
-  ],
   "cf": [
     "stand.up.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1723,
   "recordNumber": 1033,
   "signVisualComposition": "",
@@ -46,5 +36,15 @@
   "antonyms": [
     "stand.up.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move off something, especially a form of transport such as a bus or train. English = get off, step off, get out. Formal English = alight."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "get.off.1a",
+  "oldEntry": "Popular explanation: legs moving on or off something."
 }

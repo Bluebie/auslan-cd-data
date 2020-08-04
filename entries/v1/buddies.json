@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "buddies",
-  "oldentry": "",
   "english": [
     "buddies",
     "chums",
@@ -25,18 +21,7 @@
     "best friends"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be best friends with someone, especially while at school, if not ever since school. English = (be) buddies, (be) best friends, (be) mates."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you and your addressee have done something exactly alike (like order something in a restaurant) or think alike in some way. English = 'Hey, we're the same!', 'Great minds think alike!', and so on.",
-    "2. Used alone to mean that you and your addressee are, or are to be considered, very close and friendly; or should help each other (say in a game). English = 'Let's stick together!', 'Let's be buddies!', 'We're in this together!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Two people, especially school children, who are each others best friends. English = buddies, chums."
-  ],
   "signNumber": 2479,
   "recordNumber": 1376,
   "signVisualComposition": "",
@@ -45,5 +30,20 @@
   "primaryLocation": 13,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you and your addressee have done something exactly alike (like order something in a restaurant) or think alike in some way. English = 'Hey, we're the same!', 'Great minds think alike!', and so on.",
+    "2. Used alone to mean that you and your addressee are, or are to be considered, very close and friendly; or should help each other (say in a game). English = 'Let's stick together!', 'Let's be buddies!', 'We're in this together!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be best friends with someone, especially while at school, if not ever since school. English = (be) buddies, (be) best friends, (be) mates."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two people, especially school children, who are each others best friends. English = buddies, chums."
+  ],
+  "idGloss": "buddies",
+  "oldEntry": ""
 }

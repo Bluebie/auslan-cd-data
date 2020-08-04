@@ -17,22 +17,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "small.1",
-  "oldentry": "",
   "english": [
     "small"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not large in physical size. English = (be) small.",
-    "2. Of a group or an amount of something, to be only a few in number. English = (be) small."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1892,
   "recordNumber": 1131,
   "signVisualComposition": "",
@@ -49,5 +38,16 @@
     "little.1a",
     "less.1a",
     "small.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not large in physical size. English = (be) small.",
+    "2. Of a group or an amount of something, to be only a few in number. English = (be) small."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "small.1",
+  "oldEntry": ""
 }

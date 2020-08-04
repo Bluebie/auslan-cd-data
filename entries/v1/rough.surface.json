@@ -15,27 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rough.surface",
-  "oldentry": "",
   "english": [
     "rough",
     "bumpy",
     "uneven"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have lots of bumps and raised parts on a surface. English = (be) rough, (be) bumpy, (be) uneven."
-  ],
   "cf": [
     "wave.1a",
     "mountain.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A surface which is sloping or curved, and has raised parts; an uneven surface, a rough surface."
   ],
   "signNumber": 3434,
   "recordNumber": 2005,
@@ -49,5 +37,17 @@
   ],
   "synonyms": [
     "coarse"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have lots of bumps and raised parts on a surface. English = (be) rough, (be) bumpy, (be) uneven."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A surface which is sloping or curved, and has raised parts; an uneven surface, a rough surface."
+  ],
+  "idGloss": "rough.surface",
+  "oldEntry": ""
 }

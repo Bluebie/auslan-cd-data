@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is particularly used in conjunction with the sign 'face', to mean that someone's facial features strongly resemble those of another person.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strong.1a",
-  "oldentry": "",
   "english": [
     "strength",
     "power",
@@ -39,21 +35,7 @@
     "resemble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have lots of physical energy so that you can perform various actions easily, such as lifting or moving things. English = (be) strong, (be) powerful.",
-    "2. To have lots of control or influence over people, activities, and events. English = (be) powerful, have power.",
-    "3. Of a machine or engine, to have lots of strength and energy. English = (be) powerful.",
-    "4. To strongly and keenly support something very much, especially a sport's team. English = barrack, barrack for.",
-    "5. To look like or behave like someone in lots of ways, especially in physical appearance because you are related. English = resemble. Idiomatic English = take after someone."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The physical energy that you have which gives you the ability to perform various actions easily, such as lifting or moving things. English = strength, power.",
-    "2. The ability someone or some organisation has to control or influence people, activities, and events. English = power, might.",
-    "3. The strength and energy of a machine, rather than a person. English = power."
-  ],
   "signNumber": 5742,
   "recordNumber": 3401,
   "signVisualComposition": "",
@@ -64,5 +46,23 @@
   "antonyms": [],
   "synonyms": [
     "muscle.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have lots of physical energy so that you can perform various actions easily, such as lifting or moving things. English = (be) strong, (be) powerful.",
+    "2. To have lots of control or influence over people, activities, and events. English = (be) powerful, have power.",
+    "3. Of a machine or engine, to have lots of strength and energy. English = (be) powerful.",
+    "4. To strongly and keenly support something very much, especially a sport's team. English = barrack, barrack for.",
+    "5. To look like or behave like someone in lots of ways, especially in physical appearance because you are related. English = resemble. Idiomatic English = take after someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The physical energy that you have which gives you the ability to perform various actions easily, such as lifting or moving things. English = strength, power.",
+    "2. The ability someone or some organisation has to control or influence people, activities, and events. English = power, might.",
+    "3. The strength and energy of a machine, rather than a person. English = power."
+  ],
+  "idGloss": "strong.1a",
+  "oldEntry": ""
 }

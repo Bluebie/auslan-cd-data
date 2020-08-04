@@ -13,24 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "will.1a",
-  "oldentry": "",
   "english": [
     "will",
     "shall",
     "would"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb or verb phrase to mean that the person responsible for the action intends to do it or wants to do it after the time of speaking, sometime in the future. It expresses intent, determination or willingness,",
-    "not just future tense. English = will, shall (when time of speaking is now and action is in the future), would (when time of speaking was in the past and the action was, or still is, in the future)."
-  ],
-  "nomlex": [],
   "signNumber": 5600,
   "recordNumber": 3315,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [
     "won't.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb or verb phrase to mean that the person responsible for the action intends to do it or wants to do it after the time of speaking, sometime in the future. It expresses intent, determination or willingness,",
+    "not just future tense. English = will, shall (when time of speaking is now and action is in the future), would (when time of speaking was in the past and the action was, or still is, in the future)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "will.1a",
+  "oldEntry": ""
 }

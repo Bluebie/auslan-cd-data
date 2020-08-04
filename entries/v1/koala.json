@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "koala",
-  "oldentry": "",
   "english": [
     "koala"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An Australian animal which looks like a small bear with grey fur and small tufted ears. They live in trees and eat leaves. English = koala."
-  ],
   "signNumber": 3073,
   "recordNumber": 1765,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "bear.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An Australian animal which looks like a small bear with grey fur and small tufted ears. They live in trees and eat leaves. English = koala."
+  ],
+  "idGloss": "koala",
+  "oldEntry": ""
 }

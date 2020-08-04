@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Ireland.1",
-  "oldentry": "Popular explanation: shamrock buttonhole.",
   "english": [
     "Ireland",
     "Irish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to Ireland. English = (be) Irish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An island country in the North Atlantic off the west coast of Great Britain, called Ireland."
-  ],
   "signNumber": 6298,
   "recordNumber": 3763,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "Ireland.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to Ireland. English = (be) Irish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An island country in the North Atlantic off the west coast of Great Britain, called Ireland."
+  ],
+  "idGloss": "Ireland.1",
+  "oldEntry": "Popular explanation: shamrock buttonhole."
 }

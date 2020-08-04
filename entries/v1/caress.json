@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "caress",
-  "oldentry": "Popular explanation: stroking or caressing some",
   "english": [
     "stroke",
     "caress",
@@ -36,20 +32,7 @@
     "fondle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand slowly and gently over someone or something. English = stroke.",
-    "2. To stroke someone gently and affectionately. English = caress, pat, fondle.",
-    "3. To stroke an animal gently and affectionately. English = pet, pat, fondle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The slow and gentle movement of your hand over someone or something. English = stroke.",
-    "2. The gentle and affectionate stroking of someone. English = caress.",
-    "3. The gentle and affectionate stroking of an animal. English = petting.",
-    "4. A tame animal that you keep in your home to give you company and pleasure. English = pet."
-  ],
   "signNumber": 4342,
   "recordNumber": 2646,
   "signVisualComposition": "",
@@ -61,5 +44,22 @@
   "synonyms": [
     "cat.1",
     "dog.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand slowly and gently over someone or something. English = stroke.",
+    "2. To stroke someone gently and affectionately. English = caress, pat, fondle.",
+    "3. To stroke an animal gently and affectionately. English = pet, pat, fondle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The slow and gentle movement of your hand over someone or something. English = stroke.",
+    "2. The gentle and affectionate stroking of someone. English = caress.",
+    "3. The gentle and affectionate stroking of an animal. English = petting.",
+    "4. A tame animal that you keep in your home to give you company and pleasure. English = pet."
+  ],
+  "idGloss": "caress",
+  "oldEntry": "Popular explanation: stroking or caressing some"
 }

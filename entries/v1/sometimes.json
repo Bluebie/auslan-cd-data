@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sometimes",
-  "oldentry": "",
   "english": [
     "temporary",
     "sometimes"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To last only a short period of time and not be permanent. English = (be) temporary."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action happens on some occasions. English = sometimes."
-  ],
-  "nomlex": [],
   "signNumber": 980,
   "recordNumber": 567,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   ],
   "synonyms": [
     "some.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence or immediately next to a verb to mean that the action happens on some occasions. English = sometimes."
+  ],
+  "verbLexeme": [
+    "1. To last only a short period of time and not be permanent. English = (be) temporary."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sometimes",
+  "oldEntry": ""
 }

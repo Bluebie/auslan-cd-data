@@ -15,24 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "backward",
-  "oldentry": "Popular explanation: a surface moving backwards.",
   "english": [
     "backward"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move in the direction that your back is facing. English = go backward."
-  ],
   "cf": [
     "car-park",
     "sidewards"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3758,
   "recordNumber": 2220,
   "signVisualComposition": "",
@@ -46,5 +36,15 @@
   "synonyms": [
     "back.2",
     "withdraw"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move in the direction that your back is facing. English = go backward."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "backward",
+  "oldEntry": "Popular explanation: a surface moving backwards."
 }

@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "subtract.1a",
-  "oldentry": "",
   "english": [
     "subtraction",
     "deduction",
@@ -41,20 +37,7 @@
     "minus"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do a calculation in which you take one number away from another number. English = subtract, deduct.",
-    "2. To cross out or remove something that has been written down. English = delete.",
-    "3. To take one thing away from another thing.",
-    "4. Used between two numbers to mean that the second number is subtracted from the first number. English = minus."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The calculation in which you take one number away from another number. English = subtraction, deduction.",
-    "2. The removal or crossing out of something that has been written down. English = deletion.",
-    "3. The act of taking one thing away from another thing."
-  ],
   "signNumber": 3104,
   "recordNumber": 1788,
   "signVisualComposition": "",
@@ -69,5 +52,22 @@
   ],
   "synonyms": [
     "minus.sign"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do a calculation in which you take one number away from another number. English = subtract, deduct.",
+    "2. To cross out or remove something that has been written down. English = delete.",
+    "3. To take one thing away from another thing.",
+    "4. Used between two numbers to mean that the second number is subtracted from the first number. English = minus."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The calculation in which you take one number away from another number. English = subtraction, deduction.",
+    "2. The removal or crossing out of something that has been written down. English = deletion.",
+    "3. The act of taking one thing away from another thing."
+  ],
+  "idGloss": "subtract.1a",
+  "oldEntry": ""
 }

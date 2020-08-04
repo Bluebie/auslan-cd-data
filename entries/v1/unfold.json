@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unfold",
-  "oldentry": "",
   "english": [
     "unfold"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To unbend a piece of paper or cloth so that it becomes flat again and with one part of it no longer covering another part. English = unfold."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3922,
   "recordNumber": 2338,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "fold"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To unbend a piece of paper or cloth so that it becomes flat again and with one part of it no longer covering another part. English = unfold."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unfold",
+  "oldEntry": ""
 }

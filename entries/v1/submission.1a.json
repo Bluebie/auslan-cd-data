@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "submission.1a",
-  "oldentry": "Popular explanation: putting something in a document.",
   "english": [
     "submission",
     "application",
@@ -35,22 +31,10 @@
     "apply"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make, prepare or present a submission.",
-    "2. To send a submission to someone.",
-    "3. To write information in the spaces on a form. English = fill in, fill out.",
-    "4. To complete or make an application for something. English = apply, apply for."
-  ],
   "cf": [
     "list.1",
     "put.1a",
     "place.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A formal, written request for something, often a job, which is made by writing a letter or completing a form. English = application.",
-    "2. A written proposal or application which can be sent to someone so that they can decide whether to accept it or not. English = submission."
   ],
   "signNumber": 200,
   "recordNumber": 116,
@@ -60,5 +44,21 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make, prepare or present a submission.",
+    "2. To send a submission to someone.",
+    "3. To write information in the spaces on a form. English = fill in, fill out.",
+    "4. To complete or make an application for something. English = apply, apply for."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A formal, written request for something, often a job, which is made by writing a letter or completing a form. English = application.",
+    "2. A written proposal or application which can be sent to someone so that they can decide whether to accept it or not. English = submission."
+  ],
+  "idGloss": "submission.1a",
+  "oldEntry": "Popular explanation: putting something in a document."
 }

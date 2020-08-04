@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "encourage.2",
-  "oldentry": "",
   "english": [
     "encouragement",
     "encourage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell someone that you think that they should do something, or that they should continue doing something and by so doing making them think positively and making it more likely that they will continue. English = encourage."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of telling someone that you think that they should do something, or that they should continue doing something and by so doing making them think positively and making it more likely that they will continue. English = encouragement."
-  ],
   "signNumber": 4860,
   "recordNumber": 2937,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell someone that you think that they should do something, or that they should continue doing something and by so doing making them think positively and making it more likely that they will continue. English = encourage."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of telling someone that you think that they should do something, or that they should continue doing something and by so doing making them think positively and making it more likely that they will continue. English = encouragement."
+  ],
+  "idGloss": "encourage.2",
+  "oldEntry": ""
 }

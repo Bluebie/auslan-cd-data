@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "Signers will often make the meaning of this sign more specific by preceding it with the sign 'car'.",
-  "genmean": "The action of pulling something over one's head, or any thing or any action directly or indirectly associated with this, especially a convertible.",
-  "questlex": [],
-  "idgloss": "convertible.1",
-  "oldentry": "Popular explanation: closing and opening a car roof.",
   "english": [
     "convertible"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A car with a soft roof that can be folded down or removed. English = convertible."
-  ],
   "signNumber": 6135,
   "recordNumber": 3653,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "convertible.2",
     "convertible.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of pulling something over one's head, or any thing or any action directly or indirectly associated with this, especially a convertible.",
+  "nominalLexeme": [
+    "1. A car with a soft roof that can be folded down or removed. English = convertible."
+  ],
+  "idGloss": "convertible.1",
+  "oldEntry": "Popular explanation: closing and opening a car roof."
 }

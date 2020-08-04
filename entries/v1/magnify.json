@@ -20,29 +20,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "magnify",
-  "oldentry": "",
   "english": [
     "enlargement",
     "enlarge",
     "magnify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something, which was originally very small, much larger. English = enlarge.",
-    "2. Using a microscope, to make the image of something, which was originally very small, much larger so that it can be seen. English = magnify."
-  ],
   "cf": [
     "microscope.1",
     "focus",
     "telescope"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something, especially an image, which is a much larger copy or view of an original which is much smaller. English = enlargement."
   ],
   "signNumber": 5821.1,
   "recordNumber": 3458,
@@ -57,5 +44,18 @@
   ],
   "synonyms": [
     "expand.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something, which was originally very small, much larger. English = enlarge.",
+    "2. Using a microscope, to make the image of something, which was originally very small, much larger so that it can be seen. English = magnify."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something, especially an image, which is a much larger copy or view of an original which is much smaller. English = enlargement."
+  ],
+  "idGloss": "magnify",
+  "oldEntry": ""
 }

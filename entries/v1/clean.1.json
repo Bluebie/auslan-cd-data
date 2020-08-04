@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clean.1",
-  "oldentry": "",
   "english": [
     "cleanness",
     "cleanliness",
@@ -39,21 +35,7 @@
     "hygienic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something free from dirt and unwanted substances or marks, for example by washing or wiping it. English = clean, clean up.",
-    "2. To clear away the cups, plates and cutlery from a dinner table after a meal has been eaten.",
-    "3. To make something free from dirt and dust by wiping it with a cloth or by shaking a stick with feathers or rags attached to it near the dusty surface. English = dust.",
-    "4. To be very clean and unlikely to cause illness (because there are no germs). English = (be) hygienic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state or condition of being free from dirt and unwanted substances. English = cleanness.",
-    "2. The habit of keeping yourself and your surroundings clean. English = cleanliness.",
-    "3. A person whose job is to clean rooms and furniture inside a building. English = cleaner.",
-    "4. The habit of keeping yourself and your surroundings clean and free of germs. English = hygiene."
-  ],
   "signNumber": 4248,
   "recordNumber": 2575,
   "signVisualComposition": "",
@@ -66,5 +48,23 @@
   ],
   "synonyms": [
     "clean.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something free from dirt and unwanted substances or marks, for example by washing or wiping it. English = clean, clean up.",
+    "2. To clear away the cups, plates and cutlery from a dinner table after a meal has been eaten.",
+    "3. To make something free from dirt and dust by wiping it with a cloth or by shaking a stick with feathers or rags attached to it near the dusty surface. English = dust.",
+    "4. To be very clean and unlikely to cause illness (because there are no germs). English = (be) hygienic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state or condition of being free from dirt and unwanted substances. English = cleanness.",
+    "2. The habit of keeping yourself and your surroundings clean. English = cleanliness.",
+    "3. A person whose job is to clean rooms and furniture inside a building. English = cleaner.",
+    "4. The habit of keeping yourself and your surroundings clean and free of germs. English = hygiene."
+  ],
+  "idGloss": "clean.1",
+  "oldEntry": ""
 }

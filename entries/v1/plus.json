@@ -26,10 +26,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "plus",
-  "oldentry": "Popular explanation: the shape of a plus symbol.",
   "english": [
     "addition",
     "add",
@@ -38,21 +34,7 @@
     "plus"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In mathematics, to calculate the total of two or more numbers. English = add.",
-    "2. To put two things in the same place, to say one more thing. English = add.",
-    "3. In mathematics, to be a number which is greater than zero. English = (be) positive.",
-    "4. In mathematics, the sign for the word used to name the operation of adding two numbers together and represented by the symbol +. English = plus."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to link two or more words, groups, or clauses. English = and."
-  ],
-  "nomlex": [
-    "1. In mathematics, the calculation of the total of two or more numbers. English = addition.",
-    "2. In mathematics, the addition or plus symbol (+) which is put between two numbers to show that they are to be added together."
-  ],
   "signNumber": 951,
   "recordNumber": 547,
   "signVisualComposition": "",
@@ -68,5 +50,23 @@
   "synonyms": [
     "add.2a",
     "and.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to link two or more words, groups, or clauses. English = and."
+  ],
+  "verbLexeme": [
+    "1. In mathematics, to calculate the total of two or more numbers. English = add.",
+    "2. To put two things in the same place, to say one more thing. English = add.",
+    "3. In mathematics, to be a number which is greater than zero. English = (be) positive.",
+    "4. In mathematics, the sign for the word used to name the operation of adding two numbers together and represented by the symbol +. English = plus."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In mathematics, the calculation of the total of two or more numbers. English = addition.",
+    "2. In mathematics, the addition or plus symbol (+) which is put between two numbers to show that they are to be added together."
+  ],
+  "idGloss": "plus",
+  "oldEntry": "Popular explanation: the shape of a plus symbol."
 }

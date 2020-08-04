@@ -19,30 +19,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peaked.hat",
-  "oldentry": "",
   "english": [
     "hat",
     "witch's hat",
     "scout's hat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a peaked hat."
-  ],
   "cf": [
     "hat.head.1a",
     "cap.1a",
     "cap.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A covering that you wear on your head which is tall and peaked. English = (peaked) hat.",
-    "2. A long peaked black hat that witches are often portrayed as wearing. English = witch's hat.",
-    "3. The peaked hat often worn by scouts. English = scout's hat."
   ],
   "signNumber": 2423,
   "recordNumber": 1341,
@@ -55,5 +41,19 @@
   "synonyms": [
     "witch.2",
     "scout"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a peaked hat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A covering that you wear on your head which is tall and peaked. English = (peaked) hat.",
+    "2. A long peaked black hat that witches are often portrayed as wearing. English = witch's hat.",
+    "3. The peaked hat often worn by scouts. English = scout's hat."
+  ],
+  "idGloss": "peaked.hat",
+  "oldEntry": ""
 }

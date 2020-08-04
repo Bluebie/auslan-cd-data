@@ -19,29 +19,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "respect.1a",
-  "oldentry": "",
   "english": [
     "respect",
     "esteem",
     "honour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a good opinion of someone's character or ideas. English = respect, esteem.",
-    "2. To give special attention to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
-  ],
   "cf": [
     "worship",
     "obey.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The good opinion you have of someone's character or ideas. English = respect, esteem.",
-    "2. The special attention you give to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
   ],
   "signNumber": 3535,
   "recordNumber": 2070,
@@ -51,5 +37,19 @@
   "primaryLocation": 2,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a good opinion of someone's character or ideas. English = respect, esteem.",
+    "2. To give special attention to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The good opinion you have of someone's character or ideas. English = respect, esteem.",
+    "2. The special attention you give to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
+  ],
+  "idGloss": "respect.1a",
+  "oldEntry": ""
 }

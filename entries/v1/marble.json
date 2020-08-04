@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "marble",
-  "oldentry": "Popular explanation: flicking a marble with the thumb.",
   "english": [
     "marbles",
     "marble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a game of marbles, to flick a marble with your thumb."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A children's game played with small balls made of coloured glass. You roll a ball along the ground and try to hit an opponent's ball with it. English = marbles.",
-    "2. One of the small balls used by children in the game of marbles. English = marble."
-  ],
   "signNumber": 6133,
   "recordNumber": 3650,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a game of marbles, to flick a marble with your thumb."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A children's game played with small balls made of coloured glass. You roll a ball along the ground and try to hit an opponent's ball with it. English = marbles.",
+    "2. One of the small balls used by children in the game of marbles. English = marble."
+  ],
+  "idGloss": "marble",
+  "oldEntry": "Popular explanation: flicking a marble with the thumb."
 }

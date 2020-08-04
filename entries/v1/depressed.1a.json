@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "depressed.1a",
-  "oldentry": "",
   "english": [
     "depression",
     "despondency",
@@ -46,17 +42,8 @@
     "sadden"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel great sadness and disappointment. English = (be) depressed, (be) dejected, (be) despondent, (be) downcast, (be) sad, (be) unhappy.",
-    "2. To make someone feel great sadness and disappointment. English = depress, sadden."
-  ],
   "cf": [
     "relief.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of great sadness and disappointment. English = depression, despondency, dejection, gloom."
   ],
   "signNumber": 3965,
   "recordNumber": 2368,
@@ -71,5 +58,18 @@
   ],
   "synonyms": [
     "sad.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel great sadness and disappointment. English = (be) depressed, (be) dejected, (be) despondent, (be) downcast, (be) sad, (be) unhappy.",
+    "2. To make someone feel great sadness and disappointment. English = depress, sadden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of great sadness and disappointment. English = depression, despondency, dejection, gloom."
+  ],
+  "idGloss": "depressed.1a",
+  "oldEntry": ""
 }

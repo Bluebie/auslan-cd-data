@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suggest.2a",
-  "oldentry": "",
   "english": [
     "suggestion",
     "suggest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put forward a plan or idea for someone to think about. English = suggest.",
-    "2. To think that something may be possible."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of putting forward a plan or idea for someone to think about. English = suggestion."
-  ],
   "signNumber": 6638,
   "recordNumber": 3952,
   "signVisualComposition": "THINK + PERHAPS",
@@ -44,5 +31,18 @@
   "antonyms": [],
   "synonyms": [
     "idea.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put forward a plan or idea for someone to think about. English = suggest.",
+    "2. To think that something may be possible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of putting forward a plan or idea for someone to think about. English = suggestion."
+  ],
+  "idGloss": "suggest.2a",
+  "oldEntry": ""
 }

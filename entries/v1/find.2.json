@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "find.2",
-  "oldentry": "",
   "english": [
     "find",
     "discover"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To see or locate something that you are looking for; to succeed in getting something you need or want. English = find, discover."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2530,
   "recordNumber": 1405,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   ],
   "synonyms": [
     "find.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To see or locate something that you are looking for; to succeed in getting something you need or want. English = find, discover."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "find.2",
+  "oldEntry": ""
 }

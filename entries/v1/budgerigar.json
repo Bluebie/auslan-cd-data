@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "budgerigar",
-  "oldentry": "Popular explanation: the beak of a budgerigar.",
   "english": [
     "budgerigar"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To nibble and peck at something like a budgerigar."
-  ],
   "cf": [
     "bird"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, brightly-coloured bird that people keep in their houses as pets. It has a small, hard, curved beak. English = budgerigar."
   ],
   "signNumber": 1413,
   "recordNumber": 842,
@@ -39,5 +27,17 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To nibble and peck at something like a budgerigar."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, brightly-coloured bird that people keep in their houses as pets. It has a small, hard, curved beak. English = budgerigar."
+  ],
+  "idGloss": "budgerigar",
+  "oldEntry": "Popular explanation: the beak of a budgerigar."
 }

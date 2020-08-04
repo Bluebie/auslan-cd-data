@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "seal.2",
-  "oldentry": "Popular explanation: a seal clapping its fins together.",
   "english": [
     "seal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a seal, to clap flippers together."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, shiny animal without legs, which eats fish and lives partly on land and partly in the sea. English = seal."
-  ],
   "signNumber": 3955,
   "recordNumber": 2359,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 17,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a seal, to clap flippers together."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, shiny animal without legs, which eats fish and lives partly on land and partly in the sea. English = seal."
+  ],
+  "idGloss": "seal.2",
+  "oldEntry": "Popular explanation: a seal clapping its fins together."
 }

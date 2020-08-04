@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "positive.1a",
-  "oldentry": "Popular explanation: the shape of a plus symbol.",
   "english": [
     "advantage",
     "benefit",
@@ -31,17 +27,7 @@
     "beneficial"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that gives or suggests the answer 'yes'. English = (be) positive.",
-    "2. To consider only the advantages and good aspects of a situation, rather than the disadvantages and bad aspects. English = (be) positive.",
-    "3. To put you in a better position that other people, or to be likely to improve a situation. English = (be) advantageous, (be) beneficial."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that puts you in a better position than other people, or is likely to improve a situation. English = advantage, benefit."
-  ],
   "signNumber": 952,
   "recordNumber": 548,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   "antonyms": [
     "negative"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something that gives or suggests the answer 'yes'. English = (be) positive.",
+    "2. To consider only the advantages and good aspects of a situation, rather than the disadvantages and bad aspects. English = (be) positive.",
+    "3. To put you in a better position that other people, or to be likely to improve a situation. English = (be) advantageous, (be) beneficial."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that puts you in a better position than other people, or is likely to improve a situation. English = advantage, benefit."
+  ],
+  "idGloss": "positive.1a",
+  "oldEntry": "Popular explanation: the shape of a plus symbol."
 }

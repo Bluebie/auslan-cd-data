@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Schadenfreude",
-  "oldentry": "",
   "english": [
     "Schadenfreude"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take pleasure in other people's misfortunes."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The pleasure some people feel in other people's misfortunes. Formal English = Schadenfreude."
-  ],
   "signNumber": 6359,
   "recordNumber": 3799,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take pleasure in other people's misfortunes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The pleasure some people feel in other people's misfortunes. Formal English = Schadenfreude."
+  ],
+  "idGloss": "Schadenfreude",
+  "oldEntry": ""
 }

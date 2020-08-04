@@ -14,26 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fly.close",
-  "oldentry": "",
   "english": [
     "fly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To zip up or do up the front opening on a pair of trousers; to zip up or do up a fly.",
-    "2. Of a fly on a pair of trousers, to be zipped up, to be done up."
-  ],
   "cf": [
     "fly.3",
     "zip.1a",
     "fly.3"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6188,
   "recordNumber": 3696,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "antonyms": [
     "fly.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To zip up or do up the front opening on a pair of trousers; to zip up or do up a fly.",
+    "2. Of a fly on a pair of trousers, to be zipped up, to be done up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fly.close",
+  "oldEntry": ""
 }

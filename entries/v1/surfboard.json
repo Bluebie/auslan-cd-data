@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "surfboard",
-  "oldentry": "",
   "english": [
     "surfing",
     "surfboard",
@@ -28,17 +24,7 @@
     "surfie"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ride towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surf."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sport of riding towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surfing.",
-    "2. A long narrow board that people use in surfing. English = surfboard.",
-    "3. A young person who spends a lot of time at the beach, enjoying themselves by going surfing. Informal Australian English = surfie."
-  ],
   "signNumber": 1684,
   "recordNumber": 1007,
   "signVisualComposition": "",
@@ -47,5 +33,19 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ride towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surf."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sport of riding towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surfing.",
+    "2. A long narrow board that people use in surfing. English = surfboard.",
+    "3. A young person who spends a lot of time at the beach, enjoying themselves by going surfing. Informal Australian English = surfie."
+  ],
+  "idGloss": "surfboard",
+  "oldEntry": ""
 }

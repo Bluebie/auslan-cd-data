@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "room.1a",
-  "oldentry": "",
   "english": [
     "room",
     "paddock",
@@ -30,16 +26,7 @@
     "court"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the separate sections in a house or other building, which has its own wall, ceiling, floor, and door. English = room.",
-    "2. A defined area, inside or outside a building, often one which is surrounded by a fence or a wall.",
-    "3. Any area of land which has been fenced in. English = paddock.",
-    "4. An area in which you play a  particular sport. English = pitch, field, court."
-  ],
   "signNumber": 1104,
   "recordNumber": 649,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   "antonyms": [],
   "synonyms": [
     "ceiling.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the separate sections in a house or other building, which has its own wall, ceiling, floor, and door. English = room.",
+    "2. A defined area, inside or outside a building, often one which is surrounded by a fence or a wall.",
+    "3. Any area of land which has been fenced in. English = paddock.",
+    "4. An area in which you play a  particular sport. English = pitch, field, court."
+  ],
+  "idGloss": "room.1a",
+  "oldEntry": ""
 }

@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "salary",
-  "oldentry": "",
   "english": [
     "salary",
     "earn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be paid money for your work, usually each month, especially when you have a professional job and the money paid is considerable. English = receive a salary, earn a good income.",
-    "2. To earn lots of money. Idiomatic English = earn money hand over fist."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The money that you are paid for your job, usually each month, especially when you have a professional job and the money paid is considerable. English = salary, (good) salary."
-  ],
   "signNumber": 2873,
   "recordNumber": 1624,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "income.1a",
     "profit.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be paid money for your work, usually each month, especially when you have a professional job and the money paid is considerable. English = receive a salary, earn a good income.",
+    "2. To earn lots of money. Idiomatic English = earn money hand over fist."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The money that you are paid for your job, usually each month, especially when you have a professional job and the money paid is considerable. English = salary, (good) salary."
+  ],
+  "idGloss": "salary",
+  "oldEntry": ""
 }

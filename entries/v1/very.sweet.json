@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "SWEET + 'NOT' or SWEET + stress",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "very.sweet",
-  "oldentry": "",
   "english": [
     "saccharine",
     "sweet",
@@ -28,20 +24,8 @@
     "agreeable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the taste of food or drink that contains an extreme amount of sugar, but is pleasant. English = (be) very sweet.",
-    "2. To be something pleasant. English = (be) likeable, (be) agreeable.",
-    "3. To want something a lot. English = (be) keen on.",
-    "4. To have too much of some quality, especially sweetness. English = (be) too sweet, (be) disagreeable, dislike."
-  ],
   "cf": [
     "useless"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The taste of food or drink that contains an extreme amount of sugar, but is pleasant.",
-    "2. The taste of food or drink that contains an extreme amount of sugar so that it is unpleasant. English = saccharine."
   ],
   "signNumber": 4743,
   "recordNumber": 2867,
@@ -54,5 +38,21 @@
   "synonyms": [
     "sweet.1a",
     "not.keen.on"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the taste of food or drink that contains an extreme amount of sugar, but is pleasant. English = (be) very sweet.",
+    "2. To be something pleasant. English = (be) likeable, (be) agreeable.",
+    "3. To want something a lot. English = (be) keen on.",
+    "4. To have too much of some quality, especially sweetness. English = (be) too sweet, (be) disagreeable, dislike."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The taste of food or drink that contains an extreme amount of sugar, but is pleasant.",
+    "2. The taste of food or drink that contains an extreme amount of sugar so that it is unpleasant. English = saccharine."
+  ],
+  "idGloss": "very.sweet",
+  "oldEntry": ""
 }

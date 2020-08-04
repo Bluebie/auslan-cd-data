@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tape.1a",
-  "oldentry": "",
   "english": [
     "tape",
     "adhesive tape",
@@ -28,18 +24,8 @@
     "plaster"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use sticky strips of plastic to stick things together. English = apply adhesive tape.",
-    "2. To put a band-aid onto someone."
-  ],
   "cf": [
     "tape.measure"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Sticky strips of plastic which you use for sticking things together. English = tape, adhesive tape.",
-    "2. A strip of sticky material used for covering small cuts or sores on your body. English = band-aid. British English = plaster."
   ],
   "signNumber": 4885,
   "recordNumber": 2951,
@@ -49,5 +35,19 @@
   "primaryLocation": 15,
   "secondLocation": 270,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use sticky strips of plastic to stick things together. English = apply adhesive tape.",
+    "2. To put a band-aid onto someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Sticky strips of plastic which you use for sticking things together. English = tape, adhesive tape.",
+    "2. A strip of sticky material used for covering small cuts or sores on your body. English = band-aid. British English = plaster."
+  ],
+  "idGloss": "tape.1a",
+  "oldEntry": ""
 }

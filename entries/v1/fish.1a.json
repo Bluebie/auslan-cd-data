@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fish.1a",
-  "oldentry": "",
   "english": [
     "fish",
     "Pisces"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move like a fish through water; to swim like a fish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A creature that lives in water and has a tail and fins. English = fish.",
-    "2. The flesh of a fish which is eaten as food. English = fish.",
-    "3. A constellation and sign of the Zodiac, called Pisces (the fishes). English = Pisces."
-  ],
   "signNumber": 3471,
   "recordNumber": 2027,
   "signVisualComposition": "",
@@ -47,5 +33,19 @@
   "synonyms": [
     "fish.2",
     "fish.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move like a fish through water; to swim like a fish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A creature that lives in water and has a tail and fins. English = fish.",
+    "2. The flesh of a fish which is eaten as food. English = fish.",
+    "3. A constellation and sign of the Zodiac, called Pisces (the fishes). English = Pisces."
+  ],
+  "idGloss": "fish.1a",
+  "oldEntry": ""
 }

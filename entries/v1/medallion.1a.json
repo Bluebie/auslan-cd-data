@@ -14,27 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "medallion.1a",
-  "oldentry": "",
   "english": [
     "medal",
     "medallion",
     "pendant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a medal, medallion or pendant."
-  ],
   "cf": [
     "school captain"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small piece of metal with a design on it. It is given as an award for bravery or as a prize in sporting events.  English = medal.",
-    "2. A round piece of metal which is worn as an ornament on a chain round a person's neck. English = medallion, pendant."
   ],
   "signNumber": 5327,
   "recordNumber": 3189,
@@ -46,5 +33,18 @@
   "antonyms": [],
   "synonyms": [
     "medal"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a medal, medallion or pendant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small piece of metal with a design on it. It is given as an award for bravery or as a prize in sporting events.  English = medal.",
+    "2. A round piece of metal which is worn as an ornament on a chain round a person's neck. English = medallion, pendant."
+  ],
+  "idGloss": "medallion.1a",
+  "oldEntry": ""
 }

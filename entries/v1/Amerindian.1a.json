@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Amerindian.1a",
-  "oldentry": "",
   "english": [
     "Amerindian",
     "Indian",
@@ -26,13 +22,7 @@
     "Native American"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A member or descendant of one of the tribes of people living in North America when Europeans arrived there. English = American Indian, Amerindian, Native American, red Indian."
-  ],
   "signNumber": 1530,
   "recordNumber": 910,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "Amerindian.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A member or descendant of one of the tribes of people living in North America when Europeans arrived there. English = American Indian, Amerindian, Native American, red Indian."
+  ],
+  "idGloss": "Amerindian.1a",
+  "oldEntry": ""
 }

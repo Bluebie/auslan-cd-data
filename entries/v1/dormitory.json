@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dormitory",
-  "oldentry": "Popular explanation: rows of beds.",
   "english": [
     "dormitory"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "de facto",
     "accommodation.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large bedroom where several people sleep in many different beds, for example in a boarding school. English = dormitory."
   ],
   "signNumber": 2051,
   "recordNumber": 1198,
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large bedroom where several people sleep in many different beds, for example in a boarding school. English = dormitory."
+  ],
+  "idGloss": "dormitory",
+  "oldEntry": "Popular explanation: rows of beds."
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crazy.1a",
-  "oldentry": "",
   "english": [
     "crazy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To talk or behave in a very strange or foolish way. English = (be) crazy, Idiomatic English = (be) out of one's mind."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 512,
   "recordNumber": 284,
   "signVisualComposition": "MIND + FINISH",
@@ -38,5 +28,15 @@
   "synonyms": [
     "crazy.2a",
     "crazy.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To talk or behave in a very strange or foolish way. English = (be) crazy, Idiomatic English = (be) out of one's mind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "crazy.1a",
+  "oldEntry": ""
 }

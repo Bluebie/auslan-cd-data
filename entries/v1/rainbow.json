@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rainbow",
-  "oldentry": "Popular explanation: an arcing line",
   "english": [
     "rainbow"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An arc of different colours that you can sometimes see in the sky when it is raining. English = rainbow."
-  ],
   "signNumber": 2386,
   "recordNumber": 1316,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An arc of different colours that you can sometimes see in the sky when it is raining. English = rainbow."
+  ],
+  "idGloss": "rainbow",
+  "oldEntry": "Popular explanation: an arcing line"
 }

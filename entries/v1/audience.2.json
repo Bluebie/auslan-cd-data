@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "audience.2",
-  "oldentry": "",
   "english": [
     "audience"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be part of the audience watching or listening to something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The group of people who are watching or listening to something such as a play, concert, or film. English = audience."
-  ],
   "signNumber": 2661,
   "recordNumber": 1478,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "audience.1",
     "audience.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be part of the audience watching or listening to something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The group of people who are watching or listening to something such as a play, concert, or film. English = audience."
+  ],
+  "idGloss": "audience.2",
+  "oldEntry": ""
 }

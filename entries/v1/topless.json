@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "topless",
-  "oldentry": "",
   "english": [
     "topless"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a woman, not to be wearing anything that covers her breasts. English = (be) topless."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 874,
   "recordNumber": 498,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a woman, not to be wearing anything that covers her breasts. English = (be) topless."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "topless",
+  "oldEntry": ""
 }

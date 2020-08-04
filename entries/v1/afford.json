@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "afford",
-  "oldentry": "Popular explanation: taking money out of a pocket and paying someone.",
   "english": [
     "fare",
     "pay",
@@ -31,16 +27,7 @@
     "afford"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give someone an amount of money, because you are buying something from them, or because you owe it to them. English = pay, pay for.",
-    "2. To have enough money to be able to pay for something. English = afford."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The money you pay for a journey in a taxi, train, bus or aeroplane. English = fare."
-  ],
   "signNumber": 346,
   "recordNumber": 191,
   "signVisualComposition": "",
@@ -53,5 +40,18 @@
   ],
   "synonyms": [
     "pay"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give someone an amount of money, because you are buying something from them, or because you owe it to them. English = pay, pay for.",
+    "2. To have enough money to be able to pay for something. English = afford."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The money you pay for a journey in a taxi, train, bus or aeroplane. English = fare."
+  ],
+  "idGloss": "afford",
+  "oldEntry": "Popular explanation: taking money out of a pocket and paying someone."
 }

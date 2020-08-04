@@ -12,25 +12,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hangover",
-  "oldentry": "Popular explanation: pulling on something around the neck.",
   "english": [
     "hangover",
     "hungover"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a headache and a feeling of sickness in the morning because you have drunk a lot of alcohol the night before. English = have a hangover, (be) hungover."
-  ],
   "cf": [
     "hanging"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A headache and feeling of sickness that you have in the morning if you have drunk a lot of alcohol the night before. English = hangover."
   ],
   "signNumber": 5630,
   "recordNumber": 3335,
@@ -40,5 +28,17 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a headache and a feeling of sickness in the morning because you have drunk a lot of alcohol the night before. English = have a hangover, (be) hungover."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A headache and feeling of sickness that you have in the morning if you have drunk a lot of alcohol the night before. English = hangover."
+  ],
+  "idGloss": "hangover",
+  "oldEntry": "Popular explanation: pulling on something around the neck."
 }

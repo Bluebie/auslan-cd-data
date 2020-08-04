@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "quince.1",
-  "oldentry": "",
   "english": [
     "quince"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hard fruit with an acid taste that is used for making jelly, marmalade, etc. English = quince."
-  ],
   "signNumber": 3310,
   "recordNumber": 1932,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hard fruit with an acid taste that is used for making jelly, marmalade, etc. English = quince."
+  ],
+  "idGloss": "quince.1",
+  "oldEntry": ""
 }

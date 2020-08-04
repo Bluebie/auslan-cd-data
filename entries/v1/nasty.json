@@ -17,10 +17,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nasty",
-  "oldentry": "",
   "english": [
     "nastiness",
     "bitch",
@@ -28,18 +24,7 @@
     "mean"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of behaviour, to be unkind and unpleasant. English = (be) nasty, (be) mean.",
-    "2. To be very unpleasant to see, experience or feel. English = (be) nasty.",
-    "3. To complain or talk about something or someone in a nasty way. English = bitch"
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which is unkind and unpleasant. English = nastiness.",
-    "2. Someone who behaves in a very unpleasant way. English = bitch."
-  ],
   "signNumber": 6460,
   "recordNumber": 3851,
   "signVisualComposition": "",
@@ -48,5 +33,20 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of behaviour, to be unkind and unpleasant. English = (be) nasty, (be) mean.",
+    "2. To be very unpleasant to see, experience or feel. English = (be) nasty.",
+    "3. To complain or talk about something or someone in a nasty way. English = bitch"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which is unkind and unpleasant. English = nastiness.",
+    "2. Someone who behaves in a very unpleasant way. English = bitch."
+  ],
+  "idGloss": "nasty",
+  "oldEntry": ""
 }

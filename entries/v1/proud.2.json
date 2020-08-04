@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "proud.2",
-  "oldentry": "",
   "english": [
     "pride",
     "boastfulness",
@@ -32,17 +28,7 @@
     "boast"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel glad about something good that you or someone close to you owns or has done; to have dignity and self-respect. English = (be) proud",
-    "2. (With a 'smug' facial expression) to be overly pleased and glad with oneself so that other people think you are lacking in humility. English = brag, love oneself, boast."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of gladness you have about something good that you or someone close to you owns or has done; the feeling of dignity and self-respect. English = pride.",
-    "2. The act of congratulating yourself too much, so that you offend other people. English = boastfulness."
-  ],
   "signNumber": 4827,
   "recordNumber": 2915,
   "signVisualComposition": "",
@@ -54,5 +40,19 @@
   "synonyms": [
     "proud.1",
     "congratulate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel glad about something good that you or someone close to you owns or has done; to have dignity and self-respect. English = (be) proud",
+    "2. (With a 'smug' facial expression) to be overly pleased and glad with oneself so that other people think you are lacking in humility. English = brag, love oneself, boast."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of gladness you have about something good that you or someone close to you owns or has done; the feeling of dignity and self-respect. English = pride.",
+    "2. The act of congratulating yourself too much, so that you offend other people. English = boastfulness."
+  ],
+  "idGloss": "proud.2",
+  "oldEntry": ""
 }

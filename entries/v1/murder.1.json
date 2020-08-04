@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "murder.1",
-  "oldentry": "",
   "english": [
     "murder",
     "murderer",
@@ -30,21 +26,9 @@
     "slay"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately and unlawfully kill a person. English = murder.",
-    "2. To kill a person in a violent way. Formal English = slay.",
-    "3. To cut or slit a throat."
-  ],
   "cf": [
     "kill",
     "operate.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The deliberate and unlawful killing of a person. English = murder.",
-    "2. A person who deliberately and unlawfully kills a person. English = murderer.",
-    "3. A cut or a slit on a throat."
   ],
   "signNumber": 4751,
   "recordNumber": 2872,
@@ -56,5 +40,21 @@
   "antonyms": [],
   "synonyms": [
     "murder.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately and unlawfully kill a person. English = murder.",
+    "2. To kill a person in a violent way. Formal English = slay.",
+    "3. To cut or slit a throat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The deliberate and unlawful killing of a person. English = murder.",
+    "2. A person who deliberately and unlawfully kills a person. English = murderer.",
+    "3. A cut or a slit on a throat."
+  ],
+  "idGloss": "murder.1",
+  "oldEntry": ""
 }

@@ -19,10 +19,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fly.1a",
-  "oldentry": "Popular explanation: flapping wings.",
   "english": [
     "wings",
     "fly",
@@ -31,17 +27,7 @@
     "winger"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of animals, birds and insects, to travel through the air by using wings. English = fly, wing.",
-    "2. Of animals, birds and insects, to move wings up and down. English = flap."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The two parts of the body of some animals, insects and birds that are used for flying. English = wings.",
-    "2. In football or hockey, an attacking player who plays mainly on the far left or the far right of the pitch. English = winger."
-  ],
   "signNumber": 3592,
   "recordNumber": 2111,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "fly.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of animals, birds and insects, to travel through the air by using wings. English = fly, wing.",
+    "2. Of animals, birds and insects, to move wings up and down. English = flap."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The two parts of the body of some animals, insects and birds that are used for flying. English = wings.",
+    "2. In football or hockey, an attacking player who plays mainly on the far left or the far right of the pitch. English = winger."
+  ],
+  "idGloss": "fly.1a",
+  "oldEntry": "Popular explanation: flapping wings."
 }

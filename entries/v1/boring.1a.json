@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boring.1a",
-  "oldentry": "",
   "english": [
     "boredom",
     "bore",
@@ -35,20 +31,7 @@
     "insignificant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, event, story or situation, to be so dull and uninteresting that people feel tired and impatient; to make people feel tired and impatient. English = (be) boring; bore.",
-    "2. Of a person, to feel tired and impatient because something, such as a person, event, story or situation, is dull and uninteresting. English = (be) bored.",
-    "3. To be of little or no importance. English = (be) trivial, (be) insignificant."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell your addressee that their reaction to something you have done is out of proportion. You believe your action was trivial or of no real importance."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being bored. English = boredom.",
-    "2. A person whom other people think is dull and uninteresting. English = bore."
-  ],
   "signNumber": 290,
   "recordNumber": 169,
   "signVisualComposition": "",
@@ -61,5 +44,22 @@
   ],
   "synonyms": [
     "boring.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell your addressee that their reaction to something you have done is out of proportion. You believe your action was trivial or of no real importance."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, event, story or situation, to be so dull and uninteresting that people feel tired and impatient; to make people feel tired and impatient. English = (be) boring; bore.",
+    "2. Of a person, to feel tired and impatient because something, such as a person, event, story or situation, is dull and uninteresting. English = (be) bored.",
+    "3. To be of little or no importance. English = (be) trivial, (be) insignificant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being bored. English = boredom.",
+    "2. A person whom other people think is dull and uninteresting. English = bore."
+  ],
+  "idGloss": "boring.1a",
+  "oldEntry": ""
 }

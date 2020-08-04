@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "The movement can be repeated by reversing the hands.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "glove",
-  "oldentry": "Popular explanation: pulling on a glove.",
   "english": [
     "glove"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a glove."
-  ],
   "cf": [
     "hand"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing which covers your hand and wrist and has individual sections for each finger. English = glove."
   ],
   "signNumber": 4458,
   "recordNumber": 2708,
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a glove."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing which covers your hand and wrist and has individual sections for each finger. English = glove."
+  ],
+  "idGloss": "glove",
+  "oldEntry": "Popular explanation: pulling on a glove."
 }

@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "A genuine obsolete sign which appears to be Irish and/or Catholic in origin. It has been reintroduced through the so-called 'Signed English' movement.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wild.1",
-  "oldentry": "",
   "english": [
     "wild"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of animals and plants, to live or grow in natural surroundings and not to be looked after by people. English = (be) wild."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2247,
   "recordNumber": 1274,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of animals and plants, to live or grow in natural surroundings and not to be looked after by people. English = (be) wild."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wild.1",
+  "oldEntry": ""
 }

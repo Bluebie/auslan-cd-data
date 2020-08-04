@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "DISAPPROVE + DEPRESSED",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "repress",
-  "oldentry": "",
   "english": [
     "repression",
     "oppression",
@@ -30,17 +26,7 @@
     "oppress"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use force to restrict and control a person or a group of people, especially the people of a country. English = repress, keep under one's thumb.",
-    "2. To treat a person or a group of people unfairly or cruelly. English = oppress."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The use of force to restrict and control a person or a group of people, especially the people of a country. English = repression.",
-    "2. The unfair or cruel treatment of a person or a group of people. English = oppression."
-  ],
   "signNumber": 4952,
   "recordNumber": 2992,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   ],
   "synonyms": [
     "defeat.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use force to restrict and control a person or a group of people, especially the people of a country. English = repress, keep under one's thumb.",
+    "2. To treat a person or a group of people unfairly or cruelly. English = oppress."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The use of force to restrict and control a person or a group of people, especially the people of a country. English = repression.",
+    "2. The unfair or cruel treatment of a person or a group of people. English = oppression."
+  ],
+  "idGloss": "repress",
+  "oldEntry": ""
 }

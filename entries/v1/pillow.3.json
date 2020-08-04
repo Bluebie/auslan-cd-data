@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pillow.3",
-  "oldentry": "",
   "english": [
     "pillow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To rest your head on a pillow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
-  ],
   "signNumber": 3118,
   "recordNumber": 1800,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "synonyms": [
     "pillow.1",
     "pillow.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To rest your head on a pillow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
+  ],
+  "idGloss": "pillow.3",
+  "oldEntry": ""
 }

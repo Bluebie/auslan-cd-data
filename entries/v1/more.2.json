@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "more.2",
-  "oldentry": "",
   "english": [
     "more"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a greater amount or number of something than before. English = (be) more."
-  ],
   "cf": [
     "save"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used after a verb sign to mean that the action happens to a greater extent or continues to happen. English = more."
-  ],
-  "nomlex": [],
   "signNumber": 4303,
   "recordNumber": 2621,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "synonyms": [
     "more.1",
     "more.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used after a verb sign to mean that the action happens to a greater extent or continues to happen. English = more."
+  ],
+  "verbLexeme": [
+    "1. To be a greater amount or number of something than before. English = (be) more."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "more.2",
+  "oldEntry": ""
 }

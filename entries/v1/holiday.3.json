@@ -15,22 +15,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "holiday.3",
-  "oldentry": "",
   "english": [
     "holiday",
     "vacation"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of time in which you are relaxing and enjoying yourself away from home, or a period of time in which you are not working or attending school, college or university. English = holiday. American English = vacation."
-  ],
   "signNumber": 2658,
   "recordNumber": 1475,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "holiday.1",
     "holiday.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of time in which you are relaxing and enjoying yourself away from home, or a period of time in which you are not working or attending school, college or university. English = holiday. American English = vacation."
+  ],
+  "idGloss": "holiday.3",
+  "oldEntry": ""
 }

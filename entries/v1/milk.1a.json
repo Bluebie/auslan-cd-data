@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "milk.1a",
-  "oldentry": "Popular explanation: a milking action.",
   "english": [
     "milk"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get milk from a cow or goat by pulling on the udders. English = milk."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A white liquid produced by cows, goats and other animals. English = milk."
-  ],
   "signNumber": 2704,
   "recordNumber": 1502,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "milk.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get milk from a cow or goat by pulling on the udders. English = milk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A white liquid produced by cows, goats and other animals. English = milk."
+  ],
+  "idGloss": "milk.1a",
+  "oldEntry": "Popular explanation: a milking action."
 }

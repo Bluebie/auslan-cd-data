@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "long.time.1a",
-  "oldentry": "",
   "english": [
     "ago",
     "long ago"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to place the action of the sentence a long time ago in the past. English = a long time ago, ages ago, long ago.",
-    "2. Used immediately next to a verb sign to place the time of the action a long time ago in the past. English = long ago."
-  ],
-  "nomlex": [
-    "1. A very long period of time."
-  ],
   "signNumber": 1209,
   "recordNumber": 711,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
     "short.of",
     "instant.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to place the action of the sentence a long time ago in the past. English = a long time ago, ages ago, long ago.",
+    "2. Used immediately next to a verb sign to place the time of the action a long time ago in the past. English = long ago."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very long period of time."
+  ],
+  "idGloss": "long.time.1a",
+  "oldEntry": ""
 }

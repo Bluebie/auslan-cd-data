@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "guess.1a",
-  "oldentry": "",
   "english": [
     "guess",
     "estimate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give an answer or an opinion about something when you do not know whether it is correct. English = guess.",
-    "2. To attempt to give an approximate answer to something. English = estimate."
-  ],
   "cf": [
     "fiction.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An attempt to give the right answer to something when you do not know it. English = guess."
   ],
   "signNumber": 5083,
   "recordNumber": 3068,
@@ -46,5 +33,18 @@
   "antonyms": [],
   "synonyms": [
     "silly.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give an answer or an opinion about something when you do not know whether it is correct. English = guess.",
+    "2. To attempt to give an approximate answer to something. English = estimate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An attempt to give the right answer to something when you do not know it. English = guess."
+  ],
+  "idGloss": "guess.1a",
+  "oldEntry": ""
 }

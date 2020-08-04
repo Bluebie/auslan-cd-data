@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "float.3a",
-  "oldentry": "",
   "english": [
     "float"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lie or move slowly along the surface of a liquid. English = float."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3864,
   "recordNumber": 2297,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lie or move slowly along the surface of a liquid. English = float."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "float.3a",
+  "oldEntry": ""
 }

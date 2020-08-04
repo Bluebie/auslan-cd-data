@@ -9,23 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "use.1a",
-  "oldentry": "",
   "english": [
     "use"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something with an object in order to do a job or to achieve something. English = use."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The purpose for which a thing is normally made, or the purpose to which a thing is normally put. English = use."
-  ],
   "signNumber": 4779,
   "recordNumber": 2890,
   "signVisualComposition": "",
@@ -34,5 +22,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something with an object in order to do a job or to achieve something. English = use."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The purpose for which a thing is normally made, or the purpose to which a thing is normally put. English = use."
+  ],
+  "idGloss": "use.1a",
+  "oldEntry": ""
 }

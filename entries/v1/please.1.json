@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "THANKYOU = GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "please.1",
-  "oldentry": "",
   "english": [
     "please"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "thank"
   ],
-  "interj": [
-    "1. Used alone to repeat a request which has already been made or is simply understood as being made. English = please."
-  ],
-  "partlex": [
-    "1. Used at the beginning or end of a sign sentence or immediately before the verb (action) sign to politely ask someone to do something. English = please."
-  ],
-  "nomlex": [],
   "signNumber": 3284,
   "recordNumber": 1915,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "pleased"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to repeat a request which has already been made or is simply understood as being made. English = please."
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sign sentence or immediately before the verb (action) sign to politely ask someone to do something. English = please."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "please.1",
+  "oldEntry": ""
 }

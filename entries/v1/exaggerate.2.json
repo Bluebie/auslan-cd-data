@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "exaggerate.2",
-  "oldentry": "Popular explanation: pulling apart or stretching something.",
   "english": [
     "exaggeration",
     "exaggerate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make the thing that you are talking about seem bigger, better, or worse than it actually is, usually by adding extra details. English = exaggerate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of making the thing that you are talking about seem bigger, better, or worse than it actually is, usually by adding extra details, or a story which is like that. English = exaggeration."
-  ],
   "signNumber": 5859.1,
   "recordNumber": 3485,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   ],
   "synonyms": [
     "exaggerate.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make the thing that you are talking about seem bigger, better, or worse than it actually is, usually by adding extra details. English = exaggerate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of making the thing that you are talking about seem bigger, better, or worse than it actually is, usually by adding extra details, or a story which is like that. English = exaggeration."
+  ],
+  "idGloss": "exaggerate.2",
+  "oldEntry": "Popular explanation: pulling apart or stretching something."
 }

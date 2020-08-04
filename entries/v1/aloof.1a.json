@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "aloof.1a",
-  "oldentry": "",
   "english": [
     "aloof",
     "quit",
@@ -29,15 +25,7 @@
     "pull out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stop doing something, especially being a member or participant in some organisation or activity. English = quit, withdraw, resign. Idiomatic English = drop out, pull out.",
-    "2. To not become involved in something. English = stay aloof, keep aloof, remain aloof.",
-    "3. To like to be alone and not talk much to other people. English = (be) aloof."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2165,
   "recordNumber": 1250,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stop doing something, especially being a member or participant in some organisation or activity. English = quit, withdraw, resign. Idiomatic English = drop out, pull out.",
+    "2. To not become involved in something. English = stay aloof, keep aloof, remain aloof.",
+    "3. To like to be alone and not talk much to other people. English = (be) aloof."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "aloof.1a",
+  "oldEntry": ""
 }

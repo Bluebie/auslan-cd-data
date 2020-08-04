@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hour.2",
-  "oldentry": "Popular explanation: the hands going around the face of a clock.",
   "english": [
     "hour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of some event or situation, to last for an hour.",
-    "2. Of time, for an hour to pass."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of sixty minutes. English = hour."
-  ],
   "signNumber": 265,
   "recordNumber": 154,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "antonyms": [],
   "synonyms": [
     "hour.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of some event or situation, to last for an hour.",
+    "2. Of time, for an hour to pass."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of sixty minutes. English = hour."
+  ],
+  "idGloss": "hour.2",
+  "oldEntry": "Popular explanation: the hands going around the face of a clock."
 }

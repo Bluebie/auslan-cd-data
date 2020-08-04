@@ -18,28 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "criticise",
-  "oldentry": "",
   "english": [
     "criticism",
     "criticise",
     "critical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To express your disapproval of someone or something by saying what you think is wrong with them. English = criticise.",
-    "2. Of a person, to be always ready to criticise others. English = (be) critical."
-  ],
   "cf": [
     "blame.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The expression of disapproval of someone or something by saying what you think is wrong with them. English = criticism.",
-    "2. A comment in which you say someone or something has a particular fault. English = criticism."
   ],
   "signNumber": 5004,
   "recordNumber": 3017,
@@ -54,5 +40,19 @@
   ],
   "synonyms": [
     "object"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To express your disapproval of someone or something by saying what you think is wrong with them. English = criticise.",
+    "2. Of a person, to be always ready to criticise others. English = (be) critical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The expression of disapproval of someone or something by saying what you think is wrong with them. English = criticism.",
+    "2. A comment in which you say someone or something has a particular fault. English = criticism."
+  ],
+  "idGloss": "criticise",
+  "oldEntry": ""
 }

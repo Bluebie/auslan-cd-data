@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "still.2",
-  "oldentry": "",
   "english": [
     "permanence",
     "permanency",
@@ -41,19 +37,7 @@
     "continuously"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something over a period of time and to not stop doing it. English = continue. Idiomatic English = go on.",
-    "2. To happen over a period of time without any break. English = (be) continuous.",
-    "3. To be something that lasts for ever or for a very long time, especially without changing. English = (be) permanent, (be) unchanging, (be) constant, (be) ongoing."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action has happened over a period of time without stopping or without any break. English = continuously."
-  ],
-  "nomlex": [
-    "1. The quality of remaining the same for a long time or forever. English = permanence, permanency."
-  ],
   "signNumber": 1472,
   "recordNumber": 879,
   "signVisualComposition": "",
@@ -64,5 +48,21 @@
   "antonyms": [],
   "synonyms": [
     "still.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action has happened over a period of time without stopping or without any break. English = continuously."
+  ],
+  "verbLexeme": [
+    "1. To do something over a period of time and to not stop doing it. English = continue. Idiomatic English = go on.",
+    "2. To happen over a period of time without any break. English = (be) continuous.",
+    "3. To be something that lasts for ever or for a very long time, especially without changing. English = (be) permanent, (be) unchanging, (be) constant, (be) ongoing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of remaining the same for a long time or forever. English = permanence, permanency."
+  ],
+  "idGloss": "still.2",
+  "oldEntry": ""
 }

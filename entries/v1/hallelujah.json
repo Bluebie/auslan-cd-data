@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hallelujah",
-  "oldentry": "",
   "english": [
     "hallelujah"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone by some Christians in church as an exclamation of praise and thanks to God. English = 'Hallelujah!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6139.1,
   "recordNumber": 3657,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": null,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone by some Christians in church as an exclamation of praise and thanks to God. English = 'Hallelujah!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hallelujah",
+  "oldEntry": ""
 }

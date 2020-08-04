@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "step",
-  "oldentry": "Popular explanation: one foot placed in front of the other.",
   "english": [
     "step",
     "footstep"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lift your foot and put it down in a different place, for example when you are walking. English = step.",
-    "2. To put your foot on something. English = step on."
-  ],
   "cf": [
     "footsteps"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The movement you make when you lift your foot and put it down in a different place, for example when you are walking. English = step.",
-    "2. The sound or vibrations that your feet make when you make a step. English = footstep."
   ],
   "signNumber": 4113,
   "recordNumber": 2472,
@@ -52,5 +38,19 @@
     "walk.1a",
     "stride",
     "stroll"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lift your foot and put it down in a different place, for example when you are walking. English = step.",
+    "2. To put your foot on something. English = step on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The movement you make when you lift your foot and put it down in a different place, for example when you are walking. English = step.",
+    "2. The sound or vibrations that your feet make when you make a step. English = footstep."
+  ],
+  "idGloss": "step",
+  "oldEntry": "Popular explanation: one foot placed in front of the other."
 }

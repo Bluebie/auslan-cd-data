@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A short cylindrical object, or any thing or any action directly or indirectly associated with this, especially a cartridge.",
-  "questlex": [],
-  "idgloss": "cartridge",
-  "oldentry": "",
   "english": [
     "cartridge"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A metal or cardboard tube containing a bullet and an explosive substance used in guns. English = cartridge."
-  ],
   "signNumber": 417,
   "recordNumber": 234,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A short cylindrical object, or any thing or any action directly or indirectly associated with this, especially a cartridge.",
+  "nominalLexeme": [
+    "1. A metal or cardboard tube containing a bullet and an explosive substance used in guns. English = cartridge."
+  ],
+  "idGloss": "cartridge",
+  "oldEntry": ""
 }

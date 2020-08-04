@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "acne",
-  "oldentry": "Popular explanation: spots on the face.",
   "english": [
     "acne"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have acne."
-  ],
   "cf": [
     "hospital.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A condition in which you have a lot of spots on your face and neck. It is common among teenagers. English = acne."
   ],
   "signNumber": 2930,
   "recordNumber": 1663,
@@ -39,5 +27,17 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have acne."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A condition in which you have a lot of spots on your face and neck. It is common among teenagers. English = acne."
+  ],
+  "idGloss": "acne",
+  "oldEntry": "Popular explanation: spots on the face."
 }

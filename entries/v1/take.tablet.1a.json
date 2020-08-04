@@ -15,26 +15,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "take.tablet.1a",
-  "oldentry": "Popular explanation: picking up and taking a pill.",
   "english": [
     "tablet",
     "pill"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take a tablet or pill.",
-    "2. To eat small amounts of a meal. Idiomatic English = pick at one's food."
-  ],
   "cf": [
     "eat.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small piece or mass of medicine which you swallow, with or without chewing. English = tablet, pill."
   ],
   "signNumber": 472,
   "recordNumber": 261,
@@ -44,5 +31,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take a tablet or pill.",
+    "2. To eat small amounts of a meal. Idiomatic English = pick at one's food."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small piece or mass of medicine which you swallow, with or without chewing. English = tablet, pill."
+  ],
+  "idGloss": "take.tablet.1a",
+  "oldEntry": "Popular explanation: picking up and taking a pill."
 }

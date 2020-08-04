@@ -15,28 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parachute",
-  "oldentry": "Popular explanation: a parachute descending.",
   "english": [
     "parachute",
     "parachuting",
     "parachutist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To jump out of a plane using a parachute. English = parachute."
-  ],
   "cf": [
     "sink.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device which enables you to jump from an aircraft and float to the ground. It consists of a large circle of thin cloth attached to your body by strings. English = parachute.",
-    "2. The sport or activity of jumping out of planes with a parachute. English = parachuting.",
-    "3. A person who jumps out of planes using a parachute. English = parachutist."
   ],
   "signNumber": 2944,
   "recordNumber": 1674,
@@ -46,5 +32,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To jump out of a plane using a parachute. English = parachute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device which enables you to jump from an aircraft and float to the ground. It consists of a large circle of thin cloth attached to your body by strings. English = parachute.",
+    "2. The sport or activity of jumping out of planes with a parachute. English = parachuting.",
+    "3. A person who jumps out of planes using a parachute. English = parachutist."
+  ],
+  "idGloss": "parachute",
+  "oldEntry": "Popular explanation: a parachute descending."
 }

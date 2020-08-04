@@ -17,27 +17,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "word.1",
-  "oldentry": "",
   "english": [
     "word",
     "morpheme"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To utter a single unit of language in speech; to say a word.",
-    "2. To communicate in language using words, rather than signs."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A single unit of language that is uttered in speech. English = word.",
-    "2. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can have one or more meanings. English = word.",
-    "3. The single smallest unit of language (spoken, written or signed) that carries meaning all by itself. English = morpheme."
-  ],
   "signNumber": 5339,
   "recordNumber": 3196,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
     "word.2a",
     "word.3",
     "word.4a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To utter a single unit of language in speech; to say a word.",
+    "2. To communicate in language using words, rather than signs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A single unit of language that is uttered in speech. English = word.",
+    "2. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can have one or more meanings. English = word.",
+    "3. The single smallest unit of language (spoken, written or signed) that carries meaning all by itself. English = morpheme."
+  ],
+  "idGloss": "word.1",
+  "oldEntry": ""
 }

@@ -15,10 +15,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "insert.1",
-  "oldentry": "",
   "english": [
     "insertion",
     "include",
@@ -27,15 +23,7 @@
     "fit into"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put one object inside another, or to make it part of another object. English = include, insert, put into, fit into."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of putting one object inside another. English = insertion."
-  ],
   "signNumber": 229,
   "recordNumber": 136,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put one object inside another, or to make it part of another object. English = include, insert, put into, fit into."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of putting one object inside another. English = insertion."
+  ],
+  "idGloss": "insert.1",
+  "oldEntry": ""
 }

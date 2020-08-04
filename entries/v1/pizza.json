@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pizza",
-  "oldentry": "",
   "english": [
     "pizza"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat, round piece of dough covered with tomatoes, cheese, and other kinds of food, and then baked in an oven. English = pizza."
-  ],
   "signNumber": 3203,
   "recordNumber": 1860,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "sprinkle.on.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat, round piece of dough covered with tomatoes, cheese, and other kinds of food, and then baked in an oven. English = pizza."
+  ],
+  "idGloss": "pizza",
+  "oldEntry": ""
 }

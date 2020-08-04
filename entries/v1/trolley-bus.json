@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trolley-bus",
-  "oldentry": "Popular explanation: the top of a trolley bus.",
   "english": [
     "bus",
     "trolley-bus"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large motor vehicle which carries passengers from one place to another. English = bus.",
-    "2. An electric bus whose motor draws its power from two overhead wires by means of two trolley poles. English = trolley-bus."
-  ],
   "signNumber": 1556,
   "recordNumber": 924,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large motor vehicle which carries passengers from one place to another. English = bus.",
+    "2. An electric bus whose motor draws its power from two overhead wires by means of two trolley poles. English = trolley-bus."
+  ],
+  "idGloss": "trolley-bus",
+  "oldEntry": "Popular explanation: the top of a trolley bus."
 }

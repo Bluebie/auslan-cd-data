@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any object with horizontal stripes or thin things, such as wires or bars, at the front of it, or any object or action directly or indirectly associated with this, especially the grille of a car.",
-  "questlex": [],
-  "idgloss": "grille",
-  "oldentry": "",
   "english": [
     "grille"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The framework of metal bars or wire placed in front of engine or body of a car. English = grille."
-  ],
   "signNumber": 2417,
   "recordNumber": 1337,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any object with horizontal stripes or thin things, such as wires or bars, at the front of it, or any object or action directly or indirectly associated with this, especially the grille of a car.",
+  "nominalLexeme": [
+    "1. The framework of metal bars or wire placed in front of engine or body of a car. English = grille."
+  ],
+  "idGloss": "grille",
+  "oldEntry": ""
 }

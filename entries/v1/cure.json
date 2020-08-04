@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cure",
-  "oldentry": "",
   "english": [
     "cure",
     "recovery",
@@ -33,20 +29,9 @@
     "healed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make an illness or injury disappear. English = cure, heal.",
-    "2. Of an injury, to become healthy and normal again. English = heal.",
-    "3. To recover from an illness, to make a recovery, to get better, to get well; to be cured; to be healed."
-  ],
   "cf": [
     "brave",
     "well.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A medicine or other treatment that makes an illness or an injury disappear. English = cure.",
-    "2. The act of becoming well again after being sick. English = recovery, healing."
   ],
   "signNumber": 3721,
   "recordNumber": 2194,
@@ -58,5 +43,20 @@
   "antonyms": [],
   "synonyms": [
     "heal.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make an illness or injury disappear. English = cure, heal.",
+    "2. Of an injury, to become healthy and normal again. English = heal.",
+    "3. To recover from an illness, to make a recovery, to get better, to get well; to be cured; to be healed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A medicine or other treatment that makes an illness or an injury disappear. English = cure.",
+    "2. The act of becoming well again after being sick. English = recovery, healing."
+  ],
+  "idGloss": "cure",
+  "oldEntry": ""
 }

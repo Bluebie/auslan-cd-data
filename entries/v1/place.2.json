@@ -15,22 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "place.2",
-  "oldentry": "",
   "english": [
     "place"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "island.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Any point, building, area, town or country or the position something occupies in any of these. English = place."
   ],
   "signNumber": 1843,
   "recordNumber": 1103,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "area.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Any point, building, area, town or country or the position something occupies in any of these. English = place."
+  ],
+  "idGloss": "place.2",
+  "oldEntry": ""
 }

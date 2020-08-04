@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "double.2",
-  "oldentry": "",
   "english": [
     "doubles",
     "pairs",
     "double"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make the amount or size of something twice as large. English = double."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game of tennis, badminton, or any other game, when two people play against two other people. English = doubles, pairs."
-  ],
   "signNumber": 1640,
   "recordNumber": 973,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "double.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make the amount or size of something twice as large. English = double."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game of tennis, badminton, or any other game, when two people play against two other people. English = doubles, pairs."
+  ],
+  "idGloss": "double.2",
+  "oldEntry": ""
 }

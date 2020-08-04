@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hip",
-  "oldentry": "",
   "english": [
     "hip"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The area at the sides of your body between the tops of your legs and your waist. English = hip."
-  ],
   "signNumber": 805,
   "recordNumber": 458,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The area at the sides of your body between the tops of your legs and your waist. English = hip."
+  ],
+  "idGloss": "hip",
+  "oldEntry": ""
 }

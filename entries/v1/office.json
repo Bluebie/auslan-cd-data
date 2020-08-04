@@ -15,22 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "Evidently derived from ASL 'office' (which is the ASL sign 'room' initialised with 'o'). In the process of borrowing, the sign has become modified.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "office",
-  "oldentry": "",
   "english": [
     "office"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "work.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A room or a part of a building where people work sitting at desks. English = office."
   ],
   "signNumber": 162,
   "recordNumber": 90,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "secretary"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A room or a part of a building where people work sitting at desks. English = office."
+  ],
+  "idGloss": "office",
+  "oldEntry": ""
 }

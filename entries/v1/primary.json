@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "primary",
-  "oldentry": "",
   "english": [
     "primary",
     "fundamental",
     "basic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Used to describe something that is extremely important, or most important for someone or something. English = (be) primary, (be) fundamental, (be) basic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1858,
   "recordNumber": 1113,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Used to describe something that is extremely important, or most important for someone or something. English = (be) primary, (be) fundamental, (be) basic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "primary",
+  "oldEntry": ""
 }

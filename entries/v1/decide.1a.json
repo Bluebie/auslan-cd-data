@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "decide.1a",
-  "oldentry": "",
   "english": [
     "decision",
     "decide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To choose to do something after you have thought carefully about the other possibilities. English = decide."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A choice to do something after you have thought carefully about the other possibilities. English = decision."
-  ],
   "signNumber": 514,
   "recordNumber": 286,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "decide.2",
     "resolve.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To choose to do something after you have thought carefully about the other possibilities. English = decide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A choice to do something after you have thought carefully about the other possibilities. English = decision."
+  ],
+  "idGloss": "decide.1a",
+  "oldEntry": ""
 }

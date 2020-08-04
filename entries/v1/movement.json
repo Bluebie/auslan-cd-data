@@ -14,27 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "movement",
-  "oldentry": "",
   "english": [
     "movements",
     "move",
     "sway"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your body about in space as a natural consequence of doing something. English = move.",
-    "2. To consciously move your body about in space, especially your hips, as you walk. English = sway your hips."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The changes in a persons position and the placement of their limbs as they do things or as they go from one place to another, especially by walking. English = movements.",
-    "2. The swaying of the hips of a person, especially a woman, as they walk."
-  ],
   "signNumber": 3792,
   "recordNumber": 2249,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [
     "stay.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your body about in space as a natural consequence of doing something. English = move.",
+    "2. To consciously move your body about in space, especially your hips, as you walk. English = sway your hips."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The changes in a persons position and the placement of their limbs as they do things or as they go from one place to another, especially by walking. English = movements.",
+    "2. The swaying of the hips of a person, especially a woman, as they walk."
+  ],
+  "idGloss": "movement",
+  "oldEntry": ""
 }

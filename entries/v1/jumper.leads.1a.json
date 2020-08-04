@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jumper.leads.1a",
-  "oldentry": "Popular explanation: attaching alligator clamps.",
   "english": [
     "jumper leads",
     "car battery"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To attach jumper leads to a car battery."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two thick wires with clamps at each end that can be used when a car will not start because its battery does not have enough power. They are used to connect the battery to the battery of another car. English = jumper leads.",
-    "2. A device that produces electricity in a car. English = car battery."
-  ],
   "signNumber": 5545,
   "recordNumber": 3281,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "battery.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To attach jumper leads to a car battery."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two thick wires with clamps at each end that can be used when a car will not start because its battery does not have enough power. They are used to connect the battery to the battery of another car. English = jumper leads.",
+    "2. A device that produces electricity in a car. English = car battery."
+  ],
+  "idGloss": "jumper.leads.1a",
+  "oldEntry": "Popular explanation: attaching alligator clamps."
 }

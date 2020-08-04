@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rage",
-  "oldentry": "Popular explanation: a roof lifting off.",
   "english": [
     "rage",
     "fury",
@@ -36,19 +32,9 @@
     "furious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make you very very angry. English = enrage.",
-    "2. To be very very angry. English = (be) enraged, (be) furious.",
-    "3. To suddenly become very very angry. English = fly into a rage. Idiomatic English = blow one's top."
-  ],
   "cf": [
     "roof.1a",
     "party.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong, often sudden, anger that is difficult to control. English = rage, fury."
   ],
   "signNumber": 3627,
   "recordNumber": 2136,
@@ -64,5 +50,19 @@
   "synonyms": [
     "temper.1a",
     "angry.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make you very very angry. English = enrage.",
+    "2. To be very very angry. English = (be) enraged, (be) furious.",
+    "3. To suddenly become very very angry. English = fly into a rage. Idiomatic English = blow one's top."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong, often sudden, anger that is difficult to control. English = rage, fury."
+  ],
+  "idGloss": "rage",
+  "oldEntry": "Popular explanation: a roof lifting off."
 }

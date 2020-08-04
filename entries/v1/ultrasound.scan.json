@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ultrasound.scan",
-  "oldentry": "Popular explanation: operating an ultrasound scanner.",
   "english": [
     "ultrasound scan"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine that emits ultra high frequency sounds that humans cannot hear. The machine uses an analysis of the echoes to form an image, picture, or scan, of the inside of your body, especially your stomach. English = ultrasound scan."
-  ],
   "signNumber": 5702,
   "recordNumber": 3373,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine that emits ultra high frequency sounds that humans cannot hear. The machine uses an analysis of the echoes to form an image, picture, or scan, of the inside of your body, especially your stomach. English = ultrasound scan."
+  ],
+  "idGloss": "ultrasound.scan",
+  "oldEntry": "Popular explanation: operating an ultrasound scanner."
 }

@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "encounter.1a",
-  "oldentry": "",
   "english": [
     "encounter",
     "run into",
     "bump into"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For one person or thing to go to and meet another unexpectedly. Formal English = encounter. Idiomatic English = run into, bump into."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The accidental meeting of someone."
-  ],
   "signNumber": 915,
   "recordNumber": 521,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For one person or thing to go to and meet another unexpectedly. Formal English = encounter. Idiomatic English = run into, bump into."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The accidental meeting of someone."
+  ],
+  "idGloss": "encounter.1a",
+  "oldEntry": ""
 }

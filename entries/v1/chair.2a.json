@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chair.2a",
-  "oldentry": "Popular explanation: one thing placed on another.",
   "english": [
     "seat",
     "chair",
@@ -35,18 +31,7 @@
     "seated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To support the weight of your body by resting your buttocks on a chair or seat with the upper part of your body upright. English = sit, sit down; (be) seated."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone to sit down. English = 'Sit down!', 'Do be seated!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A object or a piece of furniture for people to sit on. English = seat, chair, stool.",
-    "2. A place in a theatre or cinema from where you watch the performance. English = seat."
-  ],
   "signNumber": 3881,
   "recordNumber": 2308,
   "signVisualComposition": "",
@@ -61,5 +46,20 @@
     "chair.1",
     "sit.on",
     "sit.opposite"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone to sit down. English = 'Sit down!', 'Do be seated!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To support the weight of your body by resting your buttocks on a chair or seat with the upper part of your body upright. English = sit, sit down; (be) seated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A object or a piece of furniture for people to sit on. English = seat, chair, stool.",
+    "2. A place in a theatre or cinema from where you watch the performance. English = seat."
+  ],
+  "idGloss": "chair.2a",
+  "oldEntry": "Popular explanation: one thing placed on another."
 }

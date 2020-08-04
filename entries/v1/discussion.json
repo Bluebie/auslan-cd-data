@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "discussion",
-  "oldentry": "",
   "english": [
     "discussion",
     "talks",
@@ -28,18 +24,9 @@
     "confer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To talk seriously with other people about something. English = discuss, confer."
-  ],
   "cf": [
     "talk",
     "dialogue.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of talking seriously with other people about something. English = discussion, group discussion.",
-    "2. Formal discussions between officials of organisations or governments. English = talks."
   ],
   "signNumber": 1025,
   "recordNumber": 600,
@@ -49,5 +36,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To talk seriously with other people about something. English = discuss, confer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of talking seriously with other people about something. English = discussion, group discussion.",
+    "2. Formal discussions between officials of organisations or governments. English = talks."
+  ],
+  "idGloss": "discussion",
+  "oldEntry": ""
 }

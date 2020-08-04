@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rest.1a",
-  "oldentry": "Popular explanation: putting one's legs up.",
   "english": [
     "rest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not do anything active, especially by sitting or lying quietly, for a period of time. English = rest. Idiomatic English = put one's feet up."
-  ],
   "cf": [
     "lie.down"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of time in which you are not doing anything active. English = rest."
   ],
   "signNumber": 1647,
   "recordNumber": 978,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "relax.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not do anything active, especially by sitting or lying quietly, for a period of time. English = rest. Idiomatic English = put one's feet up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of time in which you are not doing anything active. English = rest."
+  ],
+  "idGloss": "rest.1a",
+  "oldEntry": "Popular explanation: putting one's legs up."
 }

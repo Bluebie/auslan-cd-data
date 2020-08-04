@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spectacles.1a",
-  "oldentry": "Popular explanation: the shape a lens.",
   "english": [
     "glasses",
     "spectacles"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or wear a pair of glasses."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two lenses in a frame that some people wear in front of their eyes in order to help them see better. English = glasses, spectacles."
-  ],
   "signNumber": 5311,
   "recordNumber": 3180,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "glasses"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or wear a pair of glasses."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two lenses in a frame that some people wear in front of their eyes in order to help them see better. English = glasses, spectacles."
+  ],
+  "idGloss": "spectacles.1a",
+  "oldEntry": "Popular explanation: the shape a lens."
 }

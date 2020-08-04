@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shine.1a",
-  "oldentry": "",
   "english": [
     "shine",
     "shininess",
@@ -45,22 +41,9 @@
     "shimmering"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bounce off light from a surface. English = shine, reflect.",
-    "2. To easily bounce off lots of light from a surface such that it is very bright. English = dazzle.",
-    "3. To bounce off lots of light from a surface, usually uneven (like water), so that it is rapidly moving and bright. English = shimmer.",
-    "4. To be very bright because of light bouncing off itself. English = (be) shiny, (be) reflective, (be) dazzling, (be) shimmering."
-  ],
   "cf": [
     "blonde",
     "lesbian.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The bright or glassy appearance of an object because light bounces off it into your eyes. English = shine, shininess.",
-    "2. The process by which light is sent back or bounces off a surface, particularly when it produces a clear image of the observer or another object. English = reflection.",
-    "3. A hard, shiny silver-colored metal. English = chrome, chromium."
   ],
   "signNumber": 3178,
   "recordNumber": 1846,
@@ -72,5 +55,22 @@
   "antonyms": [],
   "synonyms": [
     "shine.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bounce off light from a surface. English = shine, reflect.",
+    "2. To easily bounce off lots of light from a surface such that it is very bright. English = dazzle.",
+    "3. To bounce off lots of light from a surface, usually uneven (like water), so that it is rapidly moving and bright. English = shimmer.",
+    "4. To be very bright because of light bouncing off itself. English = (be) shiny, (be) reflective, (be) dazzling, (be) shimmering."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The bright or glassy appearance of an object because light bounces off it into your eyes. English = shine, shininess.",
+    "2. The process by which light is sent back or bounces off a surface, particularly when it produces a clear image of the observer or another object. English = reflection.",
+    "3. A hard, shiny silver-colored metal. English = chrome, chromium."
+  ],
+  "idGloss": "shine.1a",
+  "oldEntry": ""
 }

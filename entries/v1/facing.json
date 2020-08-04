@@ -17,26 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "facing",
-  "oldentry": "Popular explanation: bringing two faces together.",
   "english": [
     "face",
     "facing",
     "face to face"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the front of two things or people in the direction of each other. English = face, (be) facing, (be) face to face.",
-    "2. To be obliged to deal with something difficult or unpleasant. English = face, face up to."
-  ],
   "cf": [
     "about.face"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3590,
   "recordNumber": 2108,
   "signVisualComposition": "",
@@ -47,5 +36,16 @@
   "antonyms": [
     "escape"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the front of two things or people in the direction of each other. English = face, (be) facing, (be) face to face.",
+    "2. To be obliged to deal with something difficult or unpleasant. English = face, face up to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "facing",
+  "oldEntry": "Popular explanation: bringing two faces together."
 }

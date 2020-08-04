@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jellyfish.1a",
-  "oldentry": "",
   "english": [
     "jellyfish",
     "squid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A creature that lives in the sea and has a body that looks like clear jelly. Some of them can sting you and most of them move by pulsating their mushroom shaped body. English = jellyfish.",
-    "2. A sea creature with a long soft body and many tentacles. English = squid."
-  ],
   "signNumber": 2536,
   "recordNumber": 1407,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A creature that lives in the sea and has a body that looks like clear jelly. Some of them can sting you and most of them move by pulsating their mushroom shaped body. English = jellyfish.",
+    "2. A sea creature with a long soft body and many tentacles. English = squid."
+  ],
+  "idGloss": "jellyfish.1a",
+  "oldEntry": ""
 }

@@ -13,25 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "convenient.from",
-  "oldentry": "",
   "english": [
     "convenient"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make short trips from one place to another.",
-    "2. Of a house, business, etc., to be very suitably located so that one need only make short trips to facilities or other businesses; to be conveniently located; to be easy to get to."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Short trips made frequently to one place from another.",
-    "2. A convenient location for a house, business, etc., because it is close to some other location."
-  ],
   "signNumber": 1019,
   "recordNumber": 596,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "antonyms": [
     "convenient.to"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make short trips from one place to another.",
+    "2. Of a house, business, etc., to be very suitably located so that one need only make short trips to facilities or other businesses; to be conveniently located; to be easy to get to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Short trips made frequently to one place from another.",
+    "2. A convenient location for a house, business, etc., because it is close to some other location."
+  ],
+  "idGloss": "convenient.from",
+  "oldEntry": ""
 }

@@ -15,24 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wrong.mind",
-  "oldentry": "",
   "english": [
     "stupid me"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel guilty or embarrassed because someone has discovered you doing something wrong or foolish.",
-    "2. To feel embarrassed or ashamed because of something which has happened to you."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express regret at having done something wrong or stupid. English = 'How stupid of me!', 'How could I have done that!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4964,
   "recordNumber": 2999,
   "signVisualComposition": "WRONG + MIND",
@@ -45,5 +32,18 @@
     "blush.2a",
     "ashamed",
     "blush.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express regret at having done something wrong or stupid. English = 'How stupid of me!', 'How could I have done that!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel guilty or embarrassed because someone has discovered you doing something wrong or foolish.",
+    "2. To feel embarrassed or ashamed because of something which has happened to you."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wrong.mind",
+  "oldEntry": ""
 }

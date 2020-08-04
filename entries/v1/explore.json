@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "explore",
-  "oldentry": "",
   "english": [
     "explorer",
     "exploration",
@@ -31,19 +27,7 @@
     "roam"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a look around a place.",
-    "2. To travel and look around a place to see what it is like. English = explore.",
-    "3. To look at things in a casual way in a shop, in the hope that you might find something you want. English = browse.",
-    "4. To wander or travel around an area without having a particular purpose. English = roam."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who travels to places about which very little is known, in order to discover what is there. English = explorer.",
-    "2. A journey to a place about which very little is known in order to discover what is there. English = exploration."
-  ],
   "signNumber": 1552,
   "recordNumber": 922,
   "signVisualComposition": "",
@@ -52,5 +36,21 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a look around a place.",
+    "2. To travel and look around a place to see what it is like. English = explore.",
+    "3. To look at things in a casual way in a shop, in the hope that you might find something you want. English = browse.",
+    "4. To wander or travel around an area without having a particular purpose. English = roam."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who travels to places about which very little is known, in order to discover what is there. English = explorer.",
+    "2. A journey to a place about which very little is known in order to discover what is there. English = exploration."
+  ],
+  "idGloss": "explore",
+  "oldEntry": ""
 }

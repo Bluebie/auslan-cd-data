@@ -11,22 +11,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rather.1a",
-  "oldentry": "",
   "english": [
     "rather",
     "prefer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To like something better than other things, to want to do something more than other things. English = rather, prefer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1519,
   "recordNumber": 905,
   "signVisualComposition": "R + R",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "rather.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To like something better than other things, to want to do something more than other things. English = rather, prefer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "rather.1a",
+  "oldEntry": ""
 }

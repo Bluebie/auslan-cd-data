@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "seesaw",
-  "oldentry": "Popular explanation: going up and down in the manner of a seesaw.",
   "english": [
     "seesaw"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go up and down on a seesaw. English = seesaw."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long board which is balanced on a fixed part in the middle. Children play on it by making the board tilt up and down when one child sits on each end. English = seesaw."
-  ],
   "signNumber": 1780,
   "recordNumber": 1073,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go up and down on a seesaw. English = seesaw."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long board which is balanced on a fixed part in the middle. Children play on it by making the board tilt up and down when one child sits on each end. English = seesaw."
+  ],
+  "idGloss": "seesaw",
+  "oldEntry": "Popular explanation: going up and down in the manner of a seesaw."
 }

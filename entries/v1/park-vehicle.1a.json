@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "park-vehicle.1a",
-  "oldentry": "",
   "english": [
     "park"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drive a vehicle into a position where it can stay for a period of time, and leave it there. English = park."
-  ],
   "cf": [
     "parking.1a",
     "reverse.in.vehicle.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4069,
   "recordNumber": 2436,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [
     "reverse-vehicle.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drive a vehicle into a position where it can stay for a period of time, and leave it there. English = park."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "park-vehicle.1a",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "book",
-  "oldentry": "",
   "english": [
     "book"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of pieces of paper, usually with words printed on them, which are fastened together and fixed inside a cover of stronger paper or cardboard. It contains information, stories, pictures, or poetry. English = book."
-  ],
   "signNumber": 3725,
   "recordNumber": 2196,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of pieces of paper, usually with words printed on them, which are fastened together and fixed inside a cover of stronger paper or cardboard. It contains information, stories, pictures, or poetry. English = book."
+  ],
+  "idGloss": "book",
+  "oldEntry": ""
 }

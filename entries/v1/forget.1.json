@@ -13,25 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "forget.1",
-  "oldentry": "",
   "english": [
     "forget",
     "go blank"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To completely forget to do something that you should have remembered.",
-    "2. To be unable to remember things you have learnt (such as your part in a play, or information for an exam) or to be unable to think of anything to say. English = go blank."
-  ],
   "cf": [
     "empty-headed"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3132,
   "recordNumber": 1809,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "antonyms": [],
   "synonyms": [
     "forget.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To completely forget to do something that you should have remembered.",
+    "2. To be unable to remember things you have learnt (such as your part in a play, or information for an exam) or to be unable to think of anything to say. English = go blank."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "forget.1",
+  "oldEntry": ""
 }

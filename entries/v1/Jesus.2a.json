@@ -14,28 +14,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Jesus.2a",
-  "oldentry": "",
   "english": [
     "put up with",
     "resign oneself to",
     "stoic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not complain about something, even though it may be painful; to suffer something in silence. Formal English = (be) stoic. Idiomatic English = put up with something.",
-    "2. To accept an unpleasant or painful situation or fact, because you realise you cannot change it. Idiomatic English = resign oneself to something."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you feel quite strongly about something that has just happened or has just been recounted to you. It makes you feel ill at ease or squeamish and you feel as if you must contain yourself from reacting or saying something.",
-    "You don't know what you'll say or do, or you are afraid of offending someone. English = 'Good grief!', 'Oh, no!', 'Oh, my god!', 'Good god!', 'Jesus!', 'Ah, yuk!', and so on.",
-    "2. Used alone to express the fact that you have just suffered or are suffering some personal discomfort, if not pain. English = 'Ouch!' etc."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2460,
   "recordNumber": 1367,
   "signVisualComposition": "",
@@ -44,5 +29,20 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you feel quite strongly about something that has just happened or has just been recounted to you. It makes you feel ill at ease or squeamish and you feel as if you must contain yourself from reacting or saying something.",
+    "You don't know what you'll say or do, or you are afraid of offending someone. English = 'Good grief!', 'Oh, no!', 'Oh, my god!', 'Good god!', 'Jesus!', 'Ah, yuk!', and so on.",
+    "2. Used alone to express the fact that you have just suffered or are suffering some personal discomfort, if not pain. English = 'Ouch!' etc."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not complain about something, even though it may be painful; to suffer something in silence. Formal English = (be) stoic. Idiomatic English = put up with something.",
+    "2. To accept an unpleasant or painful situation or fact, because you realise you cannot change it. Idiomatic English = resign oneself to something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "Jesus.2a",
+  "oldEntry": ""
 }

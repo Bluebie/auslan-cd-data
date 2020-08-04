@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gold",
-  "oldentry": "",
   "english": [
     "gold",
     "golden"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be made of gold. English = (be) gold.",
-    "2. To look bright yellow in colour and look rather like gold. English = (be) golden."
-  ],
   "cf": [
     "silver.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A valuable yellow-coloured metal that is used for making jewellery, and as an international currency. English = gold."
   ],
   "signNumber": 5808,
   "recordNumber": 3447,
@@ -44,5 +31,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be made of gold. English = (be) gold.",
+    "2. To look bright yellow in colour and look rather like gold. English = (be) golden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A valuable yellow-coloured metal that is used for making jewellery, and as an international currency. English = gold."
+  ],
+  "idGloss": "gold",
+  "oldEntry": ""
 }

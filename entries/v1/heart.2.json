@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heart.2",
-  "oldentry": "",
   "english": [
     "heart",
     "sweetheart",
     "lover"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The organ in your chest that pumps the blood around your body. English = heart.",
-    "2. The emotions that someone has, especially feelings of caring, consideration and compassion. English = heart.",
-    "3. A person you love and care for or a person who loves and cares for you. English = sweetheart, lover.",
-    "4. The culturally shared stereotypic drawing of a heart."
-  ],
   "signNumber": 880,
   "recordNumber": 504,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "synonyms": [
     "heart.1",
     "lover"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The organ in your chest that pumps the blood around your body. English = heart.",
+    "2. The emotions that someone has, especially feelings of caring, consideration and compassion. English = heart.",
+    "3. A person you love and care for or a person who loves and cares for you. English = sweetheart, lover.",
+    "4. The culturally shared stereotypic drawing of a heart."
+  ],
+  "idGloss": "heart.2",
+  "oldEntry": ""
 }

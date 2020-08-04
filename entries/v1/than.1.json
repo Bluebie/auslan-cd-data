@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "than.1",
-  "oldentry": "",
   "english": [
     "than"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to link two parts of a comparison. The person or thing and the quality being compared is signed first (preceded by MORE or LESS), then this sign, then the person or thing it is being compared to. English = than."
-  ],
-  "nomlex": [],
   "signNumber": 6110,
   "recordNumber": 3636,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to link two parts of a comparison. The person or thing and the quality being compared is signed first (preceded by MORE or LESS), then this sign, then the person or thing it is being compared to. English = than."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "than.1",
+  "oldEntry": ""
 }

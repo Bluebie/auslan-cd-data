@@ -11,25 +11,13 @@
   "sense": "",
   "blend": "F + O + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "for.1",
-  "oldentry": "",
   "english": [
     "for"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "for.2"
   ],
-  "interj": [
-    "1. Used alone, with a questioning expression, to ask why someone has done something. English = 'What for?'"
-  ],
-  "partlex": [
-    "1. Used to represent the English proposition 'for' in most of its many uses."
-  ],
-  "nomlex": [],
   "signNumber": 2199,
   "recordNumber": 1260,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone, with a questioning expression, to ask why someone has done something. English = 'What for?'"
+  ],
+  "particleLexeme": [
+    "1. Used to represent the English proposition 'for' in most of its many uses."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "for.1",
+  "oldEntry": ""
 }

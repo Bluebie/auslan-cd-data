@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "GIVE + ON",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carry.on.to",
-  "oldentry": "",
   "english": [
     "carry on to",
     "table"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To carry something onto a surface.",
-    "2. To say formally that you want something added to the minutes of a meeting. English = table."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A proposal for something to be discussed or acted on in a meeting; an agenda item."
-  ],
   "signNumber": 4272,
   "recordNumber": 2592,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To carry something onto a surface.",
+    "2. To say formally that you want something added to the minutes of a meeting. English = table."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A proposal for something to be discussed or acted on in a meeting; an agenda item."
+  ],
+  "idGloss": "carry.on.to",
+  "oldEntry": ""
 }

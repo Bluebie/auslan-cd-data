@@ -13,24 +13,11 @@
   "sense": "",
   "blend": "SHEEP + ENCOURAGE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shepherd",
-  "oldentry": "",
   "english": [
     "shepherd"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To round up sheep and direct them to go in a certain direction. English = shepherd.",
-    "2. To look after and guide someone towards where you want them to go. Often used in a religious sense. English = shepherd."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who looks after or rounds up sheep. English = shepherd."
-  ],
   "signNumber": 4968,
   "recordNumber": 3000,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "antonyms": [],
   "synonyms": [
     "encourage.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To round up sheep and direct them to go in a certain direction. English = shepherd.",
+    "2. To look after and guide someone towards where you want them to go. Often used in a religious sense. English = shepherd."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who looks after or rounds up sheep. English = shepherd."
+  ],
+  "idGloss": "shepherd",
+  "oldEntry": ""
 }

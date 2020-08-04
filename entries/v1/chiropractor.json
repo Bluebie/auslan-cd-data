@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chiropractor",
-  "oldentry": "",
   "english": [
     "chiropractor"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a chiropractor, to manipulate segments of the spinal column."
-  ],
   "cf": [
     "massage.1",
     "massage.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who manipulates segments of the spinal column of his or her patients in the belief that this will help improve nerve function and treat a variety of ailments they may have. English = chiropractor."
   ],
   "signNumber": 3031.1,
   "recordNumber": 1738,
@@ -42,5 +30,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a chiropractor, to manipulate segments of the spinal column."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who manipulates segments of the spinal column of his or her patients in the belief that this will help improve nerve function and treat a variety of ailments they may have. English = chiropractor."
+  ],
+  "idGloss": "chiropractor",
+  "oldEntry": ""
 }

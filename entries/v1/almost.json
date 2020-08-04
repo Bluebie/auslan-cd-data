@@ -14,28 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "almost",
-  "oldentry": "",
   "english": [
     "nearly",
     "almost",
     "soon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not completely, exactly or fully something, but close to it nonetheless. English = (be) nearly, (be) almost."
-  ],
   "cf": [
     "soon"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action or state is not complete, exact or total, or comes close to happening but does not quite happen or happen successfully. English = almost, nearly.",
-    "2. Sometimes used immediately next to verbs to mean that though an action has not yet happened it has almost begun and certainly will begin before much more time has passed. English = soon."
-  ],
-  "nomlex": [],
   "signNumber": 6099,
   "recordNumber": 3626,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action or state is not complete, exact or total, or comes close to happening but does not quite happen or happen successfully. English = almost, nearly.",
+    "2. Sometimes used immediately next to verbs to mean that though an action has not yet happened it has almost begun and certainly will begin before much more time has passed. English = soon."
+  ],
+  "verbLexeme": [
+    "1. To be not completely, exactly or fully something, but close to it nonetheless. English = (be) nearly, (be) almost."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "almost",
+  "oldEntry": ""
 }

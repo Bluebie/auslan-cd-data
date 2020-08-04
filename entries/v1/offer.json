@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "offer",
-  "oldentry": "",
   "english": [
     "offer",
     "offering"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask someone if they would like to have or use something. English = offer.",
-    "2. To say you will or are willing to give someone something or do something for someone. English = offer."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A statement in which someone says they will or are willing to give someone something or do something for someone. English = offer.",
-    "2. Something that is offered to a god as a sacrifice. English = offering."
-  ],
   "signNumber": 3871,
   "recordNumber": 2302,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [],
   "synonyms": [
     "give.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask someone if they would like to have or use something. English = offer.",
+    "2. To say you will or are willing to give someone something or do something for someone. English = offer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A statement in which someone says they will or are willing to give someone something or do something for someone. English = offer.",
+    "2. Something that is offered to a god as a sacrifice. English = offering."
+  ],
+  "idGloss": "offer",
+  "oldEntry": ""
 }

@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spouse.1a",
-  "oldentry": "Popular explanation: putting on a ring.",
   "english": [
     "spouse",
     "husband",
@@ -29,15 +25,8 @@
     "ring"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "engaged.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The person to whom someone is married. English = spouse, husband, wife.",
-    "2. A small circle of metal that you wear on your finger to show that you are married. English = ring, wedding ring."
   ],
   "signNumber": 441,
   "recordNumber": 248,
@@ -47,5 +36,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The person to whom someone is married. English = spouse, husband, wife.",
+    "2. A small circle of metal that you wear on your finger to show that you are married. English = ring, wedding ring."
+  ],
+  "idGloss": "spouse.1a",
+  "oldEntry": "Popular explanation: putting on a ring."
 }

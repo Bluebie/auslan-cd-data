@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "coffee.2",
-  "oldentry": "",
   "english": [
     "coffee"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To drink coffee."
-  ],
   "cf": [
     "tea.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee."
   ],
   "signNumber": 5320,
   "recordNumber": 3184,
@@ -43,5 +31,17 @@
   "synonyms": [
     "coffee.1",
     "c.words.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To drink coffee."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee."
+  ],
+  "idGloss": "coffee.2",
+  "oldEntry": ""
 }

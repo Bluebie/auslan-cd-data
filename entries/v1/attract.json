@@ -17,28 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "attract",
-  "oldentry": "Popular explanation: hooking something.",
   "english": [
     "attract",
     "seduce",
     "pick up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have features that cause people or animals to come close. English = attract.",
-    "2. Of people, to cause another person to like you (especially sexually) and want to be with your or close to you. English = attract, seduce.",
-    "3. To succeed in making someone you have not met before want you sexually and to succeed in initiating such an encounter. Informal English = pick up someone.",
-    "4. To catch someone's attention or affections."
-  ],
   "cf": [
     "require.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 988,
   "recordNumber": 572,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   "antonyms": [],
   "synonyms": [
     "flirt.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have features that cause people or animals to come close. English = attract.",
+    "2. Of people, to cause another person to like you (especially sexually) and want to be with your or close to you. English = attract, seduce.",
+    "3. To succeed in making someone you have not met before want you sexually and to succeed in initiating such an encounter. Informal English = pick up someone.",
+    "4. To catch someone's attention or affections."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "attract",
+  "oldEntry": "Popular explanation: hooking something."
 }

@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "SURROUND + S",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "situation",
-  "oldentry": "",
   "english": [
     "situation"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "culture.1a",
     "environment"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The general happenings in a particular place at a particular time; the things that are happening to you or that are likely to happen to you at a particular time. English = situation."
   ],
   "signNumber": 5948,
   "recordNumber": 3543,
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The general happenings in a particular place at a particular time; the things that are happening to you or that are likely to happen to you at a particular time. English = situation."
+  ],
+  "idGloss": "situation",
+  "oldEntry": ""
 }

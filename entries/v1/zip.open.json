@@ -11,24 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "zip.open",
-  "oldentry": "",
   "english": [
     "unzip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To unfasten an item of clothing using a zipper. English = unzip.",
-    "2. To take off an item of clothing worn on the torso that has a zip up front such as a jacket, a windcheater, or a track suit top."
-  ],
   "cf": [
     "zip.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6183,
   "recordNumber": 3692,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [
     "zip.close"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To unfasten an item of clothing using a zipper. English = unzip.",
+    "2. To take off an item of clothing worn on the torso that has a zip up front such as a jacket, a windcheater, or a track suit top."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "zip.open",
+  "oldEntry": ""
 }

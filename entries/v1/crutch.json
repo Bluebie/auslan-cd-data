@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crutch",
-  "oldentry": "Popular explanation: using crutches.",
   "english": [
     "crutches"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To walk on or use crutches."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Supports like sticks, which you lean on in order to help you to walk when you have injured your foot or leg. English = crutches."
-  ],
   "signNumber": 5937.1,
   "recordNumber": 3536,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To walk on or use crutches."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Supports like sticks, which you lean on in order to help you to walk when you have injured your foot or leg. English = crutches."
+  ],
+  "idGloss": "crutch",
+  "oldEntry": "Popular explanation: using crutches."
 }

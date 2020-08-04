@@ -15,21 +15,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "detective.1",
-  "oldentry": "Popular explanation: the detective's badge.",
   "english": [
     "detective"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone whose job is to discover what has happened in a crime or other situation and to find the people involved. English = detective."
-  ],
   "signNumber": 5328,
   "recordNumber": 3190,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
     "detective.2",
     "police.1a",
     "police.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone whose job is to discover what has happened in a crime or other situation and to find the people involved. English = detective."
+  ],
+  "idGloss": "detective.1",
+  "oldEntry": "Popular explanation: the detective's badge."
 }

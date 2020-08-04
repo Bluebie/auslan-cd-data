@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "helmet",
-  "oldentry": "",
   "english": [
     "helmet",
     "hard hat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "firefighter.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of hard hat which you wear to protect your head. English = helmet, hard hat."
   ],
   "signNumber": 4567,
   "recordNumber": 2766,
@@ -45,5 +35,15 @@
     "beret.2",
     "cap.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of hard hat which you wear to protect your head. English = helmet, hard hat."
+  ],
+  "idGloss": "helmet",
+  "oldEntry": ""
 }

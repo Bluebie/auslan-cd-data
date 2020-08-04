@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suntan.3",
-  "oldentry": "",
   "english": [
     "suntan",
     "brown",
     "tanned"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Used to describe someone whose skin is darker than usual because they have been in the sun. English = (be) brown, (be) tanned, (be) sun-tanned. Idiomatic English = have a tan, have a sun tan."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of having skin which has turned an attractive brown colour because you have been in the sun. English = tan, suntan."
-  ],
   "signNumber": 4051,
   "recordNumber": 2424,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "synonyms": [
     "suntan.1",
     "suntan.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Used to describe someone whose skin is darker than usual because they have been in the sun. English = (be) brown, (be) tanned, (be) sun-tanned. Idiomatic English = have a tan, have a sun tan."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of having skin which has turned an attractive brown colour because you have been in the sun. English = tan, suntan."
+  ],
+  "idGloss": "suntan.3",
+  "oldEntry": ""
 }

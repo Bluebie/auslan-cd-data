@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "joy",
-  "oldentry": "",
   "english": [
     "joy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "celebrate.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of great happiness. English = joy."
   ],
   "signNumber": 3746,
   "recordNumber": 2211,
@@ -42,5 +32,15 @@
   "synonyms": [
     "happy.1",
     "happy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of great happiness. English = joy."
+  ],
+  "idGloss": "joy",
+  "oldEntry": ""
 }

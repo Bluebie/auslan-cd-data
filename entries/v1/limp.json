@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "limp",
-  "oldentry": "Popular explanation: a leg limping.",
   "english": [
     "limp"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To walk with difficulty or in an uneven way because one of your legs or feet is hurt. English = limp."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A walk which is difficult or uneven because one of your legs or feet is hurt. English = limp."
-  ],
   "signNumber": 1094,
   "recordNumber": 642,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To walk with difficulty or in an uneven way because one of your legs or feet is hurt. English = limp."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A walk which is difficult or uneven because one of your legs or feet is hurt. English = limp."
+  ],
+  "idGloss": "limp",
+  "oldEntry": "Popular explanation: a leg limping."
 }

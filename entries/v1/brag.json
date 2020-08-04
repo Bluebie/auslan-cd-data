@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brag",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "boast",
     "brag"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say in a very proud way that you have something or have done something. English = boast, brag."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4511,
   "recordNumber": 2742,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "boast"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say in a very proud way that you have something or have done something. English = boast, brag."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "brag",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "policy",
-  "oldentry": "",
   "english": [
     "policy",
     "principle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy.",
-    "2. A document that shows the agreement that you have made with an insurance company. English = policy.",
-    "3. A general belief that you have about the way you should behave which influences your behaviour; a general rule about how something should be done. English = principle."
-  ],
   "signNumber": 1854,
   "recordNumber": 1112,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy.",
+    "2. A document that shows the agreement that you have made with an insurance company. English = policy.",
+    "3. A general belief that you have about the way you should behave which influences your behaviour; a general rule about how something should be done. English = principle."
+  ],
+  "idGloss": "policy",
+  "oldEntry": ""
 }

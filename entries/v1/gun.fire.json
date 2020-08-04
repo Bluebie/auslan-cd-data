@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gun.fire",
-  "oldentry": "",
   "english": [
     "gunfire"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bullet"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The noise and smoke that comes out of a gun when it is fired. English = gunfire."
   ],
   "signNumber": 6272.2,
   "recordNumber": 3746,
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "gun.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The noise and smoke that comes out of a gun when it is fired. English = gunfire."
+  ],
+  "idGloss": "gun.fire",
+  "oldEntry": ""
 }

@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bear.1a",
-  "oldentry": "",
   "english": [
     "bear",
     "koala"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large strong animal with thick fur and sharp claws. English = bear.",
-    "2. An Australian animal which looks like a small bear with grey fur and small tufted ears. It lives in trees and eats leaves. English = koala."
-  ],
   "signNumber": 3107,
   "recordNumber": 1790,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "koala"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large strong animal with thick fur and sharp claws. English = bear.",
+    "2. An Australian animal which looks like a small bear with grey fur and small tufted ears. It lives in trees and eats leaves. English = koala."
+  ],
+  "idGloss": "bear.1a",
+  "oldEntry": ""
 }

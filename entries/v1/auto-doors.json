@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "auto-doors",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "auto-doors.open",
     "auto-doors.close"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set of automatic doors."
   ],
   "signNumber": 3733,
   "recordNumber": 2202,
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set of automatic doors."
+  ],
+  "idGloss": "auto-doors",
+  "oldEntry": ""
 }

@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.home.1a",
-  "oldentry": "",
   "english": [
     "home",
     "place"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go home to one's own place."
-  ],
   "cf": [
     "house"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The place where you live and feel that you belong. English = home, place."
   ],
   "signNumber": 3339,
   "recordNumber": 1950,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "home"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go home to one's own place."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where you live and feel that you belong. English = home, place."
+  ],
+  "idGloss": "go.home.1a",
+  "oldEntry": ""
 }

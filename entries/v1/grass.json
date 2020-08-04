@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grass",
-  "oldentry": "",
   "english": [
     "grass"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very common plant with narrow leaves that forms a layer covering an area of ground. English = grass."
-  ],
   "signNumber": 2839,
   "recordNumber": 1599,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "lawn.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very common plant with narrow leaves that forms a layer covering an area of ground. English = grass."
+  ],
+  "idGloss": "grass",
+  "oldEntry": ""
 }

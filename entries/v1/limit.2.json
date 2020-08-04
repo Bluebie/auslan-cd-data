@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "limit.2",
-  "oldentry": "",
   "english": [
     "limit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ensure that something will not become greater than a particular amount or degree. English = limit."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The greatest amount, extent, or degree of something that is possible or allowed. English = limit."
-  ],
   "signNumber": 4157,
   "recordNumber": 2507,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "limit.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ensure that something will not become greater than a particular amount or degree. English = limit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The greatest amount, extent, or degree of something that is possible or allowed. English = limit."
+  ],
+  "idGloss": "limit.2",
+  "oldEntry": ""
 }

@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Singapore.1",
-  "oldentry": "",
   "english": [
     "Singapore",
     "Singaporean"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to Singapore. English = (be) Singaporean."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An island city-state in South East Asia, between Malaysia and Indonesia, called Singapore."
-  ],
   "signNumber": 4055,
   "recordNumber": 2428,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to Singapore. English = (be) Singaporean."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An island city-state in South East Asia, between Malaysia and Indonesia, called Singapore."
+  ],
+  "idGloss": "Singapore.1",
+  "oldEntry": ""
 }

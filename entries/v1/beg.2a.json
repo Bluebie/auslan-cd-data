@@ -14,27 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beg.2a",
-  "oldentry": "Popular explanation: act of begging.",
   "english": [
     "begging",
     "beggar",
     "beg"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask people to give you money or food because you are very poor. English = beg."
-  ],
   "cf": [
     "beg.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of asking people for money or food because you are poor. English = begging.",
-    "2. A person who asks people for money or food because they are poor. English = beggar."
   ],
   "signNumber": 4546,
   "recordNumber": 2755,
@@ -44,5 +31,18 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask people to give you money or food because you are very poor. English = beg."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of asking people for money or food because you are poor. English = begging.",
+    "2. A person who asks people for money or food because they are poor. English = beggar."
+  ],
+  "idGloss": "beg.2a",
+  "oldEntry": "Popular explanation: act of begging."
 }

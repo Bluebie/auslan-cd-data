@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "can't",
-  "oldentry": "",
   "english": [
     "improbable",
     "implausible",
@@ -36,22 +32,9 @@
     "unable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not have the possibility, skill or permission to do something. English = (be) unable to.",
-    "2. To be unlikely to be true or happen. English = (be) improbable.",
-    "3. To be not easy to believe or to have little chance of being true, and therefore unlikely to be true or genuine. English = (be) implausible."
-  ],
   "cf": [
     "impossible.1a"
   ],
-  "interj": [
-    "1. Used alone in response to your addressee's comments to mean that you do not believe what they say is true, or possible, or that it really surprises you. English = 'I don't believe it!', 'It can't be (true)!', 'Really!?', and so on.",
-    "2. Used alone in response to an event to mean that you find it difficult to accept or believe. You are surprised. English = 'It isn't possible!', 'It can't be (true)!', and so on."
-  ],
-  "partlex": [
-    "1. Used immediately next to a verb (usually before it) to mean that the person or thing you are talking about is not able to do that action or is not allowed to do it. English = cannot, can't, may not."
-  ],
-  "nomlex": [],
   "signNumber": 530,
   "recordNumber": 301,
   "signVisualComposition": "",
@@ -64,5 +47,22 @@
   ],
   "synonyms": [
     "prohibit.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to your addressee's comments to mean that you do not believe what they say is true, or possible, or that it really surprises you. English = 'I don't believe it!', 'It can't be (true)!', 'Really!?', and so on.",
+    "2. Used alone in response to an event to mean that you find it difficult to accept or believe. You are surprised. English = 'It isn't possible!', 'It can't be (true)!', and so on."
+  ],
+  "particleLexeme": [
+    "1. Used immediately next to a verb (usually before it) to mean that the person or thing you are talking about is not able to do that action or is not allowed to do it. English = cannot, can't, may not."
+  ],
+  "verbLexeme": [
+    "1. To not have the possibility, skill or permission to do something. English = (be) unable to.",
+    "2. To be unlikely to be true or happen. English = (be) improbable.",
+    "3. To be not easy to believe or to have little chance of being true, and therefore unlikely to be true or genuine. English = (be) implausible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "can't",
+  "oldEntry": ""
 }

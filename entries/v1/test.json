@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "test",
-  "oldentry": "",
   "english": [
     "test"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask someone questions and set them tasks to do in order to measure their knowledge or skill. English = test."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An examination consisting of a set of questions or tasks, which is intended to measure your knowledge or skill. English = test."
-  ],
   "signNumber": 6167,
   "recordNumber": 3680,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
     "university.2",
     "evaluate",
     "check.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask someone questions and set them tasks to do in order to measure their knowledge or skill. English = test."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An examination consisting of a set of questions or tasks, which is intended to measure your knowledge or skill. English = test."
+  ],
+  "idGloss": "test",
+  "oldEntry": ""
 }

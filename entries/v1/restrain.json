@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "restrain",
-  "oldentry": "Popular explanation: holding something back.",
   "english": [
     "restraint",
     "self control",
@@ -41,20 +37,7 @@
     "inhibited"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stop you from doing what you were going to do. English = restrain. Idiomatic English = hold back.",
-    "2. To stop yourself from doing what you were going to do, especially if you were about to express strong emotions about something. English = restrain oneself. Idiomatic English = hold oneself back.",
-    "3. To be in control of your emotions, to be very calm and unemotional. English = (be) restrained, (be) self controlled.",
-    "4. To be unable to express your emotions, to be unable to behave naturally and to show your real feelings. English = (be) inhibited."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Calm, controlled and unemotional behaviour. English = restraint.",
-    "2. The ability to control your emotions and remain calm, particularly when those emotions could easily be very strong. English = restraint, self control.",
-    "3. The inability to express your emotions or the inability to behave naturally and to show your real feelings. English = inhibition."
-  ],
   "signNumber": 2710,
   "recordNumber": 1508,
   "signVisualComposition": "",
@@ -68,5 +51,22 @@
   "synonyms": [
     "stop",
     "shy.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stop you from doing what you were going to do. English = restrain. Idiomatic English = hold back.",
+    "2. To stop yourself from doing what you were going to do, especially if you were about to express strong emotions about something. English = restrain oneself. Idiomatic English = hold oneself back.",
+    "3. To be in control of your emotions, to be very calm and unemotional. English = (be) restrained, (be) self controlled.",
+    "4. To be unable to express your emotions, to be unable to behave naturally and to show your real feelings. English = (be) inhibited."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Calm, controlled and unemotional behaviour. English = restraint.",
+    "2. The ability to control your emotions and remain calm, particularly when those emotions could easily be very strong. English = restraint, self control.",
+    "3. The inability to express your emotions or the inability to behave naturally and to show your real feelings. English = inhibition."
+  ],
+  "idGloss": "restrain",
+  "oldEntry": "Popular explanation: holding something back."
 }

@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "miss.2",
-  "oldentry": "",
   "english": [
     "miss",
     "overlook",
     "missing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not notice something. English = miss, overlook.",
-    "2. To fail to hit something when you have aimed something at it; to arrive too late to catch something such as a bus, plane, or train. English = miss.",
-    "3. To feel sad because someone is no longer with you; or to feel sad because you no longer have or experience something. English = miss.",
-    "4. To be difficult or impossible to find because someone or something is not in the place that it is expected to be. English = (be) missing."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3277,
   "recordNumber": 1909,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "miss.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not notice something. English = miss, overlook.",
+    "2. To fail to hit something when you have aimed something at it; to arrive too late to catch something such as a bus, plane, or train. English = miss.",
+    "3. To feel sad because someone is no longer with you; or to feel sad because you no longer have or experience something. English = miss.",
+    "4. To be difficult or impossible to find because someone or something is not in the place that it is expected to be. English = (be) missing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "miss.2",
+  "oldEntry": ""
 }

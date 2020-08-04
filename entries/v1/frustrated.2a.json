@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "frustrated.2a",
-  "oldentry": "",
   "english": [
     "frustration",
     "anxiety",
@@ -34,20 +30,8 @@
     "anxious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel angry and upset because you are unable to do what you would like to do. English = (be) frustrated.",
-    "2. To make someone feel angry and upset because you stop them from doing what they would like to do. English = frustrate.",
-    "3. To feel nervous or worried. English = (be) anxious.",
-    "4. To feel nervous or worried before performing on stage or doing something in public. Idiomatic English = have butterflies in your stomach."
-  ],
   "cf": [
     "angry.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being upset and angry because you are unable to do what you would like to do. English = frustration.",
-    "2. A feeling of nervousness or worry. English = anxiety."
   ],
   "signNumber": 3034,
   "recordNumber": 1740,
@@ -60,5 +44,21 @@
   "synonyms": [
     "frustrated.1",
     "nervous.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel angry and upset because you are unable to do what you would like to do. English = (be) frustrated.",
+    "2. To make someone feel angry and upset because you stop them from doing what they would like to do. English = frustrate.",
+    "3. To feel nervous or worried. English = (be) anxious.",
+    "4. To feel nervous or worried before performing on stage or doing something in public. Idiomatic English = have butterflies in your stomach."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being upset and angry because you are unable to do what you would like to do. English = frustration.",
+    "2. A feeling of nervousness or worry. English = anxiety."
+  ],
+  "idGloss": "frustrated.2a",
+  "oldEntry": ""
 }

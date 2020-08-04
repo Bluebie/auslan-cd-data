@@ -13,22 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "coarse",
-  "oldentry": "",
   "english": [
     "coarse",
     "rough"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a surface which is not smooth but rather has lots of little bumps and unevenness in it. English = (be) coarse, (be) rough."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3099,
   "recordNumber": 1783,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   ],
   "synonyms": [
     "rough.surface"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a surface which is not smooth but rather has lots of little bumps and unevenness in it. English = (be) coarse, (be) rough."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "coarse",
+  "oldEntry": ""
 }

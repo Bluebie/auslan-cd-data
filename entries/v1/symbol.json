@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "symbol",
-  "oldentry": "",
   "english": [
     "symbol"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shape or a design that is used to represent an idea, especially an item in a calculation or formula. English = symbol."
-  ],
   "signNumber": 6042,
   "recordNumber": 3597,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shape or a design that is used to represent an idea, especially an item in a calculation or formula. English = symbol."
+  ],
+  "idGloss": "symbol",
+  "oldEntry": ""
 }

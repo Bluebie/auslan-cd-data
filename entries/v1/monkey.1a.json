@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "monkey.1a",
-  "oldentry": "Popular explanation: scratching oneself like a monkey.",
   "english": [
     "monkey"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal which has a long tail, lives in hot countries and climbs trees. English = monkey."
-  ],
   "signNumber": 3064,
   "recordNumber": 1758,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 16,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal which has a long tail, lives in hot countries and climbs trees. English = monkey."
+  ],
+  "idGloss": "monkey.1a",
+  "oldEntry": "Popular explanation: scratching oneself like a monkey."
 }

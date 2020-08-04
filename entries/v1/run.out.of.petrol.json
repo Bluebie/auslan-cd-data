@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "run.out.of.petrol",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. Of petrol in a vehicle, to become used up so that there is no more left; to run out of petrol."
-  ],
   "cf": [
     "run.out.of.time",
     "finish.fag",
     "finish.drink"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5173,
   "recordNumber": 3114,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of petrol in a vehicle, to become used up so that there is no more left; to run out of petrol."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "run.out.of.petrol",
+  "oldEntry": ""
 }

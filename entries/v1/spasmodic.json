@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spasmodic",
-  "oldentry": "",
   "english": [
     "spasmodic",
     "intermittent",
@@ -27,13 +23,7 @@
     "stop-start"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To happen suddenly for short periods of time at irregular intervals. English = (be) spasmodic, (be) intermittent, (be) interrupted, (be) stop-start."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4291,
   "recordNumber": 2610,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To happen suddenly for short periods of time at irregular intervals. English = (be) spasmodic, (be) intermittent, (be) interrupted, (be) stop-start."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "spasmodic",
+  "oldEntry": ""
 }

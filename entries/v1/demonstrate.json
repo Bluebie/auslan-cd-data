@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "demonstrate",
-  "oldentry": "Popular explanation: holding up a banner.",
   "english": [
     "demonstration",
     "protest",
@@ -38,21 +34,9 @@
     "protest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take part in a march or a meeting to show your opposition to something or your support for it. English = demonstrate, protest.",
-    "2. Of a group of people, usually trade union members, to stand outside a place of work in order to protest about something, to prevent people from going in, or to persuade the workers to join a strike. English = picket.",
-    "3. To hold a placard."
-  ],
   "cf": [
     "bride",
     "revolt"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A public meeting or march which is held by people to show their opposition to something or their support for it. English = demonstration, protest.",
-    "2. A group of people, usually trade union members, who stand outside a place of work in order to protest about something, to prevent people from going in, or to persuade the workers to join a strike. English = picket.",
-    "3. A large notice that is carried in a march or demonstration or is displayed in a public place. English = placard."
   ],
   "signNumber": 5719,
   "recordNumber": 3384,
@@ -64,5 +48,21 @@
   "antonyms": [],
   "synonyms": [
     "lobby"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take part in a march or a meeting to show your opposition to something or your support for it. English = demonstrate, protest.",
+    "2. Of a group of people, usually trade union members, to stand outside a place of work in order to protest about something, to prevent people from going in, or to persuade the workers to join a strike. English = picket.",
+    "3. To hold a placard."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A public meeting or march which is held by people to show their opposition to something or their support for it. English = demonstration, protest.",
+    "2. A group of people, usually trade union members, who stand outside a place of work in order to protest about something, to prevent people from going in, or to persuade the workers to join a strike. English = picket.",
+    "3. A large notice that is carried in a march or demonstration or is displayed in a public place. English = placard."
+  ],
+  "idGloss": "demonstrate",
+  "oldEntry": "Popular explanation: holding up a banner."
 }

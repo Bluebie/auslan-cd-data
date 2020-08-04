@@ -12,27 +12,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "binoculars",
-  "oldentry": "Popular explanation: holding a pair of binoculars to the eyes.",
   "english": [
     "binoculars",
     "field glasses"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look through binoculars, or to adjust them so that you can clearly see the thing you want to look at."
-  ],
   "cf": [
     "telescope",
     "microscope.1",
     "focus"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An instrument which is made up of two small telescopes joined together side by side, which you look through in order to see things which are a long way away. English = binoculars, field glasses."
   ],
   "signNumber": 120,
   "recordNumber": 63,
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "focus"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look through binoculars, or to adjust them so that you can clearly see the thing you want to look at."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An instrument which is made up of two small telescopes joined together side by side, which you look through in order to see things which are a long way away. English = binoculars, field glasses."
+  ],
+  "idGloss": "binoculars",
+  "oldEntry": "Popular explanation: holding a pair of binoculars to the eyes."
 }

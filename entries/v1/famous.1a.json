@@ -17,24 +17,12 @@
   "sense": "",
   "blend": "KNOW + ALL",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "famous.1a",
-  "oldentry": "",
   "english": [
     "celebrity",
     "famous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be well known, especially in acting or show business. English = (be) famous."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who is well known, especially in acting or show business. English = celebrity."
-  ],
   "signNumber": 4803,
   "recordNumber": 2899,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "known.well",
     "well-known"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be well known, especially in acting or show business. English = (be) famous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who is well known, especially in acting or show business. English = celebrity."
+  ],
+  "idGloss": "famous.1a",
+  "oldEntry": ""
 }

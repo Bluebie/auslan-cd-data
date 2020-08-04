@@ -15,24 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crowded.1",
-  "oldentry": "",
   "english": [
     "crowded",
     "packed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a place, to be full of people, often so that it is difficult to move around. English = (be) crowded, (be) packed."
-  ],
   "cf": [
     "attend.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4999,
   "recordNumber": 3013,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   ],
   "synonyms": [
     "crowded.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a place, to be full of people, often so that it is difficult to move around. English = (be) crowded, (be) packed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "crowded.1",
+  "oldEntry": ""
 }

@@ -15,24 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mum.1a",
-  "oldentry": "",
   "english": [
     "mum",
     "mummy",
     "mother"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The woman who gave birth to you. This is an informal sign used particularly by children. English = mum, mummy.",
-    "2. The woman who gave birth to you. English = mother."
-  ],
   "signNumber": 3152,
   "recordNumber": 1825,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   ],
   "synonyms": [
     "mother.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The woman who gave birth to you. This is an informal sign used particularly by children. English = mum, mummy.",
+    "2. The woman who gave birth to you. English = mother."
+  ],
+  "idGloss": "mum.1a",
+  "oldEntry": ""
 }

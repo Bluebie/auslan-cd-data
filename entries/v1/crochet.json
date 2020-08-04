@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crochet",
-  "oldentry": "",
   "english": [
     "crochet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a needle with a small hook at the end to make clothes and other items out of thread. English = crochet."
-  ],
   "cf": [
     "knit.1a",
     "garter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A way of making clothes out of thread by using a needle with a small hook at the end. English = crochet."
   ],
   "signNumber": 965,
   "recordNumber": 556,
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a needle with a small hook at the end to make clothes and other items out of thread. English = crochet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A way of making clothes out of thread by using a needle with a small hook at the end. English = crochet."
+  ],
+  "idGloss": "crochet",
+  "oldEntry": ""
 }

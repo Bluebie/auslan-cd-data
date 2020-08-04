@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "BUILD + S",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "structure",
-  "oldentry": "",
   "english": [
     "structure"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange something in a careful, organised pattern or system. English = structure."
-  ],
   "cf": [
     "build.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The way in which something is made, built, or organised. English = structure.",
-    "2. Something that has been built or formed in a particular way. English = structure."
   ],
   "signNumber": 5901,
   "recordNumber": 3507,
@@ -42,5 +29,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange something in a careful, organised pattern or system. English = structure."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The way in which something is made, built, or organised. English = structure.",
+    "2. Something that has been built or formed in a particular way. English = structure."
+  ],
+  "idGloss": "structure",
+  "oldEntry": ""
 }

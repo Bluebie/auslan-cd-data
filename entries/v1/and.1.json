@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "and.1",
-  "oldentry": "",
   "english": [
     "and"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "more.3"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used to link two or more signs, groups of signs, clauses or sentences.  English = and."
-  ],
-  "nomlex": [],
   "signNumber": 786,
   "recordNumber": 448,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "plus",
     "add.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to link two or more signs, groups of signs, clauses or sentences.  English = and."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "and.1",
+  "oldEntry": ""
 }

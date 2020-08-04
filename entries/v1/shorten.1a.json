@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shorten.1a",
-  "oldentry": "Popular explanation: one surface goes near another.",
   "english": [
     "closeness",
     "close",
@@ -37,20 +33,7 @@
     "shorten"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located a very small distance away from something or someone else. English = (be) close to, (be) near, (be) nearby.",
-    "2. To go or move towards a thing or a person so that there is very little distance between the two things or people. English = go close to, go near.",
-    "3. To be very familiar with someone because you like them very much and know them very well. English = (be) close, (be) intimate.",
-    "4. To make shorter. English = shorten."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of a relationship with another person in which both people know each other very well and like each other. English = closeness.",
-    "2. A reduction in the size of something.",
-    "3. A reduction in the amount of time."
-  ],
   "signNumber": 4168,
   "recordNumber": 2518,
   "signVisualComposition": "",
@@ -61,5 +44,22 @@
   "antonyms": [],
   "synonyms": [
     "near.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located a very small distance away from something or someone else. English = (be) close to, (be) near, (be) nearby.",
+    "2. To go or move towards a thing or a person so that there is very little distance between the two things or people. English = go close to, go near.",
+    "3. To be very familiar with someone because you like them very much and know them very well. English = (be) close, (be) intimate.",
+    "4. To make shorter. English = shorten."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of a relationship with another person in which both people know each other very well and like each other. English = closeness.",
+    "2. A reduction in the size of something.",
+    "3. A reduction in the amount of time."
+  ],
+  "idGloss": "shorten.1a",
+  "oldEntry": "Popular explanation: one surface goes near another."
 }

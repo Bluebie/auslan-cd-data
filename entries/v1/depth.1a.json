@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "depth.1a",
-  "oldentry": "",
   "english": [
     "depth",
     "profundity",
@@ -34,21 +30,7 @@
     "profound"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To extend a long way down from the surface. English = (be) deep.",
-    "2. Of thoughts, ideas, etc., to be serious and to be about important things. English = (be) deep, (be) profound.",
-    "3. Of understand or analysis, to be very serious, exhaustive, or complete, and to show a great deal of intellectual understanding. English = (be) deep, (be) profound."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb of communication to mean what is signed, said or written includes all of the information that is relevant to the topic. English = in detail."
-  ],
-  "nomlex": [
-    "1. The distance between the top and bottom surfaces of something. English = depth.",
-    "2. The great intensity or seriousness of a situation, emotion, thought, etc. English = depth, profundity.",
-    "3. The degree or amount to which something is serious or important. English = depth."
-  ],
   "signNumber": 5182,
   "recordNumber": 3117,
   "signVisualComposition": "",
@@ -61,5 +43,23 @@
     "short.of",
     "shallow.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb of communication to mean what is signed, said or written includes all of the information that is relevant to the topic. English = in detail."
+  ],
+  "verbLexeme": [
+    "1. To extend a long way down from the surface. English = (be) deep.",
+    "2. Of thoughts, ideas, etc., to be serious and to be about important things. English = (be) deep, (be) profound.",
+    "3. Of understand or analysis, to be very serious, exhaustive, or complete, and to show a great deal of intellectual understanding. English = (be) deep, (be) profound."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The distance between the top and bottom surfaces of something. English = depth.",
+    "2. The great intensity or seriousness of a situation, emotion, thought, etc. English = depth, profundity.",
+    "3. The degree or amount to which something is serious or important. English = depth."
+  ],
+  "idGloss": "depth.1a",
+  "oldEntry": ""
 }

@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "honey.2a",
-  "oldentry": "",
   "english": [
     "honeymoon",
     "honey"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go on a honeymoon. English = honeymoon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sweet sticky yellowish substance that is made by bees. English = honey.",
-    "2. A holiday taken by a couple that have just got married. English = honeymoon."
-  ],
   "signNumber": 2454,
   "recordNumber": 1363,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "honey.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go on a honeymoon. English = honeymoon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sweet sticky yellowish substance that is made by bees. English = honey.",
+    "2. A holiday taken by a couple that have just got married. English = honeymoon."
+  ],
+  "idGloss": "honey.2a",
+  "oldEntry": ""
 }

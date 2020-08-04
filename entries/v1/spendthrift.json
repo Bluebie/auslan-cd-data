@@ -17,24 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spendthrift",
-  "oldentry": "",
   "english": [
     "spendthrift"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To spend money in a wasteful, careless or extravagant way."
-  ],
   "cf": [
     "scrimp"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who spends money in a wasteful, careless or extravagant way. English = spendthrift."
   ],
   "signNumber": 6209.1,
   "recordNumber": 3710,
@@ -48,5 +36,17 @@
     "mean",
     "stingy.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To spend money in a wasteful, careless or extravagant way."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who spends money in a wasteful, careless or extravagant way. English = spendthrift."
+  ],
+  "idGloss": "spendthrift",
+  "oldEntry": ""
 }

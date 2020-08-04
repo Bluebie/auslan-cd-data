@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sport.1a",
-  "oldentry": "",
   "english": [
     "sport"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play games such as football and cricket and other enjoyable activities which need physical effort and skill. English = play sport."
-  ],
   "cf": [
     "game"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Games such as football and cricket and other enjoyable activities which need physical effort and skill. English = sport."
   ],
   "signNumber": 4845,
   "recordNumber": 2928,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play games such as football and cricket and other enjoyable activities which need physical effort and skill. English = play sport."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Games such as football and cricket and other enjoyable activities which need physical effort and skill. English = sport."
+  ],
+  "idGloss": "sport.1a",
+  "oldEntry": ""
 }

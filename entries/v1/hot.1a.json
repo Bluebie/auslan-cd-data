@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hot.1a",
-  "oldentry": "",
   "english": [
     "hot",
     "hotness",
@@ -31,19 +27,9 @@
     "heat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very warm, to have a high temperature. English = (be) hot.",
-    "2. To make something become very warm or have a high temperature. English = heat, make hot, heat up."
-  ],
   "cf": [
     "scorching.1a",
     "humid.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being very warm or hot. English = heat, hotness.",
-    "2. The measure of the amount of heat in something, the measure of how hot or cold it is. English = temperature."
   ],
   "signNumber": 3267,
   "recordNumber": 1904,
@@ -55,5 +41,19 @@
   "antonyms": [],
   "synonyms": [
     "scorching.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very warm, to have a high temperature. English = (be) hot.",
+    "2. To make something become very warm or have a high temperature. English = heat, make hot, heat up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being very warm or hot. English = heat, hotness.",
+    "2. The measure of the amount of heat in something, the measure of how hot or cold it is. English = temperature."
+  ],
+  "idGloss": "hot.1a",
+  "oldEntry": ""
 }

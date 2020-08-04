@@ -14,27 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "decorate.1a",
-  "oldentry": "",
   "english": [
     "decoration",
     "decorations",
     "decorate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To add something to something else in order to make it look more attractive. English = decorate.",
-    "2. To hang ribbons, balloons and other brightly colored objects around a room or object to make it look more attractive as part of a celebration. English = decorate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that is added to something else in order to make it look more attractive. English = decoration, decorations.",
-    "2. Ribbons, balloons and other brightly colored objects hung around a room to make it look more attractive as part of a celebration. English = decorations."
-  ],
   "signNumber": 1905,
   "recordNumber": 1140,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To add something to something else in order to make it look more attractive. English = decorate.",
+    "2. To hang ribbons, balloons and other brightly colored objects around a room or object to make it look more attractive as part of a celebration. English = decorate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that is added to something else in order to make it look more attractive. English = decoration, decorations.",
+    "2. Ribbons, balloons and other brightly colored objects hung around a room to make it look more attractive as part of a celebration. English = decorations."
+  ],
+  "idGloss": "decorate.1a",
+  "oldEntry": ""
 }

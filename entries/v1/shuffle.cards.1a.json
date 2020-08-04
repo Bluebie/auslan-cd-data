@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shuffle.cards.1a",
-  "oldentry": "",
   "english": [
     "shuffle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To mix up a pack of cards before you begin a game. English = shuffle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4681,
   "recordNumber": 2827,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To mix up a pack of cards before you begin a game. English = shuffle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "shuffle.cards.1a",
+  "oldEntry": ""
 }

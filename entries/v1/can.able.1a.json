@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "can.able.1a",
-  "oldentry": "",
   "english": [
     "able",
     "can",
@@ -29,18 +25,10 @@
     "may"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the possibility, skill or permission to do something. English = (be) able to."
-  ],
   "cf": [
     "maybe",
     "perhaps.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb (usually before it) to mean that the person or thing you are talking about has the possibility, skill or permission to do it. English = can, could, able to, may."
-  ],
-  "nomlex": [],
   "signNumber": 5075,
   "recordNumber": 3060,
   "signVisualComposition": "",
@@ -53,5 +41,17 @@
   ],
   "synonyms": [
     "possible"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb (usually before it) to mean that the person or thing you are talking about has the possibility, skill or permission to do it. English = can, could, able to, may."
+  ],
+  "verbLexeme": [
+    "1. To have the possibility, skill or permission to do something. English = (be) able to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "can.able.1a",
+  "oldEntry": ""
 }

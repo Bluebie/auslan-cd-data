@@ -12,21 +12,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fan.2",
-  "oldentry": "Popular explanation: the turning blades of a fan.",
   "english": [
     "fan"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of electrical equipment with revolving blades which keeps a room or a machine cool or gets rid of unpleasant smells. English = fan."
-  ],
   "signNumber": 2835,
   "recordNumber": 1595,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "fan.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of electrical equipment with revolving blades which keeps a room or a machine cool or gets rid of unpleasant smells. English = fan."
+  ],
+  "idGloss": "fan.2",
+  "oldEntry": "Popular explanation: the turning blades of a fan."
 }

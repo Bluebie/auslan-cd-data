@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bid.1a",
-  "oldentry": "Popular explanation: placing a wad of money on a surface.",
   "english": [
     "bid",
     "wager",
@@ -31,19 +27,9 @@
     "wage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To offer to pay a particular amount of money for something, especially at an auction. English = bid.",
-    "2. To agree to give a certain amount of money on the chance of a future event happening (like a horse winning a race). English = bet, wage. Idiomatic English = place a bet."
-  ],
   "cf": [
     "auction",
     "sue"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An offer to pay a particular amount of money for something, especially at an auction. English = bid.",
-    "2. An amount of money you agree to give on the chance of a future event happening (like a horse winning a race). English = bet, wager"
   ],
   "signNumber": 6103.1,
   "recordNumber": 3630,
@@ -56,5 +42,19 @@
   "synonyms": [
     "bet.1",
     "bet.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To offer to pay a particular amount of money for something, especially at an auction. English = bid.",
+    "2. To agree to give a certain amount of money on the chance of a future event happening (like a horse winning a race). English = bet, wage. Idiomatic English = place a bet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An offer to pay a particular amount of money for something, especially at an auction. English = bid.",
+    "2. An amount of money you agree to give on the chance of a future event happening (like a horse winning a race). English = bet, wager"
+  ],
+  "idGloss": "bid.1a",
+  "oldEntry": "Popular explanation: placing a wad of money on a surface."
 }

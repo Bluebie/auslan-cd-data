@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "LOOK + AFTER",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "look.after.1a",
-  "oldentry": "",
   "english": [
     "look after",
     "take care"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do whatever is necessary to keep someone or something safe. English = look after, take care of."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2001,
   "recordNumber": 1176,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do whatever is necessary to keep someone or something safe. English = look after, take care of."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "look.after.1a",
+  "oldEntry": ""
 }

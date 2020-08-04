@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "evening",
-  "oldentry": "",
   "english": [
     "evening"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become dark, to become night."
-  ],
   "cf": [
     "tonight",
     "good.night.1",
     "last.night.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The time of the day when it gets dark, between the end of the afternoon and the time when you go to bed. English = evening."
   ],
   "signNumber": 3376,
   "recordNumber": 1974,
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "day.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become dark, to become night."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The time of the day when it gets dark, between the end of the afternoon and the time when you go to bed. English = evening."
+  ],
+  "idGloss": "evening",
+  "oldEntry": ""
 }

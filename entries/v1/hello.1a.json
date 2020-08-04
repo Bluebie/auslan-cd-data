@@ -17,25 +17,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hello.1a",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "hello"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say hello to someone."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used to acknowledge someone when you meet them. English = 'Hello.'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A greeting made to someone."
-  ],
   "signNumber": 3346,
   "recordNumber": 1954,
   "signVisualComposition": "",
@@ -47,5 +33,19 @@
     "wave.hand.1",
     "wave.hand.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used to acknowledge someone when you meet them. English = 'Hello.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say hello to someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A greeting made to someone."
+  ],
+  "idGloss": "hello.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

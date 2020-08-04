@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clean.2",
-  "oldentry": "",
   "english": [
     "tidiness",
     "orderliness",
@@ -49,21 +45,8 @@
     "clean"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be arranged and organised in a way that is acceptable, correct or pleasing, with no part left undone, done incorrectly or left messy. English = (be) tidy, (be) orderly, (be) neat.",
-    "2. To arrange and organise things in a way that is acceptable, correct or pleasing, leaving no part undone or messy, or done incorrectly. English = tidy, tidy up, order.",
-    "3. To be done or arranged in a way that is correct, especially with reference to some cultural, moral or religious norm. English = (be) proper, (be) decent.",
-    "4. Of language or behaviour, to have no element or part which is not correct from a moral (especially sexual) point of view. English = (be) decent, (be) proper, (be) clean."
-  ],
   "cf": [
     "niece"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state or condition of being arranged and organised in a way that is acceptable, correct or pleasing, with no part left undone, done incorrectly or left messy. English = tidiness, orderliness, neatness.",
-    "2. The state or condition of being  done or arranged in a way that is correct, particularly with reference to some cultural, moral or religious norm. English = propriety.",
-    "3. Language or behaviour which has no element or part which is not correct from a moral (especially sexual) point of view. English = decency."
   ],
   "signNumber": 1920,
   "recordNumber": 1146,
@@ -79,5 +62,22 @@
   "synonyms": [
     "clean.1",
     "pure.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be arranged and organised in a way that is acceptable, correct or pleasing, with no part left undone, done incorrectly or left messy. English = (be) tidy, (be) orderly, (be) neat.",
+    "2. To arrange and organise things in a way that is acceptable, correct or pleasing, leaving no part undone or messy, or done incorrectly. English = tidy, tidy up, order.",
+    "3. To be done or arranged in a way that is correct, especially with reference to some cultural, moral or religious norm. English = (be) proper, (be) decent.",
+    "4. Of language or behaviour, to have no element or part which is not correct from a moral (especially sexual) point of view. English = (be) decent, (be) proper, (be) clean."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state or condition of being arranged and organised in a way that is acceptable, correct or pleasing, with no part left undone, done incorrectly or left messy. English = tidiness, orderliness, neatness.",
+    "2. The state or condition of being  done or arranged in a way that is correct, particularly with reference to some cultural, moral or religious norm. English = propriety.",
+    "3. Language or behaviour which has no element or part which is not correct from a moral (especially sexual) point of view. English = decency."
+  ],
+  "idGloss": "clean.2",
+  "oldEntry": ""
 }

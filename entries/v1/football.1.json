@@ -18,27 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "football.1",
-  "oldentry": "Popular explanation: holding the football and kicking or passing it.",
   "english": [
     "Australian rules",
     "AFL",
     "kick football"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To prepare to kick or pass a ball in Australian rules football."
-  ],
   "cf": [
     "soccer.1",
     "rugby league.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A team ball game played in Australia, called Australian rules football (AFL)."
   ],
   "signNumber": 3953,
   "recordNumber": 2357,
@@ -50,5 +38,17 @@
   "antonyms": [],
   "synonyms": [
     "football.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To prepare to kick or pass a ball in Australian rules football."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A team ball game played in Australia, called Australian rules football (AFL)."
+  ],
+  "idGloss": "football.1",
+  "oldEntry": "Popular explanation: holding the football and kicking or passing it."
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "perhaps.1a",
-  "oldentry": "Popular explanation: the gesture of uncertainty.",
   "english": [
     "may",
     "might",
@@ -32,18 +28,10 @@
     "or"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "can.able.1a",
     "permit.1"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used to indicate that something is possible or may be true, but you are not certain; to indicate that you are making a rough guess at a number or quantity, rather than stating it exactly. English = perhaps, maybe.",
-    "2. Used to link a number of alternatives, to give another alternative, or to introduce a comment which corrects or modifies something you have just said. English = or.",
-    "3. Used immediately next to a verb to mean it is possible that what you say is true, but you are not certain. English = may, might."
-  ],
-  "nomlex": [],
   "signNumber": 6602,
   "recordNumber": 3930,
   "signVisualComposition": "",
@@ -54,5 +42,17 @@
   "antonyms": [],
   "synonyms": [
     "maybe"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to indicate that something is possible or may be true, but you are not certain; to indicate that you are making a rough guess at a number or quantity, rather than stating it exactly. English = perhaps, maybe.",
+    "2. Used to link a number of alternatives, to give another alternative, or to introduce a comment which corrects or modifies something you have just said. English = or.",
+    "3. Used immediately next to a verb to mean it is possible that what you say is true, but you are not certain. English = may, might."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "perhaps.1a",
+  "oldEntry": "Popular explanation: the gesture of uncertainty."
 }

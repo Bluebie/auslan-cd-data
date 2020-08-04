@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jump.up",
-  "oldentry": "",
   "english": [
     "jump",
     "jump up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To push your feet against the ground and go into the air. English = jump, jump up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of pushing your feet against the ground and going into the air. English = jump."
-  ],
   "signNumber": 1720,
   "recordNumber": 1030,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To push your feet against the ground and go into the air. English = jump, jump up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of pushing your feet against the ground and going into the air. English = jump."
+  ],
+  "idGloss": "jump.up",
+  "oldEntry": ""
 }

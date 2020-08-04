@@ -15,27 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [
-    "1. Used at the beginning, end or at both the beginning and end of a sentence to ask a question about the place something is in, or is coming from, or is going to. English = where."
-  ],
-  "idgloss": "where.1a",
-  "oldentry": "",
   "english": [
     "whereabouts",
     "location",
     "where"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used before a phrase or clause that specifies or refers to the place in which something is situated or happens. English = where, the place in which."
-  ],
-  "nomlex": [
-    "1. The place where a person or thing is. English = whereabouts, location."
-  ],
   "signNumber": 2781,
   "recordNumber": 1559,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before a phrase or clause that specifies or refers to the place in which something is situated or happens. English = where, the place in which."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "1. Used at the beginning, end or at both the beginning and end of a sentence to ask a question about the place something is in, or is coming from, or is going to. English = where."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where a person or thing is. English = whereabouts, location."
+  ],
+  "idGloss": "where.1a",
+  "oldEntry": ""
 }

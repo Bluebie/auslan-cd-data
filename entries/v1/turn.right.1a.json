@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "turn.right.1a",
-  "oldentry": "",
   "english": [
     "turn right"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn or go right at a certain place, especially at a corner; to turn or go right."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A right turn."
-  ],
   "signNumber": 967,
   "recordNumber": 558,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [
     "turn.left.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn or go right at a certain place, especially at a corner; to turn or go right."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A right turn."
+  ],
+  "idGloss": "turn.right.1a",
+  "oldEntry": ""
 }

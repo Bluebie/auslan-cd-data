@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "teddy-bear",
-  "oldentry": "Popular explanation: the outline of rounded ears.",
   "english": [
     "teddy-bear"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bear.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A child's soft toy which looks like a friendly bear with big round ears. English = teddy-bear."
   ],
   "signNumber": 819,
   "recordNumber": 468,
@@ -36,5 +26,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A child's soft toy which looks like a friendly bear with big round ears. English = teddy-bear."
+  ],
+  "idGloss": "teddy-bear",
+  "oldEntry": "Popular explanation: the outline of rounded ears."
 }

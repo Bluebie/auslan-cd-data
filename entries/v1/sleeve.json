@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sleeve",
-  "oldentry": "",
   "english": [
     "sleeve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a shirt, to have sleeves."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing worn over your arms which is attached at the shoulders to the rest of a garment. English = sleeve."
-  ],
   "signNumber": 3515,
   "recordNumber": 2058,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "short.sleeve.1a",
     "long.sleeve"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a shirt, to have sleeves."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing worn over your arms which is attached at the shoulders to the rest of a garment. English = sleeve."
+  ],
+  "idGloss": "sleeve",
+  "oldEntry": ""
 }

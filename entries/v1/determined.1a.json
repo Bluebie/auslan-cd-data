@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "determined.1a",
-  "oldentry": "",
   "english": [
     "determination",
     "obsession",
@@ -31,17 +27,7 @@
     "obsessive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a firm decision to do something and to not let anything stop you. English = (be) determined.",
-    "2. To be unable to stop thinking about something, to have your thoughts on one thing all the time. English = (be) obsessed (with something), (be) obsessive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality you show when you have decided to do something and you will not let anything stop you. English = determination.",
-    "2. Something which someone cannot stop thinking or worrying about. English = obsession."
-  ],
   "signNumber": 837,
   "recordNumber": 478,
   "signVisualComposition": "THINK + SPECIFIC",
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "single-minded"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a firm decision to do something and to not let anything stop you. English = (be) determined.",
+    "2. To be unable to stop thinking about something, to have your thoughts on one thing all the time. English = (be) obsessed (with something), (be) obsessive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality you show when you have decided to do something and you will not let anything stop you. English = determination.",
+    "2. Something which someone cannot stop thinking or worrying about. English = obsession."
+  ],
+  "idGloss": "determined.1a",
+  "oldEntry": ""
 }

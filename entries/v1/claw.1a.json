@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "claw.1a",
-  "oldentry": "",
   "english": [
     "claw",
     "scratch",
     "scratches"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an animal or bird, to rub or move its claws over something. English = claw, scratch.",
-    "2. Of a person, to rub or drag your fingernails across another person with the aim of hurting them. English = scratch."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Marks left on a person's or an animal's body from being clawed at or scratched. English = scratches."
-  ],
   "signNumber": 2969,
   "recordNumber": 1688,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "synonyms": [
     "scratch",
     "scratches"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an animal or bird, to rub or move its claws over something. English = claw, scratch.",
+    "2. Of a person, to rub or drag your fingernails across another person with the aim of hurting them. English = scratch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Marks left on a person's or an animal's body from being clawed at or scratched. English = scratches."
+  ],
+  "idGloss": "claw.1a",
+  "oldEntry": ""
 }

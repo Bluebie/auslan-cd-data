@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tram.1",
-  "oldentry": "Popular explanation: operating the speed and steering mechanism on an old fashioned tram.",
   "english": [
     "tram"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An electric vehicle for carrying people which travels on rails in the streets of a town. English = tram."
-  ],
   "signNumber": 5821,
   "recordNumber": 3457,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "tram.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An electric vehicle for carrying people which travels on rails in the streets of a town. English = tram."
+  ],
+  "idGloss": "tram.1",
+  "oldEntry": "Popular explanation: operating the speed and steering mechanism on an old fashioned tram."
 }

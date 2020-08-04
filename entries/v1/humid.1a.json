@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "humid.1a",
-  "oldentry": "Popular explanation: wiping the brow.",
   "english": [
     "sweat",
     "perspiration",
@@ -37,20 +33,7 @@
     "phew"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have sweat come through your skin because your are hot, ill, or afraid. English = sweat, perspire.",
-    "2. To involve a lot of work and activity, especially if that is likely to make you sweat. English = (be) strenuous.",
-    "3. Of the weather, to have a high temperature, especially high enough to make you sweat. English = (be) hot."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express the fact that you are hot or relieved. English = 'Phew!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The salty, colourless liquid which comes through your skin when you are hot, ill, or afraid. English = sweat, perspiration.",
-    "2. Of the weather or air in a room, the quality of being hot. English = heat."
-  ],
   "signNumber": 1349,
   "recordNumber": 796,
   "signVisualComposition": "",
@@ -62,5 +45,22 @@
   "synonyms": [
     "sweat",
     "hot.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express the fact that you are hot or relieved. English = 'Phew!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have sweat come through your skin because your are hot, ill, or afraid. English = sweat, perspire.",
+    "2. To involve a lot of work and activity, especially if that is likely to make you sweat. English = (be) strenuous.",
+    "3. Of the weather, to have a high temperature, especially high enough to make you sweat. English = (be) hot."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The salty, colourless liquid which comes through your skin when you are hot, ill, or afraid. English = sweat, perspiration.",
+    "2. Of the weather or air in a room, the quality of being hot. English = heat."
+  ],
+  "idGloss": "humid.1a",
+  "oldEntry": "Popular explanation: wiping the brow."
 }

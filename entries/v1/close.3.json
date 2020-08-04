@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "close.3",
-  "oldentry": "Popular explanation: a closing action.",
   "english": [
     "closure",
     "closed",
@@ -31,18 +27,7 @@
     "close down"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of businesses, offices, shops, etc., to be in a period when work has stopped and there is no access to the premises. English = (be) closed, (be) shut.",
-    "2. To stop all work and activity at a shop or factory, usually for ever. English = close down, shut.",
-    "3. To bring to an end any kind of activity."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The temporary shutting up of a business or factory at the end of a business day or period.",
-    "2. The permanent shutting up of a business or factory. English = closure."
-  ],
   "signNumber": 3900,
   "recordNumber": 2322,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "synonyms": [
     "close.1a",
     "close.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of businesses, offices, shops, etc., to be in a period when work has stopped and there is no access to the premises. English = (be) closed, (be) shut.",
+    "2. To stop all work and activity at a shop or factory, usually for ever. English = close down, shut.",
+    "3. To bring to an end any kind of activity."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The temporary shutting up of a business or factory at the end of a business day or period.",
+    "2. The permanent shutting up of a business or factory. English = closure."
+  ],
+  "idGloss": "close.3",
+  "oldEntry": "Popular explanation: a closing action."
 }

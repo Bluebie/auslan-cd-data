@@ -19,27 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "learn.2a",
-  "oldentry": "Popular explanation: put in the mind.",
   "english": [
     "learning",
     "learn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To find out about something, especially abstract or theoretical knowledge, by being told about it or by reading and studying about it. English = learn.",
-    "2. To find out something about life, in a moral and interpersonal sense, through your experiences. English = learn from your experiences. Idiomatic English = pick up, take in."
-  ],
   "cf": [
     "take.in.experience"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Knowledge about abstract or theoretical things that has been gained by being told about them or by reading and studying. English = learning.",
-    "2. Knowledge about people and life that is acquired by your own personal experiences."
   ],
   "signNumber": 3136,
   "recordNumber": 1813,
@@ -54,5 +40,19 @@
   "synonyms": [
     "learn.1",
     "learn.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To find out about something, especially abstract or theoretical knowledge, by being told about it or by reading and studying about it. English = learn.",
+    "2. To find out something about life, in a moral and interpersonal sense, through your experiences. English = learn from your experiences. Idiomatic English = pick up, take in."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Knowledge about abstract or theoretical things that has been gained by being told about them or by reading and studying. English = learning.",
+    "2. Knowledge about people and life that is acquired by your own personal experiences."
+  ],
+  "idGloss": "learn.2a",
+  "oldEntry": "Popular explanation: put in the mind."
 }

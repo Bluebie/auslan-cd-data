@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "profile",
-  "oldentry": "",
   "english": [
     "profile"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The outline of your face as it is seen when someone is looking at you from the side. English = profile."
-  ],
   "signNumber": 491,
   "recordNumber": 273,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The outline of your face as it is seen when someone is looking at you from the side. English = profile."
+  ],
+  "idGloss": "profile",
+  "oldEntry": ""
 }

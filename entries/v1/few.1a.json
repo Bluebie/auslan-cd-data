@@ -18,28 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "few.1a",
-  "oldentry": "",
   "english": [
     "few",
     "rarely",
     "seldom"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the number of things or people, to be smaller than desirable or than was expected. English = (be) few."
-  ],
   "cf": [
     "often.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb or in an phrase to mean that the action does not occur very often. English = rarely, seldom."
-  ],
-  "nomlex": [
-    "1. A small number of things or people. English = few."
   ],
   "signNumber": 6363,
   "recordNumber": 3801,
@@ -55,5 +41,19 @@
   ],
   "synonyms": [
     "little.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb or in an phrase to mean that the action does not occur very often. English = rarely, seldom."
+  ],
+  "verbLexeme": [
+    "1. Of the number of things or people, to be smaller than desirable or than was expected. English = (be) few."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small number of things or people. English = few."
+  ],
+  "idGloss": "few.1a",
+  "oldEntry": ""
 }

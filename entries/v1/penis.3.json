@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "penis.3",
-  "oldentry": "Popular explanation: the penis bobbing up and down.",
   "english": [
     "penis"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "vagina.1",
     "vagina.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of a man's body that he uses when urinating and when having sex. English = penis."
   ],
   "signNumber": 806,
   "recordNumber": 459,
@@ -43,5 +33,15 @@
   "synonyms": [
     "penis.1",
     "cock.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of a man's body that he uses when urinating and when having sex. English = penis."
+  ],
+  "idGloss": "penis.3",
+  "oldEntry": "Popular explanation: the penis bobbing up and down."
 }

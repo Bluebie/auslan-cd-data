@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sneeze",
-  "oldentry": "Popular explanation: the natural sneezing gesture.",
   "english": [
     "sneeze",
     "hay fever"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To suddenly take in your breath and then blow it down your nose noisily. People do it a lot when they have a cold. English = sneeze."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of suddenly taking in your breath and then blowing it down your nose noisily. People do it a lot when they have a cold. English = sneeze.",
-    "2. [Especially with a repeated movement], an illness similar to a cold, in which people sneeze a lot because they are allergic to some types of pollen. English = hay fever."
-  ],
   "signNumber": 542,
   "recordNumber": 309,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
     "flu.1a",
     "hay fever.1",
     "hay fever.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To suddenly take in your breath and then blow it down your nose noisily. People do it a lot when they have a cold. English = sneeze."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of suddenly taking in your breath and then blowing it down your nose noisily. People do it a lot when they have a cold. English = sneeze.",
+    "2. [Especially with a repeated movement], an illness similar to a cold, in which people sneeze a lot because they are allergic to some types of pollen. English = hay fever."
+  ],
+  "idGloss": "sneeze",
+  "oldEntry": "Popular explanation: the natural sneezing gesture."
 }

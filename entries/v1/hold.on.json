@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hold.on",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "but",
     "yet",
@@ -28,18 +24,10 @@
     "hang on"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "stop",
     "warn"
   ],
-  "interj": [
-    "1. Used alone to tell someone to stop doing something (which usually involves trying to get your attention) and to wait until you are ready to attend to them. English = 'Hold on!', 'Hang on!', 'Wait a sec!' and so on."
-  ],
-  "partlex": [
-    "1. Used to introduce a statement which contrasts with what you have just said. English = but, yet, although."
-  ],
-  "nomlex": [],
   "signNumber": 729,
   "recordNumber": 420,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell someone to stop doing something (which usually involves trying to get your attention) and to wait until you are ready to attend to them. English = 'Hold on!', 'Hang on!', 'Wait a sec!' and so on."
+  ],
+  "particleLexeme": [
+    "1. Used to introduce a statement which contrasts with what you have just said. English = but, yet, although."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hold.on",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

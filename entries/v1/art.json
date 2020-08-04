@@ -24,10 +24,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "art",
-  "oldentry": "",
   "english": [
     "engraving",
     "etching",
@@ -37,19 +33,7 @@
     "etch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut a design or inscription into the surface of something with a sharp object or acid. English = engrave, etch.",
-    "2. To create drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture or design that has been either cut into a surface with a sharp object or acid and/or printed from a plate which has been cut. English = engraving,  etching.",
-    "2. The creation of drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea. English = art.",
-    "3. Objects, such as paintings or pieces of sculpture, which are considered to be beautiful and which are part of a society's culture. English = art.",
-    "4. An activity such as weaving, carving, or pottery that involves making things skilfully with your hands. English = craft."
-  ],
   "signNumber": 4913,
   "recordNumber": 2967,
   "signVisualComposition": "",
@@ -62,5 +46,21 @@
     "sculpture.1",
     "paint.picture.1a",
     "diagram.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut a design or inscription into the surface of something with a sharp object or acid. English = engrave, etch.",
+    "2. To create drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture or design that has been either cut into a surface with a sharp object or acid and/or printed from a plate which has been cut. English = engraving,  etching.",
+    "2. The creation of drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea. English = art.",
+    "3. Objects, such as paintings or pieces of sculpture, which are considered to be beautiful and which are part of a society's culture. English = art.",
+    "4. An activity such as weaving, carving, or pottery that involves making things skilfully with your hands. English = craft."
+  ],
+  "idGloss": "art",
+  "oldEntry": ""
 }

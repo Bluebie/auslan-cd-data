@@ -10,19 +10,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sign.location",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The location of a sign within the signing space. A technical sign used to discuss the grammar of Auslan."
-  ],
   "signNumber": 2741,
   "recordNumber": 1529,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The location of a sign within the signing space. A technical sign used to discuss the grammar of Auslan."
+  ],
+  "idGloss": "sign.location",
+  "oldEntry": ""
 }

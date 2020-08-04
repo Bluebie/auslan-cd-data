@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "plan.1",
-  "oldentry": "",
   "english": [
     "plan",
     "plot",
@@ -34,23 +30,9 @@
     "arrange"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To decide in detail what you are going to do before you do it. English = plan, arrange.",
-    "2. Of an event or meeting, to make plans for it to happen. English = arrange.",
-    "3. For something you are going to make, build, or create, to decide and to prepare what the main parts of it will be and how they will be arranged. English = plan, design.",
-    "4. To plan secretly to do something. English = plot."
-  ],
   "cf": [
     "model.1",
     "agree.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A method of achieving something that you have worked out in detail beforehand. English = plan.",
-    "2. The plans and preparations which you make so that something will happen or be possible. English = arrangements.",
-    "3. The story of a film, novel, or play and the way in which it evolves. English = plot.",
-    "4. A secret plan by a group of people to do something that is illegal or wrong. English = plot."
   ],
   "signNumber": 413,
   "recordNumber": 230,
@@ -62,5 +44,23 @@
   "antonyms": [],
   "synonyms": [
     "plan.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To decide in detail what you are going to do before you do it. English = plan, arrange.",
+    "2. Of an event or meeting, to make plans for it to happen. English = arrange.",
+    "3. For something you are going to make, build, or create, to decide and to prepare what the main parts of it will be and how they will be arranged. English = plan, design.",
+    "4. To plan secretly to do something. English = plot."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A method of achieving something that you have worked out in detail beforehand. English = plan.",
+    "2. The plans and preparations which you make so that something will happen or be possible. English = arrangements.",
+    "3. The story of a film, novel, or play and the way in which it evolves. English = plot.",
+    "4. A secret plan by a group of people to do something that is illegal or wrong. English = plot."
+  ],
+  "idGloss": "plan.1",
+  "oldEntry": ""
 }

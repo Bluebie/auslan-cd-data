@@ -17,24 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wee-wee",
-  "oldentry": "",
   "english": [
     "wee",
     "wee-wee"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get rid of urine from your body. A child's sign. English word = wee-wee, do a wee-wee."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The liquid that you get rid of from your body when you go to the toilet. A child's sign. English word = wee, wee-wee."
-  ],
   "signNumber": 751,
   "recordNumber": 433,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "piss.1a",
     "piss.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get rid of urine from your body. A child's sign. English word = wee-wee, do a wee-wee."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The liquid that you get rid of from your body when you go to the toilet. A child's sign. English word = wee, wee-wee."
+  ],
+  "idGloss": "wee-wee",
+  "oldEntry": ""
 }

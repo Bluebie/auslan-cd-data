@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bequeath.inherit",
-  "oldentry": "Popular explanation: handing something over to someone.",
   "english": [
     "bequest",
     "inheritance",
@@ -32,20 +28,8 @@
     "inherit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give or leave your money or property to someone when you die, or to receive money or property from someone after they have died.",
-    "2. To legally state that someone should have your money or property when you die. English = will. Formal English = bequeath.",
-    "3. To be given or left money or property by someone who has died. English = inherit."
-  ],
   "cf": [
     "next.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Money or property that someone gives to someone else after they die, or money  or property that someone receives after someone else has died.",
-    "2. Money or property that someone gives to someone else after they die. Formal English = bequest.",
-    "3. Money or property that someone is given by someone who dies. English = inheritance."
   ],
   "signNumber": 6107,
   "recordNumber": 3634,
@@ -55,5 +39,21 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give or leave your money or property to someone when you die, or to receive money or property from someone after they have died.",
+    "2. To legally state that someone should have your money or property when you die. English = will. Formal English = bequeath.",
+    "3. To be given or left money or property by someone who has died. English = inherit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Money or property that someone gives to someone else after they die, or money  or property that someone receives after someone else has died.",
+    "2. Money or property that someone gives to someone else after they die. Formal English = bequest.",
+    "3. Money or property that someone is given by someone who dies. English = inheritance."
+  ],
+  "idGloss": "bequeath.inherit",
+  "oldEntry": "Popular explanation: handing something over to someone."
 }

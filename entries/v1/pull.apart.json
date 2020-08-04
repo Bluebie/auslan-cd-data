@@ -12,22 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of pulling apart, opening or stretching something small and delicate, or any action or any thing directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "pull.apart",
-  "oldentry": "Popular explanation: pulling something apart.",
   "english": [
     "pull apart"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "elastic.2",
     "string.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 388,
   "recordNumber": 211,
   "signVisualComposition": "",
@@ -36,5 +28,13 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of pulling apart, opening or stretching something small and delicate, or any action or any thing directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "pull.apart",
+  "oldEntry": "Popular explanation: pulling something apart."
 }

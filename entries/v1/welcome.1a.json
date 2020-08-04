@@ -18,28 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "welcome.1a",
-  "oldentry": "Popular explanation: common welcoming or beckoning gesture.",
   "english": [
     "welcome",
     "welcoming",
     "hospitable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To greet someone in a friendly way when they arrive somewhere. English = to welcome.",
-    "2. To be friendly and welcoming to guests and strangers. English = (be) welcoming, (be) hospitable."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone when welcoming someone to tell them to come inside a room or building. English = 'Come in!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of greeting someone in a friendly way when they arrive somewhere. English = welcome."
-  ],
   "signNumber": 3855,
   "recordNumber": 2292,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   "antonyms": [
     "send.out"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone when welcoming someone to tell them to come inside a room or building. English = 'Come in!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To greet someone in a friendly way when they arrive somewhere. English = to welcome.",
+    "2. To be friendly and welcoming to guests and strangers. English = (be) welcoming, (be) hospitable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of greeting someone in a friendly way when they arrive somewhere. English = welcome."
+  ],
+  "idGloss": "welcome.1a",
+  "oldEntry": "Popular explanation: common welcoming or beckoning gesture."
 }

@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "GIRL + FRIEND",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "girlfriend",
-  "oldentry": "",
   "english": [
     "girlfriend"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A girl or a woman with whom someone is having a romantic or sexual relationship. English = girlfriend.",
-    "2. The female friend of a woman or a girl. English = girlfriend."
-  ],
   "signNumber": 1325,
   "recordNumber": 783,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "antonyms": [
     "boyfriend"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A girl or a woman with whom someone is having a romantic or sexual relationship. English = girlfriend.",
+    "2. The female friend of a woman or a girl. English = girlfriend."
+  ],
+  "idGloss": "girlfriend",
+  "oldEntry": ""
 }

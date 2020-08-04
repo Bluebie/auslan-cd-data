@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sticky-beak.3",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "busybody",
     "sticky-beak",
@@ -28,15 +24,7 @@
     "inquisitive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask lots of questions about other people's affairs or about things that do not concern you, often in a way that irritates them. English = (be) nosy, (be) inquisitive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is very inquisitive and always wants to know everything that is happening, especially about other people's affairs. Informal English = busybody, sticky-beak."
-  ],
   "signNumber": 525,
   "recordNumber": 296,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
     "question.1a",
     "sticky-beak.1a",
     "sticky-beak.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask lots of questions about other people's affairs or about things that do not concern you, often in a way that irritates them. English = (be) nosy, (be) inquisitive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is very inquisitive and always wants to know everything that is happening, especially about other people's affairs. Informal English = busybody, sticky-beak."
+  ],
+  "idGloss": "sticky-beak.3",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

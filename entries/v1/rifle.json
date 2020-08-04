@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rifle",
-  "oldentry": "Popular explanation: operating a rifle.",
   "english": [
     "rifle",
     "hunting",
@@ -31,18 +27,7 @@
     "massacre"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fire a rifle.",
-    "2. To chase wild animals and shoot at them with a rifle in order to kill them for food or as a sport. English = hunt.",
-    "3. [With a sideways sweep] to shoot indiscriminately, to massacre."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A gun with a long barrel. English = rifle.",
-    "2. The chasing and killing of wild animals with guns and rifles for food or as a sport. English = hunting."
-  ],
   "signNumber": 5303,
   "recordNumber": 3176,
   "signVisualComposition": "",
@@ -53,5 +38,20 @@
   "antonyms": [],
   "synonyms": [
     "gun.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fire a rifle.",
+    "2. To chase wild animals and shoot at them with a rifle in order to kill them for food or as a sport. English = hunt.",
+    "3. [With a sideways sweep] to shoot indiscriminately, to massacre."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A gun with a long barrel. English = rifle.",
+    "2. The chasing and killing of wild animals with guns and rifles for food or as a sport. English = hunting."
+  ],
+  "idGloss": "rifle",
+  "oldEntry": "Popular explanation: operating a rifle."
 }

@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lift.3a",
-  "oldentry": "",
   "english": [
     "lift",
     "elevator"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel up and down in a lift."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device like a large box that moves up and down inside a tall building and carries people from one floor to another. English = lift, elevator."
-  ],
   "signNumber": 3886,
   "recordNumber": 2312,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "lift.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel up and down in a lift."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device like a large box that moves up and down inside a tall building and carries people from one floor to another. English = lift, elevator."
+  ],
+  "idGloss": "lift.3a",
+  "oldEntry": ""
 }

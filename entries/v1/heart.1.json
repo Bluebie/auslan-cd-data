@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heart.1",
-  "oldentry": "",
   "english": [
     "heart",
     "feelings",
     "hearts"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "lover"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The organ in your chest that pumps the blood around your body. English = heart.",
-    "2. The feelings and emotions a person has, especially feelings of kindness and consideration. English = feelings, heart.",
-    "3. One of the four suits in a pack of playing cards. Each card in this suit is marked with one or more red symbols in the shape of a heart. English = hearts."
   ],
   "signNumber": 3459,
   "recordNumber": 2020,
@@ -50,5 +38,17 @@
     "kind.1",
     "indulgent",
     "heart.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The organ in your chest that pumps the blood around your body. English = heart.",
+    "2. The feelings and emotions a person has, especially feelings of kindness and consideration. English = feelings, heart.",
+    "3. One of the four suits in a pack of playing cards. Each card in this suit is marked with one or more red symbols in the shape of a heart. English = hearts."
+  ],
+  "idGloss": "heart.1",
+  "oldEntry": ""
 }

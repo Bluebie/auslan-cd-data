@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "points",
-  "oldentry": "",
   "english": [
     "points",
     "spark plugs"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In the electronics of engines, either of a pair of contacts tipped with tungsten or platinum that makes or breaks current flow. English = points.",
-    "2. In a motor engine, a device, with points, which causes the electric sparks that ignite the fuel. English = spark plugs."
-  ],
   "signNumber": 1464,
   "recordNumber": 873,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In the electronics of engines, either of a pair of contacts tipped with tungsten or platinum that makes or breaks current flow. English = points.",
+    "2. In a motor engine, a device, with points, which causes the electric sparks that ignite the fuel. English = spark plugs."
+  ],
+  "idGloss": "points",
+  "oldEntry": ""
 }

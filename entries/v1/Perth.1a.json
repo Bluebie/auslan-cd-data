@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Perth.1a",
-  "oldentry": "",
   "english": [
     "Perth"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The capital city of the Australian state of Western Australia, called Perth."
-  ],
   "signNumber": 1826,
   "recordNumber": 1096,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The capital city of the Australian state of Western Australia, called Perth."
+  ],
+  "idGloss": "Perth.1a",
+  "oldEntry": ""
 }

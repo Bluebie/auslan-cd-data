@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "business.1",
-  "oldentry": "",
   "english": [
     "business"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "lazy.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Work relating to the production, buying, and selling of goods and services. English = business.",
-    "2. An organisation which produces and sells goods or which provides a service. English = business."
   ],
   "signNumber": 3501,
   "recordNumber": 2048,
@@ -42,5 +31,16 @@
   "antonyms": [],
   "synonyms": [
     "business.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Work relating to the production, buying, and selling of goods and services. English = business.",
+    "2. An organisation which produces and sells goods or which provides a service. English = business."
+  ],
+  "idGloss": "business.1",
+  "oldEntry": ""
 }

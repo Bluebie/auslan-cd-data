@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sailor",
-  "oldentry": "Popular explanation: the sailor dance.",
   "english": [
     "sailor",
     "navy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who works on a ship as a member of its crew. English = sailor.",
-    "2. That part of the armed forces of a country that fights at sea on ships. English = navy."
-  ],
   "signNumber": 3944,
   "recordNumber": 2352,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who works on a ship as a member of its crew. English = sailor.",
+    "2. That part of the armed forces of a country that fights at sea on ships. English = navy."
+  ],
+  "idGloss": "sailor",
+  "oldEntry": "Popular explanation: the sailor dance."
 }

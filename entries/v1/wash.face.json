@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wash.face",
-  "oldentry": "Popular explanation: washing one's face.",
   "english": [
     "flannel",
     "face flannel",
@@ -32,16 +28,7 @@
     "hand towel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wash your face, to freshen up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small cloth used for washing yourself. English = flannel, face flannel, face cloth, face washer.",
-    "2. A small towel used for drying your hands and your face. English = hand towel."
-  ],
   "signNumber": 3581,
   "recordNumber": 2103,
   "signVisualComposition": "",
@@ -53,5 +40,18 @@
   "synonyms": [
     "wash",
     "wash.hands"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wash your face, to freshen up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small cloth used for washing yourself. English = flannel, face flannel, face cloth, face washer.",
+    "2. A small towel used for drying your hands and your face. English = hand towel."
+  ],
+  "idGloss": "wash.face",
+  "oldEntry": "Popular explanation: washing one's face."
 }

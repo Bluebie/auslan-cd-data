@@ -15,26 +15,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pastry",
-  "oldentry": "Popular explanation: rolling or kneading pastry.",
   "english": [
     "dough",
     "pastry",
     "knead"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To press and squeeze dough with your hands so that it becomes smooth and ready to cook. English = knead."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mixture of flour and water, and sometimes also sugar and fat, which can be cooked to make bread, pastry, or biscuits. English = dough.",
-    "2. A food made of flour, fat, and water that is mixed into a dough and then rolled flat. It is used for making pies and flans. English = pastry."
-  ],
   "signNumber": 4636,
   "recordNumber": 2808,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "antonyms": [],
   "synonyms": [
     "massage.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To press and squeeze dough with your hands so that it becomes smooth and ready to cook. English = knead."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mixture of flour and water, and sometimes also sugar and fat, which can be cooked to make bread, pastry, or biscuits. English = dough.",
+    "2. A food made of flour, fat, and water that is mixed into a dough and then rolled flat. It is used for making pies and flans. English = pastry."
+  ],
+  "idGloss": "pastry",
+  "oldEntry": "Popular explanation: rolling or kneading pastry."
 }

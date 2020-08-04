@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chew",
-  "oldentry": "Popular explanation: the jaws grinding and chewing.",
   "english": [
     "chewing",
     "grinding",
@@ -32,18 +28,7 @@
     "grind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use your teeth to break food up in your mouth, so that it become easier to swallow. English = chew.",
-    "2. To crush something between two hard surfaces or in a machine until it breaks into lots or small pieces or a fine powder. English = grind."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of using your teeth to break food up in your mouth, so that it become easier to swallow. English = chewing.",
-    "2. The action of crushing something between two hard surfaces or in a machine until it breaks into lots or small pieces or a fine powder. English = grinding.",
-    "3. A machine or device which crushes something into small pieces. English = grinder."
-  ],
   "signNumber": 5916,
   "recordNumber": 3520,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "pepper-mill"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use your teeth to break food up in your mouth, so that it become easier to swallow. English = chew.",
+    "2. To crush something between two hard surfaces or in a machine until it breaks into lots or small pieces or a fine powder. English = grind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of using your teeth to break food up in your mouth, so that it become easier to swallow. English = chewing.",
+    "2. The action of crushing something between two hard surfaces or in a machine until it breaks into lots or small pieces or a fine powder. English = grinding.",
+    "3. A machine or device which crushes something into small pieces. English = grinder."
+  ],
+  "idGloss": "chew",
+  "oldEntry": "Popular explanation: the jaws grinding and chewing."
 }

@@ -22,10 +22,6 @@
   "sense": "2",
   "blend": "",
   "queries": "Often made with a repeated movement.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "involve.1a",
-  "oldentry": "Popular explanation: putting something inside something else.",
   "english": [
     "involvement",
     "inclusion",
@@ -36,19 +32,7 @@
     "included"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something in a situation or activity, to be a necessary part or to be affected by the situation or activity. English = involve.",
-    "2. Of an object, situation or activity, to have something else as one of its parts. English = include.",
-    "3. To take part in some activity; to be a part of something else. English = participate, (be) involved in; (be) included in.",
-    "4. Of things in a task, situation, or system, to be required in order to achieve it or to understand it and the problems that it causes. English = (be) involved."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of taking part in something. English = involvement, participation",
-    "2. The act of being part of something else. English = inclusion."
-  ],
   "signNumber": 230,
   "recordNumber": 137,
   "signVisualComposition": "",
@@ -57,5 +41,21 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something in a situation or activity, to be a necessary part or to be affected by the situation or activity. English = involve.",
+    "2. Of an object, situation or activity, to have something else as one of its parts. English = include.",
+    "3. To take part in some activity; to be a part of something else. English = participate, (be) involved in; (be) included in.",
+    "4. Of things in a task, situation, or system, to be required in order to achieve it or to understand it and the problems that it causes. English = (be) involved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of taking part in something. English = involvement, participation",
+    "2. The act of being part of something else. English = inclusion."
+  ],
+  "idGloss": "involve.1a",
+  "oldEntry": "Popular explanation: putting something inside something else."
 }

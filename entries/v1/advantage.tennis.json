@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "advantage.tennis",
-  "oldentry": "",
   "english": [
     "advantage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In tennis, to score the first point after deuce."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In tennis, the first point scored after deuce, or the resulting state of the score. English = advantage."
-  ],
   "signNumber": 3913,
   "recordNumber": 2331,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [
     "balance.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In tennis, to score the first point after deuce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In tennis, the first point scored after deuce, or the resulting state of the score. English = advantage."
+  ],
+  "idGloss": "advantage.tennis",
+  "oldEntry": ""
 }

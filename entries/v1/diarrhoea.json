@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "diarrhoea",
-  "oldentry": "",
   "english": [
     "diarrhoea",
     "defecate",
     "shit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To rid waste matter from your body through your anus. Formal English = defecate. Informal English = shit.",
-    "2. To have diarrhoea. Idiomatic English = have the runs."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An illness in which people get rid of lot of faeces that are much more liquid than usual. English = diarrhoea."
-  ],
   "signNumber": 4958,
   "recordNumber": 2995,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "synonyms": [
     "poo.1",
     "poo.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To rid waste matter from your body through your anus. Formal English = defecate. Informal English = shit.",
+    "2. To have diarrhoea. Idiomatic English = have the runs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An illness in which people get rid of lot of faeces that are much more liquid than usual. English = diarrhoea."
+  ],
+  "idGloss": "diarrhoea",
+  "oldEntry": ""
 }

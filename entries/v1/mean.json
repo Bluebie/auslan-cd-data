@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mean",
-  "oldentry": "",
   "english": [
     "meanness",
     "miser",
@@ -31,18 +27,8 @@
     "miserly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unwilling to spend much money or to use very much of a particular thing. English = (be) mean, (be) stingy",
-    "2. To be very mean and to hate spending money. English = (be) miserly."
-  ],
   "cf": [
     "selfish.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The unwillingness to spend much money or to use very much of a particular thing. English = meanness.",
-    "2. A person who is very mean and enjoys saving money and hate spending it. English = miser."
   ],
   "signNumber": 4500,
   "recordNumber": 2735,
@@ -54,5 +40,19 @@
   "antonyms": [],
   "synonyms": [
     "stingy.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unwilling to spend much money or to use very much of a particular thing. English = (be) mean, (be) stingy",
+    "2. To be very mean and to hate spending money. English = (be) miserly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The unwillingness to spend much money or to use very much of a particular thing. English = meanness.",
+    "2. A person who is very mean and enjoys saving money and hate spending it. English = miser."
+  ],
+  "idGloss": "mean",
+  "oldEntry": ""
 }

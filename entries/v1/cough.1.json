@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cough.1",
-  "oldentry": "",
   "english": [
     "cough"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To force air out of your throat with a sudden, harsh noise, often because you are not well. English = cough."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All illness in which you cough often and your chest or throat hurts. English = cough."
-  ],
   "signNumber": 2955,
   "recordNumber": 1677,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "cough.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To force air out of your throat with a sudden, harsh noise, often because you are not well. English = cough."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All illness in which you cough often and your chest or throat hurts. English = cough."
+  ],
+  "idGloss": "cough.1",
+  "oldEntry": ""
 }

@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drill.1",
-  "oldentry": "Popular explanation: the form and operation of a drill.",
   "english": [
     "drill"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a hole in something using a drill. English = drill."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool or machine that you use for making holes. English = drill."
-  ],
   "signNumber": 5295,
   "recordNumber": 3172,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a hole in something using a drill. English = drill."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool or machine that you use for making holes. English = drill."
+  ],
+  "idGloss": "drill.1",
+  "oldEntry": "Popular explanation: the form and operation of a drill."
 }

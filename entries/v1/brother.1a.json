@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brother.1a",
-  "oldentry": "",
   "english": [
     "brother"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A boy or a man who has the same parents as you. English = brother.",
-    "2. A title given to a man who belongs to a religious institution such as a monastery. English = brother."
-  ],
   "signNumber": 5789,
   "recordNumber": 3433,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [
     "sister"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A boy or a man who has the same parents as you. English = brother.",
+    "2. A title given to a man who belongs to a religious institution such as a monastery. English = brother."
+  ],
+  "idGloss": "brother.1a",
+  "oldEntry": ""
 }

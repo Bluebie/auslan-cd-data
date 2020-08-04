@@ -18,28 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.yet.1a",
-  "oldentry": "",
   "english": [
     "not yet",
     "not ready"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Not to have prepared yourself in time for something. English = (be) not ready."
-  ],
   "cf": [
     "soon"
   ],
-  "interj": [
-    "1. Used in response to a question about when something should happen or be done to mean that you think it should not be done now, although it will have to be done at a later time. English = 'Not yet.'"
-  ],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action has not happened up to the present time, although it probably will happen. English = not yet."
-  ],
-  "nomlex": [],
   "signNumber": 6523,
   "recordNumber": 3882,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   ],
   "synonyms": [
     "not.yet.2a"
-  ]
+  ],
+  "interjection": [
+    "1. Used in response to a question about when something should happen or be done to mean that you think it should not be done now, although it will have to be done at a later time. English = 'Not yet.'"
+  ],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action has not happened up to the present time, although it probably will happen. English = not yet."
+  ],
+  "verbLexeme": [
+    "1. Not to have prepared yourself in time for something. English = (be) not ready."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.yet.1a",
+  "oldEntry": ""
 }

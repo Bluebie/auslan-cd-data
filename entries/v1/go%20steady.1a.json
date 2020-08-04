@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go steady.1a",
-  "oldentry": "",
   "english": [
     "boyfriend",
     "girlfriend",
@@ -26,17 +22,7 @@
     "go steady"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a romantic or sexual relationship with someone. Informal English = go steady.",
-    "2. To be in a romantic or sexual relationship with someone, to be part of a couple."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person with whom you are having a romantic or sexual relationship. English = boyfriend, girlfriend.",
-    "2. Two people who are in a romantic or sexual relationship. English = couple."
-  ],
   "signNumber": 1966,
   "recordNumber": 1168,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a romantic or sexual relationship with someone. Informal English = go steady.",
+    "2. To be in a romantic or sexual relationship with someone, to be part of a couple."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person with whom you are having a romantic or sexual relationship. English = boyfriend, girlfriend.",
+    "2. Two people who are in a romantic or sexual relationship. English = couple."
+  ],
+  "idGloss": "go steady.1a",
+  "oldEntry": ""
 }

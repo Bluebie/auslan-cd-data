@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "verse.1",
-  "oldentry": "",
   "english": [
     "verse"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the parts of which a poem, song, or a chapter of the Bible is divided into. English = verse."
-  ],
   "signNumber": 1741,
   "recordNumber": 1044,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the parts of which a poem, song, or a chapter of the Bible is divided into. English = verse."
+  ],
+  "idGloss": "verse.1",
+  "oldEntry": ""
 }

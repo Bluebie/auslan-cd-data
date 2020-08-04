@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hitch-hike",
-  "oldentry": "Popular explanation: a hitch-hiking gesture.",
   "english": [
     "hitch-hiker",
     "hitch-hiking",
     "hitch-hike"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel by getting lifts in other people's cars, which you ask for by standing at the side of the road with your thumb held out. English = hitch-hike."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who travels by getting lifts in other people's cars, which they ask for by standing at the side of the road with their thumb held out. English = hitch-hiker.",
-    "2. The way of travelling by getting lifts in other people's cars, which you ask for by standing at the side of the road with your thumb held out. English = hitch-hiking."
-  ],
   "signNumber": 4765,
   "recordNumber": 2880,
   "signVisualComposition": "",
@@ -42,5 +29,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel by getting lifts in other people's cars, which you ask for by standing at the side of the road with your thumb held out. English = hitch-hike."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who travels by getting lifts in other people's cars, which they ask for by standing at the side of the road with their thumb held out. English = hitch-hiker.",
+    "2. The way of travelling by getting lifts in other people's cars, which you ask for by standing at the side of the road with your thumb held out. English = hitch-hiking."
+  ],
+  "idGloss": "hitch-hike",
+  "oldEntry": "Popular explanation: a hitch-hiking gesture."
 }

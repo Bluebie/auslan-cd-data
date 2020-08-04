@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wicket.1",
-  "oldentry": "Popular explanation: the shape of wicket stumps.",
   "english": [
     "wicket"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set of three upright sticks with two small sticks on top of them, which the ball is bowled at in cricket. There is one at each end of a cricket pitch. English = wicket."
-  ],
   "signNumber": 1132,
   "recordNumber": 663,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "wicket.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set of three upright sticks with two small sticks on top of them, which the ball is bowled at in cricket. There is one at each end of a cricket pitch. English = wicket."
+  ],
+  "idGloss": "wicket.1",
+  "oldEntry": "Popular explanation: the shape of wicket stumps."
 }

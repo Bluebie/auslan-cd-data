@@ -15,25 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lemonade.1a",
-  "oldentry": "Popular explanation: pushing a stopper into a bottle of lemonade.",
   "english": [
     "lemonade",
     "soft drink"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "champagne",
     "whisky"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A colourless sweet fizzy drink. English = lemonade.",
-    "2. Any cold, non-alcoholic drink such as lemonade or fruit juice. English = soft drink."
   ],
   "signNumber": 423,
   "recordNumber": 236,
@@ -43,5 +32,16 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A colourless sweet fizzy drink. English = lemonade.",
+    "2. Any cold, non-alcoholic drink such as lemonade or fruit juice. English = soft drink."
+  ],
+  "idGloss": "lemonade.1a",
+  "oldEntry": "Popular explanation: pushing a stopper into a bottle of lemonade."
 }

@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hymn",
-  "oldentry": "",
   "english": [
     "music",
     "rhythm",
@@ -25,13 +21,7 @@
     "rhythmic"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A song that Christians sing in order to praise God. English = hymn."
-  ],
   "signNumber": 4225,
   "recordNumber": 2556,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A song that Christians sing in order to praise God. English = hymn."
+  ],
+  "idGloss": "hymn",
+  "oldEntry": ""
 }

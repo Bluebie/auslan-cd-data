@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strategy",
-  "oldentry": "",
   "english": [
     "strategy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "way",
     "road"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A plan you use in order to achieve something. English = strategy."
   ],
   "signNumber": 5902,
   "recordNumber": 3508,
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A plan you use in order to achieve something. English = strategy."
+  ],
+  "idGloss": "strategy",
+  "oldEntry": ""
 }

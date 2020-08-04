@@ -12,22 +12,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "animal.2",
-  "oldentry": "Popular explanation: the form of a horned animal.",
   "english": [
     "animal"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A living creature such as a dog, lion, or rabbit, rather than a bird, fish, reptile, insect, or human being. English = animal.",
-    "2. Any living thing that is not a plant. English = animal."
-  ],
   "signNumber": 6656,
   "recordNumber": 3960,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "antonyms": [],
   "synonyms": [
     "animal.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A living creature such as a dog, lion, or rabbit, rather than a bird, fish, reptile, insect, or human being. English = animal.",
+    "2. Any living thing that is not a plant. English = animal."
+  ],
+  "idGloss": "animal.2",
+  "oldEntry": "Popular explanation: the form of a horned animal."
 }

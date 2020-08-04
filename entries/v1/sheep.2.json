@@ -12,21 +12,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sheep.2",
-  "oldentry": "",
   "english": [
     "sheep"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A farm animal with a thick woolly coat. It is kept for its wool or for its meat. English = sheep."
-  ],
   "signNumber": 4561,
   "recordNumber": 2762,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "sheep.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A farm animal with a thick woolly coat. It is kept for its wool or for its meat. English = sheep."
+  ],
+  "idGloss": "sheep.2",
+  "oldEntry": ""
 }

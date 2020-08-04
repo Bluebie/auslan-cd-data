@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "record.2",
-  "oldentry": "",
   "english": [
     "record"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A round, flat piece of black plastic on which sound, especially music, is stored. You listen to the sound by playing the record on a record player. English = record."
-  ],
   "signNumber": 2222,
   "recordNumber": 1267,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "plate.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A round, flat piece of black plastic on which sound, especially music, is stored. You listen to the sound by playing the record on a record player. English = record."
+  ],
+  "idGloss": "record.2",
+  "oldEntry": ""
 }

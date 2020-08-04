@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "murder.2",
-  "oldentry": "",
   "english": [
     "murder",
     "strangulation",
@@ -35,19 +31,7 @@
     "murderer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately and unlawfully kill someone. English = murder.",
-    "2. To hold someone tightly by the throat so that they cannot breath, usually in order to kill them. English = throttle.",
-    "3. To kill someone by squeezing their throat. English = strangle, choke."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The deliberate and unlawful killing of a person. English = murder.",
-    "2. The act of killing someone by squeezing their throat. English = strangulation",
-    "3. A person who deliberately and unlawfully kills someone. English = murderer."
-  ],
   "signNumber": 4610,
   "recordNumber": 2791,
   "signVisualComposition": "",
@@ -58,5 +42,21 @@
   "antonyms": [],
   "synonyms": [
     "murder.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately and unlawfully kill someone. English = murder.",
+    "2. To hold someone tightly by the throat so that they cannot breath, usually in order to kill them. English = throttle.",
+    "3. To kill someone by squeezing their throat. English = strangle, choke."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The deliberate and unlawful killing of a person. English = murder.",
+    "2. The act of killing someone by squeezing their throat. English = strangulation",
+    "3. A person who deliberately and unlawfully kills someone. English = murderer."
+  ],
+  "idGloss": "murder.2",
+  "oldEntry": ""
 }

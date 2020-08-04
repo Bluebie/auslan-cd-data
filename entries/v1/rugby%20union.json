@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rugby union",
-  "oldentry": "Popular explanation: throwing a ball over your head.",
   "english": [
     "rugby union"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of two codes of rugby football. English = rugby union."
-  ],
   "signNumber": 5561,
   "recordNumber": 3287,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of two codes of rugby football. English = rugby union."
+  ],
+  "idGloss": "rugby union",
+  "oldEntry": "Popular explanation: throwing a ball over your head."
 }

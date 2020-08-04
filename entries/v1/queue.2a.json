@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "queue.2a",
-  "oldentry": "Popular explanation: a line of vertical upright objects.",
   "english": [
     "queue",
     "line",
     "line up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stand in a line with other people who are all waiting for something. English = queue , line up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line of people who are all waiting for something. English = queue, line."
-  ],
   "signNumber": 2396,
   "recordNumber": 1322,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "queue.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stand in a line with other people who are all waiting for something. English = queue , line up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line of people who are all waiting for something. English = queue, line."
+  ],
+  "idGloss": "queue.2a",
+  "oldEntry": "Popular explanation: a line of vertical upright objects."
 }

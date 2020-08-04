@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The path or trajectory of an object as it bounces off a flat surface or the ground, such as a ball bouncing or a bullet ricocheting, or any action or any thing directly or indirectly related to this.",
-  "questlex": [],
-  "idgloss": "bounce.3",
-  "oldentry": "",
   "english": [
     "bounce",
     "ricochet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an object, to hit a flat surface or the ground, and then move away immediately. English = bounce.",
-    "2. Of a bullet, to hit a surface and bounce away from it. English = ricochet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1257,
   "recordNumber": 745,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an object, to hit a flat surface or the ground, and then move away immediately. English = bounce.",
+    "2. Of a bullet, to hit a surface and bounce away from it. English = ricochet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The path or trajectory of an object as it bounces off a flat surface or the ground, such as a ball bouncing or a bullet ricocheting, or any action or any thing directly or indirectly related to this.",
+  "nominalLexeme": [],
+  "idGloss": "bounce.3",
+  "oldEntry": ""
 }

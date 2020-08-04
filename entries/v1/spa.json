@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spa",
-  "oldentry": "",
   "english": [
     "spa",
     "spa bath"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An enclosed section of a swimming pool, or a bath, through which heated, aerated water is pumped at some pressure. English = spa, spa bath."
-  ],
   "signNumber": 2785,
   "recordNumber": 1560,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An enclosed section of a swimming pool, or a bath, through which heated, aerated water is pumped at some pressure. English = spa, spa bath."
+  ],
+  "idGloss": "spa",
+  "oldEntry": ""
 }

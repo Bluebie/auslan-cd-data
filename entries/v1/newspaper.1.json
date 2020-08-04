@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "newspaper.1",
-  "oldentry": "Popular explanation: opening a newspaper.",
   "english": [
     "newspaper"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open up a newspaper in order to read it."
-  ],
   "cf": [
     "newsagent"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some are available everyday and other once a week. English = newspaper."
   ],
   "signNumber": 5786,
   "recordNumber": 3430,
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "newspaper.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open up a newspaper in order to read it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some are available everyday and other once a week. English = newspaper."
+  ],
+  "idGloss": "newspaper.1",
+  "oldEntry": "Popular explanation: opening a newspaper."
 }

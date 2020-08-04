@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "The subordinate hand may be held stationary.",
-  "genmean": "The action of an object turning quickly or spinning around a central point, or any action or any thing directly or indirectly associated with this, such as a top, a blender, or a spin-drier.",
-  "questlex": [],
-  "idgloss": "blender",
-  "oldentry": "",
   "english": [
     "spinning",
     "top",
@@ -43,22 +39,8 @@
     "spin dry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn quickly around a central point. English = spin.",
-    "2. To spin a cone-shaped child's toy, called a top.",
-    "3. To mix liquids and soft foods together using a special high speed mixing machine. English = blend.",
-    "4. To dry something by spinning it in a spin dryer. English = spin dry."
-  ],
   "cf": [
     "spin-drier.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of turning quickly around a central point. English = spinning.",
-    "2. A cone-shaped child's toy that can spin on its pointed end. English = top.",
-    "3. A machine used in the kitchen for mixing liquids and soft foods together at high speed. English = blender, liquidiser.",
-    "4. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
   ],
   "signNumber": 1087,
   "recordNumber": 637,
@@ -68,5 +50,23 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn quickly around a central point. English = spin.",
+    "2. To spin a cone-shaped child's toy, called a top.",
+    "3. To mix liquids and soft foods together using a special high speed mixing machine. English = blend.",
+    "4. To dry something by spinning it in a spin dryer. English = spin dry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of an object turning quickly or spinning around a central point, or any action or any thing directly or indirectly associated with this, such as a top, a blender, or a spin-drier.",
+  "nominalLexeme": [
+    "1. The action of turning quickly around a central point. English = spinning.",
+    "2. A cone-shaped child's toy that can spin on its pointed end. English = top.",
+    "3. A machine used in the kitchen for mixing liquids and soft foods together at high speed. English = blender, liquidiser.",
+    "4. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
+  ],
+  "idGloss": "blender",
+  "oldEntry": ""
 }

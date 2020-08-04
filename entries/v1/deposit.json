@@ -17,28 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deposit",
-  "oldentry": "",
   "english": [
     "deposit",
     "investment",
     "invest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something somewhere, especially money into a bank, so that it is safe until it is needed again. English = deposit.",
-    "2. To hand over a significant amount of money to someone or some organisation; to provide funds.",
-    "3. To pay money into a bank or to buy shares with it so that you will receive a profit. English = invest."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An amount of money put into a bank account. English = deposit.",
-    "2. The amount of money you put into a bank or buy shares with. English = investment."
-  ],
   "signNumber": 4460,
   "recordNumber": 2710,
   "signVisualComposition": "",
@@ -49,5 +34,20 @@
   "antonyms": [
     "witdrawal"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put something somewhere, especially money into a bank, so that it is safe until it is needed again. English = deposit.",
+    "2. To hand over a significant amount of money to someone or some organisation; to provide funds.",
+    "3. To pay money into a bank or to buy shares with it so that you will receive a profit. English = invest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An amount of money put into a bank account. English = deposit.",
+    "2. The amount of money you put into a bank or buy shares with. English = investment."
+  ],
+  "idGloss": "deposit",
+  "oldEntry": ""
 }

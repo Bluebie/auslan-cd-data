@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Asia.1a",
-  "oldentry": "",
   "english": [
     "Asia",
     "Orient",
@@ -33,18 +29,7 @@
     "Chinese"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a person, thing, product or service that comes from or is associated with East Asia or the Orient. English = (be) Asian, (be) Oriental.",
-    "2. To be from or relate to China. English = (be) Chinese."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The eastern and south-eastern parts of the Eurasian continent, especially those parts including China and Japan. English = Asia, East-Asia, South East Asia, the Orient.",
-    "2. A person who comes from East Asia or the Orient and/or has the physical and racial features of the majority of the population in that area of the world. English = Oriental, Asian.",
-    "3. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
-  ],
   "signNumber": 519,
   "recordNumber": 290,
   "signVisualComposition": "",
@@ -56,5 +41,20 @@
   "synonyms": [
     "Asia.2",
     "China"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a person, thing, product or service that comes from or is associated with East Asia or the Orient. English = (be) Asian, (be) Oriental.",
+    "2. To be from or relate to China. English = (be) Chinese."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The eastern and south-eastern parts of the Eurasian continent, especially those parts including China and Japan. English = Asia, East-Asia, South East Asia, the Orient.",
+    "2. A person who comes from East Asia or the Orient and/or has the physical and racial features of the majority of the population in that area of the world. English = Oriental, Asian.",
+    "3. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
+  ],
+  "idGloss": "Asia.1a",
+  "oldEntry": ""
 }

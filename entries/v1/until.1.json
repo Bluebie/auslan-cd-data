@@ -14,22 +14,11 @@
   "sense": "",
   "blend": "AFTER.THAT + FIRST",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "until.1",
-  "oldentry": "",
   "english": [
     "until"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to link or join two sign sentences to mean the first action happens before the second action and stops when the second action happens. English = until.",
-    "2. Used to link a verb (action) sign with a time sign to mean the action  happens before that time and stops at that time. English = until."
-  ],
-  "nomlex": [],
   "signNumber": 4205,
   "recordNumber": 2543,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
     "prior.to.1a",
     "since.1a",
     "until.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to link or join two sign sentences to mean the first action happens before the second action and stops when the second action happens. English = until.",
+    "2. Used to link a verb (action) sign with a time sign to mean the action  happens before that time and stops at that time. English = until."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "until.1",
+  "oldEntry": ""
 }

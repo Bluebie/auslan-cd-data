@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The flicking of objects or the squirting liquids up towards you, or any thing or any action directly or indirectly associated with this, especially car windscreen washer jets.",
-  "questlex": [],
-  "idgloss": "windscreen washers",
-  "oldentry": "",
   "english": [
     "windscreen washers"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "windscreen-wipers"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two small outlets at the bottom of the outside of a car windscreen that squirt water onto the glass in order to clean it. English = windscreen washers."
   ],
   "signNumber": 6409,
   "recordNumber": 3825,
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The flicking of objects or the squirting liquids up towards you, or any thing or any action directly or indirectly associated with this, especially car windscreen washer jets.",
+  "nominalLexeme": [
+    "1. Two small outlets at the bottom of the outside of a car windscreen that squirt water onto the glass in order to clean it. English = windscreen washers."
+  ],
+  "idGloss": "windscreen washers",
+  "oldEntry": ""
 }

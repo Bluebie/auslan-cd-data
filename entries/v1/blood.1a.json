@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blood.1a",
-  "oldentry": "",
   "english": [
     "blood",
     "bleeding"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lose blood from your body as a result of injury or illness. English = blood."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A red liquid that flows inside your body. English = blood.",
-    "2. The loss of blood from your body as a result of injury or illness. English = bleeding."
-  ],
   "signNumber": 1143,
   "recordNumber": 671,
   "signVisualComposition": "RED + FLOW/LEAK",
@@ -40,5 +27,18 @@
   "primaryLocation": 10,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lose blood from your body as a result of injury or illness. English = blood."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A red liquid that flows inside your body. English = blood.",
+    "2. The loss of blood from your body as a result of injury or illness. English = bleeding."
+  ],
+  "idGloss": "blood.1a",
+  "oldEntry": ""
 }

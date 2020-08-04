@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "postpone.1",
-  "oldentry": "",
   "english": [
     "postponement",
     "postpone",
@@ -26,16 +22,8 @@
     "put off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange for an event to take place at another time later than was originally planned. English = postpone, defer, put off."
-  ],
   "cf": [
     "disappear.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The moving of the arranged time for an event to another time later than was originally planned. English = postponement."
   ],
   "signNumber": 4290.1,
   "recordNumber": 2609,
@@ -47,5 +35,17 @@
   "antonyms": [],
   "synonyms": [
     "postpone.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange for an event to take place at another time later than was originally planned. English = postpone, defer, put off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The moving of the arranged time for an event to another time later than was originally planned. English = postponement."
+  ],
+  "idGloss": "postpone.1",
+  "oldEntry": ""
 }

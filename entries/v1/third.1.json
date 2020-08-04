@@ -14,27 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "third.1",
-  "oldentry": "",
   "english": [
     "third",
     "tertiary",
     "thirdly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the thing, person, event or period of time that happens or comes after two others of the same kind. English = (be) third.",
-    "2. To be the third in order, the third in importance, or in the third stage of development (especially in education). Formal English = (be) tertiary."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action is done after two others have done it. English = third.",
-    "2. Used at the beginning of a sentence after you have started to mention several things (events, reasons, etc.) and have got to your number three point. English = third, thirdly."
-  ],
-  "nomlex": [],
   "signNumber": 2244,
   "recordNumber": 1273,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action is done after two others have done it. English = third.",
+    "2. Used at the beginning of a sentence after you have started to mention several things (events, reasons, etc.) and have got to your number three point. English = third, thirdly."
+  ],
+  "verbLexeme": [
+    "1. To be the thing, person, event or period of time that happens or comes after two others of the same kind. English = (be) third.",
+    "2. To be the third in order, the third in importance, or in the third stage of development (especially in education). Formal English = (be) tertiary."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "third.1",
+  "oldEntry": ""
 }

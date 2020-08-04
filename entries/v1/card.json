@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of outlining something which is rectangular, or any thing or any action which is directly or indirectly associated with this, especially a ticket, a card, or receipt.",
-  "questlex": [],
-  "idgloss": "card",
-  "oldentry": "Popular explanation: the outline of a ticket or card.",
   "english": [
     "card",
     "ticket",
@@ -27,15 +23,7 @@
     "sales docket"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of stiff paper with a picture and a message printed on it, which you send to someone on a special occasion. English = card.",
-    "2. A large, official piece of paper or card which shows that you have paid for a major journey, such as on a plane, train or ship. English = ticket.",
-    "3. A piece of paper that you give or send to someone to confirm that you have received money or goods from them for the sale of a product or service to them. English = receipt, sales docket."
-  ],
   "signNumber": 5209,
   "recordNumber": 3130,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of outlining something which is rectangular, or any thing or any action which is directly or indirectly associated with this, especially a ticket, a card, or receipt.",
+  "nominalLexeme": [
+    "1. A piece of stiff paper with a picture and a message printed on it, which you send to someone on a special occasion. English = card.",
+    "2. A large, official piece of paper or card which shows that you have paid for a major journey, such as on a plane, train or ship. English = ticket.",
+    "3. A piece of paper that you give or send to someone to confirm that you have received money or goods from them for the sale of a product or service to them. English = receipt, sales docket."
+  ],
+  "idGloss": "card",
+  "oldEntry": "Popular explanation: the outline of a ticket or card."
 }

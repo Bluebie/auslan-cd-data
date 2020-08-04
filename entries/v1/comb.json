@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "comb",
-  "oldentry": "Popular explanation: the teeth of a comb and the action of combing.",
   "english": [
     "comb"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tidy your hair using a comb. English = comb."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat piece of plastic or metal, which you use to tidy your hair. English = comb."
-  ],
   "signNumber": 2917,
   "recordNumber": 1654,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "hairbrush"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tidy your hair using a comb. English = comb."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat piece of plastic or metal, which you use to tidy your hair. English = comb."
+  ],
+  "idGloss": "comb",
+  "oldEntry": "Popular explanation: the teeth of a comb and the action of combing."
 }

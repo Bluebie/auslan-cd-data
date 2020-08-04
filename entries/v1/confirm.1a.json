@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "confirm.1a",
-  "oldentry": "",
   "english": [
     "confirmation",
     "confirm",
@@ -41,21 +37,8 @@
     "definite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To show or say something is definitely true; to say that an arrangement or an appointment is definite. English = confirm.",
-    "2. Of an idea, agreement or plan, to be firm and clear, and to be unlikely to be changed. English = (be) definite.",
-    "3. To formally agree with a plan or an idea, if you are in a position of authority, and say that it can happen. English = approve.",
-    "4. To formally agree with a plan or an idea, especially a motion that has been presented to a meeting. English = adopt."
-  ],
   "cf": [
     "right.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A communication with says that something is definitely true or which says that an arrangement or an appointment that has already been agreed on is definite. English = confirmation.",
-    "2. The formal agreement with a plan or an idea given by someone in a position of authority. English = approval.",
-    "3. The formal agreement with a plan or an idea, especially a motion that has been presented to a meeting. English = adoption."
   ],
   "signNumber": 4872,
   "recordNumber": 2947,
@@ -68,5 +51,22 @@
   "synonyms": [
     "agree.1a",
     "true"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To show or say something is definitely true; to say that an arrangement or an appointment is definite. English = confirm.",
+    "2. Of an idea, agreement or plan, to be firm and clear, and to be unlikely to be changed. English = (be) definite.",
+    "3. To formally agree with a plan or an idea, if you are in a position of authority, and say that it can happen. English = approve.",
+    "4. To formally agree with a plan or an idea, especially a motion that has been presented to a meeting. English = adopt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A communication with says that something is definitely true or which says that an arrangement or an appointment that has already been agreed on is definite. English = confirmation.",
+    "2. The formal agreement with a plan or an idea given by someone in a position of authority. English = approval.",
+    "3. The formal agreement with a plan or an idea, especially a motion that has been presented to a meeting. English = adoption."
+  ],
+  "idGloss": "confirm.1a",
+  "oldEntry": ""
 }

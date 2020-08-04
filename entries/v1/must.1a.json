@@ -13,24 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "must.1a",
-  "oldentry": "",
   "english": [
     "must"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone as a response to a question from your addressee or even yourself as to the likelihood of something happening or being true to mean that you are sure it is true or that it has happened. English = 'It must be!', 'It must have happened!'"
-  ],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that it is very important and necessary that the action happen; or that you want to do it and that you intend to do it very soon. English = must.",
-    "2. Used immediately next to a verb when you are ordering someone to do that action. It is important and necessary that they do that action. English = must."
-  ],
-  "nomlex": [],
   "signNumber": 2488,
   "recordNumber": 1381,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "antonyms": [],
   "synonyms": [
     "should.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone as a response to a question from your addressee or even yourself as to the likelihood of something happening or being true to mean that you are sure it is true or that it has happened. English = 'It must be!', 'It must have happened!'"
+  ],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that it is very important and necessary that the action happen; or that you want to do it and that you intend to do it very soon. English = must.",
+    "2. Used immediately next to a verb when you are ordering someone to do that action. It is important and necessary that they do that action. English = must."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "must.1a",
+  "oldEntry": ""
 }

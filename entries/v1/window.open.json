@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "window.open",
-  "oldentry": "",
   "english": [
     "window"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a space in a wall or roof or in the side of a vehicle, often with glass in it so that light can pass through it and people can see through it; to open a window."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4145,
   "recordNumber": 2500,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   ],
   "synonyms": [
     "window"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a space in a wall or roof or in the side of a vehicle, often with glass in it so that light can pass through it and people can see through it; to open a window."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "window.open",
+  "oldEntry": ""
 }

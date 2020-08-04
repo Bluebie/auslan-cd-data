@@ -15,24 +15,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "handball.pass",
-  "oldentry": "Popular explanation: passing the ball.",
   "english": [
     "handball",
     "handpass"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In Australian rules football, to pass the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian rules football, a pass in which a player attempts to deliver the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
-  ],
   "signNumber": 6020,
   "recordNumber": 3584,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In Australian rules football, to pass the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian rules football, a pass in which a player attempts to deliver the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
+  ],
+  "idGloss": "handball.pass",
+  "oldEntry": "Popular explanation: passing the ball."
 }

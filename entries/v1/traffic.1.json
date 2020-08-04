@@ -22,28 +22,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "traffic.1",
-  "oldentry": "Popular explanation: two lanes of traffic passing each other.",
   "english": [
     "traffic",
     "thoroughfare",
     "busy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a thoroughfare, to be full of a lot of people or vehicles passing each other. English = (be) busy."
-  ],
   "cf": [
     "flow.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the people that are moving along a path and passing each other at a particular time.",
-    "2. All the cars and other vehicles that are moving along a road at a particular time. English = traffic.",
-    "3. A place where there is a lot of traffic of people or vehicles. English = thoroughfare."
   ],
   "signNumber": 2400,
   "recordNumber": 1324,
@@ -56,5 +42,19 @@
   "synonyms": [
     "traffic.2",
     "traffic.jam"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a thoroughfare, to be full of a lot of people or vehicles passing each other. English = (be) busy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the people that are moving along a path and passing each other at a particular time.",
+    "2. All the cars and other vehicles that are moving along a road at a particular time. English = traffic.",
+    "3. A place where there is a lot of traffic of people or vehicles. English = thoroughfare."
+  ],
+  "idGloss": "traffic.1",
+  "oldEntry": "Popular explanation: two lanes of traffic passing each other."
 }

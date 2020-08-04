@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "weigh.1a",
-  "oldentry": "Popular explanation: balancing scales.",
   "english": [
     "weight",
     "scales",
@@ -34,20 +30,9 @@
     "weigh"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To measure how heavy something is. English = weigh.",
-    "2. To decide how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluate. Idiomatic English = weigh up the pros and cons."
-  ],
   "cf": [
     "depends",
     "evaluate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The measure of how heavy something is; the measure of the heaviness of something which is expressed in units such as kilos, pounds, and tonnes. English = weight.",
-    "2. A piece of equipment for weighing things, for example for weighing amounts of food that you need in order to make a particular dish. English = scales.",
-    "3. A decision about how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluation."
   ],
   "signNumber": 3845,
   "recordNumber": 2286,
@@ -60,5 +45,20 @@
   "synonyms": [
     "compare",
     "calculate.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To measure how heavy something is. English = weigh.",
+    "2. To decide how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluate. Idiomatic English = weigh up the pros and cons."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The measure of how heavy something is; the measure of the heaviness of something which is expressed in units such as kilos, pounds, and tonnes. English = weight.",
+    "2. A piece of equipment for weighing things, for example for weighing amounts of food that you need in order to make a particular dish. English = scales.",
+    "3. A decision about how significant, valuable or useful something is, based on a careful study of its good and bad features. English = evaluation."
+  ],
+  "idGloss": "weigh.1a",
+  "oldEntry": "Popular explanation: balancing scales."
 }

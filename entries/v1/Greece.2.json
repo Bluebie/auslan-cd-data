@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Greece.2",
-  "oldentry": "",
   "english": [
     "Greece",
     "Greek"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to Greece. English = (be) Greek."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in south eastern Europe, called Greece."
-  ],
   "signNumber": 184,
   "recordNumber": 104,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "Greece.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to Greece. English = (be) Greek."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in south eastern Europe, called Greece."
+  ],
+  "idGloss": "Greece.2",
+  "oldEntry": ""
 }

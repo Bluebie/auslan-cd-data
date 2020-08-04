@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "SCIENCE + B",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "physics",
-  "oldentry": "",
   "english": [
     "physics"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The scientific study of the forces and qualities such as heat, light, sound, pressure, gravity, and electricity, and the way that they affect objects. English = physics."
-  ],
   "signNumber": 1839,
   "recordNumber": 1100,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The scientific study of the forces and qualities such as heat, light, sound, pressure, gravity, and electricity, and the way that they affect objects. English = physics."
+  ],
+  "idGloss": "physics",
+  "oldEntry": ""
 }

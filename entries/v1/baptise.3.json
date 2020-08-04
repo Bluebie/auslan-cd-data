@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "baptise.3",
-  "oldentry": "",
   "english": [
     "christening",
     "baptism",
@@ -27,16 +23,8 @@
     "baptised"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a baby, to be made a member of the Christian church by being anointed with water and to be officially given his or her name. English = (be) christened, (Catholic) (be) baptised."
-  ],
   "cf": [
     "baptise.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A Christian ceremony in which a baby is made a member of the Christian church by being anointed with water and is officially given his or her name. English = christening, (Catholic) baptism."
   ],
   "signNumber": 3124,
   "recordNumber": 1804,
@@ -46,5 +34,17 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a baby, to be made a member of the Christian church by being anointed with water and to be officially given his or her name. English = (be) christened, (Catholic) (be) baptised."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A Christian ceremony in which a baby is made a member of the Christian church by being anointed with water and is officially given his or her name. English = christening, (Catholic) baptism."
+  ],
+  "idGloss": "baptise.3",
+  "oldEntry": ""
 }

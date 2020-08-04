@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "GO.FORTH + M",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "missionary.1",
-  "oldentry": "",
   "english": [
     "missionary"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A Christian who has been sent to a foreign country to teach people about Christianity. English = missionary."
-  ],
   "signNumber": 2367,
   "recordNumber": 1302,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "missionary.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A Christian who has been sent to a foreign country to teach people about Christianity. English = missionary."
+  ],
+  "idGloss": "missionary.1",
+  "oldEntry": ""
 }

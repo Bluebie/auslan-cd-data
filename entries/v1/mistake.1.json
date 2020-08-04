@@ -22,27 +22,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mistake.1",
-  "oldentry": "",
   "english": [
     "mistake",
     "error",
     "mistaken"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do or think something that is wrong; to make a mistake or an error.",
-    "2. To have done or thought something that is wrong. English = (be) mistaken, (be) in error."
-  ],
   "cf": [
     "wrong"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or an opinion that is wrong. English = mistake, error."
   ],
   "signNumber": 2927,
   "recordNumber": 1660,
@@ -59,5 +46,18 @@
     "mistake.2",
     "mistake.3",
     "mistake.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do or think something that is wrong; to make a mistake or an error.",
+    "2. To have done or thought something that is wrong. English = (be) mistaken, (be) in error."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or an opinion that is wrong. English = mistake, error."
+  ],
+  "idGloss": "mistake.1",
+  "oldEntry": ""
 }

@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sterilise.2",
-  "oldentry": "",
   "english": [
     "sterilisation",
     "tubal ligation",
@@ -30,18 +26,7 @@
     "sterilise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate on a male or a female so as to make it impossible for him or her to produce or have babies. English = sterilise.",
-    "2. Of a woman, to have a tubal ligation. Idiomatic English = have one's tubes tied."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A medical operation that makes it impossible for a male or female to produce or have babies. English = sterilisation.",
-    "2. A surgical operation that makes it impossible for a female to have or produce babies, by cutting or tying the fallopian tubes. Formal English = tubal ligation.",
-    "3. A surgical operation that is done in order to sterilize a man, by cutting the tube that carries sperm to his penis.  English = vasectomy."
-  ],
   "signNumber": 1667,
   "recordNumber": 991,
   "signVisualComposition": "",
@@ -52,5 +37,20 @@
   "antonyms": [],
   "synonyms": [
     "sterilise.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate on a male or a female so as to make it impossible for him or her to produce or have babies. English = sterilise.",
+    "2. Of a woman, to have a tubal ligation. Idiomatic English = have one's tubes tied."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A medical operation that makes it impossible for a male or female to produce or have babies. English = sterilisation.",
+    "2. A surgical operation that makes it impossible for a female to have or produce babies, by cutting or tying the fallopian tubes. Formal English = tubal ligation.",
+    "3. A surgical operation that is done in order to sterilize a man, by cutting the tube that carries sperm to his penis.  English = vasectomy."
+  ],
+  "idGloss": "sterilise.2",
+  "oldEntry": ""
 }

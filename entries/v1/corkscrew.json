@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "corkscrew",
-  "oldentry": "Popular explanation: using a corkscrew.",
   "english": [
     "corkscrew"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a bottle by removing the cork with a corkscrew."
-  ],
   "cf": [
     "champagne",
     "bottle-opener.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device for pulling corks out of bottles. English = corkscrew."
   ],
   "signNumber": 5839,
   "recordNumber": 3472,
@@ -42,5 +30,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a bottle by removing the cork with a corkscrew."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device for pulling corks out of bottles. English = corkscrew."
+  ],
+  "idGloss": "corkscrew",
+  "oldEntry": "Popular explanation: using a corkscrew."
 }

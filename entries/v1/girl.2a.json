@@ -16,23 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "girl.2a",
-  "oldentry": "Popular explanation: ringlets.",
   "english": [
     "girl"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "niece",
     "people.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A female child. English = girl."
   ],
   "signNumber": 581,
   "recordNumber": 335,
@@ -47,5 +37,15 @@
   ],
   "synonyms": [
     "girl.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A female child. English = girl."
+  ],
+  "idGloss": "girl.2a",
+  "oldEntry": "Popular explanation: ringlets."
 }

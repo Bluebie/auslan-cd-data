@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "orange juice",
-  "oldentry": "Popular explanation: 'orange' + the letter 'j'.",
   "english": [
     "orange juice"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "orange"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A drink made from squeezed oranges. English = orange juice."
   ],
   "signNumber": 45,
   "recordNumber": 27,
@@ -37,5 +27,15 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A drink made from squeezed oranges. English = orange juice."
+  ],
+  "idGloss": "orange juice",
+  "oldEntry": "Popular explanation: 'orange' + the letter 'j'."
 }

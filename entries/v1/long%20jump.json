@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "long jump",
-  "oldentry": "",
   "english": [
     "long jump"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "hurdles"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In athletics, a contest which involves jumping as far as you can from a marker which you run up to. English = long jump."
   ],
   "signNumber": 6485,
   "recordNumber": 3860,
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In athletics, a contest which involves jumping as far as you can from a marker which you run up to. English = long jump."
+  ],
+  "idGloss": "long jump",
+  "oldEntry": ""
 }

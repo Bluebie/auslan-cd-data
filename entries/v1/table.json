@@ -16,21 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "table",
-  "oldentry": "Popular explanation: the flat surface of a table.",
   "english": [
     "table"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of furniture with a flat top that you put things one. English = table."
-  ],
   "signNumber": 3894,
   "recordNumber": 2318,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
     "altar.1",
     "desk.1",
     "flat.surface.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of furniture with a flat top that you put things one. English = table."
+  ],
+  "idGloss": "table",
+  "oldEntry": "Popular explanation: the flat surface of a table."
 }

@@ -18,25 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "white.2a",
-  "oldentry": "",
   "english": [
     "white",
     "whiten"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to be or have the colour of the lightest colour that there is, the colour of snow and milk. English = (be) white.",
-    "2. To become white. English = whiten."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The lightest colour that there is, the colour of snow and milk. English = white."
-  ],
   "signNumber": 295,
   "recordNumber": 170,
   "signVisualComposition": "",
@@ -51,5 +38,18 @@
   "synonyms": [
     "white.1a",
     "white.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to be or have the colour of the lightest colour that there is, the colour of snow and milk. English = (be) white.",
+    "2. To become white. English = whiten."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The lightest colour that there is, the colour of snow and milk. English = white."
+  ],
+  "idGloss": "white.2a",
+  "oldEntry": ""
 }

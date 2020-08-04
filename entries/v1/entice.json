@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "entice",
-  "oldentry": "Popular explanation: the culturally shared gesture of beckoning.",
   "english": [
     "entice"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tempt someone away from a place or an activity to come over to where you are and/or to do what you are doing or do something else. English = entice."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 937,
   "recordNumber": 536,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "beckon.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tempt someone away from a place or an activity to come over to where you are and/or to do what you are doing or do something else. English = entice."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "entice",
+  "oldEntry": "Popular explanation: the culturally shared gesture of beckoning."
 }

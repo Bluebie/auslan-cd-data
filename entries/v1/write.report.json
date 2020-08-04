@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "write.report",
-  "oldentry": "",
   "english": [
     "report"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To write down an account of an event or situation; write a report."
-  ],
   "cf": [
     "sentence.1a",
     "write.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A written account of an event or situation. English = report."
   ],
   "signNumber": 6434,
   "recordNumber": 3834,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "swear.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To write down an account of an event or situation; write a report."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A written account of an event or situation. English = report."
+  ],
+  "idGloss": "write.report",
+  "oldEntry": ""
 }

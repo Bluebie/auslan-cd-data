@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wheelchair.1",
-  "oldentry": "Popular explanation: the outline of wheels of a wheel chair.",
   "english": [
     "wheelchair"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A chair with wheels that ill or injured people use in order to move about, when they cannot walk. English = wheelchair."
-  ],
   "signNumber": 1108,
   "recordNumber": 651,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 17,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A chair with wheels that ill or injured people use in order to move about, when they cannot walk. English = wheelchair."
+  ],
+  "idGloss": "wheelchair.1",
+  "oldEntry": "Popular explanation: the outline of wheels of a wheel chair."
 }

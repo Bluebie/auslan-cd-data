@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gallop.1",
-  "oldentry": "",
   "english": [
     "galloping",
     "gallop"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a horse, to run very fast so that all four legs are off the ground at the same time in each stride. English = gallop."
-  ],
   "cf": [
     "ride.horse.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of a horse running very fast so that all four legs are off the ground at the same time in each stride. English = galloping."
   ],
   "signNumber": 1665,
   "recordNumber": 989,
@@ -41,5 +29,17 @@
   "primaryLocation": 16,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a horse, to run very fast so that all four legs are off the ground at the same time in each stride. English = gallop."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of a horse running very fast so that all four legs are off the ground at the same time in each stride. English = galloping."
+  ],
+  "idGloss": "gallop.1",
+  "oldEntry": ""
 }

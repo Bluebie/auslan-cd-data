@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Vietnam.1",
-  "oldentry": "",
   "english": [
     "Vietnam",
     "Vietnamese"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to Vietnam. English = Vietnamese."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in South East Asia, between Thailand and China, called Vietnam."
-  ],
   "signNumber": 3554.1,
   "recordNumber": 2082,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to Vietnam. English = Vietnamese."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in South East Asia, between Thailand and China, called Vietnam."
+  ],
+  "idGloss": "Vietnam.1",
+  "oldEntry": ""
 }

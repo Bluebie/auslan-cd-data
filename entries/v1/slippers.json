@@ -11,21 +11,11 @@
   "sense": "4",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "slippers",
-  "oldentry": "",
   "english": [
     "slippers"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Loose, soft shoes that you wear in the house. English = slippers."
-  ],
   "signNumber": 5608,
   "recordNumber": 3321,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "slipper"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Loose, soft shoes that you wear in the house. English = slippers."
+  ],
+  "idGloss": "slippers",
+  "oldEntry": ""
 }

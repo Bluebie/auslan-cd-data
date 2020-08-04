@@ -32,10 +32,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deranged",
-  "oldentry": "",
   "english": [
     "befuddlement",
     "disorientation",
@@ -51,23 +47,9 @@
     "delirious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely confused. English = (be) befuddled, (be) disoriented, (be) disorientated.",
-    "2. To no longer know in what direction anything is, including the direction that you have come from. English = (be) disoriented, (be) disorientated.",
-    "3. To behave in a wild, strange and sometimes violent way, often as a result of mental illness. English = (be) deranged, (be) crazy, (be) demented.",
-    "4. To be unable to think, speak or sign in a rational way, usually because you have a fever. English = (be) delirious."
-  ],
   "cf": [
     "mess",
     "misunderstand.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Extreme confusion. English = befuddlement, disorientation.",
-    "2. The state of no longer knowing in what direction anything is, including the direction that you have come from. English = disorientation.",
-    "3. Behaviour which is wild, strange, and sometimes violent, often as a result of mental illness. English = derangement, craziness, dementia.",
-    "4. The inability to think, speak or sign in a rational way, usually because you have a fever. English = delirium."
   ],
   "signNumber": 2590,
   "recordNumber": 1431,
@@ -80,5 +62,23 @@
   "synonyms": [
     "confuse",
     "crazy.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely confused. English = (be) befuddled, (be) disoriented, (be) disorientated.",
+    "2. To no longer know in what direction anything is, including the direction that you have come from. English = (be) disoriented, (be) disorientated.",
+    "3. To behave in a wild, strange and sometimes violent way, often as a result of mental illness. English = (be) deranged, (be) crazy, (be) demented.",
+    "4. To be unable to think, speak or sign in a rational way, usually because you have a fever. English = (be) delirious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Extreme confusion. English = befuddlement, disorientation.",
+    "2. The state of no longer knowing in what direction anything is, including the direction that you have come from. English = disorientation.",
+    "3. Behaviour which is wild, strange, and sometimes violent, often as a result of mental illness. English = derangement, craziness, dementia.",
+    "4. The inability to think, speak or sign in a rational way, usually because you have a fever. English = delirium."
+  ],
+  "idGloss": "deranged",
+  "oldEntry": ""
 }

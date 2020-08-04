@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "counsel.1a",
-  "oldentry": "",
   "english": [
     "counsellor",
     "counselling",
@@ -39,20 +35,7 @@
     "influence"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give people advice about their problems. English = counsel.",
-    "2. To tell someone what you think they should do, or to give them help and information on a particular subject. English = advise.",
-    "3. To have an effect on the way a person acts or what happens in a particular situation. English = influence."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job it is to give advice to people who need it. English = counsellor.",
-    "2. The advice and help you receive from a counsellor, or the activity of giving people advice as part of your job. English = counselling.",
-    "3. The information you give people when you tell them what you think they should do. English = advice.",
-    "4. A person in colleges of technical and further education whose job is to give advice to people who have special needs. English = consultant."
-  ],
   "signNumber": 204,
   "recordNumber": 117,
   "signVisualComposition": "",
@@ -63,5 +46,22 @@
   "antonyms": [],
   "synonyms": [
     "social.worker.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give people advice about their problems. English = counsel.",
+    "2. To tell someone what you think they should do, or to give them help and information on a particular subject. English = advise.",
+    "3. To have an effect on the way a person acts or what happens in a particular situation. English = influence."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job it is to give advice to people who need it. English = counsellor.",
+    "2. The advice and help you receive from a counsellor, or the activity of giving people advice as part of your job. English = counselling.",
+    "3. The information you give people when you tell them what you think they should do. English = advice.",
+    "4. A person in colleges of technical and further education whose job is to give advice to people who have special needs. English = consultant."
+  ],
+  "idGloss": "counsel.1a",
+  "oldEntry": ""
 }

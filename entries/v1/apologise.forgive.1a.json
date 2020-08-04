@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "apologise.forgive.1a",
-  "oldentry": "",
   "english": [
     "apology",
     "forgiveness",
@@ -27,17 +23,7 @@
     "forgive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say to someone that you are sorry that you have hurt them or caused trouble for them. English = apologise.",
-    "2. To stop being angry with someone who has done something wrong. English = forgive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that you say or write in order to tell someone that you are sorry that you have hurt them or caused trouble for them.  English = apology.",
-    "2. The act of forgiving someone. English = forgiveness."
-  ],
   "signNumber": 6532,
   "recordNumber": 3887,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 11,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say to someone that you are sorry that you have hurt them or caused trouble for them. English = apologise.",
+    "2. To stop being angry with someone who has done something wrong. English = forgive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that you say or write in order to tell someone that you are sorry that you have hurt them or caused trouble for them.  English = apology.",
+    "2. The act of forgiving someone. English = forgiveness."
+  ],
+  "idGloss": "apologise.forgive.1a",
+  "oldEntry": ""
 }

@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "obey.2a",
-  "oldentry": "",
   "english": [
     "obedience",
     "submissiveness",
@@ -47,20 +43,7 @@
     "obsequious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do what you are told to by someone; to follow someone's command or instruction. English = obey.",
-    "2. To be someone (or a trained animal) who does what they are told to do, or who follows commands and instructions. English = (be) obedient.",
-    "3. To do everything you are told to by someone; to follow someone's command or instruction. Used to show disapproval. English = submit, grovel.",
-    "4. To be someone (or a trained animal) who does everything they are told to do, or who follows commands and instructions. Used to show disapproval. English = (be) submissive, (be) grovelling, (be) obsequious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The type of behaviour of someone who does what they are told to do, or who follows someone's commands or instructions. English = obedience.",
-    "2. The type of behaviour of someone who does everything they are told to do, or who follows someone's commands or instructions completely. English = submissiveness.",
-    "3. The type of person who does everything they are told to do, or who follows someone's commands or instructions completely. English = groveller, crawler, lackey, dogsbody. slave."
-  ],
   "signNumber": 3610,
   "recordNumber": 2125,
   "signVisualComposition": "",
@@ -69,5 +52,22 @@
   "primaryLocation": 11,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do what you are told to by someone; to follow someone's command or instruction. English = obey.",
+    "2. To be someone (or a trained animal) who does what they are told to do, or who follows commands and instructions. English = (be) obedient.",
+    "3. To do everything you are told to by someone; to follow someone's command or instruction. Used to show disapproval. English = submit, grovel.",
+    "4. To be someone (or a trained animal) who does everything they are told to do, or who follows commands and instructions. Used to show disapproval. English = (be) submissive, (be) grovelling, (be) obsequious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The type of behaviour of someone who does what they are told to do, or who follows someone's commands or instructions. English = obedience.",
+    "2. The type of behaviour of someone who does everything they are told to do, or who follows someone's commands or instructions completely. English = submissiveness.",
+    "3. The type of person who does everything they are told to do, or who follows someone's commands or instructions completely. English = groveller, crawler, lackey, dogsbody. slave."
+  ],
+  "idGloss": "obey.2a",
+  "oldEntry": ""
 }

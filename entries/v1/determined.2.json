@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "determined.2",
-  "oldentry": "",
   "english": [
     "determination",
     "determined",
     "strive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a firm decision to do something and not let anything or anyone else stop you. English = (be) determined.",
-    "2. To make a great effort to do something. English = strive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality that you show when you have decided to do something and you will not let anything stop you. English = determination."
-  ],
   "signNumber": 2961,
   "recordNumber": 1683,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "determined.1a",
     "intend.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a firm decision to do something and not let anything or anyone else stop you. English = (be) determined.",
+    "2. To make a great effort to do something. English = strive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality that you show when you have decided to do something and you will not let anything stop you. English = determination."
+  ],
+  "idGloss": "determined.2",
+  "oldEntry": ""
 }

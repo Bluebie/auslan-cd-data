@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stumped",
-  "oldentry": "",
   "english": [
     "stump",
     "stumped"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the batsman in cricket, to miss the bowled cricket ball so that it hits the stumps and your are out. English = (be) stumped.",
-    "2. Of the wicket keeper in cricket, to put a batsman out by knocking down a stump at a moment when the batsman is out of his ground. English = stump."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5957,
   "recordNumber": 3547,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the batsman in cricket, to miss the bowled cricket ball so that it hits the stumps and your are out. English = (be) stumped.",
+    "2. Of the wicket keeper in cricket, to put a batsman out by knocking down a stump at a moment when the batsman is out of his ground. English = stump."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "stumped",
+  "oldEntry": ""
 }

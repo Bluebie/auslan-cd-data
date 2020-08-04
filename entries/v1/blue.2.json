@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blue.2",
-  "oldentry": "Popular explanation: pointing to the blue of the vein.",
   "english": [
     "blue"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the colour of something that is the same as the colour of the sky on a sunny day; or to make something that colour. English = (be) blue; make blue."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A colour that is the same as the colour of the sky on a sunny day. English = blue."
-  ],
   "signNumber": 1848,
   "recordNumber": 1108,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "blue.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the colour of something that is the same as the colour of the sky on a sunny day; or to make something that colour. English = (be) blue; make blue."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A colour that is the same as the colour of the sky on a sunny day. English = blue."
+  ],
+  "idGloss": "blue.2",
+  "oldEntry": "Popular explanation: pointing to the blue of the vein."
 }

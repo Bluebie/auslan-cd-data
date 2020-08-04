@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "ME + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deny",
-  "oldentry": "",
   "english": [
     "deny",
     "innocent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say that something is not true, especially to say that it is not you who did something. English = deny.",
-    "2. To be not guilty or not responsible for a crime, misdemeanour, or wrong-doing. English = (be) innocent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2519,
   "recordNumber": 1399,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "antonyms": [
     "promise.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say that something is not true, especially to say that it is not you who did something. English = deny.",
+    "2. To be not guilty or not responsible for a crime, misdemeanour, or wrong-doing. English = (be) innocent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "deny",
+  "oldEntry": ""
 }

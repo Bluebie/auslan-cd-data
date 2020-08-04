@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brick.1",
-  "oldentry": "",
   "english": [
     "brick"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rectangular block of baked clay used for building walls. English = brick."
-  ],
   "signNumber": 4612,
   "recordNumber": 2793,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rectangular block of baked clay used for building walls. English = brick."
+  ],
+  "idGloss": "brick.1",
+  "oldEntry": ""
 }

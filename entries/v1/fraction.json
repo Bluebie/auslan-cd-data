@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fraction",
-  "oldentry": "Popular explanation: one amount on top of another.",
   "english": [
     "fraction"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "number.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In arithmetic, an exact division of a number. It is written with one number under another with a line separating them. Examples include 1/2 and 1/3. English = fraction."
   ],
   "signNumber": 2500,
   "recordNumber": 1387,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In arithmetic, an exact division of a number. It is written with one number under another with a line separating them. Examples include 1/2 and 1/3. English = fraction."
+  ],
+  "idGloss": "fraction",
+  "oldEntry": "Popular explanation: one amount on top of another."
 }

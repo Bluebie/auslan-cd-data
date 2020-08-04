@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hand.puppet.1a",
-  "oldentry": "",
   "english": [
     "puppet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a hand puppet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A doll which you can move by putting your hand inside its body and moving your fingers. English = puppet, hand puppet, glove puppet."
-  ],
   "signNumber": 4025,
   "recordNumber": 2410,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "string.puppet"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a hand puppet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A doll which you can move by putting your hand inside its body and moving your fingers. English = puppet, hand puppet, glove puppet."
+  ],
+  "idGloss": "hand.puppet.1a",
+  "oldEntry": ""
 }

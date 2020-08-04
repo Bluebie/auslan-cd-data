@@ -20,31 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "line.1a",
-  "oldentry": "Popular explanation: the trace of a line.",
   "english": [
     "line",
     "streak",
     "underline"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw or make a line on a surface.",
-    "2. To make streaks on a surface. English = streak.",
-    "3. To draw a line under a word or words in a text. English = underline."
-  ],
   "cf": [
     "sentence.1a",
     "word.4a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long thin mark on a surface or something that looks long and thin. English = line.",
-    "2. A long stripe or mark on a surface. English = streak.",
-    "3. A line drawn under a word in a written or typed text."
   ],
   "signNumber": 1263,
   "recordNumber": 750,
@@ -54,5 +38,21 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw or make a line on a surface.",
+    "2. To make streaks on a surface. English = streak.",
+    "3. To draw a line under a word or words in a text. English = underline."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long thin mark on a surface or something that looks long and thin. English = line.",
+    "2. A long stripe or mark on a surface. English = streak.",
+    "3. A line drawn under a word in a written or typed text."
+  ],
+  "idGloss": "line.1a",
+  "oldEntry": "Popular explanation: the trace of a line."
 }

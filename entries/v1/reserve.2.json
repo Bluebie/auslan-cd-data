@@ -11,22 +11,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reserve.2",
-  "oldentry": "",
   "english": [
     "reserve"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In sport, someone who is available to play as part of a team if one of the members cannot play on a particular occasion. English = reserve.",
-    "2. A supply of something that is available for use when it is needed. English = reserve."
-  ],
   "signNumber": 1518.1,
   "recordNumber": 904,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In sport, someone who is available to play as part of a team if one of the members cannot play on a particular occasion. English = reserve.",
+    "2. A supply of something that is available for use when it is needed. English = reserve."
+  ],
+  "idGloss": "reserve.2",
+  "oldEntry": ""
 }

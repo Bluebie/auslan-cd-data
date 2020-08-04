@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "doctor.3",
-  "oldentry": "Popular explanation: tapping and listening to the chest with a stethoscope.",
   "english": [
     "doctor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who is qualified in medicine and treats people who are ill. English = doctor."
-  ],
   "signNumber": 90,
   "recordNumber": 50,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "doctor.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who is qualified in medicine and treats people who are ill. English = doctor."
+  ],
+  "idGloss": "doctor.3",
+  "oldEntry": "Popular explanation: tapping and listening to the chest with a stethoscope."
 }

@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ignite",
-  "oldentry": "",
   "english": [
     "ignite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To start a fire intentionally, to set something on fire. English = ignite."
-  ],
   "cf": [
     "match.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6422,
   "recordNumber": 3830,
   "signVisualComposition": "MATCH + PLACE",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To start a fire intentionally, to set something on fire. English = ignite."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "ignite",
+  "oldEntry": ""
 }

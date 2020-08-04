@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Canberra.1a",
-  "oldentry": "",
   "english": [
     "Canberra"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The capital city of the Commonwealth of Australia, called Canberra."
-  ],
   "signNumber": 5387.2,
   "recordNumber": 3218,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The capital city of the Commonwealth of Australia, called Canberra."
+  ],
+  "idGloss": "Canberra.1a",
+  "oldEntry": ""
 }

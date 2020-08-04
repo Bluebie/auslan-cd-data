@@ -13,22 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dictionary.1",
-  "oldentry": "",
   "english": [
     "dictionary"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A book in which the words of a language are listed alphabetically (or by some other language specific principle) and their meanings are explained. English = dictionary.",
-    "2. A book in which the words of one language are listed alphabetically (or by some other language specific principle) and are followed by words which have the same meaning in another language. English = dictionary."
-  ],
   "signNumber": 1269,
   "recordNumber": 754,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A book in which the words of a language are listed alphabetically (or by some other language specific principle) and their meanings are explained. English = dictionary.",
+    "2. A book in which the words of one language are listed alphabetically (or by some other language specific principle) and are followed by words which have the same meaning in another language. English = dictionary."
+  ],
+  "idGloss": "dictionary.1",
+  "oldEntry": ""
 }

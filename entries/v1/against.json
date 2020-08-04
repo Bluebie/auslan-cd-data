@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "against",
-  "oldentry": "Popular explanation: two things in opposition.",
   "english": [
     "against",
     "versus",
@@ -26,14 +22,7 @@
     "opposition"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be in competition with another team. English = (be) against, versus.",
-    "2. To disagree with an idea, policy or system. English = (be) against, (be) opposed to, (be) in opposition to."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1074,
   "recordNumber": 630,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be in competition with another team. English = (be) against, versus.",
+    "2. To disagree with an idea, policy or system. English = (be) against, (be) opposed to, (be) in opposition to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "against",
+  "oldEntry": "Popular explanation: two things in opposition."
 }

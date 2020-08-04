@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "G + UP",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "God.1a",
-  "oldentry": "",
   "english": [
     "God"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The name given to the spirit or being who is worshipped as the creator and ruler of the world, especially by Christians, Jews, and Muslims. English = God."
-  ],
   "signNumber": 5807,
   "recordNumber": 3446,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "go.upwards.1a",
     "God.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The name given to the spirit or being who is worshipped as the creator and ruler of the world, especially by Christians, Jews, and Muslims. English = God."
+  ],
+  "idGloss": "God.1a",
+  "oldEntry": ""
 }

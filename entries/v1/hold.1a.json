@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hold.1a",
-  "oldentry": "Popular explanation: as if holding something.",
   "english": [
     "hold"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have your fingers and hands firmly around something. English = hold."
-  ],
   "cf": [
     "restrain"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2708,
   "recordNumber": 1506,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [
     "let.go"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have your fingers and hands firmly around something. English = hold."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hold.1a",
+  "oldEntry": "Popular explanation: as if holding something."
 }

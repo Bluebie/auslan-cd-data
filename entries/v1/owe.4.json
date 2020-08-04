@@ -12,22 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "owe.4",
-  "oldentry": "",
   "english": [
     "owe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell someone to give you something that they owe you, to call on a debt.",
-    "2. To have the obligation to give money which you have borrowed from someone back to them. English = owe, (be) in debt to."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 737,
   "recordNumber": 423,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "synonyms": [
     "owe.1",
     "owe.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell someone to give you something that they owe you, to call on a debt.",
+    "2. To have the obligation to give money which you have borrowed from someone back to them. English = owe, (be) in debt to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "owe.4",
+  "oldEntry": ""
 }

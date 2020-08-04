@@ -14,28 +14,15 @@
   "sense": "",
   "blend": "FINISH + FINISH",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "complete.1a",
-  "oldentry": "",
   "english": [
     "complete",
     "completed",
     "already"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To totally finish doing, making, or producing something. English = complete.",
-    "2. To be totally finished with no more work to do or parts to add. English = (be) completed."
-  ],
   "cf": [
     "finish.2a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after a verb (action) sign to mean the action has happened before the present time, and therefore does not need to happen again, or has happened earlier than you expected. English = already."
-  ],
-  "nomlex": [],
   "signNumber": 4859,
   "recordNumber": 2936,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after a verb (action) sign to mean the action has happened before the present time, and therefore does not need to happen again, or has happened earlier than you expected. English = already."
+  ],
+  "verbLexeme": [
+    "1. To totally finish doing, making, or producing something. English = complete.",
+    "2. To be totally finished with no more work to do or parts to add. English = (be) completed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "complete.1a",
+  "oldEntry": ""
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grey-hair",
-  "oldentry": "",
   "english": [
     "grey-haired"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of someone, to have grey hair; (be) grey-haired."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2606,
   "recordNumber": 1445,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of someone, to have grey hair; (be) grey-haired."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "grey-hair",
+  "oldEntry": ""
 }

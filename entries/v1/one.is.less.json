@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "You use this sign when you are thinking of one thing being less than another.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "one.is.less",
-  "oldentry": "",
   "english": [
     "inequality",
     "unequal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two or more things, to be different in size, strength, or ability with each having more or less of one quality than the others. English = (be) unequal.",
-    "2. To treat people in different ways, for example by giving some people more money or privileges than others. English = (be) unequal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The difference in size or amount of two or more things. English = inequality.",
-    "2. The difference in social status, wealth, or opportunity between groups in a society. English = inequality."
-  ],
   "signNumber": 4106,
   "recordNumber": 2468,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   ],
   "synonyms": [
     "different.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two or more things, to be different in size, strength, or ability with each having more or less of one quality than the others. English = (be) unequal.",
+    "2. To treat people in different ways, for example by giving some people more money or privileges than others. English = (be) unequal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The difference in size or amount of two or more things. English = inequality.",
+    "2. The difference in social status, wealth, or opportunity between groups in a society. English = inequality."
+  ],
+  "idGloss": "one.is.less",
+  "oldEntry": ""
 }

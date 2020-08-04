@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "WOMAN + RADICAL",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "feminist.1",
-  "oldentry": "",
   "english": [
     "feminist",
     "feminism"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who believes that women should have the same rights, power, and opportunities as men. English = feminist.",
-    "2. The belief that women should have the same rights, power, and opportunities as men. English = feminism."
-  ],
   "signNumber": 3427,
   "recordNumber": 2000,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "feminist.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who believes that women should have the same rights, power, and opportunities as men. English = feminist.",
+    "2. The belief that women should have the same rights, power, and opportunities as men. English = feminism."
+  ],
+  "idGloss": "feminist.1",
+  "oldEntry": ""
 }

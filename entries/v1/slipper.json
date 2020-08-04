@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of inserting an object into a container or covering, such as a blade into a sheath, or any thing or any action directly or indirectly associated with this, especially slippers.",
-  "questlex": [],
-  "idgloss": "slipper",
-  "oldentry": "Popular explanation: the foot slipping into a slipper.",
   "english": [
     "slipper",
     "slip on"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a slipper, to put on a pair of slippers; to slip on."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Loose, soft shoes that you wear in the house. English = slipper, slippers."
-  ],
   "signNumber": 4398,
   "recordNumber": 2678,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "shoe",
     "sock"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a slipper, to put on a pair of slippers; to slip on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of inserting an object into a container or covering, such as a blade into a sheath, or any thing or any action directly or indirectly associated with this, especially slippers.",
+  "nominalLexeme": [
+    "1. Loose, soft shoes that you wear in the house. English = slipper, slippers."
+  ],
+  "idGloss": "slipper",
+  "oldEntry": "Popular explanation: the foot slipping into a slipper."
 }

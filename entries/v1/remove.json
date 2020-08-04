@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "remove",
-  "oldentry": "",
   "english": [
     "removal",
     "remove",
@@ -27,18 +23,8 @@
     "suspend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take something away from a place, especially a person from a team or organisation. English = remove.",
-    "2. To remove someone from a job or position for a period of time, usually as a punishment. English = suspend."
-  ],
   "cf": [
     "abort"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of taking something away from a place, especially a person from a team or organisation. English = removal.",
-    "2. The removal of someone from a job or position for a period of time, usually as a punishment. English = suspension."
   ],
   "signNumber": 5977,
   "recordNumber": 3555,
@@ -48,5 +34,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take something away from a place, especially a person from a team or organisation. English = remove.",
+    "2. To remove someone from a job or position for a period of time, usually as a punishment. English = suspend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of taking something away from a place, especially a person from a team or organisation. English = removal.",
+    "2. The removal of someone from a job or position for a period of time, usually as a punishment. English = suspension."
+  ],
+  "idGloss": "remove",
+  "oldEntry": ""
 }

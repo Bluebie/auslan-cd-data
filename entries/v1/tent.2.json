@@ -14,25 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tent.2",
-  "oldentry": "",
   "english": [
     "tent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pitch a tent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shelter made of canvas or nylon, which you sleep in when you are camping. It is held up by poles and ropes. English = tent.",
-    "2. A large round tent, usually with a pitched roof, that a circus uses for its performances. English = big top.",
-    "3. A pitched concave roof on a building, especially in the oriental style."
-  ],
   "signNumber": 3626,
   "recordNumber": 2135,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "antonyms": [],
   "synonyms": [
     "tent.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pitch a tent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shelter made of canvas or nylon, which you sleep in when you are camping. It is held up by poles and ropes. English = tent.",
+    "2. A large round tent, usually with a pitched roof, that a circus uses for its performances. English = big top.",
+    "3. A pitched concave roof on a building, especially in the oriental style."
+  ],
+  "idGloss": "tent.2",
+  "oldEntry": ""
 }

@@ -16,28 +16,14 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sting.1a",
-  "oldentry": "Popular explanation: holding something small and being pricked by it.",
   "english": [
     "sting",
     "prick",
     "bee"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an insect or plant, to cause you to feel a sharp pain by sticking something sharp into your skin, usually with poison. English = sting, prick."
-  ],
   "cf": [
     "pin"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sharp pain you feel caused by an insect or plant sticking something sharp into your skin. English = sting, prick.",
-    "2. An insect that makes a buzzing noise as it flies and usually has a yellow-and-black striped body. It makes honey and lives in large groups. English = bee.",
-    "3. A very small animal that has six legs, has wings and flies, and which can sting; a stinging insect."
   ],
   "signNumber": 448,
   "recordNumber": 253,
@@ -47,5 +33,19 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an insect or plant, to cause you to feel a sharp pain by sticking something sharp into your skin, usually with poison. English = sting, prick."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sharp pain you feel caused by an insect or plant sticking something sharp into your skin. English = sting, prick.",
+    "2. An insect that makes a buzzing noise as it flies and usually has a yellow-and-black striped body. It makes honey and lives in large groups. English = bee.",
+    "3. A very small animal that has six legs, has wings and flies, and which can sting; a stinging insect."
+  ],
+  "idGloss": "sting.1a",
+  "oldEntry": "Popular explanation: holding something small and being pricked by it."
 }

@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bad",
-  "oldentry": "",
   "english": [
     "bad"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unpleasant, harmful, undesirable, or to be of an unacceptable quality, amount or standard. English = (be) bad."
-  ],
   "cf": [
     "horrible.1a",
     "disapprove.of"
   ],
-  "interj": [
-    "1. Used alone to express your feelings that something you have been told is harmful, undesirable, or of an unacceptable quality. English = 'How dreadful!', 'Oh no, that's awful!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4979,
   "recordNumber": 3007,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   "antonyms": [
     "good.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to express your feelings that something you have been told is harmful, undesirable, or of an unacceptable quality. English = 'How dreadful!', 'Oh no, that's awful!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unpleasant, harmful, undesirable, or to be of an unacceptable quality, amount or standard. English = (be) bad."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "bad",
+  "oldEntry": ""
 }

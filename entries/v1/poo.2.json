@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "poo.2",
-  "oldentry": "",
   "english": [
     "poo",
     "bowel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To discharge waste matter from the intestines through the anus. Used especially when talking to children. English = poo, do a poo.",
-    "2. To have a bowel movement."
-  ],
   "cf": [
     "toilet.1",
     "toilet.2",
     "toilet.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Waste matter discharged from the intestines through the anus. Used especially when talking to children. English = poo.",
-    "2. The tubes in the lower part of your body through which digested food passes from your stomach to your anus. English = bowel, bowels."
   ],
   "signNumber": 3489,
   "recordNumber": 2040,
@@ -53,5 +39,19 @@
   "synonyms": [
     "poo.1",
     "shithouse.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To discharge waste matter from the intestines through the anus. Used especially when talking to children. English = poo, do a poo.",
+    "2. To have a bowel movement."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Waste matter discharged from the intestines through the anus. Used especially when talking to children. English = poo.",
+    "2. The tubes in the lower part of your body through which digested food passes from your stomach to your anus. English = bowel, bowels."
+  ],
+  "idGloss": "poo.2",
+  "oldEntry": ""
 }

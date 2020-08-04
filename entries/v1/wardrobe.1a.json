@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wardrobe.1a",
-  "oldentry": "",
   "english": [
     "wardrobe"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "coat-hanger-1a",
     "hang.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tall cupboard in which you can hang your clothes. English = wardrobe."
   ],
   "signNumber": 6620,
   "recordNumber": 3940,
@@ -38,5 +28,15 @@
   "primaryLocation": 13,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tall cupboard in which you can hang your clothes. English = wardrobe."
+  ],
+  "idGloss": "wardrobe.1a",
+  "oldEntry": ""
 }

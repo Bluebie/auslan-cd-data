@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "film.2a",
-  "oldentry": "Popular explanation: the flickering projector.",
   "english": [
     "film",
     "movie",
@@ -36,18 +32,9 @@
     "project"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a film appear on a screen or wall. English = project, show a film."
-  ],
   "cf": [
     "film.5",
     "slide.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Moving images that have been recorded so that they can be shown in a theatre or on television. English = film, films, movie, movies, picture, pictures. Informal English = flicks.",
-    "2. A special theatre where films are shown. English = cinema."
   ],
   "signNumber": 6334,
   "recordNumber": 3778,
@@ -61,5 +48,18 @@
     "film.1",
     "film.3",
     "film.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a film appear on a screen or wall. English = project, show a film."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Moving images that have been recorded so that they can be shown in a theatre or on television. English = film, films, movie, movies, picture, pictures. Informal English = flicks.",
+    "2. A special theatre where films are shown. English = cinema."
+  ],
+  "idGloss": "film.2a",
+  "oldEntry": "Popular explanation: the flickering projector."
 }

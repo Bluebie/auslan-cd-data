@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hypothesis",
-  "oldentry": "",
   "english": [
     "hypothesis"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An idea which is suggested as a possible explanation for something, but which has not yet been proved to be correct, a formal word. English = hypothesis."
-  ],
   "signNumber": 1882,
   "recordNumber": 1125,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An idea which is suggested as a possible explanation for something, but which has not yet been proved to be correct, a formal word. English = hypothesis."
+  ],
+  "idGloss": "hypothesis",
+  "oldEntry": ""
 }

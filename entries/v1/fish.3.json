@@ -19,26 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fish.3",
-  "oldentry": "Popular explanation: the tails and fins of fish.",
   "english": [
     "fish",
     "seafood",
     "Pisces"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Creatures that live in water and have tails and fins. English = fish.",
-    "2. The flesh of fish eaten as food. English = fish.",
-    "3. Shellfish such as mussels, lobsters, crabs, and other sea creatures that you can eat. English = seafood.",
-    "4. A constellation and sign of the Zodiac, called Pisces (the Fishes)."
-  ],
   "signNumber": 2666,
   "recordNumber": 1482,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   "synonyms": [
     "fish.1a",
     "fish.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Creatures that live in water and have tails and fins. English = fish.",
+    "2. The flesh of fish eaten as food. English = fish.",
+    "3. Shellfish such as mussels, lobsters, crabs, and other sea creatures that you can eat. English = seafood.",
+    "4. A constellation and sign of the Zodiac, called Pisces (the Fishes)."
+  ],
+  "idGloss": "fish.3",
+  "oldEntry": "Popular explanation: the tails and fins of fish."
 }

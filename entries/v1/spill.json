@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spill",
-  "oldentry": "Popular explanation: to go from one place out in all directions.",
   "english": [
     "spill",
     "spillage",
@@ -40,21 +36,8 @@
     "epidemic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, to accidentally flow over the edge of a container. English = spill.",
-    "2. Of a substance, to be opened out or arranged over a large place or surface, or to cover a large part of the surface of something. English = spread, spread out, spread over.",
-    "3. Of objects or ideas, to gradually reach or affect a larger and larger area, or more and more people. English = spread. Formal English = disperse, disseminate.",
-    "4. Of objects, to be far apart and to cover a large area. English = to be spread out."
-  ],
   "cf": [
     "spread.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of causing a liquid to flow over the edge of a container. English = spill, spillage.",
-    "2. The spreading of people or objects over a wide area or of ideas and objects amongst a large number of people. English = dispersal, dissemination.",
-    "3. An occurrence of a disease which affects a large number of people and which spreads quickly. English = epidemic."
   ],
   "signNumber": 177,
   "recordNumber": 100,
@@ -64,5 +47,22 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, to accidentally flow over the edge of a container. English = spill.",
+    "2. Of a substance, to be opened out or arranged over a large place or surface, or to cover a large part of the surface of something. English = spread, spread out, spread over.",
+    "3. Of objects or ideas, to gradually reach or affect a larger and larger area, or more and more people. English = spread. Formal English = disperse, disseminate.",
+    "4. Of objects, to be far apart and to cover a large area. English = to be spread out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of causing a liquid to flow over the edge of a container. English = spill, spillage.",
+    "2. The spreading of people or objects over a wide area or of ideas and objects amongst a large number of people. English = dispersal, dissemination.",
+    "3. An occurrence of a disease which affects a large number of people and which spreads quickly. English = epidemic."
+  ],
+  "idGloss": "spill",
+  "oldEntry": "Popular explanation: to go from one place out in all directions."
 }

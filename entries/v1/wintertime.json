@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wintertime",
-  "oldentry": "",
   "english": [
     "wintertime"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The period of time during which winter lasts. English = wintertime."
-  ],
   "signNumber": 5761,
   "recordNumber": 3414,
   "signVisualComposition": "WINTER + TIME",
@@ -39,5 +29,15 @@
   ],
   "synonyms": [
     "winter.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of time during which winter lasts. English = wintertime."
+  ],
+  "idGloss": "wintertime",
+  "oldEntry": ""
 }

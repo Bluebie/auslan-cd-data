@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "Many right handed signers use their left hand for this sign. (The gear stick is located to the left of the driver in Australia.)",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "manual.1a",
-  "oldentry": "Popular explanation: operating a gear stick.",
   "english": [
     "manual car",
     "manual transmission",
@@ -31,17 +27,7 @@
     "manual"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a car in which the gears are changed by hand, rather than automatically. English = (be) manual."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A car in which the gears are changed by hand. English = manual car.",
-    "2. A transmission (gear changing mechanism) in a car which is operated by hand. English = manual transmission.",
-    "3. The lever in a car that you use to change gears. English = gearshift, gear-stick, gear lever."
-  ],
   "signNumber": 5689,
   "recordNumber": 3368,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a car in which the gears are changed by hand, rather than automatically. English = (be) manual."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A car in which the gears are changed by hand. English = manual car.",
+    "2. A transmission (gear changing mechanism) in a car which is operated by hand. English = manual transmission.",
+    "3. The lever in a car that you use to change gears. English = gearshift, gear-stick, gear lever."
+  ],
+  "idGloss": "manual.1a",
+  "oldEntry": "Popular explanation: operating a gear stick."
 }

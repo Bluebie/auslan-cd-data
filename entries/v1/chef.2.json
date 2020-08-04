@@ -15,24 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chef.2",
-  "oldentry": "",
   "english": [
     "chef"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cook.1a",
     "cook.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cook in a restaurant or hotel. English = chef.",
-    "2. The cap traditionally worn by a chef. It is white and shaped like a ball on top of a cylinder. English = chef's cap."
   ],
   "signNumber": 3532,
   "recordNumber": 2068,
@@ -44,5 +33,16 @@
   "antonyms": [],
   "synonyms": [
     "chef.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cook in a restaurant or hotel. English = chef.",
+    "2. The cap traditionally worn by a chef. It is white and shaped like a ball on top of a cylinder. English = chef's cap."
+  ],
+  "idGloss": "chef.2",
+  "oldEntry": ""
 }

@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "H + H",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hard-of-hearing",
-  "oldentry": "",
   "english": [
     "hearing impaired",
     "hard of hearing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unable to hear very well, especially the sounds of speech. English = (be) hearing impaired, (be) hard of hearing."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has difficulty hearing well, especially hearing the sounds of speech, but who nonetheless is not really very deaf; a person who is hard of hearing."
-  ],
   "signNumber": 1977,
   "recordNumber": 1169,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "hearing-impaired"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unable to hear very well, especially the sounds of speech. English = (be) hearing impaired, (be) hard of hearing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has difficulty hearing well, especially hearing the sounds of speech, but who nonetheless is not really very deaf; a person who is hard of hearing."
+  ],
+  "idGloss": "hard-of-hearing",
+  "oldEntry": ""
 }

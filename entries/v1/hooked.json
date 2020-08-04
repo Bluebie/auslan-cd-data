@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hooked",
-  "oldentry": "",
   "english": [
     "hook",
     "fishing hook",
@@ -29,17 +25,7 @@
     "hooked"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To catch a fish, to hook a fish.",
-    "2. To be unable to stop taking a harmful drug. English = (be) addicted. Idiomatic English = (be) hooked on."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hook used for catching fish. English = fishing hook, hook.",
-    "2. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
-  ],
   "signNumber": 1396,
   "recordNumber": 829,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "antonyms": [],
   "synonyms": [
     "habit"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To catch a fish, to hook a fish.",
+    "2. To be unable to stop taking a harmful drug. English = (be) addicted. Idiomatic English = (be) hooked on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hook used for catching fish. English = fishing hook, hook.",
+    "2. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
+  ],
+  "idGloss": "hooked",
+  "oldEntry": ""
 }

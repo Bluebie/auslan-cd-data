@@ -16,27 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bother.1a",
-  "oldentry": "",
   "english": [
     "bother",
     "not bother",
     "not care"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not do something because you do not think it is important or necessary, or because you think it would involve too much effort. English = not bother, not care less."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone as an answer to a request to do something to mean that you do not want to and that you do not think it is important. English = 'I can't be bothered!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Trouble, fuss or difficulty. English = bother."
-  ],
   "signNumber": 6227,
   "recordNumber": 3720,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
     "trouble",
     "problem.1",
     "dismissive"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone as an answer to a request to do something to mean that you do not want to and that you do not think it is important. English = 'I can't be bothered!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not do something because you do not think it is important or necessary, or because you think it would involve too much effort. English = not bother, not care less."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Trouble, fuss or difficulty. English = bother."
+  ],
+  "idGloss": "bother.1a",
+  "oldEntry": ""
 }

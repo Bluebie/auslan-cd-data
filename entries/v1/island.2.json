@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "island.2",
-  "oldentry": "",
   "english": [
     "island"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "place.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of land that is completely surrounded by water. English = island."
   ],
   "signNumber": 5011,
   "recordNumber": 3021,
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "island.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of land that is completely surrounded by water. English = island."
+  ],
+  "idGloss": "island.2",
+  "oldEntry": ""
 }

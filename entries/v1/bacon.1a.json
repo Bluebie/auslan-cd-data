@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bacon.1a",
-  "oldentry": "Popular explanation: the shape of a bacon rasher.",
   "english": [
     "bacon",
     "rasher"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Salted or smoked meat which comes from the back or sides of a pig. English = bacon.",
-    "2. A thin slice of bacon. English = rasher."
-  ],
   "signNumber": 2016,
   "recordNumber": 1183,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "bacon.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Salted or smoked meat which comes from the back or sides of a pig. English = bacon.",
+    "2. A thin slice of bacon. English = rasher."
+  ],
+  "idGloss": "bacon.1a",
+  "oldEntry": "Popular explanation: the shape of a bacon rasher."
 }

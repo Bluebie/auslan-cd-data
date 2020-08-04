@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oppose.1a",
-  "oldentry": "Popular explanation: two things set against each other.",
   "english": [
     "competition",
     "rivalry",
@@ -47,21 +43,7 @@
     "allergic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To try and get something for yourself in a situation where other people are also trying to get it. English = compete.",
-    "2. Of businesses and firms, to try to get people to buy its own goods or services. English = compete.",
-    "3. To disagree with what someone wants to do and to try to prevent them form doing it. English = oppose, (be) opposed to.",
-    "4. To become ill when you eat, smell, or touch a substance which does not normally make other people ill. English = (be) allergic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation in which two or more people, groups, organisations or businesses are trying to get something which not everyone can have. English = competition, rivalry.",
-    "2. Someone you are competing with. English = competitor, rival.",
-    "3. In a game or competition, the person who is playing against you; in politics, the political group or party that is not part of the government. English = opponent, opposition; opposition.",
-    "4. An illness that you have when you eat, smell, or touch a substance which does not normally make people ill. English = allergy."
-  ],
   "signNumber": 1077,
   "recordNumber": 632,
   "signVisualComposition": "",
@@ -70,5 +52,23 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To try and get something for yourself in a situation where other people are also trying to get it. English = compete.",
+    "2. Of businesses and firms, to try to get people to buy its own goods or services. English = compete.",
+    "3. To disagree with what someone wants to do and to try to prevent them form doing it. English = oppose, (be) opposed to.",
+    "4. To become ill when you eat, smell, or touch a substance which does not normally make other people ill. English = (be) allergic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation in which two or more people, groups, organisations or businesses are trying to get something which not everyone can have. English = competition, rivalry.",
+    "2. Someone you are competing with. English = competitor, rival.",
+    "3. In a game or competition, the person who is playing against you; in politics, the political group or party that is not part of the government. English = opponent, opposition; opposition.",
+    "4. An illness that you have when you eat, smell, or touch a substance which does not normally make people ill. English = allergy."
+  ],
+  "idGloss": "oppose.1a",
+  "oldEntry": "Popular explanation: two things set against each other."
 }

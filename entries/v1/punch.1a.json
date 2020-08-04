@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "punch.1a",
-  "oldentry": "Popular explanation: striking with the fist.",
   "english": [
     "punch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hit someone with your fist. English = punch."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hard blow (against someone or something) with your fist. English = punch."
-  ],
   "signNumber": 5949,
   "recordNumber": 3544,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hit someone with your fist. English = punch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hard blow (against someone or something) with your fist. English = punch."
+  ],
+  "idGloss": "punch.1a",
+  "oldEntry": "Popular explanation: striking with the fist."
 }

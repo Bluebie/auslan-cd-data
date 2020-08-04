@@ -13,24 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brake.1a",
-  "oldentry": "Popular explanation: pushing down on the brake pedal.",
   "english": [
     "brake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate the brake on a vehicle. English = brake.",
-    "2. Of a vehicle, to go slower because the brake has been operated. English = brake."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The device in a vehicle that is used to make it go slower or stop. Often it is operated by pressing down on it with your foot. English = brake."
-  ],
   "signNumber": 5658,
   "recordNumber": 3354,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate the brake on a vehicle. English = brake.",
+    "2. Of a vehicle, to go slower because the brake has been operated. English = brake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The device in a vehicle that is used to make it go slower or stop. Often it is operated by pressing down on it with your foot. English = brake."
+  ],
+  "idGloss": "brake.1a",
+  "oldEntry": "Popular explanation: pushing down on the brake pedal."
 }

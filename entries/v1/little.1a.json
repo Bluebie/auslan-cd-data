@@ -19,26 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "little.1a",
-  "oldentry": "",
   "english": [
     "little",
     "few"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to be small in size or amount. English = (be) little.",
-    "2. Of the number of things or people, to be smaller than desirable or than was expected. English = (be) few."
-  ],
   "cf": [
     "instant.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is small in size or amount."
   ],
   "signNumber": 6364,
   "recordNumber": 3802,
@@ -56,5 +43,18 @@
     "less.1a",
     "small.1",
     "small.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to be small in size or amount. English = (be) little.",
+    "2. Of the number of things or people, to be smaller than desirable or than was expected. English = (be) few."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is small in size or amount."
+  ],
+  "idGloss": "little.1a",
+  "oldEntry": ""
 }

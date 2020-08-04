@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "REPAYMENTS + R",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rent",
-  "oldentry": "",
   "english": [
     "rent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pay rent for a house, flat, or a piece of land. English = rent."
-  ],
   "cf": [
     "repayments"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The amount of money that you pay regularly to live in or use a house, flat, or a piece of land. English = rent."
   ],
   "signNumber": 2221,
   "recordNumber": 1266,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pay rent for a house, flat, or a piece of land. English = rent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The amount of money that you pay regularly to live in or use a house, flat, or a piece of land. English = rent."
+  ],
+  "idGloss": "rent",
+  "oldEntry": ""
 }

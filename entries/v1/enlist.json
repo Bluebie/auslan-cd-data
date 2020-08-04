@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "enlist",
-  "oldentry": "",
   "english": [
     "join",
     "enlist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become a member of an organisation, especially the army. English = join, enlist."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3901,
   "recordNumber": 2323,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become a member of an organisation, especially the army. English = join, enlist."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "enlist",
+  "oldEntry": ""
 }

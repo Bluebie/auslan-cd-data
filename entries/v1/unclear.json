@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unclear",
-  "oldentry": "",
   "english": [
     "obscurity",
     "haziness",
@@ -34,20 +30,8 @@
     "unclear"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of glass, to be difficult to see through because it is not clear or clean.",
-    "2. To be difficult to see through the air or to see something in the distance because the air is full of dust, haze or mist. English = (be) hazy, (be) obscure, (be) unclear.",
-    "3. Of an idea, to be difficult to think about easily because it is not precise or exact enough. (A borrowing from ASL in this sense.) English = (be) unclear, (be) hazy, (be) obscure."
-  ],
   "cf": [
     "dirty"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Difficulty in seeing something because of poor light, haziness or dirt. English = obscurity.",
-    "2. A dirtiness in the air which reduces visibility. English = haziness.",
-    "3. An idea which is difficult to think about or explain because it is not precise or exact enough. (A borrowing from ASL in this sense.)"
   ],
   "signNumber": 2594,
   "recordNumber": 1434,
@@ -61,5 +45,21 @@
   ],
   "synonyms": [
     "blur"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of glass, to be difficult to see through because it is not clear or clean.",
+    "2. To be difficult to see through the air or to see something in the distance because the air is full of dust, haze or mist. English = (be) hazy, (be) obscure, (be) unclear.",
+    "3. Of an idea, to be difficult to think about easily because it is not precise or exact enough. (A borrowing from ASL in this sense.) English = (be) unclear, (be) hazy, (be) obscure."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Difficulty in seeing something because of poor light, haziness or dirt. English = obscurity.",
+    "2. A dirtiness in the air which reduces visibility. English = haziness.",
+    "3. An idea which is difficult to think about or explain because it is not precise or exact enough. (A borrowing from ASL in this sense.)"
+  ],
+  "idGloss": "unclear",
+  "oldEntry": ""
 }

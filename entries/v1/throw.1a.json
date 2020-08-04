@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "throw.1a",
-  "oldentry": "Popular explanation: throwing an object.",
   "english": [
     "throw",
     "fling",
@@ -39,22 +35,8 @@
     "suspend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand quickly and let go of an object you are holding. English = throw. Informal Australian English = chuck.",
-    "2. To throw something somewhere violently and carelessly. English = fling.",
-    "3. To throw something somewhere carelessly and lightly; or to get rid of something that you do not want, for example, by putting it in a rubbish bin. English = toss; throw away.",
-    "4. Of a sport's team, to take a player out of the team temporarily because of misconduct. English = suspend."
-  ],
   "cf": [
     "dump.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of throwing something. English = throw.",
-    "2. The act of flinging something. English = fling.",
-    "3. The act of tossing something. English = toss.",
-    "4. The temporary removal of a player from a sport's team because of misconduct. English = suspension."
   ],
   "signNumber": 5659,
   "recordNumber": 3355,
@@ -64,5 +46,23 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand quickly and let go of an object you are holding. English = throw. Informal Australian English = chuck.",
+    "2. To throw something somewhere violently and carelessly. English = fling.",
+    "3. To throw something somewhere carelessly and lightly; or to get rid of something that you do not want, for example, by putting it in a rubbish bin. English = toss; throw away.",
+    "4. Of a sport's team, to take a player out of the team temporarily because of misconduct. English = suspend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of throwing something. English = throw.",
+    "2. The act of flinging something. English = fling.",
+    "3. The act of tossing something. English = toss.",
+    "4. The temporary removal of a player from a sport's team because of misconduct. English = suspension."
+  ],
+  "idGloss": "throw.1a",
+  "oldEntry": "Popular explanation: throwing an object."
 }

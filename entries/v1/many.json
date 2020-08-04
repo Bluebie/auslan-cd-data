@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "many",
-  "oldentry": "",
   "english": [
     "many"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a lot of people or things. English = (be) many."
-  ],
   "cf": [
     "crowded.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3026,
   "recordNumber": 1733,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   "synonyms": [
     "lot.1a",
     "lot.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a lot of people or things. English = (be) many."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "many",
+  "oldEntry": ""
 }

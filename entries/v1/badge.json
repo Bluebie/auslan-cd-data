@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "badge",
-  "oldentry": "",
   "english": [
     "badge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it."
-  ],
   "cf": [
     "watch.2",
     "biscuit.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it. English = badge."
   ],
   "signNumber": 4769,
   "recordNumber": 2883,
@@ -48,5 +36,17 @@
     "medal",
     "medallion.1a",
     "brooch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it. English = badge."
+  ],
+  "idGloss": "badge",
+  "oldEntry": ""
 }

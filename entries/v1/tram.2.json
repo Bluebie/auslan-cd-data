@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tram.2",
-  "oldentry": "Popular explanation: the power cables for a tram.",
   "english": [
     "tram",
     "street car"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel in a tram."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An electric vehicle for carrying people which travels on rails in the streets of a town or city. English = tram. American English = street car."
-  ],
   "signNumber": 1497,
   "recordNumber": 892,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "tram.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel in a tram."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An electric vehicle for carrying people which travels on rails in the streets of a town or city. English = tram. American English = street car."
+  ],
+  "idGloss": "tram.2",
+  "oldEntry": "Popular explanation: the power cables for a tram."
 }

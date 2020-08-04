@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Aborigine.1",
-  "oldentry": "",
   "english": [
     "Aborigine",
     "aboriginal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to the indigenous population of Australia. English = (be) aboriginal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who belongs to the indigenous population of Australia. English = Aborigine."
-  ],
   "signNumber": 5595,
   "recordNumber": 3312,
   "signVisualComposition": "BLACK + FACE",
@@ -44,5 +32,17 @@
   ],
   "synonyms": [
     "negro.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to the indigenous population of Australia. English = (be) aboriginal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who belongs to the indigenous population of Australia. English = Aborigine."
+  ],
+  "idGloss": "Aborigine.1",
+  "oldEntry": ""
 }

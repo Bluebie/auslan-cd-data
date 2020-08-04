@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "long.sleeve",
-  "oldentry": "Popular explanation: marking the beginning and end of a long sleeve.",
   "english": [
     "long sleeve shirt",
     "long sleeved"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a long sleeve shirt.",
-    "2. Of a shirt, to have long sleeves. English = (be) long sleeved."
-  ],
   "cf": [
     "sleeve"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing worn over your arms all the way down to the wrists which is attached at the shoulders to the rest of a garment. English = long sleeve shirt."
   ],
   "signNumber": 3514,
   "recordNumber": 2057,
@@ -46,5 +33,18 @@
   "antonyms": [
     "short.sleeve.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a long sleeve shirt.",
+    "2. Of a shirt, to have long sleeves. English = (be) long sleeved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing worn over your arms all the way down to the wrists which is attached at the shoulders to the rest of a garment. English = long sleeve shirt."
+  ],
+  "idGloss": "long.sleeve",
+  "oldEntry": "Popular explanation: marking the beginning and end of a long sleeve."
 }

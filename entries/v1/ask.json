@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ask",
-  "oldentry": "",
   "english": [
     "request",
     "ask"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say something to someone in the form of a question because you want to know something, or because you want them to do something. English = ask, request."
-  ],
   "cf": [
     "say.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something you have said to someone in the form of a question because you want to know something, or because you want them to do something for you. English = request."
   ],
   "signNumber": 271,
   "recordNumber": 159,
@@ -42,5 +30,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say something to someone in the form of a question because you want to know something, or because you want them to do something. English = ask, request."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something you have said to someone in the form of a question because you want to know something, or because you want them to do something for you. English = request."
+  ],
+  "idGloss": "ask",
+  "oldEntry": ""
 }

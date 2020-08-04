@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wrist",
-  "oldentry": "Popular explanation: holding the wrist.",
   "english": [
     "wrist"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bracelet.bangle.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body between your hand and your arm which bends when you move your hand. English = wrist."
   ],
   "signNumber": 4672,
   "recordNumber": 2822,
@@ -38,5 +28,15 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body between your hand and your arm which bends when you move your hand. English = wrist."
+  ],
+  "idGloss": "wrist",
+  "oldEntry": "Popular explanation: holding the wrist."
 }

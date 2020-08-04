@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heal.1a",
-  "oldentry": "",
   "english": [
     "cure",
     "recovery",
@@ -44,18 +40,9 @@
     "heal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To change from being sick to being healthy again. English = (be) healed, become well, get better, (be) cured; recuperate, recover.",
-    "2. To make someone change from being sick to being healthy again. English = heal, cure."
-  ],
   "cf": [
     "sick.1",
     "sick.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The change from being sick to being healthy again. English = cure, recovery, recuperation."
   ],
   "signNumber": 4825,
   "recordNumber": 2914,
@@ -69,5 +56,18 @@
     "push.down.1a",
     "worsen"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To change from being sick to being healthy again. English = (be) healed, become well, get better, (be) cured; recuperate, recover.",
+    "2. To make someone change from being sick to being healthy again. English = heal, cure."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The change from being sick to being healthy again. English = cure, recovery, recuperation."
+  ],
+  "idGloss": "heal.1a",
+  "oldEntry": ""
 }

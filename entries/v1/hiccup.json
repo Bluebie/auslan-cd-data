@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hiccup",
-  "oldentry": "Popular explanation: the rapid up and down movement associated with hiccups.",
   "english": [
     "hiccup",
     "hiccough"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the hiccups (or hiccoughs)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Repeated little choking sounds in your throat due to muscle spasms often caused by eating or drinking too much or too quickly. English = hiccup, hiccough."
-  ],
   "signNumber": 4505,
   "recordNumber": 2739,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the hiccups (or hiccoughs)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Repeated little choking sounds in your throat due to muscle spasms often caused by eating or drinking too much or too quickly. English = hiccup, hiccough."
+  ],
+  "idGloss": "hiccup",
+  "oldEntry": "Popular explanation: the rapid up and down movement associated with hiccups."
 }

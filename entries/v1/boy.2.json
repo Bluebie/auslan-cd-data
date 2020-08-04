@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boy.2",
-  "oldentry": "",
   "english": [
     "boy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A male human child. English = boy.",
-    "2. A young male. Informal English = boy."
-  ],
   "signNumber": 640,
   "recordNumber": 373,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   ],
   "synonyms": [
     "boy.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A male human child. English = boy.",
+    "2. A young male. Informal English = boy."
+  ],
+  "idGloss": "boy.2",
+  "oldEntry": ""
 }

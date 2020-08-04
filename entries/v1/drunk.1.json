@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drunk.1",
-  "oldentry": "Popular explanation: up to the eyeballs in alcohol.",
   "english": [
     "drunkard",
     "tipsy",
@@ -34,16 +30,7 @@
     "pissed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have drunk enough to make you behave a little different from normally, usually friendlier or sillier than usual. English = (be) tipsy, (be) merry.",
-    "2. To have drunk so much alcohol that you cannot speak or sign clearly or behave sensibly. English = (be) drunk. Formal English = (be) inebriated. Informal English = (be) sloshed, (be) pissed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who often gets drunk. English = drunkard."
-  ],
   "signNumber": 2376,
   "recordNumber": 1310,
   "signVisualComposition": "",
@@ -55,5 +42,18 @@
   "synonyms": [
     "weak.1a",
     "drunk.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have drunk enough to make you behave a little different from normally, usually friendlier or sillier than usual. English = (be) tipsy, (be) merry.",
+    "2. To have drunk so much alcohol that you cannot speak or sign clearly or behave sensibly. English = (be) drunk. Formal English = (be) inebriated. Informal English = (be) sloshed, (be) pissed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who often gets drunk. English = drunkard."
+  ],
+  "idGloss": "drunk.1",
+  "oldEntry": "Popular explanation: up to the eyeballs in alcohol."
 }

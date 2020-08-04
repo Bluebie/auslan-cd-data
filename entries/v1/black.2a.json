@@ -17,24 +17,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "black.2a",
-  "oldentry": "",
   "english": [
     "black"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have or be the darkest colour that there is, the colour of the sky at night when there is no light at all. English = (be) black.",
-    "2. To be tea or coffee that has no milk or cream added to it. English = (be) black."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The darkest colour that there is, the colour of the sky at night when there is no light at all. English = black."
-  ],
   "signNumber": 5593,
   "recordNumber": 3311,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   ],
   "synonyms": [
     "black.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have or be the darkest colour that there is, the colour of the sky at night when there is no light at all. English = (be) black.",
+    "2. To be tea or coffee that has no milk or cream added to it. English = (be) black."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The darkest colour that there is, the colour of the sky at night when there is no light at all. English = black."
+  ],
+  "idGloss": "black.2a",
+  "oldEntry": ""
 }

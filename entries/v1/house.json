@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "house",
-  "oldentry": "Popular explanation: the shape of a roof.",
   "english": [
     "house",
     "dwelling",
@@ -28,15 +24,8 @@
     "home"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "go.home.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A building in which people live. English = house. Formal English = dwelling, residence.",
-    "2. The place where you live and where you feel you belong. English = home, residence."
   ],
   "signNumber": 3646,
   "recordNumber": 2147,
@@ -48,5 +37,16 @@
   "antonyms": [],
   "synonyms": [
     "home"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A building in which people live. English = house. Formal English = dwelling, residence.",
+    "2. The place where you live and where you feel you belong. English = home, residence."
+  ],
+  "idGloss": "house",
+  "oldEntry": "Popular explanation: the shape of a roof."
 }

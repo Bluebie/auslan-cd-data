@@ -16,25 +16,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Scotland.1a",
-  "oldentry": "Popular explanation: playing bagpipes.",
   "english": [
     "Scotland",
     "Scottish",
     "Scots"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to or be from Scotland. English = (be) Scottish, (be) Scots."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The country to the north of England, called Scotland."
-  ],
   "signNumber": 2510,
   "recordNumber": 1395,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "Scotland.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to or be from Scotland. English = (be) Scottish, (be) Scots."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The country to the north of England, called Scotland."
+  ],
+  "idGloss": "Scotland.1a",
+  "oldEntry": "Popular explanation: playing bagpipes."
 }

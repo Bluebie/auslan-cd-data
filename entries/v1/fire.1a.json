@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fire.1a",
-  "oldentry": "Popular explanation: the flames of a fire.",
   "english": [
     "fire",
     "flame",
@@ -34,18 +30,7 @@
     "cremate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be on fire. English = burn.",
-    "2. To burn the dead body of a person, usually as part of a funeral service. English = cremate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hot, bright flames produced by things that are burning. English = fire.",
-    "2. A quantity of hot, bright, burning gas that comes in a pointed stream from something that is burning. English = flame, flames.",
-    "3. The burning of a dead body at a funeral. English = cremation."
-  ],
   "signNumber": 2650,
   "recordNumber": 1468,
   "signVisualComposition": "",
@@ -56,5 +41,20 @@
   "antonyms": [],
   "synonyms": [
     "singed.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be on fire. English = burn.",
+    "2. To burn the dead body of a person, usually as part of a funeral service. English = cremate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hot, bright flames produced by things that are burning. English = fire.",
+    "2. A quantity of hot, bright, burning gas that comes in a pointed stream from something that is burning. English = flame, flames.",
+    "3. The burning of a dead body at a funeral. English = cremation."
+  ],
+  "idGloss": "fire.1a",
+  "oldEntry": "Popular explanation: the flames of a fire."
 }

@@ -17,27 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "watch.2",
-  "oldentry": "",
   "english": [
     "watch",
     "time"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To measure the amount of time that something takes to happen. English = time."
-  ],
   "cf": [
     "wind.watch",
     "watch.the.time"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small clock that you wear on a strap on your wrist. English = watch.",
-    "2. A specific point in time which can be stated in hours and minutes and is shown on clocks and watches. English = time."
   ],
   "signNumber": 5281,
   "recordNumber": 3164,
@@ -49,5 +36,18 @@
   "antonyms": [],
   "synonyms": [
     "watch.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To measure the amount of time that something takes to happen. English = time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small clock that you wear on a strap on your wrist. English = watch.",
+    "2. A specific point in time which can be stated in hours and minutes and is shown on clocks and watches. English = time."
+  ],
+  "idGloss": "watch.2",
+  "oldEntry": ""
 }

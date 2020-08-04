@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "furniture.1",
-  "oldentry": "",
   "english": [
     "furniture"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "chair.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Large, moveable objects such as tables, chairs, or beds that are used in a room. English = furniture."
   ],
   "signNumber": 3884,
   "recordNumber": 2310,
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "furniture.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Large, moveable objects such as tables, chairs, or beds that are used in a room. English = furniture."
+  ],
+  "idGloss": "furniture.1",
+  "oldEntry": ""
 }

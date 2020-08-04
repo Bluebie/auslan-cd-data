@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pie.4",
-  "oldentry": "",
   "english": [
     "pie"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Meat, vegetables, or fruit which is baked in pastry, usually round. English = pie."
-  ],
   "signNumber": 4947,
   "recordNumber": 2989,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "pie.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Meat, vegetables, or fruit which is baked in pastry, usually round. English = pie."
+  ],
+  "idGloss": "pie.4",
+  "oldEntry": ""
 }

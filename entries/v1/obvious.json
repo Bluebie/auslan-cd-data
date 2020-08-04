@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "obvious",
-  "oldentry": "",
   "english": [
     "obvious",
     "plain",
@@ -40,20 +36,7 @@
     "clearly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that is easily seen, noticed, or recognised. English = (be) obvious, (be) plain, (be) evident.",
-    "2. To be something that you expect people to know already. English = (be) obvious, (be) clear."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to your addressee's comments to mean that you think what they have said is something that is easily see, noticed, or recognised. English = 'Obviously!', 'Plainly!', 'Evidently!'",
-    "2. Used alone in response to your addressee's comments to mean that you think what they have said is something that you expect everyone to know already. English = 'Obviously!', 'Clearly!'"
-  ],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence to mean what is said in the sentence is easily seen, noticed, or recognised. English = obviously, plainly, evidently.",
-    "2. Used at the beginning or end of a sentence to mean that what you are stating is something that you expect people to know already. English = obviously, clearly."
-  ],
-  "nomlex": [],
   "signNumber": 554,
   "recordNumber": 319,
   "signVisualComposition": "SEE + EASY",
@@ -68,5 +51,22 @@
   "synonyms": [
     "of.course",
     "familiar.with"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to your addressee's comments to mean that you think what they have said is something that is easily see, noticed, or recognised. English = 'Obviously!', 'Plainly!', 'Evidently!'",
+    "2. Used alone in response to your addressee's comments to mean that you think what they have said is something that you expect everyone to know already. English = 'Obviously!', 'Clearly!'"
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence to mean what is said in the sentence is easily seen, noticed, or recognised. English = obviously, plainly, evidently.",
+    "2. Used at the beginning or end of a sentence to mean that what you are stating is something that you expect people to know already. English = obviously, clearly."
+  ],
+  "verbLexeme": [
+    "1. To be something that is easily seen, noticed, or recognised. English = (be) obvious, (be) plain, (be) evident.",
+    "2. To be something that you expect people to know already. English = (be) obvious, (be) clear."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "obvious",
+  "oldEntry": ""
 }

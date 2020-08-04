@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "short-hair",
-  "oldentry": "",
   "english": [
     "short-hair"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have short hair."
-  ],
   "cf": [
     "curly",
     "curl.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Hair which is worn short."
   ],
   "signNumber": 3195,
   "recordNumber": 1855,
@@ -43,5 +31,17 @@
   "antonyms": [
     "long-hair"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have short hair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Hair which is worn short."
+  ],
+  "idGloss": "short-hair",
+  "oldEntry": ""
 }

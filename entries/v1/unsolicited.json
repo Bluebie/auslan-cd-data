@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unsolicited",
-  "oldentry": "",
   "english": [
     "unsolicited",
     "gratis",
     "free"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a thing or service, to be provided free of charge and without request. English = (be) gratis, (be) unsolicited, (be) free."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used to express pleasure on receiving something for free."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6582,
   "recordNumber": 3924,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used to express pleasure on receiving something for free."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a thing or service, to be provided free of charge and without request. English = (be) gratis, (be) unsolicited, (be) free."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unsolicited",
+  "oldEntry": ""
 }

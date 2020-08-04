@@ -17,24 +17,14 @@
   "sense": "",
   "blend": "EAT + MORNING",
   "queries": "The two parts of this compound ('eat' and 'morning') can also be made in the reverse order (ie, 'morning' + 'eat').",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breakfast.1",
-  "oldentry": "Popular explanation: eating in the morning.",
   "english": [
     "breakfast"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "dinner.1",
     "dinner.2",
     "lunch.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The first meal of the day, which is usually eaten early in the morning. English = breakfast."
   ],
   "signNumber": 52,
   "recordNumber": 31,
@@ -46,5 +36,15 @@
   "antonyms": [],
   "synonyms": [
     "breakfast.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The first meal of the day, which is usually eaten early in the morning. English = breakfast."
+  ],
+  "idGloss": "breakfast.1",
+  "oldEntry": "Popular explanation: eating in the morning."
 }

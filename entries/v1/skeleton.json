@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "skeleton",
-  "oldentry": "Popular explanation: the rib cage.",
   "english": [
     "skeleton",
     "ribs",
@@ -28,17 +24,7 @@
     "emaciated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely thin and weak because of illness or lack of food. English = (be) emaciated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The framework of bones which supports and protects your organs and muscles. English = skeleton.",
-    "2. The curved bones that go from your backbone to your chest. English = ribs.",
-    "3. The structure of ribs in your chest. English = rib cage."
-  ],
   "signNumber": 3025,
   "recordNumber": 1732,
   "signVisualComposition": "",
@@ -47,5 +33,19 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely thin and weak because of illness or lack of food. English = (be) emaciated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The framework of bones which supports and protects your organs and muscles. English = skeleton.",
+    "2. The curved bones that go from your backbone to your chest. English = ribs.",
+    "3. The structure of ribs in your chest. English = rib cage."
+  ],
+  "idGloss": "skeleton",
+  "oldEntry": "Popular explanation: the rib cage."
 }

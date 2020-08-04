@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "menstruate.1a",
-  "oldentry": "Popular explanation: the fourth week.",
   "english": [
     "menstruation",
     "period",
     "menstruate"
   ],
   "deictic": [],
-  "verblex": [
-    "2. To lose blood from your womb for a period of time each month as part of a natural cycle associated with sexual fertility. English = menstruate, have your periods."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The period of time each month during which a fertile woman loses blood from her womb. English = menstruation, period."
-  ],
   "signNumber": 4405,
   "recordNumber": 2680,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "flag"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "2. To lose blood from your womb for a period of time each month as part of a natural cycle associated with sexual fertility. English = menstruate, have your periods."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of time each month during which a fertile woman loses blood from her womb. English = menstruation, period."
+  ],
+  "idGloss": "menstruate.1a",
+  "oldEntry": "Popular explanation: the fourth week."
 }

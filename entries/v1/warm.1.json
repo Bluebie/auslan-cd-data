@@ -19,30 +19,14 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "warm.1",
-  "oldentry": "",
   "english": [
     "warmth",
     "warm"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have some heat, but not enough to be hot. English = (be) warm.",
-    "2. Of clothes, to be made of material such as wool which protects you from the cold. English = (be) warm.",
-    "3. Of a person, to be friendly and behave with a lot of affection and enthusiasm. English = (be) warm.",
-    "4. To make something warm or hotter. English = warm, warm up."
-  ],
   "cf": [
     "hot.1a",
     "cold"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The moderate amount of heat that something has, for example enough heat to make you feel comfortable. English = warmth.",
-    "2. The ability of clothes or blankets to protect you from the cold. English = warmth."
   ],
   "signNumber": 5605,
   "recordNumber": 3318,
@@ -52,5 +36,21 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have some heat, but not enough to be hot. English = (be) warm.",
+    "2. Of clothes, to be made of material such as wool which protects you from the cold. English = (be) warm.",
+    "3. Of a person, to be friendly and behave with a lot of affection and enthusiasm. English = (be) warm.",
+    "4. To make something warm or hotter. English = warm, warm up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The moderate amount of heat that something has, for example enough heat to make you feel comfortable. English = warmth.",
+    "2. The ability of clothes or blankets to protect you from the cold. English = warmth."
+  ],
+  "idGloss": "warm.1",
+  "oldEntry": ""
 }

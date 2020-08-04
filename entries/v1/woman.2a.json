@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "woman.2a",
-  "oldentry": "",
   "english": [
     "woman"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An adult female human being. English = woman."
-  ],
   "signNumber": 589,
   "recordNumber": 338,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   ],
   "synonyms": [
     "lady.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An adult female human being. English = woman."
+  ],
+  "idGloss": "woman.2a",
+  "oldEntry": ""
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "Based on the ASL sign 'program' but changed somewhat in form.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "program",
-  "oldentry": "",
   "english": [
     "program",
     "programmer",
@@ -32,21 +28,10 @@
     "policy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To plan a series of actions or events to be done as part of some task or executed as part of a computer's instructions, or shown or performed as part of some entertainment. English = program."
-  ],
   "cf": [
     "document.1a",
     "calendar",
     "project.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A series of actions or events that are planned to be done as part of some task or as part of a computer's instructions, or shown or performed as part of some entertainment. English = program.",
-    "2. A person whose job involves writing instructions (programs) for a computer. English = programmer.",
-    "3. A large-scale attempt to do or achieve something, which is carefully planned and will take some time. English = project.",
-    "4. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy."
   ],
   "signNumber": 1850,
   "recordNumber": 1110,
@@ -56,5 +41,20 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To plan a series of actions or events to be done as part of some task or executed as part of a computer's instructions, or shown or performed as part of some entertainment. English = program."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A series of actions or events that are planned to be done as part of some task or as part of a computer's instructions, or shown or performed as part of some entertainment. English = program.",
+    "2. A person whose job involves writing instructions (programs) for a computer. English = programmer.",
+    "3. A large-scale attempt to do or achieve something, which is carefully planned and will take some time. English = project.",
+    "4. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy."
+  ],
+  "idGloss": "program",
+  "oldEntry": ""
 }

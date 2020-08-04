@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "passport",
-  "oldentry": "Popular explanation: stamping in a book.",
   "english": [
     "passport"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An official document containing your name, photograph, and personal details, which you need to show when you enter or leave a country. English = passport."
-  ],
   "signNumber": 5993,
   "recordNumber": 3566,
   "signVisualComposition": "BOOK + STAMP",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An official document containing your name, photograph, and personal details, which you need to show when you enter or leave a country. English = passport."
+  ],
+  "idGloss": "passport",
+  "oldEntry": "Popular explanation: stamping in a book."
 }

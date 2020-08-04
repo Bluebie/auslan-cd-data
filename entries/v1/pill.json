@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pill",
-  "oldentry": "",
   "english": [
     "tablet",
     "pill"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take a pill or tablet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small round mass of medicine that you swallow without chewing. English = tablet, pill."
-  ],
   "signNumber": 6358,
   "recordNumber": 3798,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "take.tablet.1a",
     "medicine"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take a pill or tablet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small round mass of medicine that you swallow without chewing. English = tablet, pill."
+  ],
+  "idGloss": "pill",
+  "oldEntry": ""
 }

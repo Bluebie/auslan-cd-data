@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deal.cards.1a",
-  "oldentry": "Popular explanation: dealing cards.",
   "english": [
     "deal",
     "dealer",
     "cards"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give out cards to the players in a game of cards. English = deal, deal out cards."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The giving out of cards to the players in a game of cards. English = deal.",
-    "2. The person who gives out cards to the players in a game of cards. English = dealer.",
-    "3. Thin pieces of cardboard with numbers or pictures printed on them which are used to play various games. English = cards, playing cards."
-  ],
   "signNumber": 6243,
   "recordNumber": 3730,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "card"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give out cards to the players in a game of cards. English = deal, deal out cards."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The giving out of cards to the players in a game of cards. English = deal.",
+    "2. The person who gives out cards to the players in a game of cards. English = dealer.",
+    "3. Thin pieces of cardboard with numbers or pictures printed on them which are used to play various games. English = cards, playing cards."
+  ],
+  "idGloss": "deal.cards.1a",
+  "oldEntry": "Popular explanation: dealing cards."
 }

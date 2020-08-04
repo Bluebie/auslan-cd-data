@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clear.1a",
-  "oldentry": "",
   "english": [
     "clear",
     "fine",
@@ -31,18 +27,7 @@
     "bright"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the weather, to have no mist, rain, or cloud. English = (be) clear, (be) fine.",
-    "2. Of mist or fog, to gradually disappear. English = clear, become fine.",
-    "3. To be easy to understand, see, or hear; or to be obvious and impossible to be mistaken about. English = clear; evident.",
-    "4. Of a source of light, to shine strongly. English = (be) bright."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A clear, fine day."
-  ],
   "signNumber": 136,
   "recordNumber": 74,
   "signVisualComposition": "",
@@ -57,5 +42,20 @@
   ],
   "synonyms": [
     "bright"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the weather, to have no mist, rain, or cloud. English = (be) clear, (be) fine.",
+    "2. Of mist or fog, to gradually disappear. English = clear, become fine.",
+    "3. To be easy to understand, see, or hear; or to be obvious and impossible to be mistaken about. English = clear; evident.",
+    "4. Of a source of light, to shine strongly. English = (be) bright."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A clear, fine day."
+  ],
+  "idGloss": "clear.1a",
+  "oldEntry": ""
 }

@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rowboat",
-  "oldentry": "",
   "english": [
     "rowboat",
     "rowing boat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small boat that you move through the water by using oars. English = rowboat, rowing boat."
-  ],
   "signNumber": 5875,
   "recordNumber": 3495,
   "signVisualComposition": "ROW + BOAT",
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small boat that you move through the water by using oars. English = rowboat, rowing boat."
+  ],
+  "idGloss": "rowboat",
+  "oldEntry": ""
 }

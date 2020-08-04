@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beret.1",
-  "oldentry": "Popular explanation: the outline of a beret.",
   "english": [
     "beret"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A circular, flat hat this is made of soft material and has no brim. English = beret."
-  ],
   "signNumber": 4702,
   "recordNumber": 2841,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "beret.2",
     "cap.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A circular, flat hat this is made of soft material and has no brim. English = beret."
+  ],
+  "idGloss": "beret.1",
+  "oldEntry": "Popular explanation: the outline of a beret."
 }

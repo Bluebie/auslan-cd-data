@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "argue",
-  "oldentry": "",
   "english": [
     "argument",
     "dispute",
@@ -35,21 +31,9 @@
     "dispute"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say things which show that you disagree with someone about something, sometimes speaking or signing angrily. English = argue.",
-    "2. To say things which show that you disagree with someone about something. English = dispute.",
-    "3. To discuss a topic fairly formally amongst several people expressing different views. English = debate."
-  ],
   "cf": [
     "tell.off",
     "shut.up.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A disagreement with someone about something, sometimes resulting in speaking or signing angrily. English = argument.",
-    "2. A disagreement with someone about something. English = dispute.",
-    "3. A discussion in which people express different opinions about a subject. English = debate."
   ],
   "signNumber": 1083,
   "recordNumber": 635,
@@ -61,5 +45,21 @@
   "antonyms": [],
   "synonyms": [
     "quarrel"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say things which show that you disagree with someone about something, sometimes speaking or signing angrily. English = argue.",
+    "2. To say things which show that you disagree with someone about something. English = dispute.",
+    "3. To discuss a topic fairly formally amongst several people expressing different views. English = debate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A disagreement with someone about something, sometimes resulting in speaking or signing angrily. English = argument.",
+    "2. A disagreement with someone about something. English = dispute.",
+    "3. A discussion in which people express different opinions about a subject. English = debate."
+  ],
+  "idGloss": "argue",
+  "oldEntry": ""
 }

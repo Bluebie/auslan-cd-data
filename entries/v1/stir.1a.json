@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stir.1a",
-  "oldentry": "Popular explanation: a stirring action.",
   "english": [
     "stirrer",
     "stir"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately cause trouble, to stir up trouble, to cause a stir, to cause mischief."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who deliberately causes trouble whenever they can. English = stirrer.",
-    "2. Great excitement, shock, or anger among a number of people. English = stir."
-  ],
   "signNumber": 5688,
   "recordNumber": 3367,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately cause trouble, to stir up trouble, to cause a stir, to cause mischief."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who deliberately causes trouble whenever they can. English = stirrer.",
+    "2. Great excitement, shock, or anger among a number of people. English = stir."
+  ],
+  "idGloss": "stir.1a",
+  "oldEntry": "Popular explanation: a stirring action."
 }

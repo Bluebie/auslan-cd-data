@@ -10,21 +10,11 @@
   "sense": "1",
   "blend": "",
   "queries": "This sign originated in the Catholic schools for the deaf but has gained widespread acceptance and use.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Saturday",
-  "oldentry": "",
   "english": [
     "Saturday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the seven days of the week. It is the day after Friday and the day before Sunday. English = Saturday."
-  ],
   "signNumber": 6289,
   "recordNumber": 3758,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the seven days of the week. It is the day after Friday and the day before Sunday. English = Saturday."
+  ],
+  "idGloss": "Saturday",
+  "oldEntry": ""
 }

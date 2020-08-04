@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "run.out.of.time",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. For the amount of time available to do something to be used up so that there is no more time left; to run out of time."
-  ],
   "cf": [
     "run.out.of.petrol",
     "finish.fag",
     "finish.drink"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The reduction in the amount of time available to do something; the running out of time to do something."
   ],
   "signNumber": 5275,
   "recordNumber": 3162,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For the amount of time available to do something to be used up so that there is no more time left; to run out of time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The reduction in the amount of time available to do something; the running out of time to do something."
+  ],
+  "idGloss": "run.out.of.time",
+  "oldEntry": ""
 }

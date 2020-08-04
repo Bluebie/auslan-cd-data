@@ -16,27 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "send.1a",
-  "oldentry": "Popular explanation: action of handing over something.",
   "english": [
     "consignment",
     "send",
     "dispatch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange for something to be taken from one place and delivered to someone in another place, for example by post or by courier. English = send. Formal English = dispatch."
-  ],
   "cf": [
     "letters.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of sending something to someone.",
-    "2. A load of goods that is being sent from one place and delivered to another. English = consignment."
   ],
   "signNumber": 6113,
   "recordNumber": 3639,
@@ -48,5 +35,18 @@
   "antonyms": [],
   "synonyms": [
     "distribute.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange for something to be taken from one place and delivered to someone in another place, for example by post or by courier. English = send. Formal English = dispatch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of sending something to someone.",
+    "2. A load of goods that is being sent from one place and delivered to another. English = consignment."
+  ],
+  "idGloss": "send.1a",
+  "oldEntry": "Popular explanation: action of handing over something."
 }

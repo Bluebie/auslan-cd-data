@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "throb",
-  "oldentry": "",
   "english": [
     "throb",
     "pulsate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move in a series of strong beats; to sense dull pains at regular intervals. English = throb.",
-    "2. To contract and expand repeatedly with strong regular movement; to move with strong regular movements. English = pulsate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A series of strong beats or dull pains. English = throb."
-  ],
   "signNumber": 2966,
   "recordNumber": 1687,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "synonyms": [
     "pain",
     "ache.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move in a series of strong beats; to sense dull pains at regular intervals. English = throb.",
+    "2. To contract and expand repeatedly with strong regular movement; to move with strong regular movements. English = pulsate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A series of strong beats or dull pains. English = throb."
+  ],
+  "idGloss": "throb",
+  "oldEntry": ""
 }

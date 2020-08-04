@@ -13,25 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "write.off",
-  "oldentry": "",
   "english": [
     "write off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To judge a car to be worthless or beyond repair because it is so badly damaged. Idiomatic English = write off.",
-    "2. To judge a loss of money to be irreversible and to accept it to be lost forever. Idiomatic English = write off."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A car that is so badly damaged in an accident that it is considered by you (or your insurance company) to be worthless because it cannot be fixed or it would be too expensive to fix. Idiomatic English = write off.",
-    "2. An amount of money that you accept that you have lost (through bad business, misfortune, etc.) and that you accept you will not get back. Idiomatic English = write off."
-  ],
   "signNumber": 1253,
   "recordNumber": 742,
   "signVisualComposition": "",
@@ -40,5 +26,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To judge a car to be worthless or beyond repair because it is so badly damaged. Idiomatic English = write off.",
+    "2. To judge a loss of money to be irreversible and to accept it to be lost forever. Idiomatic English = write off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A car that is so badly damaged in an accident that it is considered by you (or your insurance company) to be worthless because it cannot be fixed or it would be too expensive to fix. Idiomatic English = write off.",
+    "2. An amount of money that you accept that you have lost (through bad business, misfortune, etc.) and that you accept you will not get back. Idiomatic English = write off."
+  ],
+  "idGloss": "write.off",
+  "oldEntry": ""
 }

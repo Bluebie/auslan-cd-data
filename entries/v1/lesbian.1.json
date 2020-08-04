@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lesbian.1",
-  "oldentry": "",
   "english": [
     "lesbian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to female homosexuality. English = (be) lesbian."
-  ],
   "cf": [
     "poofter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A woman who is sexually attracted to other women. English = lesbian."
   ],
   "signNumber": 5118,
   "recordNumber": 3091,
@@ -46,5 +34,17 @@
   ],
   "synonyms": [
     "lesbian.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to female homosexuality. English = (be) lesbian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A woman who is sexually attracted to other women. English = lesbian."
+  ],
+  "idGloss": "lesbian.1",
+  "oldEntry": ""
 }

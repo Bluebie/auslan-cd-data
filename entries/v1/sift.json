@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sift",
-  "oldentry": "Popular explanation: the agitated crossed wires of a sieve.",
   "english": [
     "sieve",
     "sift"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a device with an overlapping grid of wires or slats, especially in order to let objects only of a certain size pass through; to operate a sieve. English = sift."
-  ],
   "cf": [
     "colander"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool used for separating liquids from solids or larger pieces of something from smaller pieces of it. It usually consists of a wire net which the liquids or smaller pieces pass through. English = sieve."
   ],
   "signNumber": 2414,
   "recordNumber": 1335,
@@ -42,5 +30,17 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a device with an overlapping grid of wires or slats, especially in order to let objects only of a certain size pass through; to operate a sieve. English = sift."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool used for separating liquids from solids or larger pieces of something from smaller pieces of it. It usually consists of a wire net which the liquids or smaller pieces pass through. English = sieve."
+  ],
+  "idGloss": "sift",
+  "oldEntry": "Popular explanation: the agitated crossed wires of a sieve."
 }

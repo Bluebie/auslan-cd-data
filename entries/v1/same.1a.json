@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "same.1a",
-  "oldentry": "",
   "english": [
     "sameness",
     "same",
@@ -38,19 +34,7 @@
     "also"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For two or more things, qualities, quantities or actions to be exactly alike in some way. English = (be) the same, (be) alike.",
-    "2. For two things, qualities, quantities or actions to be exactly alike in some way. The sign is put between two nouns. English = (be) the same as, (be) like."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to mean that what you are about to say is exactly like something else you or your partner has mentioned already. English = likewise, similarly, in the same way.",
-    "2. Used in a sentence to add another person, thing, or aspect to a previous statement, (ie the extra person etc. did the action also). English = too, as well, also."
-  ],
-  "nomlex": [
-    "1. The quality of two or more things, qualities, quantities or actions being exactly alike in some way. English = sameness."
-  ],
   "signNumber": 993,
   "recordNumber": 575,
   "signVisualComposition": "",
@@ -61,5 +45,21 @@
   "antonyms": [
     "different.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to mean that what you are about to say is exactly like something else you or your partner has mentioned already. English = likewise, similarly, in the same way.",
+    "2. Used in a sentence to add another person, thing, or aspect to a previous statement, (ie the extra person etc. did the action also). English = too, as well, also."
+  ],
+  "verbLexeme": [
+    "1. For two or more things, qualities, quantities or actions to be exactly alike in some way. English = (be) the same, (be) alike.",
+    "2. For two things, qualities, quantities or actions to be exactly alike in some way. The sign is put between two nouns. English = (be) the same as, (be) like."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of two or more things, qualities, quantities or actions being exactly alike in some way. English = sameness."
+  ],
+  "idGloss": "same.1a",
+  "oldEntry": ""
 }

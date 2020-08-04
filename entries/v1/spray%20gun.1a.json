@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spray gun.1a",
-  "oldentry": "",
   "english": [
     "spray-gun"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To paint a surface using a spray-gun; to spray paint."
-  ],
   "cf": [
     "welder.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device for forcing paint through a small nozzle so that it comes out in a fine, even spray. It is used for painting large surfaces. English = spray-gun."
   ],
   "signNumber": 5284,
   "recordNumber": 3166,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To paint a surface using a spray-gun; to spray paint."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device for forcing paint through a small nozzle so that it comes out in a fine, even spray. It is used for painting large surfaces. English = spray-gun."
+  ],
+  "idGloss": "spray gun.1a",
+  "oldEntry": ""
 }

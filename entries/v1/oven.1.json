@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oven.1",
-  "oldentry": "Popular explanation: placing a tray in an oven.",
   "english": [
     "oven",
     "bake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put inside an oven in order to cook.",
-    "2. To cook in an oven without extra liquid or fat. English = bake."
-  ],
   "cf": [
     "microwave"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cooker or part of a cooker that is like a box with a door. You put food inside the oven in order to cook it. English = oven."
   ],
   "signNumber": 4128,
   "recordNumber": 2486,
@@ -48,5 +35,18 @@
   "antonyms": [],
   "synonyms": [
     "oven.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put inside an oven in order to cook.",
+    "2. To cook in an oven without extra liquid or fat. English = bake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cooker or part of a cooker that is like a box with a door. You put food inside the oven in order to cook it. English = oven."
+  ],
+  "idGloss": "oven.1",
+  "oldEntry": "Popular explanation: placing a tray in an oven."
 }

@@ -10,22 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "many.since",
-  "oldentry": "",
   "english": [
     "since"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to mean that an action begins at some time and continues later than that time. It involves either many actors, many entities of some kind, or many units of time (days, weeks, etc.).",
-    "2. Used to mean that an action began at some time in the past and continued after that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.)."
-  ],
-  "nomlex": [],
   "signNumber": 2824,
   "recordNumber": 1585,
   "signVisualComposition": "",
@@ -34,5 +23,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to mean that an action begins at some time and continues later than that time. It involves either many actors, many entities of some kind, or many units of time (days, weeks, etc.).",
+    "2. Used to mean that an action began at some time in the past and continued after that time. It involved either many actors, many entities of some kind, or many units of time (days, weeks, etc.)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "many.since",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drafting.1",
-  "oldentry": "",
   "english": [
     "drafting",
     "draughting",
@@ -31,16 +27,7 @@
     "draught"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To prepare technical drawings; prepare a draft. English = draft, draught."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The preparation of technical drawings. English = drafting, draughting.",
-    "2. A person who prepares technical drawings. English = draftsman, draughtsman."
-  ],
   "signNumber": 467,
   "recordNumber": 259,
   "signVisualComposition": "",
@@ -51,5 +38,18 @@
   "antonyms": [],
   "synonyms": [
     "drafting.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To prepare technical drawings; prepare a draft. English = draft, draught."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The preparation of technical drawings. English = drafting, draughting.",
+    "2. A person who prepares technical drawings. English = draftsman, draughtsman."
+  ],
+  "idGloss": "drafting.1",
+  "oldEntry": ""
 }

@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fabric.1a",
-  "oldentry": "Popular explanation: unfolding cloth.",
   "english": [
     "cloth",
     "fabric",
     "material"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To unfold cloth, fabric, or material."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A substance which is used especially for making clothes and is made by weaving, knitting, or some other similar process. English = cloth, fabric, material."
-  ],
   "signNumber": 6200,
   "recordNumber": 3704,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To unfold cloth, fabric, or material."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A substance which is used especially for making clothes and is made by weaving, knitting, or some other similar process. English = cloth, fabric, material."
+  ],
+  "idGloss": "fabric.1a",
+  "oldEntry": "Popular explanation: unfolding cloth."
 }

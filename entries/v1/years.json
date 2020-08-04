@@ -10,21 +10,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "years",
-  "oldentry": "",
   "english": [
     "years"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Periods of 365 or 366 days, beginning on the first of January and ending on the thirty-first of December. They are made up of twelve months. English = years."
-  ],
   "signNumber": 1158,
   "recordNumber": 682,
   "signVisualComposition": "Y + Y",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Periods of 365 or 366 days, beginning on the first of January and ending on the thirty-first of December. They are made up of twelve months. English = years."
+  ],
+  "idGloss": "years",
+  "oldEntry": ""
 }

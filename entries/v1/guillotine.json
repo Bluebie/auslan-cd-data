@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "guillotine",
-  "oldentry": "Popular explanation: chopping the neck.",
   "english": [
     "guillotine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To execute people by beheading them in with a device consisting of a blade in a large frame. English = guillotine.",
-    "2. To strike or chop the neck with a blade or an axe."
-  ],
   "cf": [
     "window"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device consisting of a blade in a large frame which was used to execute people, especially in France in the past. English = guillotine."
   ],
   "signNumber": 3303,
   "recordNumber": 1928,
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "axe.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To execute people by beheading them in with a device consisting of a blade in a large frame. English = guillotine.",
+    "2. To strike or chop the neck with a blade or an axe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device consisting of a blade in a large frame which was used to execute people, especially in France in the past. English = guillotine."
+  ],
+  "idGloss": "guillotine",
+  "oldEntry": "Popular explanation: chopping the neck."
 }

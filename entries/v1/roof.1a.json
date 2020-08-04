@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "roof.1a",
-  "oldentry": "Popular explanation: the form of a roof.",
   "english": [
     "roof"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "rage",
     "room.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The covering on the top of a building. English = roof."
   ],
   "signNumber": 3638,
   "recordNumber": 2142,
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "ceiling.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The covering on the top of a building. English = roof."
+  ],
+  "idGloss": "roof.1a",
+  "oldEntry": "Popular explanation: the form of a roof."
 }

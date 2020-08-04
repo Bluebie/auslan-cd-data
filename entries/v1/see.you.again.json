@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "see.you.again",
-  "oldentry": "",
   "english": [
     "see you again"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone on leave-taking to mean that you hope and expect to see that person again soon. English = 'See you again.', 'Until next time.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1553,
   "recordNumber": 923,
   "signVisualComposition": "SEE + AGAIN",
@@ -36,5 +26,15 @@
   "antonyms": [
     "hi.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone on leave-taking to mean that you hope and expect to see that person again soon. English = 'See you again.', 'Until next time.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "see.you.again",
+  "oldEntry": ""
 }

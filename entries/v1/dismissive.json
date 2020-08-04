@@ -16,26 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dismissive",
-  "oldentry": "Popular explanation: nodding repeatedly.",
   "english": [
     "dismissive",
     "ignore",
     "neglect"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pay no real attention to what someone is saying or doing and to attach no importance to it. English = (be) dismissive, ignore, neglect.",
-    "2. To appear to pay attention to someone or to say you agree or approve when in fact you do not just in order to please them or to avoid a confrontation. English = humour someone. Idiomatic English = pay lip service to someone."
-  ],
   "cf": [
     "yes.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5945,
   "recordNumber": 3540,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "antonyms": [],
   "synonyms": [
     "bother.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pay no real attention to what someone is saying or doing and to attach no importance to it. English = (be) dismissive, ignore, neglect.",
+    "2. To appear to pay attention to someone or to say you agree or approve when in fact you do not just in order to please them or to avoid a confrontation. English = humour someone. Idiomatic English = pay lip service to someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "dismissive",
+  "oldEntry": "Popular explanation: nodding repeatedly."
 }

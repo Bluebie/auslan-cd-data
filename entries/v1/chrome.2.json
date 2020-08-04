@@ -13,22 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chrome.2",
-  "oldentry": "",
   "english": [
     "chrome",
     "chromium"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hard silver coloured metal. English = chrome, chromium."
-  ],
   "signNumber": 410,
   "recordNumber": 227,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "silver.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hard silver coloured metal. English = chrome, chromium."
+  ],
+  "idGloss": "chrome.2",
+  "oldEntry": ""
 }

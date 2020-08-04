@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tyre.1",
-  "oldentry": "Popular explanation: the outline of wheels.",
   "english": [
     "tyre"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick ring of rubber which is fitted round each wheel of a vehicle such as a car or bicycle, and which is usually filled with air. English = tyre."
-  ],
   "signNumber": 1107,
   "recordNumber": 650,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "wheel"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thick ring of rubber which is fitted round each wheel of a vehicle such as a car or bicycle, and which is usually filled with air. English = tyre."
+  ],
+  "idGloss": "tyre.1",
+  "oldEntry": "Popular explanation: the outline of wheels."
 }

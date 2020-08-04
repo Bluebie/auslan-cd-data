@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spade.1a",
-  "oldentry": "Popular explanation: scooping with a spade.",
   "english": [
     "spade",
     "shovel",
@@ -42,19 +38,7 @@
     "garden"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a hole in the ground using a spade, shovel, or a trowel. English = dig, dig up, scoop up, shovel.",
-    "2. To do work in a garden such as weeding or planting. English = garden."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel.",
-    "2. A small garden tool with a curved, pointed blade that you use for digging small holes or for removing weeds. English = trowel.",
-    "3. The activity of using a spade or a trowel to make holes in the ground or to move dirt, especially when working in the garden. English = digging, gardening.",
-    "4. One of the four suits in a pack of playing cards. Each card in this suit is marked with one or more black symbols in the shape of a heart-shaped leaf with a stem. English = spades."
-  ],
   "signNumber": 3398,
   "recordNumber": 1987,
   "signVisualComposition": "",
@@ -67,5 +51,21 @@
     "excavate",
     "burrow",
     "shovel"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a hole in the ground using a spade, shovel, or a trowel. English = dig, dig up, scoop up, shovel.",
+    "2. To do work in a garden such as weeding or planting. English = garden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel.",
+    "2. A small garden tool with a curved, pointed blade that you use for digging small holes or for removing weeds. English = trowel.",
+    "3. The activity of using a spade or a trowel to make holes in the ground or to move dirt, especially when working in the garden. English = digging, gardening.",
+    "4. One of the four suits in a pack of playing cards. Each card in this suit is marked with one or more black symbols in the shape of a heart-shaped leaf with a stem. English = spades."
+  ],
+  "idGloss": "spade.1a",
+  "oldEntry": "Popular explanation: scooping with a spade."
 }

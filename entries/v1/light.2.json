@@ -20,25 +20,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "light.2",
-  "oldentry": "Popular explanation: rays of light.",
   "english": [
     "light",
     "illuminate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shine light on to something. English = illuminate.",
-    "2. To turn on or switch on an electric light."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that produces light, particularly an electric bulb. English = light."
-  ],
   "signNumber": 3,
   "recordNumber": 2,
   "signVisualComposition": "",
@@ -54,5 +41,18 @@
     "switch.1a",
     "light.bulb",
     "emit"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shine light on to something. English = illuminate.",
+    "2. To turn on or switch on an electric light."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that produces light, particularly an electric bulb. English = light."
+  ],
+  "idGloss": "light.2",
+  "oldEntry": "Popular explanation: rays of light."
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lot.1a",
-  "oldentry": "",
   "english": [
     "lot",
     "much",
@@ -34,18 +30,9 @@
     "too many"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For there to be a large amount or large number of something. English = (be) a lot of, (be) much, (be) many.",
-    "2. [Especially with stress] to be a lot of something, more than you really need or more than is necessary. English = (be) plenty, (be) too much, (be) too many."
-  ],
   "cf": [
     "regular"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action happens often or frequently, or to a great extent or degree. English = lots, a lot of the time."
-  ],
-  "nomlex": [],
   "signNumber": 5271,
   "recordNumber": 3161,
   "signVisualComposition": "",
@@ -60,5 +47,18 @@
     "lot.2",
     "often.1a",
     "enough.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action happens often or frequently, or to a great extent or degree. English = lots, a lot of the time."
+  ],
+  "verbLexeme": [
+    "1. For there to be a large amount or large number of something. English = (be) a lot of, (be) much, (be) many.",
+    "2. [Especially with stress] to be a lot of something, more than you really need or more than is necessary. English = (be) plenty, (be) too much, (be) too many."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lot.1a",
+  "oldEntry": ""
 }

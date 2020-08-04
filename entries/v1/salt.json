@@ -17,28 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "salt",
-  "oldentry": "Popular explanation: sprinkling something.",
   "english": [
     "salt",
     "salty"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sprinkle salt.",
-    "2. To contain salt or taste of salt. English = (be) salty."
-  ],
   "cf": [
     "sauce",
     "pepper.1",
     "sprinkle.on.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong-tasting substance, in the form of white powder or crystals, which is used to improve the flavour of food or to preserve it. It occurs naturally in sea water. English = salt."
   ],
   "signNumber": 6473,
   "recordNumber": 3855,
@@ -48,5 +35,18 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sprinkle salt.",
+    "2. To contain salt or taste of salt. English = (be) salty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong-tasting substance, in the form of white powder or crystals, which is used to improve the flavour of food or to preserve it. It occurs naturally in sea water. English = salt."
+  ],
+  "idGloss": "salt",
+  "oldEntry": "Popular explanation: sprinkling something."
 }

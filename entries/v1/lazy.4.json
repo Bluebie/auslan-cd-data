@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lazy.4",
-  "oldentry": "",
   "english": [
     "laziness",
     "lazy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To avoid doing any work or making any effort to do something. English = (be) lazy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The characteristic of avoiding doing any work or making any effort to do something. English = laziness."
-  ],
   "signNumber": 4566,
   "recordNumber": 2765,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
     "lazy.1",
     "lazy.2",
     "lazy.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To avoid doing any work or making any effort to do something. English = (be) lazy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The characteristic of avoiding doing any work or making any effort to do something. English = laziness."
+  ],
+  "idGloss": "lazy.4",
+  "oldEntry": ""
 }

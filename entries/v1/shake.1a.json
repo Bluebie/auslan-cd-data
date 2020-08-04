@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "The action of shaking can also be signed in numerous other ways, varying handshape and location, depending on the size, shape and location of the object being shaken.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shake.1a",
-  "oldentry": "Popular explanation: holding on to something and shaking it.",
   "english": [
     "shake"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold someone or something firmly and move them quickly backwards and forwards or up and down. English = shake."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5763,
   "recordNumber": 3415,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold someone or something firmly and move them quickly backwards and forwards or up and down. English = shake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "shake.1a",
+  "oldEntry": "Popular explanation: holding on to something and shaking it."
 }

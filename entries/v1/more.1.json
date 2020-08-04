@@ -15,24 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "more.1",
-  "oldentry": "",
   "english": [
     "more"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a greater amount or number of something than before. English = (be) more."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used after a verb sign to mean that the action happens to a greater extent or continues to happen. English = more.",
-    "2. Used to introduce a piece of information which supports or emphasises the point you are making. English = what is more, moreover."
-  ],
-  "nomlex": [],
   "signNumber": 4171,
   "recordNumber": 2520,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
     "more.2",
     "more.3",
     "extend"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used after a verb sign to mean that the action happens to a greater extent or continues to happen. English = more.",
+    "2. Used to introduce a piece of information which supports or emphasises the point you are making. English = what is more, moreover."
+  ],
+  "verbLexeme": [
+    "1. To be a greater amount or number of something than before. English = (be) more."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "more.1",
+  "oldEntry": ""
 }

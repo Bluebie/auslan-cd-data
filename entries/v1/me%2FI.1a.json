@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "me/I.1a",
-  "oldentry": "Popular explanation: culturally shared gesture signifying oneself.",
   "english": [
     "me",
     "I"
@@ -27,15 +23,11 @@
     "Used to refer to the signer by the signer. The sign is usually used immediately next to a verb and can mean the signer does the action or undergoes the action (i.e, another referent does the action, not the signer) depending on a number of factors.",
     "These include the type of verb the sign is next to and number of other referents in the sentence. English = I, me."
   ],
-  "verblex": [],
   "cf": [
     "chest",
     "you",
     "we.us.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 671,
   "recordNumber": 391,
   "signVisualComposition": "",
@@ -44,5 +36,13 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "me/I.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture signifying oneself."
 }

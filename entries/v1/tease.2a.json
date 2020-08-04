@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "TEASE + JOKE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tease.2a",
-  "oldentry": "",
   "english": [
     "teasing",
     "ridicule",
@@ -27,16 +23,8 @@
     "ridicule"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To deliberately embarrass someone, trick them, or make fun of them, because this amuses you. English = tease, ridicule."
-  ],
   "cf": [
     "joke.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of deliberately embarrassing someone, tricking them, or making fun of them, because this amuses you. English = teasing, ridicule."
   ],
   "signNumber": 5546,
   "recordNumber": 3282,
@@ -48,5 +36,17 @@
   "antonyms": [],
   "synonyms": [
     "tease.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To deliberately embarrass someone, trick them, or make fun of them, because this amuses you. English = tease, ridicule."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of deliberately embarrassing someone, tricking them, or making fun of them, because this amuses you. English = teasing, ridicule."
+  ],
+  "idGloss": "tease.2a",
+  "oldEntry": ""
 }

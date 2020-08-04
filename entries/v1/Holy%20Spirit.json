@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Holy Spirit",
-  "oldentry": "Popular explanation: the radiance of the Holy Spirit.",
   "english": [
     "Holy Spirit"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In the Christian religion, one of the three aspects of God, together with God the Father and God the Son. English = Holy Spirit."
-  ],
   "signNumber": 6,
   "recordNumber": 5,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In the Christian religion, one of the three aspects of God, together with God the Father and God the Son. English = Holy Spirit."
+  ],
+  "idGloss": "Holy Spirit",
+  "oldEntry": "Popular explanation: the radiance of the Holy Spirit."
 }

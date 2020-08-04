@@ -15,27 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "alone",
-  "oldentry": "",
   "english": [
     "loneliness",
     "alone",
     "lonely"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be without other people; to be unhappy because you are without other people or without friends. English = (be) alone; (be) lonely, (be) all alone, (be) by oneself."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb sign to mean the action was performed by one person alone, without any help or companionship. English = all alone, by oneself."
-  ],
-  "nomlex": [
-    "1. The unhappiness people often feel when they are alone and without friends or family. English = loneliness."
-  ],
   "signNumber": 691,
   "recordNumber": 398,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
     "lonely.1",
     "lonely.2",
     "single.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb sign to mean the action was performed by one person alone, without any help or companionship. English = all alone, by oneself."
+  ],
+  "verbLexeme": [
+    "1. To be without other people; to be unhappy because you are without other people or without friends. English = (be) alone; (be) lonely, (be) all alone, (be) by oneself."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The unhappiness people often feel when they are alone and without friends or family. English = loneliness."
+  ],
+  "idGloss": "alone",
+  "oldEntry": ""
 }

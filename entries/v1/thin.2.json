@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "An object which has a small distance between its two opposite surfaces and which is usually long and upright or vertical, or any thing or any action directly or indirectly associated with this, especially a very thin person.",
-  "questlex": [],
-  "idgloss": "thin.2",
-  "oldentry": "",
   "english": [
     "thin",
     "skinny",
@@ -32,17 +28,9 @@
     "narrow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or an animal, to have very little fat on its body. English = (be) thin, (be) skinny, (be) lean.",
-    "2. [With cheeks sucked in], to be very thin. English = (be) gaunt.",
-    "3. Of anything, to have a small distance between its two opposite surfaces. English = (be) thin, (be) narrow."
-  ],
   "cf": [
     "straw.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5475,
   "recordNumber": 3251,
   "signVisualComposition": "",
@@ -55,5 +43,17 @@
     "skinny",
     "emaciated.2",
     "thin.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or an animal, to have very little fat on its body. English = (be) thin, (be) skinny, (be) lean.",
+    "2. [With cheeks sucked in], to be very thin. English = (be) gaunt.",
+    "3. Of anything, to have a small distance between its two opposite surfaces. English = (be) thin, (be) narrow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "An object which has a small distance between its two opposite surfaces and which is usually long and upright or vertical, or any thing or any action directly or indirectly associated with this, especially a very thin person.",
+  "nominalLexeme": [],
+  "idGloss": "thin.2",
+  "oldEntry": ""
 }

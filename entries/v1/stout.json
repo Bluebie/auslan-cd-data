@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stout",
-  "oldentry": "",
   "english": [
     "stout"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of beer which is darker and heavier than ales, having a colour and flavour which comes from the roasted malt used in the process of brewing the beer. English = stout."
-  ],
   "signNumber": 5983,
   "recordNumber": 3559,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of beer which is darker and heavier than ales, having a colour and flavour which comes from the roasted malt used in the process of brewing the beer. English = stout."
+  ],
+  "idGloss": "stout",
+  "oldEntry": ""
 }

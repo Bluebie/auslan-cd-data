@@ -17,24 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swimsuit",
-  "oldentry": "",
   "english": [
     "swimsuit",
     "one-piece",
     "bathing suit"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "pyjamas"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tight-fitting piece of clothing that a woman wears when she goes swimming. English = swimsuit, bathing suit, one-piece."
   ],
   "signNumber": 3911,
   "recordNumber": 2330,
@@ -48,5 +38,15 @@
     "swimming costume.1a",
     "swimming trunks",
     "bikini"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tight-fitting piece of clothing that a woman wears when she goes swimming. English = swimsuit, bathing suit, one-piece."
+  ],
+  "idGloss": "swimsuit",
+  "oldEntry": ""
 }

@@ -14,24 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horizontal",
-  "oldentry": "",
   "english": [
     "horizontal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be flat and level with the ground or the bottom of a page, rather than at an angle to them. English = (be) horizontal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line or surface which is flat and level with the ground or the bottom of a page, rather than at an angle to them; a horizontal line or surface.",
-    "2. A raised surface which is flat and level with the ground, rather than at an angle to them; a raised horizontal surface such as a stage or podium."
-  ],
   "signNumber": 4081,
   "recordNumber": 2447,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "synonyms": [
     "high.flat.surface.1a",
     "flat.surface.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be flat and level with the ground or the bottom of a page, rather than at an angle to them. English = (be) horizontal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line or surface which is flat and level with the ground or the bottom of a page, rather than at an angle to them; a horizontal line or surface.",
+    "2. A raised surface which is flat and level with the ground, rather than at an angle to them; a raised horizontal surface such as a stage or podium."
+  ],
+  "idGloss": "horizontal",
+  "oldEntry": ""
 }

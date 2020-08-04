@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "premiership",
-  "oldentry": "",
   "english": [
     "premiership"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian Rules Football, a championship competition held among a number of sports clubs, or a victory in such a competition. English = premiership."
-  ],
   "signNumber": 2700,
   "recordNumber": 1498,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "premiers"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian Rules Football, a championship competition held among a number of sports clubs, or a victory in such a competition. English = premiership."
+  ],
+  "idGloss": "premiership",
+  "oldEntry": ""
 }

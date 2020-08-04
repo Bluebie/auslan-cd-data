@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tree.1",
-  "oldentry": "Popular explanation: the outline of a tree's foliage.",
   "english": [
     "tree"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "floral.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tall plant with a hard trunk, branches, and leaves. English = tree."
   ],
   "signNumber": 2989,
   "recordNumber": 1700,
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "tree.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tall plant with a hard trunk, branches, and leaves. English = tree."
+  ],
+  "idGloss": "tree.1",
+  "oldEntry": "Popular explanation: the outline of a tree's foliage."
 }

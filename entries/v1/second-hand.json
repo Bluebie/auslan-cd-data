@@ -8,21 +8,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "second-hand",
-  "oldentry": "",
   "english": [
     "second-hand"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have been owned by someone else before and not be new. English = (be) second-hand."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1583,
   "recordNumber": 943,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have been owned by someone else before and not be new. English = (be) second-hand."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "second-hand",
+  "oldEntry": ""
 }

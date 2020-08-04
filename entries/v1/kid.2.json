@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kid.2",
-  "oldentry": "",
   "english": [
     "kid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A human being who is not yet an adult. English = child. Informal English = kid."
-  ],
   "signNumber": 6652,
   "recordNumber": 3959,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "children.1a",
     "child"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A human being who is not yet an adult. English = child. Informal English = kid."
+  ],
+  "idGloss": "kid.2",
+  "oldEntry": ""
 }

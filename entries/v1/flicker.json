@@ -12,26 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flicker",
-  "oldentry": "",
   "english": [
     "flicker",
     "digital display"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a light or a flame, to shine unsteadily, with sudden changes in strength and brightness. English = flicker.",
-    "2. Of a digital display light, to shine and glow, often changing with the time or the amount of something being displayed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small light or flame that shines unsteadily, with sudden changes in strength and brightness. English = flicker.",
-    "2. A small light or series of lights which display numerical and other information on a small screen. The numbers change often according to the time or the amount of some thing being measured. English = digital display."
-  ],
   "signNumber": 2964,
   "recordNumber": 1686,
   "signVisualComposition": "",
@@ -40,5 +26,19 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a light or a flame, to shine unsteadily, with sudden changes in strength and brightness. English = flicker.",
+    "2. Of a digital display light, to shine and glow, often changing with the time or the amount of something being displayed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small light or flame that shines unsteadily, with sudden changes in strength and brightness. English = flicker.",
+    "2. A small light or series of lights which display numerical and other information on a small screen. The numbers change often according to the time or the amount of some thing being measured. English = digital display."
+  ],
+  "idGloss": "flicker",
+  "oldEntry": ""
 }

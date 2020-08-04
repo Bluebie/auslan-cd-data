@@ -12,25 +12,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "orientating",
-  "oldentry": "",
   "english": [
     "orientating"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a sign, to belong to a class of signs in which the orientation of the sign can be changed to show the relationship between two people or things and the action of the verb. English = (be) orientating."
-  ],
   "cf": [
     "directional",
     "directional.end",
     "directional.begin"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3359.1,
   "recordNumber": 1962,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a sign, to belong to a class of signs in which the orientation of the sign can be changed to show the relationship between two people or things and the action of the verb. English = (be) orientating."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "orientating",
+  "oldEntry": ""
 }

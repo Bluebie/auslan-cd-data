@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "medicine",
-  "oldentry": "Popular explanation: mixing something with a small implement.",
   "english": [
     "medication",
     "chemist",
@@ -35,20 +31,9 @@
     "medicine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To prepare or mix medicine or chemicals."
-  ],
   "cf": [
     "ointment",
     "take.tablet.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A substance that you drink or swallow in order to cure an illness. English = medicine, medication.",
-    "2. Someone who is qualified to sell medicines prescribed by a doctor. English = chemist, pharmacist.",
-    "3. The shop in which a chemist sells medicines. English = chemist, chemist shop, pharmacy.",
-    "4. A substance that is used in a chemical process or that is made by a chemical process. English = chemical."
   ],
   "signNumber": 5028,
   "recordNumber": 3035,
@@ -58,5 +43,20 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To prepare or mix medicine or chemicals."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A substance that you drink or swallow in order to cure an illness. English = medicine, medication.",
+    "2. Someone who is qualified to sell medicines prescribed by a doctor. English = chemist, pharmacist.",
+    "3. The shop in which a chemist sells medicines. English = chemist, chemist shop, pharmacy.",
+    "4. A substance that is used in a chemical process or that is made by a chemical process. English = chemical."
+  ],
+  "idGloss": "medicine",
+  "oldEntry": "Popular explanation: mixing something with a small implement."
 }

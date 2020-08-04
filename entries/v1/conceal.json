@@ -20,30 +20,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "conceal",
-  "oldentry": "Popular explanation: pushing something aside underneath another thing.",
   "english": [
     "conceal",
     "hide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move something to one side and/or underneath something else so that it cannot be seen; to put something somewhere so that it cannot be seen or found. English = conceal, hide.",
-    "2. To move something to one side for later use or attention. English = put aside, put to one side."
-  ],
   "cf": [
     "private.1",
     "secret.1a"
-  ],
-  "interj": [
-    "1. Used alone to express your wish to keep something a secret. English = 'Keep it quiet.'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is hidden.",
-    "2. Something which is put aside to be used or attended to at a later time."
   ],
   "signNumber": 4099,
   "recordNumber": 2460,
@@ -57,5 +41,21 @@
   ],
   "synonyms": [
     "hide.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express your wish to keep something a secret. English = 'Keep it quiet.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move something to one side and/or underneath something else so that it cannot be seen; to put something somewhere so that it cannot be seen or found. English = conceal, hide.",
+    "2. To move something to one side for later use or attention. English = put aside, put to one side."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is hidden.",
+    "2. Something which is put aside to be used or attended to at a later time."
+  ],
+  "idGloss": "conceal",
+  "oldEntry": "Popular explanation: pushing something aside underneath another thing."
 }

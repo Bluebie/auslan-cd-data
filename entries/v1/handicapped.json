@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "handicapped",
-  "oldentry": "Popular explanation: a leg limping.",
   "english": [
     "handicap",
     "disability",
@@ -36,19 +32,8 @@
     "lame"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a physical or mental condition that prevents you from living a totally normal life. English = (be) handicapped, (be) disabled.",
-    "2. To have a disability which makes it difficult to move your body, especially by walking, because it is weak, injured, or affected by disease. English = (be) crippled, (be) lame."
-  ],
   "cf": [
     "limp"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A physical or mental condition which prevents you from living a totally normal life. English = handicap, disability.",
-    "2. A disability which makes it difficult to move your body, especially by walking, because your body is weak, injured, or affected by disease.",
-    "3. A person who finds it difficult to move their body, especially by walking, because they are weak, injured, or affected by disease. English = cripple."
   ],
   "signNumber": 1095,
   "recordNumber": 643,
@@ -58,5 +43,20 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a physical or mental condition that prevents you from living a totally normal life. English = (be) handicapped, (be) disabled.",
+    "2. To have a disability which makes it difficult to move your body, especially by walking, because it is weak, injured, or affected by disease. English = (be) crippled, (be) lame."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A physical or mental condition which prevents you from living a totally normal life. English = handicap, disability.",
+    "2. A disability which makes it difficult to move your body, especially by walking, because your body is weak, injured, or affected by disease.",
+    "3. A person who finds it difficult to move their body, especially by walking, because they are weak, injured, or affected by disease. English = cripple."
+  ],
+  "idGloss": "handicapped",
+  "oldEntry": "Popular explanation: a leg limping."
 }

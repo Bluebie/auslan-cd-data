@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "receive.1",
-  "oldentry": "Popular explanation: holding on to something.",
   "english": [
     "get",
     "obtain",
@@ -30,14 +26,7 @@
     "receive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For something to come into your possession by you taking it or by someone giving it or sending it to you. English = get. Formal English = obtain, procure.",
-    "2. To be given something, to get something after it has been sent to you. English = receive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2707,
   "recordNumber": 1505,
   "signVisualComposition": "",
@@ -53,5 +42,16 @@
   "synonyms": [
     "receive.2a",
     "get.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For something to come into your possession by you taking it or by someone giving it or sending it to you. English = get. Formal English = obtain, procure.",
+    "2. To be given something, to get something after it has been sent to you. English = receive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "receive.1",
+  "oldEntry": "Popular explanation: holding on to something."
 }

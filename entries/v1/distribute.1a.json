@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "distribute.1a",
-  "oldentry": "Popular explanation: action of handing over something.",
   "english": [
     "distribution",
     "release",
@@ -37,22 +33,8 @@
     "provide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause or arrange for a thing or things to go out from, or be taken from, one place and be moved or delivered to people in other places; to give something to lots of people or places. English = send out, distribute.",
-    "2. To stop holding something, such as an official document or information, and make it available for people to read or know about. English = release.",
-    "3. To make a product, such as a film, book or record, available for people to experience or buy at a formal ceremony. English = launch, release.",
-    "4. To give someone something or to make it available to them. English = provide."
-  ],
   "cf": [
     "share.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of distributing things to people. English = distribution.",
-    "2. The delivering of something to several people or organisations. English = distribution.",
-    "3. To giving of an official document or official information to the public. English = release.",
-    "4. The official time or the formal occasion on which a product, such as a film, book, or record, is made available for people to experience or buy. English = launch, release."
   ],
   "signNumber": 6206,
   "recordNumber": 3709,
@@ -64,5 +46,23 @@
   "antonyms": [],
   "synonyms": [
     "launch"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause or arrange for a thing or things to go out from, or be taken from, one place and be moved or delivered to people in other places; to give something to lots of people or places. English = send out, distribute.",
+    "2. To stop holding something, such as an official document or information, and make it available for people to read or know about. English = release.",
+    "3. To make a product, such as a film, book or record, available for people to experience or buy at a formal ceremony. English = launch, release.",
+    "4. To give someone something or to make it available to them. English = provide."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of distributing things to people. English = distribution.",
+    "2. The delivering of something to several people or organisations. English = distribution.",
+    "3. To giving of an official document or official information to the public. English = release.",
+    "4. The official time or the formal occasion on which a product, such as a film, book, or record, is made available for people to experience or buy. English = launch, release."
+  ],
+  "idGloss": "distribute.1a",
+  "oldEntry": "Popular explanation: action of handing over something."
 }

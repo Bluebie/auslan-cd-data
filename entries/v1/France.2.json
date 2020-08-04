@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "France.2",
-  "oldentry": "Popular explanation: the outline of a goatee and moustache.",
   "english": [
     "France",
     "French"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to France. English = (be) French."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in Western Europe between Germany and Spain, and across the Channel from England. English = France.",
-    "2. The language spoken in France as well as in some other countries such as Canada, Belgium and Switzerland. English = French."
-  ],
   "signNumber": 284,
   "recordNumber": 168,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to France. English = (be) French."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in Western Europe between Germany and Spain, and across the Channel from England. English = France.",
+    "2. The language spoken in France as well as in some other countries such as Canada, Belgium and Switzerland. English = French."
+  ],
+  "idGloss": "France.2",
+  "oldEntry": "Popular explanation: the outline of a goatee and moustache."
 }

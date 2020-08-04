@@ -14,22 +14,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "after.2",
-  "oldentry": "",
   "english": [
     "after"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of the first of two phrases to mean that the action in the second happens later than the action in the first. English = after.",
-    "2. Used at the beginning or end of a phrase, or immediately next to a verb, to mean that the action took place at a later time than the time of speaking or time of point of reference. English = after."
-  ],
-  "nomlex": [],
   "signNumber": 6109,
   "recordNumber": 3635,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
     "after.1",
     "pass.1a",
     "prior.to.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of the first of two phrases to mean that the action in the second happens later than the action in the first. English = after.",
+    "2. Used at the beginning or end of a phrase, or immediately next to a verb, to mean that the action took place at a later time than the time of speaking or time of point of reference. English = after."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "after.2",
+  "oldEntry": ""
 }

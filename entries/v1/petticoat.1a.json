@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "petticoat.1a",
-  "oldentry": "",
   "english": [
     "petticoat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "skirt.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing like a thin skirt, which is worn under a skirt or dress. English = petticoat."
   ],
   "signNumber": 792,
   "recordNumber": 450,
@@ -35,5 +25,15 @@
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing like a thin skirt, which is worn under a skirt or dress. English = petticoat."
+  ],
+  "idGloss": "petticoat.1a",
+  "oldEntry": ""
 }

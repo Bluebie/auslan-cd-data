@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sleepy",
-  "oldentry": "",
   "english": [
     "sleepy",
     "swoon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very tired and ready to go to sleep. English = (be) sleepy.",
-    "2. To be strongly affected by your feelings for something or someone you love or like very much. English = swoon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5462,
   "recordNumber": 3246,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "tired.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very tired and ready to go to sleep. English = (be) sleepy.",
+    "2. To be strongly affected by your feelings for something or someone you love or like very much. English = swoon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "sleepy",
+  "oldEntry": ""
 }

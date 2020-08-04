@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breastfeed",
-  "oldentry": "",
   "english": [
     "breastfeeding",
     "breastfeed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a woman, to feed a baby with the milk from her breasts, rather than from a bottle. English = breastfeed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a woman, the feeding of a baby with the milk from her breasts, rather than a bottle. English = breastfeeding."
-  ],
   "signNumber": 4436,
   "recordNumber": 2695,
   "signVisualComposition": "BREAST + FEED",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a woman, to feed a baby with the milk from her breasts, rather than from a bottle. English = breastfeed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a woman, the feeding of a baby with the milk from her breasts, rather than a bottle. English = breastfeeding."
+  ],
+  "idGloss": "breastfeed",
+  "oldEntry": ""
 }

@@ -15,25 +15,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dinner.2",
-  "oldentry": "Popular explanation: putting food in the mouth by hand.",
   "english": [
     "dinner"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat the main meal of the day; to eat dinner."
-  ],
   "cf": [
     "breakfast.1",
     "lunch.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The main meal of the day. English = dinner."
   ],
   "signNumber": 51,
   "recordNumber": 30,
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "dinner.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat the main meal of the day; to eat dinner."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The main meal of the day. English = dinner."
+  ],
+  "idGloss": "dinner.2",
+  "oldEntry": "Popular explanation: putting food in the mouth by hand."
 }

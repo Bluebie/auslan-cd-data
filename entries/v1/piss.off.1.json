@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "piss.off.1",
-  "oldentry": "",
   "english": [
     "get out",
     "walk out",
@@ -33,17 +29,7 @@
     "nick off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To leave a place, especially a room, suddenly and quickly because you do not want to be there any longer. English = get out.",
-    "2. To leave a place where you are normally obliged to stay because of responsibilities (eg work or home) without regard to the consequences or without permission. You would do this because you are angry, irritated or irresponsible.",
-    "English = walk out. Informal English = nick off, bugger off."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone to go away and leave you alone, especially if you are angry or irritated with them. An offensive sign. English = 'Get out!' Informal English = 'Bugger off!', 'Get lost!', 'Piss off!', 'Rack off!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4777,
   "recordNumber": 2888,
   "signVisualComposition": "",
@@ -54,5 +40,19 @@
   "antonyms": [],
   "synonyms": [
     "get.lost.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone to go away and leave you alone, especially if you are angry or irritated with them. An offensive sign. English = 'Get out!' Informal English = 'Bugger off!', 'Get lost!', 'Piss off!', 'Rack off!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To leave a place, especially a room, suddenly and quickly because you do not want to be there any longer. English = get out.",
+    "2. To leave a place where you are normally obliged to stay because of responsibilities (eg work or home) without regard to the consequences or without permission. You would do this because you are angry, irritated or irresponsible.",
+    "English = walk out. Informal English = nick off, bugger off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "piss.off.1",
+  "oldEntry": ""
 }

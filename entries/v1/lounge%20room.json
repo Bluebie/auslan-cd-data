@@ -15,23 +15,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lounge room",
-  "oldentry": "",
   "english": [
     "lounge",
     "lounge room"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The room in a house, hotel, or club where people sit and relax. English = lounge.",
-    "2. The room in a house where people sit and relax. English = lounge room."
-  ],
   "signNumber": 3715,
   "recordNumber": 2192,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "antonyms": [],
   "synonyms": [
     "lounge.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The room in a house, hotel, or club where people sit and relax. English = lounge.",
+    "2. The room in a house where people sit and relax. English = lounge room."
+  ],
+  "idGloss": "lounge room",
+  "oldEntry": ""
 }

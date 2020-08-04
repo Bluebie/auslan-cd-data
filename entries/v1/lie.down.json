@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lie.down",
-  "oldentry": "Popular explanation: the legs on the ground.",
   "english": [
     "lie-down",
     "nap",
@@ -36,18 +32,8 @@
     "pass out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move into a horizontal position, usually in order to rest or sleep. English = lie down, recline.",
-    "2. To be lying somewhere with your legs and arms out in a careless way. English = (be) sprawled out.",
-    "3. To be sprawled out because you are drunk. English = (be) dead drunk, (be) dead to the world, pass out."
-  ],
   "cf": [
     "toss.and.turn"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short rest in which you lie down on a bed. English = lie-down, nap, snooze."
   ],
   "signNumber": 1738,
   "recordNumber": 1043,
@@ -59,5 +45,19 @@
   "antonyms": [],
   "synonyms": [
     "rest.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move into a horizontal position, usually in order to rest or sleep. English = lie down, recline.",
+    "2. To be lying somewhere with your legs and arms out in a careless way. English = (be) sprawled out.",
+    "3. To be sprawled out because you are drunk. English = (be) dead drunk, (be) dead to the world, pass out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short rest in which you lie down on a bed. English = lie-down, nap, snooze."
+  ],
+  "idGloss": "lie.down",
+  "oldEntry": "Popular explanation: the legs on the ground."
 }

@@ -16,27 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eagle",
-  "oldentry": "Popular explanation: the beak of an eagle.",
   "english": [
     "parrot",
     "eagle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a bird with a curved beak, to peck at something."
-  ],
   "cf": [
     "witch.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bird with a curved beak.",
-    "2. A tropical bird with a curved beak and often brightly-colored feathers. It can be kept as a pet and sometimes copies what people say. English = parrot.",
-    "3. A large bird with a curved beak that lives by eating small animals and other birds. English = eagle."
   ],
   "signNumber": 1412,
   "recordNumber": 841,
@@ -48,5 +34,19 @@
   "antonyms": [],
   "synonyms": [
     "bird"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a bird with a curved beak, to peck at something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A bird with a curved beak.",
+    "2. A tropical bird with a curved beak and often brightly-colored feathers. It can be kept as a pet and sometimes copies what people say. English = parrot.",
+    "3. A large bird with a curved beak that lives by eating small animals and other birds. English = eagle."
+  ],
+  "idGloss": "eagle",
+  "oldEntry": "Popular explanation: the beak of an eagle."
 }

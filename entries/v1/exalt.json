@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "exalt",
-  "oldentry": "",
   "english": [
     "exaltation",
     "exalt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To praise someone very highly. Formal religious English = exalt."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of praising something or someone very highly. Formal religious English = exaltation."
-  ],
   "signNumber": 3849,
   "recordNumber": 2288,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To praise someone very highly. Formal religious English = exalt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of praising something or someone very highly. Formal religious English = exaltation."
+  ],
+  "idGloss": "exalt",
+  "oldEntry": ""
 }

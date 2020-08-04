@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "straight",
-  "oldentry": "Popular explanation: a straight line.",
   "english": [
     "straight",
     "straight ahead",
@@ -39,21 +35,9 @@
     "directly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or go in a path of movement which is all in one direction, without bending, curving or straying. English = (be) straight, go straight.",
-    "2. To be or go in a path of movement which is always in one direction and always in front of you. English = (be) straight ahead, go straight ahead.",
-    "3. To go from one place to another directly, without stopping, and immediately, without delay. English = go straight, (be) direct.",
-    "4. To be a person who is sexually attracted to people of the opposite sex. English = (be) heterosexual. Idiomatic English = (be) straight."
-  ],
   "cf": [
     "gay"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb (action) sign to mean the action happens without any delay. English = straight away, immediately.",
-    "2. Used immediately next to a verb to mean that action happens in the simplest and most efficient way in the least number of steps or stages and without involving other things or other people. English = directly."
-  ],
-  "nomlex": [],
   "signNumber": 3362,
   "recordNumber": 1964,
   "signVisualComposition": "",
@@ -66,5 +50,21 @@
   ],
   "synonyms": [
     "aim.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb (action) sign to mean the action happens without any delay. English = straight away, immediately.",
+    "2. Used immediately next to a verb to mean that action happens in the simplest and most efficient way in the least number of steps or stages and without involving other things or other people. English = directly."
+  ],
+  "verbLexeme": [
+    "1. To be or go in a path of movement which is all in one direction, without bending, curving or straying. English = (be) straight, go straight.",
+    "2. To be or go in a path of movement which is always in one direction and always in front of you. English = (be) straight ahead, go straight ahead.",
+    "3. To go from one place to another directly, without stopping, and immediately, without delay. English = go straight, (be) direct.",
+    "4. To be a person who is sexually attracted to people of the opposite sex. English = (be) heterosexual. Idiomatic English = (be) straight."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "straight",
+  "oldEntry": "Popular explanation: a straight line."
 }

@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "waffle-iron",
-  "oldentry": "",
   "english": [
     "waffle-iron",
     "waffle-maker"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A metal device with two hinged parts which you can open and between which you can bake a waffle, or toast a sandwich. English = waffle-iron, waffle-maker."
-  ],
   "signNumber": 6218,
   "recordNumber": 3714,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 23,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A metal device with two hinged parts which you can open and between which you can bake a waffle, or toast a sandwich. English = waffle-iron, waffle-maker."
+  ],
+  "idGloss": "waffle-iron",
+  "oldEntry": ""
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wheel",
-  "oldentry": "Popular explanation: the spokes of a wheel turning.",
   "english": [
     "wheel"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A circular object which turns round on a rod attached to its centre. It is fixed underneath things such as cars, bicycles, and trains, so that they can move along. English = wheel."
-  ],
   "signNumber": 2834,
   "recordNumber": 1594,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A circular object which turns round on a rod attached to its centre. It is fixed underneath things such as cars, bicycles, and trains, so that they can move along. English = wheel."
+  ],
+  "idGloss": "wheel",
+  "oldEntry": "Popular explanation: the spokes of a wheel turning."
 }

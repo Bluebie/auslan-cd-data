@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "terrified.2",
-  "oldentry": "Popular explanation: the knees or legs knocking together in fear.",
   "english": [
     "terror",
     "trembling",
@@ -29,19 +25,7 @@
     "nervous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or feel extremely frightened. English = (be) terrified.",
-    "2. To tremble with fear.",
-    "3. To be worried and frightened about something and show this in your behaviour. English = (be) nervous."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very great fear or something that makes you very frightened. English = terror.",
-    "2. The shaking of the body from fear. English = trembling.",
-    "3. A feeling of worry and fear about something. English = nervousness."
-  ],
   "signNumber": 1096,
   "recordNumber": 644,
   "signVisualComposition": "",
@@ -53,5 +37,21 @@
   "synonyms": [
     "terrified.1a",
     "nervous.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or feel extremely frightened. English = (be) terrified.",
+    "2. To tremble with fear.",
+    "3. To be worried and frightened about something and show this in your behaviour. English = (be) nervous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very great fear or something that makes you very frightened. English = terror.",
+    "2. The shaking of the body from fear. English = trembling.",
+    "3. A feeling of worry and fear about something. English = nervousness."
+  ],
+  "idGloss": "terrified.2",
+  "oldEntry": "Popular explanation: the knees or legs knocking together in fear."
 }

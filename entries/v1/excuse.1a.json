@@ -15,28 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "excuse.1a",
-  "oldentry": "",
   "english": [
     "excuse",
     "excuse me"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To let someone free of a duty or responsibility. English = excuse.",
-    "2. To explain why you have done something wrong in an attempt to make yourself seem less bad. English = excuse yourself, make excuses."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to indicate to your addressee that you have to suddenly break the communication with them and leave or direct your attention elsewhere to someone else. English = 'If you'll excuse me...'",
-    "2. Used alone to indicate to people that you are aware you are causing some interference to them as you squeeze past them in a crowded place or if you walk between them and the people they are talking to. English = 'Excuse me!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A reason which you give in order to explain why something has been done, has not been done, or will not be done. English = excuse."
-  ],
   "signNumber": 962,
   "recordNumber": 554,
   "signVisualComposition": "E + X",
@@ -45,5 +29,21 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to indicate to your addressee that you have to suddenly break the communication with them and leave or direct your attention elsewhere to someone else. English = 'If you'll excuse me...'",
+    "2. Used alone to indicate to people that you are aware you are causing some interference to them as you squeeze past them in a crowded place or if you walk between them and the people they are talking to. English = 'Excuse me!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To let someone free of a duty or responsibility. English = excuse.",
+    "2. To explain why you have done something wrong in an attempt to make yourself seem less bad. English = excuse yourself, make excuses."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A reason which you give in order to explain why something has been done, has not been done, or will not be done. English = excuse."
+  ],
+  "idGloss": "excuse.1a",
+  "oldEntry": ""
 }

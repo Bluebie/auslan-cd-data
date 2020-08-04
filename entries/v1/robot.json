@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "robot",
-  "oldentry": "Popular explanation: the arms moving in the stiff fashion of a robot.",
   "english": [
     "robot",
     "robotic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move like a science fiction robot. English = (be) robotic."
-  ],
   "cf": [
     "parade.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A science fiction machine, shaped like a person, which is programmed to move and perform tasks automatically. English = robot.",
-    "2. A machine which is programmed to move and perform certain tasks automatically. English = robot."
   ],
   "signNumber": 3805,
   "recordNumber": 2261,
@@ -45,5 +32,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move like a science fiction robot. English = (be) robotic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A science fiction machine, shaped like a person, which is programmed to move and perform tasks automatically. English = robot.",
+    "2. A machine which is programmed to move and perform certain tasks automatically. English = robot."
+  ],
+  "idGloss": "robot",
+  "oldEntry": "Popular explanation: the arms moving in the stiff fashion of a robot."
 }

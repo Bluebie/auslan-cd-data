@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "foam",
-  "oldentry": "",
   "english": [
     "foam",
     "froth"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, to bubble up and create foam or froth. English = foam, froth."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mass of something which goes up in a heap with an uneven swirling shape, like soap suds or foam.",
-    "2. A mass of small bubbles caused when water and air are mixed together violently, often with soap. English = foam, froth."
-  ],
   "signNumber": 3091,
   "recordNumber": 1779,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, to bubble up and create foam or froth. English = foam, froth."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mass of something which goes up in a heap with an uneven swirling shape, like soap suds or foam.",
+    "2. A mass of small bubbles caused when water and air are mixed together violently, often with soap. English = foam, froth."
+  ],
+  "idGloss": "foam",
+  "oldEntry": ""
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "advertise",
-  "oldentry": "Popular explanation: blowing a trumpet.",
   "english": [
     "advertisement",
     "publicity",
@@ -33,18 +29,8 @@
     "commercial"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people about something such as a product, an event, or a job, in newspapers, on television, or on posters in order to encourage them to buy the product. English = advertise.",
-    "2. To make a fact or event widely known to the public. English = publicise."
-  ],
   "cf": [
     "trumpet"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An announcement in a newspaper, on television, or on a poster about something such as a product, event, or job vacancy. English = advertisement, commercial.",
-    "2. Information or actions intended to attract the public's attention to someone or something. English = publicity."
   ],
   "signNumber": 5731,
   "recordNumber": 3395,
@@ -57,5 +43,19 @@
   "synonyms": [
     "advertisement.1",
     "advertisement.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people about something such as a product, an event, or a job, in newspapers, on television, or on posters in order to encourage them to buy the product. English = advertise.",
+    "2. To make a fact or event widely known to the public. English = publicise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An announcement in a newspaper, on television, or on a poster about something such as a product, event, or job vacancy. English = advertisement, commercial.",
+    "2. Information or actions intended to attract the public's attention to someone or something. English = publicity."
+  ],
+  "idGloss": "advertise",
+  "oldEntry": "Popular explanation: blowing a trumpet."
 }

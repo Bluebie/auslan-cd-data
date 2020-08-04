@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pumpkin.1a",
-  "oldentry": "Popular explanation: a ribbed sphere.",
   "english": [
     "pumpkin"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, round, orange-coloured vegetable with a thick skin. English = pumpkin."
-  ],
   "signNumber": 3019,
   "recordNumber": 1726,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, round, orange-coloured vegetable with a thick skin. English = pumpkin."
+  ],
+  "idGloss": "pumpkin.1a",
+  "oldEntry": "Popular explanation: a ribbed sphere."
 }

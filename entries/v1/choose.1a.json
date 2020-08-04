@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "choose.1a",
-  "oldentry": "",
   "english": [
     "choice",
     "selection",
@@ -45,21 +41,8 @@
     "appoint"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To decide to have something from several things that are available. English = choose , select, pick, opt for.",
-    "2. To choose someone, by voting, to represent you or fulfil a position. English = elect.",
-    "3. To select someone to do a particular job. English = appoint."
-  ],
   "cf": [
     "voluntary.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The thing or things that you choose. English = choice, selection.",
-    "2. The opportunity you have to choose from several things that are available. English = choice, option.",
-    "3. The process by which a person is chosen, by voting, to represent you or fulfil a position. English = election.",
-    "4. The selection of someone to do a particular job. English = appointment."
   ],
   "signNumber": 5152,
   "recordNumber": 3105,
@@ -69,5 +52,22 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To decide to have something from several things that are available. English = choose , select, pick, opt for.",
+    "2. To choose someone, by voting, to represent you or fulfil a position. English = elect.",
+    "3. To select someone to do a particular job. English = appoint."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thing or things that you choose. English = choice, selection.",
+    "2. The opportunity you have to choose from several things that are available. English = choice, option.",
+    "3. The process by which a person is chosen, by voting, to represent you or fulfil a position. English = election.",
+    "4. The selection of someone to do a particular job. English = appointment."
+  ],
+  "idGloss": "choose.1a",
+  "oldEntry": ""
 }

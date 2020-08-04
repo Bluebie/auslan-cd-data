@@ -8,21 +8,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suffer.fools",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To experience a situation or a person, especially a foolish person, that is unpleasant in some way, while trying to hide your feelings of irritation or pain. Idiomatic English = suffer fools, grin and bear it."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express your irritation, annoyance and exasperation, to a third person, with what someone has just said or done, usually without them seeing you do this."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6555,
   "recordNumber": 3906,
   "signVisualComposition": "",
@@ -31,5 +19,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to express your irritation, annoyance and exasperation, to a third person, with what someone has just said or done, usually without them seeing you do this."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To experience a situation or a person, especially a foolish person, that is unpleasant in some way, while trying to hide your feelings of irritation or pain. Idiomatic English = suffer fools, grin and bear it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "suffer.fools",
+  "oldEntry": ""
 }

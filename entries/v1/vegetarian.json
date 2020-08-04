@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vegetarian",
-  "oldentry": "",
   "english": [
     "vegetarian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a person who does not eat meat or fish. English = (be) vegetarian."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who does not eat meat or fish. English = vegetarian."
-  ],
   "signNumber": 1560,
   "recordNumber": 931,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a person who does not eat meat or fish. English = (be) vegetarian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who does not eat meat or fish. English = vegetarian."
+  ],
+  "idGloss": "vegetarian",
+  "oldEntry": ""
 }

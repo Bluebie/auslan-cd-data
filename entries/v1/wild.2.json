@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wild.2",
-  "oldentry": "",
   "english": [
     "wild",
     "wacky"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people, to behave in a very uncontrolled, excited, or energetic way. English = (be) wild.",
-    "2. Of an idea or a scheme, to be unusual and rather silly. English = (be) wild. Informal English = (be) wacky."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2233,
   "recordNumber": 1270,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people, to behave in a very uncontrolled, excited, or energetic way. English = (be) wild.",
+    "2. Of an idea or a scheme, to be unusual and rather silly. English = (be) wild. Informal English = (be) wacky."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "wild.2",
+  "oldEntry": ""
 }

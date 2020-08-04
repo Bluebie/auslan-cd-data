@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cloudy.1",
-  "oldentry": "",
   "english": [
     "cloud",
     "cloudy",
@@ -30,17 +26,7 @@
     "dull"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have lots of clouds in the sky. English = (be) cloudy.",
-    "2. To have lots of clouds in the sky and for the light to be poor. English = (be) overcast, (be) dull."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mass of water vapour that floats in the sky. It is usually white or grey and rain often falls from it. English = cloud, clouds.",
-    "2. A day in which there are lots of clouds in the sky and the light is poor; an overcast day; a dull day."
-  ],
   "signNumber": 2578,
   "recordNumber": 1422,
   "signVisualComposition": "",
@@ -54,5 +40,19 @@
   "synonyms": [
     "dull",
     "cloudy.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have lots of clouds in the sky. English = (be) cloudy.",
+    "2. To have lots of clouds in the sky and for the light to be poor. English = (be) overcast, (be) dull."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mass of water vapour that floats in the sky. It is usually white or grey and rain often falls from it. English = cloud, clouds.",
+    "2. A day in which there are lots of clouds in the sky and the light is poor; an overcast day; a dull day."
+  ],
+  "idGloss": "cloudy.1",
+  "oldEntry": ""
 }

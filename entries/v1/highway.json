@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "highway",
-  "oldentry": "",
   "english": [
     "highway",
     "expressway",
@@ -31,16 +27,9 @@
     "tollway"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "road",
     "street.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large road that connects towns or cities; or a main road that carries a lot of traffic. English = highway.",
-    "2. A road with several lanes and controlled places where vehicles join it, so that people can travel quickly. English = expressway, freeway, motorway, tollway."
   ],
   "signNumber": 2013,
   "recordNumber": 1181,
@@ -50,5 +39,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large road that connects towns or cities; or a main road that carries a lot of traffic. English = highway.",
+    "2. A road with several lanes and controlled places where vehicles join it, so that people can travel quickly. English = expressway, freeway, motorway, tollway."
+  ],
+  "idGloss": "highway",
+  "oldEntry": ""
 }

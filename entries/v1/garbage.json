@@ -12,23 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "garbage",
-  "oldentry": "Popular explanation: the snout of a pig.",
   "english": [
     "rubbish",
     "garbage"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Unwanted things or waste material. English = rubbish.",
-    "2. Rubbish, especially waste from a kitchen. English = garbage."
-  ],
   "signNumber": 5574,
   "recordNumber": 3299,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "rubbish"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Unwanted things or waste material. English = rubbish.",
+    "2. Rubbish, especially waste from a kitchen. English = garbage."
+  ],
+  "idGloss": "garbage",
+  "oldEntry": "Popular explanation: the snout of a pig."
 }

@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "speechless.2",
-  "oldentry": "Popular explanation: the jaw dropping open.",
   "english": [
     "surprise",
     "amazement",
@@ -37,18 +33,8 @@
     "dumbfounded"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very surprised about something. People often open their mouth wide when they feel this way. English = (be) open-mouthed, (be) agape, (be) flabbergasted.",
-    "2. To be open-mouthed and unable to speak because you are so surprised. English = (be) speechless, (be) dumbfounded."
-  ],
   "cf": [
     "nag"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being very surprised about something, especially when this is shown by opening your mouth wide. English = surprise, amazement.",
-    "2. The feeling of being so surpassed about something that you don't know what to say or do."
   ],
   "signNumber": 3055,
   "recordNumber": 1753,
@@ -61,5 +47,19 @@
   "synonyms": [
     "flabbergasted.1a",
     "speechless.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very surprised about something. People often open their mouth wide when they feel this way. English = (be) open-mouthed, (be) agape, (be) flabbergasted.",
+    "2. To be open-mouthed and unable to speak because you are so surprised. English = (be) speechless, (be) dumbfounded."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being very surprised about something, especially when this is shown by opening your mouth wide. English = surprise, amazement.",
+    "2. The feeling of being so surpassed about something that you don't know what to say or do."
+  ],
+  "idGloss": "speechless.2",
+  "oldEntry": "Popular explanation: the jaw dropping open."
 }

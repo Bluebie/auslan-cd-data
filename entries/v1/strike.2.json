@@ -12,23 +12,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strike.2",
-  "oldentry": "",
   "english": [
     "strike"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In ten-pin bowling, to score a strike."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In ten-pin bowling, a turn at bowing in which the bowler manages to knock over all of the pins in a single hit. English = strike."
-  ],
   "signNumber": 898,
   "recordNumber": 515,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In ten-pin bowling, to score a strike."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In ten-pin bowling, a turn at bowing in which the bowler manages to knock over all of the pins in a single hit. English = strike."
+  ],
+  "idGloss": "strike.2",
+  "oldEntry": ""
 }

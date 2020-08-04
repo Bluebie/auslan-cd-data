@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "decide.2",
-  "oldentry": "Popular explanation: balancing the scales.",
   "english": [
     "decision",
     "decision making",
@@ -32,17 +28,7 @@
     "weigh up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To choose to do something, usually after you have thought carefully about the other possibilities. English = decide.",
-    "2. To consider a number of different possibilities and their importance in relation to each other in order to help you make a decision. Idiomatic English = weigh up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A choice that you make about what should be done or about which is the best of various alternatives. English = decision.",
-    "2. The act of deciding something. English = decision, decision making."
-  ],
   "signNumber": 399,
   "recordNumber": 218,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   "synonyms": [
     "decide.1a",
     "resolve.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To choose to do something, usually after you have thought carefully about the other possibilities. English = decide.",
+    "2. To consider a number of different possibilities and their importance in relation to each other in order to help you make a decision. Idiomatic English = weigh up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A choice that you make about what should be done or about which is the best of various alternatives. English = decision.",
+    "2. The act of deciding something. English = decision, decision making."
+  ],
+  "idGloss": "decide.2",
+  "oldEntry": "Popular explanation: balancing the scales."
 }

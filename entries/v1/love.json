@@ -19,28 +19,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "love",
-  "oldentry": "Popular explanation: act of embracing.",
   "english": [
     "love"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel romantically or sexually attracted to someone who is very important to you. English = love.",
-    "2. To want happiness for someone who is very important to you and to behave in a kind and caring way towards them. English = love.",
-    "3. To feel that something is important and want to protect it. English = love."
-  ],
   "cf": [
     "I.love.you"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very strong feeling of affection towards someone who you are romantically or sexually attracted to. English = love.",
-    "2. The feeling that a person's happiness is very important to you, and the way you show this feeling in your behaviour towards them. English = love.",
-    "3. A strong liking for something or enjoyment of it. English = love."
   ],
   "signNumber": 3713,
   "recordNumber": 2190,
@@ -55,5 +39,21 @@
   ],
   "synonyms": [
     "lover"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel romantically or sexually attracted to someone who is very important to you. English = love.",
+    "2. To want happiness for someone who is very important to you and to behave in a kind and caring way towards them. English = love.",
+    "3. To feel that something is important and want to protect it. English = love."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very strong feeling of affection towards someone who you are romantically or sexually attracted to. English = love.",
+    "2. The feeling that a person's happiness is very important to you, and the way you show this feeling in your behaviour towards them. English = love.",
+    "3. A strong liking for something or enjoyment of it. English = love."
+  ],
+  "idGloss": "love",
+  "oldEntry": "Popular explanation: act of embracing."
 }

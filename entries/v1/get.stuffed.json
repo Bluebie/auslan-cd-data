@@ -12,24 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "A vulgar, crude and insulting sign.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "get.stuffed",
-  "oldentry": "Popular explanation: culturally shared obscene gesture.",
   "english": [
     "get stuffed"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "get.lost.2"
   ],
-  "interj": [
-    "1. Used alone to mean that you are angry with someone with something they have said or done. This sign is impolite and offensive. English = 'Get stuffed!', 'Stuff you!', 'Get fucked!'",
-    "2. Used alone to mean that you are angry with yourself for making a mistake or doing something stupid, or at something irritating that has happened. This sign is impolite and offensive. English = 'Oh, fuck!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6526,
   "recordNumber": 3883,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you are angry with someone with something they have said or done. This sign is impolite and offensive. English = 'Get stuffed!', 'Stuff you!', 'Get fucked!'",
+    "2. Used alone to mean that you are angry with yourself for making a mistake or doing something stupid, or at something irritating that has happened. This sign is impolite and offensive. English = 'Oh, fuck!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "get.stuffed",
+  "oldEntry": "Popular explanation: culturally shared obscene gesture."
 }

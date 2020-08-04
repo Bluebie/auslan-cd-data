@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "single.1a",
-  "oldentry": "",
   "english": [
     "individual",
     "self",
@@ -47,25 +43,9 @@
     "individually"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be only one and not more; to be on its own and separate from other things. English = (be) single, (be) lone, (be) alone, (be) unaccompanied.",
-    "2. To relate to one single or particular person or to each person separately, rather than to a large group. English = (be) individual.",
-    "3. To be not married. English = (be) single."
-  ],
   "cf": [
     "lonely.1",
     "lonely.2"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb sign to mean the action is done on its own and separately from other actions. English = singly, only, alone, by itself.",
-    "2. Used next to a verb sign to mean the action is done by only one person separately from other people and without any help. English = by oneself, alone, individually.",
-    "3. Used to introduce a sentence to mean that what follows is an expression of one's own opinion, not necessarily any one else's. English = personally, as for me, as far as I'm concerned, in my opinion, and so on."
-  ],
-  "nomlex": [
-    "1. A person considered separately from everyone else; or a person's basic personality and nature. English = individual; self.",
-    "2. A person who likes to do things in their own way; a person who likes to be alone. English = individualist; loner.",
-    "3. A person who is not married, a single person."
   ],
   "signNumber": 687,
   "recordNumber": 397,
@@ -77,5 +57,25 @@
   "antonyms": [],
   "synonyms": [
     "individually"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb sign to mean the action is done on its own and separately from other actions. English = singly, only, alone, by itself.",
+    "2. Used next to a verb sign to mean the action is done by only one person separately from other people and without any help. English = by oneself, alone, individually.",
+    "3. Used to introduce a sentence to mean that what follows is an expression of one's own opinion, not necessarily any one else's. English = personally, as for me, as far as I'm concerned, in my opinion, and so on."
+  ],
+  "verbLexeme": [
+    "1. To be only one and not more; to be on its own and separate from other things. English = (be) single, (be) lone, (be) alone, (be) unaccompanied.",
+    "2. To relate to one single or particular person or to each person separately, rather than to a large group. English = (be) individual.",
+    "3. To be not married. English = (be) single."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person considered separately from everyone else; or a person's basic personality and nature. English = individual; self.",
+    "2. A person who likes to do things in their own way; a person who likes to be alone. English = individualist; loner.",
+    "3. A person who is not married, a single person."
+  ],
+  "idGloss": "single.1a",
+  "oldEntry": ""
 }

@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rabbit.1a",
-  "oldentry": "Popular explanation: a rabbit's ear.",
   "english": [
     "rabbit",
     "bunny",
@@ -27,14 +23,7 @@
     "hare"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small furry animal with long ears. It lives in holes in the ground. English = rabbit. Informal English (especially for small children) = bunny, bunny rabbit.",
-    "2. An animal like a large rabbit with long ears, long legs, and a small tail. English = hare."
-  ],
   "signNumber": 1879,
   "recordNumber": 1124,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   "antonyms": [],
   "synonyms": [
     "bunny"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small furry animal with long ears. It lives in holes in the ground. English = rabbit. Informal English (especially for small children) = bunny, bunny rabbit.",
+    "2. An animal like a large rabbit with long ears, long legs, and a small tail. English = hare."
+  ],
+  "idGloss": "rabbit.1a",
+  "oldEntry": "Popular explanation: a rabbit's ear."
 }

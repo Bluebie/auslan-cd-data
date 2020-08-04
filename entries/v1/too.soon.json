@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "BRIEF + FINISH",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "too.soon",
-  "oldentry": "",
   "english": [
     "soon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action finishes earlier than you want or expect. English = too soon, after only a short time."
-  ],
-  "nomlex": [],
   "signNumber": 6370,
   "recordNumber": 3807,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [
     "slow.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action finishes earlier than you want or expect. English = too soon, after only a short time."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "too.soon",
+  "oldEntry": ""
 }

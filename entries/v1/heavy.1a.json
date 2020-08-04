@@ -20,27 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heavy.1a",
-  "oldentry": "Popular explanation: holding a heavy object.",
   "english": [
     "weight",
     "heaviness",
     "heavy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To weigh a lot. English = (be) heavy.",
-    "2. To be of a great amount, degree, or intensity. English = (be) heavy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The amount that something weighs. English = weight.",
-    "2. The degree to which something is heavy. English = heaviness."
-  ],
   "signNumber": 2788,
   "recordNumber": 1562,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   ],
   "synonyms": [
     "weigh.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To weigh a lot. English = (be) heavy.",
+    "2. To be of a great amount, degree, or intensity. English = (be) heavy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The amount that something weighs. English = weight.",
+    "2. The degree to which something is heavy. English = heaviness."
+  ],
+  "idGloss": "heavy.1a",
+  "oldEntry": "Popular explanation: holding a heavy object."
 }

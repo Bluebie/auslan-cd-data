@@ -10,10 +10,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yous",
-  "oldentry": "",
   "english": [
     "you"
   ],
@@ -21,11 +17,7 @@
     "Used to refer to people the signer is talking to. The sign is usually used immediately next to a verb and can mean the people do the action or undergo the action (i.e, another referent does the action, not the people)",
     "depending on a number of factors, such as the type of verb the sign is next to and the number of other referents in the sentence. English = you. Informal English = yous, you-all."
   ],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 760,
   "recordNumber": 438,
   "signVisualComposition": "",
@@ -36,5 +28,13 @@
   "antonyms": [],
   "synonyms": [
     "all.of.yous.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "yous",
+  "oldEntry": ""
 }

@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hierarchy",
-  "oldentry": "",
   "english": [
     "hierarchy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A system in which people have different ranks or positions depending on how important they are. English = hierarchy."
-  ],
   "signNumber": 3663,
   "recordNumber": 2158,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A system in which people have different ranks or positions depending on how important they are. English = hierarchy."
+  ],
+  "idGloss": "hierarchy",
+  "oldEntry": ""
 }

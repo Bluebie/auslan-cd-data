@@ -24,12 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [
-    "1. Used at the beginning of a sentence to ask a question about the number of things involved in something. English = how many."
-  ],
-  "idgloss": "number.1a",
-  "oldentry": "",
   "english": [
     "quantity",
     "number",
@@ -39,20 +33,10 @@
     "many"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a number or quantity of things which is more than just one or two but also not a very large number. English = (be) several, (be) many. Idiomatic English = (be) a number of."
-  ],
   "cf": [
     "when",
     "how.old",
     "how.much.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An amount of something that you can measure or count. English = quantity, number.",
-    "2. Any of the signs such as 'two', 'nine' or 'eleven', or the symbols such as 1, 2, or 47. You use them to say how many things you are referring to or where something comes in a series. English = number.",
-    "3. A number a teacher or examiner gives your work to indicate how good or bad your work is. English = mark."
   ],
   "signNumber": 2496,
   "recordNumber": 1384,
@@ -66,5 +50,21 @@
   ],
   "synonyms": [
     "number.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a number or quantity of things which is more than just one or two but also not a very large number. English = (be) several, (be) many. Idiomatic English = (be) a number of."
+  ],
+  "questionLexeme": [
+    "1. Used at the beginning of a sentence to ask a question about the number of things involved in something. English = how many."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An amount of something that you can measure or count. English = quantity, number.",
+    "2. Any of the signs such as 'two', 'nine' or 'eleven', or the symbols such as 1, 2, or 47. You use them to say how many things you are referring to or where something comes in a series. English = number.",
+    "3. A number a teacher or examiner gives your work to indicate how good or bad your work is. English = mark."
+  ],
+  "idGloss": "number.1a",
+  "oldEntry": ""
 }

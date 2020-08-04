@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "toilet.1",
-  "oldentry": "",
   "english": [
     "toilet",
     "lavatory",
     "loo"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go to the toilet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large bowl with a seat which you use when you want to get rid of urine or faeces from your body. English = toilet.",
-    "2. A small room containing a toilet. English = toilet, lavatory. Informal English = loo."
-  ],
   "signNumber": 3483,
   "recordNumber": 2035,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
     "toilet.2",
     "toilet.3",
     "water.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go to the toilet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large bowl with a seat which you use when you want to get rid of urine or faeces from your body. English = toilet.",
+    "2. A small room containing a toilet. English = toilet, lavatory. Informal English = loo."
+  ],
+  "idGloss": "toilet.1",
+  "oldEntry": ""
 }

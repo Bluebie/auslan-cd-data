@@ -11,23 +11,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unimportant",
-  "oldentry": "",
   "english": [
     "minor",
     "unimportant",
     "insignificant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that is not as important, serious, or significant as other things. English = (be) minor, (be) unimportant, (be) insignificant."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5571,
   "recordNumber": 3296,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something that is not as important, serious, or significant as other things. English = (be) minor, (be) unimportant, (be) insignificant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unimportant",
+  "oldEntry": ""
 }

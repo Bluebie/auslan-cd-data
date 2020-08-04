@@ -16,10 +16,6 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "collect.2",
-  "oldentry": "",
   "english": [
     "fetch",
     "collect",
@@ -27,17 +23,7 @@
     "lump sum"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go and get something or someone and bring them to where you are. English = fetch, collect.",
-    "2. To pay money to use something for a period of time. English = hire."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A substantial sum of money that you get, receive or collect at one time, such as a superannuation payout, a redundancy package, or an inheritance.",
-    "2. An amount of money that is paid as a large amount on a single occasion rather than as smaller amounts on several separate occasions. English = lump sum."
-  ],
   "signNumber": 2769,
   "recordNumber": 1550,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go and get something or someone and bring them to where you are. English = fetch, collect.",
+    "2. To pay money to use something for a period of time. English = hire."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A substantial sum of money that you get, receive or collect at one time, such as a superannuation payout, a redundancy package, or an inheritance.",
+    "2. An amount of money that is paid as a large amount on a single occasion rather than as smaller amounts on several separate occasions. English = lump sum."
+  ],
+  "idGloss": "collect.2",
+  "oldEntry": ""
 }

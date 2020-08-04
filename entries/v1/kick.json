@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kick",
-  "oldentry": "",
   "english": [
     "kick"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hit something with your foot. English = kick."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of hitting something with your foot. English = kick."
-  ],
   "signNumber": 4212,
   "recordNumber": 2548,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "football.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hit something with your foot. English = kick."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of hitting something with your foot. English = kick."
+  ],
+  "idGloss": "kick",
+  "oldEntry": ""
 }

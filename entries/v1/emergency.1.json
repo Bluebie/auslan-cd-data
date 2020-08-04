@@ -14,23 +14,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emergency.1",
-  "oldentry": "",
   "english": [
     "emergency"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For something bad or serious to happen suddenly in a way which is dangerous and must be dealt with immediately; to be an emergency."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
-  ],
   "signNumber": 5002,
   "recordNumber": 3016,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
     "emergency.3",
     "emergency.2",
     "emergency.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For something bad or serious to happen suddenly in a way which is dangerous and must be dealt with immediately; to be an emergency."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
+  ],
+  "idGloss": "emergency.1",
+  "oldEntry": ""
 }

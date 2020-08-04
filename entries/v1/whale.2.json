@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Anything shooting up from a surface, such as light, sound or a liquid, or any thing or any action directly or indirectly associated with this, especially a whale.",
-  "questlex": [],
-  "idgloss": "whale.2",
-  "oldentry": "Popular explanation: the whale spurting above the water level.",
   "english": [
     "whale"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
-  ],
   "signNumber": 212,
   "recordNumber": 122,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "whale.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Anything shooting up from a surface, such as light, sound or a liquid, or any thing or any action directly or indirectly associated with this, especially a whale.",
+  "nominalLexeme": [
+    "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
+  ],
+  "idGloss": "whale.2",
+  "oldEntry": "Popular explanation: the whale spurting above the water level."
 }

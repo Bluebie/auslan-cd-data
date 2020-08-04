@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "scarf",
-  "oldentry": "Popular explanation: throwing a scarf over your shoulder.",
   "english": [
     "scarf"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or wear a piece of cloth around your neck or head, usually to keep yourself warm."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of cloth you wear round your neck or head, usually to keep yourself warm. English = scarf."
-  ],
   "signNumber": 3322,
   "recordNumber": 1943,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "head-scarf"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or wear a piece of cloth around your neck or head, usually to keep yourself warm."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of cloth you wear round your neck or head, usually to keep yourself warm. English = scarf."
+  ],
+  "idGloss": "scarf",
+  "oldEntry": "Popular explanation: throwing a scarf over your shoulder."
 }

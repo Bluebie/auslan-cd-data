@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Of two people, for one person to suddenly change direction and to move away from the other person, or any action or any thing directly or indirectly associated with this, especially avoid.",
-  "questlex": [],
-  "idgloss": "avoid.3a",
-  "oldentry": "",
   "english": [
     "avoidance",
     "avoid",
@@ -33,17 +29,7 @@
     "duck"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep away from someone so that you do not meet them. English = avoid.",
-    "2. To move suddenly so as to change direction and avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something. English = dodge, evade, duck."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of keeping away from someone so that you do not meet them. English = avoidance.",
-    "2. A quick movement or a sudden change in direction so as to avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something."
-  ],
   "signNumber": 918,
   "recordNumber": 523,
   "signVisualComposition": "",
@@ -59,5 +45,19 @@
     "avoid.1a",
     "avoid.2",
     "duck.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep away from someone so that you do not meet them. English = avoid.",
+    "2. To move suddenly so as to change direction and avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something. English = dodge, evade, duck."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Of two people, for one person to suddenly change direction and to move away from the other person, or any action or any thing directly or indirectly associated with this, especially avoid.",
+  "nominalLexeme": [
+    "1. The act of keeping away from someone so that you do not meet them. English = avoidance.",
+    "2. A quick movement or a sudden change in direction so as to avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something."
+  ],
+  "idGloss": "avoid.3a",
+  "oldEntry": ""
 }

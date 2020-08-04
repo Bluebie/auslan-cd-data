@@ -20,30 +20,13 @@
   "sense": "",
   "blend": "LOOK/SEE + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fair",
-  "oldentry": "",
   "english": [
     "fair",
     "acceptable",
     "average"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To appear to be reasonable, correct or just considering the circumstances or evidence. English = (be) fair.",
-    "2. To be neither very good or very bad and to be suitable or normal for the occasion. English = (be) acceptable, (be) average.",
-    "3. To look like or appear to be. English = seem."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to introduce a judgement which is contrary to a previously expressed one and which you hope helps to balance the general picture. English = 'To be fair...'",
-    "2. Used to introduce a sentence to mean you think that what follows is true but you are not completely sure. English = Apparently..., Seemingly...,"
-  ],
-  "nomlex": [
-    "1. Something which is fair or reasonable."
-  ],
   "signNumber": 5088,
   "recordNumber": 3071,
   "signVisualComposition": "",
@@ -55,5 +38,22 @@
   "synonyms": [
     "seem.1",
     "face.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to introduce a judgement which is contrary to a previously expressed one and which you hope helps to balance the general picture. English = 'To be fair...'",
+    "2. Used to introduce a sentence to mean you think that what follows is true but you are not completely sure. English = Apparently..., Seemingly...,"
+  ],
+  "verbLexeme": [
+    "1. To appear to be reasonable, correct or just considering the circumstances or evidence. English = (be) fair.",
+    "2. To be neither very good or very bad and to be suitable or normal for the occasion. English = (be) acceptable, (be) average.",
+    "3. To look like or appear to be. English = seem."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is fair or reasonable."
+  ],
+  "idGloss": "fair",
+  "oldEntry": ""
 }

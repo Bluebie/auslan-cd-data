@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gentle.1a",
-  "oldentry": "Popular explanation: gently stroking.",
   "english": [
     "kindness",
     "gentleness",
@@ -30,18 +26,8 @@
     "gentle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be caring and helpful. English = (be) kind.",
-    "2. To be kind, mild, and pleasantly calm. English = (be) gentle."
-  ],
   "cf": [
     "stroke.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being caring and helpful. English = kindness.",
-    "2. The quality of being kind, mild, and pleasantly calm. English = gentleness."
   ],
   "signNumber": 3354,
   "recordNumber": 1957,
@@ -53,5 +39,19 @@
   "antonyms": [],
   "synonyms": [
     "kind.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be caring and helpful. English = (be) kind.",
+    "2. To be kind, mild, and pleasantly calm. English = (be) gentle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being caring and helpful. English = kindness.",
+    "2. The quality of being kind, mild, and pleasantly calm. English = gentleness."
+  ],
+  "idGloss": "gentle.1a",
+  "oldEntry": "Popular explanation: gently stroking."
 }

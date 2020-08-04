@@ -34,10 +34,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "increase.1a",
-  "oldentry": "",
   "english": [
     "increase",
     "rise",
@@ -52,23 +48,9 @@
     "appreciate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become larger in terms of the number, level, or amount of something. English = increase.",
-    "2. To move something so that it is in a higher position; to be in a higher position. English = raise, elevate; (be) raised, (be) elevated.",
-    "3. Of money put aside in a bank or building society, to grow or become larger; to increase savings; to accumulate money.",
-    "4. To grow in value over time. English = appreciate."
-  ],
   "cf": [
     "save",
     "extend"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rise in the number, level, or amount of something. English = increase.",
-    "2. An increase in the height of something; or an increase in your wages or salary.  English = rise; raise.",
-    "3. Money you have put aside (usually in a bank or a building society) for another time when you may need it, or an increase in that money. English = savings.",
-    "4. The growth in value of something over time. English = appreciation."
   ],
   "signNumber": 4226,
   "recordNumber": 2557,
@@ -85,5 +67,23 @@
   "synonyms": [
     "savings",
     "stash"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become larger in terms of the number, level, or amount of something. English = increase.",
+    "2. To move something so that it is in a higher position; to be in a higher position. English = raise, elevate; (be) raised, (be) elevated.",
+    "3. Of money put aside in a bank or building society, to grow or become larger; to increase savings; to accumulate money.",
+    "4. To grow in value over time. English = appreciate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rise in the number, level, or amount of something. English = increase.",
+    "2. An increase in the height of something; or an increase in your wages or salary.  English = rise; raise.",
+    "3. Money you have put aside (usually in a bank or a building society) for another time when you may need it, or an increase in that money. English = savings.",
+    "4. The growth in value of something over time. English = appreciation."
+  ],
+  "idGloss": "increase.1a",
+  "oldEntry": ""
 }

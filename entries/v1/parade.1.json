@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parade.1",
-  "oldentry": "Popular explanation: lots of legs, in rows, moving forward.",
   "english": [
     "march",
     "parade"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of soldiers, to walk with quick regular steps, as a group. English = march.",
-    "2. Especially of soldiers, to march together in front of important people or the public. English = parade."
-  ],
   "cf": [
     "robot"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of soldiers, the action of walking together with quick regular steps, as a group. English = march.",
-    "2. An occasion on which people, especially soldiers, march together in front of important people or the public. English = parade."
   ],
   "signNumber": 2803,
   "recordNumber": 1570,
@@ -50,5 +36,19 @@
   "synonyms": [
     "march",
     "parade.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of soldiers, to walk with quick regular steps, as a group. English = march.",
+    "2. Especially of soldiers, to march together in front of important people or the public. English = parade."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of soldiers, the action of walking together with quick regular steps, as a group. English = march.",
+    "2. An occasion on which people, especially soldiers, march together in front of important people or the public. English = parade."
+  ],
+  "idGloss": "parade.1",
+  "oldEntry": "Popular explanation: lots of legs, in rows, moving forward."
 }

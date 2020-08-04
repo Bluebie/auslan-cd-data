@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "red.1a",
-  "oldentry": "Popular explanation: the red of the lips.",
   "english": [
     "red",
     "redden"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or have the colour of blood or of a ripe tomato. English = (be) red.",
-    "2. To become the colour of blood or a ripe tomato. English = redden."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of blood or a ripe tomato. English = red."
-  ],
   "signNumber": 603,
   "recordNumber": 348,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "antonyms": [],
   "synonyms": [
     "red.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or have the colour of blood or of a ripe tomato. English = (be) red.",
+    "2. To become the colour of blood or a ripe tomato. English = redden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of blood or a ripe tomato. English = red."
+  ],
+  "idGloss": "red.1a",
+  "oldEntry": "Popular explanation: the red of the lips."
 }

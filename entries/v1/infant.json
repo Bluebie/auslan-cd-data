@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "infant",
-  "oldentry": "Popular explanation: the closed fists and stance of an infant.",
   "english": [
     "infant"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very young child or baby. English = infant."
-  ],
   "signNumber": 5768.1,
   "recordNumber": 3419,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "baby"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very young child or baby. English = infant."
+  ],
+  "idGloss": "infant",
+  "oldEntry": "Popular explanation: the closed fists and stance of an infant."
 }

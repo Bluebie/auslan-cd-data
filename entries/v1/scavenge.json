@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "scavenge",
-  "oldentry": "",
   "english": [
     "scavenge",
     "come across",
@@ -36,17 +32,7 @@
     "adopt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something yours which is not properly yours (e.g., if you accidentally find it, tell yourself it is lost or discarded, and then decide to keep it). English = appropriate, scavenge, keep. Idiomatic English = come across, pocket.",
-    "2. To take a child into your own family and to make it legally your own son or daughter. English = adopt."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of taking a child into your own family and making it legally your son or daughter. English = adoption.",
-    "2. The act of taking a child into your own family and making it legally your son or daughter. English = adoption."
-  ],
   "signNumber": 862,
   "recordNumber": 493,
   "signVisualComposition": "QUIET + (QUICK or SHILLING)?",
@@ -58,5 +44,19 @@
   "synonyms": [
     "adopt.1",
     "adopt.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something yours which is not properly yours (e.g., if you accidentally find it, tell yourself it is lost or discarded, and then decide to keep it). English = appropriate, scavenge, keep. Idiomatic English = come across, pocket.",
+    "2. To take a child into your own family and to make it legally your own son or daughter. English = adopt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of taking a child into your own family and making it legally your son or daughter. English = adoption.",
+    "2. The act of taking a child into your own family and making it legally your son or daughter. English = adoption."
+  ],
+  "idGloss": "scavenge",
+  "oldEntry": ""
 }

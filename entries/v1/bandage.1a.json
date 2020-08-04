@@ -19,28 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bandage.1a",
-  "oldentry": "Popular explanation: wrapping a bandage around a limb.",
   "english": [
     "bandage",
     "dressing",
     "dress"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tie a long strip of cloth around a wounded part of someone's body to protect it. English = bandage.",
-    "2. To put a covering on a wound to protect it while it heals. English = dress a wound."
-  ],
   "cf": [
     "parcel"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long strip of cloth which is wrapped around a wounded part of someone's body to protect it. English = bandage.",
-    "2. A covering which is put on a wound to protect it while it heals. English = dressing."
   ],
   "signNumber": 4158,
   "recordNumber": 2509,
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "band-aid"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tie a long strip of cloth around a wounded part of someone's body to protect it. English = bandage.",
+    "2. To put a covering on a wound to protect it while it heals. English = dress a wound."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long strip of cloth which is wrapped around a wounded part of someone's body to protect it. English = bandage.",
+    "2. A covering which is put on a wound to protect it while it heals. English = dressing."
+  ],
+  "idGloss": "bandage.1a",
+  "oldEntry": "Popular explanation: wrapping a bandage around a limb."
 }

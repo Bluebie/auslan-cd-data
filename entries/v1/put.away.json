@@ -14,26 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "put.away",
-  "oldentry": "Popular explanation: taking things from a central point and putting them away.",
   "english": [
     "put away",
     "pack up",
     "arrange"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a number of things into the place where they are normally kept, for example in a cupboard or drawer. English = put away, pack up.",
-    "2. To put a number of things, such as work materials on a desk, into particular positions, usually in order to make them look attractive or tidy. English = arrange."
-  ],
   "cf": [
     "place.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 183,
   "recordNumber": 103,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a number of things into the place where they are normally kept, for example in a cupboard or drawer. English = put away, pack up.",
+    "2. To put a number of things, such as work materials on a desk, into particular positions, usually in order to make them look attractive or tidy. English = arrange."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "put.away",
+  "oldEntry": "Popular explanation: taking things from a central point and putting them away."
 }

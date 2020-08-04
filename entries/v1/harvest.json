@@ -10,24 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of moving a flat object sideways close to the ground, such as the blade of a machete or scythe at the base of plants, or any thing or any action directly or indirectly associated with this, especially harvesting.",
-  "questlex": [],
-  "idgloss": "harvest",
-  "oldentry": "",
   "english": [
     "harvest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut or pick crops at the time of year when they are ripe. English = harvest."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The cutting or picking of crops at the time of year when they are ripe. English = harvest.",
-    "2. A year's crops that have ripened so that they can be cut or picked. English = harvest."
-  ],
   "signNumber": 4126.1,
   "recordNumber": 2484,
   "signVisualComposition": "",
@@ -36,5 +23,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut or pick crops at the time of year when they are ripe. English = harvest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of moving a flat object sideways close to the ground, such as the blade of a machete or scythe at the base of plants, or any thing or any action directly or indirectly associated with this, especially harvesting.",
+  "nominalLexeme": [
+    "1. The cutting or picking of crops at the time of year when they are ripe. English = harvest.",
+    "2. A year's crops that have ripened so that they can be cut or picked. English = harvest."
+  ],
+  "idGloss": "harvest",
+  "oldEntry": ""
 }

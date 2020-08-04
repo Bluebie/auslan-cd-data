@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "LINE + S",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sentence.2",
-  "oldentry": "",
   "english": [
     "sentence"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of words which, when they are written down, begin with a capital letter and end with a full stop. English = sentence."
-  ],
   "signNumber": 5651,
   "recordNumber": 3348,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "sentence.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of words which, when they are written down, begin with a capital letter and end with a full stop. English = sentence."
+  ],
+  "idGloss": "sentence.2",
+  "oldEntry": ""
 }

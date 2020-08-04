@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "SUMMER + TIME",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "summertime",
-  "oldentry": "",
   "english": [
     "summertime"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The period of time during which summer lasts. English = summertime."
-  ],
   "signNumber": 4021,
   "recordNumber": 2407,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   ],
   "synonyms": [
     "summer.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The period of time during which summer lasts. English = summertime."
+  ],
+  "idGloss": "summertime",
+  "oldEntry": ""
 }

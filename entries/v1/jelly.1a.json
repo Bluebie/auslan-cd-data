@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jelly.1a",
-  "oldentry": "Popular explanation: a quivering mass of jelly.",
   "english": [
     "jelly",
     "quiver"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shake or tremble, especially of a substance like jelly. English = quiver."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A clear food made from gelatine, which is usually sweetened, flavoured with fruit juices, and eaten as a dessert. English = jelly."
-  ],
   "signNumber": 2743,
   "recordNumber": 1530,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shake or tremble, especially of a substance like jelly. English = quiver."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A clear food made from gelatine, which is usually sweetened, flavoured with fruit juices, and eaten as a dessert. English = jelly."
+  ],
+  "idGloss": "jelly.1a",
+  "oldEntry": "Popular explanation: a quivering mass of jelly."
 }

@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hurt.feelings.1a",
-  "oldentry": "",
   "english": [
     "touchiness",
     "sensitivity",
@@ -27,18 +23,9 @@
     "hurt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be easily upset, offended, or irritated. English = (be) touchy, (be) sensitive.",
-    "2. To be unhappy because someone has been unkind to you. English = (be) hurt."
-  ],
   "cf": [
     "upset.1",
     "upset.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being easily upset, offended, or irritated. English = touchiness, sensitivity."
   ],
   "signNumber": 3460,
   "recordNumber": 2021,
@@ -48,5 +35,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be easily upset, offended, or irritated. English = (be) touchy, (be) sensitive.",
+    "2. To be unhappy because someone has been unkind to you. English = (be) hurt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being easily upset, offended, or irritated. English = touchiness, sensitivity."
+  ],
+  "idGloss": "hurt.feelings.1a",
+  "oldEntry": ""
 }

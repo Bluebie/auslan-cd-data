@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hospitality",
-  "oldentry": "",
   "english": [
     "hospitality",
     "hospitable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be friendly and welcoming to guests or strangers. English = (be) hospitable."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Friendly, welcoming behaviour towards guests or strangers. English = hospitality.",
-    "2. The sector of the economy which deals with tourism, accommodation and entertainment. English = hospitality industry."
-  ],
   "signNumber": 3837,
   "recordNumber": 2281,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be friendly and welcoming to guests or strangers. English = (be) hospitable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Friendly, welcoming behaviour towards guests or strangers. English = hospitality.",
+    "2. The sector of the economy which deals with tourism, accommodation and entertainment. English = hospitality industry."
+  ],
+  "idGloss": "hospitality",
+  "oldEntry": ""
 }

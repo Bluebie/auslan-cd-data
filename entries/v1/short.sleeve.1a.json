@@ -20,29 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "To trace a line across a limb or any thing or any action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "short.sleeve.1a",
-  "oldentry": "Popular explanation: the end of a short sleeve.",
   "english": [
     "short sleeve shirt",
     "T-shirt",
     "short sleeved"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a short sleeved shirt or a T-shirt.",
-    "2. To be short sleeved."
-  ],
   "cf": [
     "sleeveless",
     "singlet"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing worn over your arms which is attached at the shoulders to the rest of a garment and which ends before the elbow. English = short sleeve shirt.",
-    "2. A piece of clothing that you wear on the top half of your body. It has short sleeves, no collar, and no buttons down the front. English = T-shirt."
   ],
   "signNumber": 3512,
   "recordNumber": 2055,
@@ -56,5 +42,19 @@
   ],
   "synonyms": [
     "sleeve"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a short sleeved shirt or a T-shirt.",
+    "2. To be short sleeved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "To trace a line across a limb or any thing or any action directly or indirectly associated with this.",
+  "nominalLexeme": [
+    "1. A piece of clothing worn over your arms which is attached at the shoulders to the rest of a garment and which ends before the elbow. English = short sleeve shirt.",
+    "2. A piece of clothing that you wear on the top half of your body. It has short sleeves, no collar, and no buttons down the front. English = T-shirt."
+  ],
+  "idGloss": "short.sleeve.1a",
+  "oldEntry": "Popular explanation: the end of a short sleeve."
 }

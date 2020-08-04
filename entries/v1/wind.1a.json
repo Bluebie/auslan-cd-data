@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wind.1a",
-  "oldentry": "Popular explanation: 'fanning oneself in imitation of the wind'.",
   "english": [
     "wind",
     "breeze",
@@ -39,21 +35,8 @@
     "airy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the type of weather in which the currents of air move rapidly and strongly. English = (be) windy.",
-    "2. To be a low temperature, but not cold. English = (be) cool, (be) fresh.",
-    "3. To become a low or lower temperature, but not cold. English = cool, cool down, freshen.",
-    "4. (When talking of the inside of a building) to be open and fresh. English = (be) airy."
-  ],
   "cf": [
     "cold"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A current of air moving across the earth's surface which you can feel blowing past your body, especially your face. English = wind.",
-    "2. A gentle wind. English = breeze.",
-    "3. A gust of wind."
   ],
   "signNumber": 3572,
   "recordNumber": 2096,
@@ -63,5 +46,22 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be the type of weather in which the currents of air move rapidly and strongly. English = (be) windy.",
+    "2. To be a low temperature, but not cold. English = (be) cool, (be) fresh.",
+    "3. To become a low or lower temperature, but not cold. English = cool, cool down, freshen.",
+    "4. (When talking of the inside of a building) to be open and fresh. English = (be) airy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A current of air moving across the earth's surface which you can feel blowing past your body, especially your face. English = wind.",
+    "2. A gentle wind. English = breeze.",
+    "3. A gust of wind."
+  ],
+  "idGloss": "wind.1a",
+  "oldEntry": "Popular explanation: 'fanning oneself in imitation of the wind'."
 }

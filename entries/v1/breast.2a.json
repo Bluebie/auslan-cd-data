@@ -10,23 +10,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breast.2a",
-  "oldentry": "",
   "english": [
     "breast",
     "bosom"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "breast.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The two soft, round pieces of flesh on a woman's chest that can produce milk to feed a baby. English = breasts. Formal English = bosom."
   ],
   "signNumber": 4514,
   "recordNumber": 2743,
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "breast.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The two soft, round pieces of flesh on a woman's chest that can produce milk to feed a baby. English = breasts. Formal English = bosom."
+  ],
+  "idGloss": "breast.2a",
+  "oldEntry": ""
 }

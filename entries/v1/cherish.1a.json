@@ -11,23 +11,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cherish.1a",
-  "oldentry": "",
   "english": [
     "cherish",
     "precious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To regard something as important and try hard to keep it. English = cherish.",
-    "2. To be valuable and useful and not to be wasted or used badly. English = (be) precious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4939,
   "recordNumber": 2985,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To regard something as important and try hard to keep it. English = cherish.",
+    "2. To be valuable and useful and not to be wasted or used badly. English = (be) precious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cherish.1a",
+  "oldEntry": ""
 }

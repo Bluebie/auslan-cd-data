@@ -21,28 +21,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kiss.2a",
-  "oldentry": "Popular explanation: two sets of lips kissing.",
   "english": [
     "kiss",
     "love",
     "adore"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To touch someone with your lips to show affection or as a greeting. English = kiss.",
-    "2. To feel romantically or sexually attracted to someone. English = love.",
-    "3. To like something or someone very much. English = adore."
-  ],
   "cf": [
     "love-bite"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A touch with your lips to show affection or as a greeting. English = kiss."
   ],
   "signNumber": 132,
   "recordNumber": 70,
@@ -54,5 +40,19 @@
   "antonyms": [],
   "synonyms": [
     "kiss.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To touch someone with your lips to show affection or as a greeting. English = kiss.",
+    "2. To feel romantically or sexually attracted to someone. English = love.",
+    "3. To like something or someone very much. English = adore."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A touch with your lips to show affection or as a greeting. English = kiss."
+  ],
+  "idGloss": "kiss.2a",
+  "oldEntry": "Popular explanation: two sets of lips kissing."
 }

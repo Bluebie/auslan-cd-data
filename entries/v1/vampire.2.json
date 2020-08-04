@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vampire.2",
-  "oldentry": "",
   "english": [
     "vampire"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cochlear.implant"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In legends and horror stories, people who come out of their graves at night and suck the blood of living people. English = vampire."
   ],
   "signNumber": 1769.1,
   "recordNumber": 1066,
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "vampire.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In legends and horror stories, people who come out of their graves at night and suck the blood of living people. English = vampire."
+  ],
+  "idGloss": "vampire.2",
+  "oldEntry": ""
 }

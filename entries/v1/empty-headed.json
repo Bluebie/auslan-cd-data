@@ -18,25 +18,14 @@
   "sense": "",
   "blend": "THINK + DELETE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "empty-headed",
-  "oldentry": "",
   "english": [
     "oblivious",
     "vacant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not be aware of something or conscious of what is happening around you. English = (be) oblivious.",
-    "2. To have a look or expression which suggests that you do not understand something or that you are not very intelligent. English = (be) vacant, have a vacant look."
-  ],
   "cf": [
     "forget.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6530,
   "recordNumber": 3885,
   "signVisualComposition": "",
@@ -51,5 +40,16 @@
   "synonyms": [
     "unaware.1",
     "no.idea.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not be aware of something or conscious of what is happening around you. English = (be) oblivious.",
+    "2. To have a look or expression which suggests that you do not understand something or that you are not very intelligent. English = (be) vacant, have a vacant look."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "empty-headed",
+  "oldEntry": ""
 }

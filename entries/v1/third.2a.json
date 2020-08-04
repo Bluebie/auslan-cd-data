@@ -14,26 +14,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "third.2a",
-  "oldentry": "",
   "english": [
     "thirdly",
     "third-born"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "first.1a",
     "second.5a",
     "fourth.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a phrase to mean that what you are talking about is the third of three, or the third in a series. It is often used to relate siblings in a family to each other. English = thirdly, the third is, the third-born is."
-  ],
-  "nomlex": [],
   "signNumber": 4411,
   "recordNumber": 2683,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a phrase to mean that what you are talking about is the third of three, or the third in a series. It is often used to relate siblings in a family to each other. English = thirdly, the third is, the third-born is."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "third.2a",
+  "oldEntry": ""
 }

@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of any long vertical object becoming less perpendicular, leaning over, toppling over or collapsing, or any particular object or action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "topple.over.1",
-  "oldentry": "",
   "english": [
     "lean",
     "lean over",
@@ -27,13 +23,7 @@
     "collapse"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone that something is about to fall over and to get out of the way. English = 'Watch out!', 'Timber!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3358,
   "recordNumber": 1960,
   "signVisualComposition": "",
@@ -47,5 +37,15 @@
   ],
   "synonyms": [
     "topple.over.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone that something is about to fall over and to get out of the way. English = 'Watch out!', 'Timber!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of any long vertical object becoming less perpendicular, leaning over, toppling over or collapsing, or any particular object or action directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "topple.over.1",
+  "oldEntry": ""
 }

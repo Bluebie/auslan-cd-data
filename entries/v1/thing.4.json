@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thing.4",
-  "oldentry": "",
   "english": [
     "thing"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing."
-  ],
   "signNumber": 1064,
   "recordNumber": 628,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
     "thing.1",
     "thing.2",
     "thing.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing."
+  ],
+  "idGloss": "thing.4",
+  "oldEntry": ""
 }

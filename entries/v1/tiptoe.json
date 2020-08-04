@@ -14,26 +14,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tiptoe",
-  "oldentry": "",
   "english": [
     "tiptoe",
     "creep"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To walk very quietly on your toes. English = tiptoe, creep."
-  ],
   "cf": [
     "hop.1a",
     "limp",
     "footsteps"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3918,
   "recordNumber": 2335,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To walk very quietly on your toes. English = tiptoe, creep."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "tiptoe",
+  "oldEntry": ""
 }

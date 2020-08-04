@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "daughter",
-  "oldentry": "",
   "english": [
     "daughter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "father.1",
     "mother.1a",
     "aunt.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The female child of someone. English = daughter."
   ],
   "signNumber": 5393,
   "recordNumber": 3222,
@@ -43,5 +33,15 @@
   "antonyms": [
     "son.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The female child of someone. English = daughter."
+  ],
+  "idGloss": "daughter",
+  "oldEntry": ""
 }

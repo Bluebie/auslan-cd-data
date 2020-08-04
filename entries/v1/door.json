@@ -17,26 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "door",
-  "oldentry": "Popular explanation: a door opening and closing.",
   "english": [
     "door",
     "gate"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "sliding-door",
     "close.1a",
     "door.open"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A swinging piece of wood, glass, or metal, which is used to open and close the entrance to a building, room, or vehicle. English = door.",
-    "2. A swinging piece of wood or metal which is used at the entrance to a field, a garden, or the grounds of a building. English = gate."
   ],
   "signNumber": 4173,
   "recordNumber": 2522,
@@ -46,5 +35,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A swinging piece of wood, glass, or metal, which is used to open and close the entrance to a building, room, or vehicle. English = door.",
+    "2. A swinging piece of wood or metal which is used at the entrance to a field, a garden, or the grounds of a building. English = gate."
+  ],
+  "idGloss": "door",
+  "oldEntry": "Popular explanation: a door opening and closing."
 }

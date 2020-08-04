@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pyjamas",
-  "oldentry": "",
   "english": [
     "pyjamas"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear or put on pyjamas."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Loose trousers and a loose jacket that people, especially men, wear in bed. English = pyjamas."
-  ],
   "signNumber": 3430,
   "recordNumber": 2003,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "nightdress"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear or put on pyjamas."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Loose trousers and a loose jacket that people, especially men, wear in bed. English = pyjamas."
+  ],
+  "idGloss": "pyjamas",
+  "oldEntry": ""
 }

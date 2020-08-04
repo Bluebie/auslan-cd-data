@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nag",
-  "oldentry": "Popular explanation: teeth opening and closing.",
   "english": [
     "nag"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep complaining in an irritating way, to keep on talking about something to someone in an irritating way. English = nag."
-  ],
   "cf": [
     "alligator",
     "bite.1a",
     "speechless.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who always complains in an irritating way. English = nag."
   ],
   "signNumber": 3054,
   "recordNumber": 1752,
@@ -47,5 +35,17 @@
   "antonyms": [],
   "synonyms": [
     "bawl.out"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep complaining in an irritating way, to keep on talking about something to someone in an irritating way. English = nag."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who always complains in an irritating way. English = nag."
+  ],
+  "idGloss": "nag",
+  "oldEntry": "Popular explanation: teeth opening and closing."
 }

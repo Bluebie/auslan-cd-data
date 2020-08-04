@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "say.1a",
-  "oldentry": "",
   "english": [
     "saying",
     "telling",
@@ -42,21 +38,7 @@
     "mention"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To speak words. English = say.",
-    "2. To use spoken words, written words or signs to communicate something to someone else. English = say, tell.",
-    "3. To use spoken words, written words or signs to briefly talk about something to someone else (usually when the main reason for the communication is another piece of information). English = mention.",
-    "4. To say something that gives your opinion of something or which gives an explanation of it. English = comment."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A traditional sentence that people often say and that gives advice or information about human life and experience. English = saying.",
-    "2. The way someone goes about using words or signs to communicate a specific piece of information or a story. English = telling, rendition.",
-    "3. The words or signs of another person which you accept as the reason or authority for you to do something. Informal English = say-so.",
-    "4. Something that you say that gives your opinion of something or which gives an explanation of it. English = comment."
-  ],
   "signNumber": 623,
   "recordNumber": 360,
   "signVisualComposition": "",
@@ -69,5 +51,23 @@
     "talk",
     "speak",
     "speech"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To speak words. English = say.",
+    "2. To use spoken words, written words or signs to communicate something to someone else. English = say, tell.",
+    "3. To use spoken words, written words or signs to briefly talk about something to someone else (usually when the main reason for the communication is another piece of information). English = mention.",
+    "4. To say something that gives your opinion of something or which gives an explanation of it. English = comment."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A traditional sentence that people often say and that gives advice or information about human life and experience. English = saying.",
+    "2. The way someone goes about using words or signs to communicate a specific piece of information or a story. English = telling, rendition.",
+    "3. The words or signs of another person which you accept as the reason or authority for you to do something. Informal English = say-so.",
+    "4. Something that you say that gives your opinion of something or which gives an explanation of it. English = comment."
+  ],
+  "idGloss": "say.1a",
+  "oldEntry": ""
 }

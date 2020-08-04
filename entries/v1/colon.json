@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "colon",
-  "oldentry": "",
   "english": [
     "colon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To write a colon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A punctuation mark (:), which you can use in several ways. For example you can put it before a list of things or before reported speech. English = colon."
-  ],
   "signNumber": 1773,
   "recordNumber": 1068,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To write a colon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A punctuation mark (:), which you can use in several ways. For example you can put it before a list of things or before reported speech. English = colon."
+  ],
+  "idGloss": "colon",
+  "oldEntry": ""
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bream",
-  "oldentry": "",
   "english": [
     "bream"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of fish found in Australian waters and highly valued as a food. English = bream."
-  ],
   "signNumber": 1368,
   "recordNumber": 810,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of fish found in Australian waters and highly valued as a food. English = bream."
+  ],
+  "idGloss": "bream",
+  "oldEntry": ""
 }

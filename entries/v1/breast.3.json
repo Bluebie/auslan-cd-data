@@ -19,24 +19,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breast.3",
-  "oldentry": "Popular explanation: cupping breasts in the hand.",
   "english": [
     "boobs",
     "tits"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a woman, to be well endowed with large breasts. An informal and crude sign."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The two soft round pieces of flesh on a woman's chest that can produce milk to feed a baby. Used especially to describe a woman who is well endowed with large breasts. An informal and crude sign. Informal Vulgar English = boobs, tits."
-  ],
   "signNumber": 3004,
   "recordNumber": 1713,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
     "breast.1",
     "breast.2a",
     "large.breasts"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a woman, to be well endowed with large breasts. An informal and crude sign."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The two soft round pieces of flesh on a woman's chest that can produce milk to feed a baby. Used especially to describe a woman who is well endowed with large breasts. An informal and crude sign. Informal Vulgar English = boobs, tits."
+  ],
+  "idGloss": "breast.3",
+  "oldEntry": "Popular explanation: cupping breasts in the hand."
 }

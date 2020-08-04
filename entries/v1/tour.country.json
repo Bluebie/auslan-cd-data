@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tour.country",
-  "oldentry": "",
   "english": [
     "tour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel extensively and widely around a country or region. English = tour."
-  ],
   "cf": [
     "holiday.1",
     "holiday.2",
     "country-wide"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An extensive journey around a country or a region. English = tour."
   ],
   "signNumber": 1772,
   "recordNumber": 1067,
@@ -46,5 +34,17 @@
   "synonyms": [
     "tour",
     "trip.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel extensively and widely around a country or region. English = tour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An extensive journey around a country or a region. English = tour."
+  ],
+  "idGloss": "tour.country",
+  "oldEntry": ""
 }

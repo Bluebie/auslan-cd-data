@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jeans.2",
-  "oldentry": "Popular explanation: the outline of the pockets of a pair of jeans.",
   "english": [
     "jeans"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "trousers.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Casual trousers made of strong blue denim. English = jeans."
   ],
   "signNumber": 1093,
   "recordNumber": 641,
@@ -42,5 +32,15 @@
   "synonyms": [
     "jeans.1",
     "fly.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Casual trousers made of strong blue denim. English = jeans."
+  ],
+  "idGloss": "jeans.2",
+  "oldEntry": "Popular explanation: the outline of the pockets of a pair of jeans."
 }

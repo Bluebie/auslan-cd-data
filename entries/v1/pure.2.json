@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pure.2",
-  "oldentry": "",
   "english": [
     "purity",
     "cleanliness",
@@ -36,17 +32,7 @@
     "sterile"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely pure and clean, like it has never been used before. English = (be) pristine.",
-    "2. Of something, to be totally pure and healthy and medically safe because it is without any germs at all. English = (be) sterile."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Extreme purity, cleanliness and freshness.",
-    "2. Total cleanliness and freedom from germs. English = sterility."
-  ],
   "signNumber": 2115,
   "recordNumber": 1227,
   "signVisualComposition": "PURE + CLEAN",
@@ -61,5 +47,19 @@
     "clean.1",
     "clean.2",
     "pure.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely pure and clean, like it has never been used before. English = (be) pristine.",
+    "2. Of something, to be totally pure and healthy and medically safe because it is without any germs at all. English = (be) sterile."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Extreme purity, cleanliness and freshness.",
+    "2. Total cleanliness and freedom from germs. English = sterility."
+  ],
+  "idGloss": "pure.2",
+  "oldEntry": ""
 }

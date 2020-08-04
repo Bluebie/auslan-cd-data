@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jealous.1a",
-  "oldentry": "Popular explanation: biting one's finger in the gesture of jealousy.",
   "english": [
     "jealousy",
     "envy",
@@ -30,17 +26,7 @@
     "envious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel that you must try to keep something that you have, because you think someone else might take it away from you. English = (be) jealous.",
-    "2. To feel anger or bitterness towards someone who has something that you would like to have. English = (be) jealous, (be) envious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of resentment and bitterness you have when you think someone is trying to take away something that belongs to you. English = jealousy.",
-    "2. The feeling you have when you wish that you could have the qualities or possessions that someone else has. English = jealousy, envy."
-  ],
   "signNumber": 1397,
   "recordNumber": 830,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "envy"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel that you must try to keep something that you have, because you think someone else might take it away from you. English = (be) jealous.",
+    "2. To feel anger or bitterness towards someone who has something that you would like to have. English = (be) jealous, (be) envious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of resentment and bitterness you have when you think someone is trying to take away something that belongs to you. English = jealousy.",
+    "2. The feeling you have when you wish that you could have the qualities or possessions that someone else has. English = jealousy, envy."
+  ],
+  "idGloss": "jealous.1a",
+  "oldEntry": "Popular explanation: biting one's finger in the gesture of jealousy."
 }

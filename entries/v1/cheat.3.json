@@ -13,23 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cheat.3",
-  "oldentry": "",
   "english": [
     "cheat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lie or behave dishonestly in order to get or achieve something. English = cheat."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who lies or behaves dishonestly in order to get or achieve something. English = cheat."
-  ],
   "signNumber": 1934.1,
   "recordNumber": 1154,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
     "cheat.1",
     "cheat.2",
     "copy.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lie or behave dishonestly in order to get or achieve something. English = cheat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who lies or behaves dishonestly in order to get or achieve something. English = cheat."
+  ],
+  "idGloss": "cheat.3",
+  "oldEntry": ""
 }

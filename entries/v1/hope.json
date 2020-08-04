@@ -16,23 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hope",
-  "oldentry": "",
   "english": [
     "hope"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want something to be true or to happen and usually believe that it is possible. English = hope."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of confidence that what you want to happen might happen. English = hope."
-  ],
   "signNumber": 4014,
   "recordNumber": 2403,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   ],
   "synonyms": [
     "wish"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want something to be true or to happen and usually believe that it is possible. English = hope."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of confidence that what you want to happen might happen. English = hope."
+  ],
+  "idGloss": "hope",
+  "oldEntry": ""
 }

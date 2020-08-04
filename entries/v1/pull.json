@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pull",
-  "oldentry": "Popular explanation: pulling something.",
   "english": [
     "pull"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold something firmly and use force in order to move it towards you. English = pull."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5686,
   "recordNumber": 3365,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [
     "push"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold something firmly and use force in order to move it towards you. English = pull."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "pull",
+  "oldEntry": "Popular explanation: pulling something."
 }

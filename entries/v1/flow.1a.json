@@ -20,30 +20,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flow.1a",
-  "oldentry": "Popular explanation: water flowing.",
   "english": [
     "flow",
     "river",
     "run"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, especially water, to move somewhere steadily and continuously. English = flow, run.",
-    "2. Of a river, for the water to move steadily and continuously towards lower ground. English = flow."
-  ],
   "cf": [
     "traffic.1",
     "traffic.2",
     "traffic.jam"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The continuous and steady movement of water somewhere. English = flow.",
-    "2. A large amount of water flowing continuously in a long line across land. English = river."
   ],
   "signNumber": 2716,
   "recordNumber": 1512,
@@ -55,5 +41,19 @@
   "antonyms": [],
   "synonyms": [
     "river"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, especially water, to move somewhere steadily and continuously. English = flow, run.",
+    "2. Of a river, for the water to move steadily and continuously towards lower ground. English = flow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The continuous and steady movement of water somewhere. English = flow.",
+    "2. A large amount of water flowing continuously in a long line across land. English = river."
+  ],
+  "idGloss": "flow.1a",
+  "oldEntry": "Popular explanation: water flowing."
 }

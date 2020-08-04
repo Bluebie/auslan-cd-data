@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "used.to.1a",
-  "oldentry": "",
   "english": [
     "identity",
     "identicalness",
@@ -50,21 +46,7 @@
     "deuce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or become exactly the same in all respects. English = (be) identical, become identical.",
-    "2. In a match or competition, for one person or team to get the same number of points as another and nobody wins. English = draw, tie.",
-    "3. In a race, for two competitors to cross the finishing line at exactly the same time. English = draw, tie.",
-    "4. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences. English = (be) used to, (be) familiar with. Formal English = (be) acclimatised to."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of two things being exactly alike in all respects. English = identity, identicalness.",
-    "2. In a match or competition, an equal score between two people or two teams so that nobody wins. English = draw, tie; deuce (in tennis).",
-    "3. The result when two competitors in a race both cross the finishing line at exactly the same time. English = dead heat.",
-    "4. The knowing of something because you have experienced it before or because it is the same as many of your past experiences. English = familiarity. Formal English = acclimatisation, habituation."
-  ],
   "signNumber": 1000,
   "recordNumber": 581,
   "signVisualComposition": "",
@@ -75,5 +57,23 @@
   "antonyms": [],
   "synonyms": [
     "used.to.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or become exactly the same in all respects. English = (be) identical, become identical.",
+    "2. In a match or competition, for one person or team to get the same number of points as another and nobody wins. English = draw, tie.",
+    "3. In a race, for two competitors to cross the finishing line at exactly the same time. English = draw, tie.",
+    "4. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences. English = (be) used to, (be) familiar with. Formal English = (be) acclimatised to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of two things being exactly alike in all respects. English = identity, identicalness.",
+    "2. In a match or competition, an equal score between two people or two teams so that nobody wins. English = draw, tie; deuce (in tennis).",
+    "3. The result when two competitors in a race both cross the finishing line at exactly the same time. English = dead heat.",
+    "4. The knowing of something because you have experienced it before or because it is the same as many of your past experiences. English = familiarity. Formal English = acclimatisation, habituation."
+  ],
+  "idGloss": "used.to.1a",
+  "oldEntry": ""
 }

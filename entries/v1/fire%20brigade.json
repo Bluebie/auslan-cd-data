@@ -14,23 +14,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fire brigade",
-  "oldentry": "",
   "english": [
     "fire brigade",
     "firefighter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The organisation that puts out fires. English = fire brigade.",
-    "2. A person whose job is to put out fires and to rescue people who are trapped, for example in burning buildings or cars. English = firefighter"
-  ],
   "signNumber": 2372,
   "recordNumber": 1307,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "synonyms": [
     "firefighter.1",
     "firefighter.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The organisation that puts out fires. English = fire brigade.",
+    "2. A person whose job is to put out fires and to rescue people who are trapped, for example in burning buildings or cars. English = firefighter"
+  ],
+  "idGloss": "fire brigade",
+  "oldEntry": ""
 }

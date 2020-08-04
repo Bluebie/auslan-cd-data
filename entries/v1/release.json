@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "release",
-  "oldentry": "Popular explanation: the bound hands becoming released.",
   "english": [
     "release",
     "freeing",
@@ -43,18 +39,7 @@
     "deliverance"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To no longer be a prisoner or a slave, and to be unrestricted, uncontrolled, or unlimited in what you can do; of a person, to be released from gaol. English = (be) freed, (be) released, (be) liberated.",
-    "2. To take away the restrictions and controls from a person or animal, especially physical ones of bondage. English = free, release, liberate.",
-    "3. To release or save from evil. Formal religious English = deliver."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The setting free of a person or animal, especially a person from gaol. English = release, freeing, liberation.",
-    "2. The escape of someone from bondage, or the saving of someone. Formal English = deliverance."
-  ],
   "signNumber": 5754,
   "recordNumber": 3409,
   "signVisualComposition": "",
@@ -65,5 +50,20 @@
   "antonyms": [],
   "synonyms": [
     "free.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To no longer be a prisoner or a slave, and to be unrestricted, uncontrolled, or unlimited in what you can do; of a person, to be released from gaol. English = (be) freed, (be) released, (be) liberated.",
+    "2. To take away the restrictions and controls from a person or animal, especially physical ones of bondage. English = free, release, liberate.",
+    "3. To release or save from evil. Formal religious English = deliver."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The setting free of a person or animal, especially a person from gaol. English = release, freeing, liberation.",
+    "2. The escape of someone from bondage, or the saving of someone. Formal English = deliverance."
+  ],
+  "idGloss": "release",
+  "oldEntry": "Popular explanation: the bound hands becoming released."
 }

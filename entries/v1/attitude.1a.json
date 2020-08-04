@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "attitude.1a",
-  "oldentry": "",
   "english": [
     "attitude"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The way you think or feel about something or the way you behave when you deal with other people. English = attitude."
-  ],
   "signNumber": 4770,
   "recordNumber": 2884,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The way you think or feel about something or the way you behave when you deal with other people. English = attitude."
+  ],
+  "idGloss": "attitude.1a",
+  "oldEntry": ""
 }

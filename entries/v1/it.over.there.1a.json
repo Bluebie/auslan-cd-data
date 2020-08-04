@@ -11,12 +11,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign can also be made with the upturned Flat handshape (i.e., palm facing upwards) with fingertips pointing away. The Flat hand form is very polite and formal, and often found in public speaking.",
-  "genmean": "",
-  "questlex": [
-    "."
-  ],
-  "idgloss": "it.over.there.1a",
-  "oldentry": "",
   "english": [
     "yon",
     "yonder"
@@ -26,11 +20,7 @@
     "2. Used to refer to a place which is far away from the signer and the person they are talking to. Various phrases would be used in modern English (e.g., 'way over there'). Obsolete English = yonder.",
     "3. Used to refer to a time which is a long time before or after the present time."
   ],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 771,
   "recordNumber": 442,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [
+    "."
+  ],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "it.over.there.1a",
+  "oldEntry": ""
 }

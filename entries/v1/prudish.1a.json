@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prudish.1a",
-  "oldentry": "Popular explanation: the stance adopted by some nineteenth century ladies.",
   "english": [
     "prude",
     "puritan",
@@ -36,19 +32,7 @@
     "puritanical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave very correctly and to be easily shocked by anything rude or improper. Often used showing disapproval. English = (be) prim, (be) prim and proper, (be) prissy.",
-    "2. To be easily shocked by things related to nudity or sex. English = (be) prudish.",
-    "3. To have a very strict and severe attitude towards questions of morality. English = (be) puritanical. Idiomatic English = (be) straight-laced."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who behaves very correctly and is easily shocked by anything rude or improper. Often used showing disapproval.",
-    "2. A person who is easily shocked by things related to nudity or sex. English = prude.",
-    "3. A person who has a very strict and severe attitude towards questions of morality. English = puritan."
-  ],
   "signNumber": 4638,
   "recordNumber": 2810,
   "signVisualComposition": "",
@@ -57,5 +41,21 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave very correctly and to be easily shocked by anything rude or improper. Often used showing disapproval. English = (be) prim, (be) prim and proper, (be) prissy.",
+    "2. To be easily shocked by things related to nudity or sex. English = (be) prudish.",
+    "3. To have a very strict and severe attitude towards questions of morality. English = (be) puritanical. Idiomatic English = (be) straight-laced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who behaves very correctly and is easily shocked by anything rude or improper. Often used showing disapproval.",
+    "2. A person who is easily shocked by things related to nudity or sex. English = prude.",
+    "3. A person who has a very strict and severe attitude towards questions of morality. English = puritan."
+  ],
+  "idGloss": "prudish.1a",
+  "oldEntry": "Popular explanation: the stance adopted by some nineteenth century ladies."
 }

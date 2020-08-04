@@ -15,24 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "school.1",
-  "oldentry": "",
   "english": [
     "school"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "kindergarten.1",
     "high school.1",
     "university.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where children are educated. English = school."
   ],
   "signNumber": 3182,
   "recordNumber": 1849,
@@ -44,5 +34,15 @@
   "antonyms": [],
   "synonyms": [
     "school.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where children are educated. English = school."
+  ],
+  "idGloss": "school.1",
+  "oldEntry": ""
 }

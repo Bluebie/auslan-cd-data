@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sword",
-  "oldentry": "Popular explanation: thrusting with a sword.",
   "english": [
     "sword"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fight someone using a sword as a weapon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A weapon with a handle and a long blade. English = sword."
-  ],
   "signNumber": 6105,
   "recordNumber": 3632,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fight someone using a sword as a weapon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A weapon with a handle and a long blade. English = sword."
+  ],
+  "idGloss": "sword",
+  "oldEntry": "Popular explanation: thrusting with a sword."
 }

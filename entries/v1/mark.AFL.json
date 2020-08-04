@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mark.AFL",
-  "oldentry": "",
   "english": [
     "mark"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In Australian rules football, to catch the ball on the full after it having been kicked and without it having been touched by another player. English = mark."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian rules football, the action of catching the ball on the full after it has been kicked and without it having been touched by another player. English = mark."
-  ],
   "signNumber": 2585.1,
   "recordNumber": 1429,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 1,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In Australian rules football, to catch the ball on the full after it having been kicked and without it having been touched by another player. English = mark."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian rules football, the action of catching the ball on the full after it has been kicked and without it having been touched by another player. English = mark."
+  ],
+  "idGloss": "mark.AFL",
+  "oldEntry": ""
 }

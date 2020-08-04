@@ -16,25 +16,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disappearance",
-  "oldentry": "",
   "english": [
     "disappearance",
     "disappear",
     "vanish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or thing, to go somewhere you do not know and where you can no longer see them. English = disappear, vanish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The situation where someone or something has gone somewhere you do not know and where you can no longer see them. English = disappearance."
-  ],
   "signNumber": 2880,
   "recordNumber": 1627,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "disappear.1a",
     "disappear.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or thing, to go somewhere you do not know and where you can no longer see them. English = disappear, vanish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The situation where someone or something has gone somewhere you do not know and where you can no longer see them. English = disappearance."
+  ],
+  "idGloss": "disappearance",
+  "oldEntry": ""
 }

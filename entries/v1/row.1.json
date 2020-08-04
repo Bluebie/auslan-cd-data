@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "row.1",
-  "oldentry": "Popular explanation: a rowing action.",
   "english": [
     "rowing",
     "row"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To sit in a boat and make it move by using oars. English = row."
-  ],
   "cf": [
     "rowboat"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of sitting in a boat and making it move by using oars. English = rowing."
   ],
   "signNumber": 5874,
   "recordNumber": 3494,
@@ -44,5 +32,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To sit in a boat and make it move by using oars. English = row."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of sitting in a boat and making it move by using oars. English = rowing."
+  ],
+  "idGloss": "row.1",
+  "oldEntry": "Popular explanation: a rowing action."
 }

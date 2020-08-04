@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dirty",
-  "oldentry": "Popular explanation: rubbing dirt from the hands.",
   "english": [
     "dirt",
     "grime",
@@ -50,21 +46,9 @@
     "smutty"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have dust, mud, or stains on something and to need to be cleaned. English = (be) dirty, (be) grubby, (be) filthy.",
-    "2. To make something dirty by getting dust, mud, or stains on it. English = dirty, soil. Idiomatic English = foul up.",
-    "3. Of jokes, books, magazines and films, to refer to sex in a way that many people find offensive. English = (be) dirty, (be) obscene, (be) filthy, (be) smutty."
-  ],
   "cf": [
     "blur",
     "unclear"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Dust or mud on something which is usually kept clean. English = dirt.",
-    "2. Stains, bodily fluids (such as blood) and other things on something which is usually kept clean. English = grime, filth.",
-    "3. References to sex in jokes, books, magazines and films that many people find offensive. English = smut, obscenity."
   ],
   "signNumber": 2771,
   "recordNumber": 1552,
@@ -78,5 +62,21 @@
   ],
   "synonyms": [
     "mess"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have dust, mud, or stains on something and to need to be cleaned. English = (be) dirty, (be) grubby, (be) filthy.",
+    "2. To make something dirty by getting dust, mud, or stains on it. English = dirty, soil. Idiomatic English = foul up.",
+    "3. Of jokes, books, magazines and films, to refer to sex in a way that many people find offensive. English = (be) dirty, (be) obscene, (be) filthy, (be) smutty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Dust or mud on something which is usually kept clean. English = dirt.",
+    "2. Stains, bodily fluids (such as blood) and other things on something which is usually kept clean. English = grime, filth.",
+    "3. References to sex in jokes, books, magazines and films that many people find offensive. English = smut, obscenity."
+  ],
+  "idGloss": "dirty",
+  "oldEntry": "Popular explanation: rubbing dirt from the hands."
 }

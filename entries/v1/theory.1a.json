@@ -17,28 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "theory.1a",
-  "oldentry": "",
   "english": [
     "theory",
     "theoretical",
     "theorise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be based on or concerning the ideas and abstract principles of a subject, rather than the practical aspects of it. English = (be) theoretical.",
-    "2. To develop ideas about something in order to explain it. English = theorise."
-  ],
   "cf": [
     "consider.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An idea or set of ideas that is intended to explain something. English = theory.",
-    "2. A set of ideas that relate to a particular subject. English = theory."
   ],
   "signNumber": 6062,
   "recordNumber": 3605,
@@ -48,5 +34,19 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be based on or concerning the ideas and abstract principles of a subject, rather than the practical aspects of it. English = (be) theoretical.",
+    "2. To develop ideas about something in order to explain it. English = theorise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An idea or set of ideas that is intended to explain something. English = theory.",
+    "2. A set of ideas that relate to a particular subject. English = theory."
+  ],
+  "idGloss": "theory.1a",
+  "oldEntry": ""
 }

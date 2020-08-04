@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "A vulgar or crude sign for many signers.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fuck.4",
-  "oldentry": "",
   "english": [
     "fuck",
     "screw",
     "root"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have sexual intercourse with someone. Vulgar English = fuck, screw, root."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of sexual intercourse between two people. Vulgar English = fuck, screw, root."
-  ],
   "signNumber": 5907,
   "recordNumber": 3513,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
     "fuck.1",
     "fuck.2",
     "fuck.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have sexual intercourse with someone. Vulgar English = fuck, screw, root."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of sexual intercourse between two people. Vulgar English = fuck, screw, root."
+  ],
+  "idGloss": "fuck.4",
+  "oldEntry": ""
 }

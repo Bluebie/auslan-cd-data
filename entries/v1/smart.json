@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "smart",
-  "oldentry": "Popular explanation: brightness of the mind.",
   "english": [
     "smartness",
     "intelligence",
@@ -38,16 +34,7 @@
     "intelligent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to understand things easily or plan things well. English = (be) smart, (be) clever, (be) bright, (be) intelligent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability someone has to understand things easily or plan things well. English = smartness, cleverness, intelligence.",
-    "2. A person who is very smart, clever, bright or intelligent."
-  ],
   "signNumber": 39,
   "recordNumber": 24,
   "signVisualComposition": "",
@@ -64,5 +51,18 @@
     "bright",
     "clever .1a",
     "genius"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be able to understand things easily or plan things well. English = (be) smart, (be) clever, (be) bright, (be) intelligent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability someone has to understand things easily or plan things well. English = smartness, cleverness, intelligence.",
+    "2. A person who is very smart, clever, bright or intelligent."
+  ],
+  "idGloss": "smart",
+  "oldEntry": "Popular explanation: brightness of the mind."
 }

@@ -15,25 +15,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "write.list",
-  "oldentry": "Popular explanation: writing a list.",
   "english": [
     "write"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To write a list."
-  ],
   "cf": [
     "agenda",
     "list.1",
     "write.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6452,
   "recordNumber": 3846,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To write a list."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "write.list",
+  "oldEntry": "Popular explanation: writing a list."
 }

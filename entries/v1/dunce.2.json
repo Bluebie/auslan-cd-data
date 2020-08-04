@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dunce.2",
-  "oldentry": "",
   "english": [
     "dunce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a pupil, to be a dunce or to be punished as a dunce."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A slow or lazy student who cannot learn what someone is trying to teach them and is punished by being made to sit in the corner of the classroom or by wearing a silly hat. English = dunce."
-  ],
   "signNumber": 1799.1,
   "recordNumber": 1087,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "dunce.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a pupil, to be a dunce or to be punished as a dunce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A slow or lazy student who cannot learn what someone is trying to teach them and is punished by being made to sit in the corner of the classroom or by wearing a silly hat. English = dunce."
+  ],
+  "idGloss": "dunce.2",
+  "oldEntry": ""
 }

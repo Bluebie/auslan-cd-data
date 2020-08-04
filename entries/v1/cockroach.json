@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cockroach",
-  "oldentry": "",
   "english": [
     "cockroach"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large brown insect that is often found in dirty rooms. English = cockroach."
-  ],
   "signNumber": 5189.1,
   "recordNumber": 3121,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large brown insect that is often found in dirty rooms. English = cockroach."
+  ],
+  "idGloss": "cockroach",
+  "oldEntry": ""
 }

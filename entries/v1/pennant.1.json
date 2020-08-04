@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pennant.1",
-  "oldentry": "Popular explanation: a pennant on a pole.",
   "english": [
     "pennant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fly a pennant."
-  ],
   "cf": [
     "defeat.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long narrow flag, usually triangular in shape, especially one awarded as a prize in sport. English = pennant."
   ],
   "signNumber": 5550,
   "recordNumber": 3284,
@@ -42,5 +30,17 @@
   "synonyms": [
     "flag",
     "pennant.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fly a pennant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long narrow flag, usually triangular in shape, especially one awarded as a prize in sport. English = pennant."
+  ],
+  "idGloss": "pennant.1",
+  "oldEntry": "Popular explanation: a pennant on a pole."
 }

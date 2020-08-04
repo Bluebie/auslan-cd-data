@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "steak.1a",
-  "oldentry": "",
   "english": [
     "steak",
     "flesh",
     "meat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of beef without much fat on it. English = steak.",
-    "2. The substance your body is made of, which comes between your bones and your skin. English = flesh.",
-    "3. The flesh of a dead animal that people cook and eat. English = meat."
-  ],
   "signNumber": 464,
   "recordNumber": 258,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "synonyms": [
     "meat.1a",
     "meat.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of beef without much fat on it. English = steak.",
+    "2. The substance your body is made of, which comes between your bones and your skin. English = flesh.",
+    "3. The flesh of a dead animal that people cook and eat. English = meat."
+  ],
+  "idGloss": "steak.1a",
+  "oldEntry": ""
 }

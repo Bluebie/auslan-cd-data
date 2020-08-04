@@ -7,19 +7,9 @@
   "sense": "",
   "blend": "",
   "queries": "This sign combines with reference or 'pronoun' signs (generally made by pointing to the real or imagined location of the referent) to form reflexives. The reflexive is used to mean the action is done by the referent to the referent.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "self",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. The sign combines with verb and adjective signs, usually before them, and is used to describe something such as a device that does an action automatically by itself. English = self-"
-  ],
-  "nomlex": [],
   "signNumber": 6300,
   "recordNumber": 3764,
   "signVisualComposition": "",
@@ -28,5 +18,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. The sign combines with verb and adjective signs, usually before them, and is used to describe something such as a device that does an action automatically by itself. English = self-"
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "self",
+  "oldEntry": ""
 }

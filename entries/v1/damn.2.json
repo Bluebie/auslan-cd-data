@@ -18,26 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "damn.2",
-  "oldentry": "",
   "english": [
     "damn",
     "dare",
     "blast"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To suggest someone do something or to challenge someone to do something to show how brave or reckless they are. English = dare."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express anger or annoyance. English = 'Damn!', Damn it!', 'Blast!', and so on.",
-    "2. Used alone to express angry disregard for others comments. English = 'I don't give a damn what you think!', 'I don't care (I'll do it anyway!', 'So what! (I'll do it anyway!', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2691,
   "recordNumber": 1494,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
     "damn.1",
     "damn.3",
     "dare.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express anger or annoyance. English = 'Damn!', Damn it!', 'Blast!', and so on.",
+    "2. Used alone to express angry disregard for others comments. English = 'I don't give a damn what you think!', 'I don't care (I'll do it anyway!', 'So what! (I'll do it anyway!', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To suggest someone do something or to challenge someone to do something to show how brave or reckless they are. English = dare."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "damn.2",
+  "oldEntry": ""
 }

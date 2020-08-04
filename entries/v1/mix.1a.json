@@ -20,10 +20,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mix.1a",
-  "oldentry": "Popular explanation: mixing with one's fingers.",
   "english": [
     "mixture",
     "mix",
@@ -32,18 +28,7 @@
     "among"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stir or shake two or more substances together. English = mix, mix up, mingle.",
-    "2. To move around within a group of people and chat to people you do not know. English = mingle.",
-    "3. To be located inside a group of people or things and to be surrounded by them. English = (be) among."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A substance that consists of other substances which have been stirred or shaken together. English = mixture.",
-    "2. Several different things brought together. English = mixture."
-  ],
   "signNumber": 3048,
   "recordNumber": 1746,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "antonyms": [
     "separate"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stir or shake two or more substances together. English = mix, mix up, mingle.",
+    "2. To move around within a group of people and chat to people you do not know. English = mingle.",
+    "3. To be located inside a group of people or things and to be surrounded by them. English = (be) among."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A substance that consists of other substances which have been stirred or shaken together. English = mixture.",
+    "2. Several different things brought together. English = mixture."
+  ],
+  "idGloss": "mix.1a",
+  "oldEntry": "Popular explanation: mixing with one's fingers."
 }

@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hate.2",
-  "oldentry": "Popular explanation: wringing a neck.",
   "english": [
     "hatred",
     "loathing",
@@ -43,19 +39,8 @@
     "despicable"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an extremely strong dislike for something. English = hate, detest, loathe.",
-    "2. To be disliked very much. English = (be) hated, (be) loathsome, (be) detested, (be) detestable.",
-    "3. To have a very low opinion of someone and to dislike them very much. English = despise.",
-    "4. To be extremely nasty and evil. English = (be) despicable."
-  ],
   "cf": [
     "twist.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An extremely strong dislike for something. English = hatred, loathing."
   ],
   "signNumber": 2763,
   "recordNumber": 1545,
@@ -68,5 +53,20 @@
   "synonyms": [
     "hate.1",
     "dislike.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an extremely strong dislike for something. English = hate, detest, loathe.",
+    "2. To be disliked very much. English = (be) hated, (be) loathsome, (be) detested, (be) detestable.",
+    "3. To have a very low opinion of someone and to dislike them very much. English = despise.",
+    "4. To be extremely nasty and evil. English = (be) despicable."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An extremely strong dislike for something. English = hatred, loathing."
+  ],
+  "idGloss": "hate.2",
+  "oldEntry": "Popular explanation: wringing a neck."
 }

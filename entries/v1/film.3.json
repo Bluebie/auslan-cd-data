@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "film.3",
-  "oldentry": "Popular explanation: the two spools of a projector turning.",
   "english": [
     "spool",
     "reel",
@@ -35,20 +31,10 @@
     "projectionist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a projector."
-  ],
   "cf": [
     "light.2",
     "film.4",
     "film.5"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A round object onto which film can be wound, especially before it is put in a projector. English = spool, reel.",
-    "2. A machine that turns a spool of film and projects the film onto a screen or wall. English = projector.",
-    "3. A person whose job is to work a projector, for example in a cinema. English = projectionist."
   ],
   "signNumber": 2599,
   "recordNumber": 1439,
@@ -62,5 +48,19 @@
     "film.1",
     "film.2a",
     "projector.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a projector."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A round object onto which film can be wound, especially before it is put in a projector. English = spool, reel.",
+    "2. A machine that turns a spool of film and projects the film onto a screen or wall. English = projector.",
+    "3. A person whose job is to work a projector, for example in a cinema. English = projectionist."
+  ],
+  "idGloss": "film.3",
+  "oldEntry": "Popular explanation: the two spools of a projector turning."
 }

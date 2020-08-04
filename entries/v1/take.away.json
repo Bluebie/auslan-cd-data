@@ -11,21 +11,11 @@
   "sense": "4",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "take.away",
-  "oldentry": "",
   "english": [
     "take away"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Cooked, ready-to-eat food that you buy from a shop and take somewhere else to eat. English = take away."
-  ],
   "signNumber": 2770,
   "recordNumber": 1551,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Cooked, ready-to-eat food that you buy from a shop and take somewhere else to eat. English = take away."
+  ],
+  "idGloss": "take.away",
+  "oldEntry": ""
 }

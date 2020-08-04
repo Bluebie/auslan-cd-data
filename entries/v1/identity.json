@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "identity",
-  "oldentry": "",
   "english": [
     "identity"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the qualities, beliefs, and ideas which make you feel that you belong to a particular group or which define who you are. English = identity."
-  ],
   "signNumber": 5053,
   "recordNumber": 3048,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the qualities, beliefs, and ideas which make you feel that you belong to a particular group or which define who you are. English = identity."
+  ],
+  "idGloss": "identity",
+  "oldEntry": ""
 }

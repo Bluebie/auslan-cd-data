@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "certificate.1a",
-  "oldentry": "Popular explanation: unrolling a piece of paper.",
   "english": [
     "qualifications",
     "degree",
@@ -39,17 +35,7 @@
     "accredited"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To pass the examinations in a course of study in a particular area of knowledge which gives you the knowledge and skills to do something. English = qualify, (be) qualified.",
-    "2. To have a statement which shows that you have completed and passed a course of study which enables you to do some particular task or job. English = (be) qualified, (be) certified, (be) accredited."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The course of study and the examinations you have passed in a particular area of knowledge which give you the knowledge and skills to do something. English = qualifications.",
-    "2. A statement which shows that you have completed and passed a course of study. English = degree, diploma, certificate, qualification."
-  ],
   "signNumber": 5921,
   "recordNumber": 3523,
   "signVisualComposition": "",
@@ -60,5 +46,19 @@
   "antonyms": [],
   "synonyms": [
     "certificate.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To pass the examinations in a course of study in a particular area of knowledge which gives you the knowledge and skills to do something. English = qualify, (be) qualified.",
+    "2. To have a statement which shows that you have completed and passed a course of study which enables you to do some particular task or job. English = (be) qualified, (be) certified, (be) accredited."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The course of study and the examinations you have passed in a particular area of knowledge which give you the knowledge and skills to do something. English = qualifications.",
+    "2. A statement which shows that you have completed and passed a course of study. English = degree, diploma, certificate, qualification."
+  ],
+  "idGloss": "certificate.1a",
+  "oldEntry": "Popular explanation: unrolling a piece of paper."
 }

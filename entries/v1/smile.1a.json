@@ -19,27 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "smile.1a",
-  "oldentry": "Popular explanation: the outline of a smile.",
   "english": [
     "smile",
     "happiness",
     "happy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To show that you are happy, pleased, amused or being friendly by turning up the corners of your mouth and sometimes by showing your teeth. English = smile.",
-    "2. To have feelings of pleasure, often because something nice has happened. English = (be) happy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The expression you have when you smile. English = smile.",
-    "2. The feeling you often have when you smile; a feeling of pleasure, often because something nice has happened. English = happiness."
-  ],
   "signNumber": 859,
   "recordNumber": 491,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
   "synonyms": [
     "happy.1",
     "pleased"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To show that you are happy, pleased, amused or being friendly by turning up the corners of your mouth and sometimes by showing your teeth. English = smile.",
+    "2. To have feelings of pleasure, often because something nice has happened. English = (be) happy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The expression you have when you smile. English = smile.",
+    "2. The feeling you often have when you smile; a feeling of pleasure, often because something nice has happened. English = happiness."
+  ],
+  "idGloss": "smile.1a",
+  "oldEntry": "Popular explanation: the outline of a smile."
 }

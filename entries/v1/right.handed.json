@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "right.handed",
-  "oldentry": "",
   "english": [
     "right handed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use the same hand as most people in order to write, sign or do complicated actions. English = (be) right handed.",
-    "2. To have the steering wheel of a car located on the right side of the car. English = right hand drive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4042,
   "recordNumber": 2418,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "synonyms": [
     "right.2",
     "right.side"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use the same hand as most people in order to write, sign or do complicated actions. English = (be) right handed.",
+    "2. To have the steering wheel of a car located on the right side of the car. English = right hand drive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "right.handed",
+  "oldEntry": ""
 }

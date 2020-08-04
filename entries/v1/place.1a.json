@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "place.1a",
-  "oldentry": "Popular explanation: placing something somewhere.",
   "english": [
     "put",
     "place"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move something carefully into a particular place or position. English = put, place, put with care."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 104,
   "recordNumber": 55,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "put.away"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move something carefully into a particular place or position. English = put, place, put with care."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "place.1a",
+  "oldEntry": "Popular explanation: placing something somewhere."
 }

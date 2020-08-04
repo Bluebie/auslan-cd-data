@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Anything of this general shape (a tick or wide rectangular shape on a horizontal plane), or any thing or any action directly or indirectly associated with this, such as a barrier, wall or moat, and especially a verandah.",
-  "questlex": [],
-  "idgloss": "verandah.3",
-  "oldentry": "Popular explanation: the outline of a verandah.",
   "english": [
     "verandah"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A platform along the outside walls of a house with a roof supported by pillars. English = verandah."
-  ],
   "signNumber": 5386,
   "recordNumber": 3216,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "verandah.1",
     "verandah.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Anything of this general shape (a tick or wide rectangular shape on a horizontal plane), or any thing or any action directly or indirectly associated with this, such as a barrier, wall or moat, and especially a verandah.",
+  "nominalLexeme": [
+    "1. A platform along the outside walls of a house with a roof supported by pillars. English = verandah."
+  ],
+  "idGloss": "verandah.3",
+  "oldEntry": "Popular explanation: the outline of a verandah."
 }

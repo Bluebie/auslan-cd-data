@@ -20,27 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "elastic.1",
-  "oldentry": "Popular explanation: stretching elastic.",
   "english": [
     "elastic",
     "rubber band",
     "elastic band"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to be stretched easily and then return to its original shape; to be made of elastic. English = (be) elastic.",
-    "2. To stretch a piece of elastic or a rubber band."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic.",
-    "2. A thin circle of rubber that you put around things in order to hold them together. English = rubber band, elastic band."
-  ],
   "signNumber": 1452,
   "recordNumber": 865,
   "signVisualComposition": "",
@@ -53,5 +39,19 @@
     "elastic.2",
     "stretch",
     "plastic.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be able to be stretched easily and then return to its original shape; to be made of elastic. English = (be) elastic.",
+    "2. To stretch a piece of elastic or a rubber band."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic.",
+    "2. A thin circle of rubber that you put around things in order to hold them together. English = rubber band, elastic band."
+  ],
+  "idGloss": "elastic.1",
+  "oldEntry": "Popular explanation: stretching elastic."
 }

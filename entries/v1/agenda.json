@@ -16,28 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "agenda",
-  "oldentry": "",
   "english": [
     "agenda",
     "sequence",
     "order"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work through, or go through the list of items that have to be discussed at a meeting."
-  ],
   "cf": [
     "list.1",
     "next.one.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A list of the items that have to be discussed at a meeting. English = agenda.",
-    "2. A number of events or things that come one after another in a particular way or at a particular time. English = sequence, order."
   ],
   "signNumber": 4915,
   "recordNumber": 2969,
@@ -47,5 +34,18 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work through, or go through the list of items that have to be discussed at a meeting."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A list of the items that have to be discussed at a meeting. English = agenda.",
+    "2. A number of events or things that come one after another in a particular way or at a particular time. English = sequence, order."
+  ],
+  "idGloss": "agenda",
+  "oldEntry": ""
 }

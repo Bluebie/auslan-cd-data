@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "twin.1a",
-  "oldentry": "",
   "english": [
     "twins",
     "Gemini"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two people who have the same mother and were born on the same day. English = twins.",
-    "2. A constellation and star sign of the Zodiac, called Gemini (the Twins)."
-  ],
   "signNumber": 1579,
   "recordNumber": 940,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "twin.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two people who have the same mother and were born on the same day. English = twins.",
+    "2. A constellation and star sign of the Zodiac, called Gemini (the Twins)."
+  ],
+  "idGloss": "twin.1a",
+  "oldEntry": ""
 }

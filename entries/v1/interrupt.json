@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "interrupt",
-  "oldentry": "",
   "english": [
     "interruption",
     "disturbance",
@@ -44,23 +40,9 @@
     "disrupt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gain someone's attention by tapping them on the arm or shoulder.",
-    "2. To say or do something that causes someone who is speaking or signing to pause or stop. English = interrupt.",
-    "3. To interrupt what someone is doing and cause them inconvenience. English = disturb, irritate, hassle.",
-    "4. To prevent an event, system or process from proceeding or operating easily or peacefully. English = disrupt."
-  ],
   "cf": [
     "problem.1",
     "naughty.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act or action of gaining someone's attention by tapping them, usually on the arm or shoulder.",
-    "2. Something which temporarily prevents an activity from continuing; the act of stopping someone or something temporarily. English = interruption.",
-    "3. An interruption to what someone is doing that causes them inconvenience. English = disturbance, irritation, hassle.",
-    "4. The prevention of an event, system or process from proceeding or operating easily or peacefully. English = disruption."
   ],
   "signNumber": 3318,
   "recordNumber": 1939,
@@ -72,5 +54,23 @@
   "antonyms": [],
   "synonyms": [
     "touch.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gain someone's attention by tapping them on the arm or shoulder.",
+    "2. To say or do something that causes someone who is speaking or signing to pause or stop. English = interrupt.",
+    "3. To interrupt what someone is doing and cause them inconvenience. English = disturb, irritate, hassle.",
+    "4. To prevent an event, system or process from proceeding or operating easily or peacefully. English = disrupt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act or action of gaining someone's attention by tapping them, usually on the arm or shoulder.",
+    "2. Something which temporarily prevents an activity from continuing; the act of stopping someone or something temporarily. English = interruption.",
+    "3. An interruption to what someone is doing that causes them inconvenience. English = disturbance, irritation, hassle.",
+    "4. The prevention of an event, system or process from proceeding or operating easily or peacefully. English = disruption."
+  ],
+  "idGloss": "interrupt",
+  "oldEntry": ""
 }

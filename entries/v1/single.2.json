@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "The sign can incorporate number handshapes up to 5 for 'double', 'triple', and so on.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "single.2",
-  "oldentry": "",
   "english": [
     "singles",
     "single"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be only one and not more. English = (be) single."
-  ],
   "cf": [
     "double.2",
     "triple"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sports competition in which only two people compete against each other. English = singles."
   ],
   "signNumber": 895,
   "recordNumber": 513,
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be only one and not more. English = (be) single."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sports competition in which only two people compete against each other. English = singles."
+  ],
+  "idGloss": "single.2",
+  "oldEntry": ""
 }

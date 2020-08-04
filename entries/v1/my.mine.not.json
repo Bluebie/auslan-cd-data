@@ -10,10 +10,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "my.mine.not",
-  "oldentry": "",
   "english": [
     "not my",
     "not mine"
@@ -21,13 +17,7 @@
   "deictic": [
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is not owned or possessed by the person or thing this sign is directed towards. In this case, the thing is not owned by the signer. English = not my, not mine."
   ],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you deny all responsibility or involvement in something someone has done or said. English = 'It's got nothing to do with me!'."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5642,
   "recordNumber": 3344,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to mean that you deny all responsibility or involvement in something someone has done or said. English = 'It's got nothing to do with me!'."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "my.mine.not",
+  "oldEntry": ""
 }

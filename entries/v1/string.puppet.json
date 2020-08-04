@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "string.puppet",
-  "oldentry": "Popular explanation: operating a string puppet.",
   "english": [
     "string puppet",
     "puppet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a string puppet move by pulling the strings which are attached to it."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A doll that you can move by pulling strings which are attached to it. English  = string puppet."
-  ],
   "signNumber": 411,
   "recordNumber": 228,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "hand.puppet.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a string puppet move by pulling the strings which are attached to it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A doll that you can move by pulling strings which are attached to it. English  = string puppet."
+  ],
+  "idGloss": "string.puppet",
+  "oldEntry": "Popular explanation: operating a string puppet."
 }

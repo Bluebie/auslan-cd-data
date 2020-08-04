@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bottle.1",
-  "oldentry": "Popular explanation: the outline of a bottle.",
   "english": [
     "bottle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "pour.from",
     "sauce"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A container for keeping liquids in. It is usually made of glass or plastic and is shaped like a cylinder with a narrow top. English = bottle."
   ],
   "signNumber": 3804,
   "recordNumber": 2260,
@@ -42,5 +32,15 @@
   "antonyms": [],
   "synonyms": [
     "bottle.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A container for keeping liquids in. It is usually made of glass or plastic and is shaped like a cylinder with a narrow top. English = bottle."
+  ],
+  "idGloss": "bottle.1",
+  "oldEntry": "Popular explanation: the outline of a bottle."
 }

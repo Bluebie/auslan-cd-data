@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fight.1a",
-  "oldentry": "Popular explanation: raised fists.",
   "english": [
     "fight"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people, to try to hurt each other physically, especially by hitting each other with closed fists. English = fight, fight with fists.",
-    "2. To agitate and lobby for something in a way that involves political struggle and confrontation."
-  ],
   "cf": [
     "boxing"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A confrontation between two or more people in which they try to hurt each other physically, especially by hitting each other with closed fists. English = fight, fist fight."
   ],
   "signNumber": 5739,
   "recordNumber": 3400,
@@ -48,5 +35,18 @@
   "synonyms": [
     "punch.1a",
     "fight.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people, to try to hurt each other physically, especially by hitting each other with closed fists. English = fight, fight with fists.",
+    "2. To agitate and lobby for something in a way that involves political struggle and confrontation."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A confrontation between two or more people in which they try to hurt each other physically, especially by hitting each other with closed fists. English = fight, fist fight."
+  ],
+  "idGloss": "fight.1a",
+  "oldEntry": "Popular explanation: raised fists."
 }

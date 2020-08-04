@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "poetry",
-  "oldentry": "",
   "english": [
     "poetry",
     "poem"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A form of literature in which language is carefully fashioned into a signed, spoken or written text in which the words or signs are arranged and selected for their meaning and their visual or sound quality, especially rhymes. English = poetry, poem."
-  ],
   "signNumber": 1864,
   "recordNumber": 1116,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A form of literature in which language is carefully fashioned into a signed, spoken or written text in which the words or signs are arranged and selected for their meaning and their visual or sound quality, especially rhymes. English = poetry, poem."
+  ],
+  "idGloss": "poetry",
+  "oldEntry": ""
 }

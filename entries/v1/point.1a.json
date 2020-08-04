@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "point.1a",
-  "oldentry": "",
   "english": [
     "point",
     "dot",
@@ -35,18 +31,7 @@
     "decimal point"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a point, dot, or spot as part of drawing.",
-    "2. To make a stop, full stop or period as part of writing to show the end of a sentence."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mark on a piece of paper or on a display screen (or any surface which can be drawn or written on) which is small, round and completely filled in. English = point, dot, spot.",
-    "2. A mark in writing that is small, round and completely filled in which marks the end of a sentence. English = full stop, stop, period.",
-    "3. A dot that separates the whole numbers from the fractions in the writing and signing of numbers and amounts of money (dollars from cents). English = decimal point, point."
-  ],
   "signNumber": 1262,
   "recordNumber": 749,
   "signVisualComposition": "",
@@ -58,5 +43,20 @@
   "synonyms": [
     "dot",
     "spots.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a point, dot, or spot as part of drawing.",
+    "2. To make a stop, full stop or period as part of writing to show the end of a sentence."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mark on a piece of paper or on a display screen (or any surface which can be drawn or written on) which is small, round and completely filled in. English = point, dot, spot.",
+    "2. A mark in writing that is small, round and completely filled in which marks the end of a sentence. English = full stop, stop, period.",
+    "3. A dot that separates the whole numbers from the fractions in the writing and signing of numbers and amounts of money (dollars from cents). English = decimal point, point."
+  ],
+  "idGloss": "point.1a",
+  "oldEntry": ""
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "verandah.1",
-  "oldentry": "Popular explanation: leaning on a railing.",
   "english": [
     "verandah"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A platform along one of the outside walls of a house, usually on ground level. It has a roof supported by pillars. English = verandah."
-  ],
   "signNumber": 5892,
   "recordNumber": 3503,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "verandah.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A platform along one of the outside walls of a house, usually on ground level. It has a roof supported by pillars. English = verandah."
+  ],
+  "idGloss": "verandah.1",
+  "oldEntry": "Popular explanation: leaning on a railing."
 }

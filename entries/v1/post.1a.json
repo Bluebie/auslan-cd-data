@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of putting a flat object inside a narrow opening, such as a card in an ATM, a disk in a computer, or a bank-book through a slot to a bank teller, or any action or any thing directly or indirectly associated with this, especially posting.",
-  "questlex": [],
-  "idgloss": "post.1a",
-  "oldentry": "",
   "english": [
     "postbox",
     "letterbox",
@@ -41,21 +37,8 @@
     "bank"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send a letter or parcel to someone by putting it in a post-box or by taking it to a post office. English = post.",
-    "2. To put money into a bank account, usually by using a bank-book and a teller. English = bank.",
-    "3. To operate an ATM (automatic teller machine)."
-  ],
   "cf": [
     "post office"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large metal container in the street into which you post letters. English = postbox.",
-    "2. A metal box at your front gate or a rectangular hole in your front door through which letters for you are delivered. English = letterbox.",
-    "3. A place where you keep your money in an account. English = bank.",
-    "4. A special banking machine found in public places in which you insert your personal card in order to make withdrawals, deposits and transfers. English = ATM (automatic teller machine)."
   ],
   "signNumber": 4380,
   "recordNumber": 2669,
@@ -68,5 +51,22 @@
   "synonyms": [
     "bank.1",
     "letterbox"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send a letter or parcel to someone by putting it in a post-box or by taking it to a post office. English = post.",
+    "2. To put money into a bank account, usually by using a bank-book and a teller. English = bank.",
+    "3. To operate an ATM (automatic teller machine)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of putting a flat object inside a narrow opening, such as a card in an ATM, a disk in a computer, or a bank-book through a slot to a bank teller, or any action or any thing directly or indirectly associated with this, especially posting.",
+  "nominalLexeme": [
+    "1. A large metal container in the street into which you post letters. English = postbox.",
+    "2. A metal box at your front gate or a rectangular hole in your front door through which letters for you are delivered. English = letterbox.",
+    "3. A place where you keep your money in an account. English = bank.",
+    "4. A special banking machine found in public places in which you insert your personal card in order to make withdrawals, deposits and transfers. English = ATM (automatic teller machine)."
+  ],
+  "idGloss": "post.1a",
+  "oldEntry": ""
 }

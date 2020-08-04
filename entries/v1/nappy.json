@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nappy",
-  "oldentry": "Popular explanation: pinning up a nappy.",
   "english": [
     "nappy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fasten a nappy on to a baby; to be wearing a nappy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of soft thick cloth or paper which is fastened round a baby's bottom in order to soak up its urine and faeces. English = nappy."
-  ],
   "signNumber": 2089,
   "recordNumber": 1214,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 17,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fasten a nappy on to a baby; to be wearing a nappy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of soft thick cloth or paper which is fastened round a baby's bottom in order to soak up its urine and faeces. English = nappy."
+  ],
+  "idGloss": "nappy",
+  "oldEntry": "Popular explanation: pinning up a nappy."
 }

@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shift.1",
-  "oldentry": "",
   "english": [
     "shift",
     "shift work"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To work on a shift.",
-    "2. To be working irregular hours on shift work."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A set period of time during which people work in a factory. English = shift.",
-    "2. Work which is done for periods of time during different shifts throughout the day. English = shift work."
-  ],
   "signNumber": 3874,
   "recordNumber": 2304,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To work on a shift.",
+    "2. To be working irregular hours on shift work."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A set period of time during which people work in a factory. English = shift.",
+    "2. Work which is done for periods of time during different shifts throughout the day. English = shift work."
+  ],
+  "idGloss": "shift.1",
+  "oldEntry": ""
 }

@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Some kind of vertical surface or line of things in front of you or the person, place or thing you represent, such as a barrier or fence, or any thing or any action directly or indirectly associated with this, especially a row of things.",
-  "questlex": [],
-  "idgloss": "row.3a",
-  "oldentry": "",
   "english": [
     "row"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of people or things arranged in a line. English = row.",
-    "2. A line of seats in a theatre or a cinema. English = row."
-  ],
   "signNumber": 3935,
   "recordNumber": 2346,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Some kind of vertical surface or line of things in front of you or the person, place or thing you represent, such as a barrier or fence, or any thing or any action directly or indirectly associated with this, especially a row of things.",
+  "nominalLexeme": [
+    "1. A number of people or things arranged in a line. English = row.",
+    "2. A line of seats in a theatre or a cinema. English = row."
+  ],
+  "idGloss": "row.3a",
+  "oldEntry": ""
 }

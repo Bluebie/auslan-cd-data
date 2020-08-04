@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "invite.into.1a",
-  "oldentry": "Popular explanation: culturally shared gesture of ushering, showing the way.",
   "english": [
     "usher",
     "usherette",
@@ -35,20 +31,7 @@
     "admit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To politely show someone where they should go often with a wave of the hand and letting them walk slightly in front of you. English = usher.",
-    "2. To politely indicate to someone with a wave of the hand that they should enter a building, room or doorway. English = usher in, invite in, admit into."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to politely indicate the direction in which someone should go. English = 'This way, please.'",
-    "2. Used alone to politely invite someone to enter into a building, room or doorway; or to indicate to a guest to go ahead and do something. English = 'Do come in!'; 'Be my guest!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who works in a cinema or theatre who shows people where to sit. English = usher (male or female), usherette (female only).",
-    "2. Someone who is staying in your home or is at an occasion because you have invited them. English = guest."
-  ],
   "signNumber": 3411,
   "recordNumber": 1992,
   "signVisualComposition": "",
@@ -61,5 +44,22 @@
   ],
   "synonyms": [
     "welcome.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to politely indicate the direction in which someone should go. English = 'This way, please.'",
+    "2. Used alone to politely invite someone to enter into a building, room or doorway; or to indicate to a guest to go ahead and do something. English = 'Do come in!'; 'Be my guest!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To politely show someone where they should go often with a wave of the hand and letting them walk slightly in front of you. English = usher.",
+    "2. To politely indicate to someone with a wave of the hand that they should enter a building, room or doorway. English = usher in, invite in, admit into."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who works in a cinema or theatre who shows people where to sit. English = usher (male or female), usherette (female only).",
+    "2. Someone who is staying in your home or is at an occasion because you have invited them. English = guest."
+  ],
+  "idGloss": "invite.into.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture of ushering, showing the way."
 }

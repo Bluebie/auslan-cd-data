@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "first.4",
-  "oldentry": "",
   "english": [
     "first"
   ],
   "deictic": [],
-  "verblex": [
-    "To be the person, thing or event that happens or comes before all the others of the same kind. English = (be) first."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person, thing or event that comes before all the others of the same kind; the first thing."
-  ],
   "signNumber": 1295,
   "recordNumber": 770,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
     "first.1a",
     "first.2a",
     "first.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "To be the person, thing or event that happens or comes before all the others of the same kind. English = (be) first."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person, thing or event that comes before all the others of the same kind; the first thing."
+  ],
+  "idGloss": "first.4",
+  "oldEntry": ""
 }

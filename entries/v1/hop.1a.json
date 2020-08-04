@@ -13,25 +13,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hop.1a",
-  "oldentry": "",
   "english": [
     "hop"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to move along jumping on one foot. English = hop."
-  ],
   "cf": [
     "skip.1",
     "stand.1a",
     "jump.up"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1872,
   "recordNumber": 1121,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to move along jumping on one foot. English = hop."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hop.1a",
+  "oldEntry": ""
 }

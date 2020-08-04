@@ -13,25 +13,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hanging",
-  "oldentry": "Popular explanation: pulling on something around the neck.",
   "english": [
     "hanging",
     "hang"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To kill someone by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hang."
-  ],
   "cf": [
     "hangover"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The practice of executing people by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hanging."
   ],
   "signNumber": 5629,
   "recordNumber": 3334,
@@ -41,5 +29,17 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To kill someone by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hang."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The practice of executing people by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hanging."
+  ],
+  "idGloss": "hanging",
+  "oldEntry": "Popular explanation: pulling on something around the neck."
 }

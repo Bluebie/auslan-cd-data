@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Amen",
-  "oldentry": "",
   "english": [
     "Amen"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. This sign is used by Christians at the end of a prayer. English = 'Amen.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4243,
   "recordNumber": 2571,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. This sign is used by Christians at the end of a prayer. English = 'Amen.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "Amen",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "TTY.1",
-  "oldentry": "Popular explanation: picking up and placing a telephone receiver on a TTY.",
   "english": [
     "TTY",
     "telephone typewriter",
@@ -29,15 +25,7 @@
     "teletype"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To answer a telephone typewriter."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device with a typewriter keyboard which sends and receives typed messages over the telephone. English = telephone typewriter, teletypewriter, teletype, TTY."
-  ],
   "signNumber": 6612,
   "recordNumber": 3935,
   "signVisualComposition": "",
@@ -50,5 +38,17 @@
     "TTY.2",
     "telephone.1",
     "answer.telephone"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To answer a telephone typewriter."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device with a typewriter keyboard which sends and receives typed messages over the telephone. English = telephone typewriter, teletypewriter, teletype, TTY."
+  ],
+  "idGloss": "TTY.1",
+  "oldEntry": "Popular explanation: picking up and placing a telephone receiver on a TTY."
 }

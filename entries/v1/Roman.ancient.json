@@ -11,23 +11,12 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Roman.ancient",
-  "oldentry": "",
   "english": [
     "centurion",
     "Roman"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A soldier or officer in the ancient Roman army. English = centurion.",
-    "2. A person who lived in the ancient city of Rome. English = (ancient) Roman."
-  ],
   "signNumber": 2373,
   "recordNumber": 1308,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A soldier or officer in the ancient Roman army. English = centurion.",
+    "2. A person who lived in the ancient city of Rome. English = (ancient) Roman."
+  ],
+  "idGloss": "Roman.ancient",
+  "oldEntry": ""
 }

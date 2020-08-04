@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "general.1",
-  "oldentry": "",
   "english": [
     "general"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that belongs or relates to the whole of something rather than to its details or parts. English = (be) general."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3739,
   "recordNumber": 2206,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   ],
   "synonyms": [
     "open"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something that belongs or relates to the whole of something rather than to its details or parts. English = (be) general."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "general.1",
+  "oldEntry": ""
 }

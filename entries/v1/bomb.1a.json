@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bomb.1a",
-  "oldentry": "Popular explanation: an object exploding.",
   "english": [
     "explosion",
     "bang",
@@ -43,21 +39,7 @@
     "blow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To expand suddenly and break into lots of small pieces with great force, often causing a lot of damage. English = explode, blow up.",
-    "2. To cause so much damage to something that it is completely ruined, especially through warfare and the use of bombs. English = destroy.",
-    "3. Of a light bulb, to suddenly break, often with a flash. English = blow.",
-    "4. To suddenly break or split open letting out the air or some other substance which was inside. English = burst."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sudden violent burst of energy. English = explosion.",
-    "2. A loud noise such as the noise of an explosion. English = bang.",
-    "3. A device which explodes and damages or destroys a large area. English = bomb.",
-    "4. The act of destroying something, especially through warfare and the use of bombs. English = destruction, bombing."
-  ],
   "signNumber": 5749,
   "recordNumber": 3405,
   "signVisualComposition": "",
@@ -68,5 +50,23 @@
   "antonyms": [],
   "synonyms": [
     "damage"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To expand suddenly and break into lots of small pieces with great force, often causing a lot of damage. English = explode, blow up.",
+    "2. To cause so much damage to something that it is completely ruined, especially through warfare and the use of bombs. English = destroy.",
+    "3. Of a light bulb, to suddenly break, often with a flash. English = blow.",
+    "4. To suddenly break or split open letting out the air or some other substance which was inside. English = burst."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sudden violent burst of energy. English = explosion.",
+    "2. A loud noise such as the noise of an explosion. English = bang.",
+    "3. A device which explodes and damages or destroys a large area. English = bomb.",
+    "4. The act of destroying something, especially through warfare and the use of bombs. English = destruction, bombing."
+  ],
+  "idGloss": "bomb.1a",
+  "oldEntry": "Popular explanation: an object exploding."
 }

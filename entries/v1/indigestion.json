@@ -10,22 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "indigestion",
-  "oldentry": "",
   "english": [
     "indigestion",
     "heartburn"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A burning pain you get in your stomach when you find it difficult to digest food. English = indigestion, heartburn."
-  ],
   "signNumber": 2959,
   "recordNumber": 1682,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A burning pain you get in your stomach when you find it difficult to digest food. English = indigestion, heartburn."
+  ],
+  "idGloss": "indigestion",
+  "oldEntry": ""
 }

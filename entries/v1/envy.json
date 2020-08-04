@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "envy",
-  "oldentry": "",
   "english": [
     "envy",
     "envious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wish you had things or qualities that other people have. English = envy someone, (be) envious of someone."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to being told by someone that they have done something or got possession of something that you wish you did or had. English = 'Lucky you!', 'What luck!', 'Can you believe it?', 'How come you got it?'",
-    "2. Used alone to show strong agreement with what your addressee has just said or done. English = 'That's it!', 'Good on you!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4752,
   "recordNumber": 2873,
   "signVisualComposition": "GOOD + YOU",
@@ -46,5 +33,18 @@
   ],
   "synonyms": [
     "jealous.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to being told by someone that they have done something or got possession of something that you wish you did or had. English = 'Lucky you!', 'What luck!', 'Can you believe it?', 'How come you got it?'",
+    "2. Used alone to show strong agreement with what your addressee has just said or done. English = 'That's it!', 'Good on you!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wish you had things or qualities that other people have. English = envy someone, (be) envious of someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "envy",
+  "oldEntry": ""
 }

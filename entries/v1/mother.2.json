@@ -17,21 +17,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mother.2",
-  "oldentry": "",
   "english": [
     "mother"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The woman who gave birth to you. English = mother."
-  ],
   "signNumber": 2369,
   "recordNumber": 1305,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   ],
   "synonyms": [
     "mother.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The woman who gave birth to you. English = mother."
+  ],
+  "idGloss": "mother.2",
+  "oldEntry": ""
 }

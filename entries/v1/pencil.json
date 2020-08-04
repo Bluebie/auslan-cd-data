@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pencil",
-  "oldentry": "Popular explanation: licking a pencil.",
   "english": [
     "pencil"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "write.1a",
     "biro"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An object that you write or draw with. It consists of a thin piece of wood with a rod of graphite in the middle. English = pencil."
   ],
   "signNumber": 6368,
   "recordNumber": 3805,
@@ -39,5 +29,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An object that you write or draw with. It consists of a thin piece of wood with a rod of graphite in the middle. English = pencil."
+  ],
+  "idGloss": "pencil",
+  "oldEntry": "Popular explanation: licking a pencil."
 }

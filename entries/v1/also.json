@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "also",
-  "oldentry": "",
   "english": [
     "also",
     "in addition"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "two",
     "next.one.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a signed sentence or next to a verb (action) sign to mean you want to say one more thing (which you then say) or that the action is the second of a pair of actions. English = also, in addition."
-  ],
-  "nomlex": [
-    "1. The second of two things; the second of a pair."
   ],
   "signNumber": 4895,
   "recordNumber": 2957,
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a signed sentence or next to a verb (action) sign to mean you want to say one more thing (which you then say) or that the action is the second of a pair of actions. English = also, in addition."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The second of two things; the second of a pair."
+  ],
+  "idGloss": "also",
+  "oldEntry": ""
 }

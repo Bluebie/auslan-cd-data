@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "toothbrush.1a",
-  "oldentry": "Popular explanation: brushing one's teeth.",
   "english": [
     "toothbrush"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To brush your teeth, to clean your teeth, to clean your teeth with a toothbrush."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small brush with a long handle which you use for cleaning your teeth. English = toothbrush."
-  ],
   "signNumber": 6078,
   "recordNumber": 3616,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To brush your teeth, to clean your teeth, to clean your teeth with a toothbrush."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small brush with a long handle which you use for cleaning your teeth. English = toothbrush."
+  ],
+  "idGloss": "toothbrush.1a",
+  "oldEntry": "Popular explanation: brushing one's teeth."
 }

@@ -15,27 +15,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thank",
-  "oldentry": "",
   "english": [
     "thanks",
     "thank"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell someone you appreciate what they have done for you. English = thank."
-  ],
   "cf": [
     "please.1"
-  ],
-  "interj": [
-    "1. Used alone in response to someone having done something for you which makes you happy or which fulfils an earlier request you have made. The sign is a polite recognition of this fact. English = thank you, thanks."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The expression of your appreciation or gratitude to someone. English = thanks."
   ],
   "signNumber": 3288,
   "recordNumber": 1919,
@@ -47,5 +33,19 @@
   "antonyms": [],
   "synonyms": [
     "grateful.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to someone having done something for you which makes you happy or which fulfils an earlier request you have made. The sign is a polite recognition of this fact. English = thank you, thanks."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell someone you appreciate what they have done for you. English = thank."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The expression of your appreciation or gratitude to someone. English = thanks."
+  ],
+  "idGloss": "thank",
+  "oldEntry": ""
 }

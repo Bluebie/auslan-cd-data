@@ -14,21 +14,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "school.3",
-  "oldentry": "Popular explanation: bound hands.",
   "english": [
     "school"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where children are educated. English = school."
-  ],
   "signNumber": 5906,
   "recordNumber": 3511,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "school.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where children are educated. English = school."
+  ],
+  "idGloss": "school.3",
+  "oldEntry": "Popular explanation: bound hands."
 }

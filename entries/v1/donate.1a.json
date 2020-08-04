@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "donate.1a",
-  "oldentry": "",
   "english": [
     "contribution",
     "donation",
@@ -28,17 +24,7 @@
     "donate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of several people, to give or pay money into a single or central fund so that they can all pay for something together. English = contribute (money). Idiomatic English = chip in.",
-    "2. To give money to a charity. English = donate (money), make a donation."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Money which several people pay towards something. English = (monetary) contribution.",
-    "2. Money which is given to a charity. English = donation."
-  ],
   "signNumber": 6249,
   "recordNumber": 3734,
   "signVisualComposition": "",
@@ -51,5 +37,19 @@
     "collector.1a",
     "collect.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of several people, to give or pay money into a single or central fund so that they can all pay for something together. English = contribute (money). Idiomatic English = chip in.",
+    "2. To give money to a charity. English = donate (money), make a donation."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Money which several people pay towards something. English = (monetary) contribution.",
+    "2. Money which is given to a charity. English = donation."
+  ],
+  "idGloss": "donate.1a",
+  "oldEntry": ""
 }

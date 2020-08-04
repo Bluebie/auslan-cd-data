@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lid.open",
-  "oldentry": "",
   "english": [
     "lid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lift the top of a box when you want to open it and get at the contents or put things inside. English = open lid, lift lid."
-  ],
   "cf": [
     "lid.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The top of a box which can be raised when you want to open it and get at the contents or put things inside. English = lid."
   ],
   "signNumber": 4089,
   "recordNumber": 2452,
@@ -41,5 +29,17 @@
   "antonyms": [
     "lid.close"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lift the top of a box when you want to open it and get at the contents or put things inside. English = open lid, lift lid."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The top of a box which can be raised when you want to open it and get at the contents or put things inside. English = lid."
+  ],
+  "idGloss": "lid.open",
+  "oldEntry": ""
 }

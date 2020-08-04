@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "touch.1a",
-  "oldentry": "Popular explanation: touching something.",
   "english": [
     "touch",
     "tap",
@@ -33,19 +29,8 @@
     "apply"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gently put your fingertips on something. English = touch, tap.",
-    "2. To write to ask formally to be allowed to have something or do something, especially a job. English = apply.",
-    "3. To tap someone on the shoulder in order to get their attention so that you can talk (sign) to them."
-  ],
   "cf": [
     "remind.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of putting you fingertips gently on something. English = touch, tap.",
-    "2. A request, usually written, to ask formally to be allowed to have something or do something. English = application."
   ],
   "signNumber": 3341,
   "recordNumber": 1952,
@@ -57,5 +42,20 @@
   "antonyms": [],
   "synonyms": [
     "interrupt"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gently put your fingertips on something. English = touch, tap.",
+    "2. To write to ask formally to be allowed to have something or do something, especially a job. English = apply.",
+    "3. To tap someone on the shoulder in order to get their attention so that you can talk (sign) to them."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of putting you fingertips gently on something. English = touch, tap.",
+    "2. A request, usually written, to ask formally to be allowed to have something or do something. English = application."
+  ],
+  "idGloss": "touch.1a",
+  "oldEntry": "Popular explanation: touching something."
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "moon",
-  "oldentry": "",
   "english": [
     "moon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The round object in the sky that you can often see at night. English = moon."
-  ],
   "signNumber": 5093,
   "recordNumber": 3072,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The round object in the sky that you can often see at night. English = moon."
+  ],
+  "idGloss": "moon",
+  "oldEntry": ""
 }

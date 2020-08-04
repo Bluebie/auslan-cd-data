@@ -14,25 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parade.2",
-  "oldentry": "",
   "english": [
     "parade"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a line of people or vehicles, to move somewhere together, for example through the streets of a town, to celebrate a special day or event. English = parade.",
-    "2. Of soldiers, to march together in front of important people or the public. English = parade."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line of people or vehicles moving somewhere together, for example through the streets of a town, to celebrate a special day or event. English = parade.",
-    "2. An occasion on which soldiers march together in front of important people or the public. English = parade."
-  ],
   "signNumber": 2033,
   "recordNumber": 1190,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "antonyms": [],
   "synonyms": [
     "parade.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a line of people or vehicles, to move somewhere together, for example through the streets of a town, to celebrate a special day or event. English = parade.",
+    "2. Of soldiers, to march together in front of important people or the public. English = parade."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line of people or vehicles moving somewhere together, for example through the streets of a town, to celebrate a special day or event. English = parade.",
+    "2. An occasion on which soldiers march together in front of important people or the public. English = parade."
+  ],
+  "idGloss": "parade.2",
+  "oldEntry": ""
 }

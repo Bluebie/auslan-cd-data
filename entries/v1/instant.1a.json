@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "instant.1a",
-  "oldentry": "",
   "english": [
     "instant",
     "moment",
@@ -34,21 +30,9 @@
     "suddenly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To last an extremely short period of time.",
-    "2. To last for a short time. English = (be) temporary."
-  ],
   "cf": [
     "tiny.1",
     "little.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb or phrase to mean the action lasts only for an extremely short period of time. English = briefly, momentarily.",
-    "2. Used between phrases or clauses to mean the second action occurs an extremely short period of time after the first. English = and then suddenly, straight away, shortly after."
-  ],
-  "nomlex": [
-    "1. An extremely short period of time. English = instant, moment."
   ],
   "signNumber": 6372,
   "recordNumber": 3808,
@@ -60,5 +44,21 @@
   "antonyms": [
     "slow.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb or phrase to mean the action lasts only for an extremely short period of time. English = briefly, momentarily.",
+    "2. Used between phrases or clauses to mean the second action occurs an extremely short period of time after the first. English = and then suddenly, straight away, shortly after."
+  ],
+  "verbLexeme": [
+    "1. To last an extremely short period of time.",
+    "2. To last for a short time. English = (be) temporary."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An extremely short period of time. English = instant, moment."
+  ],
+  "idGloss": "instant.1a",
+  "oldEntry": ""
 }

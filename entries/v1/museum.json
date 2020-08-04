@@ -8,21 +8,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "museum",
-  "oldentry": "",
   "english": [
     "museum"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A building where large numbers of interesting and valuable objects are kept and displayed to the public. English = museum."
-  ],
   "signNumber": 1403,
   "recordNumber": 834,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A building where large numbers of interesting and valuable objects are kept and displayed to the public. English = museum."
+  ],
+  "idGloss": "museum",
+  "oldEntry": ""
 }

@@ -20,24 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A high surface which is everywhere the same distance from the ground and not sloping or curved and with no parts higher than any other, or any action or any thing directly or indirectly associated with this, especially a shelf or a ledge.",
-  "questlex": [],
-  "idgloss": "high.flat.surface.1a",
-  "oldentry": "Popular explanation: the level of a high flat surfaces.",
   "english": [
     "shelf",
     "ledge"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "horizontal"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat piece of wood, metal, or glass, attached to a wall high up or the sides of a cupboard, and used for keeping things on. English = shelf.",
-    "2. A narrow, flat place along the bottom edge of a high window or high up in the side of a mountain or cliff. English = ledge."
   ],
   "signNumber": 3701,
   "recordNumber": 2182,
@@ -54,5 +43,16 @@
     "shelf.1a",
     "flat.surface.1a",
     "low.flat.surface.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A high surface which is everywhere the same distance from the ground and not sloping or curved and with no parts higher than any other, or any action or any thing directly or indirectly associated with this, especially a shelf or a ledge.",
+  "nominalLexeme": [
+    "1. A flat piece of wood, metal, or glass, attached to a wall high up or the sides of a cupboard, and used for keeping things on. English = shelf.",
+    "2. A narrow, flat place along the bottom edge of a high window or high up in the side of a mountain or cliff. English = ledge."
+  ],
+  "idGloss": "high.flat.surface.1a",
+  "oldEntry": "Popular explanation: the level of a high flat surfaces."
 }

@@ -18,27 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "memorise",
-  "oldentry": "",
   "english": [
     "memorisation",
     "memorise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To learn something thoroughly so that you can remember it exactly. English = memorise."
-  ],
   "cf": [
     "take.in.experience",
     "student.1a",
     "learn.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process of learning something thoroughly so that you can remember it exactly. English = memorisation."
   ],
   "signNumber": 2427,
   "recordNumber": 1345,
@@ -53,5 +41,17 @@
   ],
   "synonyms": [
     "remember.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To learn something thoroughly so that you can remember it exactly. English = memorise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process of learning something thoroughly so that you can remember it exactly. English = memorisation."
+  ],
+  "idGloss": "memorise",
+  "oldEntry": ""
 }

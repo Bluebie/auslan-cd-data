@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.behind",
-  "oldentry": "",
   "english": [
     "behind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located so that the back of a thing or person is facing you. English = (be) behind.",
-    "2. To go or move so that you are facing the back of a thing or person, or so that something or someone is between you and another thing or person. English = go behind."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4166,
   "recordNumber": 2516,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   ],
   "synonyms": [
     "behind"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located so that the back of a thing or person is facing you. English = (be) behind.",
+    "2. To go or move so that you are facing the back of a thing or person, or so that something or someone is between you and another thing or person. English = go behind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "go.behind",
+  "oldEntry": ""
 }

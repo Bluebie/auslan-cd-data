@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of outlining something which is small and rectangular, or any thing or any action which is directly or indirectly associated with this, especially a ticket or a card.",
-  "questlex": [],
-  "idgloss": "ticket.1a",
-  "oldentry": "",
   "english": [
     "ticket",
     "card",
@@ -28,16 +24,7 @@
     "business card"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An official piece of paper or card which shows that you have paid for a journey or have paid to enter a place of entertainment such as a sports ground or cinema. English = ticket.",
-    "2. A small piece of stiff paper that you write information on. English = card.",
-    "3. A small piece of stiff paper, cardboard or plastic with your name, photograph or signature on it. English = card, pass.",
-    "4. A small piece of stiff paper with your name and business details which you give to people when you first meet them. English = business card."
-  ],
   "signNumber": 5368,
   "recordNumber": 3207,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "antonyms": [],
   "synonyms": [
     "card"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of outlining something which is small and rectangular, or any thing or any action which is directly or indirectly associated with this, especially a ticket or a card.",
+  "nominalLexeme": [
+    "1. An official piece of paper or card which shows that you have paid for a journey or have paid to enter a place of entertainment such as a sports ground or cinema. English = ticket.",
+    "2. A small piece of stiff paper that you write information on. English = card.",
+    "3. A small piece of stiff paper, cardboard or plastic with your name, photograph or signature on it. English = card, pass.",
+    "4. A small piece of stiff paper with your name and business details which you give to people when you first meet them. English = business card."
+  ],
+  "idGloss": "ticket.1a",
+  "oldEntry": ""
 }

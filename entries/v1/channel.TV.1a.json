@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "channel.TV.1a",
-  "oldentry": "",
   "english": [
     "channel",
     "station"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A wavelength on which television or radio programs are broadcast. English = channel, station."
-  ],
   "signNumber": 5172,
   "recordNumber": 3113,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A wavelength on which television or radio programs are broadcast. English = channel, station."
+  ],
+  "idGloss": "channel.TV.1a",
+  "oldEntry": ""
 }

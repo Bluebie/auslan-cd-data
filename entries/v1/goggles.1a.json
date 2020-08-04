@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "goggles.1a",
-  "oldentry": "",
   "english": [
     "goggles"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or wear goggles."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Large glasses that fit closely to your face around your eyes to protect them from such things as water, wind, or sparks. English = goggles."
-  ],
   "signNumber": 5360,
   "recordNumber": 3201,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "spectacles.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or wear goggles."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Large glasses that fit closely to your face around your eyes to protect them from such things as water, wind, or sparks. English = goggles."
+  ],
+  "idGloss": "goggles.1a",
+  "oldEntry": ""
 }

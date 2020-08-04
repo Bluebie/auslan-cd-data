@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "straw.1a",
-  "oldentry": "Popular explanation: a long thin object from a cup.",
   "english": [
     "straw"
   ],
   "deictic": [],
-  "verblex": [
-    "1. [With sucking in action] to drink using a drinking straw."
-  ],
   "cf": [
     "thin.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thin tube of paper or plastic, which you use to suck a drink into your mouth. English = straw, drinking straw."
   ],
   "signNumber": 5497,
   "recordNumber": 3261,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. [With sucking in action] to drink using a drinking straw."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thin tube of paper or plastic, which you use to suck a drink into your mouth. English = straw, drinking straw."
+  ],
+  "idGloss": "straw.1a",
+  "oldEntry": "Popular explanation: a long thin object from a cup."
 }

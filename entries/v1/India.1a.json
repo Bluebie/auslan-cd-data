@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "India.1a",
-  "oldentry": "Popular explanation: the religious mark of an Indian Hindu.",
   "english": [
     "India",
     "Indian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to India. English = (be) Indian."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in South Asia, between Pakistan and Bangladesh, called India."
-  ],
   "signNumber": 6490,
   "recordNumber": 3863,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to India. English = (be) Indian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in South Asia, between Pakistan and Bangladesh, called India."
+  ],
+  "idGloss": "India.1a",
+  "oldEntry": "Popular explanation: the religious mark of an Indian Hindu."
 }

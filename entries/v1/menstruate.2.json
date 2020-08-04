@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "menstruate.2",
-  "oldentry": "",
   "english": [
     "menstruation",
     "menstruate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a woman, for blood to come from her womb. Women who are fertile do this regularly, once a month. English = menstruate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a woman, the discharge of blood from her womb. This happens regularly, once a month, to fertile women. English = menstruation."
-  ],
   "signNumber": 2255,
   "recordNumber": 1277,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "menstruate.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a woman, for blood to come from her womb. Women who are fertile do this regularly, once a month. English = menstruate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a woman, the discharge of blood from her womb. This happens regularly, once a month, to fertile women. English = menstruation."
+  ],
+  "idGloss": "menstruate.2",
+  "oldEntry": ""
 }

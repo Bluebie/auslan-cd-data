@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "GROUP + D",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "department.2",
-  "oldentry": "",
   "english": [
     "department"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the sections in a large shop, organisation or government. English = department."
-  ],
   "signNumber": 903,
   "recordNumber": 518,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the sections in a large shop, organisation or government. English = department."
+  ],
+  "idGloss": "department.2",
+  "oldEntry": ""
 }

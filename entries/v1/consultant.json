@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "consultant",
-  "oldentry": "",
   "english": [
     "consultant",
     "consultation"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who gives expert advice to people who need professional help. English = consultant.",
-    "2. A discussion between people, particularly when questions are asked and advice and information is being given. English = consultation."
-  ],
   "signNumber": 356,
   "recordNumber": 197,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who gives expert advice to people who need professional help. English = consultant.",
+    "2. A discussion between people, particularly when questions are asked and advice and information is being given. English = consultation."
+  ],
+  "idGloss": "consultant",
+  "oldEntry": ""
 }

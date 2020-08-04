@@ -10,24 +10,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rules",
-  "oldentry": "",
   "english": [
     "rules"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something, especially follow work practices, according to rules which have been set down; to follow the rules."
-  ],
   "cf": [
     "list.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Instructions that tell you what you are allowed to do and what you are not allowed to do. English = rules."
   ],
   "signNumber": 4332,
   "recordNumber": 2639,
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something, especially follow work practices, according to rules which have been set down; to follow the rules."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Instructions that tell you what you are allowed to do and what you are not allowed to do. English = rules."
+  ],
+  "idGloss": "rules",
+  "oldEntry": ""
 }

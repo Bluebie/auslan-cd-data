@@ -15,21 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "doctor.1",
-  "oldentry": "Popular explanation: feeling the pulse.",
   "english": [
     "doctor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who is qualified in medicine and treats people who are ill. English = doctor."
-  ],
   "signNumber": 2108,
   "recordNumber": 1222,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "synonyms": [
     "hospital.2",
     "doctor.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who is qualified in medicine and treats people who are ill. English = doctor."
+  ],
+  "idGloss": "doctor.1",
+  "oldEntry": "Popular explanation: feeling the pulse."
 }

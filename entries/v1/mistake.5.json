@@ -15,25 +15,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mistake.5",
-  "oldentry": "",
   "english": [
     "mistake",
     "error"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a mistake."
-  ],
   "cf": [
     "wrong"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or an opinion that is wrong, or that is not what you intended to do. English = mistake, error."
   ],
   "signNumber": 6461,
   "recordNumber": 3852,
@@ -47,5 +35,17 @@
     "mistake.1",
     "mistake.2",
     "mistake.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a mistake."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or an opinion that is wrong, or that is not what you intended to do. English = mistake, error."
+  ],
+  "idGloss": "mistake.5",
+  "oldEntry": ""
 }

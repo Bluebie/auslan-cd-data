@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unaware.2",
-  "oldentry": "",
   "english": [
     "unaware"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not know about something or to be unaware of something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4016,
   "recordNumber": 2404,
   "signVisualComposition": "SOUVENIR + 'NOT'",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "unaware.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not know about something or to be unaware of something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unaware.2",
+  "oldEntry": ""
 }

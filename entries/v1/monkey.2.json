@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "monkey.2",
-  "oldentry": "",
   "english": [
     "monkey"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal which has a long tail and lives in trees in hot countries. English = monkey."
-  ],
   "signNumber": 3287,
   "recordNumber": 1918,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "monkey.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal which has a long tail and lives in trees in hot countries. English = monkey."
+  ],
+  "idGloss": "monkey.2",
+  "oldEntry": ""
 }

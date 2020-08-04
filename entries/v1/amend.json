@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "amend",
-  "oldentry": "",
   "english": [
     "amendments",
     "amend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make changes to something that has been written or said, especially the minutes or motions of a meeting. English = amend."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Changes made to something that has been written or said, especially the minutes or motions of a meeting. English = amendments."
-  ],
   "signNumber": 5782,
   "recordNumber": 3428,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make changes to something that has been written or said, especially the minutes or motions of a meeting. English = amend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Changes made to something that has been written or said, especially the minutes or motions of a meeting. English = amendments."
+  ],
+  "idGloss": "amend",
+  "oldEntry": ""
 }

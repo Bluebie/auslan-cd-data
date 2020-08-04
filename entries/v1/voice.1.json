@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "voice.1",
-  "oldentry": "",
   "english": [
     "voice",
     "throat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. (Especially when referring to deaf people) to use your voice to speak or make sounds."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sound someone makes when they speak. English = voice.",
-    "2. The back of your mouth and the top part of the tubes inside your neck that go down into your stomach and your lungs. English = throat."
-  ],
   "signNumber": 3311,
   "recordNumber": 1933,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "synonyms": [
     "voice.2",
     "neck.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. (Especially when referring to deaf people) to use your voice to speak or make sounds."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sound someone makes when they speak. English = voice.",
+    "2. The back of your mouth and the top part of the tubes inside your neck that go down into your stomach and your lungs. English = throat."
+  ],
+  "idGloss": "voice.1",
+  "oldEntry": ""
 }

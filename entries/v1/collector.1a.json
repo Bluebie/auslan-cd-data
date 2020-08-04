@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "collector.1a",
-  "oldentry": "",
   "english": [
     "collector",
     "collect",
     "fund raise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel around and collect donations of money from people (usually from their homes or place of employment), especially for an organisation of the deaf. English = collect, fund raise."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job is to travel around and collect donations of money from people (usually from their homes or place of employment), especially for an organisation of the deaf. English = collector."
-  ],
   "signNumber": 3413,
   "recordNumber": 1993,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To travel around and collect donations of money from people (usually from their homes or place of employment), especially for an organisation of the deaf. English = collect, fund raise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job is to travel around and collect donations of money from people (usually from their homes or place of employment), especially for an organisation of the deaf. English = collector."
+  ],
+  "idGloss": "collector.1a",
+  "oldEntry": ""
 }

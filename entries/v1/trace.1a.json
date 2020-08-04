@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trace.1a",
-  "oldentry": "",
   "english": [
     "tracing",
     "trace"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To draw something by copying a picture of it by covering it with a piece of transparent paper and drawing over the lines, to move a pencil or pen around the edges of an object. English = trace."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A drawing of something that has been made by covering another picture with a piece of transparent paper and drawing over the lines; a picture made by moving a pencil or pen around the edges of an object. English = tracing."
-  ],
   "signNumber": 6432,
   "recordNumber": 3833,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To draw something by copying a picture of it by covering it with a piece of transparent paper and drawing over the lines, to move a pencil or pen around the edges of an object. English = trace."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A drawing of something that has been made by covering another picture with a piece of transparent paper and drawing over the lines; a picture made by moving a pencil or pen around the edges of an object. English = tracing."
+  ],
+  "idGloss": "trace.1a",
+  "oldEntry": ""
 }

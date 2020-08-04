@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flutter.eyelashes",
-  "oldentry": "",
   "english": [
     "flutter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of women especially, to move your eyelashes up and down rapidly as a signal of surprise or disbelief, or as a part of flirting with someone; to flutter your eyelashes."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2391,
   "recordNumber": 1319,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 4,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of women especially, to move your eyelashes up and down rapidly as a signal of surprise or disbelief, or as a part of flirting with someone; to flutter your eyelashes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "flutter.eyelashes",
+  "oldEntry": ""
 }

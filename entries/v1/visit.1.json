@@ -16,23 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "visit.1",
-  "oldentry": "",
   "english": [
     "visit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go and see someone and to spend time with them. English = visit.",
-    "2. To travel some distance from one place to another, especially for the purposes of seeing someone and to spend time with them.",
-    "3. To travel some distance from one place to another."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5234,
   "recordNumber": 3144,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "visit.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go and see someone and to spend time with them. English = visit.",
+    "2. To travel some distance from one place to another, especially for the purposes of seeing someone and to spend time with them.",
+    "3. To travel some distance from one place to another."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "visit.1",
+  "oldEntry": ""
 }

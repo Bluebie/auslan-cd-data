@@ -15,25 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "In the sense of 'every' this sign can only be used with signs that name a period of time, not any other kind of thing.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "always.1",
-  "oldentry": "",
   "english": [
     "every",
     "always"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "all.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence or next to a verb to mean that the action takes place all the time or on every possible occasion. English = always.",
-    "2. Used immediately before a sign for any period of time, which as a pair then start or end a sentence or are placed next to a verb, to mean the action happens at all of the periods of time named. English = every (day, week, year, etc.)."
-  ],
-  "nomlex": [],
   "signNumber": 4481,
   "recordNumber": 2723,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   ],
   "synonyms": [
     "always.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence or next to a verb to mean that the action takes place all the time or on every possible occasion. English = always.",
+    "2. Used immediately before a sign for any period of time, which as a pair then start or end a sentence or are placed next to a verb, to mean the action happens at all of the periods of time named. English = every (day, week, year, etc.)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "always.1",
+  "oldEntry": ""
 }

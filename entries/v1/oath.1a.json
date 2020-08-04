@@ -17,29 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oath.1a",
-  "oldentry": "",
   "english": [
     "oath",
     "swear",
     "citizenship"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a formal promise, especially a promise to tell the truth in court by swearing on a Bible. English = swear an oath, swear.",
-    "2. To take part in a formal ceremony in which you legally become a citizen of a country."
-  ],
   "cf": [
     "swear.1a",
     "girl guide"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A formal promise, especially a promise to tell the truth in court often made by swearing on a Bible. English = oath.",
-    "2. Your status as a person who legally belongs to a particular country. English = citizenship."
   ],
   "signNumber": 4023,
   "recordNumber": 2409,
@@ -51,5 +37,19 @@
   "antonyms": [],
   "synonyms": [
     "promise.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a formal promise, especially a promise to tell the truth in court by swearing on a Bible. English = swear an oath, swear.",
+    "2. To take part in a formal ceremony in which you legally become a citizen of a country."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A formal promise, especially a promise to tell the truth in court often made by swearing on a Bible. English = oath.",
+    "2. Your status as a person who legally belongs to a particular country. English = citizenship."
+  ],
+  "idGloss": "oath.1a",
+  "oldEntry": ""
 }

@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something which is large and soft, such as soft furnishings such as cushions, mattresses and pillows, and any thing or any action directly or indirectly associated with this, especially a sponge.",
-  "questlex": [],
-  "idgloss": "sponge",
-  "oldentry": "",
   "english": [
     "sponge",
     "foam",
@@ -35,21 +31,9 @@
     "pillow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To squeeze a spongelike object.",
-    "2. To be spongelike, to be soft."
-  ],
   "cf": [
     "doona",
     "mattress.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of soft, squashy, absorbent stuff that has lots of little holes in it. You can use it to wash things, wash your body, or put it inside furnishings to make them soft. English = sponge, foam, foam rubber.",
-    "2. A fabric case filled with soft material, which you put on a seat to make it more comfortable. English = cushion",
-    "3. A large, flat cushion the same size as a bed, which is put on a bed to make it soft to lie on. English = mattress.",
-    "4. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
   ],
   "signNumber": 3652,
   "recordNumber": 2151,
@@ -61,5 +45,21 @@
   "antonyms": [],
   "synonyms": [
     "pillow.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To squeeze a spongelike object.",
+    "2. To be spongelike, to be soft."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something which is large and soft, such as soft furnishings such as cushions, mattresses and pillows, and any thing or any action directly or indirectly associated with this, especially a sponge.",
+  "nominalLexeme": [
+    "1. A piece of soft, squashy, absorbent stuff that has lots of little holes in it. You can use it to wash things, wash your body, or put it inside furnishings to make them soft. English = sponge, foam, foam rubber.",
+    "2. A fabric case filled with soft material, which you put on a seat to make it more comfortable. English = cushion",
+    "3. A large, flat cushion the same size as a bed, which is put on a bed to make it soft to lie on. English = mattress.",
+    "4. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
+  ],
+  "idGloss": "sponge",
+  "oldEntry": ""
 }

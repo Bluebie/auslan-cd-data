@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "known.well",
-  "oldentry": "",
   "english": [
     "know",
     "familiar"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To recognise someone or something or know about them well because you have seen, heard, or experienced them before. English = know (well), (be) familiar with."
-  ],
   "cf": [
     "of.course"
   ],
-  "interj": [
-    "1. Used alone in reply to someone who tells you something that is well-known to you already or mentions to you someone well-known to you as if you did not them."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4801,
   "recordNumber": 2897,
   "signVisualComposition": "",
@@ -51,5 +39,17 @@
   "synonyms": [
     "know",
     "familiar.with"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in reply to someone who tells you something that is well-known to you already or mentions to you someone well-known to you as if you did not them."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To recognise someone or something or know about them well because you have seen, heard, or experienced them before. English = know (well), (be) familiar with."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "known.well",
+  "oldEntry": ""
 }

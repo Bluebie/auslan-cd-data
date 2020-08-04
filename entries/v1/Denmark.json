@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Denmark",
-  "oldentry": "",
   "english": [
     "Denmark",
     "Danish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to Denmark. English = Danish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in northern Europe, on a peninsula north of Germany, called Denmark."
-  ],
   "signNumber": 5528,
   "recordNumber": 3270,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to Denmark. English = Danish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in northern Europe, on a peninsula north of Germany, called Denmark."
+  ],
+  "idGloss": "Denmark",
+  "oldEntry": ""
 }

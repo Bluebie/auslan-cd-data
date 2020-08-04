@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lid.3",
-  "oldentry": "",
   "english": [
     "lid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "lid.close",
     "lid.open"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The top of a box which can be raised when you want to open it and get at the contents or put things inside. English = lid."
   ],
   "signNumber": 4090,
   "recordNumber": 2453,
@@ -42,5 +32,15 @@
   "synonyms": [
     "lid.1a",
     "lid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The top of a box which can be raised when you want to open it and get at the contents or put things inside. English = lid."
+  ],
+  "idGloss": "lid.3",
+  "oldEntry": ""
 }

@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dull",
-  "oldentry": "",
   "english": [
     "dullness",
     "dull"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a colour or light, to be not bright. English = (be) dull.",
-    "2. Of a colour or light, to become less bright. English = dull."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of colours or lights being not bright. English = dullness."
-  ],
   "signNumber": 2593,
   "recordNumber": 1433,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "synonyms": [
     "cloudy.1",
     "cloudy.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a colour or light, to be not bright. English = (be) dull.",
+    "2. Of a colour or light, to become less bright. English = dull."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of colours or lights being not bright. English = dullness."
+  ],
+  "idGloss": "dull",
+  "oldEntry": ""
 }

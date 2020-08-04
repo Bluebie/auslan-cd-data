@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "speech",
-  "oldentry": "Popular explanation: the mouth opening and closing.",
   "english": [
     "speech",
     "articulation",
@@ -33,20 +29,9 @@
     "pronounce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use your voice in order to say words. English = speak, articulate.",
-    "2. (When referring to deaf people) to be able to use your voice to say words intelligibly.",
-    "3. To say a word it is usually said or to say it in a particular way. English = pronounce."
-  ],
   "cf": [
     "voice.2",
     "hand.puppet.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to speak or the act of speaking. English = speech, articulation.",
-    "2. (When referring to deaf people) the ability to speak intelligibly."
   ],
   "signNumber": 3250,
   "recordNumber": 1892,
@@ -58,5 +43,20 @@
   "antonyms": [],
   "synonyms": [
     "dialogue.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use your voice in order to say words. English = speak, articulate.",
+    "2. (When referring to deaf people) to be able to use your voice to say words intelligibly.",
+    "3. To say a word it is usually said or to say it in a particular way. English = pronounce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to speak or the act of speaking. English = speech, articulation.",
+    "2. (When referring to deaf people) the ability to speak intelligibly."
+  ],
+  "idGloss": "speech",
+  "oldEntry": "Popular explanation: the mouth opening and closing."
 }

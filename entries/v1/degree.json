@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "degree",
-  "oldentry": "Popular explanation: the shape of the degree symbol or zero.",
   "english": [
     "degree"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "percent.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The degree symbol, written as a small superscript zero after a number.",
-    "2. A unit of measurement that is used when expressing temperatures. English = degree.",
-    "3. A unit of measurement that is used when expressing angles and also latitude and longitude. English = degree."
   ],
   "signNumber": 72,
   "recordNumber": 42,
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The degree symbol, written as a small superscript zero after a number.",
+    "2. A unit of measurement that is used when expressing temperatures. English = degree.",
+    "3. A unit of measurement that is used when expressing angles and also latitude and longitude. English = degree."
+  ],
+  "idGloss": "degree",
+  "oldEntry": "Popular explanation: the shape of the degree symbol or zero."
 }

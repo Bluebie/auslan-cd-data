@@ -18,31 +18,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drip",
-  "oldentry": "Popular explanation: drops of water falling.",
   "english": [
     "drops",
     "leak",
     "drip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a liquid, to fall in small drops. English = drip.",
-    "2. To have small drops of liquid fall from something. English = drip.",
-    "3. Of a container or other object, to have a crack or a hole so that a liquid can pass through. English = leak."
-  ],
   "cf": [
     "rain",
     "drop.2",
     "dripolator"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Small ball shaped quantities of a liquid. English = drops.",
-    "2. A crack or a small hole in a container through which a liquid is passing. English = leak."
   ],
   "signNumber": 1437,
   "recordNumber": 857,
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "leak.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a liquid, to fall in small drops. English = drip.",
+    "2. To have small drops of liquid fall from something. English = drip.",
+    "3. Of a container or other object, to have a crack or a hole so that a liquid can pass through. English = leak."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Small ball shaped quantities of a liquid. English = drops.",
+    "2. A crack or a small hole in a container through which a liquid is passing. English = leak."
+  ],
+  "idGloss": "drip",
+  "oldEntry": "Popular explanation: drops of water falling."
 }

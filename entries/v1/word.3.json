@@ -20,28 +20,13 @@
   "sense": "",
   "blend": "WORD + SWEAR",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "word.3",
-  "oldentry": "",
   "english": [
     "word",
     "transcribe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To record or write down the words that someone says. English = transcribe.",
-    "2. To record or write down the words (English) that translate the signs (Auslan) that someone says."
-  ],
   "cf": [
     "swear.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can usually have one or more meanings. English = word.",
-    "2. The words that someone says, especially those words when they are written down.",
-    "3. The written down words (English) that translates the signs (Auslan) that someone has said."
   ],
   "signNumber": 5258,
   "recordNumber": 3155,
@@ -55,5 +40,20 @@
     "word.1",
     "word.2a",
     "word.4a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To record or write down the words that someone says. English = transcribe.",
+    "2. To record or write down the words (English) that translate the signs (Auslan) that someone says."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can usually have one or more meanings. English = word.",
+    "2. The words that someone says, especially those words when they are written down.",
+    "3. The written down words (English) that translates the signs (Auslan) that someone has said."
+  ],
+  "idGloss": "word.3",
+  "oldEntry": ""
 }

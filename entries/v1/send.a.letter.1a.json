@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "send.a.letter.1a",
-  "oldentry": "",
   "english": [
     "mail out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send a message written on a piece of paper through the mail to lots of different people; notify by mail or post."
-  ],
   "cf": [
     "envelope.2",
     "letter"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A message written on a piece of paper and sent through the mail to someone. English = mail out."
   ],
   "signNumber": 4004,
   "recordNumber": 2395,
@@ -46,5 +34,17 @@
   "synonyms": [
     "send.letters.1a",
     "correspond.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send a message written on a piece of paper through the mail to lots of different people; notify by mail or post."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A message written on a piece of paper and sent through the mail to someone. English = mail out."
+  ],
+  "idGloss": "send.a.letter.1a",
+  "oldEntry": ""
 }

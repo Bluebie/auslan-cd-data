@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fish.and.chips",
-  "oldentry": "",
   "english": [
     "fish and chips"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An Anglo-Australian fast food consisting of fish covered with batter and deep fried together with deep fried potato chips. English = fish and chips."
-  ],
   "signNumber": 2060,
   "recordNumber": 1203,
   "signVisualComposition": "F + C",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An Anglo-Australian fast food consisting of fish covered with batter and deep fried together with deep fried potato chips. English = fish and chips."
+  ],
+  "idGloss": "fish.and.chips",
+  "oldEntry": ""
 }

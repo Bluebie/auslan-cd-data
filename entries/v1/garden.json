@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "garden",
-  "oldentry": "",
   "english": [
     "garden",
     "gardens"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of land next to someone's house where they grow flowers, vegetables, or other plants, and which often includes a lawn. English = garden.",
-    "2. A place like a park that has areas of plants, trees, and grass. English = garden, gardens."
-  ],
   "signNumber": 412,
   "recordNumber": 229,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "spade.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of land next to someone's house where they grow flowers, vegetables, or other plants, and which often includes a lawn. English = garden.",
+    "2. A place like a park that has areas of plants, trees, and grass. English = garden, gardens."
+  ],
+  "idGloss": "garden",
+  "oldEntry": ""
 }

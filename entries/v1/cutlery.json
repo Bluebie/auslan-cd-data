@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "KNIFE + FORK",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cutlery",
-  "oldentry": "",
   "english": [
     "cutlery"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "knife.1a",
     "fork.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The knives, forks, and spoons that you eat your food with. English = cutlery."
   ],
   "signNumber": 1050,
   "recordNumber": 617,
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The knives, forks, and spoons that you eat your food with. English = cutlery."
+  ],
+  "idGloss": "cutlery",
+  "oldEntry": ""
 }

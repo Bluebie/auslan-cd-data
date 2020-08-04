@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "avoid.1a",
-  "oldentry": "",
   "english": [
     "resistance",
     "avoidance",
@@ -29,17 +25,7 @@
     "tolerate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To keep away from or to say no to someone or something which has the potential to cause you harm or damage, especially if you could be tempted. English = avoid, resist.",
-    "2. Of a person or thing, to be able to suffer the existence or action of something against you which you do not like or which is potentially damaging but without any actual harm occurring. English = tolerate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of keeping away or refusing someone or something which has the potential to cause you harm or damage, especially if you could be tempted. English = resistance, avoidance.",
-    "2. The ability of something to withstand various pressures."
-  ],
   "signNumber": 5779,
   "recordNumber": 3426,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "antonyms": [],
   "synonyms": [
     "avoid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep away from or to say no to someone or something which has the potential to cause you harm or damage, especially if you could be tempted. English = avoid, resist.",
+    "2. Of a person or thing, to be able to suffer the existence or action of something against you which you do not like or which is potentially damaging but without any actual harm occurring. English = tolerate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of keeping away or refusing someone or something which has the potential to cause you harm or damage, especially if you could be tempted. English = resistance, avoidance.",
+    "2. The ability of something to withstand various pressures."
+  ],
+  "idGloss": "avoid.1a",
+  "oldEntry": ""
 }

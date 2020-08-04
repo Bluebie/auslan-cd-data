@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "photo.2",
-  "oldentry": "",
   "english": [
     "photo",
     "photograph",
     "picture"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture that is made by using a camera. English = photo, photograph, picture."
-  ],
   "signNumber": 4471,
   "recordNumber": 2716,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
     "camera.1",
     "camera.2",
     "photo.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture that is made by using a camera. English = photo, photograph, picture."
+  ],
+  "idGloss": "photo.2",
+  "oldEntry": ""
 }

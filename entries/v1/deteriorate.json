@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deteriorate",
-  "oldentry": "",
   "english": [
     "worsen",
     "deteriorate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get worse. English = worsen, deteriorate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 437,
   "recordNumber": 244,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
     "disapprove.of",
     "push.down.1a",
     "worsen"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get worse. English = worsen, deteriorate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "deteriorate",
+  "oldEntry": ""
 }

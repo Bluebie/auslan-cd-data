@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "income.1a",
-  "oldentry": "Popular explanation: get in one's pockets.",
   "english": [
     "income",
     "earnings",
@@ -44,21 +40,7 @@
     "earn"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make or receive money through work or through other sources such as investments or pensions. English = earn.",
-    "2. To earn a wage.",
-    "3. To earn a salary.",
-    "4. To be paid a pension."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The money that you earn or that you get from other sources such as investments or pensions. English = income, earnings, interest.",
-    "2. The money that is regularly paid to you for working, especially for manual or unskilled work. English = wage, pay.",
-    "3. The money that you are paid each month for your job, especially when you have a professional job. English = salary.",
-    "4. A sum of money paid to you by the state or a previous employer because you have retired or because you are widowed, disabled or sick. English = pension."
-  ],
   "signNumber": 2574,
   "recordNumber": 1419,
   "signVisualComposition": "",
@@ -72,5 +54,23 @@
   "synonyms": [
     "salary",
     "profit.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make or receive money through work or through other sources such as investments or pensions. English = earn.",
+    "2. To earn a wage.",
+    "3. To earn a salary.",
+    "4. To be paid a pension."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The money that you earn or that you get from other sources such as investments or pensions. English = income, earnings, interest.",
+    "2. The money that is regularly paid to you for working, especially for manual or unskilled work. English = wage, pay.",
+    "3. The money that you are paid each month for your job, especially when you have a professional job. English = salary.",
+    "4. A sum of money paid to you by the state or a previous employer because you have retired or because you are widowed, disabled or sick. English = pension."
+  ],
+  "idGloss": "income.1a",
+  "oldEntry": "Popular explanation: get in one's pockets."
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thrash",
-  "oldentry": "",
   "english": [
     "thrash",
     "trounce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To defeat someone absolutely in a game, contest, or fight. English = thrash, trounce."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2866,
   "recordNumber": 1619,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To defeat someone absolutely in a game, contest, or fight. English = thrash, trounce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "thrash",
+  "oldEntry": ""
 }

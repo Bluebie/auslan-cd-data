@@ -14,25 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "early.1a",
-  "oldentry": "",
   "english": [
     "early"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be near the beginning of a period of time, a process, or a piece of work. English = (be) early.",
-    "2. To happen or arrive before the time that was arranged or expected. The sign is placed after signs that specify how many units of time the action is 'in advance' (eg, 10 seconds, 3 minutes, 5 hours, 1 day, 2 weeks, etc.)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action of the verb happens near the beginning of a period of time, a process, or a piece of work. English = early.",
-    "2. Used immediately next to a verb to mean the action of the verb happens before the normal time. English = early."
-  ],
-  "nomlex": [],
   "signNumber": 6104,
   "recordNumber": 3631,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "antonyms": [
     "late"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action of the verb happens near the beginning of a period of time, a process, or a piece of work. English = early.",
+    "2. Used immediately next to a verb to mean the action of the verb happens before the normal time. English = early."
+  ],
+  "verbLexeme": [
+    "1. To be near the beginning of a period of time, a process, or a piece of work. English = (be) early.",
+    "2. To happen or arrive before the time that was arranged or expected. The sign is placed after signs that specify how many units of time the action is 'in advance' (eg, 10 seconds, 3 minutes, 5 hours, 1 day, 2 weeks, etc.)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "early.1a",
+  "oldEntry": ""
 }

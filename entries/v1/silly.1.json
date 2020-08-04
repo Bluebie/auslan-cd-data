@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "silly.1",
-  "oldentry": "",
   "english": [
     "silliness",
     "crudeness",
@@ -43,20 +39,9 @@
     "coarse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave in a foolish or childish way. English = (be) silly, (be) ridiculous, (be) absurd.",
-    "2. To be very foolish or childish. English = (be) silly, (be) ridiculous, (be) absurd.",
-    "3. Of language or behaviour, to be rude and offensive. English = (be) crude, (be) gross, (be) coarse."
-  ],
   "cf": [
     "fool.1a",
     "silly.you"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which is foolish or childish. English = silliness.",
-    "2. Language or behaviour which is rude and offensive. English = crudeness, grossness, coarseness."
   ],
   "signNumber": 6550,
   "recordNumber": 3902,
@@ -68,5 +53,20 @@
   "antonyms": [
     "reasonable"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave in a foolish or childish way. English = (be) silly, (be) ridiculous, (be) absurd.",
+    "2. To be very foolish or childish. English = (be) silly, (be) ridiculous, (be) absurd.",
+    "3. Of language or behaviour, to be rude and offensive. English = (be) crude, (be) gross, (be) coarse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which is foolish or childish. English = silliness.",
+    "2. Language or behaviour which is rude and offensive. English = crudeness, grossness, coarseness."
+  ],
+  "idGloss": "silly.1",
+  "oldEntry": ""
 }

@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "part.1a",
-  "oldentry": "",
   "english": [
     "part",
     "piece",
     "portion"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "separate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the pieces or areas that another thing consists of. English = part, piece, portion."
   ],
   "signNumber": 1870,
   "recordNumber": 1120,
@@ -39,5 +29,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the pieces or areas that another thing consists of. English = part, piece, portion."
+  ],
+  "idGloss": "part.1a",
+  "oldEntry": ""
 }

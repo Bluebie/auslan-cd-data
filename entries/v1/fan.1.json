@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fan.1",
-  "oldentry": "Popular explanation: holding and using a fan.",
   "english": [
     "fan"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold a flat object in your hand and to wave it in order to move the air and make yourself cooler. English = fan, fan oneself."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat object you hold in your hand and wave in order to move the air and make yourself cooler. English = fan."
-  ],
   "signNumber": 6072,
   "recordNumber": 3613,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "fan.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold a flat object in your hand and to wave it in order to move the air and make yourself cooler. English = fan, fan oneself."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat object you hold in your hand and wave in order to move the air and make yourself cooler. English = fan."
+  ],
+  "idGloss": "fan.1",
+  "oldEntry": "Popular explanation: holding and using a fan."
 }

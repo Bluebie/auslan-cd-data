@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "character",
-  "oldentry": "",
   "english": [
     "character"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. All the qualities that a person has that makes them distinct from other people; the kind of person someone is. English = character.",
-    "2. A person in a film, book, or play. English = character."
-  ],
   "signNumber": 4510,
   "recordNumber": 2741,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. All the qualities that a person has that makes them distinct from other people; the kind of person someone is. English = character.",
+    "2. A person in a film, book, or play. English = character."
+  ],
+  "idGloss": "character",
+  "oldEntry": ""
 }

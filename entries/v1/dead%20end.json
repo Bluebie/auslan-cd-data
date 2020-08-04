@@ -19,29 +19,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dead end",
-  "oldentry": "Popular explanation: striking a barrier.",
   "english": [
     "dead end",
     "cul de sac"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a street or road, to have no way out at one end. You need to turn around, retrace part of the way and then choose another way in order to proceed further. English = (be) a dead end, (be) a cul de sac, (be) a no through road.",
-    "2. Of a direction or path of travel, to be able to go no further without changing direction. Used particularly in giving directions.",
-    "3. Of a way, method or process, to stop before being completed or successful because of some obstacle or impediment.",
-    "4. To do something for as long a time as is available or until some dead line is reached."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A street in which there is no way out at one end. English = dead end, cul de sac.",
-    "2. The largest distance you can travel in any one direction (before reaching a dead end or needing to change direction). Used particularly in giving directions.",
-    "3. The maximum length or extent of something; the maximum length of time available for something to happen in."
-  ],
   "signNumber": 5975,
   "recordNumber": 3554,
   "signVisualComposition": "",
@@ -53,5 +36,22 @@
   "synonyms": [
     "until.1",
     "until.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a street or road, to have no way out at one end. You need to turn around, retrace part of the way and then choose another way in order to proceed further. English = (be) a dead end, (be) a cul de sac, (be) a no through road.",
+    "2. Of a direction or path of travel, to be able to go no further without changing direction. Used particularly in giving directions.",
+    "3. Of a way, method or process, to stop before being completed or successful because of some obstacle or impediment.",
+    "4. To do something for as long a time as is available or until some dead line is reached."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A street in which there is no way out at one end. English = dead end, cul de sac.",
+    "2. The largest distance you can travel in any one direction (before reaching a dead end or needing to change direction). Used particularly in giving directions.",
+    "3. The maximum length or extent of something; the maximum length of time available for something to happen in."
+  ],
+  "idGloss": "dead end",
+  "oldEntry": "Popular explanation: striking a barrier."
 }

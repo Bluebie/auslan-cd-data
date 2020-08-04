@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "valley",
-  "oldentry": "Popular explanation: the outline of a valley.",
   "english": [
     "valley"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, narrow area of land between hills, especially one that has a river flowing through it. English = valley."
-  ],
   "signNumber": 3892,
   "recordNumber": 2316,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, narrow area of land between hills, especially one that has a river flowing through it. English = valley."
+  ],
+  "idGloss": "valley",
+  "oldEntry": "Popular explanation: the outline of a valley."
 }

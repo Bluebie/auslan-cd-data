@@ -14,25 +14,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "live.2",
-  "oldentry": "",
   "english": [
     "residence",
     "live",
     "reside"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have your home in a particular place. English = live, reside."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The place where someone lives. English = residence."
-  ],
   "signNumber": 3426,
   "recordNumber": 1999,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "live.1",
     "live.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have your home in a particular place. English = live, reside."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where someone lives. English = residence."
+  ],
+  "idGloss": "live.2",
+  "oldEntry": ""
 }

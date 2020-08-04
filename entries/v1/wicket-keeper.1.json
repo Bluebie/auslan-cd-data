@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wicket-keeper.1",
-  "oldentry": "",
   "english": [
     "wicket-keeper"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The player in a cricket team who stands behind the wicket in order to stop balls that the batsman misses or to catch balls that the batsman hits. English = wicket-keeper."
-  ],
   "signNumber": 2642,
   "recordNumber": 1465,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "wicket-keeper.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The player in a cricket team who stands behind the wicket in order to stop balls that the batsman misses or to catch balls that the batsman hits. English = wicket-keeper."
+  ],
+  "idGloss": "wicket-keeper.1",
+  "oldEntry": ""
 }

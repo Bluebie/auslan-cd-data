@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "assertiveness",
-  "oldentry": "Popular explanation: encountering and by-passing an obstacle.",
   "english": [
     "assertiveness",
     "assert"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To speak or act in a forceful way so that people take notice of you. English = assert oneself, assert yourself."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to say or do exactly what you want to or what you think without getting angry or embarrassed. English = assertiveness."
-  ],
   "signNumber": 1298,
   "recordNumber": 772,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   ],
   "synonyms": [
     "step.forward.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To speak or act in a forceful way so that people take notice of you. English = assert oneself, assert yourself."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to say or do exactly what you want to or what you think without getting angry or embarrassed. English = assertiveness."
+  ],
+  "idGloss": "assertiveness",
+  "oldEntry": "Popular explanation: encountering and by-passing an obstacle."
 }

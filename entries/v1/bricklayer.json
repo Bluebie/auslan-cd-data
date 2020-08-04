@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bricklayer",
-  "oldentry": "",
   "english": [
     "bricklayer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lay bricks."
-  ],
   "cf": [
     "carpenter.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job is to build walls using bricks. English = bricklayer."
   ],
   "signNumber": 6267,
   "recordNumber": 3740,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lay bricks."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job is to build walls using bricks. English = bricklayer."
+  ],
+  "idGloss": "bricklayer",
+  "oldEntry": ""
 }

@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "neither.1",
-  "oldentry": "",
   "english": [
     "neither"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "either.2"
   ],
-  "interj": [],
-  "partlex": [
-    "1. You use this sign to refer to both of two things or people, when you are making a negative statement about both of them. English = neither, neither of the two, not either."
-  ],
-  "nomlex": [],
   "signNumber": 440,
   "recordNumber": 247,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [
     "both.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. You use this sign to refer to both of two things or people, when you are making a negative statement about both of them. English = neither, neither of the two, not either."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "neither.1",
+  "oldEntry": ""
 }

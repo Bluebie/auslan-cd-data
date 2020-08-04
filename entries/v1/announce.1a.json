@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "announce.1a",
-  "oldentry": "",
   "english": [
     "announcement",
     "proclamation",
@@ -41,24 +37,10 @@
     "notify"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people about something publicly or officially. English = announce, proclaim.",
-    "2. To tell people about something important publicly or officially, especially on behalf of the government. Formal English = proclaim.",
-    "3. To tell everyone about something; to make known to a lot of people. English = notify.",
-    "4. To make a written, spoken or signed account of an event or a situation, especially if done in an official capacity or as a part of work. English = report."
-  ],
   "cf": [
     "send.out",
     "order",
     "ignore"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A public statement which gives information about something that has happened or that will happen; or the act of telling people about such. English  = announcement, proclamation.",
-    "2. A public announcement about something important, particularly from the government. Formal English = proclamation.",
-    "3. Official information about something or some event. English = notification.",
-    "4. A written, spoken or signed account of an event or a situation, especially one that has been prepared and made public in an official capacity or as part of your work. English = report."
   ],
   "signNumber": 611,
   "recordNumber": 351,
@@ -68,5 +50,23 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people about something publicly or officially. English = announce, proclaim.",
+    "2. To tell people about something important publicly or officially, especially on behalf of the government. Formal English = proclaim.",
+    "3. To tell everyone about something; to make known to a lot of people. English = notify.",
+    "4. To make a written, spoken or signed account of an event or a situation, especially if done in an official capacity or as a part of work. English = report."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A public statement which gives information about something that has happened or that will happen; or the act of telling people about such. English  = announcement, proclamation.",
+    "2. A public announcement about something important, particularly from the government. Formal English = proclamation.",
+    "3. Official information about something or some event. English = notification.",
+    "4. A written, spoken or signed account of an event or a situation, especially one that has been prepared and made public in an official capacity or as part of your work. English = report."
+  ],
+  "idGloss": "announce.1a",
+  "oldEntry": ""
 }

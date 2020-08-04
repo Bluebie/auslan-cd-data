@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "force.1",
-  "oldentry": "",
   "english": [
     "coercion",
     "force",
@@ -26,16 +22,8 @@
     "coerce"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make someone do something, although they are very unwilling to. English = force, compel, coerce."
-  ],
   "cf": [
     "temptation.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act or process of making someone do something they do not want to do. English = coercion."
   ],
   "signNumber": 5233,
   "recordNumber": 3143,
@@ -45,5 +33,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make someone do something, although they are very unwilling to. English = force, compel, coerce."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act or process of making someone do something they do not want to do. English = coercion."
+  ],
+  "idGloss": "force.1",
+  "oldEntry": ""
 }

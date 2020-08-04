@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "calendar",
-  "oldentry": "",
   "english": [
     "calendar"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "course",
     "program"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A chart which shows a particular year divided up into months, weeks, and days, and shows what the date of each day is in that year. English = calendar."
   ],
   "signNumber": 4686,
   "recordNumber": 2830,
@@ -38,5 +28,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A chart which shows a particular year divided up into months, weeks, and days, and shows what the date of each day is in that year. English = calendar."
+  ],
+  "idGloss": "calendar",
+  "oldEntry": ""
 }

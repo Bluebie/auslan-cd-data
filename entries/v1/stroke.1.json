@@ -16,28 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stroke.1",
-  "oldentry": "Popular explanation: gently stroking.",
   "english": [
     "stroke",
     "tame"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand slowly and gently over someone or something. English = stroke.",
-    "2. Of animals and birds, to be unafraid of people and able to be touched. English = (be) tame.",
-    "3. To train an animal or a bird to be unafraid of people and to able to be touched. English = tame."
-  ],
   "cf": [
     "gentle.1a",
     "poor.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of touch where you move your hand slowly and gently over someone or something. English = stroke."
   ],
   "signNumber": 3355,
   "recordNumber": 1958,
@@ -47,5 +33,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand slowly and gently over someone or something. English = stroke.",
+    "2. Of animals and birds, to be unafraid of people and able to be touched. English = (be) tame.",
+    "3. To train an animal or a bird to be unafraid of people and to able to be touched. English = tame."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of touch where you move your hand slowly and gently over someone or something. English = stroke."
+  ],
+  "idGloss": "stroke.1",
+  "oldEntry": "Popular explanation: gently stroking."
 }

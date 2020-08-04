@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drunk.2a",
-  "oldentry": "",
   "english": [
     "drunkard",
     "piss pot",
@@ -31,15 +27,7 @@
     "inebriated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have drunk so much alcohol that you cannot speak or sign clearly or behave sensibly. English = (be) drunk. Informal English = (be) pissed, (be) sloshed. Formal English = (be) inebriated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who often gets drunk. English = drunkard. Informal English = piss pot."
-  ],
   "signNumber": 3168.1,
   "recordNumber": 1837,
   "signVisualComposition": "",
@@ -51,5 +39,17 @@
   "synonyms": [
     "drunk.1",
     "weak.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have drunk so much alcohol that you cannot speak or sign clearly or behave sensibly. English = (be) drunk. Informal English = (be) pissed, (be) sloshed. Formal English = (be) inebriated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who often gets drunk. English = drunkard. Informal English = piss pot."
+  ],
+  "idGloss": "drunk.2a",
+  "oldEntry": ""
 }

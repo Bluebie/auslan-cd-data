@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gaming.card",
-  "oldentry": "",
   "english": [
     "card",
     "gaming card",
@@ -28,15 +24,7 @@
     "deck"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Thin pieces of cardboard with numbers or pictures printed on them which are used to play various games. English = card, gaming card, playing card.",
-    "2. A pack or set of playing cards. English = deck of cards.",
-    "3. A game played using cards; a card game; a game of cards."
-  ],
   "signNumber": 4259,
   "recordNumber": 2585,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   "synonyms": [
     "deal.cards.1a",
     "shuffle.cards.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Thin pieces of cardboard with numbers or pictures printed on them which are used to play various games. English = card, gaming card, playing card.",
+    "2. A pack or set of playing cards. English = deck of cards.",
+    "3. A game played using cards; a card game; a game of cards."
+  ],
+  "idGloss": "gaming.card",
+  "oldEntry": ""
 }

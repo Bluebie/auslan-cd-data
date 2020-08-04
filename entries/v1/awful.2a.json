@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "awful.2a",
-  "oldentry": "Popular explanation: pushing something undesirable away or down.",
   "english": [
     "awful",
     "dreadful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not very good or very nice; to be unpleasant, shocking, or bad. English = (be) awful, (be) dreadful."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3340,
   "recordNumber": 1951,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "awful.1",
     "awful.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not very good or very nice; to be unpleasant, shocking, or bad. English = (be) awful, (be) dreadful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "awful.2a",
+  "oldEntry": "Popular explanation: pushing something undesirable away or down."
 }

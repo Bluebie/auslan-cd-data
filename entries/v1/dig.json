@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dig",
-  "oldentry": "Popular explanation: holding and digging with a shovel or spade.",
   "english": [
     "digging",
     "spade",
@@ -30,16 +26,7 @@
     "dig"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a hole in the ground, especially by using a spade. English = dig."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of making a hole in the ground, especially by using a spade. English = digging.",
-    "2. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel."
-  ],
   "signNumber": 5934,
   "recordNumber": 3532,
   "signVisualComposition": "",
@@ -52,5 +39,18 @@
     "excavate",
     "burrow",
     "spade.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a hole in the ground, especially by using a spade. English = dig."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of making a hole in the ground, especially by using a spade. English = digging.",
+    "2. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel."
+  ],
+  "idGloss": "dig",
+  "oldEntry": "Popular explanation: holding and digging with a shovel or spade."
 }

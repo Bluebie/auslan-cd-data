@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "camera.1",
-  "oldentry": "Popular explanation: depressing the shutter button.",
   "english": [
     "camera",
     "photograph"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a piece of equipment used for taking photographs. English = photograph."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of equipment that is used for taking photographs. English = camera."
-  ],
   "signNumber": 4705,
   "recordNumber": 2843,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "camera.2",
     "photo.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a piece of equipment used for taking photographs. English = photograph."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of equipment that is used for taking photographs. English = camera."
+  ],
+  "idGloss": "camera.1",
+  "oldEntry": "Popular explanation: depressing the shutter button."
 }

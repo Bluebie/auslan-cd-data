@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "water-ski",
-  "oldentry": "Popular explanation: holding on to a skiing rope.",
   "english": [
     "water-skiing",
     "water-ski"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ski on water while being pulled along by a boat. English = water-ski."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sport in which you ski on water while being pulled along by a boat. English = water-skiing."
-  ],
   "signNumber": 5867,
   "recordNumber": 3490,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ski on water while being pulled along by a boat. English = water-ski."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sport in which you ski on water while being pulled along by a boat. English = water-skiing."
+  ],
+  "idGloss": "water-ski",
+  "oldEntry": "Popular explanation: holding on to a skiing rope."
 }

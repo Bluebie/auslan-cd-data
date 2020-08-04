@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "delay",
-  "oldentry": "Popular explanation: push something into the future. Made with reference to the time lines.",
   "english": [
     "delay",
     "prolongation",
@@ -43,21 +39,8 @@
     "tarry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something happen later than expected, or to make something take longer to happen than expected. English = delay, prolong.",
-    "2. To be made to happen later than expected, or to be made to take longer to happen than expected. English = (be) delayed, (be) prolonged, (be) protracted.",
-    "3. To spend more time than is necessary doing something or going somewhere. English = dawdle, tarry.",
-    "4. To brush something to one side and ignore it until a later time."
-  ],
   "cf": [
     "extend"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The start of an event later than was expected. English = delay.",
-    "2. An extension in the time it usually takes to do something. English = delay, prolongation.",
-    "3. The act of taking your time and spending more time than is necessary to do something or go somewhere. English = dawdling."
   ],
   "signNumber": 4297,
   "recordNumber": 2615,
@@ -73,5 +56,22 @@
   "synonyms": [
     "postpone.1",
     "postpone.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something happen later than expected, or to make something take longer to happen than expected. English = delay, prolong.",
+    "2. To be made to happen later than expected, or to be made to take longer to happen than expected. English = (be) delayed, (be) prolonged, (be) protracted.",
+    "3. To spend more time than is necessary doing something or going somewhere. English = dawdle, tarry.",
+    "4. To brush something to one side and ignore it until a later time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The start of an event later than was expected. English = delay.",
+    "2. An extension in the time it usually takes to do something. English = delay, prolongation.",
+    "3. The act of taking your time and spending more time than is necessary to do something or go somewhere. English = dawdling."
+  ],
+  "idGloss": "delay",
+  "oldEntry": "Popular explanation: push something into the future. Made with reference to the time lines."
 }

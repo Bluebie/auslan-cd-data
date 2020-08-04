@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "WORK + SHOP",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "workshop",
-  "oldentry": "",
   "english": [
     "workshop"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of discussion or practical work in which a group of people learn about a particular subject by sharing their knowledge or experience. English = workshop."
-  ],
   "signNumber": 4188,
   "recordNumber": 2535,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of discussion or practical work in which a group of people learn about a particular subject by sharing their knowledge or experience. English = workshop."
+  ],
+  "idGloss": "workshop",
+  "oldEntry": ""
 }

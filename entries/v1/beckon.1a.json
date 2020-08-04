@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign can also be made by bending a Flat handshape.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beckon.1a",
-  "oldentry": "Popular explanation: the culturally shared gesture of beckoning.",
   "english": [
     "beckoning",
     "beckon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To ask someone to come over from where they are to where you are; to ask someone to come closer to you. English = beckon."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone to come over to where you are. English = 'Come here!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of calling or signalling someone to come closer to you. English = beckoning."
-  ],
   "signNumber": 787,
   "recordNumber": 449,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [],
   "synonyms": [
     "entice"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone to come over to where you are. English = 'Come here!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To ask someone to come over from where they are to where you are; to ask someone to come closer to you. English = beckon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of calling or signalling someone to come closer to you. English = beckoning."
+  ],
+  "idGloss": "beckon.1a",
+  "oldEntry": "Popular explanation: the culturally shared gesture of beckoning."
 }

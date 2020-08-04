@@ -21,30 +21,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "write.1a",
-  "oldentry": "",
   "english": [
     "writing",
     "pen",
     "write"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a pen or pencil to produce words, letters, or numbers. English = write.",
-    "2. To create something such as a book, or a poem by recording it on paper. English = write."
-  ],
   "cf": [
     "author",
     "secretary",
     "handwriting"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act or result of using a pen or pencil to produce words, letters, or numbers. English = writing.",
-    "2. A long thin object which you use to write in ink. English = pen."
   ],
   "signNumber": 6447,
   "recordNumber": 3842,
@@ -54,5 +40,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a pen or pencil to produce words, letters, or numbers. English = write.",
+    "2. To create something such as a book, or a poem by recording it on paper. English = write."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act or result of using a pen or pencil to produce words, letters, or numbers. English = writing.",
+    "2. A long thin object which you use to write in ink. English = pen."
+  ],
+  "idGloss": "write.1a",
+  "oldEntry": ""
 }

@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "angry.1a",
-  "oldentry": "",
   "english": [
     "anger",
     "annoyance",
@@ -40,17 +36,7 @@
     "complain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel a strong emotion about something that you consider unfair, cruel, or insulting. English = (be) angry, (be) cross, (be) annoyed.",
-    "2. To express the fact that you are not satisfied with a particular situation. English = complain."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strong emotion about something that you consider unfair, cruel, or insulting. English = anger, annoyance.",
-    "2. A statement in which you express your dissatisfaction with a particular situation. English = complaint."
-  ],
   "signNumber": 2963.1,
   "recordNumber": 1685,
   "signVisualComposition": "",
@@ -67,5 +53,19 @@
     "cranky",
     "furious.1a",
     "incensed"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel a strong emotion about something that you consider unfair, cruel, or insulting. English = (be) angry, (be) cross, (be) annoyed.",
+    "2. To express the fact that you are not satisfied with a particular situation. English = complain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A strong emotion about something that you consider unfair, cruel, or insulting. English = anger, annoyance.",
+    "2. A statement in which you express your dissatisfaction with a particular situation. English = complaint."
+  ],
+  "idGloss": "angry.1a",
+  "oldEntry": ""
 }

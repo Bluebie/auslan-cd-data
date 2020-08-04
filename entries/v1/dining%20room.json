@@ -13,23 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dining room",
-  "oldentry": "Popular explanation: eating room.",
   "english": [
     "dining room"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "kitchen.1",
     "lounge room"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The room in a house where people have their meals, or a room in a hotel where meals are served. English = dining room."
   ],
   "signNumber": 53,
   "recordNumber": 32,
@@ -39,5 +29,15 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The room in a house where people have their meals, or a room in a hotel where meals are served. English = dining room."
+  ],
+  "idGloss": "dining room",
+  "oldEntry": "Popular explanation: eating room."
 }

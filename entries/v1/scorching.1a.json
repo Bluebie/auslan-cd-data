@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "scorching.1a",
-  "oldentry": "",
   "english": [
     "scalding",
     "scorching"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be extremely hot.",
-    "2. Of liquid or steam, to be extremely hot. English = scalding.",
-    "3. Of weather, to be extremely hot. Informal English = scorching."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2932,
   "recordNumber": 1664,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
     "cold",
     "freeze.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be extremely hot.",
+    "2. Of liquid or steam, to be extremely hot. English = scalding.",
+    "3. Of weather, to be extremely hot. Informal English = scorching."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "scorching.1a",
+  "oldEntry": ""
 }

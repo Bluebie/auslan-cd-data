@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "linguistics.1",
-  "oldentry": "",
   "english": [
     "linguistics",
     "linguistic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of studies, developments, or ideas that relate to language or linguistics. English = (be) linguistic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The study of the way in which language works. English = linguistics."
-  ],
   "signNumber": 5216,
   "recordNumber": 3133,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of studies, developments, or ideas that relate to language or linguistics. English = (be) linguistic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The study of the way in which language works. English = linguistics."
+  ],
+  "idGloss": "linguistics.1",
+  "oldEntry": ""
 }

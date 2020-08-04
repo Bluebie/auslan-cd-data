@@ -13,26 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Europe",
-  "oldentry": "",
   "english": [
     "Europe",
     "European"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to Europe. English = (be) European."
-  ],
   "cf": [
     "Asia.1a",
     "Asia.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The continent which is the western part of the Eurasian landmass, called Europe."
   ],
   "signNumber": 79,
   "recordNumber": 44,
@@ -42,5 +30,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to Europe. English = (be) European."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The continent which is the western part of the Eurasian landmass, called Europe."
+  ],
+  "idGloss": "Europe",
+  "oldEntry": ""
 }

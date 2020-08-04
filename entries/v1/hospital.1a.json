@@ -14,21 +14,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hospital.1a",
-  "oldentry": "",
   "english": [
     "hospital"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where sick people are looked after by doctors and nurses. English = hospital."
-  ],
   "signNumber": 3030,
   "recordNumber": 1737,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "hospital.2",
     "hospitalise"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where sick people are looked after by doctors and nurses. English = hospital."
+  ],
+  "idGloss": "hospital.1a",
+  "oldEntry": ""
 }

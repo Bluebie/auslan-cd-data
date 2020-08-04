@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "petrol filter",
-  "oldentry": "",
   "english": [
     "petrol filter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device in a petrol powered engine through which petrol flows and particles and impurities are removed. English = petrol filter."
-  ],
   "signNumber": 1899,
   "recordNumber": 1136,
   "signVisualComposition": "PETROL + FILTER",
@@ -33,5 +23,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device in a petrol powered engine through which petrol flows and particles and impurities are removed. English = petrol filter."
+  ],
+  "idGloss": "petrol filter",
+  "oldEntry": ""
 }

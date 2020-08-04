@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dentist.2",
-  "oldentry": "Popular explanation: pulling out a tooth.",
   "english": [
     "dentist",
     "extraction"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a tooth extracted by a dentist."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is qualified to treat people's teeth; the place where a dentist works. English = dentist; dentist's.",
-    "2. The removal of a tooth by a dentist. English = extraction."
-  ],
   "signNumber": 1768,
   "recordNumber": 1064,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "dentist.1",
     "dentist.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a tooth extracted by a dentist."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is qualified to treat people's teeth; the place where a dentist works. English = dentist; dentist's.",
+    "2. The removal of a tooth by a dentist. English = extraction."
+  ],
+  "idGloss": "dentist.2",
+  "oldEntry": "Popular explanation: pulling out a tooth."
 }

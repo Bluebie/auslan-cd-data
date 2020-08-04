@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "magazine.2",
-  "oldentry": "",
   "english": [
     "magazine",
     "journal"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A publication with a paper cover which is issued regularly, usually weekly or monthly, and which contains articles, stories, photographs and advertisements. English = magazine.",
-    "2. A magazine for people with a particular interest, especially a professional or academic interest. English = journal."
-  ],
   "signNumber": 5492,
   "recordNumber": 3260,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A publication with a paper cover which is issued regularly, usually weekly or monthly, and which contains articles, stories, photographs and advertisements. English = magazine.",
+    "2. A magazine for people with a particular interest, especially a professional or academic interest. English = journal."
+  ],
+  "idGloss": "magazine.2",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ready.2",
-  "oldentry": "",
   "english": [
     "ready"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have prepared yourself or to have been prepared for something. English = (be) ready."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5540,
   "recordNumber": 3278,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have prepared yourself or to have been prepared for something. English = (be) ready."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "ready.2",
+  "oldEntry": ""
 }

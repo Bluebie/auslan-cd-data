@@ -15,23 +15,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "really",
-  "oldentry": "",
   "english": [
     "really",
     "very",
     "extremely"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to give emphasis to an adjective or adverbial sign, or to emphasise what you are saying.  English = really, very, extremely."
-  ],
-  "nomlex": [],
   "signNumber": 6640,
   "recordNumber": 3954,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
     "true",
     "very.1",
     "very.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to give emphasis to an adjective or adverbial sign, or to emphasise what you are saying.  English = really, very, extremely."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "really",
+  "oldEntry": ""
 }

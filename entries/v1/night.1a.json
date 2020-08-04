@@ -18,25 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "night.1a",
-  "oldentry": "Popular explanation: the sun setting and night falling.",
   "english": [
     "night",
     "evening"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become darker and darker at the end of the afternoon; to become evening; to become night."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of each period of twenty-four hours when it is dark outside, especially the time when most people are sleeping. English = night.",
-    "2. The time of the day between the end of the afternoon and the time when you go to bed. English = evening."
-  ],
   "signNumber": 3549,
   "recordNumber": 2079,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   ],
   "synonyms": [
     "night.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become darker and darker at the end of the afternoon; to become evening; to become night."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of each period of twenty-four hours when it is dark outside, especially the time when most people are sleeping. English = night.",
+    "2. The time of the day between the end of the afternoon and the time when you go to bed. English = evening."
+  ],
+  "idGloss": "night.1a",
+  "oldEntry": "Popular explanation: the sun setting and night falling."
 }

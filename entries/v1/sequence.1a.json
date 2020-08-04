@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sequence.1a",
-  "oldentry": "",
   "english": [
     "sequence",
     "consequence",
@@ -35,22 +31,8 @@
     "then"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move on to the next or later item is a series events or things that come one after another in a particular order.",
-    "2. To put things or events in an ordered series, one after another. English = sequence, order."
-  ],
   "cf": [
     "series.1a"
-  ],
-  "interj": [
-    "1. Used alone, especially in the context of a meeting, to suggest or tell people to move on to the next item on the agenda. English = 'Okay, let's move on to the next item.'"
-  ],
-  "partlex": [
-    "1. Used to introduce an action or series of actions that happen after or as a result of some earlier action. English = subsequently, consequently, then, following that."
-  ],
-  "nomlex": [
-    "1. A number of events or things that come one after another in a particular order. English = sequence.",
-    "2. A thing which happens after another thing and which is a result of the first. English = consequence."
   ],
   "signNumber": 4762,
   "recordNumber": 2878,
@@ -62,5 +44,23 @@
   "antonyms": [],
   "synonyms": [
     "next.one.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone, especially in the context of a meeting, to suggest or tell people to move on to the next item on the agenda. English = 'Okay, let's move on to the next item.'"
+  ],
+  "particleLexeme": [
+    "1. Used to introduce an action or series of actions that happen after or as a result of some earlier action. English = subsequently, consequently, then, following that."
+  ],
+  "verbLexeme": [
+    "1. To move on to the next or later item is a series events or things that come one after another in a particular order.",
+    "2. To put things or events in an ordered series, one after another. English = sequence, order."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of events or things that come one after another in a particular order. English = sequence.",
+    "2. A thing which happens after another thing and which is a result of the first. English = consequence."
+  ],
+  "idGloss": "sequence.1a",
+  "oldEntry": ""
 }

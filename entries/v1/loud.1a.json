@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "HEAR + L",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "loud.1a",
-  "oldentry": "",
   "english": [
     "loud"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For the level of a sound to be very high, for example the sound of thunder or the sound of your voice when you shout. English = (be) loud."
-  ],
   "cf": [
     "sound",
     "hear.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A loud noise or sound, especially one that is at the lower end of the frequency spectrum (ie, very bass) because it is more likely to be felt by a deaf person, rather than actually heard."
   ],
   "signNumber": 5095,
   "recordNumber": 3074,
@@ -46,5 +34,17 @@
   ],
   "synonyms": [
     "noise.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For the level of a sound to be very high, for example the sound of thunder or the sound of your voice when you shout. English = (be) loud."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A loud noise or sound, especially one that is at the lower end of the frequency spectrum (ie, very bass) because it is more likely to be felt by a deaf person, rather than actually heard."
+  ],
+  "idGloss": "loud.1a",
+  "oldEntry": ""
 }

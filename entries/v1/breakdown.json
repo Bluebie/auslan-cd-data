@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breakdown",
-  "oldentry": "",
   "english": [
     "breakdown",
     "devastation",
@@ -32,20 +28,7 @@
     "devastated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a machine, system, plan, or discussion, to fail or to stop. English = breakdown.",
-    "2. Of a car or vehicle, to suddenly stop working as you are driving along. English = breakdown.",
-    "3. To destroy or severely damage something. English = devastate.",
-    "4. To be destroyed or severely damaged in some way. English = (be) devastated."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The failure or ending of a machine, system, plan, or discussion. English = breakdown.",
-    "2. The sudden failure of a car or vehicle as you are driving along. English = breakdown.",
-    "3. Serious destruction or damage. English = devastation."
-  ],
   "signNumber": 3020,
   "recordNumber": 1727,
   "signVisualComposition": "",
@@ -58,5 +41,22 @@
   ],
   "synonyms": [
     "damage"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a machine, system, plan, or discussion, to fail or to stop. English = breakdown.",
+    "2. Of a car or vehicle, to suddenly stop working as you are driving along. English = breakdown.",
+    "3. To destroy or severely damage something. English = devastate.",
+    "4. To be destroyed or severely damaged in some way. English = (be) devastated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The failure or ending of a machine, system, plan, or discussion. English = breakdown.",
+    "2. The sudden failure of a car or vehicle as you are driving along. English = breakdown.",
+    "3. Serious destruction or damage. English = devastation."
+  ],
+  "idGloss": "breakdown",
+  "oldEntry": ""
 }

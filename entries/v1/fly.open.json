@@ -14,26 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fly.open",
-  "oldentry": "",
   "english": [
     "fly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To zip open or undo the front opening on a pair of trousers; to unzip or undo a fly.",
-    "2. Of a fly on a pair of trousers, to be unzipped, to be undone, to be open."
-  ],
   "cf": [
     "fly.3",
     "zip.1a",
     "fly.3"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6189,
   "recordNumber": 3697,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "antonyms": [
     "fly.close"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To zip open or undo the front opening on a pair of trousers; to unzip or undo a fly.",
+    "2. Of a fly on a pair of trousers, to be unzipped, to be undone, to be open."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fly.open",
+  "oldEntry": ""
 }

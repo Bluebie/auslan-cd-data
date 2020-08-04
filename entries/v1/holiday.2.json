@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "holiday.2",
-  "oldentry": "",
   "english": [
     "holiday",
     "vacation"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go away for a period of time during which you relax and enjoy yourself away from home. English = holiday, go on holidays."
-  ],
   "cf": [
     "available"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of time during which you are relaxing and enjoying yourself away from home; a period of time during which you are not working or attending school, college, or university. English = holiday, holidays, vacation."
   ],
   "signNumber": 6558,
   "recordNumber": 3908,
@@ -49,5 +37,17 @@
   ],
   "synonyms": [
     "holiday.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go away for a period of time during which you relax and enjoy yourself away from home. English = holiday, go on holidays."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of time during which you are relaxing and enjoying yourself away from home; a period of time during which you are not working or attending school, college, or university. English = holiday, holidays, vacation."
+  ],
+  "idGloss": "holiday.2",
+  "oldEntry": ""
 }

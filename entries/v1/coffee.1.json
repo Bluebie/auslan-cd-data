@@ -17,24 +17,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "coffee.1",
-  "oldentry": "Popular explanation: operating a manual coffee grinder.",
   "english": [
     "coffee",
     "coffee beans"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee.",
-    "2. The roasted seeds or powder from which the drink is made. English = coffee, coffee beans.",
-    "3. A cup of coffee."
-  ],
   "signNumber": 5819,
   "recordNumber": 3455,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   "synonyms": [
     "coffee.2",
     "c.words.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee.",
+    "2. The roasted seeds or powder from which the drink is made. English = coffee, coffee beans.",
+    "3. A cup of coffee."
+  ],
+  "idGloss": "coffee.1",
+  "oldEntry": "Popular explanation: operating a manual coffee grinder."
 }

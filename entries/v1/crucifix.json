@@ -13,22 +13,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crucifix",
-  "oldentry": "Popular explanation: the shape of a crucifix.",
   "english": [
     "crucifix"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
-    "2. A cross with a figure of Christ on it. English = crucifix."
-  ],
   "signNumber": 953,
   "recordNumber": 549,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [],
   "synonyms": [
     "Calvary"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
+    "2. A cross with a figure of Christ on it. English = crucifix."
+  ],
+  "idGloss": "crucifix",
+  "oldEntry": "Popular explanation: the shape of a crucifix."
 }

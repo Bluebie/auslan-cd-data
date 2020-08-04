@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "short.1a",
-  "oldentry": "",
   "english": [
     "short"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not as tall as most people. English = (be) short."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6366,
   "recordNumber": 3803,
   "signVisualComposition": "LITTLE + SHORT",
@@ -42,5 +32,15 @@
   ],
   "synonyms": [
     "low.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not as tall as most people. English = (be) short."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "short.1a",
+  "oldEntry": ""
 }

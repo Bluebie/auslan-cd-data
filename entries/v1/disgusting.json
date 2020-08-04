@@ -16,23 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disgusting",
-  "oldentry": "",
   "english": [
     "disgusting",
     "horrible",
     "revolting"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of food, to taste, look or smell extremely unpleasant. English = (be) disgusting, (be) horrible, (be) revolting."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2838,
   "recordNumber": 1598,
   "signVisualComposition": "",
@@ -46,5 +36,15 @@
   ],
   "synonyms": [
     "taste.bad.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of food, to taste, look or smell extremely unpleasant. English = (be) disgusting, (be) horrible, (be) revolting."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "disgusting",
+  "oldEntry": ""
 }

@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rocket.1a",
-  "oldentry": "",
   "english": [
     "rocket",
     "lift off",
@@ -27,17 +23,7 @@
     "take off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To send a rocket or missile into space. English = launch.",
-    "2. Of a rocket or missile, to lift off the ground and go into the air; to take off."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A space vehicle that is shaped like a long tube; a missile containing explosive that drives itself through the air by sending out burning gas; a firework that quickly goes high into the air and then explodes. English = rocket.",
-    "2. The launching of a rocket or missile. English = lift off."
-  ],
   "signNumber": 1215,
   "recordNumber": 717,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To send a rocket or missile into space. English = launch.",
+    "2. Of a rocket or missile, to lift off the ground and go into the air; to take off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A space vehicle that is shaped like a long tube; a missile containing explosive that drives itself through the air by sending out burning gas; a firework that quickly goes high into the air and then explodes. English = rocket.",
+    "2. The launching of a rocket or missile. English = lift off."
+  ],
+  "idGloss": "rocket.1a",
+  "oldEntry": ""
 }

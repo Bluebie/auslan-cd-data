@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bracelet.bangle.1a",
-  "oldentry": "Popular explanation: something circular and tight around the wrist.",
   "english": [
     "bracelet",
     "bangle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a bracelet, bangle."
-  ],
   "cf": [
     "wrist"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A chain or band, usually made of metal, which you wear around your wrist as jewellery. English = bracelet, bangle."
   ],
   "signNumber": 6326,
   "recordNumber": 3776,
@@ -41,5 +29,17 @@
   "primaryLocation": 14,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a bracelet, bangle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A chain or band, usually made of metal, which you wear around your wrist as jewellery. English = bracelet, bangle."
+  ],
+  "idGloss": "bracelet.bangle.1a",
+  "oldEntry": "Popular explanation: something circular and tight around the wrist."
 }

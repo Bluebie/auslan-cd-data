@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "PROGRESS + OKAY",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "improve.1a",
-  "oldentry": "",
   "english": [
     "improvement",
     "progress",
@@ -36,19 +32,7 @@
     "improve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get better. English = improve",
-    "2. To become more advanced, skilful, or higher in rank over a period of time. English = progress.",
-    "3. To grow or change over a period of time into a better or more complete form. English = develop."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A change for the better. English = improvement.",
-    "2. The act or process of becoming more advanced, skilful, or higher in rank over a period of time. English = progress.",
-    "3. The process of growing or changing over a period of time into a better or more complete form. English = development."
-  ],
   "signNumber": 435,
   "recordNumber": 242,
   "signVisualComposition": "",
@@ -63,5 +47,21 @@
     "forward.1",
     "develop.1a",
     "progress"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get better. English = improve",
+    "2. To become more advanced, skilful, or higher in rank over a period of time. English = progress.",
+    "3. To grow or change over a period of time into a better or more complete form. English = develop."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A change for the better. English = improvement.",
+    "2. The act or process of becoming more advanced, skilful, or higher in rank over a period of time. English = progress.",
+    "3. The process of growing or changing over a period of time into a better or more complete form. English = development."
+  ],
+  "idGloss": "improve.1a",
+  "oldEntry": ""
 }

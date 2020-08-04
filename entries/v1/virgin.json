@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers drop the handshape from the upper arm to signify 'lose one's virginity'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "virgin",
-  "oldentry": "",
   "english": [
     "virgin",
     "Virgo"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who has never had sex. English = virgin.",
-    "2. A constellation and a star sign of the Zodiac, called Virgo (the Virgin)."
-  ],
   "signNumber": 1624,
   "recordNumber": 964,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who has never had sex. English = virgin.",
+    "2. A constellation and a star sign of the Zodiac, called Virgo (the Virgin)."
+  ],
+  "idGloss": "virgin",
+  "oldEntry": ""
 }

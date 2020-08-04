@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "runny.nose.1a",
-  "oldentry": "",
   "english": [
     "run"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have liquid flowing or dripping from your nose, usually because you are sick with a cold. English = have a runny nose."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A runny nose."
-  ],
   "signNumber": 1367,
   "recordNumber": 809,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have liquid flowing or dripping from your nose, usually because you are sick with a cold. English = have a runny nose."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A runny nose."
+  ],
+  "idGloss": "runny.nose.1a",
+  "oldEntry": ""
 }

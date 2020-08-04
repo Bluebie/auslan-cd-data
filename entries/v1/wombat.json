@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "TIGER + W",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wombat",
-  "oldentry": "",
   "english": [
     "wombat"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hairy Australian animal which has very short legs and eats plants. English = wombat."
-  ],
   "signNumber": 2273,
   "recordNumber": 1284,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hairy Australian animal which has very short legs and eats plants. English = wombat."
+  ],
+  "idGloss": "wombat",
+  "oldEntry": ""
 }

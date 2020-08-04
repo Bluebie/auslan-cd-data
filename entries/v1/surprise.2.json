@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "surprise.2",
-  "oldentry": "",
   "english": [
     "surprised"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To react to something which is unexpected or unusual. English = (be) surprised. Idiomatic English = (be) caught unawares."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you are mildly surprised by something that has happened. English = 'Oh!', 'Well!', 'Well! Well! Well!', 'Well, I never thought/imagined!' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5770,
   "recordNumber": 3420,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "synonyms": [
     "surprise.1a",
     "surprise.3"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you are mildly surprised by something that has happened. English = 'Oh!', 'Well!', 'Well! Well! Well!', 'Well, I never thought/imagined!' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To react to something which is unexpected or unusual. English = (be) surprised. Idiomatic English = (be) caught unawares."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "surprise.2",
+  "oldEntry": ""
 }

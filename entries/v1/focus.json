@@ -13,25 +13,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "focus",
-  "oldentry": "Popular explanation: adjusting a camera focus.",
   "english": [
     "focus"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To adjust a camera or telescope so that you can clearly see the thing you want to look at. English = focus."
-  ],
   "cf": [
     "telescope",
     "microscope.1",
     "binoculars"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 118,
   "recordNumber": 61,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To adjust a camera or telescope so that you can clearly see the thing you want to look at. English = focus."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "focus",
+  "oldEntry": "Popular explanation: adjusting a camera focus."
 }

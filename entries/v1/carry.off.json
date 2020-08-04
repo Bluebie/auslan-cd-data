@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "BRING + OFF",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carry.off",
-  "oldentry": "",
   "english": [
     "carry off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To carry, take or lift off something from a flat surface."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4274,
   "recordNumber": 2594,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To carry, take or lift off something from a flat surface."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "carry.off",
+  "oldEntry": ""
 }

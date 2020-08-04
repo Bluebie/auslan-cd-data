@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shy.1a",
-  "oldentry": "Popular explanation: culturally shared gesture signifying shyness.",
   "english": [
     "shyness",
     "timidity",
@@ -36,21 +32,9 @@
     "bashful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be nervous and uncomfortable in the company of other people. English = (be) shy.",
-    "2. To be nervous and uncomfortable in the company of other people and to show no courage or self-confidence. English = (be) timid.",
-    "3. To be shy and easily embarrassed. English = (be) bashful."
-  ],
   "cf": [
     "ashamed.1a",
     "blush.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being nervous and uncomfortable in the company of other people. English = shyness.",
-    "2. The quality of being nervous and uncomfortable in the company of other people and having no courage or self-confidence. English = timidity.",
-    "3. The quality of being nervous and uncomfortable in the company of other people and to be easily embarrassed. English = bashfulness."
   ],
   "signNumber": 641,
   "recordNumber": 374,
@@ -62,5 +46,21 @@
   "antonyms": [
     "assertiveness"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be nervous and uncomfortable in the company of other people. English = (be) shy.",
+    "2. To be nervous and uncomfortable in the company of other people and to show no courage or self-confidence. English = (be) timid.",
+    "3. To be shy and easily embarrassed. English = (be) bashful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being nervous and uncomfortable in the company of other people. English = shyness.",
+    "2. The quality of being nervous and uncomfortable in the company of other people and having no courage or self-confidence. English = timidity.",
+    "3. The quality of being nervous and uncomfortable in the company of other people and to be easily embarrassed. English = bashfulness."
+  ],
+  "idGloss": "shy.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture signifying shyness."
 }

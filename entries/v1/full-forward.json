@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "full-forward",
-  "oldentry": "",
   "english": [
     "full-forward"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian rule football, the central position on the forward line nearest to the goal which is being attacked. English = full-forward.",
-    "2. The player occupying the central position on the forward line nearest to the goal which is being attacked. English = full-forward."
-  ],
   "signNumber": 4104,
   "recordNumber": 2465,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "antonyms": [
     "full-back"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian rule football, the central position on the forward line nearest to the goal which is being attacked. English = full-forward.",
+    "2. The player occupying the central position on the forward line nearest to the goal which is being attacked. English = full-forward."
+  ],
+  "idGloss": "full-forward",
+  "oldEntry": ""
 }

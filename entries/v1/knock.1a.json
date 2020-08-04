@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "knock.1a",
-  "oldentry": "Popular explanation: knocking on a surface.",
   "english": [
     "knock",
     "knocking",
@@ -26,15 +22,7 @@
     "rap"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hit a door, window or a wall several times with the knuckles of your closed fist in order to attract someone's attention. English = knock, rap."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sound of someone hitting a door, window or wall with the knuckles of their closed fist. English = knock, knocking, door knock."
-  ],
   "signNumber": 6035,
   "recordNumber": 3593,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hit a door, window or a wall several times with the knuckles of your closed fist in order to attract someone's attention. English = knock, rap."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sound of someone hitting a door, window or wall with the knuckles of their closed fist. English = knock, knocking, door knock."
+  ],
+  "idGloss": "knock.1a",
+  "oldEntry": "Popular explanation: knocking on a surface."
 }

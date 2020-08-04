@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "electricity.1a",
-  "oldentry": "",
   "english": [
     "electricity",
     "power",
@@ -26,16 +22,7 @@
     "electronic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be powered by electricity. English = (be) electric.",
-    "2. Of a device, to have transistors, silicon chips, or valves which control and change the electric current passing through it. English = (be) electronic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A form of energy which is transmitted through wires that is used for heating and lighting, and to provide power for machines in houses and factories. English = electricity, power."
-  ],
   "signNumber": 638,
   "recordNumber": 372,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "antonyms": [],
   "synonyms": [
     "battery.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be powered by electricity. English = (be) electric.",
+    "2. Of a device, to have transistors, silicon chips, or valves which control and change the electric current passing through it. English = (be) electronic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A form of energy which is transmitted through wires that is used for heating and lighting, and to provide power for machines in houses and factories. English = electricity, power."
+  ],
+  "idGloss": "electricity.1a",
+  "oldEntry": ""
 }

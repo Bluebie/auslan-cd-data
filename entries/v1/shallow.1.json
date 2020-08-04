@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Of any two surfaces or between the layers of something, to measure only a short distance from the one to the other, especially between the bed of a body of water and the water level.",
-  "questlex": [],
-  "idgloss": "shallow.1",
-  "oldentry": "",
   "english": [
     "shallow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a body of water, to measure only a short distance from the bed to the top. English = (be) shallow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4088,
   "recordNumber": 2451,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "depth.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a body of water, to measure only a short distance from the bed to the top. English = (be) shallow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Of any two surfaces or between the layers of something, to measure only a short distance from the one to the other, especially between the bed of a body of water and the water level.",
+  "nominalLexeme": [],
+  "idGloss": "shallow.1",
+  "oldEntry": ""
 }

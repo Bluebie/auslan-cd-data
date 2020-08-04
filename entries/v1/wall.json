@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wall",
-  "oldentry": "Popular explanation: the line of a vertical flat surface.",
   "english": [
     "wall"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the vertical sides of a building or room; a long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall."
-  ],
   "signNumber": 3198,
   "recordNumber": 1856,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 8,
   "secondLocation": 0,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the vertical sides of a building or room; a long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall."
+  ],
+  "idGloss": "wall",
+  "oldEntry": "Popular explanation: the line of a vertical flat surface."
 }

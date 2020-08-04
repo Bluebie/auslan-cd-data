@@ -15,23 +15,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bridesmaid.1",
-  "oldentry": "Popular explanation: outline of bridesmaid's head-dress.",
   "english": [
     "bridesmaid",
     "bride"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A woman or girl who helps and accompanies a bride on her wedding day. English = bridesmaid.",
-    "2. A woman who is getting married or who has just got married. English = bride."
-  ],
   "signNumber": 5190,
   "recordNumber": 3122,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "antonyms": [],
   "synonyms": [
     "bridesmaid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A woman or girl who helps and accompanies a bride on her wedding day. English = bridesmaid.",
+    "2. A woman who is getting married or who has just got married. English = bride."
+  ],
+  "idGloss": "bridesmaid.1",
+  "oldEntry": "Popular explanation: outline of bridesmaid's head-dress."
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something long and round lying on a flat surface or relating to the arm or body, or any thing or any action directly or indirectly associated with this, especially the large bones of the human body.",
-  "questlex": [],
-  "idgloss": "bone.2",
-  "oldentry": "",
   "english": [
     "bone"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hard part inside your body, all of which together form your skeleton. English = bone."
-  ],
   "signNumber": 447,
   "recordNumber": 252,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "synonyms": [
     "bone.1",
     "corn.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something long and round lying on a flat surface or relating to the arm or body, or any thing or any action directly or indirectly associated with this, especially the large bones of the human body.",
+  "nominalLexeme": [
+    "1. The hard part inside your body, all of which together form your skeleton. English = bone."
+  ],
+  "idGloss": "bone.2",
+  "oldEntry": ""
 }

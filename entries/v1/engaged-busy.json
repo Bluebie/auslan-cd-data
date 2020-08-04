@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "engaged-busy",
-  "oldentry": "",
   "english": [
     "limit",
     "limited",
@@ -27,17 +23,7 @@
     "engaged"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an entity or process, to be unable to proceed any further and to reach the greatest amount, extent, or degree that is possible or allowed. English = (be) limited.",
-    "2. Of telecommunications (phones, TTYs, etc.), to be already in use, so you cannot communicate with the person you are trying to contact. English = (be) busy, (be) engaged.",
-    "Idiomatic English = unable to get through, unable to be put through."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The greatest amount, extent, or degree of something that is possible or allowed. English = limit."
-  ],
   "signNumber": 4211,
   "recordNumber": 2547,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an entity or process, to be unable to proceed any further and to reach the greatest amount, extent, or degree that is possible or allowed. English = (be) limited.",
+    "2. Of telecommunications (phones, TTYs, etc.), to be already in use, so you cannot communicate with the person you are trying to contact. English = (be) busy, (be) engaged.",
+    "Idiomatic English = unable to get through, unable to be put through."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The greatest amount, extent, or degree of something that is possible or allowed. English = limit."
+  ],
+  "idGloss": "engaged-busy",
+  "oldEntry": ""
 }

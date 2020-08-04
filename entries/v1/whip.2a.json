@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "whip.2a",
-  "oldentry": "Popular explanation: operating an egg beater.",
   "english": [
     "egg-beater",
     "whip",
     "beat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stir cream or eggs very fast until they are thick and frothy or stiff, especially using an egg-beater. English = whip.",
-    "2. To use an egg-beater. English = whip, beat."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A kitchen tool with rotating blades used for beating eggs or whipping cream. English = egg-beater."
-  ],
   "signNumber": 5837,
   "recordNumber": 3471,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stir cream or eggs very fast until they are thick and frothy or stiff, especially using an egg-beater. English = whip.",
+    "2. To use an egg-beater. English = whip, beat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A kitchen tool with rotating blades used for beating eggs or whipping cream. English = egg-beater."
+  ],
+  "idGloss": "whip.2a",
+  "oldEntry": "Popular explanation: operating an egg beater."
 }

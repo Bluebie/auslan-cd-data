@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "approach.time.1a",
-  "oldentry": "",
   "english": [
     "appear",
     "approach"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a future event or date, to gradually become nearer as time passes. English = approach. Idiomatic English = get closer, get nearer.",
-    "2. Of two people, for one person to come very close to the other person so that they are looking each other in the eye.",
-    "3. Of anything in general, to move into your field of vision or to come closer so that it can be better seen. English = appear."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3590.1,
   "recordNumber": 2109,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 6,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a future event or date, to gradually become nearer as time passes. English = approach. Idiomatic English = get closer, get nearer.",
+    "2. Of two people, for one person to come very close to the other person so that they are looking each other in the eye.",
+    "3. Of anything in general, to move into your field of vision or to come closer so that it can be better seen. English = appear."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "approach.time.1a",
+  "oldEntry": ""
 }

@@ -20,31 +20,15 @@
   "sense": "",
   "blend": "ACCIDENT + WEAR.OUT",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "damage",
-  "oldentry": "",
   "english": [
     "damage",
     "destruction",
     "destroy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To harm or spoil something physically, for example by breaking it. English = damage.",
-    "2. To damage something completely, so that it no longer exists. English = destroy.",
-    "3. Of an engine or machine, to no longer work at all (and to be beyond repair) because it is too old or damaged. English = break down, (be) broken down. Idiomatic English = (be) clapped out.",
-    "4. Of people, to be completely exhausted both physically and emotionally by a problem or a task and to be unable or unwilling to continue."
-  ],
   "cf": [
     "melt.1a",
     "collision.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Physical harm that is done to something. English = damage.",
-    "2. The act of destroying something. English = destruction."
   ],
   "signNumber": 5862,
   "recordNumber": 3487,
@@ -56,5 +40,21 @@
   "antonyms": [],
   "synonyms": [
     "wear.out.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To harm or spoil something physically, for example by breaking it. English = damage.",
+    "2. To damage something completely, so that it no longer exists. English = destroy.",
+    "3. Of an engine or machine, to no longer work at all (and to be beyond repair) because it is too old or damaged. English = break down, (be) broken down. Idiomatic English = (be) clapped out.",
+    "4. Of people, to be completely exhausted both physically and emotionally by a problem or a task and to be unable or unwilling to continue."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Physical harm that is done to something. English = damage.",
+    "2. The act of destroying something. English = destruction."
+  ],
+  "idGloss": "damage",
+  "oldEntry": ""
 }

@@ -16,24 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "move-motion.1",
-  "oldentry": "",
   "english": [
     "move"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To formally propose something at a meeting so that everyone present can vote for or against it. English = move.",
-    "2. To go and live in a different house, taking your possessions with you. English = move."
-  ],
   "cf": [
     "second.1"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 186,
   "recordNumber": 105,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   "synonyms": [
     "move.motion.2",
     "move"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To formally propose something at a meeting so that everyone present can vote for or against it. English = move.",
+    "2. To go and live in a different house, taking your possessions with you. English = move."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "move-motion.1",
+  "oldEntry": ""
 }

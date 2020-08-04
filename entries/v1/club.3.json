@@ -16,10 +16,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "club.3",
-  "oldentry": "Popular explanation: wearing a cap associated with a club.",
   "english": [
     "club",
     "football club",
@@ -27,13 +23,7 @@
     "rugby club"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An organisation of people who are all interested in or supporters of a particular football club. English = club, football club, soccer club, rugby club."
-  ],
   "signNumber": 6064.1,
   "recordNumber": 3607,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   "synonyms": [
     "club.1",
     "club.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An organisation of people who are all interested in or supporters of a particular football club. English = club, football club, soccer club, rugby club."
+  ],
+  "idGloss": "club.3",
+  "oldEntry": "Popular explanation: wearing a cap associated with a club."
 }

@@ -24,32 +24,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sock",
-  "oldentry": "Popular explanation: pulling on socks.",
   "english": [
     "sock",
     "slippers",
     "boots"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on a sock, to put on socks.",
-    "2. To put on or pull on a boot, to put on or pull on a pair of boots.",
-    "3. To put on a slipper, to put on pair of slippers."
-  ],
   "cf": [
     "stockings.1a",
     "condom.1",
     "shoe"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing which covers your foot and ankle and is worn inside a shoe. English = sock.",
-    "2. Shoes that cover your whole foot and the lower part of your leg; or strong, heavy shoes which cover your ankle and have thick soles. English = boots.",
-    "3. Loose, soft shoes that you wear in the house. English = slippers."
   ],
   "signNumber": 6201,
   "recordNumber": 3705,
@@ -62,5 +46,21 @@
   "synonyms": [
     "slipper",
     "boot"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on a sock, to put on socks.",
+    "2. To put on or pull on a boot, to put on or pull on a pair of boots.",
+    "3. To put on a slipper, to put on pair of slippers."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing which covers your foot and ankle and is worn inside a shoe. English = sock.",
+    "2. Shoes that cover your whole foot and the lower part of your leg; or strong, heavy shoes which cover your ankle and have thick soles. English = boots.",
+    "3. Loose, soft shoes that you wear in the house. English = slippers."
+  ],
+  "idGloss": "sock",
+  "oldEntry": "Popular explanation: pulling on socks."
 }

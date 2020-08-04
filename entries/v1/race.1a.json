@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "race.1a",
-  "oldentry": "",
   "english": [
     "race"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To compete with someone to see who is the fastest at something. English = race."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A competition to see who is the fastest, for example in running, swimming, or driving. English = race."
-  ],
   "signNumber": 1075,
   "recordNumber": 631,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "run.1a",
     "oppose.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To compete with someone to see who is the fastest at something. English = race."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A competition to see who is the fastest, for example in running, swimming, or driving. English = race."
+  ],
+  "idGloss": "race.1a",
+  "oldEntry": ""
 }

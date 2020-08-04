@@ -14,24 +14,13 @@
   "sense": "",
   "blend": "GROUP + T",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "team",
-  "oldentry": "",
   "english": [
     "team"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "class.1a",
     "family.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of people who play together against another group in a sport or game. English = team.",
-    "2. Any group of people who work together. English = team."
   ],
   "signNumber": 6155,
   "recordNumber": 3670,
@@ -41,5 +30,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of people who play together against another group in a sport or game. English = team.",
+    "2. Any group of people who work together. English = team."
+  ],
+  "idGloss": "team",
+  "oldEntry": ""
 }

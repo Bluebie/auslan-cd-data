@@ -15,21 +15,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yes.2",
-  "oldentry": "",
   "english": [
     "yes"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to signify agreement, to accept something or to say that something is true. English = 'Yes.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1159,
   "recordNumber": 683,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
   ],
   "synonyms": [
     "yes.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to signify agreement, to accept something or to say that something is true. English = 'Yes.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "yes.2",
+  "oldEntry": ""
 }

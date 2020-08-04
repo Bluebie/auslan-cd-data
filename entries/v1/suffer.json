@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suffer",
-  "oldentry": "Popular explanation: shaking hands in pain.",
   "english": [
     "suffering",
     "torment",
@@ -33,17 +29,8 @@
     "tormented"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel serious pain in your body or in your mind. English = suffer, (be) tormented."
-  ],
   "cf": [
     "expensive.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Serious pain which someone feels in their body or in their mind. English = suffering, torment.",
-    "2. Great physical or mental pain. English = agony."
   ],
   "signNumber": 2681,
   "recordNumber": 1489,
@@ -57,5 +44,18 @@
     "sore.1a",
     "pain",
     "throb"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel serious pain in your body or in your mind. English = suffer, (be) tormented."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Serious pain which someone feels in their body or in their mind. English = suffering, torment.",
+    "2. Great physical or mental pain. English = agony."
+  ],
+  "idGloss": "suffer",
+  "oldEntry": "Popular explanation: shaking hands in pain."
 }

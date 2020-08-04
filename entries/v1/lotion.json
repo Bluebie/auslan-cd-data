@@ -21,10 +21,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lotion",
-  "oldentry": "Popular explanation: a rubbing lotion into the skin.",
   "english": [
     "lotion",
     "moisturiser",
@@ -32,16 +28,7 @@
     "ointment"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To apply a hand lotion, hand cream, moisturiser or ointment to the skin."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A liquid you use on the skin of your hands. English = hand lotion, hand cream, moisturiser.",
-    "2. A smooth thick substance that is put on sore skin or a wound to help it heal. English = ointment."
-  ],
   "signNumber": 4048,
   "recordNumber": 2422,
   "signVisualComposition": "",
@@ -53,5 +40,18 @@
   "synonyms": [
     "rub.1a",
     "ointment"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To apply a hand lotion, hand cream, moisturiser or ointment to the skin."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A liquid you use on the skin of your hands. English = hand lotion, hand cream, moisturiser.",
+    "2. A smooth thick substance that is put on sore skin or a wound to help it heal. English = ointment."
+  ],
+  "idGloss": "lotion",
+  "oldEntry": "Popular explanation: a rubbing lotion into the skin."
 }

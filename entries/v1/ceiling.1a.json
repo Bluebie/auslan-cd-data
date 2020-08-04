@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ceiling.1a",
-  "oldentry": "Popular explanation: indicating the ceiling.",
   "english": [
     "ceiling",
     "awning",
@@ -38,20 +34,7 @@
     "shaded"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located overhead.",
-    "2. To be protected by an overhead covering.",
-    "3. To be in the shade. English = (be) shaded."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The horizontal surface that forms the top part inside a room . English = ceiling.",
-    "2. A horizontal surface above head height used for protecting people and objects from the elements. English = awning, covering.",
-    "3. Protection from the sun caused by something, usually horizontal, above head height. English = shade.",
-    "4. One of the separate sections in a house or other building, which has its own walls, ceiling, floor, and door. English = room."
-  ],
   "signNumber": 3120,
   "recordNumber": 1802,
   "signVisualComposition": "",
@@ -62,5 +45,22 @@
   "antonyms": [],
   "synonyms": [
     "blind.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be located overhead.",
+    "2. To be protected by an overhead covering.",
+    "3. To be in the shade. English = (be) shaded."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The horizontal surface that forms the top part inside a room . English = ceiling.",
+    "2. A horizontal surface above head height used for protecting people and objects from the elements. English = awning, covering.",
+    "3. Protection from the sun caused by something, usually horizontal, above head height. English = shade.",
+    "4. One of the separate sections in a house or other building, which has its own walls, ceiling, floor, and door. English = room."
+  ],
+  "idGloss": "ceiling.1a",
+  "oldEntry": "Popular explanation: indicating the ceiling."
 }

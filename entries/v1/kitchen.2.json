@@ -13,21 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kitchen.2",
-  "oldentry": "",
   "english": [
     "kitchen"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The room in a house that you use for cooking and for household jobs such as washing dishes. English = kitchen."
-  ],
   "signNumber": 3060,
   "recordNumber": 1757,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "kitchen.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The room in a house that you use for cooking and for household jobs such as washing dishes. English = kitchen."
+  ],
+  "idGloss": "kitchen.2",
+  "oldEntry": ""
 }

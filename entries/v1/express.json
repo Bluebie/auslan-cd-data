@@ -18,29 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "express",
-  "oldentry": "",
   "english": [
     "expressiveness",
     "expressive",
     "express"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the ability to easily and clearly show people how you think and feel by using your body and language. English = (be) expressive.",
-    "2. To show people how you think and feel by using your body and language. English = express oneself.",
-    "3. To get rid of any fear of letting other people know how you think and feel about something. Idiomatic English = let oneself go, let it all out, let go."
-  ],
   "cf": [
     "hold.1a",
     "imagine.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to easily and clearly show people how you think and feel by using your body and language. English = expressiveness."
   ],
   "signNumber": 5751,
   "recordNumber": 3406,
@@ -52,5 +38,19 @@
   "antonyms": [
     "restrain"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the ability to easily and clearly show people how you think and feel by using your body and language. English = (be) expressive.",
+    "2. To show people how you think and feel by using your body and language. English = express oneself.",
+    "3. To get rid of any fear of letting other people know how you think and feel about something. Idiomatic English = let oneself go, let it all out, let go."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to easily and clearly show people how you think and feel by using your body and language. English = expressiveness."
+  ],
+  "idGloss": "express",
+  "oldEntry": ""
 }

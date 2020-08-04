@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "none.of.one's.business.1a",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "sticky-beak.1a",
     "sticky-beak.2",
     "sticky-beak.3"
   ],
-  "interj": [
-    "1. Used alone in response to someone's question when you believe they have no right to ask you that or know the answer. Abrupt and offensive if used with strangers. English = '(It's) none of your business!', 'Butt out!', 'Mind your own business!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1902,
   "recordNumber": 1139,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone in response to someone's question when you believe they have no right to ask you that or know the answer. Abrupt and offensive if used with strangers. English = '(It's) none of your business!', 'Butt out!', 'Mind your own business!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "none.of.one's.business.1a",
+  "oldEntry": ""
 }

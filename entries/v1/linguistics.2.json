@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "linguistics.2",
-  "oldentry": "",
   "english": [
     "linguistics",
     "linguist",
     "linguistic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to the study of language or linguistics. English = (be) linguistic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The study of the way in which language works. English = linguistics.",
-    "2. A person who studies and teaches linguistics. English = linguist."
-  ],
   "signNumber": 390,
   "recordNumber": 213,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   "antonyms": [],
   "synonyms": [
     "linguistics.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to the study of language or linguistics. English = (be) linguistic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The study of the way in which language works. English = linguistics.",
+    "2. A person who studies and teaches linguistics. English = linguist."
+  ],
+  "idGloss": "linguistics.2",
+  "oldEntry": ""
 }

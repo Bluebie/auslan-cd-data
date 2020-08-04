@@ -21,10 +21,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "different.1a",
-  "oldentry": "",
   "english": [
     "difference",
     "distinction",
@@ -33,16 +29,7 @@
     "differ"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For one thing to be unlike another thing in some way. English = (be) different, (be) unlike; differ from."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The way in which two thing are unlike each other. English = difference.",
-    "2. The thing that makes one thing different from another. English = distinction."
-  ],
   "signNumber": 1002,
   "recordNumber": 582,
   "signVisualComposition": "",
@@ -56,5 +43,18 @@
   "synonyms": [
     "one.is.more",
     "one.is.less"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For one thing to be unlike another thing in some way. English = (be) different, (be) unlike; differ from."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The way in which two thing are unlike each other. English = difference.",
+    "2. The thing that makes one thing different from another. English = distinction."
+  ],
+  "idGloss": "different.1a",
+  "oldEntry": ""
 }

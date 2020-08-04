@@ -11,21 +11,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "busybody",
-  "oldentry": "",
   "english": [
     "busybody"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who interferes in other people's affairs. English = busybody."
-  ],
   "signNumber": 3147,
   "recordNumber": 1823,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
     "sticky-beak.1a",
     "sticky-beak.2",
     "sticky-beak.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who interferes in other people's affairs. English = busybody."
+  ],
+  "idGloss": "busybody",
+  "oldEntry": ""
 }

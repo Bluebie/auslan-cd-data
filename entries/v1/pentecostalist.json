@@ -16,28 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pentecostalist",
-  "oldentry": "",
   "english": [
     "Pentecostalism",
     "Pentecostalist",
     "Pentecostal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to any of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostal.",
-    "2. To go into a religious trance and utter sounds and words that are not intelligible as part of any normal spoken language. English = speak in tongues."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The beliefs of any of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalism.",
-    "2. A member of any one of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalist.",
-    "3. A state in which a person goes into a religious trance and utters sounds and words that are not intelligible as part of any  normal spoken language. English = speaking in tongues."
-  ],
   "signNumber": 2611,
   "recordNumber": 1449,
   "signVisualComposition": "",
@@ -46,5 +31,20 @@
   "primaryLocation": 10,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to any of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostal.",
+    "2. To go into a religious trance and utter sounds and words that are not intelligible as part of any normal spoken language. English = speak in tongues."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The beliefs of any of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalism.",
+    "2. A member of any one of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalist.",
+    "3. A state in which a person goes into a religious trance and utters sounds and words that are not intelligible as part of any  normal spoken language. English = speaking in tongues."
+  ],
+  "idGloss": "pentecostalist",
+  "oldEntry": ""
 }

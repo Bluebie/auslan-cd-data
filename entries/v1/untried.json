@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "'NOT' + SEE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "untried",
-  "oldentry": "",
   "english": [
     "untried",
     "new",
@@ -27,16 +23,7 @@
     "novel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have not seen, tried, or done something before.",
-    "2. To be unseen or untried; to be new; to be a novelty."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something which is new, different and unusual. English = novelty."
-  ],
   "signNumber": 2444,
   "recordNumber": 1355,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   ],
   "synonyms": [
     "not.see.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have not seen, tried, or done something before.",
+    "2. To be unseen or untried; to be new; to be a novelty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something which is new, different and unusual. English = novelty."
+  ],
+  "idGloss": "untried",
+  "oldEntry": ""
 }

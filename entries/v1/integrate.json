@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "integrate",
-  "oldentry": "",
   "english": [
     "integration",
     "mainstreaming",
@@ -38,22 +34,8 @@
     "merge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To combine things so that they are closely linked or so that they form one thing. English = integrate.",
-    "2. Of people, to mix people together who are from different social groups. Used especially when talking about different racial groups, or disadvantaged groups. English = integrate.",
-    "3. Of disabled people, especially deaf or hearing impaired people, to educate them within the normal school system, rather than in special schools. English = mainstream, integrate.",
-    "4. To combine two or more things into one thing. English = merge."
-  ],
   "cf": [
     "follow.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The combination of things so that they are closely linked or so that they form one thing. English = integration.",
-    "2. A social policy that aims at bringing people from different social groups together in work, education and normal social life. English = integration.",
-    "3. An educational policy that aims to educate disadvantaged or disabled people within the normal school system, rather than in special schools. English = mainstreaming.",
-    "4. The combination of two or more things into one thing. English = merger."
   ],
   "signNumber": 2760,
   "recordNumber": 1544,
@@ -67,5 +49,23 @@
   ],
   "synonyms": [
     "everything"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To combine things so that they are closely linked or so that they form one thing. English = integrate.",
+    "2. Of people, to mix people together who are from different social groups. Used especially when talking about different racial groups, or disadvantaged groups. English = integrate.",
+    "3. Of disabled people, especially deaf or hearing impaired people, to educate them within the normal school system, rather than in special schools. English = mainstream, integrate.",
+    "4. To combine two or more things into one thing. English = merge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The combination of things so that they are closely linked or so that they form one thing. English = integration.",
+    "2. A social policy that aims at bringing people from different social groups together in work, education and normal social life. English = integration.",
+    "3. An educational policy that aims to educate disadvantaged or disabled people within the normal school system, rather than in special schools. English = mainstreaming.",
+    "4. The combination of two or more things into one thing. English = merger."
+  ],
+  "idGloss": "integrate",
+  "oldEntry": ""
 }

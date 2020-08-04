@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flexible",
-  "oldentry": "Popular explanation: bending something.",
   "english": [
     "flexibility",
     "flexible"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a system, arrangement or person, to be able to be changed and adapted to different conditions or circumstances. English = (be) flexible."
-  ],
   "cf": [
     "plastic.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a system, arrangement or person, the ability to be able to change and adapt to different conditions or circumstances. English = flexibility."
   ],
   "signNumber": 159.1,
   "recordNumber": 88,
@@ -47,5 +35,17 @@
     "stubborn",
     "strict"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a system, arrangement or person, to be able to be changed and adapted to different conditions or circumstances. English = (be) flexible."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a system, arrangement or person, the ability to be able to change and adapt to different conditions or circumstances. English = flexibility."
+  ],
+  "idGloss": "flexible",
+  "oldEntry": "Popular explanation: bending something."
 }

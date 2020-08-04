@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "elastic.2",
-  "oldentry": "Popular explanation: stretching some elastic.",
   "english": [
     "elastic"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "pull.apart",
     "string.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic."
   ],
   "signNumber": 389,
   "recordNumber": 212,
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "elastic.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic."
+  ],
+  "idGloss": "elastic.2",
+  "oldEntry": "Popular explanation: stretching some elastic."
 }

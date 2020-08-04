@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "right.side",
-  "oldentry": "",
   "english": [
     "right",
     "right side",
@@ -31,18 +27,7 @@
     "right hand"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be one of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = (be) right.",
-    "2. To be on one of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = (be) right."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = right.",
-    "2. One of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = right side.",
-    "3. One of two arms on the body; namely, the arm with the hand that most people use to write, sign or do complicated things with. English  = right arm, right hand."
-  ],
   "signNumber": 3519,
   "recordNumber": 2061,
   "signVisualComposition": "",
@@ -58,5 +43,20 @@
   "synonyms": [
     "right.2",
     "right.handed"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be one of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = (be) right.",
+    "2. To be on one of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = (be) right."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of two opposite directions, sides or positions. If you are facing north, where the sun rises is in this relative position (in the east); facing south, sunset is in this position (in the west). English = right.",
+    "2. One of two opposite sides of the body; namely, the side of the body which is on the side of the hand that most people write, sign or do complicated things with. English = right side.",
+    "3. One of two arms on the body; namely, the arm with the hand that most people use to write, sign or do complicated things with. English  = right arm, right hand."
+  ],
+  "idGloss": "right.side",
+  "oldEntry": ""
 }

@@ -27,10 +27,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "decrease.1a",
-  "oldentry": "",
   "english": [
     "reduction",
     "decrease",
@@ -45,21 +41,7 @@
     "depreciate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become smaller in terms of the number, level, or amount of something; of a battery, to lose its charge or have no charge. English = decrease, reduce, lessen; go flat, (be) flat.",
-    "2. To move something so that it is in a lower position; to be in a lower position. English = lower; (be) lowered.",
-    "3. Of money put aside in a bank or building society, to decrease or become smaller; to decrease savings; to deplete money.",
-    "4. To decrease in value over time. English = depreciate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A lowering in the number, level, or amount of something. English = reduction, decrease.",
-    "2. A decrease in the height of something; or a decrease in your wages or salary; a wage cut. English = fall, lowering; wage cut.",
-    "3. A decrease (through withdrawals and spending) in money you have put aside (usually in a bank or a building society) for another time when you may need it.",
-    "4. A decrease in the value of something over time. English = depreciation."
-  ],
   "signNumber": 4229,
   "recordNumber": 2559,
   "signVisualComposition": "",
@@ -68,5 +50,23 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become smaller in terms of the number, level, or amount of something; of a battery, to lose its charge or have no charge. English = decrease, reduce, lessen; go flat, (be) flat.",
+    "2. To move something so that it is in a lower position; to be in a lower position. English = lower; (be) lowered.",
+    "3. Of money put aside in a bank or building society, to decrease or become smaller; to decrease savings; to deplete money.",
+    "4. To decrease in value over time. English = depreciate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A lowering in the number, level, or amount of something. English = reduction, decrease.",
+    "2. A decrease in the height of something; or a decrease in your wages or salary; a wage cut. English = fall, lowering; wage cut.",
+    "3. A decrease (through withdrawals and spending) in money you have put aside (usually in a bank or a building society) for another time when you may need it.",
+    "4. A decrease in the value of something over time. English = depreciation."
+  ],
+  "idGloss": "decrease.1a",
+  "oldEntry": ""
 }

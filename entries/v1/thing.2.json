@@ -18,26 +18,14 @@
   "sense": "",
   "blend": "?SAME + ?DIFFERENT",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "thing.2",
-  "oldentry": "",
   "english": [
     "thing",
     "things"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "etc",
     "present.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing.",
-    "2. A physical object, rather than plants, animals, or human beings. English = thing.",
-    "3. Your clothes or your possessions. English = things."
   ],
   "signNumber": 1005,
   "recordNumber": 584,
@@ -49,5 +37,17 @@
   "antonyms": [],
   "synonyms": [
     "thing.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing.",
+    "2. A physical object, rather than plants, animals, or human beings. English = thing.",
+    "3. Your clothes or your possessions. English = things."
+  ],
+  "idGloss": "thing.2",
+  "oldEntry": ""
 }

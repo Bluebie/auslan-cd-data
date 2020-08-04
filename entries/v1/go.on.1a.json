@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.on.1a",
-  "oldentry": "",
   "english": [
     "go on",
     "really"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to express amused surprise or disbelief at what someone has said or done. English = 'Go on!', 'Really?!', 'Come off it!', 'Get a load of that!',",
-    "How could you do that!?'",
-    "2. Used alone to express jocular dismissal and mock irritation at what someone has said or done, especially when they think it is funny but you consider it to be typical of them. English = 'Typical!', 'There you go again!', 'Hah, hah! Very funny!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2692,
   "recordNumber": 1495,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "synonyms": [
     "incredible.1a",
     "can.you"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express amused surprise or disbelief at what someone has said or done. English = 'Go on!', 'Really?!', 'Come off it!', 'Get a load of that!',",
+    "How could you do that!?'",
+    "2. Used alone to express jocular dismissal and mock irritation at what someone has said or done, especially when they think it is funny but you consider it to be typical of them. English = 'Typical!', 'There you go again!', 'Hah, hah! Very funny!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "go.on.1a",
+  "oldEntry": ""
 }

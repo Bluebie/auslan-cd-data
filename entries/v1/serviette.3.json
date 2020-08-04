@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serviette.3",
-  "oldentry": "",
   "english": [
     "serviette",
     "napkin"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A square of cloth or paper that you use to protect your clothes or to wipe your mouth when you are eating. English = serviette. American English = napkin."
-  ],
   "signNumber": 3313,
   "recordNumber": 1935,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
     "serviette.1",
     "serviette.2",
     "serviette.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A square of cloth or paper that you use to protect your clothes or to wipe your mouth when you are eating. English = serviette. American English = napkin."
+  ],
+  "idGloss": "serviette.3",
+  "oldEntry": ""
 }

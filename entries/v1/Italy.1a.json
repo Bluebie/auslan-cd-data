@@ -12,24 +12,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Italy.1a",
-  "oldentry": "Popular explanation: gesturing associated with Italians and other non-Anglos.",
   "english": [
     "Italy",
     "Italian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To come from or relate to Italy. English = (be) Italian."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in southern Europe, called Italy."
-  ],
   "signNumber": 93,
   "recordNumber": 51,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To come from or relate to Italy. English = (be) Italian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in southern Europe, called Italy."
+  ],
+  "idGloss": "Italy.1a",
+  "oldEntry": "Popular explanation: gesturing associated with Italians and other non-Anglos."
 }

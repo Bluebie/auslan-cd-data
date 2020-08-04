@@ -18,24 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "aunt.2a",
-  "oldentry": "",
   "english": [
     "aunt",
     "aunty",
     "auntie"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "hospital.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sister of your mother or father, or the wife of your uncle. English = aunt, aunty, auntie."
   ],
   "signNumber": 6438,
   "recordNumber": 3836,
@@ -50,5 +40,15 @@
   ],
   "synonyms": [
     "aunt.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sister of your mother or father, or the wife of your uncle. English = aunt, aunty, auntie."
+  ],
+  "idGloss": "aunt.2a",
+  "oldEntry": ""
 }

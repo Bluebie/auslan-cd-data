@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "Most Auslan signers simply fingerspell 'egg'.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "egg.1",
-  "oldentry": "Popular explanation: tapping a boiled egg with an implement.",
   "english": [
     "egg",
     "hard-boiled egg"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To crack open a hard-boiled egg using an implement such as a knife."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An egg which has been boiled in its shell until the yolk and the white are hard. English = hard-boiled egg.",
-    "2. The rounded object produced by a female bird (and some other creatures) from which a baby bird later emerges. Especially used for the type produced by hens and eaten by people as a food. English = egg."
-  ],
   "signNumber": 2171,
   "recordNumber": 1254,
   "signVisualComposition": "",
@@ -42,5 +29,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To crack open a hard-boiled egg using an implement such as a knife."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An egg which has been boiled in its shell until the yolk and the white are hard. English = hard-boiled egg.",
+    "2. The rounded object produced by a female bird (and some other creatures) from which a baby bird later emerges. Especially used for the type produced by hens and eaten by people as a food. English = egg."
+  ],
+  "idGloss": "egg.1",
+  "oldEntry": "Popular explanation: tapping a boiled egg with an implement."
 }

@@ -13,24 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rubbish bin",
-  "oldentry": "",
   "english": [
     "rubbish bin",
     "trash can",
     "wastepaper basket"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A container in which you put rubbish. English = rubbish bin, garbage bin. American English = trash can.",
-    "2. A small container in an office for putting waste paper in. English = waste paper basket."
-  ],
   "signNumber": 2806,
   "recordNumber": 1573,
   "signVisualComposition": "RUBBISH + container",
@@ -39,5 +28,16 @@
   "primaryLocation": 16,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A container in which you put rubbish. English = rubbish bin, garbage bin. American English = trash can.",
+    "2. A small container in an office for putting waste paper in. English = waste paper basket."
+  ],
+  "idGloss": "rubbish bin",
+  "oldEntry": ""
 }

@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "national",
-  "oldentry": "",
   "english": [
     "nation",
     "national"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Relating to the whole of a country. English = (be) national."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country, together with its social and political structures. English = nation."
-  ],
   "signNumber": 2120,
   "recordNumber": 1230,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "country.1a",
     "country-wide"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Relating to the whole of a country. English = (be) national."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country, together with its social and political structures. English = nation."
+  ],
+  "idGloss": "national",
+  "oldEntry": ""
 }

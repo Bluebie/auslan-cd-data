@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "black.1",
-  "oldentry": "",
   "english": [
     "black",
     "blacken"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or have the darkest colour that there is, the colour of the sky at night when there is no light at all. English = (be) black.",
-    "2. To make something black. English = blacken."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The darkest colour that there is, the colour of the sky at night when there is no light at all. English = black."
-  ],
   "signNumber": 3239,
   "recordNumber": 1884,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
   ],
   "synonyms": [
     "black.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or have the darkest colour that there is, the colour of the sky at night when there is no light at all. English = (be) black.",
+    "2. To make something black. English = blacken."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The darkest colour that there is, the colour of the sky at night when there is no light at all. English = black."
+  ],
+  "idGloss": "black.1",
+  "oldEntry": ""
 }

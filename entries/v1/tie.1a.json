@@ -18,27 +18,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tie.1a",
-  "oldentry": "Popular explanation: the outline of a necktie.",
   "english": [
     "tie",
     "necktie"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or wear a tie."
-  ],
   "cf": [
     "bow tie.1a",
     "bow tie.2",
     "suit"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, narrow piece of cloth that is worn around someone's neck under their shirt collar and tied in a knot at the front. It is worn mainly by men. English = tie, necktie."
   ],
   "signNumber": 5467,
   "recordNumber": 3248,
@@ -50,5 +38,17 @@
   "antonyms": [
     "open-necked"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or wear a tie."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, narrow piece of cloth that is worn around someone's neck under their shirt collar and tied in a knot at the front. It is worn mainly by men. English = tie, necktie."
+  ],
+  "idGloss": "tie.1a",
+  "oldEntry": "Popular explanation: the outline of a necktie."
 }

@@ -15,26 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "waste",
-  "oldentry": "",
   "english": [
     "waste",
     "squander"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use too much material, time, money, or energy on something that is not important or necessary. English = waste. Formal English = squander."
-  ],
   "cf": [
     "spoil.1a",
     "yearn"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Excess material, time, money, or energy that is not used at all or not used properly when it should have been. English = waste."
   ],
   "signNumber": 171,
   "recordNumber": 96,
@@ -46,5 +34,17 @@
   "antonyms": [
     "stash"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use too much material, time, money, or energy on something that is not important or necessary. English = waste. Formal English = squander."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Excess material, time, money, or energy that is not used at all or not used properly when it should have been. English = waste."
+  ],
+  "idGloss": "waste",
+  "oldEntry": ""
 }

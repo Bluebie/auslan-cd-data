@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "alter",
-  "oldentry": "",
   "english": [
     "alterations",
     "alter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make modifications to clothing (knitted or sewn) by taking the stitching apart in places and then by rejoining it. English = alter, make modifications."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Changes made to an item of clothing (knitted or sewn) that involve taking the stitching apart in places and then rejoining it. English = alterations."
-  ],
   "signNumber": 2619,
   "recordNumber": 1454,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make modifications to clothing (knitted or sewn) by taking the stitching apart in places and then by rejoining it. English = alter, make modifications."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Changes made to an item of clothing (knitted or sewn) that involve taking the stitching apart in places and then rejoining it. English = alterations."
+  ],
+  "idGloss": "alter",
+  "oldEntry": ""
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flower.1a",
-  "oldentry": "Popular explanation: holding the stem of a flower and smelling it.",
   "english": [
     "flower",
     "garden",
@@ -36,18 +32,7 @@
     "menstruation"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To smell a flower.",
-    "2. To look after plants. English = garden."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The coloured or white parts that grow on the stems of a plant. English = flower.",
-    "2. A piece of land next to someone's house where they grow flowers, vegetables, or other plants; the activity of looking after a garden; a person who works in a garden. English = garden; gardening; gardener.",
-    "3. A shop that sells plants or flowers. English = florist, nursery."
-  ],
   "signNumber": 6341,
   "recordNumber": 3785,
   "signVisualComposition": "",
@@ -59,5 +44,20 @@
   "synonyms": [
     "spade.1a",
     "garden"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To smell a flower.",
+    "2. To look after plants. English = garden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The coloured or white parts that grow on the stems of a plant. English = flower.",
+    "2. A piece of land next to someone's house where they grow flowers, vegetables, or other plants; the activity of looking after a garden; a person who works in a garden. English = garden; gardening; gardener.",
+    "3. A shop that sells plants or flowers. English = florist, nursery."
+  ],
+  "idGloss": "flower.1a",
+  "oldEntry": "Popular explanation: holding the stem of a flower and smelling it."
 }

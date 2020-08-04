@@ -13,25 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "worst",
-  "oldentry": "",
   "english": [
     "worst"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very bad indeed and more so than all the other things of its type you can compare it with. English = (be) worst."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after a verb to mean that the action is done by someone or something in a very bad way indeed-more so than all others you can compare it with. English = worst."
-  ],
-  "nomlex": [
-    "1. A thing which is very bad indeed and more so than all the other things of its type you can compare it with. English = the worst."
-  ],
   "signNumber": 5016,
   "recordNumber": 3026,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "antonyms": [
     "best"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after a verb to mean that the action is done by someone or something in a very bad way indeed-more so than all others you can compare it with. English = worst."
+  ],
+  "verbLexeme": [
+    "1. To be very bad indeed and more so than all the other things of its type you can compare it with. English = (be) worst."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing which is very bad indeed and more so than all the other things of its type you can compare it with. English = the worst."
+  ],
+  "idGloss": "worst",
+  "oldEntry": ""
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "every-night",
-  "oldentry": "",
   "english": [
     "nightly"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean the action happens regularly or all the time during the night. English = every night, nightly, nights."
-  ],
-  "nomlex": [],
   "signNumber": 1761,
   "recordNumber": 1057,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean the action happens regularly or all the time during the night. English = every night, nightly, nights."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "every-night",
+  "oldEntry": ""
 }

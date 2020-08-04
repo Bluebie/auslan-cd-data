@@ -32,10 +32,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cook.2",
-  "oldentry": "Popular explanation: mixing in a bowl.",
   "english": [
     "cook",
     "cooking",
@@ -51,21 +47,8 @@
     "whip"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To prepare food for eating and then heating it, for example in an oven or in a saucepan. English = cook.",
-    "2. To combine two or more substances in a container, especially as a stage in preparing food, by moving a spoon or similar implement around and around in it. English = stir, mix.",
-    "3. [With increased speed and tension] to mix or stir together eggs, cream, or butter thoroughly and energetically using a fork or a whisk. English = beat, whip, whisk."
-  ],
   "cf": [
     "teaspoon"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who prepares and cooks food. English = cook.",
-    "2. The activity of preparing and making food. English = cooking.",
-    "3. A combination of two or more substances that have been stirred or beaten together in a bowl. English = mixture.",
-    "4. The activity of combining two or more substances in a container using a spoon or similar implement. English = stirring, mixing, beating, whipping, whisking."
   ],
   "signNumber": 6269,
   "recordNumber": 3742,
@@ -79,5 +62,22 @@
     "cook.1a",
     "mix.1a",
     "chef.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To prepare food for eating and then heating it, for example in an oven or in a saucepan. English = cook.",
+    "2. To combine two or more substances in a container, especially as a stage in preparing food, by moving a spoon or similar implement around and around in it. English = stir, mix.",
+    "3. [With increased speed and tension] to mix or stir together eggs, cream, or butter thoroughly and energetically using a fork or a whisk. English = beat, whip, whisk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who prepares and cooks food. English = cook.",
+    "2. The activity of preparing and making food. English = cooking.",
+    "3. A combination of two or more substances that have been stirred or beaten together in a bowl. English = mixture.",
+    "4. The activity of combining two or more substances in a container using a spoon or similar implement. English = stirring, mixing, beating, whipping, whisking."
+  ],
+  "idGloss": "cook.2",
+  "oldEntry": "Popular explanation: mixing in a bowl."
 }

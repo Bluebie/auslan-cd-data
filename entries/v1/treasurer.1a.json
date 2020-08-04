@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "treasurer.1a",
-  "oldentry": "",
   "english": [
     "treasurer"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In an organisation, the person in charge of its finances and keeping its accounts. English = treasurer."
-  ],
   "signNumber": 4285,
   "recordNumber": 2605,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "money.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In an organisation, the person in charge of its finances and keeping its accounts. English = treasurer."
+  ],
+  "idGloss": "treasurer.1a",
+  "oldEntry": ""
 }

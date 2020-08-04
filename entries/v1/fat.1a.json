@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fat.1a",
-  "oldentry": "Popular explanation: the plump cheeks.",
   "english": [
     "fat",
     "overweight",
@@ -31,17 +27,9 @@
     "obese"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a lot of flesh on your body. English = (be) fat. Polite English = (be) overweight.",
-    "2. To be rather fat and round, especially of a young person or a child. English = (be) chubby.",
-    "3. To be very fat. Formal English = (be) obese."
-  ],
   "cf": [
     "mumps.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3000,
   "recordNumber": 1711,
   "signVisualComposition": "",
@@ -52,5 +40,17 @@
   "antonyms": [
     "thin.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a lot of flesh on your body. English = (be) fat. Polite English = (be) overweight.",
+    "2. To be rather fat and round, especially of a young person or a child. English = (be) chubby.",
+    "3. To be very fat. Formal English = (be) obese."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fat.1a",
+  "oldEntry": "Popular explanation: the plump cheeks."
 }

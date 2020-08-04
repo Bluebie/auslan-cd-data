@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jacket.1a",
-  "oldentry": "Popular explanation: the outline of a blazer.",
   "english": [
     "jacket",
     "blazer",
@@ -29,18 +25,8 @@
     "sports coat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a jacket.",
-    "2. To wear a blazer, sports jacket or sports coat."
-  ],
   "cf": [
     "cardigan"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short coat with long sleeves and an opening at the front. English = jacket.",
-    "2. A kind of jacket, particularly one worn by schoolchildren or members of a sports team. English = blazer, sports jacket, sports coat."
   ],
   "signNumber": 3428,
   "recordNumber": 2001,
@@ -52,5 +38,19 @@
   "antonyms": [],
   "synonyms": [
     "coat.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a jacket.",
+    "2. To wear a blazer, sports jacket or sports coat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short coat with long sleeves and an opening at the front. English = jacket.",
+    "2. A kind of jacket, particularly one worn by schoolchildren or members of a sports team. English = blazer, sports jacket, sports coat."
+  ],
+  "idGloss": "jacket.1a",
+  "oldEntry": "Popular explanation: the outline of a blazer."
 }

@@ -17,25 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "biology",
-  "oldentry": "",
   "english": [
     "biology",
     "biologist"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "chemistry.1a",
     "physics"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The science which is concerned with the study of living things. English = biology.",
-    "2. A scientist who studies living things. English = biologist."
   ],
   "signNumber": 3693,
   "recordNumber": 2178,
@@ -47,5 +36,16 @@
   "antonyms": [],
   "synonyms": [
     "science.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The science which is concerned with the study of living things. English = biology.",
+    "2. A scientist who studies living things. English = biologist."
+  ],
+  "idGloss": "biology",
+  "oldEntry": ""
 }

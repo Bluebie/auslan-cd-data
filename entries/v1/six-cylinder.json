@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "six-cylinder",
-  "oldentry": "",
   "english": [
     "six-cylinder"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "four-cylinder"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A car which has a six-cylinder engine."
   ],
   "signNumber": 4954,
   "recordNumber": 2993,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A car which has a six-cylinder engine."
+  ],
+  "idGloss": "six-cylinder",
+  "oldEntry": ""
 }

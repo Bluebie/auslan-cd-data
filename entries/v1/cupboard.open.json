@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cupboard.open",
-  "oldentry": "Popular explanation: opening a cupboard.",
   "english": [
     "cupboard"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a cupboard."
-  ],
   "cf": [
     "cupboard"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6159,
   "recordNumber": 3674,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [
     "cupboard.close"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a cupboard."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "cupboard.open",
+  "oldEntry": "Popular explanation: opening a cupboard."
 }

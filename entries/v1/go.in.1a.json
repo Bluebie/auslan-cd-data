@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.in.1a",
-  "oldentry": "",
   "english": [
     "inside",
     "entrance",
@@ -47,21 +43,9 @@
     "indoors"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move from one side of a place, building, object or container (where you are near but not surrounded by it) to the side in which you are surrounded by it, usually by passing through an opening or entrance. English = enter, go in, go inside.",
-    "2. To be on the side of a place, object or container where you are surrounded by it, usually by having passed through an opening to get there. English = (be) inside, (be) internal.",
-    "3. To be located inside a building. English = (be) indoors."
-  ],
   "cf": [
     "pocket",
     "pouch"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The side of a place, building, object or container where you are surrounded by it. You often get there by passing through an opening designed for this purpose. English = inside.",
-    "2. An opening in an object or building which allows you to go from outside to inside and vice versa. English = entrance, entry.",
-    "3. The things which are located inside an object. English = insides, contents."
   ],
   "signNumber": 4092,
   "recordNumber": 2455,
@@ -74,5 +58,21 @@
   "synonyms": [
     "participate.1",
     "participate.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move from one side of a place, building, object or container (where you are near but not surrounded by it) to the side in which you are surrounded by it, usually by passing through an opening or entrance. English = enter, go in, go inside.",
+    "2. To be on the side of a place, object or container where you are surrounded by it, usually by having passed through an opening to get there. English = (be) inside, (be) internal.",
+    "3. To be located inside a building. English = (be) indoors."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The side of a place, building, object or container where you are surrounded by it. You often get there by passing through an opening designed for this purpose. English = inside.",
+    "2. An opening in an object or building which allows you to go from outside to inside and vice versa. English = entrance, entry.",
+    "3. The things which are located inside an object. English = insides, contents."
+  ],
+  "idGloss": "go.in.1a",
+  "oldEntry": ""
 }

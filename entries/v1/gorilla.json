@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gorilla",
-  "oldentry": "Popular explanation: beating the chest.",
   "english": [
     "gorilla"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To beat your chest like a gorilla."
-  ],
   "cf": [
     "monkey.1a",
     "monkey.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal that looks like a very large monkey with a black face and black fur. It lives in African forests. English = gorilla."
   ],
   "signNumber": 5845,
   "recordNumber": 3477,
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To beat your chest like a gorilla."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal that looks like a very large monkey with a black face and black fur. It lives in African forests. English = gorilla."
+  ],
+  "idGloss": "gorilla",
+  "oldEntry": "Popular explanation: beating the chest."
 }

@@ -16,10 +16,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serious.1a",
-  "oldentry": "",
   "english": [
     "serious",
     "severe",
@@ -27,14 +23,7 @@
     "serious"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very bad and cause people to worry. English = (be) serious, (be) severe, (be) grave.",
-    "2. To be important and deserve careful and thoughtful consideration. English = (be) serious."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1402,
   "recordNumber": 833,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
     "joke.1a",
     "joke.2a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very bad and cause people to worry. English = (be) serious, (be) severe, (be) grave.",
+    "2. To be important and deserve careful and thoughtful consideration. English = (be) serious."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "serious.1a",
+  "oldEntry": ""
 }

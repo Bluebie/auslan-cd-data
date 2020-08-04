@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "advent",
-  "oldentry": "",
   "english": [
     "advent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something important, especially religious, to start or come into view, place or existence, especially from heaven to Earth. Formal English = advent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1441,
   "recordNumber": 860,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "happen.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something important, especially religious, to start or come into view, place or existence, especially from heaven to Earth. Formal English = advent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "advent",
+  "oldEntry": ""
 }

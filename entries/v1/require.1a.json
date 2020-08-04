@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "require.1a",
-  "oldentry": "",
   "english": [
     "preference",
     "requirement",
@@ -34,18 +30,7 @@
     "needed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To like one thing more than another thing or other things, and to be more likely to choose the first above the other or all the rest if there is a choice. English = prefer.",
-    "2. To want or need something because it is necessary or essential; to feel you must have something or someone. English = require, want badly.",
-    "3. To be needed because something is necessary or essential; to be needed very much. English = (be) required, (be) necessary, (be) badly needed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that you would rather have given a choice; the choice of something instead of something else; the liking of one thing above another thing or other things. English = preference.",
-    "2. Something that you must have in order to do something that you want to do. English = requirement."
-  ],
   "signNumber": 693,
   "recordNumber": 400,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To like one thing more than another thing or other things, and to be more likely to choose the first above the other or all the rest if there is a choice. English = prefer.",
+    "2. To want or need something because it is necessary or essential; to feel you must have something or someone. English = require, want badly.",
+    "3. To be needed because something is necessary or essential; to be needed very much. English = (be) required, (be) necessary, (be) badly needed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that you would rather have given a choice; the choice of something instead of something else; the liking of one thing above another thing or other things. English = preference.",
+    "2. Something that you must have in order to do something that you want to do. English = requirement."
+  ],
+  "idGloss": "require.1a",
+  "oldEntry": ""
 }

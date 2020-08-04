@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lonely.1",
-  "oldentry": "",
   "english": [
     "loneliness",
     "lonely"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unhappy because you are alone or do not have any friends. English = (be) lonely."
-  ],
   "cf": [
     "single.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of unhappiness you have because you are alone or do not have any friends. English = loneliness."
   ],
   "signNumber": 2801,
   "recordNumber": 1569,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "alone"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unhappy because you are alone or do not have any friends. English = (be) lonely."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of unhappiness you have because you are alone or do not have any friends. English = loneliness."
+  ],
+  "idGloss": "lonely.1",
+  "oldEntry": ""
 }

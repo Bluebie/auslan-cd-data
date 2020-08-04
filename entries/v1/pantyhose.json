@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pantyhose",
-  "oldentry": "Popular explanation: pulling on a pair of pantyhose.",
   "english": [
     "pantyhose",
     "pantihose"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or be wearing pantyhose."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Women's tights, similar in look and style to stockings. English = pantyhose, pantihose."
-  ],
   "signNumber": 5937,
   "recordNumber": 3535,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "synonyms": [
     "stockings.1a",
     "stockings.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or be wearing pantyhose."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Women's tights, similar in look and style to stockings. English = pantyhose, pantihose."
+  ],
+  "idGloss": "pantyhose",
+  "oldEntry": "Popular explanation: pulling on a pair of pantyhose."
 }

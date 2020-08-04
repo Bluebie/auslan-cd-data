@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deer.1a",
-  "oldentry": "Popular explanation: the antlers of a deer.",
   "english": [
     "antlers",
     "deer",
     "reindeer"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The branched horns on the head of a male deer. English = antlers.",
-    "2. A large wild animal that eats grass and leaves. Male ones usually have large, branching horns. English = deer.",
-    "3. A deer with large antlers that lives in northern areas of Europe, Asia, and America. English = reindeer."
-  ],
   "signNumber": 2585,
   "recordNumber": 1428,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "primaryLocation": 3,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The branched horns on the head of a male deer. English = antlers.",
+    "2. A large wild animal that eats grass and leaves. Male ones usually have large, branching horns. English = deer.",
+    "3. A deer with large antlers that lives in northern areas of Europe, Asia, and America. English = reindeer."
+  ],
+  "idGloss": "deer.1a",
+  "oldEntry": "Popular explanation: the antlers of a deer."
 }

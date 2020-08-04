@@ -10,23 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of holding and shaking something in your hand, or any thing or any action directly or indirectly associated with this, especially something that is loose.",
-  "questlex": [],
-  "idgloss": "loose",
-  "oldentry": "",
   "english": [
     "loose",
     "loosen"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something, to not be firmly held or fixed in place, so that it moves or wobbles. English = (be) loose.",
-    "2. To make loose. English = loosen."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4538,
   "recordNumber": 2750,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something, to not be firmly held or fixed in place, so that it moves or wobbles. English = (be) loose.",
+    "2. To make loose. English = loosen."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of holding and shaking something in your hand, or any thing or any action directly or indirectly associated with this, especially something that is loose.",
+  "nominalLexeme": [],
+  "idGloss": "loose",
+  "oldEntry": ""
 }

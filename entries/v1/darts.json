@@ -13,26 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "darts",
-  "oldentry": "Popular explanation: throwing a dart.",
   "english": [
     "dart",
     "darts"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To throw a dart.",
-    "2. To play darts."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, narrow object with a sharp point which can be thrown or shot. English = dart.",
-    "2. A game in which you throw darts at a round board which has numbers on it. English = darts."
-  ],
   "signNumber": 305,
   "recordNumber": 174,
   "signVisualComposition": "",
@@ -41,5 +27,19 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To throw a dart.",
+    "2. To play darts."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, narrow object with a sharp point which can be thrown or shot. English = dart.",
+    "2. A game in which you throw darts at a round board which has numbers on it. English = darts."
+  ],
+  "idGloss": "darts",
+  "oldEntry": "Popular explanation: throwing a dart."
 }

@@ -13,23 +13,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "battery.1a",
-  "oldentry": "",
   "english": [
     "battery"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be operated by a battery rather than mechanically or by mains power."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device that produces the electricity in something such as a torch, radio, watch or hearing-aid. English = battery"
-  ],
   "signNumber": 1936,
   "recordNumber": 1156,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "synonyms": [
     "battery.2",
     "battery.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be operated by a battery rather than mechanically or by mains power."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device that produces the electricity in something such as a torch, radio, watch or hearing-aid. English = battery"
+  ],
+  "idGloss": "battery.1a",
+  "oldEntry": ""
 }

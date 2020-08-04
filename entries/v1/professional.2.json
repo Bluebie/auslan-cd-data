@@ -18,28 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "professional.2",
-  "oldentry": "",
   "english": [
     "professional",
     "profession"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of or relating to a person's work. English = (be) professional.",
-    "2. Of a person, to have a job that requires special training and that has a fairly high status. English = (be) professional.",
-    "3. To be of a very high standard. English = (be) professional.",
-    "4. To do a job to earn money rather than as a hobby. English = (be) professional."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has a job that requires special training and has a fairly high status. English = professional.",
-    "2. A type of job that requires special training and has a fairly high status, such as the job of a doctor or lawyer. English = profession."
-  ],
   "signNumber": 1859,
   "recordNumber": 1114,
   "signVisualComposition": "",
@@ -50,5 +34,21 @@
   "antonyms": [],
   "synonyms": [
     "professional.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of or relating to a person's work. English = (be) professional.",
+    "2. Of a person, to have a job that requires special training and that has a fairly high status. English = (be) professional.",
+    "3. To be of a very high standard. English = (be) professional.",
+    "4. To do a job to earn money rather than as a hobby. English = (be) professional."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has a job that requires special training and has a fairly high status. English = professional.",
+    "2. A type of job that requires special training and has a fairly high status, such as the job of a doctor or lawyer. English = profession."
+  ],
+  "idGloss": "professional.2",
+  "oldEntry": ""
 }

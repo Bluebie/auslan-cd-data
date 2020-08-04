@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Lord",
-  "oldentry": "",
   "english": [
     "Lord"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In the Christian Church, a name people use to refer to God and to Jesus Christ. English = Lord."
-  ],
   "signNumber": 5155,
   "recordNumber": 3106,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "synonyms": [
     "God.1a",
     "God.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In the Christian Church, a name people use to refer to God and to Jesus Christ. English = Lord."
+  ],
+  "idGloss": "Lord",
+  "oldEntry": ""
 }

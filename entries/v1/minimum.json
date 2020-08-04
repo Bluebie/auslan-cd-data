@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "minimum",
-  "oldentry": "Popular explanation: striking an lower limit barrier.",
   "english": [
     "minimum",
     "minimal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a very small amount of something and the smallest amount of it that is possible, allowed, or required. English = (be) minimal, (be) minimum."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The smallest amount of something that is possible, allowed, or required. English = minimum."
-  ],
   "signNumber": 6018,
   "recordNumber": 3583,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [
     "maximum"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a very small amount of something and the smallest amount of it that is possible, allowed, or required. English = (be) minimal, (be) minimum."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The smallest amount of something that is possible, allowed, or required. English = minimum."
+  ],
+  "idGloss": "minimum",
+  "oldEntry": "Popular explanation: striking an lower limit barrier."
 }

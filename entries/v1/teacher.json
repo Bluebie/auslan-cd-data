@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "teacher",
-  "oldentry": "",
   "english": [
     "teacher"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who gives instructions about something to people, especially children in a school, so that they know about it or know how to do it. English = teacher."
-  ],
   "signNumber": 5094,
   "recordNumber": 3073,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "synonyms": [
     "educate.1a",
     "teach"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who gives instructions about something to people, especially children in a school, so that they know about it or know how to do it. English = teacher."
+  ],
+  "idGloss": "teacher",
+  "oldEntry": ""
 }

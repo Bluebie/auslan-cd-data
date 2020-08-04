@@ -15,24 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "present.1a",
-  "oldentry": "",
   "english": [
     "present",
     "gift"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "parcel",
     "ribbon.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something you give to someone, for example for Christmas or when you visit them. English = present, gift."
   ],
   "signNumber": 935,
   "recordNumber": 534,
@@ -44,5 +34,15 @@
   "antonyms": [],
   "synonyms": [
     "present.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something you give to someone, for example for Christmas or when you visit them. English = present, gift."
+  ],
+  "idGloss": "present.1a",
+  "oldEntry": ""
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "weak.1a",
-  "oldentry": "Popular explanation: bent and unsteady legs.",
   "english": [
     "weakling",
     "weak",
@@ -35,18 +31,8 @@
     "intoxicated"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not have very much strength or energy. English = (be) weak, (be) frail.",
-    "2. Of a person, to be easily influenced by other people. English = (be) weak.",
-    "3. To have drunk so much alcohol that you cannot stand up properly, speak clearly or behave sensibly. English = (be) drunk. Idiomatic English = (be) blind drunk. Formal English = (be) inebriated, (be) intoxicated."
-  ],
   "cf": [
     "kneel"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is physically weak. English = weakling."
   ],
   "signNumber": 1800,
   "recordNumber": 1088,
@@ -60,5 +46,19 @@
     "kneel",
     "drunk.1",
     "drunk.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not have very much strength or energy. English = (be) weak, (be) frail.",
+    "2. Of a person, to be easily influenced by other people. English = (be) weak.",
+    "3. To have drunk so much alcohol that you cannot stand up properly, speak clearly or behave sensibly. English = (be) drunk. Idiomatic English = (be) blind drunk. Formal English = (be) inebriated, (be) intoxicated."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is physically weak. English = weakling."
+  ],
+  "idGloss": "weak.1a",
+  "oldEntry": "Popular explanation: bent and unsteady legs."
 }

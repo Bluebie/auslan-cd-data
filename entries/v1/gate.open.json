@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gate.open",
-  "oldentry": "",
   "english": [
     "gate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a cupboard or a gate."
-  ],
   "cf": [
     "gate.1a",
     "cupboard"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3741,
   "recordNumber": 2208,
   "signVisualComposition": "",
@@ -45,5 +35,15 @@
   ],
   "synonyms": [
     "cupboard.open"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a cupboard or a gate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "gate.open",
+  "oldEntry": ""
 }

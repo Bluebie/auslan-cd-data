@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "funeral.1a",
-  "oldentry": "Popular explanation: the line of a funeral cortege.",
   "english": [
     "funeral",
     "cortege"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have or take part in a ceremony in which the body of someone who has died is buried or cremated; to have a funeral.",
-    "2. To travel in a procession of people who are walking or riding in cars to a funeral."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A ceremony that is held when the body of someone who has died is buried or cremated. English = funeral.",
-    "2. A procession of people who are walking or riding in cars to a funeral. English = cortege."
-  ],
   "signNumber": 2036,
   "recordNumber": 1192,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "antonyms": [],
   "synonyms": [
     "bury.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have or take part in a ceremony in which the body of someone who has died is buried or cremated; to have a funeral.",
+    "2. To travel in a procession of people who are walking or riding in cars to a funeral."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A ceremony that is held when the body of someone who has died is buried or cremated. English = funeral.",
+    "2. A procession of people who are walking or riding in cars to a funeral. English = cortege."
+  ],
+  "idGloss": "funeral.1a",
+  "oldEntry": "Popular explanation: the line of a funeral cortege."
 }

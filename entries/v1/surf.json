@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "surf",
-  "oldentry": "Popular explanation: a wave breaking.",
   "english": [
     "surf",
     "breakers",
@@ -33,17 +29,8 @@
     "beach"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the water at the top of a wave, to fall down when the wave reaches the shore. English = break."
-  ],
   "cf": [
     "surfboard"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. At the seaside, waves that are breaking on the shore or on rocks, or the white foam that is formed when that happens. English = surf, breakers.",
-    "2. An area of sand or pebbles beside the sea. English = beach."
   ],
   "signNumber": 2613,
   "recordNumber": 1451,
@@ -55,5 +42,18 @@
   "antonyms": [],
   "synonyms": [
     "beach"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the water at the top of a wave, to fall down when the wave reaches the shore. English = break."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. At the seaside, waves that are breaking on the shore or on rocks, or the white foam that is formed when that happens. English = surf, breakers.",
+    "2. An area of sand or pebbles beside the sea. English = beach."
+  ],
+  "idGloss": "surf",
+  "oldEntry": "Popular explanation: a wave breaking."
 }

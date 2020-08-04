@@ -24,10 +24,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stress.3",
-  "oldentry": "",
   "english": [
     "cramp",
     "seizure",
@@ -37,19 +33,8 @@
     "stressed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a machine or a person's body, to stop moving suddenly because it is broken or because the muscles have tightened. English = seize up, become paralysed.",
-    "2. To feel worried and tense because of difficulties in your life. English = (be) stressed, suffer from stress."
-  ],
   "cf": [
     "paralysed"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a person's body, the sudden tightening of a muscle that makes it hard or impossible to move a limb. English = cramp.",
-    "2. Of a machine or a person's body, the sudden stopping of movement because it is broken or the muscles have tightened. English = seizure.",
-    "3. The worry and tenseness you feel because of difficulties in your life. English = stress."
   ],
   "signNumber": 2724,
   "recordNumber": 1519,
@@ -62,5 +47,20 @@
   "synonyms": [
     "stress.1",
     "stress.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a machine or a person's body, to stop moving suddenly because it is broken or because the muscles have tightened. English = seize up, become paralysed.",
+    "2. To feel worried and tense because of difficulties in your life. English = (be) stressed, suffer from stress."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a person's body, the sudden tightening of a muscle that makes it hard or impossible to move a limb. English = cramp.",
+    "2. Of a machine or a person's body, the sudden stopping of movement because it is broken or the muscles have tightened. English = seizure.",
+    "3. The worry and tenseness you feel because of difficulties in your life. English = stress."
+  ],
+  "idGloss": "stress.3",
+  "oldEntry": ""
 }

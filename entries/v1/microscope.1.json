@@ -16,27 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "microscope.1",
-  "oldentry": "Popular explanation: focusing a microscope.",
   "english": [
     "microscope",
     "microbiology"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look through or examine through a microscope."
-  ],
   "cf": [
     "focus",
     "science.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An instrument which magnifies very small objects so that you can see and study them. English = microscope.",
-    "2. The study of very small organisms using a microscope. English = microbiology."
   ],
   "signNumber": 149,
   "recordNumber": 81,
@@ -46,5 +33,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look through or examine through a microscope."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An instrument which magnifies very small objects so that you can see and study them. English = microscope.",
+    "2. The study of very small organisms using a microscope. English = microbiology."
+  ],
+  "idGloss": "microscope.1",
+  "oldEntry": "Popular explanation: focusing a microscope."
 }

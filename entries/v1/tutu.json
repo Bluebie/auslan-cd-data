@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tutu",
-  "oldentry": "Popular explanation: the shape of a tutu.",
   "english": [
     "tutu"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "dress.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A costume worn by female ballet dancers which has a very short stiff skirt that sticks out from the waist and is made from many layers of material. English = tutu."
   ],
   "signNumber": 2804,
   "recordNumber": 1571,
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "skirt.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A costume worn by female ballet dancers which has a very short stiff skirt that sticks out from the waist and is made from many layers of material. English = tutu."
+  ],
+  "idGloss": "tutu",
+  "oldEntry": "Popular explanation: the shape of a tutu."
 }

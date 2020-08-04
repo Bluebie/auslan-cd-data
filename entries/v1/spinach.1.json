@@ -9,21 +9,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spinach.1",
-  "oldentry": "",
   "english": [
     "spinach"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A plant with large green leaves that is eaten as a vegetable. English = spinach."
-  ],
   "signNumber": 812,
   "recordNumber": 463,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 18,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A plant with large green leaves that is eaten as a vegetable. English = spinach."
+  ],
+  "idGloss": "spinach.1",
+  "oldEntry": ""
 }

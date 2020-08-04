@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "for.2",
-  "oldentry": "",
   "english": [
     "for"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used as a translation equivalent of the English preposition 'for' in all its many senses. English = for."
-  ],
-  "nomlex": [],
   "signNumber": 2044,
   "recordNumber": 1195,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "for.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used as a translation equivalent of the English preposition 'for' in all its many senses. English = for."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "for.2",
+  "oldEntry": ""
 }

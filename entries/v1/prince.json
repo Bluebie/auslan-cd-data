@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prince",
-  "oldentry": "",
   "english": [
     "prince"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "monarch",
     "king"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A male member of a royal family, especially the son of the king or queen of a country. English = prince."
   ],
   "signNumber": 1831,
   "recordNumber": 1099,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A male member of a royal family, especially the son of the king or queen of a country. English = prince."
+  ],
+  "idGloss": "prince",
+  "oldEntry": ""
 }

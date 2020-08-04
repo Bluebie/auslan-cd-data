@@ -18,25 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "divorce.2",
-  "oldentry": "",
   "english": [
     "divorce",
     "divorced"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To formally end a marriage by law. English = divorce.",
-    "2. To be single again after having ended your marriage by law. English = (be) divorced."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The formal ending of a marriage by law. English = divorce."
-  ],
   "signNumber": 997,
   "recordNumber": 578,
   "signVisualComposition": "",
@@ -51,5 +38,18 @@
     "divorce.1a",
     "divorce.3",
     "separate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To formally end a marriage by law. English = divorce.",
+    "2. To be single again after having ended your marriage by law. English = (be) divorced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The formal ending of a marriage by law. English = divorce."
+  ],
+  "idGloss": "divorce.2",
+  "oldEntry": ""
 }

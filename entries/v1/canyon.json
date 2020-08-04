@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "An object or geographic feature that consists of a flat part with a sudden and steep dip down into a narrow low section, such as a ravine, gully or canyon.",
-  "questlex": [],
-  "idgloss": "canyon",
-  "oldentry": "",
   "english": [
     "ravine",
     "gully",
     "canyon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A narrow valley with very steep sides. English = ravine, gully, canyon."
-  ],
   "signNumber": 3893,
   "recordNumber": 2317,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "An object or geographic feature that consists of a flat part with a sudden and steep dip down into a narrow low section, such as a ravine, gully or canyon.",
+  "nominalLexeme": [
+    "1. A narrow valley with very steep sides. English = ravine, gully, canyon."
+  ],
+  "idGloss": "canyon",
+  "oldEntry": ""
 }

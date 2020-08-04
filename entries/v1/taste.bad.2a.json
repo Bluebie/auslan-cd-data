@@ -16,24 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "taste.bad.2a",
-  "oldentry": "",
   "english": [
     "sour",
     "bitter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To taste bad.",
-    "2. To have a bad taste which is like the taste of lemon or an unripe apple. English = (be) sour.",
-    "3. To have a bad taste which is sharp. English = (be) bitter."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4973,
   "recordNumber": 3003,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "taste.bad.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To taste bad.",
+    "2. To have a bad taste which is like the taste of lemon or an unripe apple. English = (be) sour.",
+    "3. To have a bad taste which is sharp. English = (be) bitter."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "taste.bad.2a",
+  "oldEntry": ""
 }

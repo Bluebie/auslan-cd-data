@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A container of some sort with a semi-circular handle on the top of it, such as a basket or bucket, an object with a curved top or covering, such as a button mushroom or ice-cream, or any thing or any action directly or indirectly associated with this.",
-  "questlex": [],
-  "idgloss": "bucket.1",
-  "oldentry": "",
   "english": [
     "bucket",
     "basket",
@@ -33,11 +29,7 @@
     "button mushroom"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1117,
   "recordNumber": 657,
   "signVisualComposition": "",
@@ -50,5 +42,13 @@
     "luggage.1",
     "mushroom.1a",
     "bin.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A container of some sort with a semi-circular handle on the top of it, such as a basket or bucket, an object with a curved top or covering, such as a button mushroom or ice-cream, or any thing or any action directly or indirectly associated with this.",
+  "nominalLexeme": [],
+  "idGloss": "bucket.1",
+  "oldEntry": ""
 }

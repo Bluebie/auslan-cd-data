@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tablecloth",
-  "oldentry": "",
   "english": [
     "tablecloth"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lay a tablecloth onto a table.",
-    "2. To spread a piece of cloth or some other light material onto a flat surface."
-  ],
   "cf": [
     "serviette.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A cloth that is used to cover a table and keep it clean, especially while you are eating a meal. English = tablecloth."
   ],
   "signNumber": 414,
   "recordNumber": 231,
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lay a tablecloth onto a table.",
+    "2. To spread a piece of cloth or some other light material onto a flat surface."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A cloth that is used to cover a table and keep it clean, especially while you are eating a meal. English = tablecloth."
+  ],
+  "idGloss": "tablecloth",
+  "oldEntry": ""
 }

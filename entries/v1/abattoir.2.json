@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "abattoir.2",
-  "oldentry": "",
   "english": [
     "abattoir"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where animals are killed for their meat. English = abattoir."
-  ],
   "signNumber": 6629,
   "recordNumber": 3944,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "abattoir.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where animals are killed for their meat. English = abattoir."
+  ],
+  "idGloss": "abattoir.2",
+  "oldEntry": ""
 }

@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "talent.1a",
-  "oldentry": "",
   "english": [
     "talent",
     "competence",
@@ -39,19 +35,7 @@
     "fluent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a natural ability to do something well. English = (be) talented.",
-    "2. To have a combination of a natural and acquired ability (through education, experience or training) to do something well. English = (be) competent, (be) skilled.",
-    "3. To have the ability to speak, write or sign a language easily and correctly. English = (be) fluent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The natural ability to do something well. English = talent.",
-    "2. A combination of a natural and acquired ability (through education, experience or training) to do something well. English = competence, skill.",
-    "3. The ability to speak, write or sign a language easily and correctly. English = fluency."
-  ],
   "signNumber": 3142,
   "recordNumber": 1819,
   "signVisualComposition": "",
@@ -63,5 +47,21 @@
   "synonyms": [
     "skill",
     "boast"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a natural ability to do something well. English = (be) talented.",
+    "2. To have a combination of a natural and acquired ability (through education, experience or training) to do something well. English = (be) competent, (be) skilled.",
+    "3. To have the ability to speak, write or sign a language easily and correctly. English = (be) fluent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The natural ability to do something well. English = talent.",
+    "2. A combination of a natural and acquired ability (through education, experience or training) to do something well. English = competence, skill.",
+    "3. The ability to speak, write or sign a language easily and correctly. English = fluency."
+  ],
+  "idGloss": "talent.1a",
+  "oldEntry": ""
 }

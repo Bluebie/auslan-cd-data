@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boundary",
-  "oldentry": "",
   "english": [
     "boundary",
     "border"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An imaginary line or a real barrier (such as a fence) that separates one area of land from another. English = boundary.",
-    "2. The dividing line between two countries or regions. English = border."
-  ],
   "signNumber": 4161,
   "recordNumber": 2512,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An imaginary line or a real barrier (such as a fence) that separates one area of land from another. English = boundary.",
+    "2. The dividing line between two countries or regions. English = border."
+  ],
+  "idGloss": "boundary",
+  "oldEntry": ""
 }

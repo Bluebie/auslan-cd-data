@@ -15,23 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "photo.3",
-  "oldentry": "Popular explanation: peering into an old-fashioned camera.",
   "english": [
     "photo",
     "photography",
     "picture"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A picture that is made by using a camera. English = photo, photography, picture."
-  ],
   "signNumber": 3563,
   "recordNumber": 2090,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "synonyms": [
     "photo.1a",
     "photo.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A picture that is made by using a camera. English = photo, photography, picture."
+  ],
+  "idGloss": "photo.3",
+  "oldEntry": "Popular explanation: peering into an old-fashioned camera."
 }

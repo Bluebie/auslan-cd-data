@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "duck.2",
-  "oldentry": "Popular explanation: moving the head down to avoid something.",
   "english": [
     "duck"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your head quickly downwards to avoid being seen or hit by something. English = duck, duck your head."
-  ],
   "cf": [
     "avoid.3a",
     "lean.1a",
     "bow.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The movement of your head quickly downwards to avoid being seen or hit by something."
   ],
   "signNumber": 6051,
   "recordNumber": 3600,
@@ -43,5 +31,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your head quickly downwards to avoid being seen or hit by something. English = duck, duck your head."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The movement of your head quickly downwards to avoid being seen or hit by something."
+  ],
+  "idGloss": "duck.2",
+  "oldEntry": "Popular explanation: moving the head down to avoid something."
 }

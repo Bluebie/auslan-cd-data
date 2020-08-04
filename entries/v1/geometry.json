@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "geometry",
-  "oldentry": "",
   "english": [
     "geometry"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "mathematics"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mathematical science concerned with the measurement of lines, angles, curves, and shapes. English = geometry."
   ],
   "signNumber": 5474,
   "recordNumber": 3250,
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mathematical science concerned with the measurement of lines, angles, curves, and shapes. English = geometry."
+  ],
+  "idGloss": "geometry",
+  "oldEntry": ""
 }

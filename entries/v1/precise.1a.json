@@ -19,24 +19,13 @@
   "sense": "",
   "blend": "",
   "queries": "A variant of this sign uses two Okay (F) handshapes.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "precise.1a",
-  "oldentry": "",
   "english": [
     "precise",
     "concise",
     "specific"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be exact and accurate in all its details. English = (be) precise, (be) concise.",
-    "2. To belong to or be connected with a particular fixed subject, topic, idea or thing, and only that; to be precise and exact. English = (be) specific."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6403,
   "recordNumber": 3822,
   "signVisualComposition": "",
@@ -52,5 +41,16 @@
   "synonyms": [
     "specific.2",
     "specific.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be exact and accurate in all its details. English = (be) precise, (be) concise.",
+    "2. To belong to or be connected with a particular fixed subject, topic, idea or thing, and only that; to be precise and exact. English = (be) specific."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "precise.1a",
+  "oldEntry": ""
 }

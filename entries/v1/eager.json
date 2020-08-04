@@ -33,10 +33,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eager",
-  "oldentry": "Popular explanation: rubbing one's hand with anticipation.",
   "english": [
     "eagerness",
     "enthusiasm",
@@ -51,21 +47,7 @@
     "motivate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want to do something very much or like it very much, and show this in an excited way. English = (be) eager, (be) keen, (be) enthusiastic.",
-    "2. To look forward to something pleasant or exciting happening with pleasure. English = anticipate.",
-    "3. To have the desire and willingness to do something; to make other people want to do something. English = (be) motivated; motivate."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell your addressee or addressees how excited you are to be about to do something. English = 'Yummy!', 'Let's go!', 'Good!', 'Great!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The desire to do something very much or the display of the feeling of being excited about doing something or liking something very much. English = eagerness, enthusiasm, zeal.",
-    "2. The feeling of looking forward to some pleasant or exciting event. English =  anticipation.",
-    "3. The eagerness, desire and intention to do something. English = motivation."
-  ],
   "signNumber": 3763,
   "recordNumber": 2225,
   "signVisualComposition": "",
@@ -82,5 +64,23 @@
     "glad.2",
     "excited.1a",
     "interest.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell your addressee or addressees how excited you are to be about to do something. English = 'Yummy!', 'Let's go!', 'Good!', 'Great!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want to do something very much or like it very much, and show this in an excited way. English = (be) eager, (be) keen, (be) enthusiastic.",
+    "2. To look forward to something pleasant or exciting happening with pleasure. English = anticipate.",
+    "3. To have the desire and willingness to do something; to make other people want to do something. English = (be) motivated; motivate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The desire to do something very much or the display of the feeling of being excited about doing something or liking something very much. English = eagerness, enthusiasm, zeal.",
+    "2. The feeling of looking forward to some pleasant or exciting event. English =  anticipation.",
+    "3. The eagerness, desire and intention to do something. English = motivation."
+  ],
+  "idGloss": "eager",
+  "oldEntry": "Popular explanation: rubbing one's hand with anticipation."
 }

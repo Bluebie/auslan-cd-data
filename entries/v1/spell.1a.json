@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spell.1a",
-  "oldentry": "Popular explanation: culturally shared gesture for casting a spell.",
   "english": [
     "spell",
     "cast"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say a sequence of words or signs as part of performing some magic. English = cast a spell."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sequence of words or signs used to perform magic. English = spell."
-  ],
   "signNumber": 2731,
   "recordNumber": 1522,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "magic"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say a sequence of words or signs as part of performing some magic. English = cast a spell."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sequence of words or signs used to perform magic. English = spell."
+  ],
+  "idGloss": "spell.1a",
+  "oldEntry": "Popular explanation: culturally shared gesture for casting a spell."
 }

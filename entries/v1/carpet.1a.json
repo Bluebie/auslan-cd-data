@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something thick on top of or covering a flat surface, such as a thick layer of dust, a coating of some sort or thick clothes, or any thing or any action directly or indirectly associated with this, especially carpet.",
-  "questlex": [],
-  "idgloss": "carpet.1a",
-  "oldentry": "Popular explanation: a thin layer on a surface.",
   "english": [
     "carpet"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thick, flat piece of cloth which is used to cover the floors and stairs in a building. English = carpet."
-  ],
   "signNumber": 5489,
   "recordNumber": 3259,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something thick on top of or covering a flat surface, such as a thick layer of dust, a coating of some sort or thick clothes, or any thing or any action directly or indirectly associated with this, especially carpet.",
+  "nominalLexeme": [
+    "1. A thick, flat piece of cloth which is used to cover the floors and stairs in a building. English = carpet."
+  ],
+  "idGloss": "carpet.1a",
+  "oldEntry": "Popular explanation: a thin layer on a surface."
 }

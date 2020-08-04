@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "watch.the.time",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To keep an eye on the time."
-  ],
   "cf": [
     "watch.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1688,
   "recordNumber": 1011,
   "signVisualComposition": "LOOK + WATCH",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To keep an eye on the time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "watch.the.time",
+  "oldEntry": ""
 }

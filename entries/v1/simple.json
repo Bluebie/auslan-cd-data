@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "simple",
-  "oldentry": "",
   "english": [
     "simplicity",
     "simpleton",
@@ -45,20 +41,7 @@
     "just"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not complicated; to be easy to understand or to do. English = (be) simple, (be) easy.",
-    "2. To make something easier to understand or do. English = simplify."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence to mean that you are about to say something as briefly and as clearly as possible. English = simply, briefly.",
-    "2. Used next to a verb to mean that the action is the only action someone does and is not something more complicated as someone else may have claimed. English = simply, only, just."
-  ],
-  "nomlex": [
-    "1. The fact that something is not complicated but is easily understood or easily done. English = simplicity.",
-    "2. A person who has very low intelligence. English = simpleton."
-  ],
   "signNumber": 596,
   "recordNumber": 344,
   "signVisualComposition": "",
@@ -74,5 +57,22 @@
     "easy.1a",
     "that's.all.1a",
     "short.of"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to mean that you are about to say something as briefly and as clearly as possible. English = simply, briefly.",
+    "2. Used next to a verb to mean that the action is the only action someone does and is not something more complicated as someone else may have claimed. English = simply, only, just."
+  ],
+  "verbLexeme": [
+    "1. To be not complicated; to be easy to understand or to do. English = (be) simple, (be) easy.",
+    "2. To make something easier to understand or do. English = simplify."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The fact that something is not complicated but is easily understood or easily done. English = simplicity.",
+    "2. A person who has very low intelligence. English = simpleton."
+  ],
+  "idGloss": "simple",
+  "oldEntry": ""
 }

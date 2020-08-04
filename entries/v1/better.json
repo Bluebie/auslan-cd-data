@@ -17,27 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "better",
-  "oldentry": "",
   "english": [
     "better"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be one of two things which you like more than the other thing. The one you like is very good-more so than the other thing you can compare it to. English = (be) better.",
-    "2. To be not as ill as you were before; to be less sick. English = (be) better, get better."
-  ],
   "cf": [
     "best",
     "excellent"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after a verb (action) sign to mean that the action is done by someone or something in a good way -more so than another one you are thinking of and comparing it to. English = better."
-  ],
-  "nomlex": [],
   "signNumber": 4866,
   "recordNumber": 2942,
   "signVisualComposition": "",
@@ -50,5 +37,18 @@
     "deteriorate",
     "disapprove.of"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after a verb (action) sign to mean that the action is done by someone or something in a good way -more so than another one you are thinking of and comparing it to. English = better."
+  ],
+  "verbLexeme": [
+    "1. To be one of two things which you like more than the other thing. The one you like is very good-more so than the other thing you can compare it to. English = (be) better.",
+    "2. To be not as ill as you were before; to be less sick. English = (be) better, get better."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "better",
+  "oldEntry": ""
 }

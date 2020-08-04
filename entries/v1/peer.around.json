@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peer.around",
-  "oldentry": "Popular explanation: moving a screen sidewards.",
   "english": [
     "peek",
     "peer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a quick and secret look at something by looking around a barrier of some sort. English = peek, peek around, peer, peer around."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A quick and secretive look at something. English = peek."
-  ],
   "signNumber": 5721,
   "recordNumber": 3386,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "peer.over"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a quick and secret look at something by looking around a barrier of some sort. English = peek, peek around, peer, peer around."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A quick and secretive look at something. English = peek."
+  ],
+  "idGloss": "peer.around",
+  "oldEntry": "Popular explanation: moving a screen sidewards."
 }

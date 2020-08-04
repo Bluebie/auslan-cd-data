@@ -11,22 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drop.1a",
-  "oldentry": "",
   "english": [
     "drop"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To let something fall deliberately or by mistake. English = drop.",
-    "2. In a sports team, to get rid of a player because they are not needed or because they are not good enough. English = drop."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5698,
   "recordNumber": 3371,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To let something fall deliberately or by mistake. English = drop.",
+    "2. In a sports team, to get rid of a player because they are not needed or because they are not good enough. English = drop."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "drop.1a",
+  "oldEntry": ""
 }

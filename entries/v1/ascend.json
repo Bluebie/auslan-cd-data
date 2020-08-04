@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ascend",
-  "oldentry": "Popular explanation: legs rising into the air.",
   "english": [
     "ascension",
     "ascend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to move up into the air. English = ascend.",
-    "2. Of a person or soul, to go upwards into heaven. English = ascend."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a person, the act of moving up into the air. English = ascension.",
-    "2. Of a person or soul, the act of going up into heaven. English = ascension."
-  ],
   "signNumber": 1722,
   "recordNumber": 1032,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to move up into the air. English = ascend.",
+    "2. Of a person or soul, to go upwards into heaven. English = ascend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a person, the act of moving up into the air. English = ascension.",
+    "2. Of a person or soul, the act of going up into heaven. English = ascension."
+  ],
+  "idGloss": "ascend",
+  "oldEntry": "Popular explanation: legs rising into the air."
 }

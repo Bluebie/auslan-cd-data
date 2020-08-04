@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "railway.station",
-  "oldentry": "Popular explanation: a burst of steam and smoke from a steam-train.",
   "english": [
     "station",
     "railway station",
     "steam train"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go somewhere by steam train."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A building by a railway line where a train stops to pick up passengers and goods. English = station, railway station.",
-    "2. A train whose engine is operated using steam as a means of power. English = steam train."
-  ],
   "signNumber": 36,
   "recordNumber": 22,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
     "train.1a",
     "station",
     "train.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go somewhere by steam train."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A building by a railway line where a train stops to pick up passengers and goods. English = station, railway station.",
+    "2. A train whose engine is operated using steam as a means of power. English = steam train."
+  ],
+  "idGloss": "railway.station",
+  "oldEntry": "Popular explanation: a burst of steam and smoke from a steam-train."
 }

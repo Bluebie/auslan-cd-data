@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "VERTICAL + P",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "perpendicular",
-  "oldentry": "",
   "english": [
     "perpendicular"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of something tall and pointing upwards, to points straight up rather than being sloping. English = (be) perpendicular."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1849,
   "recordNumber": 1109,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of something tall and pointing upwards, to points straight up rather than being sloping. English = (be) perpendicular."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "perpendicular",
+  "oldEntry": ""
 }

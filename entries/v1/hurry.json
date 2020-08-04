@@ -15,27 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hurry",
-  "oldentry": "",
   "english": [
     "hurry",
     "rush"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do something quickly. English = hurry, rush.",
-    "2. To make someone do something quickly. English = hurry someone, rush someone."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone to do something with greater speed, usually because you are waiting for them and/or there is not much time before something else happens. English = 'Quickly!', 'Hurry up!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A condition in which there is not much time to do something or during which you do things very quickly. English = hurry, rush."
-  ],
   "signNumber": 1055,
   "recordNumber": 620,
   "signVisualComposition": "",
@@ -48,5 +33,20 @@
   ],
   "synonyms": [
     "quick.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone to do something with greater speed, usually because you are waiting for them and/or there is not much time before something else happens. English = 'Quickly!', 'Hurry up!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do something quickly. English = hurry, rush.",
+    "2. To make someone do something quickly. English = hurry someone, rush someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A condition in which there is not much time to do something or during which you do things very quickly. English = hurry, rush."
+  ],
+  "idGloss": "hurry",
+  "oldEntry": ""
 }

@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "laundry.1a",
-  "oldentry": "Popular explanation: using a washboard.",
   "english": [
     "laundry",
     "dry cleaner",
@@ -37,22 +33,8 @@
     "dry clean"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wash clothes by hand.",
-    "2. To wash clothes. English = do the washing, do the laundry, launder.",
-    "3. To have clothes washed at a laundry; to have clothes or cleaned with a liquid chemical rather than with water at a dry-cleaner. English = have laundered; dry clean.",
-    "4. To use a washboard to wash clothes."
-  ],
   "cf": [
     "dye"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A room in a house or hotel where clothes, sheets, and towels are washed. English = laundry.",
-    "2. A firm that washes and irons clothes, sheets, and towels for people. English = laundry.",
-    "3. A shop where clothes and other things made of cloth can be dry-cleaned. English = dry cleaner.",
-    "4. A board or frame with corrugated metallic or other surface, on which clothes are scrubbed in the process of washing. English = washboard."
   ],
   "signNumber": 5932,
   "recordNumber": 3530,
@@ -64,5 +46,23 @@
   "antonyms": [],
   "synonyms": [
     "wash"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wash clothes by hand.",
+    "2. To wash clothes. English = do the washing, do the laundry, launder.",
+    "3. To have clothes washed at a laundry; to have clothes or cleaned with a liquid chemical rather than with water at a dry-cleaner. English = have laundered; dry clean.",
+    "4. To use a washboard to wash clothes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A room in a house or hotel where clothes, sheets, and towels are washed. English = laundry.",
+    "2. A firm that washes and irons clothes, sheets, and towels for people. English = laundry.",
+    "3. A shop where clothes and other things made of cloth can be dry-cleaned. English = dry cleaner.",
+    "4. A board or frame with corrugated metallic or other surface, on which clothes are scrubbed in the process of washing. English = washboard."
+  ],
+  "idGloss": "laundry.1a",
+  "oldEntry": "Popular explanation: using a washboard."
 }

@@ -13,24 +13,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ballet.1",
-  "oldentry": "Popular explanation: a ballet dancer jumping up into the air.",
   "english": [
     "ballet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To leap or jump up in the air, especially as part of a ballet."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of very skilled and artistic dancing with carefully planned movements. English = ballet.",
-    "2. An artistic work that is performed by ballet dancers. English = ballet."
-  ],
   "signNumber": 6535,
   "recordNumber": 3890,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To leap or jump up in the air, especially as part of a ballet."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of very skilled and artistic dancing with carefully planned movements. English = ballet.",
+    "2. An artistic work that is performed by ballet dancers. English = ballet."
+  ],
+  "idGloss": "ballet.1",
+  "oldEntry": "Popular explanation: a ballet dancer jumping up into the air."
 }

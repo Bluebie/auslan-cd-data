@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wide.in.cricket",
-  "oldentry": "",
   "english": [
     "wide ball"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In cricket, a ball which is bowled too far or too much to one side. English = wide ball."
-  ],
   "signNumber": 3787,
   "recordNumber": 2244,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In cricket, a ball which is bowled too far or too much to one side. English = wide ball."
+  ],
+  "idGloss": "wide.in.cricket",
+  "oldEntry": ""
 }

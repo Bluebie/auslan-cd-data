@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "always.2",
-  "oldentry": "",
   "english": [
     "always"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sentence or next to a verb sign to mean that the action took place at all times or on every possible occasion. English = always (in the past)."
-  ],
-  "nomlex": [],
   "signNumber": 585,
   "recordNumber": 337,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   ],
   "synonyms": [
     "always.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence or next to a verb sign to mean that the action took place at all times or on every possible occasion. English = always (in the past)."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "always.2",
+  "oldEntry": ""
 }

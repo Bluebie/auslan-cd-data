@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bank.1",
-  "oldentry": "",
   "english": [
     "bank",
     "deposit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put your money in an account at a bank. English = bank, deposit."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where you can keep your money in an account. English = bank."
-  ],
   "signNumber": 4603,
   "recordNumber": 2786,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "bank.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put your money in an account at a bank. English = bank, deposit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where you can keep your money in an account. English = bank."
+  ],
+  "idGloss": "bank.1",
+  "oldEntry": ""
 }

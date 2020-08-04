@@ -20,30 +20,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "far.1a",
-  "oldentry": "",
   "english": [
     "distance",
     "far",
     "distant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located at a great distance away. English = (be) far, (be) far away, (be) distant."
-  ],
   "cf": [
     "travel",
     "advanced.2a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action takes place at a great distance away, or takes place over a great distance. English = far, far away."
-  ],
-  "nomlex": [
-    "1. The amount of space between two places. English = distance.",
-    "2. The distance between two places, especially when that distance is considerable; a long way."
   ],
   "signNumber": 5164,
   "recordNumber": 3108,
@@ -56,5 +41,20 @@
     "near.1a",
     "shorten.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action takes place at a great distance away, or takes place over a great distance. English = far, far away."
+  ],
+  "verbLexeme": [
+    "1. To be located at a great distance away. English = (be) far, (be) far away, (be) distant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The amount of space between two places. English = distance.",
+    "2. The distance between two places, especially when that distance is considerable; a long way."
+  ],
+  "idGloss": "far.1a",
+  "oldEntry": ""
 }

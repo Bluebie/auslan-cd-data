@@ -34,10 +34,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prayer",
-  "oldentry": "Popular explanation: praying.",
   "english": [
     "prayer",
     "grace",
@@ -53,25 +49,10 @@
     "worship"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To speak to God in order to give thanks or to ask for his help. English = pray.",
-    "2. In Christian belief, to show your respect for God, for example by saying prayers or taking part in church ceremonies. English = worship.",
-    "3. To ask for something in an intense and emotional way, often repeatedly. English = plead, entreat.",
-    "4. To have a strong desire that something will happen and have a belief that it might happen. English = hope, wish."
-  ],
   "cf": [
     "church.1",
     "altar.1",
     "Amen"
-  ],
-  "interj": [
-    "1. Used alone in response to a question about the likelihood of something happening to mean that you hope and expect that it will. English = 'Hopefully!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity of communicating to God, or a set of words which is used during a religious service; thanks to God made before a meal. English = prayer; grace.",
-    "2. A religious ceremony in a church; a ceremony in some Christian churches during which people eat bread and drink wine in order to remember the last meal of Jesus Christ. English = service, church service; mass.",
-    "3. An intense and emotional request for something, often made repeatedly. English = plea, entreaty."
   ],
   "signNumber": 3681.1,
   "recordNumber": 2169,
@@ -85,5 +66,24 @@
     "hope",
     "wish",
     "plead"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to a question about the likelihood of something happening to mean that you hope and expect that it will. English = 'Hopefully!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To speak to God in order to give thanks or to ask for his help. English = pray.",
+    "2. In Christian belief, to show your respect for God, for example by saying prayers or taking part in church ceremonies. English = worship.",
+    "3. To ask for something in an intense and emotional way, often repeatedly. English = plead, entreat.",
+    "4. To have a strong desire that something will happen and have a belief that it might happen. English = hope, wish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity of communicating to God, or a set of words which is used during a religious service; thanks to God made before a meal. English = prayer; grace.",
+    "2. A religious ceremony in a church; a ceremony in some Christian churches during which people eat bread and drink wine in order to remember the last meal of Jesus Christ. English = service, church service; mass.",
+    "3. An intense and emotional request for something, often made repeatedly. English = plea, entreaty."
+  ],
+  "idGloss": "prayer",
+  "oldEntry": "Popular explanation: praying."
 }

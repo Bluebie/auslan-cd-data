@@ -15,22 +15,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clown.1a",
-  "oldentry": "Popular explanation: the spherical nose of a clown.",
   "english": [
     "clown"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "fun"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A performer in a circus who wears funny clothes and bright make-up, often with a big red nose, and who does silly things in order to make people laugh. English = clown."
   ],
   "signNumber": 2912,
   "recordNumber": 1649,
@@ -40,5 +30,15 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A performer in a circus who wears funny clothes and bright make-up, often with a big red nose, and who does silly things in order to make people laugh. English = clown."
+  ],
+  "idGloss": "clown.1a",
+  "oldEntry": "Popular explanation: the spherical nose of a clown."
 }

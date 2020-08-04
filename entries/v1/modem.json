@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "modem",
-  "oldentry": "",
   "english": [
     "modem"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "computer.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A device which allows one computer to sent information to another computer over a telephone line. English = modem."
   ],
   "signNumber": 6635,
   "recordNumber": 3949,
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A device which allows one computer to sent information to another computer over a telephone line. English = modem."
+  ],
+  "idGloss": "modem",
+  "oldEntry": ""
 }

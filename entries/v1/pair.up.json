@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pair.up",
-  "oldentry": "",
   "english": [
     "pair up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two people, to meet and form a deep and strong relationship, usually loving and often sexual, that lasts for a long time. Idiomatic English = pair up with someone; share one's life with someone."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long and enduring partnership, friendship, or romantic attachment, in which two people share many experiences and do much together."
-  ],
   "signNumber": 902,
   "recordNumber": 517,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two people, to meet and form a deep and strong relationship, usually loving and often sexual, that lasts for a long time. Idiomatic English = pair up with someone; share one's life with someone."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long and enduring partnership, friendship, or romantic attachment, in which two people share many experiences and do much together."
+  ],
+  "idGloss": "pair.up",
+  "oldEntry": ""
 }

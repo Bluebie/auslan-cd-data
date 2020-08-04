@@ -10,21 +10,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Brisbane",
-  "oldentry": "",
   "english": [
     "Brisbane"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The capital of and largest city in the Australian state of Queensland, called Brisbane."
-  ],
   "signNumber": 376,
   "recordNumber": 203,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The capital of and largest city in the Australian state of Queensland, called Brisbane."
+  ],
+  "idGloss": "Brisbane",
+  "oldEntry": ""
 }

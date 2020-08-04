@@ -16,26 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pump.1",
-  "oldentry": "Popular explanation: pushing down repeatedly on a pump.",
   "english": [
     "pump",
     "hand pump"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To force liquid or gas to flow in strong, regular movements in a particular direction. English = pump.",
-    "2. To operate a hand pump to force air into the tyre of a vehicle. English = pump, pump up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine which is used to force liquid or gas to flow in strong, regular movements in a particular direction. English = pump.",
-    "2. A machine which is used to force air to flow in strong, regular movements along a tube into the tyre of a vehicle. It is operated by pushing down on a handle with both hands. English = hand pump."
-  ],
   "signNumber": 5933,
   "recordNumber": 3531,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "antonyms": [],
   "synonyms": [
     "pump.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To force liquid or gas to flow in strong, regular movements in a particular direction. English = pump.",
+    "2. To operate a hand pump to force air into the tyre of a vehicle. English = pump, pump up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine which is used to force liquid or gas to flow in strong, regular movements in a particular direction. English = pump.",
+    "2. A machine which is used to force air to flow in strong, regular movements along a tube into the tyre of a vehicle. It is operated by pushing down on a handle with both hands. English = hand pump."
+  ],
+  "idGloss": "pump.1",
+  "oldEntry": "Popular explanation: pushing down repeatedly on a pump."
 }

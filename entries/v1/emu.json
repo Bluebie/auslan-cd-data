@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "emu",
-  "oldentry": "Popular explanation: the head, beak and neck of a big bird.",
   "english": [
     "emu"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "swan.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large Australian bird with long legs that can run fast but cannot fly. English = emu."
   ],
   "signNumber": 6463,
   "recordNumber": 3853,
@@ -36,5 +26,15 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large Australian bird with long legs that can run fast but cannot fly. English = emu."
+  ],
+  "idGloss": "emu",
+  "oldEntry": "Popular explanation: the head, beak and neck of a big bird."
 }

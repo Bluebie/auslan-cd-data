@@ -17,28 +17,17 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "soon",
-  "oldentry": "",
   "english": [
     "soon",
     "almost",
     "nearly"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "almost",
     "not.yet.1a",
     "not.yet.2a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb to mean the action will happen in a very short time from the time of reference; or between two phrases or clauses, to mean the action in the second happens a short time after the first. English = soon; not long after, soon after.",
-    "2. Used next to a verb to mean the action or state happened but not completely or not exactly. English = almost, nearly."
-  ],
-  "nomlex": [],
   "signNumber": 6387,
   "recordNumber": 3815,
   "signVisualComposition": "",
@@ -49,5 +38,16 @@
   "antonyms": [
     "later.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb to mean the action will happen in a very short time from the time of reference; or between two phrases or clauses, to mean the action in the second happens a short time after the first. English = soon; not long after, soon after.",
+    "2. Used next to a verb to mean the action or state happened but not completely or not exactly. English = almost, nearly."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "soon",
+  "oldEntry": ""
 }

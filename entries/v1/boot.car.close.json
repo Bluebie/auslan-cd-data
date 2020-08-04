@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boot.car.close",
-  "oldentry": "",
   "english": [
     "boot",
     "close boot"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of the boot of a car, to close."
-  ],
   "cf": [
     "boot.car"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4671,
   "recordNumber": 2821,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [
     "boot.car.open"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of the boot of a car, to close."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "boot.car.close",
+  "oldEntry": ""
 }

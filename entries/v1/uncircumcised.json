@@ -14,24 +14,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "uncircumcised",
-  "oldentry": "Popular explanation: the foreskin over the penis.",
   "english": [
     "foreskin",
     "uncircumcised"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man or a boy, to have the loose skin at the end of his penis intact and not removed. English = (be) uncircumcised. Informal English = (be) uncut."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a man or boy, the loose skin that covers the end of his penis. English = foreskin."
-  ],
   "signNumber": 2832,
   "recordNumber": 1592,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
     "circumcised.1a",
     "circumcised.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man or a boy, to have the loose skin at the end of his penis intact and not removed. English = (be) uncircumcised. Informal English = (be) uncut."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a man or boy, the loose skin that covers the end of his penis. English = foreskin."
+  ],
+  "idGloss": "uncircumcised",
+  "oldEntry": "Popular explanation: the foreskin over the penis."
 }

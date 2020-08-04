@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "of.course",
-  "oldentry": "",
   "english": [
     "of course",
     "certainly",
     "obviously"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone in reply to what someone has said to mean you expect other people (including yourself) already realise or understand, or fully agree. English = 'Of course.'"
-  ],
-  "partlex": [
-    "1. Used to introduce or end a statement you make to show you expect other people would already agree with, understand, or realise it. English = of course, certainly, obviously."
-  ],
-  "nomlex": [],
   "signNumber": 4717,
   "recordNumber": 2851,
   "signVisualComposition": "KNOW + RIGHT",
@@ -40,5 +28,17 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone in reply to what someone has said to mean you expect other people (including yourself) already realise or understand, or fully agree. English = 'Of course.'"
+  ],
+  "particleLexeme": [
+    "1. Used to introduce or end a statement you make to show you expect other people would already agree with, understand, or realise it. English = of course, certainly, obviously."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "of.course",
+  "oldEntry": ""
 }

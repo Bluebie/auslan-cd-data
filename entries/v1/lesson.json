@@ -16,25 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lesson",
-  "oldentry": "Popular explanation: the beginning and end of a programmed list.",
   "english": [
     "lesson",
     "period"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "course",
     "calendar"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short period of time during which people are taught about a particular subject or taught how to do something. English = lesson",
-    "2. At a school or college, the parts the day is divided into during which lessons are given. English = period."
   ],
   "signNumber": 4333,
   "recordNumber": 2640,
@@ -44,5 +33,16 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short period of time during which people are taught about a particular subject or taught how to do something. English = lesson",
+    "2. At a school or college, the parts the day is divided into during which lessons are given. English = period."
+  ],
+  "idGloss": "lesson",
+  "oldEntry": "Popular explanation: the beginning and end of a programmed list."
 }

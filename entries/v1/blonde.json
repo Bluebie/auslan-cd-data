@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "YELLOW + HAIR",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blonde",
-  "oldentry": "",
   "english": [
     "blonde",
     "blond"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to have pale yellow-colored hair. English = (be) blond, blonde.",
-    "2. Of hair, to be pale and yellow-colored. English = (be) blond, (be) blonde."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person, especially a woman, who has pale yellow-coloured hair. English = blonde."
-  ],
   "signNumber": 249,
   "recordNumber": 146,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to have pale yellow-colored hair. English = (be) blond, blonde.",
+    "2. Of hair, to be pale and yellow-colored. English = (be) blond, (be) blonde."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person, especially a woman, who has pale yellow-coloured hair. English = blonde."
+  ],
+  "idGloss": "blonde",
+  "oldEntry": ""
 }

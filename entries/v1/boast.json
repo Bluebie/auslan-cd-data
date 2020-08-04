@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "ME + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boast",
-  "oldentry": "",
   "english": [
     "boast",
     "vanity",
@@ -28,17 +24,7 @@
     "vain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To talk about something that you have done or that you own in a way that shows that you are proud of it. English = boast, brag.",
-    "2. To think very highly of yourself, often without good reason, and in such a way as to displease other people. English = love oneself, (be) vain."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of talking about something that you have done or that you own in a way that shows that you are proud of it. English = boast.",
-    "2. The feeling of pride in yourself (often without good reason or to an unreasonable extent) and your supposed achievements and qualities. English = vanity."
-  ],
   "signNumber": 5208,
   "recordNumber": 3129,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "talent.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To talk about something that you have done or that you own in a way that shows that you are proud of it. English = boast, brag.",
+    "2. To think very highly of yourself, often without good reason, and in such a way as to displease other people. English = love oneself, (be) vain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of talking about something that you have done or that you own in a way that shows that you are proud of it. English = boast.",
+    "2. The feeling of pride in yourself (often without good reason or to an unreasonable extent) and your supposed achievements and qualities. English = vanity."
+  ],
+  "idGloss": "boast",
+  "oldEntry": ""
 }

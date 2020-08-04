@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gutter",
-  "oldentry": "",
   "english": [
     "gutter"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A plastic or metal channel fixed to the edge of the roof of a building, which rain water drains into. English = gutter."
-  ],
   "signNumber": 5461,
   "recordNumber": 3245,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 1,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A plastic or metal channel fixed to the edge of the roof of a building, which rain water drains into. English = gutter."
+  ],
+  "idGloss": "gutter",
+  "oldEntry": ""
 }

@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "figure.out",
-  "oldentry": "",
   "english": [
     "work out",
     "figure out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think about a mystery or a problem and solve it or understand it. English = work out, figure out."
-  ],
   "cf": [
     "average"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 843,
   "recordNumber": 482,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
   ],
   "synonyms": [
     "calculate.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To think about a mystery or a problem and solve it or understand it. English = work out, figure out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "figure.out",
+  "oldEntry": ""
 }

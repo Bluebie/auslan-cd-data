@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "earring.1a",
-  "oldentry": "Popular explanation: something round through the ear lobe.",
   "english": [
     "earring"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear an earring."
-  ],
   "cf": [
     "necklace"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of jewellery which you attach to your earlobe. English = earring."
   ],
   "signNumber": 268,
   "recordNumber": 157,
@@ -40,5 +28,17 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear an earring."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of jewellery which you attach to your earlobe. English = earring."
+  ],
+  "idGloss": "earring.1a",
+  "oldEntry": "Popular explanation: something round through the ear lobe."
 }

@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "SAY + FAR",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yell.2a",
-  "oldentry": "",
   "english": [
     "yell"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shout loudly, usually because you are excited, angry, or in pain. English = yell."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A loud shout given by someone who is excited, afraid, or in pain. English = yell."
-  ],
   "signNumber": 5102,
   "recordNumber": 3078,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
     "yell.1a",
     "shout",
     "scream"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shout loudly, usually because you are excited, angry, or in pain. English = yell."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A loud shout given by someone who is excited, afraid, or in pain. English = yell."
+  ],
+  "idGloss": "yell.2a",
+  "oldEntry": ""
 }

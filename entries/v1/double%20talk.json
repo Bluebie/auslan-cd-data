@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "double talk",
-  "oldentry": "",
   "english": [
     "double talk",
     "lies",
@@ -30,16 +26,8 @@
     "lie"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people things which are not true or which are difficult to understand so as to deceive them. English = make double talk, tell lies, lie. Informal English = bullshit."
-  ],
   "cf": [
     "deceive"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Talk which is intended to deceive someone. English = double talk, lies. Informal English =  bullshit."
   ],
   "signNumber": 1561,
   "recordNumber": 932,
@@ -52,5 +40,17 @@
   "synonyms": [
     "deceive",
     "bullshit.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people things which are not true or which are difficult to understand so as to deceive them. English = make double talk, tell lies, lie. Informal English = bullshit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Talk which is intended to deceive someone. English = double talk, lies. Informal English =  bullshit."
+  ],
+  "idGloss": "double talk",
+  "oldEntry": ""
 }

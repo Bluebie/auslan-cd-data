@@ -14,21 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swimming trunks",
-  "oldentry": "",
   "english": [
     "swimming trunks"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The shorts that a man wears when he goes swimming. English = swimming trunks."
-  ],
   "signNumber": 3910,
   "recordNumber": 2329,
   "signVisualComposition": "SWIM + SHORTS",
@@ -41,5 +31,15 @@
     "swimming costume.1a",
     "swimsuit",
     "bikini"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The shorts that a man wears when he goes swimming. English = swimming trunks."
+  ],
+  "idGloss": "swimming trunks",
+  "oldEntry": ""
 }

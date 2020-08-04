@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "plait.1a",
-  "oldentry": "",
   "english": [
     "plait",
     "braid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To twist three or more lengths of hair together, so that each of them are twisted over and under each other to make one thick length. English = plait, braid.",
-    "2. To have plaited hair."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Lengths of hair that have been twisted over and under each other to make one thick length. English = plait, braid."
-  ],
   "signNumber": 2178,
   "recordNumber": 1257,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "antonyms": [],
   "synonyms": [
     "plait.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To twist three or more lengths of hair together, so that each of them are twisted over and under each other to make one thick length. English = plait, braid.",
+    "2. To have plaited hair."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Lengths of hair that have been twisted over and under each other to make one thick length. English = plait, braid."
+  ],
+  "idGloss": "plait.1a",
+  "oldEntry": ""
 }

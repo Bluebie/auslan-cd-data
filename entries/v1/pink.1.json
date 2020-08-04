@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pink.1",
-  "oldentry": "",
   "english": [
     "pink"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be or become the colour between red and white. English = (be) pink."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour between red and white. English = pink."
-  ],
   "signNumber": 592,
   "recordNumber": 340,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "pink.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be or become the colour between red and white. English = (be) pink."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour between red and white. English = pink."
+  ],
+  "idGloss": "pink.1",
+  "oldEntry": ""
 }

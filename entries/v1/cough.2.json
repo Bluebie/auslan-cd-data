@@ -15,26 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cough.2",
-  "oldentry": "Popular explanation: tapping the chest.",
   "english": [
     "cough"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To force air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone after you have coughed in the presence of someone else to excuse yourself and to indicate that something was caught in your throat and to reassure everyone that you are not ill with a disease which could be spread by coughing.",
-    "In such situations hearing people often make a controlled clearing noise in their throat to signal much the same thing."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of forcing air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
-  ],
   "signNumber": 5670,
   "recordNumber": 3359,
   "signVisualComposition": "",
@@ -45,5 +30,20 @@
   "antonyms": [],
   "synonyms": [
     "cough.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone after you have coughed in the presence of someone else to excuse yourself and to indicate that something was caught in your throat and to reassure everyone that you are not ill with a disease which could be spread by coughing.",
+    "In such situations hearing people often make a controlled clearing noise in their throat to signal much the same thing."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To force air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of forcing air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
+  ],
+  "idGloss": "cough.2",
+  "oldEntry": "Popular explanation: tapping the chest."
 }

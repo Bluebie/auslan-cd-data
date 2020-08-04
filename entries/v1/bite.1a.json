@@ -13,26 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bite.1a",
-  "oldentry": "",
   "english": [
     "bite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or animal, to use your teeth to grab or cut into something. English = bite."
-  ],
   "cf": [
     "growl.1a",
     "jaws"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of biting someone or something. English = bite.",
-    "2 A mark made on your skin by the teeth of an animal or person or by parts of an insect. English = bite."
   ],
   "signNumber": 2941,
   "recordNumber": 1671,
@@ -42,5 +29,18 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or animal, to use your teeth to grab or cut into something. English = bite."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of biting someone or something. English = bite.",
+    "2 A mark made on your skin by the teeth of an animal or person or by parts of an insect. English = bite."
+  ],
+  "idGloss": "bite.1a",
+  "oldEntry": ""
 }

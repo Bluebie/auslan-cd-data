@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "outstanding",
-  "oldentry": "Popular explanation: one level clearly above or higher than another.",
   "english": [
     "outstanding",
     "exceptional",
@@ -29,15 +25,7 @@
     "sexy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very good, especially when compared to any one or anything else of its type. English = (be) outstanding, (be) exceptional.",
-    "2. To be of very good quality and of a high social status. English = (be) high-class, (be) first class.",
-    "3. Of a person, to be particularly attractive and desirable. English = (be) sexy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3914,
   "recordNumber": 2332,
   "signVisualComposition": "",
@@ -46,5 +34,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very good, especially when compared to any one or anything else of its type. English = (be) outstanding, (be) exceptional.",
+    "2. To be of very good quality and of a high social status. English = (be) high-class, (be) first class.",
+    "3. Of a person, to be particularly attractive and desirable. English = (be) sexy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "outstanding",
+  "oldEntry": "Popular explanation: one level clearly above or higher than another."
 }

@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "diet",
-  "oldentry": "",
   "english": [
     "diet"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat special kinds of food because you want to lose weight. English = (be) on a diet.",
-    "2. To lose weight."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The special kind of food that you eat if you want to lose weight. English = diet."
-  ],
   "signNumber": 3802,
   "recordNumber": 2258,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "antonyms": [],
   "synonyms": [
     "slim"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat special kinds of food because you want to lose weight. English = (be) on a diet.",
+    "2. To lose weight."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The special kind of food that you eat if you want to lose weight. English = diet."
+  ],
+  "idGloss": "diet",
+  "oldEntry": ""
 }

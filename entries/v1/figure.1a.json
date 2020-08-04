@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "figure.1a",
-  "oldentry": "Popular explanation: the outline of a shapely female figure.",
   "english": [
     "figure",
     "shape",
     "shapely"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Particularly of women, to have an attractive figure. English = (be) shapely.",
-    "2. To give a particular object, usually one made of a soft substance, a certain shape. English = shape."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The appearance of the outside edges of a person, usually a woman. English = figure.",
-    "2. The appearance of the outside edges of an object. English = figure, shape."
-  ],
   "signNumber": 3803,
   "recordNumber": 2259,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Particularly of women, to have an attractive figure. English = (be) shapely.",
+    "2. To give a particular object, usually one made of a soft substance, a certain shape. English = shape."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The appearance of the outside edges of a person, usually a woman. English = figure.",
+    "2. The appearance of the outside edges of an object. English = figure, shape."
+  ],
+  "idGloss": "figure.1a",
+  "oldEntry": "Popular explanation: the outline of a shapely female figure."
 }

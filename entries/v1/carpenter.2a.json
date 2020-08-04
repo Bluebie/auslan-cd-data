@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carpenter.2a",
-  "oldentry": "Popular explanation: hammering a nail.",
   "english": [
     "carpenter",
     "carpentry",
     "hammer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hammer in a nail."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job is making and repairing wooden things. English = carpenter.",
-    "2. The skill or the work of a carpenter. English = carpentry."
-  ],
   "signNumber": 6152,
   "recordNumber": 3668,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "synonyms": [
     "carpenter.1",
     "hammer"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hammer in a nail."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job is making and repairing wooden things. English = carpenter.",
+    "2. The skill or the work of a carpenter. English = carpentry."
+  ],
+  "idGloss": "carpenter.2a",
+  "oldEntry": "Popular explanation: hammering a nail."
 }

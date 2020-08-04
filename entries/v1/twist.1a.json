@@ -21,32 +21,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "twist.1a",
-  "oldentry": "Popular explanation: twisting something.",
   "english": [
     "twist",
     "wring",
     "sprain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn one end of a thing in one direction while holding the other end or turning it in the opposite direction. English = twist.",
-    "2. Of a wet cloth, to twist it so that the water comes out. English = wring.",
-    "3. To accidentally damage a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
-  ],
   "cf": [
     "hate.1"
-  ],
-  "interj": [
-    "1. Used alone to playfully show anger at what someone has done (especially a child). Idiomatic English = 'I'll wring your neck!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A turn on something made by both hands in opposite directions, or by holding one end and turning the other. English = twist.",
-    "2. The shape that something has when it has been twisted. English = twist.",
-    "3. The injury caused by accidentally damaging a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
   ],
   "signNumber": 5815,
   "recordNumber": 3453,
@@ -56,5 +38,23 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to playfully show anger at what someone has done (especially a child). Idiomatic English = 'I'll wring your neck!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn one end of a thing in one direction while holding the other end or turning it in the opposite direction. English = twist.",
+    "2. Of a wet cloth, to twist it so that the water comes out. English = wring.",
+    "3. To accidentally damage a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A turn on something made by both hands in opposite directions, or by holding one end and turning the other. English = twist.",
+    "2. The shape that something has when it has been twisted. English = twist.",
+    "3. The injury caused by accidentally damaging a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
+  ],
+  "idGloss": "twist.1a",
+  "oldEntry": "Popular explanation: twisting something."
 }

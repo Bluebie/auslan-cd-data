@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "two.more",
-  "oldentry": "",
   "english": [
     "two more"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a sequence of things or events, the number of additional occurrences that can be expected when that number is two. English = (be) two more."
-  ],
   "cf": [
     "one.more"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1590,
   "recordNumber": 948,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a sequence of things or events, the number of additional occurrences that can be expected when that number is two. English = (be) two more."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "two.more",
+  "oldEntry": ""
 }

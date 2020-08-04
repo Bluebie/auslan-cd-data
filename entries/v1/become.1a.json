@@ -19,27 +19,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "become.1a",
-  "oldentry": "Popular explanation: change places with.",
   "english": [
     "become",
     "change into",
     "transform"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stop being one thing and start being another thing. English = change into.",
-    "2. To start being something. English = become.",
-    "3. To completely change into something else. English = transform."
-  ],
   "cf": [
     "continue.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3750,
   "recordNumber": 2214,
   "signVisualComposition": "",
@@ -53,5 +41,17 @@
   "synonyms": [
     "change.1a",
     "trade.in.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stop being one thing and start being another thing. English = change into.",
+    "2. To start being something. English = become.",
+    "3. To completely change into something else. English = transform."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "become.1a",
+  "oldEntry": "Popular explanation: change places with."
 }

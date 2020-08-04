@@ -12,24 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unit.3",
-  "oldentry": "",
   "english": [
     "unit",
     "component"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A single complete thing. English = unit.",
-    "2. A single thing which is a part of a larger thing. English = unit, component.",
-    "3. A fixed, standard quantity, length, or weight that is used for measuring things. The metre, the litre, and the gram are all examples. English = unit."
-  ],
   "signNumber": 5340,
   "recordNumber": 3197,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A single complete thing. English = unit.",
+    "2. A single thing which is a part of a larger thing. English = unit, component.",
+    "3. A fixed, standard quantity, length, or weight that is used for measuring things. The metre, the litre, and the gram are all examples. English = unit."
+  ],
+  "idGloss": "unit.3",
+  "oldEntry": ""
 }

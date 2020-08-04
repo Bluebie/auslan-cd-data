@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "HEAR + FIFTY",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "common.1",
-  "oldentry": "Popular explanation: having heard something fifty times.",
   "english": [
     "common knowledge",
     "common",
@@ -30,19 +26,7 @@
     "used to"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be ordinary and not special in any way. English = (be) common.",
-    "2. To be very ordinary and so familiar and well-known that it has become uninteresting and boring. Idiomatic English = (be) old hat.",
-    "3. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences and, consequently, to be of little interest or to be not surprising. English = (be) used to."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell your addressee that what you have just been told is not special in any way. Indeed, it is uninteresting and boring. English = 'So what! I've heard that a million times.'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Things or facts which are known by everybody and not special in any way. English = common knowledge."
-  ],
   "signNumber": 2447,
   "recordNumber": 1357,
   "signVisualComposition": "",
@@ -53,5 +37,21 @@
   "antonyms": [
     "few.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell your addressee that what you have just been told is not special in any way. Indeed, it is uninteresting and boring. English = 'So what! I've heard that a million times.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be ordinary and not special in any way. English = (be) common.",
+    "2. To be very ordinary and so familiar and well-known that it has become uninteresting and boring. Idiomatic English = (be) old hat.",
+    "3. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences and, consequently, to be of little interest or to be not surprising. English = (be) used to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Things or facts which are known by everybody and not special in any way. English = common knowledge."
+  ],
+  "idGloss": "common.1",
+  "oldEntry": "Popular explanation: having heard something fifty times."
 }

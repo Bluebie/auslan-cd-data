@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "last.night.1",
-  "oldentry": "",
   "english": [
     "last night"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "yesterday.1a",
     "evening"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after a sign sentence to say the action in the sentence happened during the night of the day before. If you are already talking about something that happened on a day before today,",
-    "then you mean it happened during the night of the day before that day. English = last night; the previous night."
-  ],
-  "nomlex": [
-    "1. The night of the day before today. English = last night, yesterday night.",
-    "2. The night of the day before a particular day in the past. English = the previous night."
   ],
   "signNumber": 4727,
   "recordNumber": 2856,
@@ -48,5 +34,19 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after a sign sentence to say the action in the sentence happened during the night of the day before. If you are already talking about something that happened on a day before today,",
+    "then you mean it happened during the night of the day before that day. English = last night; the previous night."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The night of the day before today. English = last night, yesterday night.",
+    "2. The night of the day before a particular day in the past. English = the previous night."
+  ],
+  "idGloss": "last.night.1",
+  "oldEntry": ""
 }

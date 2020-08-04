@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "half.hour.2",
-  "oldentry": "",
   "english": [
     "half hour"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of thirty minutes or one half of an hour."
-  ],
   "signNumber": 1288,
   "recordNumber": 767,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "half.hour.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of thirty minutes or one half of an hour."
+  ],
+  "idGloss": "half.hour.2",
+  "oldEntry": ""
 }

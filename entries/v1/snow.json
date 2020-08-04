@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "snow",
-  "oldentry": "Popular explanation: snowflakes falling.",
   "english": [
     "snow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For snow to fall from the sky. English = snow."
-  ],
   "cf": [
     "parachute",
     "sink.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A lot of soft white bits of frozen water that fall from the sky in cold weather. English = snow."
   ],
   "signNumber": 2583,
   "recordNumber": 1426,
@@ -42,5 +30,17 @@
   "primaryLocation": 6,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. For snow to fall from the sky. English = snow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A lot of soft white bits of frozen water that fall from the sky in cold weather. English = snow."
+  ],
+  "idGloss": "snow",
+  "oldEntry": "Popular explanation: snowflakes falling."
 }

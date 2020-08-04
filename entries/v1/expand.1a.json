@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "expand.1a",
-  "oldentry": "",
   "english": [
     "expansion",
     "swelling",
@@ -32,18 +28,8 @@
     "swell"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become big or bigger in all directions. English = expand.",
-    "2. To become larger and rounder by being filled with air or liquid, especially a part of your body. English = swell."
-  ],
   "cf": [
     "mumps.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The process of becoming larger in size. English = expansion.",
-    "2. A raised, curved shape on the surface of your body, that appears as a result of an injury or an illness. English = swelling."
   ],
   "signNumber": 3036,
   "recordNumber": 1742,
@@ -57,5 +43,19 @@
   ],
   "synonyms": [
     "expand.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become big or bigger in all directions. English = expand.",
+    "2. To become larger and rounder by being filled with air or liquid, especially a part of your body. English = swell."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The process of becoming larger in size. English = expansion.",
+    "2. A raised, curved shape on the surface of your body, that appears as a result of an injury or an illness. English = swelling."
+  ],
+  "idGloss": "expand.1a",
+  "oldEntry": ""
 }

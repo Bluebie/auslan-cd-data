@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mortify.1a",
-  "oldentry": "",
   "english": [
     "mortification",
     "humiliation",
@@ -41,20 +37,7 @@
     "discourage"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel very offended, ashamed or embarrassed; to make someone feel that way. English = (be) mortified; mortify.",
-    "2. To feel ashamed or stupid; to make someone feel that way. English = (be) humiliated; humiliate.",
-    "3. To feel ashamed or stupid and very small in the eyes of other people, especially after having a good or inflated opinion of yourself; to make someone feel that way. Idiomatic English = feel small; cut someone down to size.",
-    "4. To lose your confidence in yourself; to make someone feel that way. English = (be) discouraged; discourage."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of being offended, ashamed or embarrassed. English = mortification.",
-    "2. The feeling of being ashamed or stupid. English = humiliation.",
-    "3. The feeling of losing confidence in yourself. English = discouragement."
-  ],
   "signNumber": 5188,
   "recordNumber": 3119,
   "signVisualComposition": "",
@@ -67,5 +50,22 @@
   ],
   "synonyms": [
     "humiliate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel very offended, ashamed or embarrassed; to make someone feel that way. English = (be) mortified; mortify.",
+    "2. To feel ashamed or stupid; to make someone feel that way. English = (be) humiliated; humiliate.",
+    "3. To feel ashamed or stupid and very small in the eyes of other people, especially after having a good or inflated opinion of yourself; to make someone feel that way. Idiomatic English = feel small; cut someone down to size.",
+    "4. To lose your confidence in yourself; to make someone feel that way. English = (be) discouraged; discourage."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of being offended, ashamed or embarrassed. English = mortification.",
+    "2. The feeling of being ashamed or stupid. English = humiliation.",
+    "3. The feeling of losing confidence in yourself. English = discouragement."
+  ],
+  "idGloss": "mortify.1a",
+  "oldEntry": ""
 }

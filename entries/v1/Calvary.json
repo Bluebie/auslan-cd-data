@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Calvary",
-  "oldentry": "",
   "english": [
     "Calvary",
     "Golgotha",
@@ -27,16 +23,8 @@
     "crucifix"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "crucifixion"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The place where Jesus Christ was crucified. English = Calvary, Golgotha.",
-    "2. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
-    "3. A cross with a figure of Christ on it. English = crucifix."
   ],
   "signNumber": 4533,
   "recordNumber": 2748,
@@ -48,5 +36,17 @@
   "antonyms": [],
   "synonyms": [
     "crucifix"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where Jesus Christ was crucified. English = Calvary, Golgotha.",
+    "2. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
+    "3. A cross with a figure of Christ on it. English = crucifix."
+  ],
+  "idGloss": "Calvary",
+  "oldEntry": ""
 }

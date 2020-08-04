@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hook.1a",
-  "oldentry": "Popular explanation: hooking shape and action.",
   "english": [
     "hook"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To attach one thing to another using a hook. English = hook."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bent piece of metal or plastic that is used for holding things. English = hook."
-  ],
   "signNumber": 1434,
   "recordNumber": 855,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "hang.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To attach one thing to another using a hook. English = hook."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A bent piece of metal or plastic that is used for holding things. English = hook."
+  ],
+  "idGloss": "hook.1a",
+  "oldEntry": "Popular explanation: hooking shape and action."
 }

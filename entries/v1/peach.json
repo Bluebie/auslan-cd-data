@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peach",
-  "oldentry": "Popular explanation: stroking a peach.",
   "english": [
     "peach"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A soft, round, juicy fruit with sweet yellow flesh and pinky-orange skin. They grow in warm countries. English = peach."
-  ],
   "signNumber": 4433,
   "recordNumber": 2694,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A soft, round, juicy fruit with sweet yellow flesh and pinky-orange skin. They grow in warm countries. English = peach."
+  ],
+  "idGloss": "peach",
+  "oldEntry": "Popular explanation: stroking a peach."
 }

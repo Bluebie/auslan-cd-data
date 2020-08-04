@@ -12,25 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "photocopy",
-  "oldentry": "",
   "english": [
     "photocopier",
     "photocopy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a copy of a document using a photocopier. English = photocopy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine which quickly copies documents onto paper by photographing them. English = photocopier.",
-    "2. A copy of a document made by using a photocopier. English = photocopy."
-  ],
   "signNumber": 2846,
   "recordNumber": 1604,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a copy of a document using a photocopier. English = photocopy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine which quickly copies documents onto paper by photographing them. English = photocopier.",
+    "2. A copy of a document made by using a photocopier. English = photocopy."
+  ],
+  "idGloss": "photocopy",
+  "oldEntry": ""
 }

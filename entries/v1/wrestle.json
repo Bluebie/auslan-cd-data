@@ -18,28 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wrestle",
-  "oldentry": "Popular explanation: a wrestling action.",
   "english": [
     "wrestling",
     "wrestler",
     "wrestle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fight someone by forcing them into painful positions or throwing them to the ground, rather than by hitting them. English = wrestle.",
-    "2. To participate in the sport of wresting. English = wrestle."
-  ],
   "cf": [
     "karate"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sport in which two people wrestle and try to throw each other to the ground. English = wrestling.",
-    "2. A person who wrestles as a sport. English = wrestler."
   ],
   "signNumber": 4616,
   "recordNumber": 2795,
@@ -49,5 +35,19 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fight someone by forcing them into painful positions or throwing them to the ground, rather than by hitting them. English = wrestle.",
+    "2. To participate in the sport of wresting. English = wrestle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sport in which two people wrestle and try to throw each other to the ground. English = wrestling.",
+    "2. A person who wrestles as a sport. English = wrestler."
+  ],
+  "idGloss": "wrestle",
+  "oldEntry": "Popular explanation: a wrestling action."
 }

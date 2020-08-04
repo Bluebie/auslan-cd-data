@@ -17,26 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "file.in",
-  "oldentry": "Popular explanation: numerous upright objects in a line.",
   "english": [
     "file"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people, to walk one behind another into a place. English = file, file in; (be) in single file.",
-    "2. Of a group of people, to enter a building or room all at once, usually after having waited for some time; to go en masse."
-  ],
   "cf": [
     "queue.1",
     "queue.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A group of people walking along one behind the other. English = file."
   ],
   "signNumber": 2398,
   "recordNumber": 1323,
@@ -46,5 +33,18 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people, to walk one behind another into a place. English = file, file in; (be) in single file.",
+    "2. Of a group of people, to enter a building or room all at once, usually after having waited for some time; to go en masse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A group of people walking along one behind the other. English = file."
+  ],
+  "idGloss": "file.in",
+  "oldEntry": "Popular explanation: numerous upright objects in a line."
 }

@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any small round object on a flat surface, or any thing or any action directly or indirectly associated with this, especially a coin.",
-  "questlex": [],
-  "idgloss": "coin.2",
-  "oldentry": "Popular explanation: the shape of a flat round object.",
   "english": [
     "coin"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "money.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small piece of metal which is used as money. English = coin."
   ],
   "signNumber": 477,
   "recordNumber": 264,
@@ -43,5 +33,15 @@
   ],
   "synonyms": [
     "coin.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any small round object on a flat surface, or any thing or any action directly or indirectly associated with this, especially a coin.",
+  "nominalLexeme": [
+    "1. A small piece of metal which is used as money. English = coin."
+  ],
+  "idGloss": "coin.2",
+  "oldEntry": "Popular explanation: the shape of a flat round object."
 }

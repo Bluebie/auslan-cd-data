@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Outlining the shape of any flat round object, such as a dish, record or disk, or any action or any thing directly or indirectly associated with this, especially a plate.",
-  "questlex": [],
-  "idgloss": "plate.1a",
-  "oldentry": "Popular explanation: the outline of a flat circular object.",
   "english": [
     "plate",
     "disk",
@@ -33,16 +29,8 @@
     "record"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "copy.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A round or circular, flat object of some sort. English = disk, disc.",
-    "2. A round or oval flat dish that is used to hold food. English = plate.",
-    "3. A round, flat piece of black plastic on which sound, especially music, is stored. You listen to the sound by playing it on a record player. English = record."
   ],
   "signNumber": 1274,
   "recordNumber": 757,
@@ -52,5 +40,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Outlining the shape of any flat round object, such as a dish, record or disk, or any action or any thing directly or indirectly associated with this, especially a plate.",
+  "nominalLexeme": [
+    "1. A round or circular, flat object of some sort. English = disk, disc.",
+    "2. A round or oval flat dish that is used to hold food. English = plate.",
+    "3. A round, flat piece of black plastic on which sound, especially music, is stored. You listen to the sound by playing it on a record player. English = record."
+  ],
+  "idGloss": "plate.1a",
+  "oldEntry": "Popular explanation: the outline of a flat circular object."
 }

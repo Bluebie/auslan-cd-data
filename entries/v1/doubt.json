@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "doubt",
-  "oldentry": "",
   "english": [
     "doubt",
     "uncertainty",
@@ -32,18 +28,8 @@
     "uncertain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel some uncertainty about something, especially to wonder if it is true or false, good or bad, or possible or impossible. English = doubt; (be) doubtful, (be) unsure, (be) uncertain."
-  ],
   "cf": [
     "balance.1"
-  ],
-  "interj": [
-    "1. Used alone in response to a question to show your uncertainty and your desire to know more about the situation before you can give an answer. English = 'Not sure', 'It depends' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of uncertainty you have about something, especially wondering if it is true or false, good or bad, or possible or impossible. English = doubt, uncertainty."
   ],
   "signNumber": 3830,
   "recordNumber": 2276,
@@ -57,5 +43,19 @@
   ],
   "synonyms": [
     "depends"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to a question to show your uncertainty and your desire to know more about the situation before you can give an answer. English = 'Not sure', 'It depends' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel some uncertainty about something, especially to wonder if it is true or false, good or bad, or possible or impossible. English = doubt; (be) doubtful, (be) unsure, (be) uncertain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of uncertainty you have about something, especially wondering if it is true or false, good or bad, or possible or impossible. English = doubt, uncertainty."
+  ],
+  "idGloss": "doubt",
+  "oldEntry": ""
 }

@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "naive",
-  "oldentry": "Popular explanation: the runny nose of a child.",
   "english": [
     "innocent",
     "inexperienced",
@@ -28,16 +24,7 @@
     "green"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to have little experience of either a particular situation or activity, or of life in general, especially the unpleasant aspects of life. They mistakenly think that things are more simple than they really are.",
-    "They are often surprised by what is common knowledge for other. English = (be) inexperienced, (be) naive, (be) innocent. Idiomatic English = (be) wide-eyed, (be) green."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has no experience or knowledge of the more complex or unpleasant aspects of life. Literary English = innocent."
-  ],
   "signNumber": 1558.1,
   "recordNumber": 928,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to have little experience of either a particular situation or activity, or of life in general, especially the unpleasant aspects of life. They mistakenly think that things are more simple than they really are.",
+    "They are often surprised by what is common knowledge for other. English = (be) inexperienced, (be) naive, (be) innocent. Idiomatic English = (be) wide-eyed, (be) green."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has no experience or knowledge of the more complex or unpleasant aspects of life. Literary English = innocent."
+  ],
+  "idGloss": "naive",
+  "oldEntry": "Popular explanation: the runny nose of a child."
 }

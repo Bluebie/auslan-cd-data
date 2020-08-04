@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "work.1a",
-  "oldentry": "Popular explanation: a sawing or chopping action.",
   "english": [
     "work",
     "job",
@@ -37,19 +33,9 @@
     "employed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do an activity for which you get paid. English = work, (be) employed.",
-    "2. To expend effort to do something that must be done. English = work."
-  ],
   "cf": [
     "saw.1a",
     "laborious.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An activity you do for which you are paid. English = work, job, employment, occupation.",
-    "2. Something that you need to do that requires some effort. English = work, task."
   ],
   "signNumber": 4187,
   "recordNumber": 2533,
@@ -63,5 +49,19 @@
     "holiday.1",
     "play.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To do an activity for which you get paid. English = work, (be) employed.",
+    "2. To expend effort to do something that must be done. English = work."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An activity you do for which you are paid. English = work, job, employment, occupation.",
+    "2. Something that you need to do that requires some effort. English = work, task."
+  ],
+  "idGloss": "work.1a",
+  "oldEntry": "Popular explanation: a sawing or chopping action."
 }

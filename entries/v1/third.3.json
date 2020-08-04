@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "third.3",
-  "oldentry": "",
   "english": [
     "third"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "tithe",
     "quarter.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of three equal parts of an amount of something or an object. English = third."
   ],
   "signNumber": 702.1,
   "recordNumber": 404,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of three equal parts of an amount of something or an object. English = third."
+  ],
+  "idGloss": "third.3",
+  "oldEntry": ""
 }

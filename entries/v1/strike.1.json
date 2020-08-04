@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "strike.1",
-  "oldentry": "",
   "english": [
     "strike"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of workers, to stop doing their work for a period of time, usually to try to get better pay or conditions for themselves. English = strike. Idiomatic English = go on strike."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of time during which workers stop doing their work, usually to try to get better pay or conditions for themselves. English = strike."
-  ],
   "signNumber": 5772,
   "recordNumber": 3421,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of workers, to stop doing their work for a period of time, usually to try to get better pay or conditions for themselves. English = strike. Idiomatic English = go on strike."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of time during which workers stop doing their work, usually to try to get better pay or conditions for themselves. English = strike."
+  ],
+  "idGloss": "strike.1",
+  "oldEntry": ""
 }

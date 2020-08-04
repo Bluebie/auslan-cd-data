@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "and.2",
-  "oldentry": "",
   "english": [
     "and"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to link two or more words, phrases or clauses. English = and."
-  ],
-  "nomlex": [],
   "signNumber": 5530,
   "recordNumber": 3272,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to link two or more words, phrases or clauses. English = and."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "and.2",
+  "oldEntry": ""
 }

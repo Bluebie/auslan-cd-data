@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "attention.2",
-  "oldentry": "",
   "english": [
     "attention"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get the attention of all the people around you, especially by tapping them on the shoulder and getting others to do likewise, in order to talk (sign) to them."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell those people in a group of deaf people who are already looking at you to tap their neighbours on the shoulder so that everyone is looking at you and you can talk to them all at once. English = 'Can I have everyone's attention?!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3598,
   "recordNumber": 2116,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 13,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to tell those people in a group of deaf people who are already looking at you to tap their neighbours on the shoulder so that everyone is looking at you and you can talk to them all at once. English = 'Can I have everyone's attention?!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get the attention of all the people around you, especially by tapping them on the shoulder and getting others to do likewise, in order to talk (sign) to them."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "attention.2",
+  "oldEntry": ""
 }

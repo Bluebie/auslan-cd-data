@@ -15,22 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mouse.5",
-  "oldentry": "",
   "english": [
     "mouse"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "mouse.4"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very small furry animal with a long tail. English = mouse."
   ],
   "signNumber": 1999,
   "recordNumber": 1175,
@@ -44,5 +34,15 @@
     "mouse.1a",
     "mouse.2",
     "mouse.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very small furry animal with a long tail. English = mouse."
+  ],
+  "idGloss": "mouse.5",
+  "oldEntry": ""
 }

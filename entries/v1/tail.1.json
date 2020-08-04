@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tail.1",
-  "oldentry": "",
   "english": [
     "tail",
     "wag"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an animal (especially a dog), to wave its tail repeatedly from side to side (especially when it is happy). English = wag (its tail)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of the body of an animal, bird, or fish that is at the opposite end to its head. It is usually long and thin. English = tail."
-  ],
   "signNumber": 1214,
   "recordNumber": 716,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "tail.2",
     "tail.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an animal (especially a dog), to wave its tail repeatedly from side to side (especially when it is happy). English = wag (its tail)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of the body of an animal, bird, or fish that is at the opposite end to its head. It is usually long and thin. English = tail."
+  ],
+  "idGloss": "tail.1",
+  "oldEntry": ""
 }

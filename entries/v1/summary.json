@@ -18,26 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "summary",
-  "oldentry": "",
   "english": [
     "summary",
     "outline",
     "summarise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give or make a summary of something. English = summarise."
-  ],
   "cf": [
     "shrink.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A short account of something that gives the main points, but not the details. English = summary, outline."
   ],
   "signNumber": 2709,
   "recordNumber": 1507,
@@ -52,5 +40,17 @@
   ],
   "synonyms": [
     "short.of"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give or make a summary of something. English = summarise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A short account of something that gives the main points, but not the details. English = summary, outline."
+  ],
+  "idGloss": "summary",
+  "oldEntry": ""
 }

@@ -16,28 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "step.forward.1a",
-  "oldentry": "",
   "english": [
     "stand out",
     "volunteer",
     "come forward"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To step forward from a surface, to step out from a group or a crowd.",
-    "2. To be easily noticeable from the rest of its kind, especially of a person in a crowd. Idiomatic English = stand out.",
-    "3. To offer to do what is required. English = volunteer. Idiomatic English = come forward.",
-    "4. To identify yourself in a real or notional group of people, for example by stepping forward, by putting your hand up, or by letting other people know that you are the person they are looking for."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or movement that makes something, especially a person, stand out from the background or the crowd."
-  ],
   "signNumber": 1299,
   "recordNumber": 773,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   ],
   "synonyms": [
     "assertiveness"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To step forward from a surface, to step out from a group or a crowd.",
+    "2. To be easily noticeable from the rest of its kind, especially of a person in a crowd. Idiomatic English = stand out.",
+    "3. To offer to do what is required. English = volunteer. Idiomatic English = come forward.",
+    "4. To identify yourself in a real or notional group of people, for example by stepping forward, by putting your hand up, or by letting other people know that you are the person they are looking for."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or movement that makes something, especially a person, stand out from the background or the crowd."
+  ],
+  "idGloss": "step.forward.1a",
+  "oldEntry": ""
 }

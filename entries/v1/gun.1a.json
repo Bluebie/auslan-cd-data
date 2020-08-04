@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "gun.1a",
-  "oldentry": "",
   "english": [
     "gun",
     "revolver",
@@ -32,22 +28,10 @@
     "fire"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate a gun or a revolver. English = shoot, fire."
-  ],
   "cf": [
     "cowboy.1a",
     "hold.up",
     "film.5"
-  ],
-  "interj": [
-    "1. Used alone, especially in children's games such as 'Cowboys and Indians', to mean that in make-believe you have fired a gun at the 'enemy' and have killed or wounded them. English = 'Bang! You're dead!'",
-    "2. Used alone to mean that the person the sign is directed at has been caught out in some way (eg, shown to be wrong, exposed as lying, tricked into saying something silly, etc.) and is now out of the game, race or discussion. English = 'Gotcha!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A weapon consisting mainly of a metal tube from which bullets are fired. English = gun.",
-    "2. A kind of a gun that you hold in your hand. English = revolver, pistol."
   ],
   "signNumber": 5158,
   "recordNumber": 3107,
@@ -57,5 +41,21 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone, especially in children's games such as 'Cowboys and Indians', to mean that in make-believe you have fired a gun at the 'enemy' and have killed or wounded them. English = 'Bang! You're dead!'",
+    "2. Used alone to mean that the person the sign is directed at has been caught out in some way (eg, shown to be wrong, exposed as lying, tricked into saying something silly, etc.) and is now out of the game, race or discussion. English = 'Gotcha!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate a gun or a revolver. English = shoot, fire."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A weapon consisting mainly of a metal tube from which bullets are fired. English = gun.",
+    "2. A kind of a gun that you hold in your hand. English = revolver, pistol."
+  ],
+  "idGloss": "gun.1a",
+  "oldEntry": ""
 }

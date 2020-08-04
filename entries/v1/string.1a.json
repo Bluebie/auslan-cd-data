@@ -17,28 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "string.1a",
-  "oldentry": "Popular explanation: something long and thin.",
   "english": [
     "string",
     "thread",
     "wire"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "elastic.2",
     "pull.apart"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thin rope made of twisted threads. English = string",
-    "2. A long, very thin piece of cotton, silk, nylon or wool. English = thread.",
-    "3. A long, thin piece of metal, often used to fasten or connect things. English = wire.",
-    "4. A length or piece of something long and thin."
   ],
   "signNumber": 372,
   "recordNumber": 202,
@@ -50,5 +37,18 @@
   "antonyms": [],
   "synonyms": [
     "ball.of.string"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thin rope made of twisted threads. English = string",
+    "2. A long, very thin piece of cotton, silk, nylon or wool. English = thread.",
+    "3. A long, thin piece of metal, often used to fasten or connect things. English = wire.",
+    "4. A length or piece of something long and thin."
+  ],
+  "idGloss": "string.1a",
+  "oldEntry": "Popular explanation: something long and thin."
 }

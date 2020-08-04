@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "face.1a",
-  "oldentry": "Popular explanation: the outline of the face.",
   "english": [
     "face",
     "features",
@@ -29,16 +25,9 @@
     "appearance"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "hat.head.1a",
     "facing"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The front of your head from your chin to your forehead. English = face.",
-    "2. The shape of your eyes, nose, mouth and other parts of your face, particularly in terms of how beautiful or how handsome you are. English = features, looks, appearance."
   ],
   "signNumber": 547,
   "recordNumber": 312,
@@ -51,5 +40,16 @@
   "synonyms": [
     "face.2a",
     "handsome.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The front of your head from your chin to your forehead. English = face.",
+    "2. The shape of your eyes, nose, mouth and other parts of your face, particularly in terms of how beautiful or how handsome you are. English = features, looks, appearance."
+  ],
+  "idGloss": "face.1a",
+  "oldEntry": "Popular explanation: the outline of the face."
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "experienced",
-  "oldentry": "",
   "english": [
     "experience",
     "familiarity",
@@ -33,18 +29,8 @@
     "skilled"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a lot of know how and familiarity with a job or task because you have done it for a long time. English = (be) experienced, (be) familiar with.",
-    "2. To have the knowledge and ability to do something well which you acquire through training and experience. English = (be) skilled."
-  ],
   "cf": [
     "take.in.experience"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The know-how a person has at a particular job or task because they have done it for a long time. English = experience, familiarity.",
-    "2. The knowledge and ability that enables you to do something well. English = skill."
   ],
   "signNumber": 4897,
   "recordNumber": 2959,
@@ -56,5 +42,19 @@
   "antonyms": [],
   "synonyms": [
     "skill"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a lot of know how and familiarity with a job or task because you have done it for a long time. English = (be) experienced, (be) familiar with.",
+    "2. To have the knowledge and ability to do something well which you acquire through training and experience. English = (be) skilled."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The know-how a person has at a particular job or task because they have done it for a long time. English = experience, familiarity.",
+    "2. The knowledge and ability that enables you to do something well. English = skill."
+  ],
+  "idGloss": "experienced",
+  "oldEntry": ""
 }

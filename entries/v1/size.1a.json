@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "size.1a",
-  "oldentry": "Popular explanation: indicating the dimensions of something.",
   "english": [
     "size",
     "limit",
@@ -36,20 +32,7 @@
     "finite"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To set the upper boundary beyond which a amount or size of something cannot go. English = limit.",
-    "2. To limit what you can do or the amount or size of something. English = restrict.",
-    "3. To be something that has a definite boundary beyond which it does not exist or a limit beyond which it cannot increase or develop. English = (be) finite."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The measure of bigness or smallness of a container of something, usually a pre-packaged product of food you buy in a store. The products usually come in a series of graded measurements shared across products. English = size.",
-    "2. A set upper boundary beyond which a amount or size of something cannot go. English = limit.",
-    "3. An official rule that limits what you can do or that limits the amount or size of something. English = restriction.",
-    "4. A part of some larger thing. English = section."
-  ],
   "signNumber": 3669,
   "recordNumber": 2162,
   "signVisualComposition": "",
@@ -60,5 +43,22 @@
   "antonyms": [],
   "synonyms": [
     "size.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To set the upper boundary beyond which a amount or size of something cannot go. English = limit.",
+    "2. To limit what you can do or the amount or size of something. English = restrict.",
+    "3. To be something that has a definite boundary beyond which it does not exist or a limit beyond which it cannot increase or develop. English = (be) finite."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The measure of bigness or smallness of a container of something, usually a pre-packaged product of food you buy in a store. The products usually come in a series of graded measurements shared across products. English = size.",
+    "2. A set upper boundary beyond which a amount or size of something cannot go. English = limit.",
+    "3. An official rule that limits what you can do or that limits the amount or size of something. English = restriction.",
+    "4. A part of some larger thing. English = section."
+  ],
+  "idGloss": "size.1a",
+  "oldEntry": "Popular explanation: indicating the dimensions of something."
 }

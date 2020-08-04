@@ -12,23 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "period.1",
-  "oldentry": "",
   "english": [
     "period"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to two signs specifying points in time (times, days, months, years, dates) to mean between these two times. English = from X, to Y; between X and Y."
-  ],
-  "nomlex": [
-    "1. A defined or particular length of time. English = period."
-  ],
   "signNumber": 3602.1,
   "recordNumber": 2118,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "antonyms": [],
   "synonyms": [
     "between.times"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to two signs specifying points in time (times, days, months, years, dates) to mean between these two times. English = from X, to Y; between X and Y."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A defined or particular length of time. English = period."
+  ],
+  "idGloss": "period.1",
+  "oldEntry": ""
 }

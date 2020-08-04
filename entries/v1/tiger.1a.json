@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tiger.1a",
-  "oldentry": "Popular explanation: the paws of a tiger or other animal.",
   "english": [
     "tiger"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large, fierce animal that belongs to the cat family. They are orange-coloured with black stripes. English = tiger."
-  ],
   "signNumber": 5885,
   "recordNumber": 3499,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large, fierce animal that belongs to the cat family. They are orange-coloured with black stripes. English = tiger."
+  ],
+  "idGloss": "tiger.1a",
+  "oldEntry": "Popular explanation: the paws of a tiger or other animal."
 }

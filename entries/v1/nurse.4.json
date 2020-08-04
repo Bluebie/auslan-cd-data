@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nurse.4",
-  "oldentry": "",
   "english": [
     "nurse"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person whose job is to care for people who are ill. English = nurse."
-  ],
   "signNumber": 3116,
   "recordNumber": 1798,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
     "nurse.1",
     "nurse.2",
     "nurse.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person whose job is to care for people who are ill. English = nurse."
+  ],
+  "idGloss": "nurse.4",
+  "oldEntry": ""
 }

@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hearing-impaired",
-  "oldentry": "",
   "english": [
     "hearing-impaired"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unable to hear sounds fully or accurately, especially the sounds of speech. English = (be) hearing-impaired."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is unable to hear sounds fully or accurately, especially the sounds of speech. English = hearing-impaired.",
-    "2. A person who is unable to hear sounds fully or accurately, especially the sounds of speech, and who does not identify with the Deaf community."
-  ],
   "signNumber": 1198,
   "recordNumber": 703,
   "signVisualComposition": "",
@@ -38,5 +25,18 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unable to hear sounds fully or accurately, especially the sounds of speech. English = (be) hearing-impaired."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is unable to hear sounds fully or accurately, especially the sounds of speech. English = hearing-impaired.",
+    "2. A person who is unable to hear sounds fully or accurately, especially the sounds of speech, and who does not identify with the Deaf community."
+  ],
+  "idGloss": "hearing-impaired",
+  "oldEntry": ""
 }

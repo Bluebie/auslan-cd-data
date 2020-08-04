@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "regret.1a",
-  "oldentry": "",
   "english": [
     "regret",
     "sorry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wish that you had not done something. English = (be) sorry, regret."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express the feeling you have when you wish that you had not done something. English = 'I'm sorry', 'How could I have done that?'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of wishing that you had not done something. English = regret."
-  ],
   "signNumber": 2588,
   "recordNumber": 1430,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
     "sorry.2a",
     "sorry.3",
     "stupid.3"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express the feeling you have when you wish that you had not done something. English = 'I'm sorry', 'How could I have done that?'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wish that you had not done something. English = (be) sorry, regret."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of wishing that you had not done something. English = regret."
+  ],
+  "idGloss": "regret.1a",
+  "oldEntry": ""
 }

@@ -31,10 +31,6 @@
   "sense": "",
   "blend": "TASTE + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dislike.2",
-  "oldentry": "",
   "english": [
     "dislike",
     "distaste",
@@ -48,21 +44,7 @@
     "hate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To think that someone or something is unpleasant; to not like someone or something, especially types of food. English = dislike.",
-    "2. To dislike something very much, especially types of food. English = detest, loathe, hate.",
-    "3. To avoid something unpleasant.",
-    "4. To push food you find distasteful away from your mouth or to simply avoid such food."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling of not liking something and thinking it is unpleasant, especially types of food. English = dislike, distaste.",
-    "2. The strong feeling of not liking something and thinking it is unpleasant, particularly types of food. English = detestation, loathing, hatred.",
-    "3. The avoiding of something very unpleasant; or the rejection of food you find unpleasant. English = aversion.",
-    "4. The things that you do not like, especially types of food. English = dislikes."
-  ],
   "signNumber": 614,
   "recordNumber": 354,
   "signVisualComposition": "",
@@ -77,5 +59,23 @@
   ],
   "synonyms": [
     "dislike.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To think that someone or something is unpleasant; to not like someone or something, especially types of food. English = dislike.",
+    "2. To dislike something very much, especially types of food. English = detest, loathe, hate.",
+    "3. To avoid something unpleasant.",
+    "4. To push food you find distasteful away from your mouth or to simply avoid such food."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling of not liking something and thinking it is unpleasant, especially types of food. English = dislike, distaste.",
+    "2. The strong feeling of not liking something and thinking it is unpleasant, particularly types of food. English = detestation, loathing, hatred.",
+    "3. The avoiding of something very unpleasant; or the rejection of food you find unpleasant. English = aversion.",
+    "4. The things that you do not like, especially types of food. English = dislikes."
+  ],
+  "idGloss": "dislike.2",
+  "oldEntry": ""
 }

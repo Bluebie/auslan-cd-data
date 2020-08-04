@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trinity",
-  "oldentry": "",
   "english": [
     "trinity"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In the Christian religion, the union of the Father, Son, and Holy Spirit in one God. English = trinity."
-  ],
   "signNumber": 2279,
   "recordNumber": 1287,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "God.1a",
     "God.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In the Christian religion, the union of the Father, Son, and Holy Spirit in one God. English = trinity."
+  ],
+  "idGloss": "trinity",
+  "oldEntry": ""
 }

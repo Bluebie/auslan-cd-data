@@ -12,21 +12,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brainy",
-  "oldentry": "",
   "english": [
     "brainy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very clever and good at learning. English = (be) brainy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4467,
   "recordNumber": 2715,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   ],
   "synonyms": [
     "clever.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be very clever and good at learning. English = (be) brainy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "brainy",
+  "oldEntry": ""
 }

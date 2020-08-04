@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stupid.3",
-  "oldentry": "",
   "english": [
     "stupid",
     "regret",
@@ -33,19 +29,7 @@
     "foolish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wish that you had not done something. English = (be) sorry, regret.",
-    "2. To show a lack of good judgement or intelligence and to be not at all sensible. English = (be) stupid, (be) foolish."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express regret and exasperation with oneself for having done something which was foolish. English = 'Oh! Stupid me!', 'How could I be so stupid!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of wishing that you had not done something. English = regret.",
-    "2. Behaviour which is not at all sensible. English = stupidity, foolishness."
-  ],
   "signNumber": 5863,
   "recordNumber": 3488,
   "signVisualComposition": "",
@@ -57,5 +41,21 @@
   "synonyms": [
     "regret.1a",
     "damn.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express regret and exasperation with oneself for having done something which was foolish. English = 'Oh! Stupid me!', 'How could I be so stupid!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wish that you had not done something. English = (be) sorry, regret.",
+    "2. To show a lack of good judgement or intelligence and to be not at all sensible. English = (be) stupid, (be) foolish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of wishing that you had not done something. English = regret.",
+    "2. Behaviour which is not at all sensible. English = stupidity, foolishness."
+  ],
+  "idGloss": "stupid.3",
+  "oldEntry": ""
 }

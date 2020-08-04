@@ -15,25 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blame.1a",
-  "oldentry": "",
   "english": [
     "blame",
     "accusation",
     "accuse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say that someone is responsible for something bad happening. English = blame, accuse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The claim that someone is responsible for something bad happening. English = blame, accusation."
-  ],
   "signNumber": 3985,
   "recordNumber": 2385,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "antonyms": [],
   "synonyms": [
     "object"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say that someone is responsible for something bad happening. English = blame, accuse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The claim that someone is responsible for something bad happening. English = blame, accusation."
+  ],
+  "idGloss": "blame.1a",
+  "oldEntry": ""
 }

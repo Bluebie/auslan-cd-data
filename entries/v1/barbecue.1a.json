@@ -19,28 +19,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "barbecue.1a",
-  "oldentry": "",
   "english": [
     "barbecue",
     "fry",
     "grill"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cook food on a barbecue. English = barbecue.",
-    "2. To cook food in a pan that contains hot fat or oil. English = fry.",
-    "3. To cook something using strong heat directly above or below it. English = grill.",
-    "4. To turn something over repeatedly."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A grill that you use to cook food outdoors; an outdoor party at which people eat food cooked on an outdoor grill. English = barbecue."
-  ],
   "signNumber": 4265,
   "recordNumber": 2588,
   "signVisualComposition": "",
@@ -51,5 +36,20 @@
   "antonyms": [],
   "synonyms": [
     "cook.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cook food on a barbecue. English = barbecue.",
+    "2. To cook food in a pan that contains hot fat or oil. English = fry.",
+    "3. To cook something using strong heat directly above or below it. English = grill.",
+    "4. To turn something over repeatedly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A grill that you use to cook food outdoors; an outdoor party at which people eat food cooked on an outdoor grill. English = barbecue."
+  ],
+  "idGloss": "barbecue.1a",
+  "oldEntry": ""
 }

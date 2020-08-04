@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "danger.2",
-  "oldentry": "",
   "english": [
     "danger",
     "dangerous",
@@ -33,22 +29,7 @@
     "extremely"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able or likely to hurt or harm you. English = (be) dangerous.",
-    "2. To be very unpleasant or shocking. English = (be) horrendous."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express amazement and disbelief at what someone has said or done. English = 'Wow!', 'Unbelievable!', and so on.",
-    "2. Used alone to express amazement and disbelief at what someone has said or done because it goes beyond acceptable standards for the situation. You may admire the bravado or wince at the stupidity of it.",
-    "3. Used alone to confirm or reinforce some aspect of what your partner is saying. English = 'Very much so!', 'Extremely!'."
-  ],
-  "partlex": [
-    "1. Used immediately next to an adjective to intensify its meaning. English = very, extremely."
-  ],
-  "nomlex": [
-    "1. The possibility that someone may be harmed or killed. English = danger."
-  ],
   "signNumber": 2915,
   "recordNumber": 1652,
   "signVisualComposition": "",
@@ -59,5 +40,24 @@
   "antonyms": [],
   "synonyms": [
     "wow"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express amazement and disbelief at what someone has said or done. English = 'Wow!', 'Unbelievable!', and so on.",
+    "2. Used alone to express amazement and disbelief at what someone has said or done because it goes beyond acceptable standards for the situation. You may admire the bravado or wince at the stupidity of it.",
+    "3. Used alone to confirm or reinforce some aspect of what your partner is saying. English = 'Very much so!', 'Extremely!'."
+  ],
+  "particleLexeme": [
+    "1. Used immediately next to an adjective to intensify its meaning. English = very, extremely."
+  ],
+  "verbLexeme": [
+    "1. To be able or likely to hurt or harm you. English = (be) dangerous.",
+    "2. To be very unpleasant or shocking. English = (be) horrendous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The possibility that someone may be harmed or killed. English = danger."
+  ],
+  "idGloss": "danger.2",
+  "oldEntry": ""
 }

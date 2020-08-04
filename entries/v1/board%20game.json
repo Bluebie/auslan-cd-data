@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "board game",
-  "oldentry": "",
   "english": [
     "board game",
     "game",
@@ -27,17 +23,7 @@
     "checkers"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In a board game, to move pieces around on a board."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game such as chess, draughts, or snakes and ladders, which people play by moving small objects around on a board. English = board game.",
-    "2. A game for two people, played on a chess board. Each player has 16 pieces, including a king. The aim is to move your pieces so that your opponent's king cannot escape being taken. English = chess.",
-    "3. A game for two people, played with round pieces on a board. English = draughts. American English = checkers."
-  ],
   "signNumber": 2560,
   "recordNumber": 1414,
   "signVisualComposition": "",
@@ -46,5 +32,19 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In a board game, to move pieces around on a board."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game such as chess, draughts, or snakes and ladders, which people play by moving small objects around on a board. English = board game.",
+    "2. A game for two people, played on a chess board. Each player has 16 pieces, including a king. The aim is to move your pieces so that your opponent's king cannot escape being taken. English = chess.",
+    "3. A game for two people, played with round pieces on a board. English = draughts. American English = checkers."
+  ],
+  "idGloss": "board game",
+  "oldEntry": ""
 }

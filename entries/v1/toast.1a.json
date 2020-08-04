@@ -14,26 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "toast.1a",
-  "oldentry": "Popular explanation: placing a fork in both sides of a slice of bread in order to toast it.",
   "english": [
     "toast",
     "toaster"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cook bread at a very high temperature so that it becomes brown and crisp. English = toast."
-  ],
   "cf": [
     "fork.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Bread which has been cut into slices and made brown and crisp by cooking at a high temperature. English = toast.",
-    "2. A piece of electrical equipment which you use to toast bread. English = toaster."
   ],
   "signNumber": 2286,
   "recordNumber": 1291,
@@ -43,5 +30,18 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cook bread at a very high temperature so that it becomes brown and crisp. English = toast."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Bread which has been cut into slices and made brown and crisp by cooking at a high temperature. English = toast.",
+    "2. A piece of electrical equipment which you use to toast bread. English = toaster."
+  ],
+  "idGloss": "toast.1a",
+  "oldEntry": "Popular explanation: placing a fork in both sides of a slice of bread in order to toast it."
 }

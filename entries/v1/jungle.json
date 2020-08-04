@@ -13,22 +13,12 @@
   "sense": "",
   "blend": "FOREST + J",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "jungle",
-  "oldentry": "",
   "english": [
     "jungle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "forest.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A forest in a hot country where tall trees and other plants grow very closely together. English = jungle."
   ],
   "signNumber": 5041,
   "recordNumber": 3041,
@@ -38,5 +28,15 @@
   "primaryLocation": 14,
   "secondLocation": 20,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A forest in a hot country where tall trees and other plants grow very closely together. English = jungle."
+  ],
+  "idGloss": "jungle",
+  "oldEntry": ""
 }

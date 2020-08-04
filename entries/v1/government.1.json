@@ -13,22 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "government.1",
-  "oldentry": "Popular explanation: the epaulettes of a military uniform.",
   "english": [
     "government"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The group of people who are responsible for governing a country or state. English = government.",
-    "2. The departments, ministries, and committees that carry out the decisions of the political leaders of a country. English = government."
-  ],
   "signNumber": 2943,
   "recordNumber": 1673,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "synonyms": [
     "government.2a",
     "government.3a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The group of people who are responsible for governing a country or state. English = government.",
+    "2. The departments, ministries, and committees that carry out the decisions of the political leaders of a country. English = government."
+  ],
+  "idGloss": "government.1",
+  "oldEntry": "Popular explanation: the epaulettes of a military uniform."
 }

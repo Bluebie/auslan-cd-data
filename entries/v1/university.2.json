@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "university.2",
-  "oldentry": "",
   "english": [
     "university",
     "examination",
@@ -37,19 +33,7 @@
     "study"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To undergo a formal test that you take to show your knowledge or ability in a particular subject. English = (be) examined.",
-    "2. To formally test someone to assess their knowledge or ability in a particular subject. English = examine.",
-    "3. To spend time learning about a particular study, especially at a university by attending lectures or reading books carefully. English = study."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An institution where students study for degrees and where academic research is done. English = university.",
-    "2. A formal test that you take to show your knowledge or ability in a particular subject. English = examination.",
-    "3. Formal learning you do at a university about a particular subject. English = studies."
-  ],
   "signNumber": 2797,
   "recordNumber": 1566,
   "signVisualComposition": "",
@@ -61,5 +45,21 @@
   "synonyms": [
     "university.1",
     "check.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To undergo a formal test that you take to show your knowledge or ability in a particular subject. English = (be) examined.",
+    "2. To formally test someone to assess their knowledge or ability in a particular subject. English = examine.",
+    "3. To spend time learning about a particular study, especially at a university by attending lectures or reading books carefully. English = study."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An institution where students study for degrees and where academic research is done. English = university.",
+    "2. A formal test that you take to show your knowledge or ability in a particular subject. English = examination.",
+    "3. Formal learning you do at a university about a particular subject. English = studies."
+  ],
+  "idGloss": "university.2",
+  "oldEntry": ""
 }

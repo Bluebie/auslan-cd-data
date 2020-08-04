@@ -13,22 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "free.3a",
-  "oldentry": "",
   "english": [
     "free",
     "gratis"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be without cost or charge. English = (be) free, (be) gratis."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2655,
   "recordNumber": 1472,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 13,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be without cost or charge. English = (be) free, (be) gratis."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "free.3a",
+  "oldEntry": ""
 }

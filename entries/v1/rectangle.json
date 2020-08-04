@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rectangle",
-  "oldentry": "Popular explanation: the outline of a rectangle.",
   "english": [
     "rectangle",
     "rectangular"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the shape of a rectangle. English = (be) rectangular."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A four-sided shape whose angles are all right angles. Each side of the shape is the same length as the one opposite. It is like a square but the sides are longer in one direction. English = rectangle."
-  ],
   "signNumber": 744,
   "recordNumber": 429,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "picture.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the shape of a rectangle. English = (be) rectangular."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A four-sided shape whose angles are all right angles. Each side of the shape is the same length as the one opposite. It is like a square but the sides are longer in one direction. English = rectangle."
+  ],
+  "idGloss": "rectangle",
+  "oldEntry": "Popular explanation: the outline of a rectangle."
 }

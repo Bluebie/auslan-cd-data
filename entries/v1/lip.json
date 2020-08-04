@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lip",
-  "oldentry": "",
   "english": [
     "lip"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The top and bottom edges of your mouth. English = lip, lips."
-  ],
   "signNumber": 616,
   "recordNumber": 355,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The top and bottom edges of your mouth. English = lip, lips."
+  ],
+  "idGloss": "lip",
+  "oldEntry": ""
 }

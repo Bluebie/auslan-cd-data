@@ -13,21 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "petrol.4",
-  "oldentry": "",
   "english": [
     "petrol"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A liquid which is used as a fuel for motor vehicles. English = petrol."
-  ],
   "signNumber": 637,
   "recordNumber": 371,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
     "petrol.1a",
     "petrol.2",
     "petrol.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A liquid which is used as a fuel for motor vehicles. English = petrol."
+  ],
+  "idGloss": "petrol.4",
+  "oldEntry": ""
 }

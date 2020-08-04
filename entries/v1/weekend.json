@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "weekend",
-  "oldentry": "",
   "english": [
     "weekend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To spend the weekend somewhere. English = weekend."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of two days that includes Saturday and Sunday, when most people do not work. English = weekend."
-  ],
   "signNumber": 2632,
   "recordNumber": 1461,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To spend the weekend somewhere. English = weekend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of two days that includes Saturday and Sunday, when most people do not work. English = weekend."
+  ],
+  "idGloss": "weekend",
+  "oldEntry": ""
 }

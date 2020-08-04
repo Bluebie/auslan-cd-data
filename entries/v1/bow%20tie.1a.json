@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bow tie.1a",
-  "oldentry": "Popular explanation: the shape of a bow.",
   "english": [
     "bow tie",
     "formal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear a bow tie.",
-    "2. Of an occasion, for example a dinner or a dance, at which people wear smart clothes. English = (be) formal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A man's tie in the form of a bow, worn especially for formal occasions. English = bow tie.",
-    "2. An occasion at which people wear smart clothes and behave carefully rather than in a casual way. English = formal."
-  ],
   "signNumber": 1778,
   "recordNumber": 1072,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear a bow tie.",
+    "2. Of an occasion, for example a dinner or a dance, at which people wear smart clothes. English = (be) formal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A man's tie in the form of a bow, worn especially for formal occasions. English = bow tie.",
+    "2. An occasion at which people wear smart clothes and behave carefully rather than in a casual way. English = formal."
+  ],
+  "idGloss": "bow tie.1a",
+  "oldEntry": "Popular explanation: the shape of a bow."
 }

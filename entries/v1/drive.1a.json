@@ -20,28 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drive.1a",
-  "oldentry": "Popular explanation: holding the steering wheel which moves forwards.",
   "english": [
     "driving",
     "drive",
     "driver"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate and control a vehicle so that it goes where you want it to go. English = drive, drive to.",
-    "2. To take someone somewhere in a car. English = drive."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of operating and controlling a vehicle so that it goes where you want it to go. English = driving.",
-    "2. A journey in a vehicle such as a car. English = drive.",
-    "3. Someone who drives a motor vehicle. English = driver."
-  ],
   "signNumber": 5848,
   "recordNumber": 3480,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate and control a vehicle so that it goes where you want it to go. English = drive, drive to.",
+    "2. To take someone somewhere in a car. English = drive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of operating and controlling a vehicle so that it goes where you want it to go. English = driving.",
+    "2. A journey in a vehicle such as a car. English = drive.",
+    "3. Someone who drives a motor vehicle. English = driver."
+  ],
+  "idGloss": "drive.1a",
+  "oldEntry": "Popular explanation: holding the steering wheel which moves forwards."
 }

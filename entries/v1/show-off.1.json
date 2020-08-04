@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "show-off.1",
-  "oldentry": "",
   "english": [
     "show-off",
     "show off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To behave in a way that makes your skills or good qualities very obvious in order to impress people. English = show off."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who behaves in a way that makes their skills or good qualities very obvious in order to impress people. English = show-off."
-  ],
   "signNumber": 6282,
   "recordNumber": 3755,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "show-off.2",
     "show-off.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To behave in a way that makes your skills or good qualities very obvious in order to impress people. English = show off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who behaves in a way that makes their skills or good qualities very obvious in order to impress people. English = show-off."
+  ],
+  "idGloss": "show-off.1",
+  "oldEntry": ""
 }

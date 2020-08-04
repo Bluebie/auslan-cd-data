@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "member.3",
-  "oldentry": "",
   "english": [
     "member"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who has joined an organisation. English = member."
-  ],
   "signNumber": 6090,
   "recordNumber": 3623,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "synonyms": [
     "member.1a",
     "member.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who has joined an organisation. English = member."
+  ],
+  "idGloss": "member.3",
+  "oldEntry": ""
 }

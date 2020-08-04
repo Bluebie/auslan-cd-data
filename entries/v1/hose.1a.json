@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hose.1a",
-  "oldentry": "Popular explanation: watering the garden using a hose.",
   "english": [
     "hose",
     "watering",
@@ -29,19 +25,8 @@
     "water"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a hose to wash something or spread water all over it, especially a garden. English = hose.",
-    "2. To clean a surface, such as a path, using a hose. English = hose down.",
-    "3. To use a hose to spread water all over a garden or lawn. English = hose, water, water the garden."
-  ],
   "cf": [
     "torch.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long, flexible pipe made of rubber or plastic, along which water is carried. English = hose.",
-    "2. The action of using a hose to spread water all over a garden or lawn. English = watering, hosing."
   ],
   "signNumber": 6112,
   "recordNumber": 3638,
@@ -51,5 +36,20 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a hose to wash something or spread water all over it, especially a garden. English = hose.",
+    "2. To clean a surface, such as a path, using a hose. English = hose down.",
+    "3. To use a hose to spread water all over a garden or lawn. English = hose, water, water the garden."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long, flexible pipe made of rubber or plastic, along which water is carried. English = hose.",
+    "2. The action of using a hose to spread water all over a garden or lawn. English = watering, hosing."
+  ],
+  "idGloss": "hose.1a",
+  "oldEntry": "Popular explanation: watering the garden using a hose."
 }

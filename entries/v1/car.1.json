@@ -14,23 +14,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "car.1",
-  "oldentry": "",
   "english": [
     "car",
     "automobile"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "drive.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A motor vehicle with room for a small number of passengers. English = car. American English = automobile."
   ],
   "signNumber": 5820,
   "recordNumber": 3456,
@@ -40,5 +30,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A motor vehicle with room for a small number of passengers. English = car. American English = automobile."
+  ],
+  "idGloss": "car.1",
+  "oldEntry": ""
 }

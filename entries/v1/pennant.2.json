@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pennant.2",
-  "oldentry": "",
   "english": [
     "pennant"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "flag"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A long narrow flag, usually triangular in shape, especially one used by ships as a signal. English = pennant."
   ],
   "signNumber": 5251,
   "recordNumber": 3153,
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "pennant.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A long narrow flag, usually triangular in shape, especially one used by ships as a signal. English = pennant."
+  ],
+  "idGloss": "pennant.2",
+  "oldEntry": ""
 }

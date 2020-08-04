@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of pushing something down through a cylinder or any thing or action directly or indirectly associated with this, particularly a coffee plunger.",
-  "questlex": [],
-  "idgloss": "plunger",
-  "oldentry": "Popular explanation: pushing down on a coffee plunger.",
   "english": [
     "plunger",
     "coffee plunger"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Coffee-making device in which infused ground coffee is pushed downwards in a plunger. English = coffee plunger."
-  ],
   "signNumber": 6054,
   "recordNumber": 3603,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of pushing something down through a cylinder or any thing or action directly or indirectly associated with this, particularly a coffee plunger.",
+  "nominalLexeme": [
+    "1. Coffee-making device in which infused ground coffee is pushed downwards in a plunger. English = coffee plunger."
+  ],
+  "idGloss": "plunger",
+  "oldEntry": "Popular explanation: pushing down on a coffee plunger."
 }

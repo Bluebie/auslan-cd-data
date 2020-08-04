@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "negative",
-  "oldentry": "Popular explanation: the negative symbol.",
   "english": [
     "negative",
     "disadvantageous"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be something that gives or suggests the answer 'no'. English = (be) negative.",
-    "2. To consider only the disadvantages and bad aspects of a situation, rather than the advantages and good aspects. English = (be) negative.",
-    "3. To put you in a worse position that other people, or to be likely to worsen a situation. English = (be) disadvantageous."
-  ],
   "cf": [
     "minus.sign"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1283,
   "recordNumber": 762,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   "antonyms": [
     "positive.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be something that gives or suggests the answer 'no'. English = (be) negative.",
+    "2. To consider only the disadvantages and bad aspects of a situation, rather than the advantages and good aspects. English = (be) negative.",
+    "3. To put you in a worse position that other people, or to be likely to worsen a situation. English = (be) disadvantageous."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "negative",
+  "oldEntry": "Popular explanation: the negative symbol."
 }

@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shame",
-  "oldentry": "",
   "english": [
     "shame",
     "outrage",
@@ -46,24 +42,9 @@
     "rude"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be deserving of shame because it is embarrassing, obscene or outrageous. English = (be) shameful.",
-    "2. To make you feel angry and sick because it is so bad, obscene or outrageous. English = (be) disgusting, (be) revolting.",
-    "3. Words, signs, or behaviour that are likely to embarrass and offend people, because they relate to sex or other bodily functions. English = (be) rude."
-  ],
   "cf": [
     "bad.luck",
     "rude.1a"
-  ],
-  "interj": [
-    "1. Used alone to mean you wish a situation hadn't happened because it is bad luck or brings pain, suffering or embarrassment to someone. English = 'It's a shame!', 'What a shame!', 'What bad luck!', and so on.",
-    "2. Used alone to mean you find that something said or done is so bad or obscene that you dislike it intensely and feel that the person responsible ought to be ashamed. English = 'Shame on you!', 'How disgusting!', 'You ought to be ashamed of yourself!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation which is unfortunate and which you wish hadn't happened. English = shame.",
-    "2. A situation (picture, action, language) which is bad or obscene. English = outrage, obscenity.",
-    "3. A feeling of anger you have when you reject something as outrageous or obscene. English = disgust, revulsion."
   ],
   "signNumber": 2440,
   "recordNumber": 1353,
@@ -76,5 +57,24 @@
   "synonyms": [
     "ashamed.1a",
     "awful.3"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you wish a situation hadn't happened because it is bad luck or brings pain, suffering or embarrassment to someone. English = 'It's a shame!', 'What a shame!', 'What bad luck!', and so on.",
+    "2. Used alone to mean you find that something said or done is so bad or obscene that you dislike it intensely and feel that the person responsible ought to be ashamed. English = 'Shame on you!', 'How disgusting!', 'You ought to be ashamed of yourself!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be deserving of shame because it is embarrassing, obscene or outrageous. English = (be) shameful.",
+    "2. To make you feel angry and sick because it is so bad, obscene or outrageous. English = (be) disgusting, (be) revolting.",
+    "3. Words, signs, or behaviour that are likely to embarrass and offend people, because they relate to sex or other bodily functions. English = (be) rude."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation which is unfortunate and which you wish hadn't happened. English = shame.",
+    "2. A situation (picture, action, language) which is bad or obscene. English = outrage, obscenity.",
+    "3. A feeling of anger you have when you reject something as outrageous or obscene. English = disgust, revulsion."
+  ],
+  "idGloss": "shame",
+  "oldEntry": ""
 }

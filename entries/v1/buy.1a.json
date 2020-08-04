@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "buy.1a",
-  "oldentry": "",
   "english": [
     "purchase",
     "buyer",
@@ -28,17 +24,8 @@
     "buy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To obtain something by paying money for it. English = buy. Formal English = purchase."
-  ],
   "cf": [
     "shop.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something you have obtained by paying money for it. English = purchase.",
-    "2. A person who buys things, usually for other people. English = buyer, purchaser."
   ],
   "signNumber": 4927,
   "recordNumber": 2979,
@@ -48,5 +35,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To obtain something by paying money for it. English = buy. Formal English = purchase."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something you have obtained by paying money for it. English = purchase.",
+    "2. A person who buys things, usually for other people. English = buyer, purchaser."
+  ],
+  "idGloss": "buy.1a",
+  "oldEntry": ""
 }

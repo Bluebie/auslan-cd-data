@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bankrupt",
-  "oldentry": "",
   "english": [
     "bankruptcy",
     "bankrupt",
@@ -39,21 +35,7 @@
     "lose"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people or businesses, to not have enough money to pay for your debts. English = (be) bankrupt.",
-    "2. Of people or businesses, to fail financially and become unable to pay your debts. English = go bankrupt.",
-    "3. To not succeed at doing something you were trying to do. English = fail.",
-    "4. In business or finances, to earn or make less money from doing or selling something than it cost you to do it or buy it in the first place. English = lose."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The failure of a person or a business to pay their debts. English = bankruptcy.",
-    "2. A person who has failed in business and is unable to pay their debts. English = bankrupt.",
-    "3. A lack of success in doing or achieving something; a person who has not succeeded at something or anything. English = failure.",
-    "4. In business or finances, a situation in which you earn or makes less money than you spend on various activities. English = loss."
-  ],
   "signNumber": 883,
   "recordNumber": 506,
   "signVisualComposition": "",
@@ -68,5 +50,23 @@
   ],
   "synonyms": [
     "fail.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people or businesses, to not have enough money to pay for your debts. English = (be) bankrupt.",
+    "2. Of people or businesses, to fail financially and become unable to pay your debts. English = go bankrupt.",
+    "3. To not succeed at doing something you were trying to do. English = fail.",
+    "4. In business or finances, to earn or make less money from doing or selling something than it cost you to do it or buy it in the first place. English = lose."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The failure of a person or a business to pay their debts. English = bankruptcy.",
+    "2. A person who has failed in business and is unable to pay their debts. English = bankrupt.",
+    "3. A lack of success in doing or achieving something; a person who has not succeeded at something or anything. English = failure.",
+    "4. In business or finances, a situation in which you earn or makes less money than you spend on various activities. English = loss."
+  ],
+  "idGloss": "bankrupt",
+  "oldEntry": ""
 }

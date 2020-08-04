@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kiss.1",
-  "oldentry": "",
   "english": [
     "kiss"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To touch someone with your lips to show affection or to greet them. English = kiss."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of touching someone with your lips to show affection or to greet them. English = kiss."
-  ],
   "signNumber": 2007,
   "recordNumber": 1178,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "kiss.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To touch someone with your lips to show affection or to greet them. English = kiss."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of touching someone with your lips to show affection or to greet them. English = kiss."
+  ],
+  "idGloss": "kiss.1",
+  "oldEntry": ""
 }

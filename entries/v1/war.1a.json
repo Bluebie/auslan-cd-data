@@ -17,29 +17,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "war.1a",
-  "oldentry": "",
   "english": [
     "war",
     "battle",
     "at war"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two countries, to fight each other. English = fight a war, war, (be) at war.",
-    "2. To fight a battle between groups of ships or planes. English = battle."
-  ],
   "cf": [
     "fight.1a",
     "fight.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A period of fighting between countries or states. English = war.",
-    "2. A fight between armies or between groups of ships or planes. English = battle."
   ],
   "signNumber": 2631,
   "recordNumber": 1460,
@@ -52,5 +38,19 @@
     "peace",
     "quiet.2a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two countries, to fight each other. English = fight a war, war, (be) at war.",
+    "2. To fight a battle between groups of ships or planes. English = battle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of fighting between countries or states. English = war.",
+    "2. A fight between armies or between groups of ships or planes. English = battle."
+  ],
+  "idGloss": "war.1a",
+  "oldEntry": ""
 }

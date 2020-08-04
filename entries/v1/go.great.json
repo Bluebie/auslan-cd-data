@@ -11,23 +11,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "go.great",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. Of situations and events, for things to go or turn out very well.",
-    "2. Of two people, to meet and get on very well."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone (with a questioning facial expression) to ask someone how they are or how things have been going. English = 'How are things going?', 'How have you been?', and so on.",
-    "2. Used alone in response to a question or greeting to mean that everything is fine or that you have experienced no problems."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4840,
   "recordNumber": 2924,
   "signVisualComposition": "",
@@ -36,5 +22,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone (with a questioning facial expression) to ask someone how they are or how things have been going. English = 'How are things going?', 'How have you been?', and so on.",
+    "2. Used alone in response to a question or greeting to mean that everything is fine or that you have experienced no problems."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of situations and events, for things to go or turn out very well.",
+    "2. Of two people, to meet and get on very well."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "go.great",
+  "oldEntry": ""
 }

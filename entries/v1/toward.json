@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "Directions and locations in Auslan are often not described by a separate sign but are instead incorporated into the movement and location of other signs in a phrase.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "toward",
-  "oldentry": "Popular explanation: moving towards a point.",
   "english": [
     "toward",
     "towards"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "point.2"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the movement of something is in the direction that brings it closer and closer to something else. English = toward, towards."
-  ],
-  "nomlex": [],
   "signNumber": 957,
   "recordNumber": 552,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the movement of something is in the direction that brings it closer and closer to something else. English = toward, towards."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "toward",
+  "oldEntry": "Popular explanation: moving towards a point."
 }

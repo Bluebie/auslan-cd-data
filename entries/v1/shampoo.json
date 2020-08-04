@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shampoo",
-  "oldentry": "Popular explanation: washing one's hair.",
   "english": [
     "shampoo"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wash your hair.",
-    "2. To wash your hair with shampoo. English = shampoo."
-  ],
   "cf": [
     "wash.hands"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of washing your hair.",
-    "2. A soapy liquid you use for washing your hair. English = shampoo."
   ],
   "signNumber": 2986,
   "recordNumber": 1697,
@@ -44,5 +30,19 @@
   "primaryLocation": 1,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wash your hair.",
+    "2. To wash your hair with shampoo. English = shampoo."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of washing your hair.",
+    "2. A soapy liquid you use for washing your hair. English = shampoo."
+  ],
+  "idGloss": "shampoo",
+  "oldEntry": "Popular explanation: washing one's hair."
 }

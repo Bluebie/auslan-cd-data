@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "soccer.1",
-  "oldentry": "Popular explanation: bouncing a ball-like object off the head.",
   "english": [
     "soccer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bounce the ball off your head in a game of soccer."
-  ],
   "cf": [
     "bounce.1a",
     "football.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A football game in which two teams of eleven players try to get the ball into their opponents' goal. Only the goalkeepers are allowed to touch the ball with their hands when the ball is on the pitch. English = soccer."
   ],
   "signNumber": 5569,
   "recordNumber": 3294,
@@ -41,5 +29,17 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bounce the ball off your head in a game of soccer."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A football game in which two teams of eleven players try to get the ball into their opponents' goal. Only the goalkeepers are allowed to touch the ball with their hands when the ball is on the pitch. English = soccer."
+  ],
+  "idGloss": "soccer.1",
+  "oldEntry": "Popular explanation: bouncing a ball-like object off the head."
 }

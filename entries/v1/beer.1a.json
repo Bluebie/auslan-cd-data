@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "beer.1a",
-  "oldentry": "Popular explanation: holding a beer stein to the lips.",
   "english": [
     "beer",
     "booze",
@@ -31,18 +27,10 @@
     "hotel"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "wine.1",
     "whisky",
     "champagne"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A bitter alcoholic drink made from grain. English = beer.",
-    "2. Alcoholic drinks of any sort. English = booze.",
-    "3. A building where people can have drinks, especially alcoholic drinks, and talk to their friends. English = pub, hotel."
   ],
   "signNumber": 4737,
   "recordNumber": 2862,
@@ -56,5 +44,17 @@
   ],
   "synonyms": [
     "accommodation.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A bitter alcoholic drink made from grain. English = beer.",
+    "2. Alcoholic drinks of any sort. English = booze.",
+    "3. A building where people can have drinks, especially alcoholic drinks, and talk to their friends. English = pub, hotel."
+  ],
+  "idGloss": "beer.1a",
+  "oldEntry": "Popular explanation: holding a beer stein to the lips."
 }

@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "telecommunications",
-  "oldentry": "",
   "english": [
     "telecommunications"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "communicate.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The science and activity of sending signals and messages over long distances using electronic equipment, particularly telephones. English = telecommunications."
   ],
   "signNumber": 6623,
   "recordNumber": 3941,
@@ -37,5 +27,15 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The science and activity of sending signals and messages over long distances using electronic equipment, particularly telephones. English = telecommunications."
+  ],
+  "idGloss": "telecommunications",
+  "oldEntry": ""
 }

@@ -19,29 +19,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sentence.1a",
-  "oldentry": "",
   "english": [
     "sentence",
     "long-winded",
     "wordy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use or be made up of too many words, especially long, difficult or formal words. English = (be) long-winded, (be) wordy."
-  ],
   "cf": [
     "swear.1a",
     "write.report",
     "line.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line of writing, a line of words, a line of text.",
-    "2. A group of words which, when they are written down, begin with a capital letter and end with a full stop. English = sentence."
   ],
   "signNumber": 1260,
   "recordNumber": 748,
@@ -54,5 +41,18 @@
   "synonyms": [
     "sentence.2",
     "lines"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use or be made up of too many words, especially long, difficult or formal words. English = (be) long-winded, (be) wordy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line of writing, a line of words, a line of text.",
+    "2. A group of words which, when they are written down, begin with a capital letter and end with a full stop. English = sentence."
+  ],
+  "idGloss": "sentence.1a",
+  "oldEntry": ""
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers also produce a variant of this in which the subordinate hand, palm down, hand away, is held still while the dominant hand twists away above it.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "finish.1",
-  "oldentry": "",
   "english": [
     "finish",
     "complete",
@@ -31,18 +27,7 @@
     "done"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make or do the last part of something so that there is no more for you to do. English = finish, complete.",
-    "2. To have made or done the last part of something so that there is no more for you to do. English = (be) finished, (be) complete, (be) done.",
-    "3. To cease to be involved or interested in something. Idiomatic English = (be) done with."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean something under discussion has been done and that there is no more to do. English = 'It's finished!', 'I'm done!', 'I've finished!', 'That's that, then!', 'All done!', and so on.",
-    "2. Used alone, often with an expression of surprise, to mean that something has been done and completed before the time that was expected. English = 'Already!?'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2622,
   "recordNumber": 1456,
   "signVisualComposition": "",
@@ -53,5 +38,20 @@
   "antonyms": [],
   "synonyms": [
     "finish.2a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean something under discussion has been done and that there is no more to do. English = 'It's finished!', 'I'm done!', 'I've finished!', 'That's that, then!', 'All done!', and so on.",
+    "2. Used alone, often with an expression of surprise, to mean that something has been done and completed before the time that was expected. English = 'Already!?'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make or do the last part of something so that there is no more for you to do. English = finish, complete.",
+    "2. To have made or done the last part of something so that there is no more for you to do. English = (be) finished, (be) complete, (be) done.",
+    "3. To cease to be involved or interested in something. Idiomatic English = (be) done with."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "finish.1",
+  "oldEntry": ""
 }

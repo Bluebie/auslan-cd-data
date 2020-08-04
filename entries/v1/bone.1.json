@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bone.1",
-  "oldentry": "Popular explanation: pointing to the bone in one's limb.",
   "english": [
     "bone"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hard parts inside your body which together form your skeleton. English = bone."
-  ],
   "signNumber": 1502,
   "recordNumber": 894,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "corn.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hard parts inside your body which together form your skeleton. English = bone."
+  ],
+  "idGloss": "bone.1",
+  "oldEntry": "Popular explanation: pointing to the bone in one's limb."
 }

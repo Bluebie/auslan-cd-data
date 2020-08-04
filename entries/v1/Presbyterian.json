@@ -13,25 +13,12 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Presbyterian",
-  "oldentry": "Popular explanation: playing bagpipes.",
   "english": [
     "Presbyterianism",
     "Presbyterian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to any of various Protestant Churches governed by presbyters or lay elders and adhering to various modified forms of Calvinism. English = (be) Presbyterian."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A Protestant church and faith governed by presbyters or lay elders and adhering to various modified forms of Calvinism. English = Presbyterianism.",
-    "2. A member of a Presbyterian Church. English = Presbyterian."
-  ],
   "signNumber": 2512,
   "recordNumber": 1397,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to any of various Protestant Churches governed by presbyters or lay elders and adhering to various modified forms of Calvinism. English = (be) Presbyterian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A Protestant church and faith governed by presbyters or lay elders and adhering to various modified forms of Calvinism. English = Presbyterianism.",
+    "2. A member of a Presbyterian Church. English = Presbyterian."
+  ],
+  "idGloss": "Presbyterian",
+  "oldEntry": "Popular explanation: playing bagpipes."
 }

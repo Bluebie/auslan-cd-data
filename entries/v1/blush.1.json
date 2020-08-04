@@ -18,26 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blush.1",
-  "oldentry": "Popular explanation: the blood rising in one's cheeks.",
   "english": [
     "blush"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be ashamed or embarrassed and, as a consequence, to have your face become redder than usual. English = blush.",
-    "2. To hold back the tears.",
-    "3. To be very touched by something (movie, story, event) so that you are fighting back the tears or feeling very emotional; to be moved."
-  ],
   "cf": [
     "ashamed.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of having your face become redder than usual because you are ashamed or embarrassed. English = blush."
   ],
   "signNumber": 3580,
   "recordNumber": 2102,
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "blush.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be ashamed or embarrassed and, as a consequence, to have your face become redder than usual. English = blush.",
+    "2. To hold back the tears.",
+    "3. To be very touched by something (movie, story, event) so that you are fighting back the tears or feeling very emotional; to be moved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of having your face become redder than usual because you are ashamed or embarrassed. English = blush."
+  ],
+  "idGloss": "blush.1",
+  "oldEntry": "Popular explanation: the blood rising in one's cheeks."
 }

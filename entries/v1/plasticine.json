@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of rubbing something between your hands, or any thing or any action directly or indirectly associated with this, especially plasticine.",
-  "questlex": [],
-  "idgloss": "plasticine",
-  "oldentry": "Popular explanation: rolling plasticine.",
   "english": [
     "plasticine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To roll plasticine together between your hands; to play with plasticine."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The trade name (trademark) for a soft coloured substance like clay which children use for making little models, called plasticine."
-  ],
   "signNumber": 4252,
   "recordNumber": 2580,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To roll plasticine together between your hands; to play with plasticine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of rubbing something between your hands, or any thing or any action directly or indirectly associated with this, especially plasticine.",
+  "nominalLexeme": [
+    "1. The trade name (trademark) for a soft coloured substance like clay which children use for making little models, called plasticine."
+  ],
+  "idGloss": "plasticine",
+  "oldEntry": "Popular explanation: rolling plasticine."
 }

@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cut.1",
-  "oldentry": "Popular explanation: cutting a surface with an implement.",
   "english": [
     "cut"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut something with a knife, blade, or similar instrument to remove a piece, mark it or damage it."
-  ],
   "cf": [
     "knife.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mark or opening made in something with a knife,  blade, or similar instrument. English = cut."
   ],
   "signNumber": 1258,
   "recordNumber": 746,
@@ -40,5 +28,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut something with a knife, blade, or similar instrument to remove a piece, mark it or damage it."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mark or opening made in something with a knife,  blade, or similar instrument. English = cut."
+  ],
+  "idGloss": "cut.1",
+  "oldEntry": "Popular explanation: cutting a surface with an implement."
 }

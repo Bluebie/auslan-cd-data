@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "reconcile",
-  "oldentry": "",
   "english": [
     "reconcile"
   ],
   "deictic": [],
-  "verblex": [
-    "1. In religious belief, to become friendly, as one, or at peace with God. Formal English = reconcile."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2580,
   "recordNumber": 1423,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 1,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. In religious belief, to become friendly, as one, or at peace with God. Formal English = reconcile."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "reconcile",
+  "oldEntry": ""
 }

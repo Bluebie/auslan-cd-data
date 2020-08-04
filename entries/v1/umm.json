@@ -11,23 +11,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "umm",
-  "oldentry": "",
   "english": [
     "um",
     "err",
     "well"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone when you are hesitating, usually because you have not decided what to say (or sign) next. English = 'Um.', 'Err.', 'Well.' and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2777,
   "recordNumber": 1556,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone when you are hesitating, usually because you have not decided what to say (or sign) next. English = 'Um.', 'Err.', 'Well.' and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "umm",
+  "oldEntry": ""
 }

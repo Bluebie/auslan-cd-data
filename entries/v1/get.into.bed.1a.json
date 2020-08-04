@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "get.into.bed.1a",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To get into bed, to get under the covers."
-  ],
   "cf": [
     "bed.1a"
   ],
-  "interj": [
-    "1. Used alone to suggest to your addressee that you both go to bed. English = 'Let's go to bed', 'Time to hit the sack', etc."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1695,
   "recordNumber": 1014,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [
     "stand.up.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used alone to suggest to your addressee that you both go to bed. English = 'Let's go to bed', 'Time to hit the sack', etc."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get into bed, to get under the covers."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "get.into.bed.1a",
+  "oldEntry": ""
 }

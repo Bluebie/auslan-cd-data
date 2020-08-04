@@ -13,25 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hurdles",
-  "oldentry": "",
   "english": [
     "hurdles",
     "hurdle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to jump over a fence. English = hurdle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Fences that runners jump over in some races. English = hurdles.",
-    "2. The sport in which runners jump over fences. English = hurdles."
-  ],
   "signNumber": 1846,
   "recordNumber": 1106,
   "signVisualComposition": "",
@@ -40,5 +27,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to jump over a fence. English = hurdle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Fences that runners jump over in some races. English = hurdles.",
+    "2. The sport in which runners jump over fences. English = hurdles."
+  ],
+  "idGloss": "hurdles",
+  "oldEntry": ""
 }

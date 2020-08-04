@@ -18,27 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "polished.shoes",
-  "oldentry": "",
   "english": [
     "shoe",
     "shoe polish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To clean or polish shoes."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Objects which you wear on your feet which are made of leather or plastic which has a shiny surface. They cover most of your foot and you wear them over socks or stockings. English = patent leather shoes.",
-    "2. Objects which you wear on your feet which are polished. They cover most of your foot and you wear them over socks or stockings. English = polished shoes.",
-    "3. Objects which you wear on your feet. They cover most of your foot and you wear them over socks or stockings. English = shoes.",
-    "4. A substance that you put on shoes in order to clean them, protect them, and make them shine. English = shoe polish."
-  ],
   "signNumber": 4891,
   "recordNumber": 2955,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   "synonyms": [
     "shoe",
     "boot"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To clean or polish shoes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Objects which you wear on your feet which are made of leather or plastic which has a shiny surface. They cover most of your foot and you wear them over socks or stockings. English = patent leather shoes.",
+    "2. Objects which you wear on your feet which are polished. They cover most of your foot and you wear them over socks or stockings. English = polished shoes.",
+    "3. Objects which you wear on your feet. They cover most of your foot and you wear them over socks or stockings. English = shoes.",
+    "4. A substance that you put on shoes in order to clean them, protect them, and make them shine. English = shoe polish."
+  ],
+  "idGloss": "polished.shoes",
+  "oldEntry": ""
 }

@@ -17,25 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "psychiatry.2",
-  "oldentry": "",
   "english": [
     "psychiatry",
     "psychiatrist"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "doctor.1",
     "psychologist"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The branch of medicine concerned with the treatment of mental illness. English = psychiatry.",
-    "2. A doctor who treats people suffering from mental illness. English = psychiatrist."
   ],
   "signNumber": 1847,
   "recordNumber": 1107,
@@ -45,5 +34,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The branch of medicine concerned with the treatment of mental illness. English = psychiatry.",
+    "2. A doctor who treats people suffering from mental illness. English = psychiatrist."
+  ],
+  "idGloss": "psychiatry.2",
+  "oldEntry": ""
 }

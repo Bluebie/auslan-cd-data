@@ -18,27 +18,13 @@
   "sense": "",
   "blend": "RING + DISMISS",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "divorce.3",
-  "oldentry": "",
   "english": [
     "divorce",
     "divorcee",
     "divorced"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To formally end a marriage by law. English = divorce.",
-    "2. To be no longer married because the marriage has been formally ended by law. English = (be) divorced."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The formal ending of a marriage by law. English = divorce.",
-    "2. A person, particularly a woman, who is divorced. English = divorcee."
-  ],
   "signNumber": 1221,
   "recordNumber": 720,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "synonyms": [
     "divorce.1a",
     "divorce.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To formally end a marriage by law. English = divorce.",
+    "2. To be no longer married because the marriage has been formally ended by law. English = (be) divorced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The formal ending of a marriage by law. English = divorce.",
+    "2. A person, particularly a woman, who is divorced. English = divorcee."
+  ],
+  "idGloss": "divorce.3",
+  "oldEntry": ""
 }

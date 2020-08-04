@@ -15,24 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parallel.2",
-  "oldentry": "Popular explanation: the path of two parallel lines.",
   "english": [
     "parallel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two lines, paths or long objects, to be the same distance apart all along their length. English = (be) parallel.",
-    "2. Of two objects, to go or move along parallel paths."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Two lines, paths or long objects which are the same distance apart all along their length."
-  ],
   "signNumber": 990,
   "recordNumber": 573,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two lines, paths or long objects, to be the same distance apart all along their length. English = (be) parallel.",
+    "2. Of two objects, to go or move along parallel paths."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Two lines, paths or long objects which are the same distance apart all along their length."
+  ],
+  "idGloss": "parallel.2",
+  "oldEntry": "Popular explanation: the path of two parallel lines."
 }

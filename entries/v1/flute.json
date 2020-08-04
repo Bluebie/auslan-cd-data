@@ -9,23 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flute",
-  "oldentry": "",
   "english": [
     "flute"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play a flute."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument in the shape of a long tube with holes in it. You play it by blowing over a hole near one end while holding it sideways to your mouth. English = flute."
-  ],
   "signNumber": 2610,
   "recordNumber": 1448,
   "signVisualComposition": "",
@@ -34,5 +22,17 @@
   "primaryLocation": 10,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play a flute."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A musical instrument in the shape of a long tube with holes in it. You play it by blowing over a hole near one end while holding it sideways to your mouth. English = flute."
+  ],
+  "idGloss": "flute",
+  "oldEntry": ""
 }

@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "neighbour.1",
-  "oldentry": "",
   "english": [
     "neighbour",
     "next door"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To live next door or very close to someone. English = (be) the next door neighbour, (be) a neighbour."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The person, group of people, or family, that lives immediately next to, or very close to, your house or home. English = neighbour, neighbours.",
-    "2. The house that belongs to the people who live immediately beside your house. English = next door, the place next door."
-  ],
   "signNumber": 6127,
   "recordNumber": 3646,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "neighbour.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To live next door or very close to someone. English = (be) the next door neighbour, (be) a neighbour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The person, group of people, or family, that lives immediately next to, or very close to, your house or home. English = neighbour, neighbours.",
+    "2. The house that belongs to the people who live immediately beside your house. English = next door, the place next door."
+  ],
+  "idGloss": "neighbour.1",
+  "oldEntry": ""
 }

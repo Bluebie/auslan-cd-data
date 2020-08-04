@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign has possibly evolved from another sign for 'Jew'. It has lost any negative stereotypic associations.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Jew.3",
-  "oldentry": "",
   "english": [
     "Jew",
     "Jewish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to Judaism. English = (be) Jewish."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who believes in and practises the religion of Judaism. English = Jew."
-  ],
   "signNumber": 5082,
   "recordNumber": 3067,
   "signVisualComposition": "",
@@ -43,5 +31,17 @@
   "synonyms": [
     "Jew.1",
     "Jew.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to Judaism. English = (be) Jewish."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who believes in and practises the religion of Judaism. English = Jew."
+  ],
+  "idGloss": "Jew.3",
+  "oldEntry": ""
 }

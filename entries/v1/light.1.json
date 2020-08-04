@@ -18,28 +18,16 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "light.1",
-  "oldentry": "",
   "english": [
     "lighten",
     "light"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become less dark in colour. English = lighten.",
-    "2. Of a building or room, to have a lot of natural light in it, for example because it has large windows. English = (be) light.",
-    "3. Of colours, to be very pale. English = (be) light."
-  ],
   "cf": [
     "match.2",
     "light.2",
     "light.weight"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6459,
   "recordNumber": 3850,
   "signVisualComposition": "",
@@ -50,5 +38,17 @@
   "antonyms": [
     "dark"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become less dark in colour. English = lighten.",
+    "2. Of a building or room, to have a lot of natural light in it, for example because it has large windows. English = (be) light.",
+    "3. Of colours, to be very pale. English = (be) light."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "light.1",
+  "oldEntry": ""
 }

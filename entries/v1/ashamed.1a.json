@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ashamed.1a",
-  "oldentry": "Popular explanation: blood rising in your face.",
   "english": [
     "shame",
     "embarrassment",
@@ -40,20 +36,7 @@
     "shameful"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel uncomfortable because you know you have done something wrong or stupid; or to cause someone to feel that way. English = (be) ashamed, (be) embarrassed; shame, embarrass.",
-    "2. Of your face, to become redder than usual because you are ashamed or embarrassed. English = blush.",
-    "3. Of someone's actions, to be so bad that they ought to be ashamed. English = shameful."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean you think that something being talked about would have made or does make you feel embarrassed. English = 'How embarrassing!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. An uncomfortable feeling you have when you know you have done something wrong. English = shame, embarrassment.",
-    "2. The act of going redder in your face than usual because you are ashamed or embarrassed. English = blushing."
-  ],
   "signNumber": 2439,
   "recordNumber": 1352,
   "signVisualComposition": "",
@@ -65,5 +48,22 @@
   "synonyms": [
     "blush.1",
     "blush.2a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you think that something being talked about would have made or does make you feel embarrassed. English = 'How embarrassing!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel uncomfortable because you know you have done something wrong or stupid; or to cause someone to feel that way. English = (be) ashamed, (be) embarrassed; shame, embarrass.",
+    "2. Of your face, to become redder than usual because you are ashamed or embarrassed. English = blush.",
+    "3. Of someone's actions, to be so bad that they ought to be ashamed. English = shameful."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An uncomfortable feeling you have when you know you have done something wrong. English = shame, embarrassment.",
+    "2. The act of going redder in your face than usual because you are ashamed or embarrassed. English = blushing."
+  ],
+  "idGloss": "ashamed.1a",
+  "oldEntry": "Popular explanation: blood rising in your face."
 }

@@ -23,10 +23,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "monarch",
-  "oldentry": "",
   "english": [
     "monarch",
     "sovereign",
@@ -36,20 +32,9 @@
     "royal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To belong to or relate to a royal family. English = (be) royal."
-  ],
   "cf": [
     "prince",
     "princess"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A member of a royal family who reigns over a country. English = monarch, sovereign.",
-    "2. A male member of a royal family who reigns over a country. English = king.",
-    "3. A female member of a royal family who reigns over a country. English = queen.",
-    "4. Members of a royal family. English = royalty."
   ],
   "signNumber": 2903,
   "recordNumber": 1640,
@@ -62,5 +47,20 @@
   "synonyms": [
     "crown.1",
     "king"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To belong to or relate to a royal family. English = (be) royal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A member of a royal family who reigns over a country. English = monarch, sovereign.",
+    "2. A male member of a royal family who reigns over a country. English = king.",
+    "3. A female member of a royal family who reigns over a country. English = queen.",
+    "4. Members of a royal family. English = royalty."
+  ],
+  "idGloss": "monarch",
+  "oldEntry": ""
 }

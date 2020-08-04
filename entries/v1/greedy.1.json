@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "greedy.1",
-  "oldentry": "",
   "english": [
     "greed",
     "greedy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want more of something such as food, money, or power than it is necessary or fair for you to have. English = (be) greedy."
-  ],
   "cf": [
     "selfish.1",
     "selfish.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The desire to have more of something such as food, money, or power than it is necessary or fair for you to have. English = greed."
   ],
   "signNumber": 5615,
   "recordNumber": 3326,
@@ -50,5 +38,17 @@
     "greedy.2",
     "greedy.3",
     "selfish.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want more of something such as food, money, or power than it is necessary or fair for you to have. English = (be) greedy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The desire to have more of something such as food, money, or power than it is necessary or fair for you to have. English = greed."
+  ],
+  "idGloss": "greedy.1",
+  "oldEntry": ""
 }

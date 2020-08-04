@@ -18,26 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is a modified loan sign from ASL.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "video.1a",
-  "oldentry": "",
   "english": [
     "video"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a video tape using a video recorder. English = video."
-  ],
   "cf": [
     "film.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine which can be used to play video tapes on a television set and to record television programs on videotape. English = video, video cassette recorder, video machine.",
-    "2. A film or television program recorded on video tape for people to watch on a television set. English = video.",
-    "3. A cassette containing a video tape. English = video, video cassette."
   ],
   "signNumber": 1706,
   "recordNumber": 1019,
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "video-camera.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a video tape using a video recorder. English = video."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine which can be used to play video tapes on a television set and to record television programs on videotape. English = video, video cassette recorder, video machine.",
+    "2. A film or television program recorded on video tape for people to watch on a television set. English = video.",
+    "3. A cassette containing a video tape. English = video, video cassette."
+  ],
+  "idGloss": "video.1a",
+  "oldEntry": ""
 }

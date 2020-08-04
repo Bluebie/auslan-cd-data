@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "problem.2a",
-  "oldentry": "",
   "english": [
     "problem"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation that is unsatisfactory and causes difficulties for people. English = problem."
-  ],
   "signNumber": 1787,
   "recordNumber": 1078,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "problem.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation that is unsatisfactory and causes difficulties for people. English = problem."
+  ],
+  "idGloss": "problem.2a",
+  "oldEntry": ""
 }

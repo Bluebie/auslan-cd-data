@@ -29,10 +29,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is only partially directional for some signers (disallowing movement towards the signer). For other signers it is fully directional.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "protect.1",
-  "oldentry": "",
   "english": [
     "prevention",
     "protection",
@@ -45,23 +41,10 @@
     "shield"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stop something from happening, or someone from doing something. English = prevent.",
-    "2. To prevent someone or something from being harmed or damaged. English = protect.",
-    "3. To do something in order to protect someone or something from attack. English = defend, guard, block.",
-    "4. To keep something or someone away which may harm or damage you. English = shield, shield off, fend off."
-  ],
   "cf": [
     "revolt",
     "avoid.2",
     "defence.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The stopping of something from happening, or the stopping of someone from doing something. English = prevention.",
-    "2. The prevention of someone or something from being harmed or damaged. English = protection.",
-    "3. Action taken to protect someone or something from attack. English = defence."
   ],
   "signNumber": 5778,
   "recordNumber": 3425,
@@ -73,5 +56,22 @@
   "antonyms": [],
   "synonyms": [
     "protect.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stop something from happening, or someone from doing something. English = prevent.",
+    "2. To prevent someone or something from being harmed or damaged. English = protect.",
+    "3. To do something in order to protect someone or something from attack. English = defend, guard, block.",
+    "4. To keep something or someone away which may harm or damage you. English = shield, shield off, fend off."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The stopping of something from happening, or the stopping of someone from doing something. English = prevention.",
+    "2. The prevention of someone or something from being harmed or damaged. English = protection.",
+    "3. Action taken to protect someone or something from attack. English = defence."
+  ],
+  "idGloss": "protect.1",
+  "oldEntry": ""
 }

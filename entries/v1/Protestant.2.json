@@ -11,21 +11,11 @@
   "sense": "4",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Protestant.2",
-  "oldentry": "",
   "english": [
     "Protestant"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Someone who belongs to the branch of the Christian church which separated from the Catholic church in the sixteenth century. English = Protestant."
-  ],
   "signNumber": 3235,
   "recordNumber": 1881,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "Protestant.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Someone who belongs to the branch of the Christian church which separated from the Catholic church in the sixteenth century. English = Protestant."
+  ],
+  "idGloss": "Protestant.2",
+  "oldEntry": ""
 }

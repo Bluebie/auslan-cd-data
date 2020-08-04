@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "over",
-  "oldentry": "",
   "english": [
     "over",
     "above",
@@ -31,16 +27,7 @@
     "concerning"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To travel or move directly above something with a space between the thing moving and the surface. English = go over.",
-    "2. To be located directly above something with a space between the two things. English = (be) over, (be) above."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used after many verbs (especially 'talk', 'write' and 'think') and before a noun to mean that the topic of the activity is the following noun. English = about, concerning, pertaining to."
-  ],
-  "nomlex": [],
   "signNumber": 4067,
   "recordNumber": 2435,
   "signVisualComposition": "",
@@ -55,5 +42,18 @@
     "above.flat.surface",
     "above.solid.object",
     "about.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used after many verbs (especially 'talk', 'write' and 'think') and before a noun to mean that the topic of the activity is the following noun. English = about, concerning, pertaining to."
+  ],
+  "verbLexeme": [
+    "1. To travel or move directly above something with a space between the thing moving and the surface. English = go over.",
+    "2. To be located directly above something with a space between the two things. English = (be) over, (be) above."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "over",
+  "oldEntry": ""
 }

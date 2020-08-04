@@ -15,26 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign can incorporate number handshapes in the dominant hand for 'in two years time', 'in three years time', and so on.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "next.year",
-  "oldentry": "",
   "english": [
     "year",
     "next year"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence to mean the action takes place sometime during the following twelve months or year; or after at least a year. English = in the next year, during the next year; in a year's time.",
-    "2. Used at the beginning or end of a sentence to mean the action took place sometime during the twelve months or year after the reference time. English = in the following year."
-  ],
-  "nomlex": [
-    "1. A period of a year after the time of talking. English = the next year.",
-    "2. A period of one year after some reference time in the past. English = the following year, the year after that."
-  ],
   "signNumber": 1060,
   "recordNumber": 625,
   "signVisualComposition": "",
@@ -45,5 +31,19 @@
   "antonyms": [
     "yesteryear.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence to mean the action takes place sometime during the following twelve months or year; or after at least a year. English = in the next year, during the next year; in a year's time.",
+    "2. Used at the beginning or end of a sentence to mean the action took place sometime during the twelve months or year after the reference time. English = in the following year."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A period of a year after the time of talking. English = the next year.",
+    "2. A period of one year after some reference time in the past. English = the following year, the year after that."
+  ],
+  "idGloss": "next.year",
+  "oldEntry": ""
 }

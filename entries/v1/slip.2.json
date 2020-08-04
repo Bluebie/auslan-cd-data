@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "slip.2",
-  "oldentry": "",
   "english": [
     "slip"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of clothing without sleeves that a woman wears under her dress. English = slip."
-  ],
   "signNumber": 4139,
   "recordNumber": 2494,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of clothing without sleeves that a woman wears under her dress. English = slip."
+  ],
+  "idGloss": "slip.2",
+  "oldEntry": ""
 }

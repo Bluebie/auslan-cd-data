@@ -16,25 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "burrow",
-  "oldentry": "Popular explanation: a digging action.",
   "english": [
     "burrow",
     "claw",
     "dig"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person or animal, especially a dog, to dig a hole using your hands or claws. English = burrow."
-  ],
   "cf": [
     "excavate"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3067,
   "recordNumber": 1761,
   "signVisualComposition": "",
@@ -46,5 +36,15 @@
   "synonyms": [
     "spade.1a",
     "dig"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person or animal, especially a dog, to dig a hole using your hands or claws. English = burrow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "burrow",
+  "oldEntry": "Popular explanation: a digging action."
 }

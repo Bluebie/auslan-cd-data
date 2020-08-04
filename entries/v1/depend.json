@@ -13,27 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "depend",
-  "oldentry": "",
   "english": [
     "depend on"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For one thing to happen only if the circumstances are right (ie if something else happens first); to be determined by something else. English = depend on."
-  ],
   "cf": [
     "follow.2"
   ],
-  "interj": [
-    "1. Used alone to mean you are not sure what will happen or what the best answer to give is. English = 'It depends.'"
-  ],
-  "partlex": [
-    "1. Used between the main part of a sentence and a condition which will cause the first or greatly influence it. English = depending on."
-  ],
-  "nomlex": [],
   "signNumber": 1011,
   "recordNumber": 590,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "antonyms": [],
   "synonyms": [
     "depends"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you are not sure what will happen or what the best answer to give is. English = 'It depends.'"
+  ],
+  "particleLexeme": [
+    "1. Used between the main part of a sentence and a condition which will cause the first or greatly influence it. English = depending on."
+  ],
+  "verbLexeme": [
+    "1. For one thing to happen only if the circumstances are right (ie if something else happens first); to be determined by something else. English = depend on."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "depend",
+  "oldEntry": ""
 }

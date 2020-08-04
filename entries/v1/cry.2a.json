@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cry.2a",
-  "oldentry": "",
   "english": [
     "cry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To suddenly begin to cry. Idiomatic English = burst into tears."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Persistent and loud crying, especially of a baby."
-  ],
   "signNumber": 848,
   "recordNumber": 485,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To suddenly begin to cry. Idiomatic English = burst into tears."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Persistent and loud crying, especially of a baby."
+  ],
+  "idGloss": "cry.2a",
+  "oldEntry": ""
 }

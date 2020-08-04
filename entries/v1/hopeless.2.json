@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hopeless.2",
-  "oldentry": "",
   "english": [
     "hopeless",
     "lousy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of someone or something, to do something very badly. English = hopeless, lousy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5048,
   "recordNumber": 3043,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "hopeless.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of someone or something, to do something very badly. English = hopeless, lousy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "hopeless.2",
+  "oldEntry": ""
 }

@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "ALL? + PRINT?",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "newspaper.2",
-  "oldentry": "Popular explanation: a large printed surface.",
   "english": [
     "newspaper"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "exact"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some copies are produced everyday of the week and others once a week. English = newspaper."
   ],
   "signNumber": 6002,
   "recordNumber": 3574,
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "newspaper.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some copies are produced everyday of the week and others once a week. English = newspaper."
+  ],
+  "idGloss": "newspaper.2",
+  "oldEntry": "Popular explanation: a large printed surface."
 }

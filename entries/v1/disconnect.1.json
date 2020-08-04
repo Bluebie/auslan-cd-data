@@ -24,10 +24,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disconnect.1",
-  "oldentry": "Popular explanation: cutting a wire with a pair of scissors.",
   "english": [
     "disconnection",
     "termination",
@@ -36,19 +32,7 @@
     "terminate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a piece of equipment, to detach it from its source of power, such as a gas or electricity supply. English = disconnect, cut off.",
-    "2. To turn off the connection to your house of the gas, electricity, water, or telephone. English = disconnect, cut off.",
-    "3. To end something completely. English = terminate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a piece of equipment, the act of detaching it from its source of power, such as a gas or electricity supply. English = disconnection.",
-    "2. The act of turning off the connection to your house of the gas, electricity, water, or telephone. English = disconnection.",
-    "3. The complete end of something. English = termination."
-  ],
   "signNumber": 1678,
   "recordNumber": 1002,
   "signVisualComposition": "",
@@ -64,5 +48,21 @@
   "synonyms": [
     "disconnect.2",
     "cut.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a piece of equipment, to detach it from its source of power, such as a gas or electricity supply. English = disconnect, cut off.",
+    "2. To turn off the connection to your house of the gas, electricity, water, or telephone. English = disconnect, cut off.",
+    "3. To end something completely. English = terminate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a piece of equipment, the act of detaching it from its source of power, such as a gas or electricity supply. English = disconnection.",
+    "2. The act of turning off the connection to your house of the gas, electricity, water, or telephone. English = disconnection.",
+    "3. The complete end of something. English = termination."
+  ],
+  "idGloss": "disconnect.1",
+  "oldEntry": "Popular explanation: cutting a wire with a pair of scissors."
 }

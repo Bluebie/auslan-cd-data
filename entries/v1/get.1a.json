@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "get.1a",
-  "oldentry": "",
   "english": [
     "get"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To obtain or receive something. English = get."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4304,
   "recordNumber": 2622,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "synonyms": [
     "receive.2a",
     "receive.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To obtain or receive something. English = get."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "get.1a",
+  "oldEntry": ""
 }

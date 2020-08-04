@@ -11,23 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "triple",
-  "oldentry": "",
   "english": [
     "triple",
     "treble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become three times greater in size or number. English = triple, treble.",
-    "2. To be three times greater in size or number. English = (be) triple."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2262,
   "recordNumber": 1279,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "antonyms": [],
   "synonyms": [
     "treble"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become three times greater in size or number. English = triple, treble.",
+    "2. To be three times greater in size or number. English = (be) triple."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "triple",
+  "oldEntry": ""
 }

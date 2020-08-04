@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tall.1a",
-  "oldentry": "",
   "english": [
     "height",
     "tallness",
@@ -33,19 +29,8 @@
     "high"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of people or things, to measure a great or above average distance from the bottom to the top. English = (be) tall, (be) high.",
-    "2. To become higher or taller.",
-    "3. To move upwards to a higher location.",
-    "4. To move into or be located at an important or high ranking position in an organisation."
-  ],
   "cf": [
     "big.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The measurement from the bottom to the top of a person or thing, especially when that distance is thought to be great or above the average. English = height, tallness."
   ],
   "signNumber": 3199,
   "recordNumber": 1857,
@@ -62,5 +47,20 @@
     "go.upwards.1a",
     "upward",
     "promote.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of people or things, to measure a great or above average distance from the bottom to the top. English = (be) tall, (be) high.",
+    "2. To become higher or taller.",
+    "3. To move upwards to a higher location.",
+    "4. To move into or be located at an important or high ranking position in an organisation."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The measurement from the bottom to the top of a person or thing, especially when that distance is thought to be great or above the average. English = height, tallness."
+  ],
+  "idGloss": "tall.1a",
+  "oldEntry": ""
 }

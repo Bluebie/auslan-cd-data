@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "ONE + FAULT",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "except.1",
-  "oldentry": "",
   "english": [
     "exception",
     "except"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used within a sentence or at the end of a sentence next to the thing or person that the main part of the sentence does not apply to. English = except."
-  ],
-  "nomlex": [
-    "1. The thing, person, or situation that is not included in a general statement. English = exception."
-  ],
   "signNumber": 1264,
   "recordNumber": 751,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used within a sentence or at the end of a sentence next to the thing or person that the main part of the sentence does not apply to. English = except."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The thing, person, or situation that is not included in a general statement. English = exception."
+  ],
+  "idGloss": "except.1",
+  "oldEntry": ""
 }

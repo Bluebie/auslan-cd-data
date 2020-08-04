@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "ELIMINATE + BARE",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bare",
-  "oldentry": "",
   "english": [
     "strip",
     "bare",
@@ -29,16 +25,9 @@
     "exposed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To remove everything that covers the surface of something. English = strip, strip bare, make bare, expose.",
-    "2. To be empty or not be covered or decorated with anything. English = (be) bare, (be) exposed."
-  ],
   "cf": [
     "naked.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6538,
   "recordNumber": 3892,
   "signVisualComposition": "",
@@ -49,5 +38,16 @@
   "antonyms": [],
   "synonyms": [
     "blank.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To remove everything that covers the surface of something. English = strip, strip bare, make bare, expose.",
+    "2. To be empty or not be covered or decorated with anything. English = (be) bare, (be) exposed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "bare",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "eraser",
-  "oldentry": "Popular explanation: using an eraser.",
   "english": [
     "rubber",
     "eraser",
@@ -29,16 +25,8 @@
     "rub out"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a piece of rubber to get rid of writing or drawing. English = erase, rub out."
-  ],
   "cf": [
     "colour.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of rubber which is used for rubbing out writing. English = rubber. American English = eraser."
   ],
   "signNumber": 6449,
   "recordNumber": 3844,
@@ -48,5 +36,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a piece of rubber to get rid of writing or drawing. English = erase, rub out."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of rubber which is used for rubbing out writing. English = rubber. American English = eraser."
+  ],
+  "idGloss": "eraser",
+  "oldEntry": "Popular explanation: using an eraser."
 }

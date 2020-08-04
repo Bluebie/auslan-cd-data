@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "clean.3a",
-  "oldentry": "Popular explanation: cleaning a surface.",
   "english": [
     "cleaning",
     "cleaner",
@@ -35,20 +31,10 @@
     "wipe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something free from dirt and unwanted substances or marks. English = clean, wash, wash down.",
-    "2. To remove dirt or liquid from a surface. English = wipe, wipe down."
-  ],
   "cf": [
     "rub.2a",
     "wipe.up.1a",
     "buff"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of making something clean. English = cleaning.",
-    "2. A person who cleans. English = cleaner."
   ],
   "signNumber": 5888,
   "recordNumber": 3500,
@@ -60,5 +46,19 @@
   "antonyms": [],
   "synonyms": [
     "wash"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something free from dirt and unwanted substances or marks. English = clean, wash, wash down.",
+    "2. To remove dirt or liquid from a surface. English = wipe, wipe down."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of making something clean. English = cleaning.",
+    "2. A person who cleans. English = cleaner."
+  ],
+  "idGloss": "clean.3a",
+  "oldEntry": "Popular explanation: cleaning a surface."
 }

@@ -16,24 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "open-necked",
-  "oldentry": "Popular explanation: the trace outline of a collar.",
   "english": [
     "open-necked"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wear an open-necked shirt or blouse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An open-necked shirt or blouse.",
-    "2. The collar on an open-necked shirt or blouse."
-  ],
   "signNumber": 3617,
   "recordNumber": 2132,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "shirt.1a",
     "V-neck"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wear an open-necked shirt or blouse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An open-necked shirt or blouse.",
+    "2. The collar on an open-necked shirt or blouse."
+  ],
+  "idGloss": "open-necked",
+  "oldEntry": "Popular explanation: the trace outline of a collar."
 }

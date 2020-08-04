@@ -13,10 +13,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dust.3",
-  "oldentry": "",
   "english": [
     "dust",
     "haze",
@@ -24,15 +20,7 @@
     "hazy"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have lots of dust or smoke particles in the air. English = (be) dusty, (be) hazy."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Lots of tiny particles of earth, sand, soot, etc., in the air. English = dust, haze."
-  ],
   "signNumber": 2601,
   "recordNumber": 1441,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have lots of dust or smoke particles in the air. English = (be) dusty, (be) hazy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Lots of tiny particles of earth, sand, soot, etc., in the air. English = dust, haze."
+  ],
+  "idGloss": "dust.3",
+  "oldEntry": ""
 }

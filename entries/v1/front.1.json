@@ -23,10 +23,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "front.1",
-  "oldentry": "",
   "english": [
     "front",
     "in the front",
@@ -35,19 +31,8 @@
     "front up to"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be located in that part of a thing (classroom, theatre, car, etc) which is as far as you can go and still face the direction in which most people normally sit or in which the thing normally moves. English = (be) in the front.",
-    "2. Of a difficult situation or something unpleasant, to not avoid it but to accept it and try to cope with it. English = face, front up to."
-  ],
   "cf": [
     "go.in.front.of"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the person doing the action does it in a place where he or she can be clearly seen be a lot or all of the people in a particular place. English = in front of."
-  ],
-  "nomlex": [
-    "1. The part of something that faces you or faces forward, or that you normally see or use. English = front."
   ],
   "signNumber": 3180,
   "recordNumber": 1847,
@@ -65,5 +50,20 @@
     "facing",
     "front.2",
     "front.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the person doing the action does it in a place where he or she can be clearly seen be a lot or all of the people in a particular place. English = in front of."
+  ],
+  "verbLexeme": [
+    "1. To be located in that part of a thing (classroom, theatre, car, etc) which is as far as you can go and still face the direction in which most people normally sit or in which the thing normally moves. English = (be) in the front.",
+    "2. Of a difficult situation or something unpleasant, to not avoid it but to accept it and try to cope with it. English = face, front up to."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of something that faces you or faces forward, or that you normally see or use. English = front."
+  ],
+  "idGloss": "front.1",
+  "oldEntry": ""
 }

@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "carburettor",
-  "oldentry": "",
   "english": [
     "carburettor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of an engine, usually in a car, in which air and petrol mix together. English = carburettor."
-  ],
   "signNumber": 4502,
   "recordNumber": 2736,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of an engine, usually in a car, in which air and petrol mix together. English = carburettor."
+  ],
+  "idGloss": "carburettor",
+  "oldEntry": ""
 }

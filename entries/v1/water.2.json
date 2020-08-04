@@ -12,21 +12,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "water.2",
-  "oldentry": "",
   "english": [
     "water"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The clear, thin liquid that has no colour and no taste when it is pure. It falls from clouds as rain and enters rivers and seas. All animals and people need to drink it in order to live. English = water."
-  ],
   "signNumber": 1379,
   "recordNumber": 818,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "water.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The clear, thin liquid that has no colour and no taste when it is pure. It falls from clouds as rain and enters rivers and seas. All animals and people need to drink it in order to live. English = water."
+  ],
+  "idGloss": "water.2",
+  "oldEntry": ""
 }

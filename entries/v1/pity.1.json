@@ -17,27 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pity.1",
-  "oldentry": "Popular explanation: a lump or tightness in your throat due to strong emotion.",
   "english": [
     "pity",
     "sorry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have a very strong feeling of emotion about something that has happened (sadness, pity, sympathy, etc.) which physically makes you feel tense, as if you were about to cry, and unable to speak or communicate without showing this emotion.",
-    "English = pity, feel pity for, feel sorry for. Idiomatic English = have or get a lump in your throat.",
-    "3. To be on the verge of an unhappy or unwanted display of emotion."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express your deep feeling of emotion about something that has happened (sadness, pity, sympathy). You feel a tightness in your throat and face which makes it difficult to speak or control your face without showing this emotion.",
-    "In this situation, people often gasp or cover their mouths or faces with their hands. English speakers, if they are not speechless with emotion, might say something like: 'Oh my God!'."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 69,
   "recordNumber": 41,
   "signVisualComposition": "",
@@ -49,5 +34,20 @@
   "synonyms": [
     "express",
     "poor.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express your deep feeling of emotion about something that has happened (sadness, pity, sympathy). You feel a tightness in your throat and face which makes it difficult to speak or control your face without showing this emotion.",
+    "In this situation, people often gasp or cover their mouths or faces with their hands. English speakers, if they are not speechless with emotion, might say something like: 'Oh my God!'."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have a very strong feeling of emotion about something that has happened (sadness, pity, sympathy, etc.) which physically makes you feel tense, as if you were about to cry, and unable to speak or communicate without showing this emotion.",
+    "English = pity, feel pity for, feel sorry for. Idiomatic English = have or get a lump in your throat.",
+    "3. To be on the verge of an unhappy or unwanted display of emotion."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "pity.1",
+  "oldEntry": "Popular explanation: a lump or tightness in your throat due to strong emotion."
 }

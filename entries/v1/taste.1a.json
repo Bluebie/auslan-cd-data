@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "taste.1a",
-  "oldentry": "Popular explanation: pointing to the mouth.",
   "english": [
     "taste",
     "type",
@@ -32,19 +28,7 @@
     "flavour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be aware of the special sensation something has on your tongue when you eat it or when you simply touch it with your tongue. English = taste.",
-    "2. To be something that is very noticeable for the positive and enjoyable effect it has on your tongue. English = (be) tasty."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Your ability to recognise things when you touch them with your tongue. English = taste.",
-    "2. The special sensation something has on your tongue when you eat it or when you simply touch it with you tongue, for example whether it is sweet or salty. English = taste,  flavour.",
-    "3. A class of things which you find interesting or attractive. English = taste.",
-    "4. A class of things that has particular features in common and that belongs to a group of related things. English = type."
-  ],
   "signNumber": 600,
   "recordNumber": 346,
   "signVisualComposition": "",
@@ -57,5 +41,21 @@
     "delicious.1",
     "delicious.2",
     "tongue.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be aware of the special sensation something has on your tongue when you eat it or when you simply touch it with your tongue. English = taste.",
+    "2. To be something that is very noticeable for the positive and enjoyable effect it has on your tongue. English = (be) tasty."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Your ability to recognise things when you touch them with your tongue. English = taste.",
+    "2. The special sensation something has on your tongue when you eat it or when you simply touch it with you tongue, for example whether it is sweet or salty. English = taste,  flavour.",
+    "3. A class of things which you find interesting or attractive. English = taste.",
+    "4. A class of things that has particular features in common and that belongs to a group of related things. English = type."
+  ],
+  "idGloss": "taste.1a",
+  "oldEntry": "Popular explanation: pointing to the mouth."
 }

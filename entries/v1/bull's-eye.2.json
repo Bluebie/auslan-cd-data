@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of something going into your eye, or any thing or any action directly or indirectly associated with this, especially a bull's-eye.",
-  "questlex": [],
-  "idgloss": "bull's-eye.2",
-  "oldentry": "",
   "english": [
     "bull's-eye"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make a shot or throw a dart that hits the bull's-eye."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The small circular area at the centre of a target. English = bull's-eye."
-  ],
   "signNumber": 1179,
   "recordNumber": 690,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "bull's-eye.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make a shot or throw a dart that hits the bull's-eye."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of something going into your eye, or any thing or any action directly or indirectly associated with this, especially a bull's-eye.",
+  "nominalLexeme": [
+    "1. The small circular area at the centre of a target. English = bull's-eye."
+  ],
+  "idGloss": "bull's-eye.2",
+  "oldEntry": ""
 }

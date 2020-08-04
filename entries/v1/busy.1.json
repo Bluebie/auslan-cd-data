@@ -23,29 +23,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "busy.1",
-  "oldentry": "",
   "english": [
     "busy",
     "activity",
     "action"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
-  ],
   "cf": [
     "activity.1a",
     "horse.racing.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A situation in which lots of things are happening or being done. English = activity, action.",
-    "2. Something that you do on a particular occasion. English = action.",
-    "3. All the important and exciting things that happen in a situation, especially in a film. English = action."
   ],
   "signNumber": 2746,
   "recordNumber": 1533,
@@ -61,5 +47,19 @@
   ],
   "synonyms": [
     "busy.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A situation in which lots of things are happening or being done. English = activity, action.",
+    "2. Something that you do on a particular occasion. English = action.",
+    "3. All the important and exciting things that happen in a situation, especially in a film. English = action."
+  ],
+  "idGloss": "busy.1",
+  "oldEntry": ""
 }

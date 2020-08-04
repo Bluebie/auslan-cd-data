@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ejaculate",
-  "oldentry": "Popular explanation: something squirting out of something long and thin.",
   "english": [
     "ejaculation",
     "orgasm",
@@ -33,19 +29,7 @@
     "ejaculate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man, to discharge semen through the penis. English = ejaculate. Informal English = come.",
-    "2. For a man, to experience the moment of greatest pleasure and excitement during sexual activity. English = have an orgasm."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a man, the act of discharging semen through the penis. English = ejaculation.",
-    "2. For a man, the moment of greatest pleasure and excitement during sexual activity. English = orgasm.",
-    "3. The liquid containing sperm that is produced by the sex organs of men and male animals. English = semen.",
-    "4. The cells which are produced in the sex organs of the male and which can enter a female's egg and fertilise it. English = sperm."
-  ],
   "signNumber": 198,
   "recordNumber": 114,
   "signVisualComposition": "",
@@ -56,5 +40,21 @@
   "antonyms": [],
   "synonyms": [
     "randy"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man, to discharge semen through the penis. English = ejaculate. Informal English = come.",
+    "2. For a man, to experience the moment of greatest pleasure and excitement during sexual activity. English = have an orgasm."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a man, the act of discharging semen through the penis. English = ejaculation.",
+    "2. For a man, the moment of greatest pleasure and excitement during sexual activity. English = orgasm.",
+    "3. The liquid containing sperm that is produced by the sex organs of men and male animals. English = semen.",
+    "4. The cells which are produced in the sex organs of the male and which can enter a female's egg and fertilise it. English = sperm."
+  ],
+  "idGloss": "ejaculate",
+  "oldEntry": "Popular explanation: something squirting out of something long and thin."
 }

@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "run.2",
-  "oldentry": "",
   "english": [
     "run",
     "idle"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a machine, motor or computer program, to be switched on and operating nicely. English = run, (be) running.",
-    "2. Of a car engine, to be running but not to be doing any work, for example because the car is not moving. English = idle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2664,
   "recordNumber": 1481,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a machine, motor or computer program, to be switched on and operating nicely. English = run, (be) running.",
+    "2. Of a car engine, to be running but not to be doing any work, for example because the car is not moving. English = idle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "run.2",
+  "oldEntry": ""
 }

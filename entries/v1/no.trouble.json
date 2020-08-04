@@ -13,25 +13,15 @@
   "sense": "",
   "blend": "TROUBLE + 'NOT'",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "no.trouble",
-  "oldentry": "",
   "english": [
     "trouble-free",
     "hassle-free"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause or give no difficulties or no problems to someone. English = (be) trouble-free, (be) hassle-free."
-  ],
   "cf": [
     "not.bother.1",
     "not.bother.2"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3524,
   "recordNumber": 2064,
   "signVisualComposition": "",
@@ -42,5 +32,15 @@
   "antonyms": [
     "trouble"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause or give no difficulties or no problems to someone. English = (be) trouble-free, (be) hassle-free."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "no.trouble",
+  "oldEntry": ""
 }

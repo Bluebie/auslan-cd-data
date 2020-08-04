@@ -13,24 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "skin.1",
-  "oldentry": "",
   "english": [
     "skin",
     "flesh"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "meat.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The natural covering of your body. English = skin, flesh.",
-    "2. The substance your body is made of, which comes between your bones and your skin. English = flesh."
   ],
   "signNumber": 454,
   "recordNumber": 257,
@@ -40,5 +29,16 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The natural covering of your body. English = skin, flesh.",
+    "2. The substance your body is made of, which comes between your bones and your skin. English = flesh."
+  ],
+  "idGloss": "skin.1",
+  "oldEntry": ""
 }

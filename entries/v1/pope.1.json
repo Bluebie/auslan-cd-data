@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pope.1",
-  "oldentry": "",
   "english": [
     "Pope"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The head of the Roman Catholic Church. English = Pope."
-  ],
   "signNumber": 3531,
   "recordNumber": 2067,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "pope.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The head of the Roman Catholic Church. English = Pope."
+  ],
+  "idGloss": "pope.1",
+  "oldEntry": ""
 }

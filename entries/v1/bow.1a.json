@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bow.1a",
-  "oldentry": "Popular explanation: moving the head and body forwards.",
   "english": [
     "bow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To bend your body towards someone as a formal way of greeting them or showing respect. English = bow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of bending you body towards someone as a formal way of greeting them or showing respect. English = bow."
-  ],
   "signNumber": 5946,
   "recordNumber": 3541,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To bend your body towards someone as a formal way of greeting them or showing respect. English = bow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of bending you body towards someone as a formal way of greeting them or showing respect. English = bow."
+  ],
+  "idGloss": "bow.1a",
+  "oldEntry": "Popular explanation: moving the head and body forwards."
 }

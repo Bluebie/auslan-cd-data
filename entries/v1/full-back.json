@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "full-back",
-  "oldentry": "",
   "english": [
     "full-back"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "defence.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In Australian Rules Football, the central playing position on the back line nearest the defender's goal. English = full-back."
   ],
   "signNumber": 4103,
   "recordNumber": 2464,
@@ -39,5 +29,15 @@
   "antonyms": [
     "full-forward"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In Australian Rules Football, the central playing position on the back line nearest the defender's goal. English = full-back."
+  ],
+  "idGloss": "full-back",
+  "oldEntry": ""
 }

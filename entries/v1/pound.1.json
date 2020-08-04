@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "In context, this sign can refer to any thing or any action named by an English word beginning with 'L' particularly if it has already been fully fingerspelt in the conversation, especially litre and pound (symbols and abbreviations use 'L').",
-  "questlex": [],
-  "idgloss": "pound.1",
-  "oldentry": "",
   "english": [
     "pound",
     "litre"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A unit of money used in Australia until 1966 and still used in Britain. English = pound.",
-    "2. A unit of weight used mainly in Britain, America, and other countries where English is spoken, and written using the abbreviation lb. English = pound.",
-    "3. A metric unit of volume. English = litre."
-  ],
   "signNumber": 1304,
   "recordNumber": 776,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "In context, this sign can refer to any thing or any action named by an English word beginning with 'L' particularly if it has already been fully fingerspelt in the conversation, especially litre and pound (symbols and abbreviations use 'L').",
+  "nominalLexeme": [
+    "1. A unit of money used in Australia until 1966 and still used in Britain. English = pound.",
+    "2. A unit of weight used mainly in Britain, America, and other countries where English is spoken, and written using the abbreviation lb. English = pound.",
+    "3. A metric unit of volume. English = litre."
+  ],
+  "idGloss": "pound.1",
+  "oldEntry": ""
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A surface which is everywhere the same distance from the ground and not sloping or curved and with no parts higher than any other, or any action or any thing directly or indirectly associated with this, especially a shelf or a table.",
-  "questlex": [],
-  "idgloss": "flat.surface.1a",
-  "oldentry": "",
   "english": [
     "flat",
     "level",
@@ -34,18 +30,9 @@
     "table"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a surface, to be everywhere the same distance from the ground and not sloping or curved or to have no raised parts. English = (be) flat, (be) level."
-  ],
   "cf": [
     "smooth",
     "table"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat piece of wood, metal, or glass, attached to a wall or the sides of a cupboard, used for keeping things on; a narrow, flat place along the bottom edge of a window or in the side of a mountain or cliff. English = shelf; ledge.",
-    "2. A piece of furniture with a flat top that you put things one. English = table."
   ],
   "signNumber": 3895,
   "recordNumber": 2319,
@@ -62,5 +49,18 @@
   "synonyms": [
     "high.flat.surface.1a",
     "low.flat.surface.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a surface, to be everywhere the same distance from the ground and not sloping or curved or to have no raised parts. English = (be) flat, (be) level."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A surface which is everywhere the same distance from the ground and not sloping or curved and with no parts higher than any other, or any action or any thing directly or indirectly associated with this, especially a shelf or a table.",
+  "nominalLexeme": [
+    "1. A flat piece of wood, metal, or glass, attached to a wall or the sides of a cupboard, used for keeping things on; a narrow, flat place along the bottom edge of a window or in the side of a mountain or cliff. English = shelf; ledge.",
+    "2. A piece of furniture with a flat top that you put things one. English = table."
+  ],
+  "idGloss": "flat.surface.1a",
+  "oldEntry": ""
 }

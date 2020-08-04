@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "LOOK + GOOD",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pretty",
-  "oldentry": "",
   "english": [
     "prettiness",
     "attractiveness",
@@ -33,17 +29,7 @@
     "attractive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be nice to look at; to look good. English = (be) pretty, (be) good-looking, (be) attractive."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to give mild approval to some thing or some idea. English = 'It seems okay.', 'Looks good.', 'That's fine.', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition or state of being nice to look at or being good-looking. English = prettiness, attractiveness."
-  ],
   "signNumber": 1916,
   "recordNumber": 1144,
   "signVisualComposition": "",
@@ -58,5 +44,19 @@
     "handsome.1",
     "cute.1a",
     "cute.2a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to give mild approval to some thing or some idea. English = 'It seems okay.', 'Looks good.', 'That's fine.', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be nice to look at; to look good. English = (be) pretty, (be) good-looking, (be) attractive."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition or state of being nice to look at or being good-looking. English = prettiness, attractiveness."
+  ],
+  "idGloss": "pretty",
+  "oldEntry": ""
 }

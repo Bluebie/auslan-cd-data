@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "transparent",
-  "oldentry": "",
   "english": [
     "transparent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an object or substance, to be able to see through it. English = (be) transparent."
-  ],
   "cf": [
     "through.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1696,
   "recordNumber": 1015,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "primaryLocation": 7,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an object or substance, to be able to see through it. English = (be) transparent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "transparent",
+  "oldEntry": ""
 }

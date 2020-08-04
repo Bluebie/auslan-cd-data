@@ -17,24 +17,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "off",
-  "oldentry": "",
   "english": [
     "off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be off something (to be no longer on something).",
-    "2. To get off something (to be no longer standing on something).",
-    "3. To get up from something (to be no longer lying on or sitting on something).",
-    "4. To finish work for the day (to get off at a particular time); or to stop working for a period of time (to take time off work)."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4273,
   "recordNumber": 2593,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "synonyms": [
     "get.off.1a",
     "stand.up.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be off something (to be no longer on something).",
+    "2. To get off something (to be no longer standing on something).",
+    "3. To get up from something (to be no longer lying on or sitting on something).",
+    "4. To finish work for the day (to get off at a particular time); or to stop working for a period of time (to take time off work)."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "off",
+  "oldEntry": ""
 }

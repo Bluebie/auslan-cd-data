@@ -25,10 +25,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stupid.1",
-  "oldentry": "Popular explanation: culturally shared gesture.",
   "english": [
     "stupidity",
     "idiocy",
@@ -37,21 +33,7 @@
     "idiotic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To show a lack of good judgement or intelligence and to be not at all sensible. English = (be) stupid, (be) foolish.",
-    "2. To be very stupid. English = (be) idiotic."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you think that you do not like something and that it annoys you. English = 'How stupid!', 'That's ridiculous!'",
-    "2. Used alone to express irritation with yourself for having done something that is foolish or a mistake. English = 'Oops!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which is not at all sensible. English = stupidity.",
-    "2. The quality of being stupid. English = stupidity.",
-    "3. The quality of being very stupid. English = idiocy."
-  ],
   "signNumber": 5570,
   "recordNumber": 3295,
   "signVisualComposition": "",
@@ -66,5 +48,23 @@
     "stupid.2",
     "stupid.3",
     "oops"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you think that you do not like something and that it annoys you. English = 'How stupid!', 'That's ridiculous!'",
+    "2. Used alone to express irritation with yourself for having done something that is foolish or a mistake. English = 'Oops!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To show a lack of good judgement or intelligence and to be not at all sensible. English = (be) stupid, (be) foolish.",
+    "2. To be very stupid. English = (be) idiotic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which is not at all sensible. English = stupidity.",
+    "2. The quality of being stupid. English = stupidity.",
+    "3. The quality of being very stupid. English = idiocy."
+  ],
+  "idGloss": "stupid.1",
+  "oldEntry": "Popular explanation: culturally shared gesture."
 }

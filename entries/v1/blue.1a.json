@@ -14,24 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "blue.1a",
-  "oldentry": "",
   "english": [
     "blue"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the colour of the sky on a sunny day. English = (be) blue.",
-    "2. To make something blue."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of the sky on a sunny day. English = blue."
-  ],
   "signNumber": 4038,
   "recordNumber": 2415,
   "signVisualComposition": "",
@@ -42,5 +29,18 @@
   "antonyms": [],
   "synonyms": [
     "blue.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the colour of the sky on a sunny day. English = (be) blue.",
+    "2. To make something blue."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of the sky on a sunny day. English = blue."
+  ],
+  "idGloss": "blue.1a",
+  "oldEntry": ""
 }

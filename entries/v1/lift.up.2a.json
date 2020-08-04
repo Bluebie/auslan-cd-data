@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lift.up.2a",
-  "oldentry": "",
   "english": [
     "lift up",
     "get up",
     "get off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To lift up something from a surface.",
-    "2. To get up from being on a surface; to get up from a seat and stand.",
-    "3. To get off something."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3858,
   "recordNumber": 2294,
   "signVisualComposition": "",
@@ -47,5 +35,17 @@
   ],
   "synonyms": [
     "lift.up.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lift up something from a surface.",
+    "2. To get up from being on a surface; to get up from a seat and stand.",
+    "3. To get off something."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "lift.up.2a",
+  "oldEntry": ""
 }

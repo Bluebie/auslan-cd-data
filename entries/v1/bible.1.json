@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bible.1",
-  "oldentry": "",
   "english": [
     "Bible"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sacred book on which the Jewish and Christian religions are based. English = Bible."
-  ],
   "signNumber": 143,
   "recordNumber": 77,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "bible.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sacred book on which the Jewish and Christian religions are based. English = Bible."
+  ],
+  "idGloss": "bible.1",
+  "oldEntry": ""
 }

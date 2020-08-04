@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "deaf.1a",
-  "oldentry": "Popular explanation: covering the ear.",
   "english": [
     "deaf"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unable to hear anything or to be unable to hear very well, especially the sounds of speech. English = (be) deaf.",
-    "2. To relate to deaf people and their community. English = (be) Deaf."
-  ],
   "cf": [
     "hard-of-hearing",
     "hearing-impaired"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech. English = a deaf person, deaf people, the deaf.",
-    "2. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech, who use sign language to communicate and who form and identify as a community. English = a Deaf person, the deaf, the Deaf."
   ],
   "signNumber": 1909,
   "recordNumber": 1141,
@@ -50,5 +36,19 @@
     "hearing.1a",
     "hearing.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unable to hear anything or to be unable to hear very well, especially the sounds of speech. English = (be) deaf.",
+    "2. To relate to deaf people and their community. English = (be) Deaf."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech. English = a deaf person, deaf people, the deaf.",
+    "2. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech, who use sign language to communicate and who form and identify as a community. English = a Deaf person, the deaf, the Deaf."
+  ],
+  "idGloss": "deaf.1a",
+  "oldEntry": "Popular explanation: covering the ear."
 }

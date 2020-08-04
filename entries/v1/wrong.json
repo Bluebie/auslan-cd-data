@@ -19,28 +19,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wrong",
-  "oldentry": "",
   "english": [
     "mistake",
     "error",
     "wrong"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not correct or not suitable. English = (be) wrong.",
-    "2. To be bad or immoral. English = (be) wrong."
-  ],
   "cf": [
     "fail.1a",
     "bad"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An action or an opinion that is wrong. English = mistake, error."
   ],
   "signNumber": 4976,
   "recordNumber": 3005,
@@ -53,5 +40,18 @@
     "right.1a",
     "right.2"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not correct or not suitable. English = (be) wrong.",
+    "2. To be bad or immoral. English = (be) wrong."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An action or an opinion that is wrong. English = mistake, error."
+  ],
+  "idGloss": "wrong",
+  "oldEntry": ""
 }

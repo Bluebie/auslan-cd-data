@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grandfather.1",
-  "oldentry": "",
   "english": [
     "grandfather"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The father of your mother or father. English = grandfather."
-  ],
   "signNumber": 5811,
   "recordNumber": 3449,
   "signVisualComposition": "G + F + F",
@@ -38,5 +28,15 @@
   ],
   "synonyms": [
     "grandfather.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The father of your mother or father. English = grandfather."
+  ],
+  "idGloss": "grandfather.1",
+  "oldEntry": ""
 }

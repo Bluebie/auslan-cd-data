@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "collision.1a",
-  "oldentry": "Popular explanation: two objects crashing into each other.",
   "english": [
     "collision",
     "accident",
@@ -34,18 +30,8 @@
     "collide"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two moving objects, especially cars, to hit into each other. English = collide.",
-    "2. Of a car, to hit something or another moving car by chance or unintentionally. English = crash, smash, have an accident."
-  ],
   "cf": [
     "plane.crash"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The fact of two moving objects, especially cars, hitting each other. English = collision.",
-    "2. An event that happens by chance or unintentionally, when a car hits something or another moving car. English = accident, car accident, smash, crash."
   ],
   "signNumber": 5860,
   "recordNumber": 3486,
@@ -55,5 +41,19 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two moving objects, especially cars, to hit into each other. English = collide.",
+    "2. Of a car, to hit something or another moving car by chance or unintentionally. English = crash, smash, have an accident."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The fact of two moving objects, especially cars, hitting each other. English = collision.",
+    "2. An event that happens by chance or unintentionally, when a car hits something or another moving car. English = accident, car accident, smash, crash."
+  ],
+  "idGloss": "collision.1a",
+  "oldEntry": "Popular explanation: two objects crashing into each other."
 }

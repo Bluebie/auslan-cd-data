@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "washing machine.2",
-  "oldentry": "Popular explanation: rotating blades in a washing machine.",
   "english": [
     "washing machine"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine in which you can wash clothes. English = washing machine."
-  ],
   "signNumber": 6614,
   "recordNumber": 3936,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "washing machine.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine in which you can wash clothes. English = washing machine."
+  ],
+  "idGloss": "washing machine.2",
+  "oldEntry": "Popular explanation: rotating blades in a washing machine."
 }

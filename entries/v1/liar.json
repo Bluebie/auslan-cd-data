@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "liar",
-  "oldentry": "",
   "english": [
     "lie",
     "liar"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say something which you know is untrue. English = lie"
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that someone says which they know is untrue. English = lie.",
-    "2. A person who says things which they know are untrue; a person who tells lies. English = liar."
-  ],
   "signNumber": 632,
   "recordNumber": 366,
   "signVisualComposition": "",
@@ -47,5 +34,18 @@
   ],
   "synonyms": [
     "deceive"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say something which you know is untrue. English = lie"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that someone says which they know is untrue. English = lie.",
+    "2. A person who says things which they know are untrue; a person who tells lies. English = liar."
+  ],
+  "idGloss": "liar",
+  "oldEntry": ""
 }

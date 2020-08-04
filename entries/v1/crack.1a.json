@@ -11,24 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crack.1a",
-  "oldentry": "",
   "english": [
     "crack",
     "cracked"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become damaged with lines appearing on the surface. English = crack, become cracked."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A line that appears on the surface of something when it is slightly damaged. English = crack."
-  ],
   "signNumber": 3359,
   "recordNumber": 1961,
   "signVisualComposition": "",
@@ -37,5 +25,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become damaged with lines appearing on the surface. English = crack, become cracked."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A line that appears on the surface of something when it is slightly damaged. English = crack."
+  ],
+  "idGloss": "crack.1a",
+  "oldEntry": ""
 }

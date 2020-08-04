@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "CAKE + PLAY",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "party.3",
-  "oldentry": "",
   "english": [
     "party"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A social event, often in someone's home, at which people enjoy themselves doing such things as eating, drinking, dancing, talking, or playing games. English = party."
-  ],
   "signNumber": 3083,
   "recordNumber": 1770,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "synonyms": [
     "party.1",
     "party.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A social event, often in someone's home, at which people enjoy themselves doing such things as eating, drinking, dancing, talking, or playing games. English = party."
+  ],
+  "idGloss": "party.3",
+  "oldEntry": ""
 }

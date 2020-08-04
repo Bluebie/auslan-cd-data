@@ -17,26 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tennis.1a",
-  "oldentry": "Popular explanation: making a tennis serve.",
   "english": [
     "tennis",
     "serve"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To play tennis.",
-    "2. To throw up the ball in tennis and hit it to start play. English = serve."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A game played by two or four players on a rectangular court. They use rackets to hit a ball over a net which is between them. English = tennis.",
-    "2. The beginning of play in tennis when someone throws up the ball and hits it. English = serve."
-  ],
   "signNumber": 5723,
   "recordNumber": 3387,
   "signVisualComposition": "",
@@ -48,5 +34,19 @@
   "synonyms": [
     "squash.2",
     "badminton"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To play tennis.",
+    "2. To throw up the ball in tennis and hit it to start play. English = serve."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A game played by two or four players on a rectangular court. They use rackets to hit a ball over a net which is between them. English = tennis.",
+    "2. The beginning of play in tennis when someone throws up the ball and hits it. English = serve."
+  ],
+  "idGloss": "tennis.1a",
+  "oldEntry": "Popular explanation: making a tennis serve."
 }

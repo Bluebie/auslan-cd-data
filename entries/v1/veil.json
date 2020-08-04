@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "An obstruction in front of the face with space enough to peer through, such as a slit in a wall or the space between two planks, or any thing or any action directly or indirectly associated with this, especially Muslims or a veil.",
-  "questlex": [],
-  "idgloss": "veil",
-  "oldentry": "",
   "english": [
     "veil",
     "Muslim",
@@ -32,18 +28,7 @@
     "Islamic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a woman, especially in a Muslim culture, to wear a veil.",
-    "2. To relate to Islam. English = (be) Muslim, (be) Moslem, (be) Islamic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of thin, soft material that women sometimes wear over their heads, especially in Muslim cultures. English = veil.",
-    "2. A person who believes in Islam and lives according to its rules. English = Muslim, Moslem.",
-    "3. The religion of the Muslims, which teaches that there is only one God and that Mohammed is His prophet. English = Islam."
-  ],
   "signNumber": 3548.1,
   "recordNumber": 2078,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "Muslim"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a woman, especially in a Muslim culture, to wear a veil.",
+    "2. To relate to Islam. English = (be) Muslim, (be) Moslem, (be) Islamic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "An obstruction in front of the face with space enough to peer through, such as a slit in a wall or the space between two planks, or any thing or any action directly or indirectly associated with this, especially Muslims or a veil.",
+  "nominalLexeme": [
+    "1. A piece of thin, soft material that women sometimes wear over their heads, especially in Muslim cultures. English = veil.",
+    "2. A person who believes in Islam and lives according to its rules. English = Muslim, Moslem.",
+    "3. The religion of the Muslims, which teaches that there is only one God and that Mohammed is His prophet. English = Islam."
+  ],
+  "idGloss": "veil",
+  "oldEntry": ""
 }

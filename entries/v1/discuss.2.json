@@ -15,24 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "discuss.2",
-  "oldentry": "",
   "english": [
     "discussion",
     "discuss"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To converse with several people, usually by speaking rather than signing. English = discuss."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A friendly or serious conversation between several people, usually done by speaking rather than signing. English = discussion."
-  ],
   "signNumber": 3623,
   "recordNumber": 2134,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   "synonyms": [
     "discuss.1a",
     "discussion"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To converse with several people, usually by speaking rather than signing. English = discuss."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A friendly or serious conversation between several people, usually done by speaking rather than signing. English = discussion."
+  ],
+  "idGloss": "discuss.2",
+  "oldEntry": ""
 }

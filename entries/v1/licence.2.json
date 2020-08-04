@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "licence.2",
-  "oldentry": "",
   "english": [
     "licence",
     "licensed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an official document which gives you permission to do, used, or own something, especially drive a car. English = (be) licensed."
-  ],
   "cf": [
     "certificate.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An official document which gives you permission to do, use, or own something, especially drive a car. English = licence."
   ],
   "signNumber": 5376,
   "recordNumber": 3211,
@@ -46,5 +34,17 @@
   "antonyms": [],
   "synonyms": [
     "licence.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an official document which gives you permission to do, used, or own something, especially drive a car. English = (be) licensed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An official document which gives you permission to do, use, or own something, especially drive a car. English = licence."
+  ],
+  "idGloss": "licence.2",
+  "oldEntry": ""
 }

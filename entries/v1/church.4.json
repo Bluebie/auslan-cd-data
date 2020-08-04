@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "church.4",
-  "oldentry": "",
   "english": [
     "church"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A building in which Christians worship. English = church."
-  ],
   "signNumber": 3607,
   "recordNumber": 2123,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 11,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A building in which Christians worship. English = church."
+  ],
+  "idGloss": "church.4",
+  "oldEntry": ""
 }

@@ -25,10 +25,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "right.1a",
-  "oldentry": "",
   "english": [
     "correctness",
     "rightness",
@@ -39,21 +35,8 @@
     "accurate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be in accordance with the facts and have no mistakes. English = (be) right, (be) correct, (be) accurate.",
-    "2. To make something in accordance with the facts and/or to remove the mistakes. English = correct, right."
-  ],
   "cf": [
     "true"
-  ],
-  "interj": [
-    "1. Used alone to mean you agree with what your addressee is saying. English = 'That's right!', 'Yeah!', 'Ugh huh!' etc."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. The quality of being in accordance with the facts or having no mistakes. English = correctness, rightness, accuracy.",
-    "2. The fixing of something to remove the mistakes or to make it in accordance with the facts. English = correction.",
-    "3. The moral justification or legal permission to do something. English = right."
   ],
   "signNumber": 4936,
   "recordNumber": 2983,
@@ -66,5 +49,22 @@
   "synonyms": [
     "proper",
     "exact"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean you agree with what your addressee is saying. English = 'That's right!', 'Yeah!', 'Ugh huh!' etc."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be in accordance with the facts and have no mistakes. English = (be) right, (be) correct, (be) accurate.",
+    "2. To make something in accordance with the facts and/or to remove the mistakes. English = correct, right."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being in accordance with the facts or having no mistakes. English = correctness, rightness, accuracy.",
+    "2. The fixing of something to remove the mistakes or to make it in accordance with the facts. English = correction.",
+    "3. The moral justification or legal permission to do something. English = right."
+  ],
+  "idGloss": "right.1a",
+  "oldEntry": ""
 }

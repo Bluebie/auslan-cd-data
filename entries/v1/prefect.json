@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prefect",
-  "oldentry": "Popular explanation: the outline of the prefect badge.",
   "english": [
     "prefect",
     "name tag"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An older pupil at a school who does special duties and helps the teachers to control the younger pupils. English = prefect.",
-    "2. A small piece of cloth, metal or paper that is worn on your chest and which has your name on it. English = name tag."
-  ],
   "signNumber": 1577,
   "recordNumber": 939,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An older pupil at a school who does special duties and helps the teachers to control the younger pupils. English = prefect.",
+    "2. A small piece of cloth, metal or paper that is worn on your chest and which has your name on it. English = name tag."
+  ],
+  "idGloss": "prefect",
+  "oldEntry": "Popular explanation: the outline of the prefect badge."
 }

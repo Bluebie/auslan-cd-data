@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "high school.2",
-  "oldentry": "",
   "english": [
     "high school"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A school for people aged between eleven and eighteen. English = high school."
-  ],
   "signNumber": 4134,
   "recordNumber": 2490,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "high school.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A school for people aged between eleven and eighteen. English = high school."
+  ],
+  "idGloss": "high school.2",
+  "oldEntry": ""
 }

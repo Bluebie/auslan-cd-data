@@ -14,23 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pane.1",
-  "oldentry": "",
   "english": [
     "pane",
     "glass"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat sheet of glass in a window or a door. English = pane.",
-    "2. A hard transparent substance that windows and bottles are made from. English = glass."
-  ],
   "signNumber": 2451,
   "recordNumber": 1360,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "pane.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat sheet of glass in a window or a door. English = pane.",
+    "2. A hard transparent substance that windows and bottles are made from. English = glass."
+  ],
+  "idGloss": "pane.1",
+  "oldEntry": ""
 }

@@ -14,24 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "yellow.1",
-  "oldentry": "",
   "english": [
     "yellow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the colour of lemons or egg yolks. English = (be) yellow.",
-    "2. To become yellow. English = yellow, turn yellow."
-  ],
   "cf": [
     "noise.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 248,
   "recordNumber": 145,
   "signVisualComposition": "",
@@ -42,5 +31,16 @@
   "antonyms": [],
   "synonyms": [
     "yellow.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be the colour of lemons or egg yolks. English = (be) yellow.",
+    "2. To become yellow. English = yellow, turn yellow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "yellow.1",
+  "oldEntry": ""
 }

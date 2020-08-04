@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hamburger",
-  "oldentry": "Popular explanation: forming a meat patty.",
   "english": [
     "burger",
     "patty",
@@ -31,17 +27,7 @@
     "snowball"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shape meat, snow, mud and so on into a ball using your hands."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Minced meat which has been shaped into a flat disc or round flat ball and which is fried. English = burger, patty, rissole.",
-    "2. A bread roll which contains minced meat that has been shaped into a flat disc and which may also contain lettuce, tomato, cheese and so on. English = hamburger.",
-    "3. A ball of snow. Children often throw them at each other. English = snowball."
-  ],
   "signNumber": 4617,
   "recordNumber": 2796,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shape meat, snow, mud and so on into a ball using your hands."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Minced meat which has been shaped into a flat disc or round flat ball and which is fried. English = burger, patty, rissole.",
+    "2. A bread roll which contains minced meat that has been shaped into a flat disc and which may also contain lettuce, tomato, cheese and so on. English = hamburger.",
+    "3. A ball of snow. Children often throw them at each other. English = snowball."
+  ],
+  "idGloss": "hamburger",
+  "oldEntry": "Popular explanation: forming a meat patty."
 }

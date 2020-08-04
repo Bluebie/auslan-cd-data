@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "circumcised.1a",
-  "oldentry": "",
   "english": [
     "circumcision",
     "circumcise",
     "circumcised"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cut off the loose skin at the end of a boy's or man's penis for religious or medical reasons. English = circumcise.",
-    "2. To have a penis in which the loose skin at the end has been cut off for religious or medical reasons. English = (be) circumcised."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The operation in which the loose skin at the end of a man's or boy's penis is cut off for religious or medical reasons. English = circumcision.",
-    "2. The penis of a man or boy in which the loose skin at the end has been cut off. English = circumcised penis."
-  ],
   "signNumber": 4893,
   "recordNumber": 2956,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   ],
   "synonyms": [
     "circumcised.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cut off the loose skin at the end of a boy's or man's penis for religious or medical reasons. English = circumcise.",
+    "2. To have a penis in which the loose skin at the end has been cut off for religious or medical reasons. English = (be) circumcised."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The operation in which the loose skin at the end of a man's or boy's penis is cut off for religious or medical reasons. English = circumcision.",
+    "2. The penis of a man or boy in which the loose skin at the end has been cut off. English = circumcised penis."
+  ],
+  "idGloss": "circumcised.1a",
+  "oldEntry": ""
 }

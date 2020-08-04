@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "attend.1a",
-  "oldentry": "",
   "english": [
     "attendance",
     "assembly",
@@ -36,20 +32,9 @@
     "congregate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To go to and be present at a meeting, gathering or performance with a lot of other people. English = attend.",
-    "2. Of a large number of people, to gather together in one place. English = assemble, form a crowd, crowd together, congregate."
-  ],
   "cf": [
     "class.1a",
     "audience.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The number of people who are present at a meeting or a performance. English = attendance.",
-    "2. A large gathering or meeting of people. English = assembly, crowd.",
-    "3. The gathering of people in one place."
   ],
   "signNumber": 2663,
   "recordNumber": 1480,
@@ -61,5 +46,20 @@
   "antonyms": [],
   "synonyms": [
     "attend.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To go to and be present at a meeting, gathering or performance with a lot of other people. English = attend.",
+    "2. Of a large number of people, to gather together in one place. English = assemble, form a crowd, crowd together, congregate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The number of people who are present at a meeting or a performance. English = attendance.",
+    "2. A large gathering or meeting of people. English = assembly, crowd.",
+    "3. The gathering of people in one place."
+  ],
+  "idGloss": "attend.1a",
+  "oldEntry": ""
 }

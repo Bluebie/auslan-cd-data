@@ -12,24 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tea bag",
-  "oldentry": "",
   "english": [
     "tea bag"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To hold a tea bag above a cup and dip it into hot water in order to make a cup of tea."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small paper bag with tea leaves in it. You put it into hot water to make tea and then throw it away. English = tea bag.",
-    "2. A cup of tea made with a tea bag."
-  ],
   "signNumber": 481,
   "recordNumber": 267,
   "signVisualComposition": "",
@@ -38,5 +25,18 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To hold a tea bag above a cup and dip it into hot water in order to make a cup of tea."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small paper bag with tea leaves in it. You put it into hot water to make tea and then throw it away. English = tea bag.",
+    "2. A cup of tea made with a tea bag."
+  ],
+  "idGloss": "tea bag",
+  "oldEntry": ""
 }

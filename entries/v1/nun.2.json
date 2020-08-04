@@ -12,21 +12,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nun.2",
-  "oldentry": "",
   "english": [
     "nun"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A member of a female religious community. English = nun."
-  ],
   "signNumber": 4838,
   "recordNumber": 2923,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "nun.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A member of a female religious community. English = nun."
+  ],
+  "idGloss": "nun.2",
+  "oldEntry": ""
 }

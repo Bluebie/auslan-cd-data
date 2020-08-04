@@ -19,27 +19,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "important.1a",
-  "oldentry": "",
   "english": [
     "importance",
     "important"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very significant, valuable, or necessary. English = (be) important.",
-    "2. Of something, to be more important or better than other things of its kind. English = (be) special, (be) exceptional, (be) outstanding."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used in a phrase to indicate that what you are saying applies more to one thing or situation than to any other. English = especially."
-  ],
-  "nomlex": [
-    "1. The quality of being important, necessary or significant in a particular situation. English = importance."
-  ],
   "signNumber": 6322,
   "recordNumber": 3774,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "synonyms": [
     "top.1",
     "perfect.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used in a phrase to indicate that what you are saying applies more to one thing or situation than to any other. English = especially."
+  ],
+  "verbLexeme": [
+    "1. To be very significant, valuable, or necessary. English = (be) important.",
+    "2. Of something, to be more important or better than other things of its kind. English = (be) special, (be) exceptional, (be) outstanding."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The quality of being important, necessary or significant in a particular situation. English = importance."
+  ],
+  "idGloss": "important.1a",
+  "oldEntry": ""
 }

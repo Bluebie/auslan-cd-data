@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The action of flapping wings, or any thing or action directly or indirectly associated with this, especially a stingray.",
-  "questlex": [],
-  "idgloss": "stingray",
-  "oldentry": "",
   "english": [
     "stingray"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An underwater sea creature with wing-like extensions on either side of its body. English = stingray."
-  ],
   "signNumber": 3596,
   "recordNumber": 2114,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 13,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The action of flapping wings, or any thing or action directly or indirectly associated with this, especially a stingray.",
+  "nominalLexeme": [
+    "1. An underwater sea creature with wing-like extensions on either side of its body. English = stingray."
+  ],
+  "idGloss": "stingray",
+  "oldEntry": ""
 }

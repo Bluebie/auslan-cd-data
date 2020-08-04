@@ -10,19 +10,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.before.that",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action did not occur at some time in the past before some other action. English =  not before that, not prior to that."
-  ],
-  "nomlex": [],
   "signNumber": 430,
   "recordNumber": 239,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   ],
   "synonyms": [
     "not.prior.to"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action did not occur at some time in the past before some other action. English =  not before that, not prior to that."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.before.that",
+  "oldEntry": ""
 }

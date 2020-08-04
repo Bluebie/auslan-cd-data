@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "armchair",
-  "oldentry": "",
   "english": [
     "lounge chair",
     "armchair"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A comfortable chair which has a support on each side for your arms. English = lounge chair, armchair."
-  ],
   "signNumber": 2659,
   "recordNumber": 1476,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "primaryLocation": 13,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A comfortable chair which has a support on each side for your arms. English = lounge chair, armchair."
+  ],
+  "idGloss": "armchair",
+  "oldEntry": ""
 }

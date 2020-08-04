@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "force.2",
-  "oldentry": "",
   "english": [
     "force",
     "compel"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make someone do something, although they are very unwilling to. English = force, compel."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4539,
   "recordNumber": 2751,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "force.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make someone do something, although they are very unwilling to. English = force, compel."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "force.2",
+  "oldEntry": ""
 }

@@ -15,21 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disallow",
-  "oldentry": "",
   "english": [
     "disallow"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not accept or not approve of something. English = disallow."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 987,
   "recordNumber": 571,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
   "synonyms": [
     "prohibit.1a",
     "ban.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not accept or not approve of something. English = disallow."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "disallow",
+  "oldEntry": ""
 }

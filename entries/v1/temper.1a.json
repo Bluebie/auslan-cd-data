@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "temper.1a",
-  "oldentry": "",
   "english": [
     "temper",
     "fury",
@@ -32,17 +28,7 @@
     "pissed off"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to be extremely angry. English = (be) furious. Informal English = (be) pissed off.",
-    "2. Of a person, to suddenly become extremely angry and unable to control your behaviour. Idiomatic English = go off one's rocker, hit the roof."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of extreme anger and inability to control your behaviour. English = temper, fury, rage.",
-    "2. The tendency someone has to become angry or to stay calm. English = temper."
-  ],
   "signNumber": 6637,
   "recordNumber": 3951,
   "signVisualComposition": "THINK + BAD",
@@ -54,5 +40,19 @@
   "synonyms": [
     "angry.1a",
     "incensed"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to be extremely angry. English = (be) furious. Informal English = (be) pissed off.",
+    "2. Of a person, to suddenly become extremely angry and unable to control your behaviour. Idiomatic English = go off one's rocker, hit the roof."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of extreme anger and inability to control your behaviour. English = temper, fury, rage.",
+    "2. The tendency someone has to become angry or to stay calm. English = temper."
+  ],
+  "idGloss": "temper.1a",
+  "oldEntry": ""
 }

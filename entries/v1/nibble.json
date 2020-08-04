@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nibble",
-  "oldentry": "",
   "english": [
     "snack food",
     "nibblies",
@@ -25,16 +21,7 @@
     "nibble"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put something small into your mouth, chew it, and swallow it.",
-    "2. To eat something slowly by taking small bites out of it. English = nibble."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Small foods which you can eat between main meals. English = snack food. Informal English = nibbles, nibblies."
-  ],
   "signNumber": 282,
   "recordNumber": 166,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put something small into your mouth, chew it, and swallow it.",
+    "2. To eat something slowly by taking small bites out of it. English = nibble."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Small foods which you can eat between main meals. English = snack food. Informal English = nibbles, nibblies."
+  ],
+  "idGloss": "nibble",
+  "oldEntry": ""
 }

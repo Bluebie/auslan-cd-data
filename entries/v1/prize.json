@@ -23,10 +23,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prize",
-  "oldentry": "",
   "english": [
     "prize",
     "award",
@@ -36,20 +32,9 @@
     "remember"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To commit something to memory. English = memorise.",
-    "2. To bring something that has happened in the past back into your mind and think about it. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = remember."
-  ],
   "cf": [
     "trophy.1",
     "grudge.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something of value, for example a certificate, money or a trophy, that is given to someone who has the best results in a competition or game, or as a reward for doing good work. English = prize, award.",
-    "2. Something which you buy or keep to remind you of a holiday, place, or event. English = souvenir.",
-    "3. The ability to remember things. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = memory."
   ],
   "signNumber": 3155,
   "recordNumber": 1827,
@@ -64,5 +49,20 @@
   ],
   "synonyms": [
     "remember.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To commit something to memory. English = memorise.",
+    "2. To bring something that has happened in the past back into your mind and think about it. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = remember."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something of value, for example a certificate, money or a trophy, that is given to someone who has the best results in a competition or game, or as a reward for doing good work. English = prize, award.",
+    "2. Something which you buy or keep to remind you of a holiday, place, or event. English = souvenir.",
+    "3. The ability to remember things. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = memory."
+  ],
+  "idGloss": "prize",
+  "oldEntry": ""
 }

@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "now.1",
-  "oldentry": "",
   "english": [
     "current",
     "now",
@@ -35,16 +31,7 @@
     "nowadays"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be happening, being done, or being used at the present time. English = (be) current."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used next to a verb sign to mean that the action takes place at the present time (at the time of signing), often in contrast to a time in the past or the future. English = now.",
-    "2. Used to introduce the time frame for the actions or conditions that are to be described as being at the present time (at the time of signing) in contrast to a past or future time. English = presently, at the moment, currently, nowadays."
-  ],
-  "nomlex": [],
   "signNumber": 3861,
   "recordNumber": 2295,
   "signVisualComposition": "",
@@ -60,5 +47,18 @@
   "synonyms": [
     "now.3a",
     "straight"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used next to a verb sign to mean that the action takes place at the present time (at the time of signing), often in contrast to a time in the past or the future. English = now.",
+    "2. Used to introduce the time frame for the actions or conditions that are to be described as being at the present time (at the time of signing) in contrast to a past or future time. English = presently, at the moment, currently, nowadays."
+  ],
+  "verbLexeme": [
+    "1. To be happening, being done, or being used at the present time. English = (be) current."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "now.1",
+  "oldEntry": ""
 }

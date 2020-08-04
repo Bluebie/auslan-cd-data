@@ -14,25 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "abort",
-  "oldentry": "",
   "english": [
     "abortion",
     "abort"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To force the foetus out of the womb so that the pregnancy is ended and the foetus dies. English = abort, have an abortion."
-  ],
   "cf": [
     "remove"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ending of a pregnancy so that the foetus dies. English = abortion."
   ],
   "signNumber": 6044,
   "recordNumber": 3598,
@@ -42,5 +30,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To force the foetus out of the womb so that the pregnancy is ended and the foetus dies. English = abort, have an abortion."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ending of a pregnancy so that the foetus dies. English = abortion."
+  ],
+  "idGloss": "abort",
+  "oldEntry": ""
 }

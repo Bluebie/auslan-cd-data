@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "weather.1",
-  "oldentry": "",
   "english": [
     "weather",
     "climate"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The condition of the atmosphere, for example whether it is raining, sunny, hot, or windy in an area at a particular time. English = weather.",
-    "2. The general weather conditions that are typical of a place. English = climate."
-  ],
   "signNumber": 2607,
   "recordNumber": 1446,
   "signVisualComposition": "",
@@ -38,5 +27,16 @@
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The condition of the atmosphere, for example whether it is raining, sunny, hot, or windy in an area at a particular time. English = weather.",
+    "2. The general weather conditions that are typical of a place. English = climate."
+  ],
+  "idGloss": "weather.1",
+  "oldEntry": ""
 }

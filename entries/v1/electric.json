@@ -13,22 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "electric",
-  "oldentry": "",
   "english": [
     "electric",
     "electrical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of various devices and machines, to depend on electricity as a source of power. English = (be) electric, (be) electrical."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2719,
   "recordNumber": 1514,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "electricity.1a",
     "electricity.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of various devices and machines, to depend on electricity as a source of power. English = (be) electric, (be) electrical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "electric",
+  "oldEntry": ""
 }

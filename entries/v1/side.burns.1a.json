@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "side.burns.1a",
-  "oldentry": "Popular explanation: the shape of side burns.",
   "english": [
     "sideboards",
     "sideburns"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man, to have sideburns."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. On a man, a strip of hair growing down the side of each cheek. English = sideboards, sideburns."
-  ],
   "signNumber": 5464,
   "recordNumber": 3247,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "primaryLocation": 9,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man, to have sideburns."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. On a man, a strip of hair growing down the side of each cheek. English = sideboards, sideburns."
+  ],
+  "idGloss": "side.burns.1a",
+  "oldEntry": "Popular explanation: the shape of side burns."
 }

@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pin",
-  "oldentry": "Popular explanation: putting a pin in one's lapel.",
   "english": [
     "pin"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a pin to fasten something somewhere. English = pin."
-  ],
   "cf": [
     "sting.1a",
     "needle"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very small, thin rod of metal with a point at one end. They can be stuck through things, for example two pieces of cloth, in order to fasten them together. English = pin."
   ],
   "signNumber": 322,
   "recordNumber": 180,
@@ -40,5 +28,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a pin to fasten something somewhere. English = pin."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very small, thin rod of metal with a point at one end. They can be stuck through things, for example two pieces of cloth, in order to fasten them together. English = pin."
+  ],
+  "idGloss": "pin",
+  "oldEntry": "Popular explanation: putting a pin in one's lapel."
 }

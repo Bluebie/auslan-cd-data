@@ -16,27 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "society",
-  "oldentry": "",
   "english": [
     "society",
     "social"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To relate to society or the way that society is organised. English = (be) social."
-  ],
   "cf": [
     "association",
     "family.2a",
     "class.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The people in a country and their way of life. English = society."
   ],
   "signNumber": 5776,
   "recordNumber": 3423,
@@ -46,5 +34,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To relate to society or the way that society is organised. English = (be) social."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The people in a country and their way of life. English = society."
+  ],
+  "idGloss": "society",
+  "oldEntry": ""
 }

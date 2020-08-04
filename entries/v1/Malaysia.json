@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Malaysia",
-  "oldentry": "Popular explanation: stereotypic movements from traditional Malaysian dance.",
   "english": [
     "Malaysia",
     "Malaysian"
   ],
   "deictic": [],
-  "verblex": [
-    "1. A person or thing from or relating to Malaysia. English = Malaysian."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in south east Asia, between Thailand and Indonesia, called Malaysia."
-  ],
   "signNumber": 3565,
   "recordNumber": 2092,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 8,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. A person or thing from or relating to Malaysia. English = Malaysian."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in south east Asia, between Thailand and Indonesia, called Malaysia."
+  ],
+  "idGloss": "Malaysia",
+  "oldEntry": "Popular explanation: stereotypic movements from traditional Malaysian dance."
 }

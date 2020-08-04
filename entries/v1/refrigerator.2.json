@@ -12,22 +12,12 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "refrigerator.2",
-  "oldentry": "Popular explanation: shivering from the cold.",
   "english": [
     "refrigerator",
     "fridge"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large container which is kept cool inside, usually by electricity, so that the food and drink in it stays fresh. English = refrigerator. Informal English = fridge."
-  ],
   "signNumber": 5760,
   "recordNumber": 3413,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "refrigerator.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large container which is kept cool inside, usually by electricity, so that the food and drink in it stays fresh. English = refrigerator. Informal English = fridge."
+  ],
+  "idGloss": "refrigerator.2",
+  "oldEntry": "Popular explanation: shivering from the cold."
 }

@@ -10,24 +10,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "A flat object placed on top of a container of some sort, or any action or any thing directly or indirectly associated with this, especially a lid.",
-  "questlex": [],
-  "idgloss": "lid.1a",
-  "oldentry": "",
   "english": [
     "lid",
     "cover"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To close the lid on a container; to cover a container with a lid."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The top of a box or other container, such as a jar, which can be removed or raised when you want to open the container. English = lid, cover."
-  ],
   "signNumber": 4419,
   "recordNumber": 2686,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To close the lid on a container; to cover a container with a lid."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "A flat object placed on top of a container of some sort, or any action or any thing directly or indirectly associated with this, especially a lid.",
+  "nominalLexeme": [
+    "1. The top of a box or other container, such as a jar, which can be removed or raised when you want to open the container. English = lid, cover."
+  ],
+  "idGloss": "lid.1a",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "The act of carrying something heavy slung over your shoulder, or any object or action directly or indirectly associated with this, especially a caddie.",
-  "questlex": [],
-  "idgloss": "caddie",
-  "oldentry": "Popular explanation: carrying a golf bag over the shoulder.",
   "english": [
     "caddie"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who carries a bag of golf clubs. English = caddie."
-  ],
   "signNumber": 5841,
   "recordNumber": 3474,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 13,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "The act of carrying something heavy slung over your shoulder, or any object or action directly or indirectly associated with this, especially a caddie.",
+  "nominalLexeme": [
+    "1. A person who carries a bag of golf clubs. English = caddie."
+  ],
+  "idGloss": "caddie",
+  "oldEntry": "Popular explanation: carrying a golf bag over the shoulder."
 }

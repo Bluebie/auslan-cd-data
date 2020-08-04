@@ -9,21 +9,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prostitute",
-  "oldentry": "Popular explanation: applying rouge on the cheek.",
   "english": [
     "prostitute"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person, usually a woman, who has sex with men in exchange for money. English = prostitute."
-  ],
   "signNumber": 5596,
   "recordNumber": 3313,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person, usually a woman, who has sex with men in exchange for money. English = prostitute."
+  ],
+  "idGloss": "prostitute",
+  "oldEntry": "Popular explanation: applying rouge on the cheek."
 }

@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "our.ours",
-  "oldentry": "",
   "english": [
     "our",
     "ours"
@@ -26,15 +22,11 @@
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is owned or possessed by the person or thing this sign is directed towards.",
     "In this case, the thing belongs or relates to the signer and a group including the signer. English = our, ours."
   ],
-  "verblex": [],
   "cf": [
     "your.yours.1a",
     "your.yours.2a",
     "my.mine.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5756,
   "recordNumber": 3410,
   "signVisualComposition": "",
@@ -43,5 +35,13 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "our.ours",
+  "oldEntry": ""
 }

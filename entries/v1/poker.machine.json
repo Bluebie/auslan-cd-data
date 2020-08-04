@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "poker.machine",
-  "oldentry": "Popular explanation: pulling the lever on a poker machine.",
   "english": [
     "poker machine",
     "pokies"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To gamble on a poker machine; to play a poker machine. Informal Australian English = play the pokies."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine used for gambling. You put in a coin and then pull a lever (on old machines) or press buttons (on new machines) to try and get particular patterns of symbols on a screen in order to win money. Australian English = poker machine, pokies."
-  ],
   "signNumber": 5675,
   "recordNumber": 3363,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To gamble on a poker machine; to play a poker machine. Informal Australian English = play the pokies."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine used for gambling. You put in a coin and then pull a lever (on old machines) or press buttons (on new machines) to try and get particular patterns of symbols on a screen in order to win money. Australian English = poker machine, pokies."
+  ],
+  "idGloss": "poker.machine",
+  "oldEntry": "Popular explanation: pulling the lever on a poker machine."
 }

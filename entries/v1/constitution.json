@@ -12,22 +12,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "constitution",
-  "oldentry": "",
   "english": [
     "constitution"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "policy"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The system of laws of a country or organisation which formally states people's rights and duties. English = constitution."
   ],
   "signNumber": 4682,
   "recordNumber": 2828,
@@ -37,5 +27,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The system of laws of a country or organisation which formally states people's rights and duties. English = constitution."
+  ],
+  "idGloss": "constitution",
+  "oldEntry": ""
 }

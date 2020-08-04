@@ -16,26 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any box-like object which is covered with stripes or made up of long and thin things, such as wires, bars, or beams, or any thing or any action directly or indirectly associated with this, especially a frame or a cage.",
-  "questlex": [],
-  "idgloss": "cage",
-  "oldentry": "Popular explanation: the shape and bars of a cage.",
   "english": [
     "cage",
     "frame",
     "framework"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "house",
     "border.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An arrangement of bars that gives an object its shape and strength. English = frame, framework.",
-    "2. A structure of wire or metal bars in which birds or animals are kept. English = cage."
   ],
   "signNumber": 2403,
   "recordNumber": 1326,
@@ -45,5 +34,16 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any box-like object which is covered with stripes or made up of long and thin things, such as wires, bars, or beams, or any thing or any action directly or indirectly associated with this, especially a frame or a cage.",
+  "nominalLexeme": [
+    "1. An arrangement of bars that gives an object its shape and strength. English = frame, framework.",
+    "2. A structure of wire or metal bars in which birds or animals are kept. English = cage."
+  ],
+  "idGloss": "cage",
+  "oldEntry": "Popular explanation: the shape and bars of a cage."
 }

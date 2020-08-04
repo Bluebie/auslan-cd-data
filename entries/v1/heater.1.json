@@ -10,21 +10,11 @@
   "sense": "3",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "heater.1",
-  "oldentry": "",
   "english": [
     "heater"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A piece of equipment which is used to warm the air in a room. English = heater."
-  ],
   "signNumber": 5607,
   "recordNumber": 3320,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [],
   "synonyms": [
     "heater.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A piece of equipment which is used to warm the air in a room. English = heater."
+  ],
+  "idGloss": "heater.1",
+  "oldEntry": ""
 }

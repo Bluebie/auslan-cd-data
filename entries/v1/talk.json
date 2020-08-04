@@ -19,27 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "talk",
-  "oldentry": "",
   "english": [
     "talk",
     "comments",
     "remarks"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say things to someone (in speech or sign). English = talk."
-  ],
   "cf": [
     "discussion"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of saying things to someone (in speech or sign). English = talk.",
-    "2. The things that someone says to someone (in speech or sign). English = comments, remarks."
   ],
   "signNumber": 1024,
   "recordNumber": 599,
@@ -53,5 +40,18 @@
     "chat",
     "gossip.1a",
     "dialogue.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say things to someone (in speech or sign). English = talk."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of saying things to someone (in speech or sign). English = talk.",
+    "2. The things that someone says to someone (in speech or sign). English = comments, remarks."
+  ],
+  "idGloss": "talk",
+  "oldEntry": ""
 }

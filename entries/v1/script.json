@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "script",
-  "oldentry": "",
   "english": [
     "script"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "choreographer"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The written version of a play, film, or television program. English = script."
   ],
   "signNumber": 6039,
   "recordNumber": 3594,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The written version of a play, film, or television program. English = script."
+  ],
+  "idGloss": "script",
+  "oldEntry": ""
 }

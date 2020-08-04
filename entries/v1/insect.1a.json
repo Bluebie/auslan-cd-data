@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "insect.1a",
-  "oldentry": "",
   "english": [
     "insect",
     "bee",
@@ -26,18 +22,9 @@
     "fly"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "animal.1",
     "animal.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small animal which has six legs and which flies. English  = (flying) insect.",
-    "2. An insect which usually has a yellow and black striped body, makes honey and lives in large groups.  English = bee.",
-    "3. A small insect which lives in damp places and bites people in order to suck their blood. English = mosquito.",
-    "4. A small insect with two wings. English = fly."
   ],
   "signNumber": 309,
   "recordNumber": 176,
@@ -50,5 +37,18 @@
   "synonyms": [
     "spider",
     "sting.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small animal which has six legs and which flies. English  = (flying) insect.",
+    "2. An insect which usually has a yellow and black striped body, makes honey and lives in large groups.  English = bee.",
+    "3. A small insect which lives in damp places and bites people in order to suck their blood. English = mosquito.",
+    "4. A small insect with two wings. English = fly."
+  ],
+  "idGloss": "insect.1a",
+  "oldEntry": ""
 }

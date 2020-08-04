@@ -21,31 +21,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "promise.2",
-  "oldentry": "",
   "english": [
     "promise",
     "admission",
     "admit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say to someone that you will definitely do something and that you are telling the truth when you say so. English = promise.",
-    "2. To tell the truth about something, especially after having said things that were not true or having avoided telling the whole truth. English = admit."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone, when you doubt the truth of what your addressee is saying, to mean you want assurance that it is indeed true. English = 'For sure?!', 'Are you telling the truth?!', 'No kidding?!', 'Are you for real?!' and so on."
-  ],
-  "partlex": [
-    "1. Used at the beginning of a sentence to mean that what follows is the truth, especially when it is an admission. English = to tell you the truth, truthfully; I admit it ..."
-  ],
-  "nomlex": [
-    "1. A statement which you make to someone in which you say that you will definitely do something or give them something. You believe this statement to be true. English = promise.",
-    "2. The making of a true statement, particularly after having said things that were not true or at least not the whole truth. English = admission."
-  ],
   "signNumber": 1203,
   "recordNumber": 708,
   "signVisualComposition": "SAY + TRUE",
@@ -59,5 +41,23 @@
   "synonyms": [
     "promise.1",
     "promise.3"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone, when you doubt the truth of what your addressee is saying, to mean you want assurance that it is indeed true. English = 'For sure?!', 'Are you telling the truth?!', 'No kidding?!', 'Are you for real?!' and so on."
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning of a sentence to mean that what follows is the truth, especially when it is an admission. English = to tell you the truth, truthfully; I admit it ..."
+  ],
+  "verbLexeme": [
+    "1. To say to someone that you will definitely do something and that you are telling the truth when you say so. English = promise.",
+    "2. To tell the truth about something, especially after having said things that were not true or having avoided telling the whole truth. English = admit."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A statement which you make to someone in which you say that you will definitely do something or give them something. You believe this statement to be true. English = promise.",
+    "2. The making of a true statement, particularly after having said things that were not true or at least not the whole truth. English = admission."
+  ],
+  "idGloss": "promise.2",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stray.1",
-  "oldentry": "",
   "english": [
     "stray"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wander away from where you are supposed to be or from the direction in which you are supposed to be going. English = stray."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1014,
   "recordNumber": 592,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "synonyms": [
     "stray.2",
     "digress"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wander away from where you are supposed to be or from the direction in which you are supposed to be going. English = stray."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "stray.1",
+  "oldEntry": ""
 }

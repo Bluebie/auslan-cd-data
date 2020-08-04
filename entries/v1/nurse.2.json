@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "nurse.2",
-  "oldentry": "Popular explanation: the medical cross.",
   "english": [
     "nurse",
     "paramedic",
@@ -32,18 +28,9 @@
     "patient"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "ambulance",
     "first aid"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A thing person or organisation connected with the care of sick or injured people, such as a nurse, hospital, or ambulance.",
-    "2. Someone with medical training whose job it is to help people who are injured or sick. English = nurse, paramedic.",
-    "3. A place where sick people are looked after by doctors and nurses. English = hospital.",
-    "4. A person who is receiving medical treatment from a doctor or a hospital, or who is registered with a particular doctor. English = patient."
   ],
   "signNumber": 814,
   "recordNumber": 464,
@@ -57,5 +44,18 @@
     "nurse.2",
     "hospital.1a",
     "hospital.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A thing person or organisation connected with the care of sick or injured people, such as a nurse, hospital, or ambulance.",
+    "2. Someone with medical training whose job it is to help people who are injured or sick. English = nurse, paramedic.",
+    "3. A place where sick people are looked after by doctors and nurses. English = hospital.",
+    "4. A person who is receiving medical treatment from a doctor or a hospital, or who is registered with a particular doctor. English = patient."
+  ],
+  "idGloss": "nurse.2",
+  "oldEntry": "Popular explanation: the medical cross."
 }

@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bet.1",
-  "oldentry": "",
   "english": [
     "bet",
     "wager",
@@ -30,19 +26,7 @@
     "dare"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make an agreement with someone that if what you say will happen does happen, they will give you a sum of money, and if you are wrong you will give them a sum of money. English = bet. Formal or archaic English = wager.",
-    "2. To invite someone to fight or compete with you. English = challenge.",
-    "3. To suggest that someone does something dangerous or frightening, to show how brave they are. English = dare."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal, archaic English = wager.",
-    "2. A suggestion from someone that you should compete or argue with them. English = challenge, dare.",
-    "3. A challenge which one person makes to another to do something dangerous or frightening. English = dare."
-  ],
   "signNumber": 5519,
   "recordNumber": 3268,
   "signVisualComposition": "",
@@ -55,5 +39,21 @@
     "bet.2a",
     "bid.1a",
     "sue"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make an agreement with someone that if what you say will happen does happen, they will give you a sum of money, and if you are wrong you will give them a sum of money. English = bet. Formal or archaic English = wager.",
+    "2. To invite someone to fight or compete with you. English = challenge.",
+    "3. To suggest that someone does something dangerous or frightening, to show how brave they are. English = dare."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal, archaic English = wager.",
+    "2. A suggestion from someone that you should compete or argue with them. English = challenge, dare.",
+    "3. A challenge which one person makes to another to do something dangerous or frightening. English = dare."
+  ],
+  "idGloss": "bet.1",
+  "oldEntry": ""
 }

@@ -15,27 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "punctually",
-  "oldentry": "",
   "english": [
     "punctual",
     "punctually",
     "precisely"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To happen exactly at the time arranged. English = (be) punctual. Idiomatic English = (be) on time.",
-    "2. To happen exactly on the hour."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a time sign specifying a particular time (6 o'clock, 9 o'clock, etc.) to mean that time exactly. English = precisely. Idiomatic English = on the dot.",
-    "2. Used immediately next to a verb to mean the action takes place exactly at the time it is meant to, usually on the hour. English = punctually."
-  ],
-  "nomlex": [],
   "signNumber": 3963,
   "recordNumber": 2367,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a time sign specifying a particular time (6 o'clock, 9 o'clock, etc.) to mean that time exactly. English = precisely. Idiomatic English = on the dot.",
+    "2. Used immediately next to a verb to mean the action takes place exactly at the time it is meant to, usually on the hour. English = punctually."
+  ],
+  "verbLexeme": [
+    "1. To happen exactly at the time arranged. English = (be) punctual. Idiomatic English = (be) on time.",
+    "2. To happen exactly on the hour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "punctually",
+  "oldEntry": ""
 }

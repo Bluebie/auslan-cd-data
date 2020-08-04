@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "matter",
-  "oldentry": "",
   "english": [
     "matter",
     "problem",
@@ -37,19 +33,7 @@
     "mistaken"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of an event of situation, to involve problems.",
-    "2. To have damage or weakness in a part of the body, especially the sense organs, which means that this part of the body does not work properly. English = (be) impaired.",
-    "3. To do or think something that is wrong, or that is not what you intended to do or think. English = make a mistake, (be) mistaken."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An event or situation which you have to deal with, especially one that involves problems. English = matter, problem.",
-    "2. Damage or weakness of the body, especially the sense organs, which means that a part of your body does not work properly and seriously affects your life. English = impairment.",
-    "3. An action or opinion that is wrong, or that is not what you intended to do. English = mistake, error."
-  ],
   "signNumber": 5051,
   "recordNumber": 3046,
   "signVisualComposition": "",
@@ -61,5 +45,21 @@
   "synonyms": [
     "problem.1",
     "problem.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of an event of situation, to involve problems.",
+    "2. To have damage or weakness in a part of the body, especially the sense organs, which means that this part of the body does not work properly. English = (be) impaired.",
+    "3. To do or think something that is wrong, or that is not what you intended to do or think. English = make a mistake, (be) mistaken."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An event or situation which you have to deal with, especially one that involves problems. English = matter, problem.",
+    "2. Damage or weakness of the body, especially the sense organs, which means that a part of your body does not work properly and seriously affects your life. English = impairment.",
+    "3. An action or opinion that is wrong, or that is not what you intended to do. English = mistake, error."
+  ],
+  "idGloss": "matter",
+  "oldEntry": ""
 }

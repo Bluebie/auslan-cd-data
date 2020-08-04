@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "SOFT + HEART",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "indulgent",
-  "oldentry": "",
   "english": [
     "indulgence",
     "soft-heartedness",
@@ -34,16 +30,8 @@
     "kind-hearted"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulge, spoil, (be) soft-hearted, (be) kind-hearted."
-  ],
   "cf": [
     "wet.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The kind of behaviour in which you treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulgence, soft-heartedness, kindness."
   ],
   "signNumber": 3405,
   "recordNumber": 1990,
@@ -57,5 +45,17 @@
   ],
   "synonyms": [
     "spoil.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulge, spoil, (be) soft-hearted, (be) kind-hearted."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The kind of behaviour in which you treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulgence, soft-heartedness, kindness."
+  ],
+  "idGloss": "indulgent",
+  "oldEntry": ""
 }

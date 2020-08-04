@@ -10,22 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "club.2",
-  "oldentry": "",
   "english": [
     "club"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An organisation of people who are all interested in a particular activity or subject. English = club.",
-    "2. The place where the members of a club meet. English = club."
-  ],
   "signNumber": 6131,
   "recordNumber": 3648,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "antonyms": [],
   "synonyms": [
     "club.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An organisation of people who are all interested in a particular activity or subject. English = club.",
+    "2. The place where the members of a club meet. English = club."
+  ],
+  "idGloss": "club.2",
+  "oldEntry": ""
 }

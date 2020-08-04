@@ -14,21 +14,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hospital.3",
-  "oldentry": "",
   "english": [
     "hospital"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where sick people are looked after by doctors and nurses. A North Rocks school sign. English = hospital."
-  ],
   "signNumber": 4716,
   "recordNumber": 2850,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
     "hospital.1a",
     "hospital.2",
     "hospital.4"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where sick people are looked after by doctors and nurses. A North Rocks school sign. English = hospital."
+  ],
+  "idGloss": "hospital.3",
+  "oldEntry": ""
 }

@@ -22,10 +22,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "instead",
-  "oldentry": "Popular explanation: picking up and changing positions.",
   "english": [
     "substitution",
     "substitute",
@@ -35,22 +31,9 @@
     "instead"
   ],
   "deictic": [],
-  "verblex": [
-    "1. For one person or thing to take the place of or perform the function of a second person or thing. English = substitute, replace. Idiomatic English = put in the place of.",
-    "2. To use one thing instead of a second thing. English = substitute, replace."
-  ],
   "cf": [
     "swap.1a",
     "postpone.1"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used between the signs for two things or the names of two people, between two actions, or between two times, to mean the first happens rather than the second. English = instead of, in the place of.",
-    "2. Used at the beginning of a sentence to mean the action or the thing discussed in the sentence happens rather than something else which has just recently been talked about. English = instead."
-  ],
-  "nomlex": [
-    "1. The act of putting one person or thing in the place of another person or thing. English = substitution, replacement.",
-    "2. The person or thing that takes the place of or performs the function of a second person or thing. English = substitute, replacement."
   ],
   "signNumber": 401,
   "recordNumber": 220,
@@ -60,5 +43,22 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used between the signs for two things or the names of two people, between two actions, or between two times, to mean the first happens rather than the second. English = instead of, in the place of.",
+    "2. Used at the beginning of a sentence to mean the action or the thing discussed in the sentence happens rather than something else which has just recently been talked about. English = instead."
+  ],
+  "verbLexeme": [
+    "1. For one person or thing to take the place of or perform the function of a second person or thing. English = substitute, replace. Idiomatic English = put in the place of.",
+    "2. To use one thing instead of a second thing. English = substitute, replace."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of putting one person or thing in the place of another person or thing. English = substitution, replacement.",
+    "2. The person or thing that takes the place of or performs the function of a second person or thing. English = substitute, replacement."
+  ],
+  "idGloss": "instead",
+  "oldEntry": "Popular explanation: picking up and changing positions."
 }

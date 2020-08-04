@@ -13,26 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horns.1a",
-  "oldentry": "Popular explanation: the horns of an animal.",
   "english": [
     "horns",
     "bull"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "cattle.1a",
     "tusks"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The hard pointed things that stick out of the heads of cows, deer, and some other animals. English = horns.",
-    "2. A male animal of the cow family. English = bull.",
-    "3. Any animal with horns."
   ],
   "signNumber": 4568,
   "recordNumber": 2767,
@@ -42,5 +30,17 @@
   "primaryLocation": 1,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The hard pointed things that stick out of the heads of cows, deer, and some other animals. English = horns.",
+    "2. A male animal of the cow family. English = bull.",
+    "3. Any animal with horns."
+  ],
+  "idGloss": "horns.1a",
+  "oldEntry": "Popular explanation: the horns of an animal."
 }

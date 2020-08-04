@@ -19,10 +19,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "suckle",
-  "oldentry": "",
   "english": [
     "teat",
     "nipple",
@@ -32,18 +28,7 @@
     "fellate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a baby, to suck milk from its mother's breast or from a bottle fitted with a teat. English = suckle.",
-    "2. To orally stimulate the genitals of your (male) sexual partner. English = have oral sex. Formal English = fellate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the pieces of flesh that stick out on the chest or stomach of a female animal and from which its babies suck milk. English = teat, nipple.",
-    "2. A piece of rubber or plastic that is shaped like a teat and is fitted to a bottle so that a baby can suck liquids from it. English = teat.",
-    "3. Sexual activity in which one partner orally stimulates the genitals of the other (male) partner. English = oral sex. Formal English = fellatio."
-  ],
   "signNumber": 2833,
   "recordNumber": 1593,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "fellatio"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a baby, to suck milk from its mother's breast or from a bottle fitted with a teat. English = suckle.",
+    "2. To orally stimulate the genitals of your (male) sexual partner. English = have oral sex. Formal English = fellate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the pieces of flesh that stick out on the chest or stomach of a female animal and from which its babies suck milk. English = teat, nipple.",
+    "2. A piece of rubber or plastic that is shaped like a teat and is fitted to a bottle so that a baby can suck liquids from it. English = teat.",
+    "3. Sexual activity in which one partner orally stimulates the genitals of the other (male) partner. English = oral sex. Formal English = fellatio."
+  ],
+  "idGloss": "suckle",
+  "oldEntry": ""
 }

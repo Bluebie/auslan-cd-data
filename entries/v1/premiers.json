@@ -13,23 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "premiers",
-  "oldentry": "",
   "english": [
     "premiers",
     "premiership"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The winner of a rugby championship. Australian English = premiers.",
-    "2. A championship competition held among a number of sports clubs. English = premiership."
-  ],
   "signNumber": 2955.1,
   "recordNumber": 1678,
   "signVisualComposition": "",
@@ -40,5 +29,16 @@
   "antonyms": [],
   "synonyms": [
     "premiership"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The winner of a rugby championship. Australian English = premiers.",
+    "2. A championship competition held among a number of sports clubs. English = premiership."
+  ],
+  "idGloss": "premiers",
+  "oldEntry": ""
 }

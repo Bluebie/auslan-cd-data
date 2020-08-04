@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tissue",
-  "oldentry": "Popular explanation: taking tissues from a box.",
   "english": [
     "tissue"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take tissues out of box of tissues."
-  ],
   "cf": [
     "elect"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, square piece of soft paper that you use as a handkerchief; or a box of them. English = tissue; box of tissues."
   ],
   "signNumber": 4386,
   "recordNumber": 2673,
@@ -39,5 +27,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take tissues out of box of tissues."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small, square piece of soft paper that you use as a handkerchief; or a box of them. English = tissue; box of tissues."
+  ],
+  "idGloss": "tissue",
+  "oldEntry": "Popular explanation: taking tissues from a box."
 }

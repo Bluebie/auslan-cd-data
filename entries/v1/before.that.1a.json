@@ -15,24 +15,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "before.that.1a",
-  "oldentry": "",
   "english": [
     "before"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "prior.to.1a",
     "since.1a"
   ],
-  "interj": [],
-  "partlex": [
-    "1. Used immediately next to a verb to mean that the action happened some time in the past before some other action. English =  before that, prior to that."
-  ],
-  "nomlex": [],
   "signNumber": 3969,
   "recordNumber": 2372,
   "signVisualComposition": "",
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "before.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used immediately next to a verb to mean that the action happened some time in the past before some other action. English =  before that, prior to that."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "before.that.1a",
+  "oldEntry": ""
 }

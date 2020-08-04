@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "smooch",
-  "oldentry": "",
   "english": [
     "smooch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two people, to kiss and hold each other closely; to kiss deeply and for a long time. Informal English = smooch."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1.A long and passionate kiss."
-  ],
   "signNumber": 2027,
   "recordNumber": 1189,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "kiss.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two people, to kiss and hold each other closely; to kiss deeply and for a long time. Informal English = smooch."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1.A long and passionate kiss."
+  ],
+  "idGloss": "smooch",
+  "oldEntry": ""
 }

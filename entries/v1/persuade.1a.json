@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "persuade.1a",
-  "oldentry": "",
   "english": [
     "persuasion",
     "persuade",
@@ -32,18 +28,8 @@
     "convince"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause someone to do something by giving them good reasons and encouraging them to do it. English = persuade, coax.",
-    "2. To try very hard to persuade someone to do something. English = urge.",
-    "3. To try very hard to persuade someone to believe that something is true or necessary. English = convince."
-  ],
   "cf": [
     "encourage.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of persuading someone to do something. English = persuasion."
   ],
   "signNumber": 3785,
   "recordNumber": 2242,
@@ -53,5 +39,19 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause someone to do something by giving them good reasons and encouraging them to do it. English = persuade, coax.",
+    "2. To try very hard to persuade someone to do something. English = urge.",
+    "3. To try very hard to persuade someone to believe that something is true or necessary. English = convince."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of persuading someone to do something. English = persuasion."
+  ],
+  "idGloss": "persuade.1a",
+  "oldEntry": ""
 }

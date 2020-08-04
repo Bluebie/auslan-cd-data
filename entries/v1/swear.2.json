@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "swear.2",
-  "oldentry": "",
   "english": [
     "swearing",
     "swear",
     "curse"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use language that is considered to be rude or blasphemous. People are most likely to do this when they are angry. English = swear, curse."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Language that is considered to be rude or blasphemous. English = swearing, swear words."
-  ],
   "signNumber": 4970,
   "recordNumber": 3002,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "swear.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use language that is considered to be rude or blasphemous. People are most likely to do this when they are angry. English = swear, curse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Language that is considered to be rude or blasphemous. English = swearing, swear words."
+  ],
+  "idGloss": "swear.2",
+  "oldEntry": ""
 }

@@ -11,23 +11,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "audiology",
-  "oldentry": "",
   "english": [
     "audiologist",
     "audiology"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A medically trained person whose job is to test people's hearing, especially for any evidence of hearing loss. English = audiologist.",
-    "2. The study of people's hearing, especially the testing of people's hearing for any evidence of hearing loss. English = audiology."
-  ],
   "signNumber": 2920,
   "recordNumber": 1657,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A medically trained person whose job is to test people's hearing, especially for any evidence of hearing loss. English = audiologist.",
+    "2. The study of people's hearing, especially the testing of people's hearing for any evidence of hearing loss. English = audiology."
+  ],
+  "idGloss": "audiology",
+  "oldEntry": ""
 }

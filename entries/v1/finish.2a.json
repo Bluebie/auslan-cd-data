@@ -16,10 +16,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "finish.2a",
-  "oldentry": "",
   "english": [
     "finish",
     "completion",
@@ -27,19 +23,8 @@
     "complete"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make or do the last part of something so that there is no more to do or so that it has all the parts that it should have. English = finish, complete."
-  ],
   "cf": [
     "not.yet.1a"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used before or after another verb (action) sign to mean that the action stopped before the time of talking usually because there is nothing more to do. English = have done."
-  ],
-  "nomlex": [
-    "1. The end or last part of something. English = finish.",
-    "2. The end or last part of something when it has all the parts that it should have. English = completion."
   ],
   "signNumber": 4778,
   "recordNumber": 2889,
@@ -55,5 +40,20 @@
   "synonyms": [
     "finish.1",
     "end.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used before or after another verb (action) sign to mean that the action stopped before the time of talking usually because there is nothing more to do. English = have done."
+  ],
+  "verbLexeme": [
+    "1. To make or do the last part of something so that there is no more to do or so that it has all the parts that it should have. English = finish, complete."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The end or last part of something. English = finish.",
+    "2. The end or last part of something when it has all the parts that it should have. English = completion."
+  ],
+  "idGloss": "finish.2a",
+  "oldEntry": ""
 }

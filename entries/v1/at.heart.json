@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "at.heart",
-  "oldentry": "",
   "english": [
     "character",
     "personality",
@@ -33,21 +29,9 @@
     "personally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be very much your own and related to your feelings and emotions. English = (be) personal.",
-    "2. To be related to one's heart, or real feelings and emotions; to be the essential or true character of something. English = at heart."
-  ],
   "cf": [
     "go.in.1a",
     "pouch"
-  ],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning of a sign sentence to mean that the ideas you express in that sentence are very much your own and have a lot to do with your feelings and emotions. English = 'Personally'."
-  ],
-  "nomlex": [
-    "1. The way a person behaves and thinks that makes them unique or of a particular type. English = character,  personality.",
-    "2. Things which are thought to be related to or inside the heart. English = emotion."
   ],
   "signNumber": 4140,
   "recordNumber": 2495,
@@ -57,5 +41,21 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning of a sign sentence to mean that the ideas you express in that sentence are very much your own and have a lot to do with your feelings and emotions. English = 'Personally'."
+  ],
+  "verbLexeme": [
+    "1. To be very much your own and related to your feelings and emotions. English = (be) personal.",
+    "2. To be related to one's heart, or real feelings and emotions; to be the essential or true character of something. English = at heart."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The way a person behaves and thinks that makes them unique or of a particular type. English = character,  personality.",
+    "2. Things which are thought to be related to or inside the heart. English = emotion."
+  ],
+  "idGloss": "at.heart",
+  "oldEntry": ""
 }

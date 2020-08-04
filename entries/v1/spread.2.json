@@ -14,25 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spread.2",
-  "oldentry": "",
   "english": [
     "spread",
     "jam"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a thin layer of a soft food over bread. English = spread."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A soft food which you put on bread. English = spread.",
-    "2. A food that is made by cooking fruit with sugar. It is usually spread on bread. English = jam."
-  ],
   "signNumber": 4241,
   "recordNumber": 2569,
   "signVisualComposition": "",
@@ -43,5 +30,18 @@
   "antonyms": [],
   "synonyms": [
     "butter.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a thin layer of a soft food over bread. English = spread."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A soft food which you put on bread. English = spread.",
+    "2. A food that is made by cooking fruit with sugar. It is usually spread on bread. English = jam."
+  ],
+  "idGloss": "spread.2",
+  "oldEntry": ""
 }

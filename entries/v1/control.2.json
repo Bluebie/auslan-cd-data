@@ -17,28 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "control.2",
-  "oldentry": "",
   "english": [
     "control",
     "coordinator",
     "coordinate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make something behave exactly as you want. English = control.",
-    "2. To make the different people and things involved in an activity work together properly and efficiently. English = coordinate."
-  ],
   "cf": [
     "director.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The ability to make something behave exactly as you want. English = control.",
-    "2. A person who organises the people taking part in a project or activity and makes sure they work together properly and efficiently. English = coordinator."
   ],
   "signNumber": 5382,
   "recordNumber": 3215,
@@ -50,5 +36,19 @@
   "antonyms": [],
   "synonyms": [
     "control.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make something behave exactly as you want. English = control.",
+    "2. To make the different people and things involved in an activity work together properly and efficiently. English = coordinate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to make something behave exactly as you want. English = control.",
+    "2. A person who organises the people taking part in a project or activity and makes sure they work together properly and efficiently. English = coordinator."
+  ],
+  "idGloss": "control.2",
+  "oldEntry": ""
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "duck.1a",
-  "oldentry": "Popular explanation: the opening and closing beak of a duck.",
   "english": [
     "duck",
     "beak",
@@ -34,18 +30,7 @@
     "quack"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a duck, to open its beak and make a noise. English = quack."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A very common water bird with short legs, webbed feet, a short neck, and a large flat beak. English = duck.",
-    "2. The hard, flat mouth of a duck. English = beak, bill.",
-    "3. A large bird, like a duck, but with a long neck. English = goose (singular), geese (plural).",
-    "4. In cricket, a batsman's score of nought. English = duck."
-  ],
   "signNumber": 1948,
   "recordNumber": 1163,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a duck, to open its beak and make a noise. English = quack."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A very common water bird with short legs, webbed feet, a short neck, and a large flat beak. English = duck.",
+    "2. The hard, flat mouth of a duck. English = beak, bill.",
+    "3. A large bird, like a duck, but with a long neck. English = goose (singular), geese (plural).",
+    "4. In cricket, a batsman's score of nought. English = duck."
+  ],
+  "idGloss": "duck.1a",
+  "oldEntry": "Popular explanation: the opening and closing beak of a duck."
 }

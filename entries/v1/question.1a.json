@@ -13,24 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "question.1a",
-  "oldentry": "",
   "english": [
     "question",
     "ask"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To say, sign or write something to someone in order to get information from them about something. English = question, ask a question."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something you say, sign or write in order to get information from someone about something. English = question."
-  ],
   "signNumber": 1479,
   "recordNumber": 882,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To say, sign or write something to someone in order to get information from them about something. English = question, ask a question."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something you say, sign or write in order to get information from someone about something. English = question."
+  ],
+  "idGloss": "question.1a",
+  "oldEntry": ""
 }

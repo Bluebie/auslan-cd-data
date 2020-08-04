@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "The subordinate hand may have the same handshape as the dominant hand.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lacrosse",
-  "oldentry": "",
   "english": [
     "lacrosse"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "tennis.1a",
     "squash.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An outdoor game played between two teams of players. They use long sticks with nets at the end to catch and throw a small ball in order to try and score goals. English = lacrosse."
   ],
   "signNumber": 6228,
   "recordNumber": 3721,
@@ -38,5 +28,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An outdoor game played between two teams of players. They use long sticks with nets at the end to catch and throw a small ball in order to try and score goals. English = lacrosse."
+  ],
+  "idGloss": "lacrosse",
+  "oldEntry": ""
 }

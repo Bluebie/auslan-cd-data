@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hour.1a",
-  "oldentry": "Popular explanation: the hand of the clock moving an hour.",
   "english": [
     "hour"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the twenty-four equal parts that a day is divided into. It is made up of sixty minutes. English = hour."
-  ],
   "signNumber": 1289,
   "recordNumber": 768,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "hour.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the twenty-four equal parts that a day is divided into. It is made up of sixty minutes. English = hour."
+  ],
+  "idGloss": "hour.1a",
+  "oldEntry": "Popular explanation: the hand of the clock moving an hour."
 }

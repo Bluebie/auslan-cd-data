@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "soup.1a",
-  "oldentry": "Popular explanation: eating soup using a spoon.",
   "english": [
     "spoon",
     "soup",
@@ -41,22 +37,7 @@
     "porridge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat something with a spoon.",
-    "2. To eat soup.",
-    "3. To eat dessert, to have sweets.",
-    "4. To eat breakfast, to eat cereal or porridge."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An object used for eating, stirring, and serving food. It is shaped like a small shallow bowl with a long handle. English = spoon.",
-    "2. A liquid food made by boiling meat, fish, or vegetables in water. English = soup.",
-    "3. Something sweet, such as fruit or a pudding, that you eat at the end of a meal, usually with a spoon. English = dessert, sweets.",
-    "4. The first meal of the day, which is usually eaten early in the morning. English = breakfast.",
-    "5. A food made from grain, usually mixed with milk and eaten in the morning. English = cereal, breakfast cereal, porridge."
-  ],
   "signNumber": 2160,
   "recordNumber": 1248,
   "signVisualComposition": "",
@@ -69,5 +50,24 @@
     "breakfast.1",
     "breakfast.2",
     "pudding.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat something with a spoon.",
+    "2. To eat soup.",
+    "3. To eat dessert, to have sweets.",
+    "4. To eat breakfast, to eat cereal or porridge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An object used for eating, stirring, and serving food. It is shaped like a small shallow bowl with a long handle. English = spoon.",
+    "2. A liquid food made by boiling meat, fish, or vegetables in water. English = soup.",
+    "3. Something sweet, such as fruit or a pudding, that you eat at the end of a meal, usually with a spoon. English = dessert, sweets.",
+    "4. The first meal of the day, which is usually eaten early in the morning. English = breakfast.",
+    "5. A food made from grain, usually mixed with milk and eaten in the morning. English = cereal, breakfast cereal, porridge."
+  ],
+  "idGloss": "soup.1a",
+  "oldEntry": "Popular explanation: eating soup using a spoon."
 }

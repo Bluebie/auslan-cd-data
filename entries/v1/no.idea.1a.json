@@ -12,25 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "no.idea.1a",
-  "oldentry": "",
   "english": [
     "tabula rasa",
     "no idea",
     "blank mind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have no ideas or thoughts at all; to have a blank mind."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A mind which has no ideas or thoughts in it at all; a mind which is empty. Formal English = tabula rasa."
-  ],
   "signNumber": 247,
   "recordNumber": 144,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have no ideas or thoughts at all; to have a blank mind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A mind which has no ideas or thoughts in it at all; a mind which is empty. Formal English = tabula rasa."
+  ],
+  "idGloss": "no.idea.1a",
+  "oldEntry": ""
 }

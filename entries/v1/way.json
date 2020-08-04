@@ -17,26 +17,14 @@
   "sense": "",
   "blend": "STREET + W",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "way",
-  "oldentry": "",
   "english": [
     "way"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "lane.1",
     "road",
     "avenue.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The route that you must follow in order to get to a particular place. English = way.",
-    "2. How you can do something. English = way.",
-    "3. Of a particular person or group of people, their customs or their usual behaviour. English = way."
   ],
   "signNumber": 2274,
   "recordNumber": 1285,
@@ -48,5 +36,17 @@
   "antonyms": [],
   "synonyms": [
     "street.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The route that you must follow in order to get to a particular place. English = way.",
+    "2. How you can do something. English = way.",
+    "3. Of a particular person or group of people, their customs or their usual behaviour. English = way."
+  ],
+  "idGloss": "way",
+  "oldEntry": ""
 }

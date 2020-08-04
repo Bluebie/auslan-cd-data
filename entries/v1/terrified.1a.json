@@ -26,10 +26,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "terrified.1a",
-  "oldentry": "Popular explanation: the beating heart.",
   "english": [
     "scare",
     "terror",
@@ -41,20 +37,7 @@
     "panic"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel frightened. English = (be) scared.",
-    "2. To feel extremely frightened. English = (be) terrified.",
-    "3. To make you very frightened indeed, perhaps so frightened that you cannot move. English = petrify; (be) petrified.",
-    "4. To suddenly become very anxious or afraid, and often act quickly and without thinking carefully. English = panic."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A great fright. English = scare.",
-    "2. A very great fear. English = terror.",
-    "3. A very great feeling of anxiety or fear, especially one that makes you act without thinking carefully. English = panic."
-  ],
   "signNumber": 1416,
   "recordNumber": 844,
   "signVisualComposition": "",
@@ -65,5 +48,22 @@
   "antonyms": [],
   "synonyms": [
     "terrified.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel frightened. English = (be) scared.",
+    "2. To feel extremely frightened. English = (be) terrified.",
+    "3. To make you very frightened indeed, perhaps so frightened that you cannot move. English = petrify; (be) petrified.",
+    "4. To suddenly become very anxious or afraid, and often act quickly and without thinking carefully. English = panic."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A great fright. English = scare.",
+    "2. A very great fear. English = terror.",
+    "3. A very great feeling of anxiety or fear, especially one that makes you act without thinking carefully. English = panic."
+  ],
+  "idGloss": "terrified.1a",
+  "oldEntry": "Popular explanation: the beating heart."
 }

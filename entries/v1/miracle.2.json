@@ -13,21 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "miracle.2",
-  "oldentry": "",
   "english": [
     "miracle"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A wonderful and surprising event, often one which Christians believe was caused by God. English = miracle."
-  ],
   "signNumber": 2329,
   "recordNumber": 1296,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
   "antonyms": [],
   "synonyms": [
     "wonderful.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A wonderful and surprising event, often one which Christians believe was caused by God. English = miracle."
+  ],
+  "idGloss": "miracle.2",
+  "oldEntry": ""
 }

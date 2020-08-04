@@ -18,25 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fill.1",
-  "oldentry": "Popular explanation: the level of something reaching its maximum.",
   "english": [
     "fill",
     "full"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a large amount of something into a container or area so that there is no more room to put any more into it. English = fill, fill up.",
-    "2. (Of a container or an area) to be unable to take any more of something because there is no more room left. English = (be) full."
-  ],
   "cf": [
     "maximum"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4101,
   "recordNumber": 2462,
   "signVisualComposition": "",
@@ -50,5 +39,16 @@
   "synonyms": [
     "full",
     "top.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a large amount of something into a container or area so that there is no more room to put any more into it. English = fill, fill up.",
+    "2. (Of a container or an area) to be unable to take any more of something because there is no more room left. English = (be) full."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fill.1",
+  "oldEntry": "Popular explanation: the level of something reaching its maximum."
 }

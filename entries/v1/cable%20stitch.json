@@ -8,21 +8,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cable stitch",
-  "oldentry": "",
   "english": [
     "cable stitch"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A knitting pattern whereby one set of stiches is crossed over another so that a rope-like effect is produced. English = cable stitch."
-  ],
   "signNumber": 2009,
   "recordNumber": 1179,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A knitting pattern whereby one set of stiches is crossed over another so that a rope-like effect is produced. English = cable stitch."
+  ],
+  "idGloss": "cable stitch",
+  "oldEntry": ""
 }

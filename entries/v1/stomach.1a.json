@@ -14,25 +14,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stomach.1a",
-  "oldentry": "Popular explanation: the stomach.",
   "english": [
     "stomach",
     "tummy"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "poo.2",
     "womb",
     "uterus"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The organ inside your body where food is digested; or the front part of your body below your waist. English = stomach. Informal English = tummy."
   ],
   "signNumber": 3482,
   "recordNumber": 2034,
@@ -42,5 +32,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The organ inside your body where food is digested; or the front part of your body below your waist. English = stomach. Informal English = tummy."
+  ],
+  "idGloss": "stomach.1a",
+  "oldEntry": "Popular explanation: the stomach."
 }

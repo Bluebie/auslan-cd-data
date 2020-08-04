@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kiwi.1a",
-  "oldentry": "",
   "english": [
     "kiwi"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A type of bird that lives in New Zealand. It cannot fly. English = kiwi."
-  ],
   "signNumber": 6373,
   "recordNumber": 3809,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A type of bird that lives in New Zealand. It cannot fly. English = kiwi."
+  ],
+  "idGloss": "kiwi.1a",
+  "oldEntry": ""
 }

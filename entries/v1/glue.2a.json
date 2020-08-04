@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "glue.2a",
-  "oldentry": "",
   "english": [
     "glue",
     "paste",
@@ -33,17 +29,8 @@
     "sticky"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To attach something to something else by using glue or another sticky substance. English = stick, adhere, paste, glue.",
-    "2. To be covered with a substance that can stick to other things and leave unpleasant marks. English = (be) sticky."
-  ],
   "cf": [
     "patch.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sticky substance used for joining things together. English = glue, paste, adhesive."
   ],
   "signNumber": 4261,
   "recordNumber": 2586,
@@ -56,5 +43,18 @@
   "synonyms": [
     "glue.1",
     "paste"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To attach something to something else by using glue or another sticky substance. English = stick, adhere, paste, glue.",
+    "2. To be covered with a substance that can stick to other things and leave unpleasant marks. English = (be) sticky."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sticky substance used for joining things together. English = glue, paste, adhesive."
+  ],
+  "idGloss": "glue.2a",
+  "oldEntry": ""
 }

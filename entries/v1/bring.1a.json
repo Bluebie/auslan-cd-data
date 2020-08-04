@@ -18,28 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bring.1a",
-  "oldentry": "Popular explanation: carrying or grabbing something towards oneself.",
   "english": [
     "delivery",
     "bring",
     "deliver"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause something to come or go with you from one place to another; to take something with you.",
-    "2. To cause something to come with you to a place; to take something from a place to where you are now. English = bring.",
-    "3. To take something to someone's house or office, especially mail or purchased goods. English = deliver."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The bringing of letters, parcels, or goods to someone's house or office. English = delivery.",
-    "2. The bringing of letters, parcels, or goods to someone's house or office. English = delivery."
-  ],
   "signNumber": 5922,
   "recordNumber": 3524,
   "signVisualComposition": "",
@@ -48,5 +33,20 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause something to come or go with you from one place to another; to take something with you.",
+    "2. To cause something to come with you to a place; to take something from a place to where you are now. English = bring.",
+    "3. To take something to someone's house or office, especially mail or purchased goods. English = deliver."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The bringing of letters, parcels, or goods to someone's house or office. English = delivery.",
+    "2. The bringing of letters, parcels, or goods to someone's house or office. English = delivery."
+  ],
+  "idGloss": "bring.1a",
+  "oldEntry": "Popular explanation: carrying or grabbing something towards oneself."
 }

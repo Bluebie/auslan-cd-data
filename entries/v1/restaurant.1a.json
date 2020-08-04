@@ -13,27 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "restaurant.1a",
-  "oldentry": "",
   "english": [
     "restaurant",
     "dine"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat a meal in a restaurant. Idiomatic English = dine out.",
-    "2. To eat a formal dinner. English = dine."
-  ],
   "cf": [
     "dinner.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where you can buy and eat a meal. English = restaurant.",
-    "2. A formal meal, especially one eaten at a restaurant or one where you have invited people to your home."
   ],
   "signNumber": 5543,
   "recordNumber": 3280,
@@ -43,5 +29,19 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat a meal in a restaurant. Idiomatic English = dine out.",
+    "2. To eat a formal dinner. English = dine."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where you can buy and eat a meal. English = restaurant.",
+    "2. A formal meal, especially one eaten at a restaurant or one where you have invited people to your home."
+  ],
+  "idGloss": "restaurant.1a",
+  "oldEntry": ""
 }

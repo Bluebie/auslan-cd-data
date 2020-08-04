@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "triangle.2",
-  "oldentry": "Popular explanation: the outline of a triangle.",
   "english": [
     "triangle",
     "triangular"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have the shape of a triangle. English = (be) triangular."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat shape or area which has three straight sides and three angles. English = triangle."
-  ],
   "signNumber": 892,
   "recordNumber": 512,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "triangle.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have the shape of a triangle. English = (be) triangular."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat shape or area which has three straight sides and three angles. English = triangle."
+  ],
+  "idGloss": "triangle.2",
+  "oldEntry": "Popular explanation: the outline of a triangle."
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hockey",
-  "oldentry": "Popular explanation: the hooking action made with a hockey stick.",
   "english": [
     "hockey"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An outdoor game, played between two teams of 11 players who use long curved sticks to hit a small ball and try to score goals. English = hockey."
-  ],
   "signNumber": 1521,
   "recordNumber": 907,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An outdoor game, played between two teams of 11 players who use long curved sticks to hit a small ball and try to score goals. English = hockey."
+  ],
+  "idGloss": "hockey",
+  "oldEntry": "Popular explanation: the hooking action made with a hockey stick."
 }

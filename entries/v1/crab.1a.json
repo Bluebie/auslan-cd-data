@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crab.1a",
-  "oldentry": "Popular explanation: a crab's pincers.",
   "english": [
     "crab",
     "pincers",
@@ -32,18 +28,7 @@
     "crayfish"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a crab, lobster or crayfish, to open and close its pincers."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. They usually move sideways. English = crab.",
-    "2. The claws on the front of a crab or lobster. English = pincers.",
-    "3. A sea creature that has a hard shell, two large claws, and eight legs. English = lobster.",
-    "4. A small shellfish with five pairs of legs which lives in rivers and ponds. It has strong pincers on its front legs which it uses for catching food. English = crayfish."
-  ],
   "signNumber": 1655,
   "recordNumber": 982,
   "signVisualComposition": "",
@@ -54,5 +39,20 @@
   "antonyms": [],
   "synonyms": [
     "crustacean.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a crab, lobster or crayfish, to open and close its pincers."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. They usually move sideways. English = crab.",
+    "2. The claws on the front of a crab or lobster. English = pincers.",
+    "3. A sea creature that has a hard shell, two large claws, and eight legs. English = lobster.",
+    "4. A small shellfish with five pairs of legs which lives in rivers and ponds. It has strong pincers on its front legs which it uses for catching food. English = crayfish."
+  ],
+  "idGloss": "crab.1a",
+  "oldEntry": "Popular explanation: a crab's pincers."
 }

@@ -17,25 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "defeat.1",
-  "oldentry": "",
   "english": [
     "defeat",
     "beat"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To win a victory over someone in a battle, game, or contest. English = defeat, beat."
-  ],
   "cf": [
     "beat.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of being beaten in a battle, game, or contest. English = defeat."
   ],
   "signNumber": 6489,
   "recordNumber": 3862,
@@ -48,5 +36,17 @@
   "synonyms": [
     "beat.2a",
     "defeat.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To win a victory over someone in a battle, game, or contest. English = defeat, beat."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of being beaten in a battle, game, or contest. English = defeat."
+  ],
+  "idGloss": "defeat.1",
+  "oldEntry": ""
 }

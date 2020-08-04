@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dragon",
-  "oldentry": "",
   "english": [
     "dragon"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An animal found in stories and legends that is like a big lizard. It has wings and claws, and breathes out fire. English = dragon"
-  ],
   "signNumber": 4805,
   "recordNumber": 2901,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 5,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An animal found in stories and legends that is like a big lizard. It has wings and claws, and breathes out fire. English = dragon"
+  ],
+  "idGloss": "dragon",
+  "oldEntry": ""
 }

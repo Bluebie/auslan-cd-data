@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hearing-aid.1a",
-  "oldentry": "Popular explanation: a hearing aid hooking over the ear.",
   "english": [
     "hearing-aid"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put on or be wearing a hearing-aid."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An instrument that helps hearing impaired and deaf people hear better. English = hearing-aid."
-  ],
   "signNumber": 1373,
   "recordNumber": 814,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "hearing-aid.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put on or be wearing a hearing-aid."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An instrument that helps hearing impaired and deaf people hear better. English = hearing-aid."
+  ],
+  "idGloss": "hearing-aid.1a",
+  "oldEntry": "Popular explanation: a hearing aid hooking over the ear."
 }

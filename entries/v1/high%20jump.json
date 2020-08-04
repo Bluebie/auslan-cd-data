@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "high jump",
-  "oldentry": "",
   "english": [
     "high jump"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "long jump"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An athletics event which involves jumping over a raised bar. English = high jump."
   ],
   "signNumber": 1677,
   "recordNumber": 1001,
@@ -36,5 +26,15 @@
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An athletics event which involves jumping over a raised bar. English = high jump."
+  ],
+  "idGloss": "high jump",
+  "oldEntry": ""
 }

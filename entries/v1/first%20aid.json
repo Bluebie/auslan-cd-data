@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "first aid",
-  "oldentry": "",
   "english": [
     "first aid"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Simple medical treatment which is given as soon as possible to a person who is injured or who has suddenly become ill. English = first aid."
-  ],
   "signNumber": 727,
   "recordNumber": 419,
   "signVisualComposition": "FIRST + HOSPITAL",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Simple medical treatment which is given as soon as possible to a person who is injured or who has suddenly become ill. English = first aid."
+  ],
+  "idGloss": "first aid",
+  "oldEntry": ""
 }

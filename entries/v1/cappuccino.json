@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cappuccino",
-  "oldentry": "",
   "english": [
     "cappuccino"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Espresso coffee mixed with hot milk that has been made frothy by passing steam through it. English = cappuccino."
-  ],
   "signNumber": 2877,
   "recordNumber": 1625,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Espresso coffee mixed with hot milk that has been made frothy by passing steam through it. English = cappuccino."
+  ],
+  "idGloss": "cappuccino",
+  "oldEntry": ""
 }

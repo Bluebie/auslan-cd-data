@@ -10,21 +10,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chain-stitch",
-  "oldentry": "",
   "english": [
     "chain-stitch"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A kind of ornamental stitching in which each stitch forms a loop through the forward end of which the next stitch is taken. English = chain stitch."
-  ],
   "signNumber": 2689,
   "recordNumber": 1493,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 15,
   "secondLocation": 29,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A kind of ornamental stitching in which each stitch forms a loop through the forward end of which the next stitch is taken. English = chain stitch."
+  ],
+  "idGloss": "chain-stitch",
+  "oldEntry": ""
 }

@@ -11,21 +11,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kitchen.1",
-  "oldentry": "",
   "english": [
     "kitchen"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A room that you use for cooking, or part of a larger room that is used for cooking. English = kitchen."
-  ],
   "signNumber": 1492,
   "recordNumber": 889,
   "signVisualComposition": "K + K",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A room that you use for cooking, or part of a larger room that is used for cooking. English = kitchen."
+  ],
+  "idGloss": "kitchen.1",
+  "oldEntry": ""
 }

@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "handwriting",
-  "oldentry": "",
   "english": [
     "handwriting",
     "penmanship"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person's style of writing with a pen or pencil, rather than with a typewriter. English = handwriting.",
-    "2. The art and skill of writing by hand. English = penmanship."
-  ],
   "signNumber": 6448,
   "recordNumber": 3843,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person's style of writing with a pen or pencil, rather than with a typewriter. English = handwriting.",
+    "2. The art and skill of writing by hand. English = penmanship."
+  ],
+  "idGloss": "handwriting",
+  "oldEntry": ""
 }

@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "The related ASL sign 'mormon' is an initialisation of this sign.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Mormon",
-  "oldentry": "",
   "english": [
     "Mormon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of or relating to the Church of Jesus Christ of Latter-Day Saints. English = (be) Mormon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who belongs to the religious group called the Church of Jesus Christ of Latter-Day Saints. English = Mormon."
-  ],
   "signNumber": 2453,
   "recordNumber": 1362,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of or relating to the Church of Jesus Christ of Latter-Day Saints. English = (be) Mormon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who belongs to the religious group called the Church of Jesus Christ of Latter-Day Saints. English = Mormon."
+  ],
+  "idGloss": "Mormon",
+  "oldEntry": ""
 }

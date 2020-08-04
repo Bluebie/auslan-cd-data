@@ -14,23 +14,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "drum.2",
-  "oldentry": "Popular explanation: holding on to and beating with drumsticks.",
   "english": [
     "drum",
     "drummer"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A musical instrument consisting of a skin stretched tightly over a round frame. You play it by beating it rhythmically with sticks. English = drum.",
-    "2. A person who plays a drum or drums in a band or group. English = drummer."
-  ],
   "signNumber": 6170,
   "recordNumber": 3682,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "antonyms": [],
   "synonyms": [
     "drum.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A musical instrument consisting of a skin stretched tightly over a round frame. You play it by beating it rhythmically with sticks. English = drum.",
+    "2. A person who plays a drum or drums in a band or group. English = drummer."
+  ],
+  "idGloss": "drum.2",
+  "oldEntry": "Popular explanation: holding on to and beating with drumsticks."
 }

@@ -20,10 +20,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "balance.1",
-  "oldentry": "",
   "english": [
     "balance",
     "scales",
@@ -31,21 +27,9 @@
     "Libra"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make two or several things each have the same weight, strength, or importance as each other. English = balance.",
-    "2. Of reports and news, to be a fair and reasonable account. English = (be) balanced."
-  ],
   "cf": [
     "weigh.1a",
     "doubt"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The equality or sameness between two or more things with respect to their weight, strength or importance. English = balance.",
-    "2. The quality of a report or an account that means that it is fair and reasonable. English = balance.",
-    "3. A piece of equipment for weighing things, for example for weighing amounts of food that you need in order to make a particular dish. English = balance, scales.",
-    "4. A constellation and sign of the Zodiac, called Libra (the scales). English = Libra."
   ],
   "signNumber": 3907,
   "recordNumber": 2325,
@@ -55,5 +39,21 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make two or several things each have the same weight, strength, or importance as each other. English = balance.",
+    "2. Of reports and news, to be a fair and reasonable account. English = (be) balanced."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The equality or sameness between two or more things with respect to their weight, strength or importance. English = balance.",
+    "2. The quality of a report or an account that means that it is fair and reasonable. English = balance.",
+    "3. A piece of equipment for weighing things, for example for weighing amounts of food that you need in order to make a particular dish. English = balance, scales.",
+    "4. A constellation and sign of the Zodiac, called Libra (the scales). English = Libra."
+  ],
+  "idGloss": "balance.1",
+  "oldEntry": ""
 }

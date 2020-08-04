@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unlock",
-  "oldentry": "",
   "english": [
     "unlock"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To insert a key into a lock and turn it so that it can be opened. English = unlock."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6262,
   "recordNumber": 3738,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "lock.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To insert a key into a lock and turn it so that it can be opened. English = unlock."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unlock",
+  "oldEntry": ""
 }

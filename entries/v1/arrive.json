@@ -17,25 +17,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "arrive",
-  "oldentry": "",
   "english": [
     "arrival",
     "arrive"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To reach a place at the end of a journey; to come to a place for the first time in order to stay there or live there. English = arrive.",
-    "2. To arrive home, to get home."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of coming to or ending up at a place after a journey. English = arrival."
-  ],
   "signNumber": 4235,
   "recordNumber": 2563,
   "signVisualComposition": "",
@@ -49,5 +36,18 @@
   ],
   "synonyms": [
     "come.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To reach a place at the end of a journey; to come to a place for the first time in order to stay there or live there. English = arrive.",
+    "2. To arrive home, to get home."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of coming to or ending up at a place after a journey. English = arrival."
+  ],
+  "idGloss": "arrive",
+  "oldEntry": ""
 }

@@ -18,24 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is often made with the lips rounded or protruding.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "speaking",
-  "oldentry": "",
   "english": [
     "speaking",
     "hearing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be able to use your voice to say words and use speech to communicate; not to be mute or dumb; not to be deaf; to be a speaking (and hearing) person."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is able to use their voice to say words and communicate in speech; a person who is not mute or dumb; a person who is not mute or dumb and deaf; a speaking person; a speaking and hearing person."
-  ],
   "signNumber": 631,
   "recordNumber": 365,
   "signVisualComposition": "",
@@ -51,5 +39,17 @@
   "synonyms": [
     "hearing.1a",
     "hearing.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be able to use your voice to say words and use speech to communicate; not to be mute or dumb; not to be deaf; to be a speaking (and hearing) person."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is able to use their voice to say words and communicate in speech; a person who is not mute or dumb; a person who is not mute or dumb and deaf; a speaking person; a speaking and hearing person."
+  ],
+  "idGloss": "speaking",
+  "oldEntry": ""
 }

@@ -15,23 +15,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "story",
-  "oldentry": "",
   "english": [
     "story"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell a story or render an account of some event in sign language."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A description of people and events told in sign language. English = (sign) story."
-  ],
   "signNumber": 2702,
   "recordNumber": 1500,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "document.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell a story or render an account of some event in sign language."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A description of people and events told in sign language. English = (sign) story."
+  ],
+  "idGloss": "story",
+  "oldEntry": ""
 }

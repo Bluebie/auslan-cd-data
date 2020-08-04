@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rewind.2",
-  "oldentry": "",
   "english": [
     "rewind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make the tape on a tape recorder or video go backwards so that you can play it again. English = rewind."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1100,
   "recordNumber": 647,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "wind.3"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make the tape on a tape recorder or video go backwards so that you can play it again. English = rewind."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "rewind.2",
+  "oldEntry": ""
 }

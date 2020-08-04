@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "MIDDLE + ATTEND",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "converge",
-  "oldentry": "",
   "english": [
     "convergence",
     "converge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of roads, lines, or people, to meet or join at a particular place. English = converge.",
-    "2. Of ideas, forces, or societies, to stop being separate or different and become the same or more alike. English = converge."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The meeting or joining of roads, lines, or people, at a particular place.",
-    "2. The process in which ideas, forces, or societies, gradually become similar to each other. English = convergence."
-  ],
   "signNumber": 2899,
   "recordNumber": 1637,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of roads, lines, or people, to meet or join at a particular place. English = converge.",
+    "2. Of ideas, forces, or societies, to stop being separate or different and become the same or more alike. English = converge."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The meeting or joining of roads, lines, or people, at a particular place.",
+    "2. The process in which ideas, forces, or societies, gradually become similar to each other. English = convergence."
+  ],
+  "idGloss": "converge",
+  "oldEntry": ""
 }

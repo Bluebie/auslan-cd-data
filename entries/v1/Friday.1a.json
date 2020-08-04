@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Friday.1a",
-  "oldentry": "",
   "english": [
     "Friday"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The last day of the working week, between Thursday and Saturday, called Friday."
-  ],
   "signNumber": 2066,
   "recordNumber": 1206,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The last day of the working week, between Thursday and Saturday, called Friday."
+  ],
+  "idGloss": "Friday.1a",
+  "oldEntry": ""
 }

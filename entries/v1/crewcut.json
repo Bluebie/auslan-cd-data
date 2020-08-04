@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crewcut",
-  "oldentry": "Popular explanation: something very narrow or thin over the head.",
   "english": [
     "crewcut"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have your hair cut very short; to wear your hear in the style of a crewcut."
-  ],
   "cf": [
     "bald.1a",
     "short-hair",
     "long-hair"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A hairstyle in which the hair is cut very short. English = crewcut."
   ],
   "signNumber": 5434,
   "recordNumber": 3233,
@@ -43,5 +31,17 @@
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have your hair cut very short; to wear your hear in the style of a crewcut."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A hairstyle in which the hair is cut very short. English = crewcut."
+  ],
+  "idGloss": "crewcut",
+  "oldEntry": "Popular explanation: something very narrow or thin over the head."
 }

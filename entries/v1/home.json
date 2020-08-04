@@ -16,25 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "home",
-  "oldentry": "Popular explanation: the place to which you are joined or linked.",
   "english": [
     "home",
     "place"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "go.home.1a",
     "join.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The place where you live and feel you belong. English = home.",
-    "2. The house where you live. English = home. Informal English = place."
   ],
   "signNumber": 386,
   "recordNumber": 209,
@@ -44,5 +33,16 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The place where you live and feel you belong. English = home.",
+    "2. The house where you live. English = home. Informal English = place."
+  ],
+  "idGloss": "home",
+  "oldEntry": "Popular explanation: the place to which you are joined or linked."
 }

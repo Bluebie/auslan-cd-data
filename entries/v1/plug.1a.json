@@ -17,28 +17,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "plug.1a",
-  "oldentry": "Popular explanation: inserting a plug.",
   "english": [
     "plug",
     "socket",
     "electric"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To insert a plug into a socket. English = plug in.",
-    "2. Of a device or machine, to need to be plugged into an electric power source in order to operate. English = (be) electric, (be) powered by electricity."
-  ],
   "cf": [
     "double adaptor"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small plastic object with metal pieces which fit into the holes in a socket and connect the wire from a piece of electrical equipment to the electricity supply. English = plug.",
-    "2. A place on a wall or on a piece of electrical equipment into which you can put a plug. English = socket."
   ],
   "signNumber": 5248,
   "recordNumber": 3151,
@@ -48,5 +34,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To insert a plug into a socket. English = plug in.",
+    "2. Of a device or machine, to need to be plugged into an electric power source in order to operate. English = (be) electric, (be) powered by electricity."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small plastic object with metal pieces which fit into the holes in a socket and connect the wire from a piece of electrical equipment to the electricity supply. English = plug.",
+    "2. A place on a wall or on a piece of electrical equipment into which you can put a plug. English = socket."
+  ],
+  "idGloss": "plug.1a",
+  "oldEntry": "Popular explanation: inserting a plug."
 }

@@ -14,26 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wash.up",
-  "oldentry": "",
   "english": [
     "washing up",
     "wash up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To wash plates, knives, forks, and other things after a meal. English = wash up, do the dishes."
-  ],
   "cf": [
     "wipe.up.1a",
     "cook.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The washing of plates, knives, forks,  and other things after a meal. English = washing up."
   ],
   "signNumber": 4396,
   "recordNumber": 2676,
@@ -43,5 +31,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To wash plates, knives, forks, and other things after a meal. English = wash up, do the dishes."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The washing of plates, knives, forks,  and other things after a meal. English = washing up."
+  ],
+  "idGloss": "wash.up",
+  "oldEntry": ""
 }

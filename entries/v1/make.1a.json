@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "make.1a",
-  "oldentry": "Popular explanation: chiselling an object.",
   "english": [
     "making",
     "manufacture",
@@ -39,18 +35,7 @@
     "equal"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To produce something or construct something. English = make, manufacture, create.",
-    "2. To force someone to do something or to cause something to happen. English = make, cause, do.",
-    "3. To be the result of a calculation. English = make, equal."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The production or construction of something. English = making, manufacture, creation.",
-    "2. The name of the company that manufactures a product or the particular name that company gives to its product. English = make, type."
-  ],
   "signNumber": 5812,
   "recordNumber": 3450,
   "signVisualComposition": "",
@@ -61,5 +46,20 @@
   "antonyms": [],
   "synonyms": [
     "equal.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To produce something or construct something. English = make, manufacture, create.",
+    "2. To force someone to do something or to cause something to happen. English = make, cause, do.",
+    "3. To be the result of a calculation. English = make, equal."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The production or construction of something. English = making, manufacture, creation.",
+    "2. The name of the company that manufactures a product or the particular name that company gives to its product. English = make, type."
+  ],
+  "idGloss": "make.1a",
+  "oldEntry": "Popular explanation: chiselling an object."
 }

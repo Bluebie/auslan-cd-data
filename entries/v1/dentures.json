@@ -12,24 +12,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "dentures",
-  "oldentry": "",
   "english": [
     "false teeth",
     "dentures"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "tooth",
     "teeth"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Artificial teeth used by people who no longer have all their own teeth. English = false teeth, dentures."
   ],
   "signNumber": 2935,
   "recordNumber": 1667,
@@ -39,5 +29,15 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Artificial teeth used by people who no longer have all their own teeth. English = false teeth, dentures."
+  ],
+  "idGloss": "dentures",
+  "oldEntry": ""
 }

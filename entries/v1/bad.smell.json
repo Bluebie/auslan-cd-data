@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bad.smell",
-  "oldentry": "Popular explanation: holding one's nose.",
   "english": [
     "smell",
     "odour"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an effect on your nose, especially when that effect is unpleasant. English = smell"
-  ],
   "cf": [
     "fart.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The effect that something has on your nose, especially when that effect is unpleasant. English = smell.",
-    "2. A strong smell, especially when it is unpleasant. English = odour."
   ],
   "signNumber": 5577,
   "recordNumber": 3302,
@@ -47,5 +34,18 @@
   "synonyms": [
     "smell.1a",
     "poo.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an effect on your nose, especially when that effect is unpleasant. English = smell"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The effect that something has on your nose, especially when that effect is unpleasant. English = smell.",
+    "2. A strong smell, especially when it is unpleasant. English = odour."
+  ],
+  "idGloss": "bad.smell",
+  "oldEntry": "Popular explanation: holding one's nose."
 }

@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "flag.lower",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [
-    "1. To lower a flag on a flag pole."
-  ],
   "cf": [
     "flag"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3983,
   "recordNumber": 2383,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "antonyms": [
     "flag.raise"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To lower a flag on a flag pole."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "flag.lower",
+  "oldEntry": ""
 }

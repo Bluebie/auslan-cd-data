@@ -15,10 +15,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "lid.2",
-  "oldentry": "Popular explanation: holding on a cap.",
   "english": [
     "top",
     "cap",
@@ -26,14 +22,7 @@
     "jar"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A flat round covering to a container. English = top, cap, lid.",
-    "2. A glass container with a cap that is used for storing food such as jam. English = jar."
-  ],
   "signNumber": 3110,
   "recordNumber": 1793,
   "signVisualComposition": "",
@@ -44,5 +33,16 @@
   "antonyms": [],
   "synonyms": [
     "jar"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A flat round covering to a container. English = top, cap, lid.",
+    "2. A glass container with a cap that is used for storing food such as jam. English = jar."
+  ],
+  "idGloss": "lid.2",
+  "oldEntry": "Popular explanation: holding on a cap."
 }

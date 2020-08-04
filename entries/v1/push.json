@@ -20,27 +20,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "push",
-  "oldentry": "Popular explanation: pushing something away.",
   "english": [
     "push",
     "shove"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To press against something with force, usually using your hands, in order to move it. English = push.",
-    "2. To press against something with a quick violent movement, often using your hands, in order to move it or get it out of the way. English = shove."
-  ],
   "cf": [
     "nudge"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A forceful movement, usually made with your hands pressing against something, in order to move it or get it out of the way. English = push.",
-    "2. A quick, violent movement against something, often using your hand, in order to move it or get it out of the way. English = shove."
   ],
   "signNumber": 3694,
   "recordNumber": 2179,
@@ -53,5 +39,19 @@
     "pull",
     "grab"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To press against something with force, usually using your hands, in order to move it. English = push.",
+    "2. To press against something with a quick violent movement, often using your hands, in order to move it or get it out of the way. English = shove."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A forceful movement, usually made with your hands pressing against something, in order to move it or get it out of the way. English = push.",
+    "2. A quick, violent movement against something, often using your hand, in order to move it or get it out of the way. English = shove."
+  ],
+  "idGloss": "push",
+  "oldEntry": "Popular explanation: pushing something away."
 }

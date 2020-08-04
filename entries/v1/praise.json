@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "praise",
-  "oldentry": "",
   "english": [
     "praise",
     "congratulations",
@@ -35,21 +31,8 @@
     "congratulate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To express approval at someone's achievements or qualities. English = praise.",
-    "2. To be deserving of approval at their achievements or qualities. English = (be) praiseworthy.",
-    "3. To praise someone for something that they have done. English = congratulate."
-  ],
   "cf": [
     "proud.2"
-  ],
-  "interj": [
-    "1. Used alone to express praise for someone as a result of something they have done. English = 'Congratulations!' Informal English = 'Good on you!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. What you say, sign or write to express approval at someone's achievements or qualities. English = praise.",
-    "2. Praise that you give someone for something that they have done. English = congratulations."
   ],
   "signNumber": 4814,
   "recordNumber": 2907,
@@ -64,5 +47,22 @@
   "synonyms": [
     "congratulate",
     "applaud.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express praise for someone as a result of something they have done. English = 'Congratulations!' Informal English = 'Good on you!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To express approval at someone's achievements or qualities. English = praise.",
+    "2. To be deserving of approval at their achievements or qualities. English = (be) praiseworthy.",
+    "3. To praise someone for something that they have done. English = congratulate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. What you say, sign or write to express approval at someone's achievements or qualities. English = praise.",
+    "2. Praise that you give someone for something that they have done. English = congratulations."
+  ],
+  "idGloss": "praise",
+  "oldEntry": ""
 }

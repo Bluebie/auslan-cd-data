@@ -28,10 +28,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "check.1a",
-  "oldentry": "",
   "english": [
     "checking",
     "testing",
@@ -45,23 +41,9 @@
     "assess"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make sure that something is satisfactory, safe, or correct. English = check, test, trial.",
-    "2. To test something in order to find out how useful or effective it is. English = try out, check out.",
-    "3. Of a student, to make a judgement about the quality of their work. English = assess.",
-    "4. Of a person, to have a doctor examine you to see if your health is all right. English = have a check-up."
-  ],
   "cf": [
     "university.2",
     "checked"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity of making sure that something is satisfactory, safe, or correct. English = checking, testing, trialing.",
-    "2. An experiment in which you test something. English = trial.",
-    "3. Assignments, presentations, examinations and the other tasks a student must undertake as part of a course of study. English = assessment.",
-    "4. An examination by a doctor to see if your health is all right. English = check-up."
   ],
   "signNumber": 6642,
   "recordNumber": 3955,
@@ -73,5 +55,23 @@
   "antonyms": [],
   "synonyms": [
     "suggest.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make sure that something is satisfactory, safe, or correct. English = check, test, trial.",
+    "2. To test something in order to find out how useful or effective it is. English = try out, check out.",
+    "3. Of a student, to make a judgement about the quality of their work. English = assess.",
+    "4. Of a person, to have a doctor examine you to see if your health is all right. English = have a check-up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity of making sure that something is satisfactory, safe, or correct. English = checking, testing, trialing.",
+    "2. An experiment in which you test something. English = trial.",
+    "3. Assignments, presentations, examinations and the other tasks a student must undertake as part of a course of study. English = assessment.",
+    "4. An examination by a doctor to see if your health is all right. English = check-up."
+  ],
+  "idGloss": "check.1a",
+  "oldEntry": ""
 }

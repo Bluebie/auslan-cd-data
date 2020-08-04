@@ -17,27 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "length.1a",
-  "oldentry": "",
   "english": [
     "length",
     "duration",
     "long"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To measure a large distance from one end of an object to another. English = (be) long.",
-    "2. To take a large amount of time from the beginning of some event to the end of it. English = (be) long, (be) lengthy; last a long time."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The distance something measures from one end to the other. English = length.",
-    "2. The amount of time that it takes for something to happen. English = duration."
-  ],
   "signNumber": 982,
   "recordNumber": 569,
   "signVisualComposition": "",
@@ -50,5 +36,19 @@
   ],
   "synonyms": [
     "long.time.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To measure a large distance from one end of an object to another. English = (be) long.",
+    "2. To take a large amount of time from the beginning of some event to the end of it. English = (be) long, (be) lengthy; last a long time."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The distance something measures from one end to the other. English = length.",
+    "2. The amount of time that it takes for something to happen. English = duration."
+  ],
+  "idGloss": "length.1a",
+  "oldEntry": ""
 }

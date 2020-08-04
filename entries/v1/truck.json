@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "truck",
-  "oldentry": "",
   "english": [
     "truck"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bus.1",
     "steer.car",
     "car.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large vehicle that is used to transport goods by road. English = truck."
   ],
   "signNumber": 4364,
   "recordNumber": 2656,
@@ -41,5 +31,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large vehicle that is used to transport goods by road. English = truck."
+  ],
+  "idGloss": "truck",
+  "oldEntry": ""
 }

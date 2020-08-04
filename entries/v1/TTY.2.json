@@ -19,25 +19,12 @@
   "sense": "",
   "blend": "TTY + P",
   "queries": "The initialisation is for 'P' as in 'Porta Printer', an early make of telephone typewriters.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "TTY.2",
-  "oldentry": "Popular explanation: using a TTY.",
   "english": [
     "TTY",
     "telephone typewriter"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a TTY; to call or ring someone on a TTY.",
-    "2. To dial a number."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A telecommunication device that allows a person who is unable to use a phone because of hearing loss to type a message using a telephone to another person who has the same device. English = telephone typewriter, TTY."
-  ],
   "signNumber": 1841,
   "recordNumber": 1102,
   "signVisualComposition": "",
@@ -48,5 +35,18 @@
   "antonyms": [],
   "synonyms": [
     "TTY.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a TTY; to call or ring someone on a TTY.",
+    "2. To dial a number."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A telecommunication device that allows a person who is unable to use a phone because of hearing loss to type a message using a telephone to another person who has the same device. English = telephone typewriter, TTY."
+  ],
+  "idGloss": "TTY.2",
+  "oldEntry": "Popular explanation: using a TTY."
 }

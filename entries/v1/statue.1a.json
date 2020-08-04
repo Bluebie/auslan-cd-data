@@ -8,21 +8,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "statue.1a",
-  "oldentry": "",
   "english": [
     "statue"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large sculpture of a person or an animal, made of stone or metal. English = statue."
-  ],
   "signNumber": 1401,
   "recordNumber": 832,
   "signVisualComposition": "",
@@ -31,5 +21,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large sculpture of a person or an animal, made of stone or metal. English = statue."
+  ],
+  "idGloss": "statue.1a",
+  "oldEntry": ""
 }

@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "SECRET + CONCEAL",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "private.1",
-  "oldentry": "",
   "english": [
     "privacy",
     "private",
@@ -29,19 +25,7 @@
     "privately"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be for the use of one person or group only, rather than for the general public. English = (be) private.",
-    "2. To be kept secret and not told or shown to anyone else. English = (be) private, (be) confidential."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used after (or before) a verb (action) sign to mean that the action was done with only certain people being present or with only certain people knowing about it because it is to be kept secret. English = privately, in private."
-  ],
-  "nomlex": [
-    "1. The ability to do things alone without other people seeing or disturbing you. English = privacy.",
-    "2. The ability to keep information about yourself and stop other people making the information public. English = privacy."
-  ],
   "signNumber": 4020,
   "recordNumber": 2406,
   "signVisualComposition": "",
@@ -52,5 +36,21 @@
   "antonyms": [],
   "synonyms": [
     "secret.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used after (or before) a verb (action) sign to mean that the action was done with only certain people being present or with only certain people knowing about it because it is to be kept secret. English = privately, in private."
+  ],
+  "verbLexeme": [
+    "1. To be for the use of one person or group only, rather than for the general public. English = (be) private.",
+    "2. To be kept secret and not told or shown to anyone else. English = (be) private, (be) confidential."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The ability to do things alone without other people seeing or disturbing you. English = privacy.",
+    "2. The ability to keep information about yourself and stop other people making the information public. English = privacy."
+  ],
+  "idGloss": "private.1",
+  "oldEntry": ""
 }

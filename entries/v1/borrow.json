@@ -17,10 +17,6 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "borrow",
-  "oldentry": "",
   "english": [
     "borrowing",
     "lending",
@@ -28,17 +24,7 @@
     "lend"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To take, have or use something which belongs to someone else, with their permission, for a period of time. English = borrow.",
-    "2. To allow someone else to take, have or use something with belongs to you for a period of time. English = lend."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of taking, having or using something which belongs to someone else, with their permission, for a period of time. English = borrowing.",
-    "2. The act of allowing someone else to take, have or use something with belongs to you for a period of time. English = lending."
-  ],
   "signNumber": 5906.1,
   "recordNumber": 3512,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "loan"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To take, have or use something which belongs to someone else, with their permission, for a period of time. English = borrow.",
+    "2. To allow someone else to take, have or use something with belongs to you for a period of time. English = lend."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of taking, having or using something which belongs to someone else, with their permission, for a period of time. English = borrowing.",
+    "2. The act of allowing someone else to take, have or use something with belongs to you for a period of time. English = lending."
+  ],
+  "idGloss": "borrow",
+  "oldEntry": ""
 }

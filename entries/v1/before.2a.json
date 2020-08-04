@@ -15,22 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "before.2a",
-  "oldentry": "",
   "english": [
     "before"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used at the beginning or end of the first of two phrases to mean that the action in the first phrase happens at a time earlier than the action of the second (which is signed after the first). English = before.",
-    "2. Used at the beginning or end of a sign phrase, or immediately next to a verb (action) sign, to mean that the action took place at a time earlier than the time of speaking or time of point of reference. English = before."
-  ],
-  "nomlex": [],
   "signNumber": 4199,
   "recordNumber": 2539,
   "signVisualComposition": "",
@@ -45,5 +34,16 @@
   "synonyms": [
     "before.1",
     "before.that.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used at the beginning or end of the first of two phrases to mean that the action in the first phrase happens at a time earlier than the action of the second (which is signed after the first). English = before.",
+    "2. Used at the beginning or end of a sign phrase, or immediately next to a verb (action) sign, to mean that the action took place at a time earlier than the time of speaking or time of point of reference. English = before."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "before.2a",
+  "oldEntry": ""
 }

@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Auslan",
-  "oldentry": "Popular explanation: the action of signing.",
   "english": [
     "Auslan",
     "Sign Language",
@@ -35,16 +31,7 @@
     "chinwag"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To talk or sign in an informal and friendly way with someone. English = chat. Informal English = yarn, chinwag.",
-    "2. To use Australian Sign Language."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The sign language used by the Australian Deaf community. English = Auslan, Australian Sign Language."
-  ],
   "signNumber": 133,
   "recordNumber": 71,
   "signVisualComposition": "",
@@ -59,5 +46,18 @@
   "synonyms": [
     "sign",
     "chat"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To talk or sign in an informal and friendly way with someone. English = chat. Informal English = yarn, chinwag.",
+    "2. To use Australian Sign Language."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The sign language used by the Australian Deaf community. English = Auslan, Australian Sign Language."
+  ],
+  "idGloss": "Auslan",
+  "oldEntry": "Popular explanation: the action of signing."
 }

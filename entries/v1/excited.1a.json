@@ -29,10 +29,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "excited.1a",
-  "oldentry": "",
   "english": [
     "excitement",
     "interest",
@@ -46,19 +42,7 @@
     "interest"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a person, to be so happy that you are full of energy and cannot relax, usually because you are looking forward to something and cannot stop thinking about it. English = (be) excited, (be) interested, (be) keen.",
-    "2. Of a thing, person or event, to make you so happy that you are full of energy and cannot relax. English = (be) exciting, (be) interesting.",
-    "3. To make someone so happy that they are full of energy and cannot relax, usually because they are looking forward to something and cannot stop thinking about it. English = excite, interest."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The state of being so happy that you are full of energy and cannot relax, usually because you are looking forward to something and cannot stop thinking about it or are already enjoying it so much. English = excitement.",
-    "2. The desire to experience, learn or know more about something. English = interest.",
-    "3. The desire to want to do something very much. English = keenness."
-  ],
   "signNumber": 3027,
   "recordNumber": 1734,
   "signVisualComposition": "",
@@ -72,5 +56,21 @@
   ],
   "synonyms": [
     "interest.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a person, to be so happy that you are full of energy and cannot relax, usually because you are looking forward to something and cannot stop thinking about it. English = (be) excited, (be) interested, (be) keen.",
+    "2. Of a thing, person or event, to make you so happy that you are full of energy and cannot relax. English = (be) exciting, (be) interesting.",
+    "3. To make someone so happy that they are full of energy and cannot relax, usually because they are looking forward to something and cannot stop thinking about it. English = excite, interest."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The state of being so happy that you are full of energy and cannot relax, usually because you are looking forward to something and cannot stop thinking about it or are already enjoying it so much. English = excitement.",
+    "2. The desire to experience, learn or know more about something. English = interest.",
+    "3. The desire to want to do something very much. English = keenness."
+  ],
+  "idGloss": "excited.1a",
+  "oldEntry": ""
 }

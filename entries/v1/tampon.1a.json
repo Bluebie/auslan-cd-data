@@ -13,25 +13,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tampon.1a",
-  "oldentry": "",
   "english": [
     "tampon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To insert a firm, specially shaped piece of cotton wool (a tampon) into the vagina to absorb the blood of a period."
-  ],
   "cf": [
     "menstruate.1a",
     "menstruate.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A firm, specially shaped piece of cotton wool that a woman puts inside her vagina to absorb the blood when she has a period. English = tampon."
   ],
   "signNumber": 4919,
   "recordNumber": 2973,
@@ -41,5 +29,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To insert a firm, specially shaped piece of cotton wool (a tampon) into the vagina to absorb the blood of a period."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A firm, specially shaped piece of cotton wool that a woman puts inside her vagina to absorb the blood when she has a period. English = tampon."
+  ],
+  "idGloss": "tampon.1a",
+  "oldEntry": ""
 }

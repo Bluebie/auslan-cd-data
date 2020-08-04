@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pleased",
-  "oldentry": "Popular explanation: rubbing hands in pleasure.",
   "english": [
     "pleasure",
     "please",
@@ -35,21 +31,7 @@
     "pleasing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To make someone feel happy and satisfied. English = please.",
-    "2. To be happy and satisfied. English = (be) pleased.",
-    "3. Of something, to give you happiness and satisfaction. English = (be) pleasing."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone as a polite way of replying to someone who has just thanked you for doing something. English = 'It's a pleasure', 'My pleasure!', 'Your welcome!'",
-    "2. Used alone as a polite way of saying that you are willing to do something. English = 'With pleasure', 'Certainly!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A feeling of happiness, satisfaction, or enjoyment. English = pleasure.",
-    "2. The activity of enjoying yourself rather than working. English = pleasure."
-  ],
   "signNumber": 4618,
   "recordNumber": 2797,
   "signVisualComposition": "",
@@ -64,5 +46,23 @@
   "synonyms": [
     "happy.1",
     "smile.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone as a polite way of replying to someone who has just thanked you for doing something. English = 'It's a pleasure', 'My pleasure!', 'Your welcome!'",
+    "2. Used alone as a polite way of saying that you are willing to do something. English = 'With pleasure', 'Certainly!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To make someone feel happy and satisfied. English = please.",
+    "2. To be happy and satisfied. English = (be) pleased.",
+    "3. Of something, to give you happiness and satisfaction. English = (be) pleasing."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A feeling of happiness, satisfaction, or enjoyment. English = pleasure.",
+    "2. The activity of enjoying yourself rather than working. English = pleasure."
+  ],
+  "idGloss": "pleased",
+  "oldEntry": "Popular explanation: rubbing hands in pleasure."
 }

@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "mouth",
-  "oldentry": "Popular explanation: the outline of the mouth.",
   "english": [
     "mouth",
     "mouthing"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To form words with your lips without making any sound. English = mouth.",
-    "2. To make facial gestures with your mouth without saying words or making any sounds. English = mouth."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Your lips, or the space behind your lips where your teeth and tongue are. You use it for eating, speaking and making facial gestures. English = mouth.",
-    "2. The action of making facial gestures with your mouth, or of forming words with your lips without making any sound. English = mouthing."
-  ],
   "signNumber": 617,
   "recordNumber": 356,
   "signVisualComposition": "",
@@ -42,5 +28,19 @@
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To form words with your lips without making any sound. English = mouth.",
+    "2. To make facial gestures with your mouth without saying words or making any sounds. English = mouth."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Your lips, or the space behind your lips where your teeth and tongue are. You use it for eating, speaking and making facial gestures. English = mouth.",
+    "2. The action of making facial gestures with your mouth, or of forming words with your lips without making any sound. English = mouthing."
+  ],
+  "idGloss": "mouth",
+  "oldEntry": "Popular explanation: the outline of the mouth."
 }

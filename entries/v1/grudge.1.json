@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grudge.1",
-  "oldentry": "",
   "english": [
     "grudge",
     "revenge",
@@ -29,17 +25,7 @@
     "avenge"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an unfriendly feeling towards someone because they have upset you or harmed you in the past; to bear a grudge; have it in for someone.",
-    "2. To hurt or do something bad to someone who has hurt or harmed you in some way before. English = revenge yourself, get revenge, avenge. Idiomatic English = get back at someone, get one's own back."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An unfriendly feeling towards someone because they have upset you or harmed you in the past. English = grudge.",
-    "2. The act of hurting or doing something bad to someone who has hurt or harmed you in some way before. English = revenge, vengeance."
-  ],
   "signNumber": 4223,
   "recordNumber": 2554,
   "signVisualComposition": "",
@@ -52,5 +38,19 @@
   ],
   "synonyms": [
     "grudge.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an unfriendly feeling towards someone because they have upset you or harmed you in the past; to bear a grudge; have it in for someone.",
+    "2. To hurt or do something bad to someone who has hurt or harmed you in some way before. English = revenge yourself, get revenge, avenge. Idiomatic English = get back at someone, get one's own back."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An unfriendly feeling towards someone because they have upset you or harmed you in the past. English = grudge.",
+    "2. The act of hurting or doing something bad to someone who has hurt or harmed you in some way before. English = revenge, vengeance."
+  ],
+  "idGloss": "grudge.1",
+  "oldEntry": ""
 }

@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "vertical.1a",
-  "oldentry": "",
   "english": [
     "vertical",
     "perpendicular"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stand or point straight upwards. English = (be) vertical, (be) perpendicular."
-  ],
   "cf": [
     "straighten.up.1a"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3317,
   "recordNumber": 1938,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "perpendicular"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stand or point straight upwards. English = (be) vertical, (be) perpendicular."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "vertical.1a",
+  "oldEntry": ""
 }

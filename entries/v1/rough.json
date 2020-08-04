@@ -27,10 +27,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "rough",
-  "oldentry": "",
   "english": [
     "roughness",
     "crudeness",
@@ -44,19 +40,7 @@
     "violent"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To use a lot of force and not enough care and gentleness. English = (be) rough.",
-    "2. To behave in a way that is lacking in manners or is simple and unsophisticated. English = (be) crude, (be) uncouth, (be) vulgar.",
-    "3. To behave in a way that is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = (be) violent."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Behaviour which uses a lot of force and not enough care and gentleness. English = roughness.",
-    "2. Behaviour that is lacking in manners or is simple and unsophisticated. English = crudeness, uncouthness, vulgarity.",
-    "3. Behaviour which is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = violence."
-  ],
   "signNumber": 3424,
   "recordNumber": 1997,
   "signVisualComposition": "",
@@ -70,5 +54,21 @@
   "synonyms": [
     "violent.1",
     "dirty"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To use a lot of force and not enough care and gentleness. English = (be) rough.",
+    "2. To behave in a way that is lacking in manners or is simple and unsophisticated. English = (be) crude, (be) uncouth, (be) vulgar.",
+    "3. To behave in a way that is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = (be) violent."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Behaviour which uses a lot of force and not enough care and gentleness. English = roughness.",
+    "2. Behaviour that is lacking in manners or is simple and unsophisticated. English = crudeness, uncouthness, vulgarity.",
+    "3. Behaviour which is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = violence."
+  ],
+  "idGloss": "rough",
+  "oldEntry": ""
 }

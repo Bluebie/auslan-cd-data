@@ -12,23 +12,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oblivious",
-  "oldentry": "",
   "english": [
     "oblivious",
     "unaware"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To not be aware of something or conscious of what is happening around you. English = (be) oblivious, (be) unaware.",
-    "2. To completely forget to do something that you should have remembered."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 6492,
   "recordNumber": 3864,
   "signVisualComposition": "",
@@ -39,5 +28,16 @@
   "antonyms": [
     "wake"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To not be aware of something or conscious of what is happening around you. English = (be) oblivious, (be) unaware.",
+    "2. To completely forget to do something that you should have remembered."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "oblivious",
+  "oldEntry": ""
 }

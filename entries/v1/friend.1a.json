@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "friend.1a",
-  "oldentry": "Popular explanation: holding, shaking hands.",
   "english": [
     "friend",
     "friends",
     "friendly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two or more people, to like each other and enjoy spending time together. English = (be) friends.",
-    "2. Of a person, to behave in a kind of pleasant way to other people. English = (be) friendly."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person you know well and like to spend time with. English = friend."
-  ],
   "signNumber": 4693,
   "recordNumber": 2836,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "antonyms": [],
   "synonyms": [
     "mate"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two or more people, to like each other and enjoy spending time together. English = (be) friends.",
+    "2. Of a person, to behave in a kind of pleasant way to other people. English = (be) friendly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person you know well and like to spend time with. English = friend."
+  ],
+  "idGloss": "friend.1a",
+  "oldEntry": "Popular explanation: holding, shaking hands."
 }

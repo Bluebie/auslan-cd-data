@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chicken-pox.1",
-  "oldentry": "",
   "english": [
     "chicken-pox"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "measles"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A disease which gives you a high temperature and red spots that itch. English = chicken-pox."
   ],
   "signNumber": 5259,
   "recordNumber": 3156,
@@ -36,5 +26,15 @@
   "primaryLocation": 11,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A disease which gives you a high temperature and red spots that itch. English = chicken-pox."
+  ],
+  "idGloss": "chicken-pox.1",
+  "oldEntry": ""
 }

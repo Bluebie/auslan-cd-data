@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "run.1a",
-  "oldentry": "Popular explanation: holding and moving hands as if running.",
   "english": [
     "run",
     "running",
@@ -35,20 +31,8 @@
     "jogging"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move quickly by foot, leaving the ground during each stride, because you are in a hurry to get somewhere or because you are taking part in a race. English = run, race.",
-    "2. To run slowly as a form of exercise. English = jog.",
-    "3. To run in a competition. English = race."
-  ],
   "cf": [
     "walk.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of moving quickly by foot, leaving the ground during each stride, because you are in a hurry to get somewhere or because you are taking part in a race. English = run, running.",
-    "2. A form of exercise in which you run slowly. English = jog, jogging.",
-    "3. A competition to see who is the fastest at running. English = race."
   ],
   "signNumber": 5790,
   "recordNumber": 3434,
@@ -60,5 +44,21 @@
   "antonyms": [],
   "synonyms": [
     "race.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move quickly by foot, leaving the ground during each stride, because you are in a hurry to get somewhere or because you are taking part in a race. English = run, race.",
+    "2. To run slowly as a form of exercise. English = jog.",
+    "3. To run in a competition. English = race."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of moving quickly by foot, leaving the ground during each stride, because you are in a hurry to get somewhere or because you are taking part in a race. English = run, running.",
+    "2. A form of exercise in which you run slowly. English = jog, jogging.",
+    "3. A competition to see who is the fastest at running. English = race."
+  ],
+  "idGloss": "run.1a",
+  "oldEntry": "Popular explanation: holding and moving hands as if running."
 }

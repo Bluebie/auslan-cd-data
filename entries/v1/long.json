@@ -16,25 +16,13 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "long",
-  "oldentry": "",
   "english": [
     "length",
     "long"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To measure a great distance (relative to other things of its type) from one end to the other. English = (be) long."
-  ],
   "cf": [
     "factory.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The large horizontal distance measured from one end of a thing to the other. English = length."
   ],
   "signNumber": 4843,
   "recordNumber": 2926,
@@ -47,5 +35,17 @@
   "synonyms": [
     "broad.1a",
     "wide"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To measure a great distance (relative to other things of its type) from one end to the other. English = (be) long."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The large horizontal distance measured from one end of a thing to the other. English = length."
+  ],
+  "idGloss": "long",
+  "oldEntry": ""
 }

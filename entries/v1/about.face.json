@@ -16,28 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "about.face",
-  "oldentry": "Popular explanation: two faces changing places.",
   "english": [
     "about-turn",
     "about-face",
     "turn-around"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To completely change your attitude or opinion about something.",
-    "2. To be confused, (be) surprised, (be) thrown off balance or be disoriented, especially by a complete and unexpected change in circumstances."
-  ],
   "cf": [
     "facing"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A complete change in attitude or opinion. English = about-turn, about-face.",
-    "2. A complete change in circumstances. English = turn-around."
   ],
   "signNumber": 3591,
   "recordNumber": 2110,
@@ -47,5 +33,19 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To completely change your attitude or opinion about something.",
+    "2. To be confused, (be) surprised, (be) thrown off balance or be disoriented, especially by a complete and unexpected change in circumstances."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A complete change in attitude or opinion. English = about-turn, about-face.",
+    "2. A complete change in circumstances. English = turn-around."
+  ],
+  "idGloss": "about.face",
+  "oldEntry": "Popular explanation: two faces changing places."
 }

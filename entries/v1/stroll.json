@@ -21,29 +21,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "stroll",
-  "oldentry": "",
   "english": [
     "walk",
     "stroll",
     "promenade"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move or make a journey somewhere on foot. English = walk.",
-    "2. To walk somewhere in a slow, relaxed manner. English = stroll.",
-    "3. To stroll around in a leisurely way, usually in a public place, for pleasure or display. English = promenade."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A journey you make somewhere by walking. English = walk.",
-    "2. A walk you make somewhere in a slow, relaxed manner. English = stroll.",
-    "3. A leisurely walk or stroll, especially in a public place, made for pleasure or display. English = promenade."
-  ],
   "signNumber": 2123,
   "recordNumber": 1231,
   "signVisualComposition": "",
@@ -56,5 +40,21 @@
     "walk.1a",
     "stride",
     "step"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move or make a journey somewhere on foot. English = walk.",
+    "2. To walk somewhere in a slow, relaxed manner. English = stroll.",
+    "3. To stroll around in a leisurely way, usually in a public place, for pleasure or display. English = promenade."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A journey you make somewhere by walking. English = walk.",
+    "2. A walk you make somewhere in a slow, relaxed manner. English = stroll.",
+    "3. A leisurely walk or stroll, especially in a public place, made for pleasure or display. English = promenade."
+  ],
+  "idGloss": "stroll",
+  "oldEntry": ""
 }

@@ -14,21 +14,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "court.3",
-  "oldentry": "",
   "english": [
     "court"
   ],
   "deictic": [],
-  "verblex": [
-    "1. The act of devoting your attention to someone by following them around, being close to them and engaging them in conversation and play, because you are sexually attracted to them. Archaic English = court."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1089,
   "recordNumber": 639,
   "signVisualComposition": "",
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "flirt.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. The act of devoting your attention to someone by following them around, being close to them and engaging them in conversation and play, because you are sexually attracted to them. Archaic English = court."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "court.3",
+  "oldEntry": ""
 }

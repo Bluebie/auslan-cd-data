@@ -18,27 +18,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "cattle.1a",
-  "oldentry": "Popular explanation: the horns of an animal.",
   "english": [
     "cow",
     "cattle",
     "bull"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "horns.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large animal that has two long hard pointed things sticking out of the top of its head. They are usually farmed for their meat, milk or skin. English = cow.",
-    "2. A large female animal that is kept on farms for its milk. English = cow.",
-    "3. Cows and bulls. English = cattle.",
-    "4. A male animal of the cow family. English = bull."
   ],
   "signNumber": 6615,
   "recordNumber": 3937,
@@ -50,5 +37,18 @@
   "antonyms": [],
   "synonyms": [
     "cow"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large animal that has two long hard pointed things sticking out of the top of its head. They are usually farmed for their meat, milk or skin. English = cow.",
+    "2. A large female animal that is kept on farms for its milk. English = cow.",
+    "3. Cows and bulls. English = cattle.",
+    "4. A male animal of the cow family. English = bull."
+  ],
+  "idGloss": "cattle.1a",
+  "oldEntry": "Popular explanation: the horns of an animal."
 }

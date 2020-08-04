@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "PROBLEM + T",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tribulation",
-  "oldentry": "",
   "english": [
     "tribulation"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "psychiatry.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Problems or suffering. Formal English = tribulation."
   ],
   "signNumber": 6237,
   "recordNumber": 3727,
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "problem.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Problems or suffering. Formal English = tribulation."
+  ],
+  "idGloss": "tribulation",
+  "oldEntry": ""
 }

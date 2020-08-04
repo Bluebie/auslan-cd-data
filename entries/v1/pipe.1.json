@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pipe.1",
-  "oldentry": "Popular explanation: holding and smoking a pipe.",
   "english": [
     "pipe"
   ],
   "deictic": [],
-  "verblex": [
-    "1. [With sucking action] to smoke a pipe."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. [With sucking action] an object used for smoking tobacco. You put the tobacco into the cup-shaped part at the end, light it, and breathe in the smoke through a narrow tube. English = pipe."
-  ],
   "signNumber": 5105,
   "recordNumber": 3079,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "antonyms": [],
   "synonyms": [
     "pipe.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. [With sucking action] to smoke a pipe."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. [With sucking action] an object used for smoking tobacco. You put the tobacco into the cup-shaped part at the end, light it, and breathe in the smoke through a narrow tube. English = pipe."
+  ],
+  "idGloss": "pipe.1",
+  "oldEntry": "Popular explanation: holding and smoking a pipe."
 }

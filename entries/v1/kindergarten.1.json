@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "kindergarten.1",
-  "oldentry": "",
   "english": [
     "kindergarten"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A school for young children who are not old enough to go to a primary school. English = kindergarten."
-  ],
   "signNumber": 3818,
   "recordNumber": 2269,
   "signVisualComposition": "BABY + SCHOOL",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "kindergarten.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A school for young children who are not old enough to go to a primary school. English = kindergarten."
+  ],
+  "idGloss": "kindergarten.1",
+  "oldEntry": ""
 }

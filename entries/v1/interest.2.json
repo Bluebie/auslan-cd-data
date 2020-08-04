@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "interest.2",
-  "oldentry": "",
   "english": [
     "interest",
     "fascination",
@@ -36,20 +32,8 @@
     "fascinating"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To want to learn or hear more about something. English = (be) interested.",
-    "2. To attract or hold your attention, for example because you think something is exciting or unusual. English = (be) interesting.",
-    "3. To want very much to learn or hear more about something. English = (be) fascinated.",
-    "4. To attract very strongly or hold very tightly your attention, because you think it is very interesting. English = (be) fascinating."
-  ],
   "cf": [
     "impress.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The desire to want to learn or hear more about something. English = interest.",
-    "2. A very strong interest in something. English = fascination."
   ],
   "signNumber": 3475,
   "recordNumber": 2029,
@@ -64,5 +48,21 @@
   ],
   "synonyms": [
     "interest.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To want to learn or hear more about something. English = (be) interested.",
+    "2. To attract or hold your attention, for example because you think something is exciting or unusual. English = (be) interesting.",
+    "3. To want very much to learn or hear more about something. English = (be) fascinated.",
+    "4. To attract very strongly or hold very tightly your attention, because you think it is very interesting. English = (be) fascinating."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The desire to want to learn or hear more about something. English = interest.",
+    "2. A very strong interest in something. English = fascination."
+  ],
+  "idGloss": "interest.2",
+  "oldEntry": ""
 }

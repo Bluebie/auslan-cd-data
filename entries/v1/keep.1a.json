@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "keep.1a",
-  "oldentry": "Popular explanation: moving something towards oneself.",
   "english": [
     "keeping",
     "retaining",
@@ -29,15 +25,7 @@
     "retain"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To cause someone or something to remain in a particular state or place; to have something in a particular state or place so that you can use it whenever you want it; to not give something away. English = keep, retain."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of causing someone or something to remain in a particular state or place; having something in a particular state or place so that you can use it whenever you want it; not giving something away. English = keeping, retaining, retention."
-  ],
   "signNumber": 4299,
   "recordNumber": 2618,
   "signVisualComposition": "",
@@ -49,5 +37,17 @@
   "synonyms": [
     "save",
     "withhold"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To cause someone or something to remain in a particular state or place; to have something in a particular state or place so that you can use it whenever you want it; to not give something away. English = keep, retain."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of causing someone or something to remain in a particular state or place; having something in a particular state or place so that you can use it whenever you want it; not giving something away. English = keeping, retaining, retention."
+  ],
+  "idGloss": "keep.1a",
+  "oldEntry": "Popular explanation: moving something towards oneself."
 }

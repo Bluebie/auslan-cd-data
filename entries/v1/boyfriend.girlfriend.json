@@ -11,22 +11,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "boyfriend.girlfriend",
-  "oldentry": "",
   "english": [
     "boyfriend",
     "girlfriend"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of older school aged children and young teenagers, a boy or a girl you are particularly fond of in a young romantic way, who is your special friend and is known as such among your other more casual friends. English = girlfriend, boyfriend."
-  ],
   "signNumber": 5111,
   "recordNumber": 3085,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of older school aged children and young teenagers, a boy or a girl you are particularly fond of in a young romantic way, who is your special friend and is known as such among your other more casual friends. English = girlfriend, boyfriend."
+  ],
+  "idGloss": "boyfriend.girlfriend",
+  "oldEntry": ""
 }

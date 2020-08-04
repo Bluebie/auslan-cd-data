@@ -13,25 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "close.shave.3",
-  "oldentry": "",
   "english": [
     "close shave"
   ],
   "deictic": [],
-  "verblex": [
-    "1. [Usually with lip pouting] of an accident or disaster, to very nearly happen. Idiomatic English = (be) a close shave, (be) a close call, (be) very close."
-  ],
   "cf": [],
-  "interj": [
-    "1. [Usually with lip pouting] used alone to express your perception that an accident or disaster very nearly happened. English = 'That was close!', 'That was a close shave!', 'That was a close call!'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. [Usually with lip pouting] an event in which something bad, such as an accident or disaster, very nearly happened. Idiomatic English = close shave, close call."
-  ],
   "signNumber": 3201,
   "recordNumber": 1858,
   "signVisualComposition": "",
@@ -43,5 +29,19 @@
   "synonyms": [
     "close.shave.1",
     "close.shave.4"
-  ]
+  ],
+  "interjection": [
+    "1. [Usually with lip pouting] used alone to express your perception that an accident or disaster very nearly happened. English = 'That was close!', 'That was a close shave!', 'That was a close call!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. [Usually with lip pouting] of an accident or disaster, to very nearly happen. Idiomatic English = (be) a close shave, (be) a close call, (be) very close."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. [Usually with lip pouting] an event in which something bad, such as an accident or disaster, very nearly happened. Idiomatic English = close shave, close call."
+  ],
+  "idGloss": "close.shave.3",
+  "oldEntry": ""
 }

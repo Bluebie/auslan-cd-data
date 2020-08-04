@@ -13,23 +13,11 @@
   "sense": "2",
   "blend": "",
   "queries": "A vulgar or offensive sign for many signers, used in an insulting way.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "oral.deaf",
-  "oldentry": "",
   "english": [
     "oral"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a deaf person, to be educated without the benefit of sign language and to communicate by lip-reading and the mouthing of speech alone. English = (be) oral."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A deaf person who has been educated without the benefit of sign language and who has been taught using a method which encourages the use of speech alone."
-  ],
   "signNumber": 6396,
   "recordNumber": 3819,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "oral.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a deaf person, to be educated without the benefit of sign language and to communicate by lip-reading and the mouthing of speech alone. English = (be) oral."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A deaf person who has been educated without the benefit of sign language and who has been taught using a method which encourages the use of speech alone."
+  ],
+  "idGloss": "oral.deaf",
+  "oldEntry": ""
 }

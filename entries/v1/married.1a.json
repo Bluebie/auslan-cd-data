@@ -16,26 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "married.1a",
-  "oldentry": "Popular explanation: putting on a wedding ring.",
   "english": [
     "marriage",
     "marry",
     "married"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a man and a woman, to become each other's husband and wife during a special ceremony. English = marry.",
-    "2. To have a husband or wife. English = (be) married."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of getting married, or the relationship between a husband and wife. English = marriage."
-  ],
   "signNumber": 443,
   "recordNumber": 250,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "antonyms": [
     "divorce.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a man and a woman, to become each other's husband and wife during a special ceremony. English = marry.",
+    "2. To have a husband or wife. English = (be) married."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of getting married, or the relationship between a husband and wife. English = marriage."
+  ],
+  "idGloss": "married.1a",
+  "oldEntry": "Popular explanation: putting on a wedding ring."
 }

@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "half-slip",
-  "oldentry": "",
   "english": [
     "half-slip"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A petticoat that hangs under a skirt. English = half-slip."
-  ],
   "signNumber": 4311,
   "recordNumber": 2626,
   "signVisualComposition": "HALF + SKIRT",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "petticoat.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A petticoat that hangs under a skirt. English = half-slip."
+  ],
+  "idGloss": "half-slip",
+  "oldEntry": ""
 }

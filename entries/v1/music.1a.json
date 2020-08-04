@@ -20,10 +20,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "music.1a",
-  "oldentry": "Popular explanation: conducting music.",
   "english": [
     "music",
     "orchestra",
@@ -32,18 +28,7 @@
     "conduct"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To stand in front of an orchestra, band or choir and direct its performance by waving your hands. English = conduct."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Sounds that are put together in a pattern and performed by people who are singing or playing instruments. English = music.",
-    "2. A large group of musicians who play a variety of different instruments together. English = orchestra.",
-    "3. A person who stands in front of an orchestra, band or choir and direct its performance by waving their hands. English = conductor.",
-    "4. A performance of music given by musicians. English = concert."
-  ],
   "signNumber": 998,
   "recordNumber": 579,
   "signVisualComposition": "",
@@ -55,5 +40,20 @@
   "synonyms": [
     "conductor",
     "tap.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To stand in front of an orchestra, band or choir and direct its performance by waving your hands. English = conduct."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Sounds that are put together in a pattern and performed by people who are singing or playing instruments. English = music.",
+    "2. A large group of musicians who play a variety of different instruments together. English = orchestra.",
+    "3. A person who stands in front of an orchestra, band or choir and direct its performance by waving their hands. English = conductor.",
+    "4. A performance of music given by musicians. English = concert."
+  ],
+  "idGloss": "music.1a",
+  "oldEntry": "Popular explanation: conducting music."
 }

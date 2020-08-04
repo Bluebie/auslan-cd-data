@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "windscreen-wipers",
-  "oldentry": "",
   "english": [
     "windscreen wipers"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To operate the windscreen wipers on a vehicle."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Long thin pieces of metal with a rubber edge which are electrically operated and which wipe rain from the windscreen of a vehicle. English = windscreen wipers."
-  ],
   "signNumber": 844,
   "recordNumber": 483,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To operate the windscreen wipers on a vehicle."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Long thin pieces of metal with a rubber edge which are electrically operated and which wipe rain from the windscreen of a vehicle. English = windscreen wipers."
+  ],
+  "idGloss": "windscreen-wipers",
+  "oldEntry": ""
 }

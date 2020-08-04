@@ -14,23 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "realise",
-  "oldentry": "",
   "english": [
     "realise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To suddenly become aware of something, or understand something, especially after other people. English = realise."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you have suddenly become aware of or understand what your addressee has been talking about. English = 'Oh! I see!', 'Really, is that so?!' , and so on."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 981,
   "recordNumber": 568,
   "signVisualComposition": "",
@@ -44,5 +32,17 @@
   ],
   "synonyms": [
     "understand.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you have suddenly become aware of or understand what your addressee has been talking about. English = 'Oh! I see!', 'Really, is that so?!' , and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To suddenly become aware of something, or understand something, especially after other people. English = realise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "realise",
+  "oldEntry": ""
 }

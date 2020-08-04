@@ -18,25 +18,13 @@
   "sense": "",
   "blend": "",
   "queries": "A vulgar or crude sign for many signers.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fuck.3",
-  "oldentry": "Popular explanation: one set of legs on top of another.",
   "english": [
     "fuck",
     "root",
     "screw"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have sex with someone. Vulgar English = fuck, root, screw."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of having sex with someone. Vulgar English = fuck, root, screw."
-  ],
   "signNumber": 1657,
   "recordNumber": 983,
   "signVisualComposition": "",
@@ -48,5 +36,17 @@
   "synonyms": [
     "fuck.1",
     "fuck.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have sex with someone. Vulgar English = fuck, root, screw."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of having sex with someone. Vulgar English = fuck, root, screw."
+  ],
+  "idGloss": "fuck.3",
+  "oldEntry": "Popular explanation: one set of legs on top of another."
 }

@@ -15,27 +15,13 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "massage.2",
-  "oldentry": "",
   "english": [
     "massage",
     "physiotherapy",
     "physiotherapist"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To rub and squeeze part of someone's body in order to make them relax or to stop their muscles from being painful. English = massage."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The activity of rubbing and squeezing part of someone's body in order to make them relax or to stop their muscles from being painful. English = massage.",
-    "2. Medical treatment which involves doing exercises or having part of your body massaged or warmed. English = physiotherapy.",
-    "3. A person whose job is doing physiotherapy. English = physiotherapist."
-  ],
   "signNumber": 4637,
   "recordNumber": 2809,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To rub and squeeze part of someone's body in order to make them relax or to stop their muscles from being painful. English = massage."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The activity of rubbing and squeezing part of someone's body in order to make them relax or to stop their muscles from being painful. English = massage.",
+    "2. Medical treatment which involves doing exercises or having part of your body massaged or warmed. English = physiotherapy.",
+    "3. A person whose job is doing physiotherapy. English = physiotherapist."
+  ],
+  "idGloss": "massage.2",
+  "oldEntry": ""
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "disconnect.2",
-  "oldentry": "Popular explanation: the breaking of a link.",
   "english": [
     "disconnection",
     "release",
@@ -31,20 +27,7 @@
     "unlock"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two things that are joined, to pull them apart. English = disconnect.",
-    "2. Of a piece of equipment, to detach it from its source of power, such as gas or electricity. English = disconnect.",
-    "3. Of a lock, to open it by means of a key. English = unlock.",
-    "4. Of a person or animal that has been in captivity, to set them free. English = release."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The pulling apart of two things that are joined. English = disconnection.",
-    "2. The detachment of a piece of equipment from its source of power. English = disconnection.",
-    "3. The act of setting a person or animal that has been in captivity free. English = release."
-  ],
   "signNumber": 387,
   "recordNumber": 210,
   "signVisualComposition": "",
@@ -57,5 +40,22 @@
   ],
   "synonyms": [
     "disconnect.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two things that are joined, to pull them apart. English = disconnect.",
+    "2. Of a piece of equipment, to detach it from its source of power, such as gas or electricity. English = disconnect.",
+    "3. Of a lock, to open it by means of a key. English = unlock.",
+    "4. Of a person or animal that has been in captivity, to set them free. English = release."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The pulling apart of two things that are joined. English = disconnection.",
+    "2. The detachment of a piece of equipment from its source of power. English = disconnection.",
+    "3. The act of setting a person or animal that has been in captivity free. English = release."
+  ],
+  "idGloss": "disconnect.2",
+  "oldEntry": "Popular explanation: the breaking of a link."
 }

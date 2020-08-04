@@ -14,26 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "have",
-  "oldentry": "Popular explanation: holding something.",
   "english": [
     "have",
     "have got"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To own or possess something or to be something closely associated with someone. English = have, have got.",
-    "2. To be; to be here; to be there; to exist in a place."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Can be used as the English auxiliary in past tense forms, especially questions. For example, I HAVE ASK or HAVE YOU SEE.",
-    "2. Can be used as in English to form action compounds when combined with another 'nominal' sign. For example, HAVE SHOWER."
-  ],
-  "nomlex": [],
   "signNumber": 2532,
   "recordNumber": 1406,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "antonyms": [
     "have.none.of.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Can be used as the English auxiliary in past tense forms, especially questions. For example, I HAVE ASK or HAVE YOU SEE.",
+    "2. Can be used as in English to form action compounds when combined with another 'nominal' sign. For example, HAVE SHOWER."
+  ],
+  "verbLexeme": [
+    "1. To own or possess something or to be something closely associated with someone. English = have, have got.",
+    "2. To be; to be here; to be there; to exist in a place."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "have",
+  "oldEntry": "Popular explanation: holding something."
 }

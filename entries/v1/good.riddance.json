@@ -11,24 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "good.riddance",
-  "oldentry": "",
   "english": [
     "get rid of"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To get rid of a feeling which is unpleasant; or to get rid of the thing or person that has been irritating you. Idiomatic English = get rid of."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to express how pleased you are that something or someone has left and is no longer bothering you or of concern to you. English = 'Good riddance', 'So long! And not a minute too soon either!'",
-    "2. Used alone or to add emphasis to a sentence to mean that you are very pleased that something is not happening or someone is not about to appear. You do not like the person or you do not want the event to happen. English = 'Thank God for that!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2470,
   "recordNumber": 1371,
   "signVisualComposition": "",
@@ -39,5 +26,18 @@
   "antonyms": [],
   "synonyms": [
     "get.lost.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to express how pleased you are that something or someone has left and is no longer bothering you or of concern to you. English = 'Good riddance', 'So long! And not a minute too soon either!'",
+    "2. Used alone or to add emphasis to a sentence to mean that you are very pleased that something is not happening or someone is not about to appear. You do not like the person or you do not want the event to happen. English = 'Thank God for that!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To get rid of a feeling which is unpleasant; or to get rid of the thing or person that has been irritating you. Idiomatic English = get rid of."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "good.riddance",
+  "oldEntry": ""
 }

@@ -14,24 +14,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Asia.2",
-  "oldentry": "",
   "english": [
     "Asia"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "Europe",
     "America.2",
     "Australia.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the continents or region of the earth extending from Japan in the East to Turkey in the West and from Siberia in the North to India and Indonesia in the south. English = Asia."
   ],
   "signNumber": 4764,
   "recordNumber": 2879,
@@ -43,5 +33,15 @@
   "antonyms": [],
   "synonyms": [
     "Asia.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the continents or region of the earth extending from Japan in the East to Turkey in the West and from Siberia in the North to India and Indonesia in the south. English = Asia."
+  ],
+  "idGloss": "Asia.2",
+  "oldEntry": ""
 }

@@ -12,23 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Something of this general shape (an arc or a hemisphere) lying on a flat surface, or any thing or any action directly or indirectly associated with this, especially a lump on the body.",
-  "questlex": [],
-  "idgloss": "lump.1a",
-  "oldentry": "",
   "english": [
     "lump",
     "bump"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small, hard piece of flesh that is formed on someone's body as a result of an injury or an illness. English = lump.",
-    "2. A swollen shape on your body which is there as a result of a blow. English = bump."
-  ],
   "signNumber": 1220,
   "recordNumber": 719,
   "signVisualComposition": "",
@@ -37,5 +26,16 @@
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Something of this general shape (an arc or a hemisphere) lying on a flat surface, or any thing or any action directly or indirectly associated with this, especially a lump on the body.",
+  "nominalLexeme": [
+    "1. A small, hard piece of flesh that is formed on someone's body as a result of an injury or an illness. English = lump.",
+    "2. A swollen shape on your body which is there as a result of a blow. English = bump."
+  ],
+  "idGloss": "lump.1a",
+  "oldEntry": ""
 }

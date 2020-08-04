@@ -14,25 +14,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "chain",
-  "oldentry": "Popular explanation: the links of a chain.",
   "english": [
     "chain",
     "links"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To put a chain around something. English = chain, chain up."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Metal rings connected together in a line. English = chain.",
-    "2. The metal rings of a chain considered individually. English = links."
-  ],
   "signNumber": 2688,
   "recordNumber": 1492,
   "signVisualComposition": "",
@@ -41,5 +28,18 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To put a chain around something. English = chain, chain up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Metal rings connected together in a line. English = chain.",
+    "2. The metal rings of a chain considered individually. English = links."
+  ],
+  "idGloss": "chain",
+  "oldEntry": "Popular explanation: the links of a chain."
 }

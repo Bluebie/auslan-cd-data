@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "LOOK + SAME",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "seem.1",
-  "oldentry": "",
   "english": [
     "seem",
     "look like"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To look like or appear to be. English = seem."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1669.1,
   "recordNumber": 993,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "synonyms": [
     "face.2a",
     "fair"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To look like or appear to be. English = seem."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "seem.1",
+  "oldEntry": ""
 }

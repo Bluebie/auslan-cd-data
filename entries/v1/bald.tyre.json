@@ -11,23 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bald.tyre",
-  "oldentry": "",
   "english": [
     "bald tyre"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a tyre, to be very smooth and no longer safe to use. English = (be) bald."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A tyre which is very smooth and no longer safe to use. English = bald tyre."
-  ],
   "signNumber": 4397.1,
   "recordNumber": 2677,
   "signVisualComposition": "",
@@ -36,5 +24,17 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a tyre, to be very smooth and no longer safe to use. English = (be) bald."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A tyre which is very smooth and no longer safe to use. English = bald tyre."
+  ],
+  "idGloss": "bald.tyre",
+  "oldEntry": ""
 }

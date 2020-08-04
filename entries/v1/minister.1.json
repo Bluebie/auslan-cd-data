@@ -23,10 +23,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "minister.1",
-  "oldentry": "",
   "english": [
     "minister",
     "chief executive",
@@ -37,17 +33,8 @@
     "headmistress"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "priest.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is in charge of a particular government department. English = minister.",
-    "2. Someone who occupies a very senior and important position in an organisation or business, particularly a leadership role. English = chief executive, CEO, president.",
-    "3. The person in charge of a school or college. English = principal.",
-    "4. The person who is the head teacher at a school. English = (male) headmaster, (female) headmistress."
   ],
   "signNumber": 5199,
   "recordNumber": 3126,
@@ -59,5 +46,18 @@
   "antonyms": [],
   "synonyms": [
     "chairperson.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is in charge of a particular government department. English = minister.",
+    "2. Someone who occupies a very senior and important position in an organisation or business, particularly a leadership role. English = chief executive, CEO, president.",
+    "3. The person in charge of a school or college. English = principal.",
+    "4. The person who is the head teacher at a school. English = (male) headmaster, (female) headmistress."
+  ],
+  "idGloss": "minister.1",
+  "oldEntry": ""
 }

@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "size.2",
-  "oldentry": "",
   "english": [
     "size"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The measure of bigness or smallness, or narrowness or width of something, especially clothes. English = size."
-  ],
   "signNumber": 3779,
   "recordNumber": 2237,
   "signVisualComposition": "",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "size.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The measure of bigness or smallness, or narrowness or width of something, especially clothes. English = size."
+  ],
+  "idGloss": "size.2",
+  "oldEntry": ""
 }

@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hearing-loop",
-  "oldentry": "",
   "english": [
     "hearing loop"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "FM-hearing.aid"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A wire which is connected around the edge of a room or auditorium that facilitates the operation of FM-hearing aids. English = hearing loop."
   ],
   "signNumber": 408,
   "recordNumber": 225,
@@ -36,5 +26,15 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A wire which is connected around the edge of a room or auditorium that facilitates the operation of FM-hearing aids. English = hearing loop."
+  ],
+  "idGloss": "hearing-loop",
+  "oldEntry": ""
 }

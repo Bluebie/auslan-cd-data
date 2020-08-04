@@ -16,26 +16,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "north",
-  "oldentry": "",
   "english": [
     "north",
     "northerly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be a direction or point which is to the north or towards the north. English = (be) northerly."
-  ],
   "cf": [
     "east",
     "west"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The direction which is on your left when you are looking towards the direction where the sun rises. English = north."
   ],
   "signNumber": 2145,
   "recordNumber": 1241,
@@ -47,5 +35,17 @@
   "antonyms": [
     "south"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be a direction or point which is to the north or towards the north. English = (be) northerly."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The direction which is on your left when you are looking towards the direction where the sun rises. English = north."
+  ],
+  "idGloss": "north",
+  "oldEntry": ""
 }

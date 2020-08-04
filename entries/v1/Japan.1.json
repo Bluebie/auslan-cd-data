@@ -12,24 +12,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "Japan.1",
-  "oldentry": "",
   "english": [
     "Japan",
     "Japanese"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to Japan. English = (be) Japanese."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An island nation in North East Asia, called Japan."
-  ],
   "signNumber": 5223,
   "recordNumber": 3139,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to Japan. English = (be) Japanese."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An island nation in North East Asia, called Japan."
+  ],
+  "idGloss": "Japan.1",
+  "oldEntry": ""
 }

@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trade",
-  "oldentry": "",
   "english": [
     "trade",
     "apprentice",
@@ -33,18 +29,7 @@
     "bonded"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The kind of work that someone does, especially when it requires special training in practical skills (eg plumbing). English = trade.",
-    "2. A young person who works with someone in order to learn their skill. English = apprentice.",
-    "3. A fixed period of time in which someone works with a person who has a particular skill in order to learn the skill. English = apprenticeship.",
-    "4. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
-  ],
   "signNumber": 2112,
   "recordNumber": 1224,
   "signVisualComposition": "",
@@ -55,5 +40,20 @@
   "antonyms": [],
   "synonyms": [
     "apprentice"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The kind of work that someone does, especially when it requires special training in practical skills (eg plumbing). English = trade.",
+    "2. A young person who works with someone in order to learn their skill. English = apprentice.",
+    "3. A fixed period of time in which someone works with a person who has a particular skill in order to learn the skill. English = apprenticeship.",
+    "4. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
+  ],
+  "idGloss": "trade",
+  "oldEntry": ""
 }

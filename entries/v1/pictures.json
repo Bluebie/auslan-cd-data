@@ -17,24 +17,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "pictures",
-  "oldentry": "",
   "english": [
     "pictures",
     "film",
     "cinema"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Moving pictures that have been recorded so that they can be shown in a cinema. English = pictures, film.",
-    "2. A place where people go to watch films. English = cinema, pictures."
-  ],
   "signNumber": 2596.1,
   "recordNumber": 1437,
   "signVisualComposition": "",
@@ -47,5 +36,16 @@
     "film.1",
     "film.2a",
     "film.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Moving pictures that have been recorded so that they can be shown in a cinema. English = pictures, film.",
+    "2. A place where people go to watch films. English = cinema, pictures."
+  ],
+  "idGloss": "pictures",
+  "oldEntry": ""
 }

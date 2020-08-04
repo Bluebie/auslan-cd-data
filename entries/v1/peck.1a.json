@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "BIRD + PECK",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "peck.1a",
-  "oldentry": "Popular explanation: the beak of fowl pecking on the ground.",
   "english": [
     "pecking",
     "poultry",
@@ -32,18 +28,8 @@
     "peck"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of a bird, to move its beak towards something and then bite at it or pick it up, especially something lying on the ground. English = peck."
-  ],
   "cf": [
     "rooster.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The action of a bird moving its beak towards something and then biting at it or picking it up, especially something lying on the ground. English = pecking.",
-    "2. Chickens, ducks, and other birds that are kept for their eggs and meat. English = poultry.",
-    "3. A bird, especially one that can be eaten as food. English = fowl, chicken."
   ],
   "signNumber": 5260,
   "recordNumber": 3157,
@@ -55,5 +41,19 @@
   "antonyms": [],
   "synonyms": [
     "bird"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of a bird, to move its beak towards something and then bite at it or pick it up, especially something lying on the ground. English = peck."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The action of a bird moving its beak towards something and then biting at it or picking it up, especially something lying on the ground. English = pecking.",
+    "2. Chickens, ducks, and other birds that are kept for their eggs and meat. English = poultry.",
+    "3. A bird, especially one that can be eaten as food. English = fowl, chicken."
+  ],
+  "idGloss": "peck.1a",
+  "oldEntry": "Popular explanation: the beak of fowl pecking on the ground."
 }

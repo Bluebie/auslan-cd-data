@@ -11,23 +11,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "one-eyed",
-  "oldentry": "",
   "english": [
     "biased",
     "one-eyed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be unfair in your judgements or decisions, because you allow yourself to be influenced by your own opinions, rather than considering the facts. English = (be) biased.",
-    "2. To have a strong bias in favour of someone or something. Idiomatic English = (be) one-eyed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3163,
   "recordNumber": 1833,
   "signVisualComposition": "",
@@ -36,5 +25,16 @@
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be unfair in your judgements or decisions, because you allow yourself to be influenced by your own opinions, rather than considering the facts. English = (be) biased.",
+    "2. To have a strong bias in favour of someone or something. Idiomatic English = (be) one-eyed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "one-eyed",
+  "oldEntry": ""
 }

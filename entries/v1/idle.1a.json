@@ -21,10 +21,6 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "idle.1a",
-  "oldentry": "Popular explanation: holding braces.",
   "english": [
     "idleness",
     "loafing",
@@ -35,17 +31,7 @@
     "available"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not doing something, especially when you should be working. English = (be) idle, loaf.",
-    "2. To be able to do something at a certain time because you are not or will not be doing anything else. English = (be) free, (be) available."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The fact of not doing anything, especially when you should be doing something, especially working. English = idleness, loafing.",
-    "2. A person who spends their time not working or not doing the things that they ought to be doing. English = loafer."
-  ],
   "signNumber": 2657,
   "recordNumber": 1474,
   "signVisualComposition": "",
@@ -58,5 +44,19 @@
   ],
   "synonyms": [
     "available"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not doing something, especially when you should be working. English = (be) idle, loaf.",
+    "2. To be able to do something at a certain time because you are not or will not be doing anything else. English = (be) free, (be) available."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The fact of not doing anything, especially when you should be doing something, especially working. English = idleness, loafing.",
+    "2. A person who spends their time not working or not doing the things that they ought to be doing. English = loafer."
+  ],
+  "idGloss": "idle.1a",
+  "oldEntry": "Popular explanation: holding braces."
 }

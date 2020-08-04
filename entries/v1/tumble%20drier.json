@@ -16,27 +16,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tumble drier",
-  "oldentry": "Popular explanation: a tumble drier turning around and around.",
   "english": [
     "tumble drier",
     "tumble dryer"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To dry clothes in a tumble drier."
-  ],
   "cf": [
     "spin-drier.1a",
     "washing machine.1",
     "washing machine.2"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An electric machine that dries washing quickly. You put the wet clothes inside it and it turns them over slowly while blowing hot air onto them. English = tumble drier, tumble dryer."
   ],
   "signNumber": 3396.1,
   "recordNumber": 1986,
@@ -46,5 +34,17 @@
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To dry clothes in a tumble drier."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An electric machine that dries washing quickly. You put the wet clothes inside it and it turns them over slowly while blowing hot air onto them. English = tumble drier, tumble dryer."
+  ],
+  "idGloss": "tumble drier",
+  "oldEntry": "Popular explanation: a tumble drier turning around and around."
 }

@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ball.2",
-  "oldentry": "Popular explanation: the shape of a ball.",
   "english": [
     "ball",
     "sphere",
@@ -32,17 +28,7 @@
     "spherical"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be round in shape like a ball. English = (be) round.",
-    "2. To be perfectly round in shape like a ball. English = (be) spherical."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Something that has a round shape. English = ball.",
-    "2. Something that has a perfectly round shape. English = sphere."
-  ],
   "signNumber": 3014,
   "recordNumber": 1722,
   "signVisualComposition": "",
@@ -54,5 +40,19 @@
   "synonyms": [
     "ball.1",
     "ball.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be round in shape like a ball. English = (be) round.",
+    "2. To be perfectly round in shape like a ball. English = (be) spherical."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Something that has a round shape. English = ball.",
+    "2. Something that has a perfectly round shape. English = sphere."
+  ],
+  "idGloss": "ball.2",
+  "oldEntry": "Popular explanation: the shape of a ball."
 }

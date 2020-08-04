@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "melon",
-  "oldentry": "Popular explanation: eating a piece of melon.",
   "english": [
     "melon",
     "watermelon"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To eat a piece of melon or watermelon."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large juicy fruit which has a thick green or yellow skin. English = melon.",
-    "2. A large round fruit which has a green skin and is pink and juicy inside with a lot of black seeds. English = watermelon."
-  ],
   "signNumber": 4573,
   "recordNumber": 2769,
   "signVisualComposition": "",
@@ -44,5 +31,18 @@
   "antonyms": [],
   "synonyms": [
     "watermelon"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To eat a piece of melon or watermelon."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large juicy fruit which has a thick green or yellow skin. English = melon.",
+    "2. A large round fruit which has a green skin and is pink and juicy inside with a lot of black seeds. English = watermelon."
+  ],
+  "idGloss": "melon",
+  "oldEntry": "Popular explanation: eating a piece of melon."
 }

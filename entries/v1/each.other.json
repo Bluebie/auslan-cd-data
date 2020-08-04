@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "each.other",
-  "oldentry": "",
   "english": [
     "each other"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [
-    "1. Used to say that each member of a group does something to the others or has a particular connection with the others. English = each other."
-  ],
-  "nomlex": [],
   "signNumber": 932,
   "recordNumber": 531,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [
+    "1. Used to say that each member of a group does something to the others or has a particular connection with the others. English = each other."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "each.other",
+  "oldEntry": ""
 }

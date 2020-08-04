@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bullshit.1",
-  "oldentry": "",
   "english": [
     "shit",
     "fuck",
     "damn"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone as an expression of exasperation, frustration or anger when something displeases you. This sign is considered to be vulgar by many people. English = 'Shit!', 'Fuck!', 'Damn!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 1945,
   "recordNumber": 1161,
   "signVisualComposition": "",
@@ -44,5 +34,15 @@
   "synonyms": [
     "bullshit.2a",
     "bullshit.3a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone as an expression of exasperation, frustration or anger when something displeases you. This sign is considered to be vulgar by many people. English = 'Shit!', 'Fuck!', 'Damn!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "bullshit.1",
+  "oldEntry": ""
 }

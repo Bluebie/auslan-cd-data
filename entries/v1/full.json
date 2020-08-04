@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "full",
-  "oldentry": "",
   "english": [
     "full",
     "enough",
@@ -33,19 +29,9 @@
     "fed up"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have consumed enough food or drink. English = (be) full.",
-    "2. To be as much as you need or want of something. English = (be) enough, (be) sufficient; suffice.",
-    "3. To be bored or annoyed. English = (be) fed up."
-  ],
   "cf": [
     "fill.1"
   ],
-  "interj": [
-    "1. Used alone, especially with children, to mean you want your addressee to stop doing what they have been doing because it irritates you, is disruptive or is inappropriate behaviour. English = 'That's enough!'."
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3299,
   "recordNumber": 1925,
   "signVisualComposition": "",
@@ -62,5 +48,19 @@
     "sated.1a",
     "enough.1a",
     "satisfy"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone, especially with children, to mean you want your addressee to stop doing what they have been doing because it irritates you, is disruptive or is inappropriate behaviour. English = 'That's enough!'."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have consumed enough food or drink. English = (be) full.",
+    "2. To be as much as you need or want of something. English = (be) enough, (be) sufficient; suffice.",
+    "3. To be bored or annoyed. English = (be) fed up."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "full",
+  "oldEntry": ""
 }

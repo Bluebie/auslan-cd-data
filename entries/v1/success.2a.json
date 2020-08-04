@@ -30,10 +30,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "success.2a",
-  "oldentry": "",
   "english": [
     "achievement",
     "success",
@@ -49,22 +45,7 @@
     "finally"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To do or cause something to happen, especially after a lot of effort. English = achieve, succeed, (be) successful.",
-    "2. To get the answer to some problem or puzzle. English = solve, resolve; (be) solved, (be) resolved.",
-    "3. To totally finish doing, making, or producing something; of something, to be totally finished with no more work to do or parts to add. English = complete; (be) done, (be) ready, (be) completed, (be) achieved."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean: 'It's done!', 'I've got the answer!', 'That's right! You've got the answer!' and so on."
-  ],
-  "partlex": [
-    "1. Used at the beginning or end of a sentence to mean that the action in that sentence has come about successfully after some effort. English = at last, finally."
-  ],
-  "nomlex": [
-    "1. The act of doing or causing something to happen, usually after a lot of effort. English = achievement, success.",
-    "2. The answer or end to some problem or puzzle. English = solution, resolution."
-  ],
   "signNumber": 4704,
   "recordNumber": 2842,
   "signVisualComposition": "",
@@ -78,5 +59,24 @@
   ],
   "synonyms": [
     "success.1"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean: 'It's done!', 'I've got the answer!', 'That's right! You've got the answer!' and so on."
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning or end of a sentence to mean that the action in that sentence has come about successfully after some effort. English = at last, finally."
+  ],
+  "verbLexeme": [
+    "1. To do or cause something to happen, especially after a lot of effort. English = achieve, succeed, (be) successful.",
+    "2. To get the answer to some problem or puzzle. English = solve, resolve; (be) solved, (be) resolved.",
+    "3. To totally finish doing, making, or producing something; of something, to be totally finished with no more work to do or parts to add. English = complete; (be) done, (be) ready, (be) completed, (be) achieved."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of doing or causing something to happen, usually after a lot of effort. English = achievement, success.",
+    "2. The answer or end to some problem or puzzle. English = solution, resolution."
+  ],
+  "idGloss": "success.2a",
+  "oldEntry": ""
 }

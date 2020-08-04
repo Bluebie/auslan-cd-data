@@ -24,10 +24,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "tired.1a",
-  "oldentry": "",
   "english": [
     "tiredness",
     "exhaustion",
@@ -39,21 +35,8 @@
     "exhaust"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To feel that you want to rest and sleep. English = (be) tired.",
-    "2. To feel very much that you want to rest and sleep because you have no energy left at all; to be very tired. English = (be) exhausted.",
-    "3. To feel that you want to rest and sleep or stop doing something because you are very tired or because you have lost interest and enthusiasm. English = (be) weary.",
-    "4. To make you or someone use a lot of energy, with the result that you or they want to rest and sleep. English = tire, exhaust, weary."
-  ],
   "cf": [
     "sleepy"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The feeling that you want to rest and sleep. English = tiredness, exhaustion, weariness.",
-    "2. The strong feeling that you want to rest and sleep because you are very tired and have no energy left. English = exhaustion.",
-    "3. The feeling that you want to rest and sleep or stop doing something because you are very tired or because you have lost interest and enthusiasm. English = weariness."
   ],
   "signNumber": 3423,
   "recordNumber": 1996,
@@ -63,5 +46,22 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To feel that you want to rest and sleep. English = (be) tired.",
+    "2. To feel very much that you want to rest and sleep because you have no energy left at all; to be very tired. English = (be) exhausted.",
+    "3. To feel that you want to rest and sleep or stop doing something because you are very tired or because you have lost interest and enthusiasm. English = (be) weary.",
+    "4. To make you or someone use a lot of energy, with the result that you or they want to rest and sleep. English = tire, exhaust, weary."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The feeling that you want to rest and sleep. English = tiredness, exhaustion, weariness.",
+    "2. The strong feeling that you want to rest and sleep because you are very tired and have no energy left. English = exhaustion.",
+    "3. The feeling that you want to rest and sleep or stop doing something because you are very tired or because you have lost interest and enthusiasm. English = weariness."
+  ],
+  "idGloss": "tired.1a",
+  "oldEntry": ""
 }

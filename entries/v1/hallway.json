@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hallway",
-  "oldentry": "Popular explanation: the walls of a passageway.",
   "english": [
     "hall",
     "hallway",
@@ -30,14 +26,7 @@
     "corridor"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The entrance area just inside the front door of a house or building; a long narrow space with walls (in a building or a train) or fences on both sides, which connects one place with another. It often has doors and rooms on one or both sides.",
-    "English = hall, hallway, passage, passageway, corridor."
-  ],
   "signNumber": 3603,
   "recordNumber": 2119,
   "signVisualComposition": "",
@@ -46,5 +35,16 @@
   "primaryLocation": 13,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The entrance area just inside the front door of a house or building; a long narrow space with walls (in a building or a train) or fences on both sides, which connects one place with another. It often has doors and rooms on one or both sides.",
+    "English = hall, hallway, passage, passageway, corridor."
+  ],
+  "idGloss": "hallway",
+  "oldEntry": "Popular explanation: the walls of a passageway."
 }

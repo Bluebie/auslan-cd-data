@@ -18,26 +18,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "green.1",
-  "oldentry": "",
   "english": [
     "green",
     "grass"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the colour of grass or of leaves. English = (be) green.",
-    "2. To be covered with luxurious grass and trees with no buildings. English = (be) green."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of grass or of leaves. English = green.",
-    "2. A very common plant with narrow leaves that forms a layer covering an area of ground. English = grass."
-  ],
   "signNumber": 4032,
   "recordNumber": 2411,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
   "synonyms": [
     "green.2a",
     "lawn.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be the colour of grass or of leaves. English = (be) green.",
+    "2. To be covered with luxurious grass and trees with no buildings. English = (be) green."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of grass or of leaves. English = green.",
+    "2. A very common plant with narrow leaves that forms a layer covering an area of ground. English = grass."
+  ],
+  "idGloss": "green.1",
+  "oldEntry": ""
 }

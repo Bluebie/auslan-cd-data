@@ -19,28 +19,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "Any rectangular object with a border running around the edge, such as a window, door or picture frame, or any thing or any action directly or indirectly associated with this, especially a frame.",
-  "questlex": [],
-  "idgloss": "border.1a",
-  "oldentry": "Popular explanation: the shape of a border or frame.",
   "english": [
     "border",
     "frame"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To add a strip or band around the edge of something. English = border.",
-    "2. To put a frame around the edge of something such as a window, door, or picture. English = frame."
-  ],
   "cf": [
     "picture.1a",
     "system"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A strip or band around the edge of something. English = border.",
-    "2. A hollow structure inside which you can fit something such as a window, door, or picture. English = frame."
   ],
   "signNumber": 5469,
   "recordNumber": 3249,
@@ -50,5 +36,19 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To add a strip or band around the edge of something. English = border.",
+    "2. To put a frame around the edge of something such as a window, door, or picture. English = frame."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "Any rectangular object with a border running around the edge, such as a window, door or picture frame, or any thing or any action directly or indirectly associated with this, especially a frame.",
+  "nominalLexeme": [
+    "1. A strip or band around the edge of something. English = border.",
+    "2. A hollow structure inside which you can fit something such as a window, door, or picture. English = frame."
+  ],
+  "idGloss": "border.1a",
+  "oldEntry": "Popular explanation: the shape of a border or frame."
 }

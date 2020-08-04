@@ -14,24 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "butcher",
-  "oldentry": "Popular explanation: cutting an animal's throat.",
   "english": [
     "butcher"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "operate.1a",
     "murder.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A shopkeeper who sells meat. English = butcher.",
-    "2. A shop where you can buy meat. English = butcher, butcher's."
   ],
   "signNumber": 4747,
   "recordNumber": 2869,
@@ -43,5 +32,16 @@
   "antonyms": [],
   "synonyms": [
     "meat.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A shopkeeper who sells meat. English = butcher.",
+    "2. A shop where you can buy meat. English = butcher, butcher's."
+  ],
+  "idGloss": "butcher",
+  "oldEntry": "Popular explanation: cutting an animal's throat."
 }

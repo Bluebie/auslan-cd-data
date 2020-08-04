@@ -9,21 +9,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "five-eighth",
-  "oldentry": "",
   "english": [
     "five-eighth"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. In rugby, the back who is stationed between the half-back and the centre three-quarters. English = five-eighth."
-  ],
   "signNumber": 2498.1,
   "recordNumber": 1385,
   "signVisualComposition": "",
@@ -32,5 +22,15 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. In rugby, the back who is stationed between the half-back and the centre three-quarters. English = five-eighth."
+  ],
+  "idGloss": "five-eighth",
+  "oldEntry": ""
 }

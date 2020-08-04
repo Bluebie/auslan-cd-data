@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "crush",
-  "oldentry": "Popular explanation: crushing something.",
   "english": [
     "crush"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To press something which is very hard so that you break it or destroy its shape. English = crush."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5904,
   "recordNumber": 3509,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "squash.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To press something which is very hard so that you break it or destroy its shape. English = crush."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "crush",
+  "oldEntry": "Popular explanation: crushing something."
 }

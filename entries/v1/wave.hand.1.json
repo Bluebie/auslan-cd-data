@@ -20,10 +20,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "wave.hand.1",
-  "oldentry": "Popular explanation: the parting gesture.",
   "english": [
     "wave",
     "hi",
@@ -33,17 +29,7 @@
     "good-bye"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move your hand in acknowledgment of someone when you meet them, or as a parting gesture when they (or you) are leaving. English = wave."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone as an acknowledgment when meeting someone or, more often, when leaving. English = 'Hi'; 'Good bye', 'Bye'"
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A movement of the hand up and down, or a closing and opening of the hand at the knuckles, as a gesture of greeting or leave-taking. English = wave."
-  ],
   "signNumber": 3315,
   "recordNumber": 1936,
   "signVisualComposition": "",
@@ -56,5 +42,19 @@
   ],
   "synonyms": [
     "wave.hand.2"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone as an acknowledgment when meeting someone or, more often, when leaving. English = 'Hi'; 'Good bye', 'Bye'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move your hand in acknowledgment of someone when you meet them, or as a parting gesture when they (or you) are leaving. English = wave."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A movement of the hand up and down, or a closing and opening of the hand at the knuckles, as a gesture of greeting or leave-taking. English = wave."
+  ],
+  "idGloss": "wave.hand.1",
+  "oldEntry": "Popular explanation: the parting gesture."
 }

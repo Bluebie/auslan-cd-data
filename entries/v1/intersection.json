@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "intersection",
-  "oldentry": "",
   "english": [
     "intersection",
     "conflict",
@@ -28,17 +24,7 @@
     "conflict"
   ],
   "deictic": [],
-  "verblex": [
-    "1. Of two paths, ways, or roads, to cross each other, often at right angles. English = intersect.",
-    "2. Of two ways of doing things (ideas, beliefs, or interests), to be very different and not at all in agreement. English = (be) in conflict; conflict."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where two paths, ways or roads cross each other, often at right angles. English = intersection.",
-    "2. A serious difference between two ways of doing things (ideas, beliefs, or interests). English = conflict."
-  ],
   "signNumber": 1042,
   "recordNumber": 611,
   "signVisualComposition": "",
@@ -49,5 +35,19 @@
   "antonyms": [],
   "synonyms": [
     "corner.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. Of two paths, ways, or roads, to cross each other, often at right angles. English = intersect.",
+    "2. Of two ways of doing things (ideas, beliefs, or interests), to be very different and not at all in agreement. English = (be) in conflict; conflict."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where two paths, ways or roads cross each other, often at right angles. English = intersection.",
+    "2. A serious difference between two ways of doing things (ideas, beliefs, or interests). English = conflict."
+  ],
+  "idGloss": "intersection",
+  "oldEntry": ""
 }

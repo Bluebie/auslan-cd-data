@@ -10,21 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "centimetre",
-  "oldentry": "",
   "english": [
     "centimetre"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A unit of length in the metric system equal to ten millimetres or one-hundredth of a metre. English = centimetre."
-  ],
   "signNumber": 5414,
   "recordNumber": 3228,
   "signVisualComposition": "",
@@ -33,5 +23,15 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A unit of length in the metric system equal to ten millimetres or one-hundredth of a metre. English = centimetre."
+  ],
+  "idGloss": "centimetre",
+  "oldEntry": ""
 }

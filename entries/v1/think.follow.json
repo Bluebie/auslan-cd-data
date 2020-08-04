@@ -13,25 +13,15 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "think.follow",
-  "oldentry": "",
   "english": [
     "believe in"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To adopt the beliefs or opinions of another person or group of people after a period of doubt followed by consideration, reflection and ultimately agreement."
-  ],
   "cf": [
     "believe.1",
     "believe.2a",
     "believe.3"
   ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 834,
   "recordNumber": 475,
   "signVisualComposition": "THINK + FOLLOW",
@@ -40,5 +30,15 @@
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To adopt the beliefs or opinions of another person or group of people after a period of doubt followed by consideration, reflection and ultimately agreement."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "think.follow",
+  "oldEntry": ""
 }

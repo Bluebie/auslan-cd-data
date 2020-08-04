@@ -33,10 +33,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "aim.1a",
-  "oldentry": "",
   "english": [
     "aim",
     "intention",
@@ -52,22 +48,8 @@
     "commit"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To focus your attention on what you will do and the final result you want; to do what you want to do; to act without delay or hesitation. English = aim, intend.",
-    "2. To go by the shortest possible route between two places without stopping. English = go direct.",
-    "3. To do something by the simplest and most efficient way in the least number of steps or stages and without involving other things or other people. English = (be) direct.",
-    "4. To give a lot of time and effort toward something because you believe in it or you think it is important. English = commit, dedicate."
-  ],
   "cf": [
     "goal.2a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The clear idea of what you will do and the final result you want. English = aim, intention, objective, purpose.",
-    "2. The place you are travelling to where you want to end your journey at. English = destination.",
-    "3. A lot of time and effort you give to something because you believe in it or you think it is important. English = commitment, dedication.",
-    "4. Everything that will happen to someone during their life, especially when it is considered to be controlled by someone or something else. English = destiny, fate."
   ],
   "signNumber": 3972,
   "recordNumber": 2375,
@@ -84,5 +66,23 @@
     "specific.1a",
     "wilful",
     "straight"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To focus your attention on what you will do and the final result you want; to do what you want to do; to act without delay or hesitation. English = aim, intend.",
+    "2. To go by the shortest possible route between two places without stopping. English = go direct.",
+    "3. To do something by the simplest and most efficient way in the least number of steps or stages and without involving other things or other people. English = (be) direct.",
+    "4. To give a lot of time and effort toward something because you believe in it or you think it is important. English = commit, dedicate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The clear idea of what you will do and the final result you want. English = aim, intention, objective, purpose.",
+    "2. The place you are travelling to where you want to end your journey at. English = destination.",
+    "3. A lot of time and effort you give to something because you believe in it or you think it is important. English = commitment, dedication.",
+    "4. Everything that will happen to someone during their life, especially when it is considered to be controlled by someone or something else. English = destiny, fate."
+  ],
+  "idGloss": "aim.1a",
+  "oldEntry": ""
 }

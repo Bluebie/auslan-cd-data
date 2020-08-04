@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bring.forward",
-  "oldentry": "Popular explanation: pick up and move to another place or time.",
   "english": [
     "bring forward"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To arrange for an event to take place at an earlier time than was originally planned. English = bring forward."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 405,
   "recordNumber": 223,
   "signVisualComposition": "",
@@ -38,5 +28,15 @@
     "postpone.2",
     "postpone.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To arrange for an event to take place at an earlier time than was originally planned. English = bring forward."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "bring.forward",
+  "oldEntry": "Popular explanation: pick up and move to another place or time."
 }

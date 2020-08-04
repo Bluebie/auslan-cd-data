@@ -15,23 +15,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "turn.left.1a",
-  "oldentry": "Popular explanation: pointing around a corner.",
   "english": [
     "turn left"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn or go left at a certain place, especially at a corner; to turn or go left."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A left turn."
-  ],
   "signNumber": 966,
   "recordNumber": 557,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [
     "turn.right.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn or go left at a certain place, especially at a corner; to turn or go left."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A left turn."
+  ],
+  "idGloss": "turn.left.1a",
+  "oldEntry": "Popular explanation: pointing around a corner."
 }

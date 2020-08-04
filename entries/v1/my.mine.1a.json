@@ -10,10 +10,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "my.mine.1a",
-  "oldentry": "",
   "english": [
     "my",
     "mine"
@@ -21,11 +17,7 @@
   "deictic": [
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is owned or possessed by the person or thing this sign is directed towards. In this case, the thing is owned by the signer. English = my, mine."
   ],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 5641,
   "recordNumber": 3343,
   "signVisualComposition": "",
@@ -34,5 +26,13 @@
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "my.mine.1a",
+  "oldEntry": ""
 }

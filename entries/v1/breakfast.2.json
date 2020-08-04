@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "breakfast.2",
-  "oldentry": "",
   "english": [
     "breakfast"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The first meal of the day, which is usually eaten early in the morning. English = breakfast."
-  ],
   "signNumber": 4022,
   "recordNumber": 2408,
   "signVisualComposition": "MORNING + PUDDING",
@@ -37,5 +27,15 @@
   "antonyms": [],
   "synonyms": [
     "breakfast.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The first meal of the day, which is usually eaten early in the morning. English = breakfast."
+  ],
+  "idGloss": "breakfast.2",
+  "oldEntry": ""
 }

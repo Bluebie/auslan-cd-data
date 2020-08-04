@@ -17,10 +17,6 @@
   "sense": "",
   "blend": "",
   "queries": "This sign is usually made in a clearly defined context where relative spatial locations have already been established.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "across",
-  "oldentry": "",
   "english": [
     "crossing",
     "pedestrian crossing",
@@ -28,18 +24,7 @@
     "cross"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To move from one side of an area or place (such as a road, room, or an area of land) to the other side. English = go across, cross."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to tell someone that them can go in the direction they want to go because you give them permission or it is the right time or it is safe to do so. English = 'Okay, you can go now.', 'Okay, off you go!' and so on.",
-    "2. Used alone to tell someone that they may now do something they want to do. English = 'Okay, go ahead!', 'Alright, you can do it now.', and so on."
-  ],
-  "partlex": [],
-  "nomlex": [
-    "1. A place where pedestrians can cross a street and where motorists must stop to let them cross. English = pedestrian crossing, crossing."
-  ],
   "signNumber": 801,
   "recordNumber": 455,
   "signVisualComposition": "",
@@ -50,5 +35,20 @@
   "antonyms": [],
   "synonyms": [
     "across.surface"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to tell someone that them can go in the direction they want to go because you give them permission or it is the right time or it is safe to do so. English = 'Okay, you can go now.', 'Okay, off you go!' and so on.",
+    "2. Used alone to tell someone that they may now do something they want to do. English = 'Okay, go ahead!', 'Alright, you can do it now.', and so on."
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To move from one side of an area or place (such as a road, room, or an area of land) to the other side. English = go across, cross."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A place where pedestrians can cross a street and where motorists must stop to let them cross. English = pedestrian crossing, crossing."
+  ],
+  "idGloss": "across",
+  "oldEntry": ""
 }

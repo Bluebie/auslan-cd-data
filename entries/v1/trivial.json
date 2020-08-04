@@ -14,23 +14,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "trivial",
-  "oldentry": "",
   "english": [
     "unimportant",
     "trivial",
     "insignificant"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be not very important, valuable or necessary. English = (be) unimportant, (be) trivial, (be) insignificant."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4917,
   "recordNumber": 2971,
   "signVisualComposition": "",
@@ -41,5 +31,15 @@
   "antonyms": [],
   "synonyms": [
     "brief"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be not very important, valuable or necessary. English = (be) unimportant, (be) trivial, (be) insignificant."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "trivial",
+  "oldEntry": ""
 }

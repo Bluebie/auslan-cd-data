@@ -10,23 +10,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shave.legs",
-  "oldentry": "",
   "english": [
     "shave"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To shave your legs."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Legs which have been shaved."
-  ],
   "signNumber": 1439,
   "recordNumber": 858,
   "signVisualComposition": "",
@@ -35,5 +23,17 @@
   "primaryLocation": 17,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To shave your legs."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Legs which have been shaved."
+  ],
+  "idGloss": "shave.legs",
+  "oldEntry": ""
 }

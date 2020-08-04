@@ -16,25 +16,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "prompt",
-  "oldentry": "",
   "english": [
     "prompter",
     "prompt"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To remind an actor of the words he or she has forgotten during a performance, or of the time when they are meant to do something. English = prompt.",
-    "2. To assist an interpreter by providing words or signs he or she does not know or missed during an interpretation. English = prompt."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person in a theatre whose job is to remind an actor of words that he or she has forgotten during a performance. English = prompter."
-  ],
   "signNumber": 1869,
   "recordNumber": 1119,
   "signVisualComposition": "",
@@ -46,5 +33,18 @@
   "synonyms": [
     "remind.1a",
     "help.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To remind an actor of the words he or she has forgotten during a performance, or of the time when they are meant to do something. English = prompt.",
+    "2. To assist an interpreter by providing words or signs he or she does not know or missed during an interpretation. English = prompt."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person in a theatre whose job is to remind an actor of words that he or she has forgotten during a performance. English = prompter."
+  ],
+  "idGloss": "prompt",
+  "oldEntry": ""
 }

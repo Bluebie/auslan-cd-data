@@ -16,25 +16,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bookshelves",
-  "oldentry": "",
   "english": [
     "library",
     "bookshelf",
     "bookcase"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An institution or part of an institution which keeps books and newspapers for people to read. Most of them allow people to borrow books for certain periods of time. English = library.",
-    "2. A room in which books are kept. English = library.",
-    "3. The shelves on which books are stored. English = bookshelf, bookshelves, bookcase."
-  ],
   "signNumber": 4351,
   "recordNumber": 2648,
   "signVisualComposition": "",
@@ -45,5 +33,17 @@
   "antonyms": [],
   "synonyms": [
     "librarian"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An institution or part of an institution which keeps books and newspapers for people to read. Most of them allow people to borrow books for certain periods of time. English = library.",
+    "2. A room in which books are kept. English = library.",
+    "3. The shelves on which books are stored. English = bookshelf, bookshelves, bookcase."
+  ],
+  "idGloss": "bookshelves",
+  "oldEntry": ""
 }

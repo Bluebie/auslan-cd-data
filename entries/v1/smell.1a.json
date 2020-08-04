@@ -19,10 +19,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "smell.1a",
-  "oldentry": "",
   "english": [
     "fragrance",
     "perfume",
@@ -31,18 +27,8 @@
     "perfumed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To have an effect on your nose. English = smell.",
-    "2. To have an effect on your nose, especially when the effect is neutral or pleasant. English = (be) fragrant, (be) perfumed."
-  ],
   "cf": [
     "bad.smell"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The effect that something has on your nose. English = smell.",
-    "2. The effect that something has on your nose, especially when the effect is neutral or pleasant. English = fragrance, perfume."
   ],
   "signNumber": 3165,
   "recordNumber": 1834,
@@ -55,5 +41,19 @@
     "fart.1",
     "bad.smell"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To have an effect on your nose. English = smell.",
+    "2. To have an effect on your nose, especially when the effect is neutral or pleasant. English = (be) fragrant, (be) perfumed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The effect that something has on your nose. English = smell.",
+    "2. The effect that something has on your nose, especially when the effect is neutral or pleasant. English = fragrance, perfume."
+  ],
+  "idGloss": "smell.1a",
+  "oldEntry": ""
 }

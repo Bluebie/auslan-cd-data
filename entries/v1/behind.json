@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "This sign can incorporate number handshapes on the dominant hand to show how many goals have been scored.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "behind",
-  "oldentry": "Popular explanation: between the posts.",
   "english": [
     "behind"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To score a behind in Australian rules football."
-  ],
   "cf": [
     "behind"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A kind of goal scored in Australian rules football. English = behind."
   ],
   "signNumber": 4006,
   "recordNumber": 2397,
@@ -41,5 +29,17 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To score a behind in Australian rules football."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A kind of goal scored in Australian rules football. English = behind."
+  ],
+  "idGloss": "behind",
+  "oldEntry": "Popular explanation: between the posts."
 }

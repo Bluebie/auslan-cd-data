@@ -10,20 +10,9 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "serve.you.right.2",
-  "oldentry": "",
   "english": [],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used alone to mean that you feel that what has happened to your addressee was deserved (maybe you had even warned them before hand), and that you hope the experience will serve them as a lesson in the future.",
-    "You have little sympathy for them. English = 'That'll teach you!', 'Let that be a lesson', 'Serves you right!'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 3159,
   "recordNumber": 1830,
   "signVisualComposition": "",
@@ -35,5 +24,16 @@
   "synonyms": [
     "serve.you.right.1a",
     "silly.you"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to mean that you feel that what has happened to your addressee was deserved (maybe you had even warned them before hand), and that you hope the experience will serve them as a lesson in the future.",
+    "You have little sympathy for them. English = 'That'll teach you!', 'Let that be a lesson', 'Serves you right!'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "serve.you.right.2",
+  "oldEntry": ""
 }

@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bottle.feed",
-  "oldentry": "Popular explanation: feeding a baby with a bottle.",
   "english": [
     "bottle-feeding",
     "bottle-feed"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To give a baby milk or a liquid like milk in a bottle rather than sucking milk from its mother's breasts. English = bottle-feed."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The act of giving a baby milk or a liquid like milk in a bottle rather than sucking milk from its mother's breasts. English = bottle-feeding."
-  ],
   "signNumber": 4658,
   "recordNumber": 2816,
   "signVisualComposition": "",
@@ -39,5 +27,17 @@
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To give a baby milk or a liquid like milk in a bottle rather than sucking milk from its mother's breasts. English = bottle-feed."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The act of giving a baby milk or a liquid like milk in a bottle rather than sucking milk from its mother's breasts. English = bottle-feeding."
+  ],
+  "idGloss": "bottle.feed",
+  "oldEntry": "Popular explanation: feeding a baby with a bottle."
 }

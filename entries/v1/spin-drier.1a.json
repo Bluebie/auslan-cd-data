@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "spin-drier.1a",
-  "oldentry": "Popular explanation: a spinning action.",
   "english": [
     "spin dryer",
     "spin drier",
@@ -29,17 +25,8 @@
     "spin dry"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To turn quickly around a central point. English = spin.",
-    "2. To dry something by spinning it in a spin dryer. English = spin dry."
-  ],
   "cf": [
     "washing machine.1"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
   ],
   "signNumber": 3959,
   "recordNumber": 2363,
@@ -51,5 +38,18 @@
   "antonyms": [],
   "synonyms": [
     "blender"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To turn quickly around a central point. English = spin.",
+    "2. To dry something by spinning it in a spin dryer. English = spin dry."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
+  ],
+  "idGloss": "spin-drier.1a",
+  "oldEntry": "Popular explanation: a spinning action."
 }

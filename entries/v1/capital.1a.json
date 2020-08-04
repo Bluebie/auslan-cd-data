@@ -11,21 +11,11 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "capital.1a",
-  "oldentry": "",
   "english": [
     "capital"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Of a country, the city or town where its government or parliament is. English = capital."
-  ],
   "signNumber": 5387.1,
   "recordNumber": 3217,
   "signVisualComposition": "",
@@ -34,5 +24,15 @@
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Of a country, the city or town where its government or parliament is. English = capital."
+  ],
+  "idGloss": "capital.1a",
+  "oldEntry": ""
 }

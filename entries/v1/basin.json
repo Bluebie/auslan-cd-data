@@ -18,10 +18,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "An object, particularly a container, with a flat bottom, relatively straight sides and a wide, uncovered top, or any thing or any action directly or indirectly associated with this, such as a basin, washbasin, sink or tub.",
-  "questlex": [],
-  "idgloss": "basin",
-  "oldentry": "Popular explanation: the outline and form of a basin.",
   "english": [
     "basin",
     "washbasin",
@@ -29,16 +25,8 @@
     "tub"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "dish"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A deep bowl that you can use for mixing or storing food. English = basin.",
-    "2. A large basin with taps that supply water which is used for washing your hands and face. English = washbasin.",
-    "3. A large basin with taps that supply water which is used for washing clothes or dishes. English = sink, tub."
   ],
   "signNumber": 4628,
   "recordNumber": 2803,
@@ -48,5 +36,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "An object, particularly a container, with a flat bottom, relatively straight sides and a wide, uncovered top, or any thing or any action directly or indirectly associated with this, such as a basin, washbasin, sink or tub.",
+  "nominalLexeme": [
+    "1. A deep bowl that you can use for mixing or storing food. English = basin.",
+    "2. A large basin with taps that supply water which is used for washing your hands and face. English = washbasin.",
+    "3. A large basin with taps that supply water which is used for washing clothes or dishes. English = sink, tub."
+  ],
+  "idGloss": "basin",
+  "oldEntry": "Popular explanation: the outline and form of a basin."
 }

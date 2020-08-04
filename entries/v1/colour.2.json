@@ -14,22 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "colour.2",
-  "oldentry": "",
   "english": [
     "colour",
     "colour"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The appearance of something that is a result of reflecting different types of light. Red, blue, and green are examples. American English = color. British English = colour."
-  ],
   "signNumber": 1271,
   "recordNumber": 756,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "antonyms": [],
   "synonyms": [
     "colour.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The appearance of something that is a result of reflecting different types of light. Red, blue, and green are examples. American English = color. British English = colour."
+  ],
+  "idGloss": "colour.2",
+  "oldEntry": ""
 }

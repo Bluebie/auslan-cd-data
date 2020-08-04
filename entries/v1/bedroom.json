@@ -13,24 +13,14 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "bedroom",
-  "oldentry": "",
   "english": [
     "bedroom"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "bed.1a",
     "bed.2",
     "boarding school"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A room which is used for sleeping in. English = bedroom."
   ],
   "signNumber": 3215,
   "recordNumber": 1867,
@@ -40,5 +30,15 @@
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A room which is used for sleeping in. English = bedroom."
+  ],
+  "idGloss": "bedroom",
+  "oldEntry": ""
 }

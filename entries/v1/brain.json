@@ -12,22 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brain",
-  "oldentry": "Popular explanation: the shape of the brain.",
   "english": [
     "brain"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "genius"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The organ inside your head that enables you to think and to feel things such as heat and pain. English = brain."
   ],
   "signNumber": 2907,
   "recordNumber": 1643,
@@ -39,5 +29,15 @@
   "antonyms": [],
   "synonyms": [
     "think"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The organ inside your head that enables you to think and to feel things such as heat and pain. English = brain."
+  ],
+  "idGloss": "brain",
+  "oldEntry": "Popular explanation: the shape of the brain."
 }

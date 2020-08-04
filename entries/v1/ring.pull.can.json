@@ -13,23 +13,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "ring.pull.can",
-  "oldentry": "Popular explanation: opening a ring pull can.",
   "english": [
     "can"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a ring-pull can."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A metal can used for storing food or drink which can be opened by pulling on a metal ring found on the top. English = ring-pull can."
-  ],
   "signNumber": 1522,
   "recordNumber": 908,
   "signVisualComposition": "",
@@ -38,5 +26,17 @@
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a ring-pull can."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A metal can used for storing food or drink which can be opened by pulling on a metal ring found on the top. English = ring-pull can."
+  ],
+  "idGloss": "ring.pull.can",
+  "oldEntry": "Popular explanation: opening a ring pull can."
 }

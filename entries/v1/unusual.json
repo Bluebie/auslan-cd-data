@@ -21,10 +21,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "unusual",
-  "oldentry": "",
   "english": [
     "unusual",
     "uncommon",
@@ -33,20 +29,7 @@
     "suddenly"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To happen not very often, or to look quite different from everyday or normal things. English = (be) unusual, (be) uncommon.",
-    "2. To be surprising because you did not think it would happen. English = (be) unexpected.",
-    "3. To be not suitable or right for a particular occasion or use. English = (be) inappropriate."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone to show that you are surprised, even sceptical, about what you have just been told. English = 'Well, I'll be...', 'Really?', 'What!?',",
-    "'Well, I've never heard that before!', and so on."
-  ],
-  "partlex": [
-    "1. Used at the beginning of a sign sentence to mean that the action or actions that follow happen quickly and unexpectedly. English = 'Suddenly,' 'All of a sudden,' 'Out of the blue.'"
-  ],
-  "nomlex": [],
   "signNumber": 4164,
   "recordNumber": 2515,
   "signVisualComposition": "",
@@ -59,5 +42,22 @@
   ],
   "synonyms": [
     "unexpected"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone to show that you are surprised, even sceptical, about what you have just been told. English = 'Well, I'll be...', 'Really?', 'What!?',",
+    "'Well, I've never heard that before!', and so on."
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning of a sign sentence to mean that the action or actions that follow happen quickly and unexpectedly. English = 'Suddenly,' 'All of a sudden,' 'Out of the blue.'"
+  ],
+  "verbLexeme": [
+    "1. To happen not very often, or to look quite different from everyday or normal things. English = (be) unusual, (be) uncommon.",
+    "2. To be surprising because you did not think it would happen. English = (be) unexpected.",
+    "3. To be not suitable or right for a particular occasion or use. English = (be) inappropriate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "unusual",
+  "oldEntry": ""
 }

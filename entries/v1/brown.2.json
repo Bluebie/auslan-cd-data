@@ -15,23 +15,11 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "brown.2",
-  "oldentry": "",
   "english": [
     "brown"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be the colour of earth or wood. English = (be) brown."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The colour of earth or wood. English = brown."
-  ],
   "signNumber": 4049,
   "recordNumber": 2423,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "antonyms": [],
   "synonyms": [
     "brown.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be the colour of earth or wood. English = (be) brown."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The colour of earth or wood. English = brown."
+  ],
+  "idGloss": "brown.2",
+  "oldEntry": ""
 }

@@ -15,25 +15,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "hatch.2",
-  "oldentry": "",
   "english": [
     "trapdoor",
     "hatch"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To open a trapdoor."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A small horizontal door in a floor, ceiling, or stage. English = trapdoor.",
-    "2. An opening in a deck of a ship, which is used for people to come on deck or go below, or during loading and unloading cargo. English = hatch."
-  ],
   "signNumber": 3667,
   "recordNumber": 2160,
   "signVisualComposition": "",
@@ -45,5 +32,18 @@
   "synonyms": [
     "open",
     "hatch.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To open a trapdoor."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A small horizontal door in a floor, ceiling, or stage. English = trapdoor.",
+    "2. An opening in a deck of a ship, which is used for people to come on deck or go below, or during loading and unloading cargo. English = hatch."
+  ],
+  "idGloss": "hatch.2",
+  "oldEntry": ""
 }

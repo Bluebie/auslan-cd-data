@@ -12,24 +12,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "China",
-  "oldentry": "",
   "english": [
     "China",
     "Chinese"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be from or relate to China. English = (be) Chinese."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
-  ],
   "signNumber": 669,
   "recordNumber": 390,
   "signVisualComposition": "",
@@ -40,5 +28,17 @@
   "antonyms": [],
   "synonyms": [
     "Asia.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be from or relate to China. English = (be) Chinese."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
+  ],
+  "idGloss": "China",
+  "oldEntry": ""
 }

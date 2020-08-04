@@ -15,26 +15,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "day.1a",
-  "oldentry": "",
   "english": [
     "day",
     "daybreak"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To become day; to become light"
-  ],
   "cf": [
     "clear.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. One of the seven twenty-four hour periods of time in a week; the time when it is light, or when you are awake and doing things. English = day.",
-    "2. The time in the morning when light first appears. English = daybreak."
   ],
   "signNumber": 3708,
   "recordNumber": 2186,
@@ -46,5 +33,18 @@
   "antonyms": [
     "night.1a"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To become day; to become light"
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. One of the seven twenty-four hour periods of time in a week; the time when it is light, or when you are awake and doing things. English = day.",
+    "2. The time in the morning when light first appears. English = daybreak."
+  ],
+  "idGloss": "day.1a",
+  "oldEntry": ""
 }

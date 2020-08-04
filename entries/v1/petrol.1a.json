@@ -14,24 +14,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "petrol.1a",
-  "oldentry": "Popular explanation: inserting nozzle into petrol tank.",
   "english": [
     "petrol"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To fill up the fuel tank a motor vehicle with petrol."
-  ],
   "cf": [
     "smell.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A liquid which is used as a fuel for motor vehicles. English = petrol."
   ],
   "signNumber": 2168,
   "recordNumber": 1253,
@@ -43,5 +31,17 @@
   "antonyms": [],
   "synonyms": [
     "petrol.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To fill up the fuel tank a motor vehicle with petrol."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A liquid which is used as a fuel for motor vehicles. English = petrol."
+  ],
+  "idGloss": "petrol.1a",
+  "oldEntry": "Popular explanation: inserting nozzle into petrol tank."
 }

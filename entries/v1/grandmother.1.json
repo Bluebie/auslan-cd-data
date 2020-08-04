@@ -12,21 +12,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "grandmother.1",
-  "oldentry": "",
   "english": [
     "grandmother"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The mother of your mother or father. English = grandmother."
-  ],
   "signNumber": 5810,
   "recordNumber": 3448,
   "signVisualComposition": "G + M + M",
@@ -40,5 +30,15 @@
   ],
   "synonyms": [
     "grandmother.2a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The mother of your mother or father. English = grandmother."
+  ],
+  "idGloss": "grandmother.1",
+  "oldEntry": ""
 }

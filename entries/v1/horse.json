@@ -19,29 +19,15 @@
   "sense": "",
   "blend": "",
   "queries": "Some signers form the Wish handshape on the subordinate hand.",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "horse",
-  "oldentry": "Popular explanation: riding a horse.",
   "english": [
     "horse",
     "horse riding"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be sitting on a horse.",
-    "2. To ride on a horse."
-  ],
   "cf": [
     "horse.racing.1",
     "horse.racing.2",
     "trots"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large animal which you can ride. They are often used for transport or for pulling ploughs and carts. English = horse.",
-    "2. The activity of riding horses. English = horse riding."
   ],
   "signNumber": 1798,
   "recordNumber": 1085,
@@ -53,5 +39,19 @@
   "antonyms": [],
   "synonyms": [
     "ride.horse.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be sitting on a horse.",
+    "2. To ride on a horse."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large animal which you can ride. They are often used for transport or for pulling ploughs and carts. English = horse.",
+    "2. The activity of riding horses. English = horse riding."
+  ],
+  "idGloss": "horse",
+  "oldEntry": "Popular explanation: riding a horse."
 }

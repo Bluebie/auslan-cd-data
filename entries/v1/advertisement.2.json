@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "advertisement.2",
-  "oldentry": "",
   "english": [
     "advertisement",
     "advertise"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To tell people about a product, event, or job vacancy, by printing a notice about it in a newspaper or magazine, or on a poster. English = advertise."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. An announcement in a newspaper or  magazine, or on a poster, about something such as a product, event, or job vacancy. English = advertisement."
-  ],
   "signNumber": 6000,
   "recordNumber": 3573,
   "signVisualComposition": "",
@@ -42,5 +30,17 @@
   "synonyms": [
     "advertise",
     "advertisement.1"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To tell people about a product, event, or job vacancy, by printing a notice about it in a newspaper or magazine, or on a poster. English = advertise."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. An announcement in a newspaper or  magazine, or on a poster, about something such as a product, event, or job vacancy. English = advertisement."
+  ],
+  "idGloss": "advertisement.2",
+  "oldEntry": ""
 }

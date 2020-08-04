@@ -14,10 +14,6 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "not.matter",
-  "oldentry": "",
   "english": [
     "not matter",
     "despite",
@@ -25,17 +21,7 @@
     "anyway"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [
-    "1. Used to try to reassure your addressee when they are worried or concerned about something. English = 'Never mind', 'Don't worry', 'It's not important', and so on.",
-    "2. Used in response to your addressee's questions expressing concern for you when you want them to stop worrying or tell them everything is okay. English = 'It doesn't matter', 'No problems', 'Forget about it'"
-  ],
-  "partlex": [
-    "1. Used at the beginning or end of the first of two sign phrases to mean that what you say in the second phrase is surprising given the first phrase. English = despite, despite that.",
-    "2. Used between two sign sentences (or to introduce a sign sentence which is opposed to your partner's comments or to earlier one's you have made) to mean that what follows in the second or subsequent sentences is surprising. English = however, anyway."
-  ],
-  "nomlex": [],
   "signNumber": 3242,
   "recordNumber": 1886,
   "signVisualComposition": "",
@@ -44,5 +30,19 @@
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [
+    "1. Used to try to reassure your addressee when they are worried or concerned about something. English = 'Never mind', 'Don't worry', 'It's not important', and so on.",
+    "2. Used in response to your addressee's questions expressing concern for you when you want them to stop worrying or tell them everything is okay. English = 'It doesn't matter', 'No problems', 'Forget about it'"
+  ],
+  "particleLexeme": [
+    "1. Used at the beginning or end of the first of two sign phrases to mean that what you say in the second phrase is surprising given the first phrase. English = despite, despite that.",
+    "2. Used between two sign sentences (or to introduce a sign sentence which is opposed to your partner's comments or to earlier one's you have made) to mean that what follows in the second or subsequent sentences is surprising. English = however, anyway."
+  ],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "not.matter",
+  "oldEntry": ""
 }

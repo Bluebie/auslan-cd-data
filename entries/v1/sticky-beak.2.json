@@ -13,22 +13,12 @@
   "sense": "2",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "sticky-beak.2",
-  "oldentry": "",
   "english": [
     "busybody",
     "sticky-beak"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is very inquisitive and always wants to know everything that is happening, especially about other people's affairs. Informal English = busybody, sticky-beak."
-  ],
   "signNumber": 536,
   "recordNumber": 305,
   "signVisualComposition": "",
@@ -40,5 +30,15 @@
   "synonyms": [
     "sticky-beak.1a",
     "sticky-beak.3"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is very inquisitive and always wants to know everything that is happening, especially about other people's affairs. Informal English = busybody, sticky-beak."
+  ],
+  "idGloss": "sticky-beak.2",
+  "oldEntry": ""
 }

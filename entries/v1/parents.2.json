@@ -11,21 +11,11 @@
   "sense": "",
   "blend": "MOTHER + FATHER",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "parents.2",
-  "oldentry": "",
   "english": [
     "parents"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. Your father and your mother. English = parents."
-  ],
   "signNumber": 3993,
   "recordNumber": 2388,
   "signVisualComposition": "",
@@ -36,5 +26,15 @@
   "antonyms": [],
   "synonyms": [
     "parents.1a"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. Your father and your mother. English = parents."
+  ],
+  "idGloss": "parents.2",
+  "oldEntry": ""
 }

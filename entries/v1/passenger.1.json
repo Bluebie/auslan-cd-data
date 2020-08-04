@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "PEOPLE + LIFT",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "passenger.1",
-  "oldentry": "",
   "english": [
     "passenger"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "give.lift.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A person who is travelling in a bus, boat, plane, car or other vehicle, but who is not the driver or a member of the crew. English = passenger."
   ],
   "signNumber": 1202.1,
   "recordNumber": 707,
@@ -36,5 +26,15 @@
   "primaryLocation": 5,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A person who is travelling in a bus, boat, plane, car or other vehicle, but who is not the driver or a member of the crew. English = passenger."
+  ],
+  "idGloss": "passenger.1",
+  "oldEntry": ""
 }

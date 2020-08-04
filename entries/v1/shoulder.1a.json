@@ -11,22 +11,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "shoulder.1a",
-  "oldentry": "Popular explanation: the shoulder.",
   "english": [
     "shoulder"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "pat.1a"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body between your neck and the top of your arm. English = shoulder."
   ],
   "signNumber": 3320,
   "recordNumber": 1941,
@@ -36,5 +26,15 @@
   "primaryLocation": 13,
   "secondLocation": null,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body between your neck and the top of your arm. English = shoulder."
+  ],
+  "idGloss": "shoulder.1a",
+  "oldEntry": "Popular explanation: the shoulder."
 }

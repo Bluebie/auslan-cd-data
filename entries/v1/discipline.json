@@ -16,25 +16,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "discipline",
-  "oldentry": "",
   "english": [
     "discipline"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To train people to behave or work in a controlled way, especially by punishing them for behaving badly or breaking a rule or lecturing to them seriously about their behaviour. English = discipline.",
-    "2. To teach or instruct people about morals and good behaviour."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The practice of making people obey rules by lecturing or punishing them when they do not. English = discipline",
-    "2. The practice of moral instruction."
-  ],
   "signNumber": 976,
   "recordNumber": 564,
   "signVisualComposition": "",
@@ -47,5 +33,19 @@
     "warn",
     "instruct",
     "teach"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To train people to behave or work in a controlled way, especially by punishing them for behaving badly or breaking a rule or lecturing to them seriously about their behaviour. English = discipline.",
+    "2. To teach or instruct people about morals and good behaviour."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The practice of making people obey rules by lecturing or punishing them when they do not. English = discipline",
+    "2. The practice of moral instruction."
+  ],
+  "idGloss": "discipline",
+  "oldEntry": ""
 }

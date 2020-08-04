@@ -11,22 +11,12 @@
   "sense": "1",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "proper",
-  "oldentry": "",
   "english": [
     "proper",
     "appropriate"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be real and satisfactory rather than inadequate in some way; to be correct or the most suitable; to be socially acceptable and right. English = (be) proper, (be) appropriate."
-  ],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 4937,
   "recordNumber": 2984,
   "signVisualComposition": "",
@@ -35,5 +25,15 @@
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be real and satisfactory rather than inadequate in some way; to be correct or the most suitable; to be socially acceptable and right. English = (be) proper, (be) appropriate."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "proper",
+  "oldEntry": ""
 }

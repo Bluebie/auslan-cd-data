@@ -14,22 +14,11 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "factory.1",
-  "oldentry": "",
   "english": [
     "factory"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. A large building or group of buildings where machines are used to make goods in large quantities. English = factory.",
-    "2. A building that has a sawtooth roof, such as a factory."
-  ],
   "signNumber": 4218,
   "recordNumber": 2552,
   "signVisualComposition": "",
@@ -41,5 +30,16 @@
   "synonyms": [
     "machine.1a",
     "factory.2"
-  ]
+  ],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. A large building or group of buildings where machines are used to make goods in large quantities. English = factory.",
+    "2. A building that has a sawtooth roof, such as a factory."
+  ],
+  "idGloss": "factory.1",
+  "oldEntry": ""
 }

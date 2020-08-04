@@ -13,24 +13,12 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "fine",
-  "oldentry": "",
   "english": [
     "fine",
     "okay"
   ],
   "deictic": [],
-  "verblex": [
-    "1. To be satisfactory or acceptable. English = (be) fine, (be) okay."
-  ],
   "cf": [],
-  "interj": [
-    "1. Used alone in response to a question about how you are going or if you have any problems to mean everything is alright. English = 'Fine, thanks!', 'Okay.'"
-  ],
-  "partlex": [],
-  "nomlex": [],
   "signNumber": 2518,
   "recordNumber": 1398,
   "signVisualComposition": "",
@@ -41,5 +29,17 @@
   "antonyms": [],
   "synonyms": [
     "alright.1a"
-  ]
+  ],
+  "interjection": [
+    "1. Used alone in response to a question about how you are going or if you have any problems to mean everything is alright. English = 'Fine, thanks!', 'Okay.'"
+  ],
+  "particleLexeme": [],
+  "verbLexeme": [
+    "1. To be satisfactory or acceptable. English = (be) fine, (be) okay."
+  ],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [],
+  "idGloss": "fine",
+  "oldEntry": ""
 }

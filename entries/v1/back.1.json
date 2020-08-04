@@ -12,23 +12,13 @@
   "sense": "",
   "blend": "",
   "queries": "",
-  "genmean": "",
-  "questlex": [],
-  "idgloss": "back.1",
-  "oldentry": "",
   "english": [
     "back"
   ],
   "deictic": [],
-  "verblex": [],
   "cf": [
     "front.2",
     "front.3"
-  ],
-  "interj": [],
-  "partlex": [],
-  "nomlex": [
-    "1. The part of your body that is behind you, from your neck to the top of your legs. English = back."
   ],
   "signNumber": 3324,
   "recordNumber": 1944,
@@ -40,5 +30,15 @@
   "antonyms": [
     "front.1"
   ],
-  "synonyms": []
+  "synonyms": [],
+  "interjection": [],
+  "particleLexeme": [],
+  "verbLexeme": [],
+  "questionLexeme": [],
+  "genitiveClassifiers": "",
+  "nominalLexeme": [
+    "1. The part of your body that is behind you, from your neck to the top of your legs. English = back."
+  ],
+  "idGloss": "back.1",
+  "oldEntry": ""
 }
