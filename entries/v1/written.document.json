@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "document"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3103,
   "recordNumber": 1787,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To write down or type a large amount of information onto a document."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sheet of paper or a document that has a lot of writing, printing or information on it."
   ],
   "idGloss": "written.document",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

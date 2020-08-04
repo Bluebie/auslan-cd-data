@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lick"
   ],
   "deictic": [],
-  "cf": [
-    "dismiss"
-  ],
   "signNumber": 4354,
   "recordNumber": 2650,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -34,10 +31,13 @@
     "1. To move your tongue across the surface of something. English = lick."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of moving your tongue across the surface of something. English = lick, licking."
   ],
   "idGloss": "lick.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dismiss"
+  ]
 }

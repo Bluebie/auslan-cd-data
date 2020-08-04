@@ -6,17 +6,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vampire"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1559.1,
   "recordNumber": 930,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": null,
   "primaryLocation": 11,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In legends and horror stories, people who come out of their graves at night and suck the blood of living people. English = vampire."
   ],
   "idGloss": "vampire.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

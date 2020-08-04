@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "except"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1126,
   "recordNumber": 661,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -35,8 +34,9 @@
     "1. To reduce the amount of something by one (when there are originally only two) to leave only one left."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "except.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "apricot"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 168,
   "recordNumber": 93,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, soft, round fruit with yellowish-orange flesh and a stone inside. English = apricot."
   ],
   "idGloss": "apricot",
-  "oldEntry": "Popular explanation: breaking open an apricot."
+  "oldEntry": "Popular explanation: breaking open an apricot.",
+  "seeAlso": []
 }

@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "friendship ring"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4076,
   "recordNumber": 2444,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A ring worn by a teenage couple to show that they are dating each other, are special friends, or have a romantic interest in each other. English = friendship ring."
   ],
   "idGloss": "friendship ring",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

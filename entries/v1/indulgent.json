@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SOFT + HEART",
-  "queries": "",
+  "queries": null,
   "english": [
     "indulgence",
     "soft-heartedness",
@@ -30,12 +30,9 @@
     "kind-hearted"
   ],
   "deictic": [],
-  "cf": [
-    "wet.1a"
-  ],
   "signNumber": 3405,
   "recordNumber": 1990,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -52,10 +49,13 @@
     "1. To treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulge, spoil, (be) soft-hearted, (be) kind-hearted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The kind of behaviour in which you treat people, especially children, with special kindness, and often allow them to have or do what they want. English = indulgence, soft-heartedness, kindness."
   ],
   "idGloss": "indulgent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wet.1a"
+  ]
 }

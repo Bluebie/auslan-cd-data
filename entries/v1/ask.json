@@ -11,20 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "request",
     "ask"
   ],
   "deictic": [],
-  "cf": [
-    "say.1a"
-  ],
   "signNumber": 271,
   "recordNumber": 159,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -37,10 +34,13 @@
     "1. To say something to someone in the form of a question because you want to know something, or because you want them to do something. English = ask, request."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you have said to someone in the form of a question because you want to know something, or because you want them to do something for you. English = request."
   ],
   "idGloss": "ask",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "say.1a"
+  ]
 }

@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pear"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1558,
   "recordNumber": 927,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet, juicy fruit which is narrow near its stalk, and wider and rounded at the bottom. It has white flesh and thin green or yellow skin. English = pear."
   ],
   "idGloss": "pear.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

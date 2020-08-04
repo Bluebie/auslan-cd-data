@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tick",
     "mark",
@@ -30,12 +30,9 @@
     "right"
   ],
   "deictic": [],
-  "cf": [
-    "checked"
-  ],
   "signNumber": 1250,
   "recordNumber": 739,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,12 +51,15 @@
     "3. Of written answers to a test or examination, to be accurate and have no mistakes. English = (be) correct, (be) right."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A written mark like a V with the right hand line extended upwards. You use it to show that something is correct or has been dealt with. English = tick.",
     "2. A point or a score for a correct answer in a test or examination. English = mark, result.",
     "3. An answer to a question in a test or examination which is correct."
   ],
   "idGloss": "tick.1a",
-  "oldEntry": "Popular explanation: marking a tick on something."
+  "oldEntry": "Popular explanation: marking a tick on something.",
+  "seeAlso": [
+    "checked"
+  ]
 }

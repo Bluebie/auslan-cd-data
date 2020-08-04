@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "formula"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 469,
   "recordNumber": 260,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -30,11 +29,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A group of letters, numbers, or other symbols which represents a scientific or mathematical rule. English = formula.",
     "2. A list of substances which tells you what amounts to mix together in order to make another substance. English = formula."
   ],
   "idGloss": "formula",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "uniform"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3868,
   "recordNumber": 2301,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To make several levels or amounts of something in different locations or containers the same in all of them. English = make uniform, level out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The same amount or level of something everywhere."
   ],
   "idGloss": "uniformity.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

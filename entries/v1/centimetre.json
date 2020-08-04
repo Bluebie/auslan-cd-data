@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "centimetre"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5414,
   "recordNumber": 3228,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A unit of length in the metric system equal to ten millimetres or one-hundredth of a metre. English = centimetre."
   ],
   "idGloss": "centimetre",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

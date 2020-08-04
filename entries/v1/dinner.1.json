@@ -22,8 +22,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "dinner",
     "meal",
@@ -32,12 +32,9 @@
     "food"
   ],
   "deictic": [],
-  "cf": [
-    "lunch.1a"
-  ],
   "signNumber": 1407,
   "recordNumber": 836,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -55,7 +52,7 @@
     "3. To put something into your mouth, chew it, and swallow it. English = eat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The main meal of the day, especially when that meal is in the middle of the day. English = dinner.",
     "2. A formal social event in the evening at which a meal is served. English = dinner.",
@@ -63,5 +60,8 @@
     "4. Anything which you can eat. English = food."
   ],
   "idGloss": "dinner.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lunch.1a"
+  ]
 }

@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "glue",
     "paste",
@@ -30,12 +30,9 @@
     "adhere"
   ],
   "deictic": [],
-  "cf": [
-    "stamp.1"
-  ],
   "signNumber": 4224,
   "recordNumber": 2555,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 10,
@@ -51,11 +48,14 @@
     "1. To attach something to something else by using glue or another sticky substance, especially one that you lick first. English = stick, adhere, paste, glue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sticky substance used for joining things together, especially one that needs to be licked first. English = glue, paste, adhesive.",
     "2. A small piece of paper or plastic, with writing or a picture on one side, which you can stick onto a surface. English = sticker, label."
   ],
   "idGloss": "glue.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stamp.1"
+  ]
 }

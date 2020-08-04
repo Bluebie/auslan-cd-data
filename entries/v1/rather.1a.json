@@ -9,14 +9,13 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "rather",
     "prefer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1519,
   "recordNumber": 905,
   "signVisualComposition": "R + R",
@@ -34,8 +33,9 @@
     "1. To like something better than other things, to want to do something more than other things. English = rather, prefer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "rather.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

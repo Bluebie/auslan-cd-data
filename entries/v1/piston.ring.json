@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "piston ring"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4699,
   "recordNumber": 2840,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A circular object which goes around the top of a cylinder in an internal-combustion engine. English = piston ring."
   ],
   "idGloss": "piston.ring",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "snail",
     "sluggard"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1442,
   "recordNumber": 861,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 1,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small animal with a long, slimy body, a spiral shaped shell, and long eye stalks on the top of its head. It moves very slowly. English = snail.",
     "2. A person who is very low at doing something, for example at driving a car. English = snail, sluggard."
   ],
   "idGloss": "snail",
-  "oldEntry": "Popular explanation: the eye-stalks of a snail."
+  "oldEntry": "Popular explanation: the eye-stalks of a snail.",
+  "seeAlso": []
 }

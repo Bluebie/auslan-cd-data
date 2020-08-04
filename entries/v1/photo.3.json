@@ -12,19 +12,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "photo",
     "photography",
     "picture"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3563,
   "recordNumber": 2090,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -38,10 +37,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A picture that is made by using a camera. English = photo, photography, picture."
   ],
   "idGloss": "photo.3",
-  "oldEntry": "Popular explanation: peering into an old-fashioned camera."
+  "oldEntry": "Popular explanation: peering into an old-fashioned camera.",
+  "seeAlso": []
 }

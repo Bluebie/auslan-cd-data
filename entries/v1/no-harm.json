@@ -7,12 +7,11 @@
     "judge",
     "onehand"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 2525,
   "recordNumber": 1403,
   "signVisualComposition": "SORE + NOTHING",
@@ -28,8 +27,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "no-harm",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

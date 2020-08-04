@@ -20,18 +20,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "demand",
     "complain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4271,
   "recordNumber": 2591,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,11 +53,12 @@
     "4. To talk very authoritatively about something; to go on and on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A firm request or series of requests for something. English = demand, demands.",
     "2. A list of demands or claims made by someone or a group of people on another person or group, for example a list of demands of workers to their employers."
   ],
   "idGloss": "demand",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

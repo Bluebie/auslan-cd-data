@@ -18,9 +18,9 @@
     "engtf9",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "switch",
     "changeover",
@@ -33,12 +33,9 @@
     "revert"
   ],
   "deictic": [],
-  "cf": [
-    "change.mind"
-  ],
   "signNumber": 1607,
   "recordNumber": 957,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -53,11 +50,14 @@
     "3. To change back to something else that was the case before. English = revert."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A change from one thing to another thing, especially its opposite. English = switch, changeover, conversion, inversion.",
     "2. A change back to something else that was the case before. English = reversion."
   ],
   "idGloss": "switch.over.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "change.mind"
+  ]
 }

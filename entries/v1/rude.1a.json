@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rudeness",
     "impoliteness",
@@ -29,10 +29,9 @@
     "uncouth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4978,
   "recordNumber": 3006,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -51,11 +50,12 @@
     "3. To behave in a bad-mannered, unpleasant and unacceptable way. English = (be) uncouth."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour that is not polite. English = rudeness, impoliteness.",
     "2. Language and behaviour that are likely to embarrass or offend people because they relate to sex or other bodily functions. English = rudeness."
   ],
   "idGloss": "rude.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

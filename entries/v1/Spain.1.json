@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Spain",
     "Spaniard",
     "Spanish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6087,
   "recordNumber": 3621,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
     "1. To relate to or be from Spain. English = (be) Spanish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in south west Europe, called Spain.",
     "2. A person who comes from Spain. English = Spaniard."
   ],
   "idGloss": "Spain.1",
-  "oldEntry": "Popular explanation: flicking over the bull fighter's cloth."
+  "oldEntry": "Popular explanation: flicking over the bull fighter's cloth.",
+  "seeAlso": []
 }

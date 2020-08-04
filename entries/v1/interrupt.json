@@ -24,9 +24,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "interruption",
     "disturbance",
@@ -40,13 +40,9 @@
     "disrupt"
   ],
   "deictic": [],
-  "cf": [
-    "problem.1",
-    "naughty.1"
-  ],
   "signNumber": 3318,
   "recordNumber": 1939,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -64,7 +60,7 @@
     "4. To prevent an event, system or process from proceeding or operating easily or peacefully. English = disrupt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act or action of gaining someone's attention by tapping them, usually on the arm or shoulder.",
     "2. Something which temporarily prevents an activity from continuing; the act of stopping someone or something temporarily. English = interruption.",
@@ -72,5 +68,9 @@
     "4. The prevention of an event, system or process from proceeding or operating easily or peacefully. English = disruption."
   ],
   "idGloss": "interrupt",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "problem.1",
+    "naughty.1"
+  ]
 }

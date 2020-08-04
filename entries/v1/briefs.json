@@ -12,9 +12,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "briefs",
     "pants",
@@ -22,10 +22,9 @@
     "knickers"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6222,
   "recordNumber": 3718,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 17,
@@ -38,10 +37,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of underwear which has two holes to put your legs through and elastic around the top. English = briefs, pants; (usually women only) panties, knickers."
   ],
   "idGloss": "briefs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

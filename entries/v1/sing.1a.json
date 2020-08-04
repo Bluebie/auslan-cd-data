@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "song",
     "singing",
@@ -29,10 +29,9 @@
     "sing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1931,
   "recordNumber": 1152,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -45,7 +44,7 @@
     "1. To make musical sounds with your voice (with or without signing at the same time). English = sing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Words and music which are sung together (with or without signs). English = song, singing.",
     "2. A person who sings songs. English = singer.",
@@ -53,5 +52,6 @@
     "4. A song that Christians sing in order to praise God. English = hymn."
   ],
   "idGloss": "sing.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

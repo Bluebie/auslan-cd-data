@@ -18,9 +18,9 @@
     "ant2",
     "ant3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flat",
     "flatted",
@@ -29,10 +29,9 @@
     "still"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3651,
   "recordNumber": 2150,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -51,11 +50,12 @@
     "3. Of a liquid, especially a drink, to have no bubbles in it at all because it is made that way. English = (be) still."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tyre that does not have enough air in it. English = flat, flat tyre.",
     "2. Of a tyre, the process of losing air. English = leaking, deflation."
   ],
   "idGloss": "flat.tyre",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

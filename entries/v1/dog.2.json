@@ -11,16 +11,15 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "dog"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 341,
   "recordNumber": 186,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog."
   ],
   "idGloss": "dog.2",
-  "oldEntry": "Popular explanation: holding on to a dog's lead."
+  "oldEntry": "Popular explanation: holding on to a dog's lead.",
+  "seeAlso": []
 }

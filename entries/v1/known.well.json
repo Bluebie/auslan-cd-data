@@ -14,20 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "know",
     "familiar"
   ],
   "deictic": [],
-  "cf": [
-    "of.course"
-  ],
   "signNumber": 4801,
   "recordNumber": 2897,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 2,
@@ -48,8 +45,11 @@
     "1. To recognise someone or something or know about them well because you have seen, heard, or experienced them before. English = know (well), (be) familiar with."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "known.well",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "of.course"
+  ]
 }

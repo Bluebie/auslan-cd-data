@@ -16,9 +16,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "explorer",
     "exploration",
@@ -27,10 +27,9 @@
     "roam"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1552,
   "recordNumber": 922,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -46,11 +45,12 @@
     "4. To wander or travel around an area without having a particular purpose. English = roam."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who travels to places about which very little is known, in order to discover what is there. English = explorer.",
     "2. A journey to a place about which very little is known in order to discover what is there. English = exploration."
   ],
   "idGloss": "explore",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

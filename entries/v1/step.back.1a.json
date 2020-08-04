@@ -17,9 +17,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "timidity",
     "passiveness",
@@ -29,10 +29,9 @@
     "passive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1300,
   "recordNumber": 774,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -51,11 +50,12 @@
     "2. To be afraid of a situation or to lack confidence. English = (be) timid, (be) withdrawn, (be) passive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A fear or lack of confidence. English = timidity, passiveness.",
     "2. A movement away from a difficult or dangerous situation. English = retreat."
   ],
   "idGloss": "step.back.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

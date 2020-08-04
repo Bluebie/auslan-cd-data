@@ -12,19 +12,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "remember",
     "recall",
     "recollect"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1329,
   "recordNumber": 787,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 3,
@@ -42,8 +41,9 @@
     "1. To bring the thought and mental impression of something that happened in the past back into your mind now, at a later date. English = remember, recall, recollect."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "remember.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

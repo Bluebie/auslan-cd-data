@@ -18,8 +18,8 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A stressed form of this, reported by informants from South Australia, has the Spread (5) handshape closing to a Fist handshape.",
   "english": [
     "labour",
@@ -31,10 +31,9 @@
     "effort"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4184,
   "recordNumber": 2531,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,11 +51,12 @@
     "3. Of a person, to be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or job that requires an unusual amount of physical or mental energy to do it. English = effort.",
     "2. Physical or mental work which is difficult and very hard, even painful. English = labour, toil, exertion. Formal English = travail."
   ],
   "idGloss": "laborious.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

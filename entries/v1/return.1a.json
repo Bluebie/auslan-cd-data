@@ -8,20 +8,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "return",
     "go back"
   ],
   "deictic": [],
-  "cf": [
-    "give.2"
-  ],
   "signNumber": 1586,
   "recordNumber": 945,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,8 +33,11 @@
     "1. To go back to somewhere after having been away or gone somewhere else. English = go back, return."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "return.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "give.2"
+  ]
 }

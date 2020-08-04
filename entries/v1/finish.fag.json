@@ -11,21 +11,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smoke"
   ],
   "deictic": [],
-  "cf": [
-    "run.out.of.petrol",
-    "run.out.of.time",
-    "finish.drink"
-  ],
   "signNumber": 5106,
   "recordNumber": 3080,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -42,10 +37,15 @@
     "1. To smoke a cigarette down to the butt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time it takes to smoke a cigarette down to the butt."
   ],
   "idGloss": "finish.fag",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "run.out.of.petrol",
+    "run.out.of.time",
+    "finish.drink"
+  ]
 }

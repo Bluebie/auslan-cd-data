@@ -11,22 +11,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stomach",
     "tummy"
   ],
   "deictic": [],
-  "cf": [
-    "poo.2",
-    "womb",
-    "uterus"
-  ],
   "signNumber": 3482,
   "recordNumber": 2034,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,10 +32,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The organ inside your body where food is digested; or the front part of your body below your waist. English = stomach. Informal English = tummy."
   ],
   "idGloss": "stomach.1a",
-  "oldEntry": "Popular explanation: the stomach."
+  "oldEntry": "Popular explanation: the stomach.",
+  "seeAlso": [
+    "poo.2",
+    "womb",
+    "uterus"
+  ]
 }

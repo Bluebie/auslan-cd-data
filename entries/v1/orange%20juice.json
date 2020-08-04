@@ -9,16 +9,13 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "orange juice"
   ],
   "deictic": [],
-  "cf": [
-    "orange"
-  ],
   "signNumber": 45,
   "recordNumber": 27,
   "signVisualComposition": "ORANGE + J",
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A drink made from squeezed oranges. English = orange juice."
   ],
   "idGloss": "orange juice",
-  "oldEntry": "Popular explanation: 'orange' + the letter 'j'."
+  "oldEntry": "Popular explanation: 'orange' + the letter 'j'.",
+  "seeAlso": [
+    "orange"
+  ]
 }

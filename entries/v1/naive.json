@@ -13,9 +13,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "innocent",
     "inexperienced",
@@ -24,10 +24,9 @@
     "green"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1558.1,
   "recordNumber": 928,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -41,10 +40,11 @@
     "They are often surprised by what is common knowledge for other. English = (be) inexperienced, (be) naive, (be) innocent. Idiomatic English = (be) wide-eyed, (be) green."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has no experience or knowledge of the more complex or unpleasant aspects of life. Literary English = innocent."
   ],
   "idGloss": "naive",
-  "oldEntry": "Popular explanation: the runny nose of a child."
+  "oldEntry": "Popular explanation: the runny nose of a child.",
+  "seeAlso": []
 }

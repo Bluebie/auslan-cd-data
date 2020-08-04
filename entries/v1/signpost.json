@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "signpost"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 945,
   "recordNumber": 544,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sign beside a road which has information on it such as the name of a town and how far away it is. It usually points in the direction and is often actually shaped like an arrow. English = signpost."
   ],
   "idGloss": "signpost",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

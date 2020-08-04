@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "MUSIC + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "rhythm"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2224,
   "recordNumber": 1268,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A regular movement or beat, especially in music. English = rhythm."
   ],
   "idGloss": "rhythm",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

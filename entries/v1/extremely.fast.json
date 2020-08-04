@@ -14,19 +14,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speed",
     "rapidity",
     "rush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1057,
   "recordNumber": 622,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -44,10 +43,11 @@
     "1. To move, do something, or happen with extreme and great speed or extremely quickly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Extreme speed and rapidity."
   ],
   "idGloss": "extremely.fast",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,19 +11,16 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hanging",
     "hang"
   ],
   "deictic": [],
-  "cf": [
-    "hangover"
-  ],
   "signNumber": 5629,
   "recordNumber": 3334,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,10 +33,13 @@
     "1. To kill someone by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hang."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The practice of executing people by tying a rope around their neck and taking away the support from under their feet so that they hang in the air. English = hanging."
   ],
   "idGloss": "hanging",
-  "oldEntry": "Popular explanation: pulling on something around the neck."
+  "oldEntry": "Popular explanation: pulling on something around the neck.",
+  "seeAlso": [
+    "hangover"
+  ]
 }

@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shield"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 891,
   "recordNumber": 511,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sports trophy or badge in the shape of a shield. English = shield."
   ],
   "idGloss": "shield.1a",
-  "oldEntry": "Popular explanation: the outline of a shield."
+  "oldEntry": "Popular explanation: the outline of a shield.",
+  "seeAlso": []
 }

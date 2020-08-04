@@ -17,9 +17,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "church",
     "temple",
@@ -29,10 +29,9 @@
     "religious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2605,
   "recordNumber": 1444,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 8,
@@ -47,7 +46,7 @@
     "1. To be someone who goes to church regularly, has a strong belief in a god or gods, or who follows a particular religion closely. English = (be) religious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building in which Christians worship. English = church.",
     "2. A building used for the worship of a god or gods in some religions. English = temple.",
@@ -55,5 +54,6 @@
     "4. A person who goes to church regularly. English = churchgoer."
   ],
   "idGloss": "church.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

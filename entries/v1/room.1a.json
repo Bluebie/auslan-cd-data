@@ -15,9 +15,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "room",
     "paddock",
@@ -26,10 +26,9 @@
     "court"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1104,
   "recordNumber": 649,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -42,7 +41,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the separate sections in a house or other building, which has its own wall, ceiling, floor, and door. English = room.",
     "2. A defined area, inside or outside a building, often one which is surrounded by a fence or a wall.",
@@ -50,5 +49,6 @@
     "4. An area in which you play a  particular sport. English = pitch, field, court."
   ],
   "idGloss": "room.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,8 +12,8 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with a subordinate Flat or Point hand as a point of reference.",
   "english": [
     "rid",
@@ -22,10 +22,9 @@
     "reject"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6345.1,
   "recordNumber": 3789,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -40,11 +39,12 @@
     "3. To get rid of or not accept something because it is not wanted or is not good enough, especially a product because something is wrong with it. English = reject."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Things that you no longer want and have thrown away or plan to throw away.",
     "2. Something which is not accepted, especially a product because something is wrong with it. English = reject."
   ],
   "idGloss": "rid",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

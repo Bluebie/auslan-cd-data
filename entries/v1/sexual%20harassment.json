@@ -8,15 +8,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sexual harassment",
     "sexually harass"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4896.1,
   "recordNumber": 2958,
   "signVisualComposition": "SEX + TEASE",
@@ -32,10 +31,11 @@
     "1. To make repeated and unwanted comments, proposals or actions of a sexual nature towards someone. English = sexually harass."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Repeated and unwanted comments, proposals or behaviour of a sexual nature. English = sexual harassment."
   ],
   "idGloss": "sexual harassment",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

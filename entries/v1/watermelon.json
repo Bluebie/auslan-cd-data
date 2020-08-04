@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "watermelon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5730,
   "recordNumber": 3394,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 9,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large round fruit which has a green skin and is pink and juicy inside with a lot of black seeds. English = watermelon."
   ],
   "idGloss": "watermelon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

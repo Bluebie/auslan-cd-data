@@ -19,9 +19,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "murder",
     "strangulation",
@@ -31,10 +31,9 @@
     "murderer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4610,
   "recordNumber": 2791,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -51,12 +50,13 @@
     "3. To kill someone by squeezing their throat. English = strangle, choke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The deliberate and unlawful killing of a person. English = murder.",
     "2. The act of killing someone by squeezing their throat. English = strangulation",
     "3. A person who deliberately and unlawfully kills someone. English = murderer."
   ],
   "idGloss": "murder.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

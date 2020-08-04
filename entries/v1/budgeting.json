@@ -21,9 +21,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "budget",
     "budgeting",
@@ -32,12 +32,9 @@
     "economic"
   ],
   "deictic": [],
-  "cf": [
-    "fund"
-  ],
   "signNumber": 173,
   "recordNumber": 97,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -51,12 +48,15 @@
     "2. Of or relating to the organisation of money, industry, and trade of a country, region, or social group. English = (be) economic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plan showing how much money a person or organisation has available and how it should be spent, or the design of such a plan. English = budget, budgeting.",
     "2. In a particular country or region, the system according to which money, industry, and trade are organised there, as well as the wealth that it gets from this system. English = economy.",
     "3. The study of the way in which money, industry, and trade are organised in a particular country. English = economics."
   ],
   "idGloss": "budgeting",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fund"
+  ]
 }

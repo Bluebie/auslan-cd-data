@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "go out",
     "leave"
   ],
   "deictic": [],
-  "cf": [
-    "send.off"
-  ],
   "signNumber": 4132,
   "recordNumber": 2488,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,8 +39,11 @@
     "2. To go out of a place; to leave a place in order to go home."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "go.out",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "send.off"
+  ]
 }

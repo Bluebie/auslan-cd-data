@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "kangaroo",
     "hop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3937,
   "recordNumber": 2348,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To hop like a kangaroo."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large Australian animal which moves by jumping on its back legs. Female ones carry their babies in a pouch on their stomachs. English = kangaroo."
   ],
   "idGloss": "kangaroo",
-  "oldEntry": "Popular explanation: assuming the stance of a kangaroo."
+  "oldEntry": "Popular explanation: assuming the stance of a kangaroo.",
+  "seeAlso": []
 }

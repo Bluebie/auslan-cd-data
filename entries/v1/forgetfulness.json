@@ -12,19 +12,18 @@
     "engtf3",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "forgetfulness",
     "forgetful",
     "absent-minded"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 13,
   "recordNumber": 9,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -39,10 +38,11 @@
     "1. To often forget things. English = (be) forgetful, (be) absent-minded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action or habit of often forgetting things. English = forgetfulness."
   ],
   "idGloss": "forgetfulness",
-  "oldEntry": "Popular explanation: forgetting things repeatedly."
+  "oldEntry": "Popular explanation: forgetting things repeatedly.",
+  "seeAlso": []
 }

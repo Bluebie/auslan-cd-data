@@ -12,20 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "child"
   ],
   "deictic": [],
-  "cf": [
-    "basketball",
-    "bounce.1a"
-  ],
   "signNumber": 3495,
   "recordNumber": 2044,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -41,10 +37,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A human being who is not yet an adult. English = child."
   ],
   "idGloss": "child",
-  "oldEntry": "Popular explanation: indicating the top of a child's head."
+  "oldEntry": "Popular explanation: indicating the top of a child's head.",
+  "seeAlso": [
+    "basketball",
+    "bounce.1a"
+  ]
 }

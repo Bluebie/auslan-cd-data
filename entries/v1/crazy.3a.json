@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "MIND + OUT (?) or + SPOIL(?)",
-  "queries": "",
+  "queries": null,
   "english": [
     "craziness",
     "recklessness",
@@ -37,10 +37,9 @@
     "intoxicated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6278,
   "recordNumber": 3750,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -62,7 +61,7 @@
     "4. To enjoy yourself or amuse yourself, usually by behaving in a careless or reckless way, especially when on drugs. English = (be) intoxicated. Idiomatic English = (be) off one's face."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is strange or foolish, for example because of mental illness or intoxication. English = craziness.",
     "2. Behaviour which is strange or foolish because of a lack of attention or care; the situation of having a lack of attention, as if thinking of something else. English = recklessness, carelessness; dreaminess.",
@@ -70,5 +69,6 @@
     "4. A time during which you amuse yourself, usually behaving in a careless or reckless way, especially when intoxicated or on drugs."
   ],
   "idGloss": "crazy.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

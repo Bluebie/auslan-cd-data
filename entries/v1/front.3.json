@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "front"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3755,
   "recordNumber": 2218,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To be located in that part of a thing (classroom, theatre, car, etc) which is as far as you can go and still face the direction in which most people normally sit or in which the thing normally moves. English = (be) in the front."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of something that faces you or faces forward, or that you normally see or use. English = front."
   ],
   "idGloss": "front.3",
-  "oldEntry": "Popular explanation: a surface in front of oneself."
+  "oldEntry": "Popular explanation: a surface in front of oneself.",
+  "seeAlso": []
 }

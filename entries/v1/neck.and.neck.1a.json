@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "neck and neck"
   ],
   "deictic": [],
-  "cf": [
-    "win.1a",
-    "losing.1a"
-  ],
   "signNumber": 3685,
   "recordNumber": 2173,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,8 +32,12 @@
     "1. In a competition or race, to be evenly pitted against each other with each, in turn, edging slightly in front of the other. Idiomatic English = (be) neck and neck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "neck.and.neck.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "win.1a",
+    "losing.1a"
+  ]
 }

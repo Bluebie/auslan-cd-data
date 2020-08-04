@@ -14,18 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "regret",
     "sorry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2588,
   "recordNumber": 1430,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 3,
@@ -44,10 +43,11 @@
     "1. To wish that you had not done something. English = (be) sorry, regret."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of wishing that you had not done something. English = regret."
   ],
   "idGloss": "regret.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,23 +14,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stamp",
     "postage stamp",
     "postage"
   ],
   "deictic": [],
-  "cf": [
-    "glue.1",
-    "letter",
-    "letterbox"
-  ],
   "signNumber": 2138,
   "recordNumber": 1237,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 10,
@@ -43,11 +38,16 @@
     "1. To affix or stick a stamp to an envelope or parcel before you post it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of gummed paper which you stick on an envelope or parcel before you post it. English = stamp, postage stamp.",
     "2. The money that you pay for sending letters and parcels by post. English = postage."
   ],
   "idGloss": "stamp.1",
-  "oldEntry": "Popular explanation: licking a stamp then putting it on a letter."
+  "oldEntry": "Popular explanation: licking a stamp then putting it on a letter.",
+  "seeAlso": [
+    "glue.1",
+    "letter",
+    "letterbox"
+  ]
 }

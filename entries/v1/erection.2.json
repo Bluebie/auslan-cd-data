@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "erection",
     "erect"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 807,
   "recordNumber": 460,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -38,10 +37,11 @@
     "2. Of a man, to become sexually excited so that his penis becomes erect. English = get an erection."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of a man's penis when he is sexually excited and his penis is stiff, swollen, and sticking up. English = erection."
   ],
   "idGloss": "erection.2",
-  "oldEntry": "Popular explanation: the penis becoming erect."
+  "oldEntry": "Popular explanation: the penis becoming erect.",
+  "seeAlso": []
 }

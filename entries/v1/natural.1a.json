@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "natural",
     "normal",
@@ -23,10 +23,9 @@
     "naturally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2002,
   "recordNumber": 1177,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 7,
@@ -43,8 +42,9 @@
     "3. To be usual and ordinary, and what people expect. English = (be) normal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "natural.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

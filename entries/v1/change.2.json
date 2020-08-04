@@ -25,9 +25,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "change",
     "alteration",
@@ -42,12 +42,9 @@
     "evolve"
   ],
   "deictic": [],
-  "cf": [
-    "alternate"
-  ],
   "signNumber": 5781,
   "recordNumber": 3427,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -65,7 +62,7 @@
     "4. Of living and other dynamic things, to change over time in response to the environment in order to better suit it. English = adapt, evolve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of something being different to what it was before; the aspect of something that is different from a previous condition. English = change, alteration.",
     "2. [With attenuation] a small change in something which improves it. English = modification.",
@@ -73,5 +70,8 @@
     "4. The process of living or dynamic things changing over time in response to the environment that make it better suited to it. English = adaptations, evolution."
   ],
   "idGloss": "change.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "alternate"
+  ]
 }

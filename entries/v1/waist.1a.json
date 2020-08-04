@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "waist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5245,
   "recordNumber": 3149,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 16,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The narrow part of your body above your hips. English = waist."
   ],
   "idGloss": "waist.1a",
-  "oldEntry": "Popular explanation: spreading one's fingers around one's waist"
+  "oldEntry": "Popular explanation: spreading one's fingers around one's waist",
+  "seeAlso": []
 }

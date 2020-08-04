@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "contact"
   ],
   "deictic": [],
-  "cf": [
-    "touch.down.at"
-  ],
   "signNumber": 6514,
   "recordNumber": 3876,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 14,
@@ -36,10 +33,13 @@
     "1. To telephone, fax, e-mail, or write to someone. English = contact. Idiomatic English = get in contact with."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of telephoning, faxing, e-mailing or writing to someone. English = contact."
   ],
   "idGloss": "contact",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "touch.down.at"
+  ]
 }

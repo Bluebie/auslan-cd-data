@@ -11,18 +11,15 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nightdress",
     "nightie",
     "pyjamas"
   ],
   "deictic": [],
-  "cf": [
-    "pyjamas"
-  ],
   "signNumber": 3216,
   "recordNumber": 1868,
   "signVisualComposition": "BED + CLOTHES",
@@ -36,11 +33,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sort of a dress that women or girls wear in bed. English = nightdress, nightie.",
     "2. Loose trousers and a loose jacket that people, especially men, wear in bed. English = pyjamas."
   ],
   "idGloss": "nightdress",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pyjamas"
+  ]
 }

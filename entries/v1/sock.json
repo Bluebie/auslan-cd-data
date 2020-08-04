@@ -21,23 +21,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sock",
     "slippers",
     "boots"
   ],
   "deictic": [],
-  "cf": [
-    "stockings.1a",
-    "condom.1",
-    "shoe"
-  ],
   "signNumber": 6201,
   "recordNumber": 3705,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -55,12 +50,17 @@
     "3. To put on a slipper, to put on pair of slippers."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing which covers your foot and ankle and is worn inside a shoe. English = sock.",
     "2. Shoes that cover your whole foot and the lower part of your leg; or strong, heavy shoes which cover your ankle and have thick soles. English = boots.",
     "3. Loose, soft shoes that you wear in the house. English = slippers."
   ],
   "idGloss": "sock",
-  "oldEntry": "Popular explanation: pulling on socks."
+  "oldEntry": "Popular explanation: pulling on socks.",
+  "seeAlso": [
+    "stockings.1a",
+    "condom.1",
+    "shoe"
+  ]
 }

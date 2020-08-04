@@ -13,21 +13,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "consignment",
     "send",
     "dispatch"
   ],
   "deictic": [],
-  "cf": [
-    "letters.1a"
-  ],
   "signNumber": 6113,
   "recordNumber": 3639,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -42,11 +39,14 @@
     "1. To arrange for something to be taken from one place and delivered to someone in another place, for example by post or by courier. English = send. Formal English = dispatch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of sending something to someone.",
     "2. A load of goods that is being sent from one place and delivered to another. English = consignment."
   ],
   "idGloss": "send.1a",
-  "oldEntry": "Popular explanation: action of handing over something."
+  "oldEntry": "Popular explanation: action of handing over something.",
+  "seeAlso": [
+    "letters.1a"
+  ]
 }

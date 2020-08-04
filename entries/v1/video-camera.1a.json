@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "video camera",
     "video"
   ],
   "deictic": [],
-  "cf": [
-    "video.1a"
-  ],
   "signNumber": 5286,
   "recordNumber": 3167,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
     "1. To make a video recording using a video camera; to shoot a video using a video camera."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A camera that records onto video tape. English = video camera."
   ],
   "idGloss": "video-camera.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "video.1a"
+  ]
 }

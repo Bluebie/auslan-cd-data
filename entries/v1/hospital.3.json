@@ -12,16 +12,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hospital"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4716,
   "recordNumber": 2850,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -36,10 +35,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where sick people are looked after by doctors and nurses. A North Rocks school sign. English = hospital."
   ],
   "idGloss": "hospital.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

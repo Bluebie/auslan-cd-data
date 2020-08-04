@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "puppet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4025,
   "recordNumber": 2410,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To operate a hand puppet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A doll which you can move by putting your hand inside its body and moving your fingers. English = puppet, hand puppet, glove puppet."
   ],
   "idGloss": "hand.puppet.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

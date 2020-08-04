@@ -25,9 +25,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shine",
     "shininess",
@@ -41,13 +41,9 @@
     "shimmering"
   ],
   "deictic": [],
-  "cf": [
-    "blonde",
-    "lesbian.2"
-  ],
   "signNumber": 3178,
   "recordNumber": 1846,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -65,12 +61,16 @@
     "4. To be very bright because of light bouncing off itself. English = (be) shiny, (be) reflective, (be) dazzling, (be) shimmering."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The bright or glassy appearance of an object because light bounces off it into your eyes. English = shine, shininess.",
     "2. The process by which light is sent back or bounces off a surface, particularly when it produces a clear image of the observer or another object. English = reflection.",
     "3. A hard, shiny silver-colored metal. English = chrome, chromium."
   ],
   "idGloss": "shine.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "blonde",
+    "lesbian.2"
+  ]
 }

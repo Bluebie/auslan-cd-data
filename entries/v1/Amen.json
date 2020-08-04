@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Amen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4243,
   "recordNumber": 2571,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -30,8 +29,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "Amen",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

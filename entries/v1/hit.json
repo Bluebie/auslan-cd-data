@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "slap",
     "hit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3368,
   "recordNumber": 1969,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To touch something with a lot of force using your hand (especially the palm side of your hand) or a flat object. English = slap, hit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The touching of something with a lot of force using your hand (especially the palm side of your hand) or a flat object. English = slap, hit."
   ],
   "idGloss": "hit",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

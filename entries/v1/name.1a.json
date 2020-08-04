@@ -15,9 +15,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "name",
     "reputation",
@@ -26,12 +26,9 @@
     "called"
   ],
   "deictic": [],
-  "cf": [
-    "signature.2"
-  ],
   "signNumber": 6457,
   "recordNumber": 3848,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -45,11 +42,14 @@
     "2. To have a particular name. English = (be) named, (be) called."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a person, thing, or place, the word or group of words that you use to identify them. English = name.",
     "2. The opinion that people have about what someone or something is like, especially about how good they are. English = name, reputation."
   ],
   "idGloss": "name.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "signature.2"
+  ]
 }

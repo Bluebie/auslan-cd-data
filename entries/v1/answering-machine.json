@@ -10,14 +10,13 @@
     "telecommun",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "answering machine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1153,
   "recordNumber": 678,
   "signVisualComposition": "ANSWER + TAPE-RECORDER",
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device which you connect to your telephone so that it records telephone calls while you are out. English = answering machine."
   ],
   "idGloss": "answering-machine",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

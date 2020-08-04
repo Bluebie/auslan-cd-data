@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "invention",
     "discovery",
@@ -30,7 +30,6 @@
     "innovate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 518,
   "recordNumber": 289,
   "signVisualComposition": "THINK + FIRST",
@@ -51,11 +50,12 @@
     "2. To introduce changes and new ideas. English = innovate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine, system (or even idea) that has been thought of or made for the first time by someone. English = invention, discovery.",
     "2. A new thing or a new way of doing something. English = innovation."
   ],
   "idGloss": "invent.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

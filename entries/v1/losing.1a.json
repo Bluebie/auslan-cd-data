@@ -9,19 +9,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lose"
   ],
   "deictic": [],
-  "cf": [
-    "neck.and.neck.1a"
-  ],
   "signNumber": 4374,
   "recordNumber": 2664,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,8 +33,11 @@
     "1. In a competition or race, to be just behind your rival; to be losing; to drop back; to fall behind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "losing.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "neck.and.neck.1a"
+  ]
 }

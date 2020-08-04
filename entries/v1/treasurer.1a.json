@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "treasurer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4285,
   "recordNumber": 2605,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In an organisation, the person in charge of its finances and keeping its accounts. English = treasurer."
   ],
   "idGloss": "treasurer.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

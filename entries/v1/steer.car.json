@@ -16,18 +16,17 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "steering wheel",
     "driving",
     "steer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5850,
   "recordNumber": 3481,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -43,11 +42,12 @@
     "2. To drive a vehicle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The wheel in a car or truck which the driver holds when he or she is steering the vehicle. English = steering wheel.",
     "2. The act of operating and controlling a vehicle so that it goes where you want it to go. English = driving."
   ],
   "idGloss": "steer.car",
-  "oldEntry": "Popular explanation: holding the steering wheel of a car."
+  "oldEntry": "Popular explanation: holding the steering wheel of a car.",
+  "seeAlso": []
 }

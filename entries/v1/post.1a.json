@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "postbox",
     "letterbox",
@@ -37,12 +37,9 @@
     "bank"
   ],
   "deictic": [],
-  "cf": [
-    "post office"
-  ],
   "signNumber": 4380,
   "recordNumber": 2669,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.4,
   "primaryLocation": 14,
@@ -68,5 +65,8 @@
     "4. A special banking machine found in public places in which you insert your personal card in order to make withdrawals, deposits and transfers. English = ATM (automatic teller machine)."
   ],
   "idGloss": "post.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "post office"
+  ]
 }

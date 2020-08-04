@@ -6,16 +6,15 @@
     "domonly"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "crumbs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3100,
   "recordNumber": 1784,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -26,10 +25,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Very small pieces of cake, bread or biscuit. English = crumbs."
   ],
   "idGloss": "crumbs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,16 +11,15 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "purple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3286,
   "recordNumber": 1917,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,10 +35,11 @@
     "1. To be reddish-blue in colour. English = (be) purple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A reddish-blue colour. English = purple."
   ],
   "idGloss": "purple.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

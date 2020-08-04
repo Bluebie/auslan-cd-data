@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alarm",
     "flashing-light alarm"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 197,
   "recordNumber": 113,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lamp attached to a clock or telephone that you can set to flash so that it wakes you up or gets your attention at a particular time, or flashes when the phone rings. It is mostly used by deaf people. English = flashing-light alarm."
   ],
   "idGloss": "flashing-light.alarm",
-  "oldEntry": "Popular explanation: a flashing lamp."
+  "oldEntry": "Popular explanation: a flashing lamp.",
+  "seeAlso": []
 }

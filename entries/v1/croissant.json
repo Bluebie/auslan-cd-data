@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "croissant",
     "Cornish pastry",
     "pasty"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5221,
   "recordNumber": 3137,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -40,5 +39,6 @@
     "2. A small crescent-shaped pie which consists of pastry folded around meat, vegetables, or cheese. English = pasty, Cornish pastry."
   ],
   "idGloss": "croissant",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

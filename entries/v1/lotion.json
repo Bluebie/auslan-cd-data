@@ -19,8 +19,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "lotion",
     "moisturiser",
@@ -28,10 +28,9 @@
     "ointment"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4048,
   "recordNumber": 2422,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,11 +46,12 @@
     "1. To apply a hand lotion, hand cream, moisturiser or ointment to the skin."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A liquid you use on the skin of your hands. English = hand lotion, hand cream, moisturiser.",
     "2. A smooth thick substance that is put on sore skin or a wound to help it heal. English = ointment."
   ],
   "idGloss": "lotion",
-  "oldEntry": "Popular explanation: a rubbing lotion into the skin."
+  "oldEntry": "Popular explanation: a rubbing lotion into the skin.",
+  "seeAlso": []
 }

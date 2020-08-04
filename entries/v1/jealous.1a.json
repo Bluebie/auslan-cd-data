@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jealousy",
     "envy",
@@ -26,10 +26,9 @@
     "envious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1397,
   "recordNumber": 830,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -45,11 +44,12 @@
     "2. To feel anger or bitterness towards someone who has something that you would like to have. English = (be) jealous, (be) envious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of resentment and bitterness you have when you think someone is trying to take away something that belongs to you. English = jealousy.",
     "2. The feeling you have when you wish that you could have the qualities or possessions that someone else has. English = jealousy, envy."
   ],
   "idGloss": "jealous.1a",
-  "oldEntry": "Popular explanation: biting one's finger in the gesture of jealousy."
+  "oldEntry": "Popular explanation: biting one's finger in the gesture of jealousy.",
+  "seeAlso": []
 }

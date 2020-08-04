@@ -20,9 +20,9 @@
     "engtf8",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cheat",
     "cheating",
@@ -34,10 +34,9 @@
     "playful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4731,
   "recordNumber": 2859,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -54,12 +53,13 @@
     "3. To operate or make a cut on the face, especially if it leaves a scar."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is clever at deceiving people, especially by planning it in advance; or a person who behaves dishonestly in order to achieve something, especially by copying other people's work in exams. English = cheat.",
     "2. The act of behaving dishonestly in order to achieve something, especially by copying other people's work in exams or breaking rules in a game. English = cheating, foul play.",
     "3. A cut or operation on the face, especially if it leaves a mark. English = scar."
   ],
   "idGloss": "sly.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

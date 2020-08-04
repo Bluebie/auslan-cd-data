@@ -16,19 +16,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "humiliation",
     "humiliated",
     "mortified"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6053,
   "recordNumber": 3602,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -48,10 +47,11 @@
     "2. In an argument or conflict, to retreat and admit that you have made a mistake with some loss of face; to be proven wrong; to concede a point."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The extreme embarrassment that you feel when you are made to appear helpless or stupid. English = humiliation."
   ],
   "idGloss": "humiliate",
-  "oldEntry": "Popular explanation: retracting and hiding in shame."
+  "oldEntry": "Popular explanation: retracting and hiding in shame.",
+  "seeAlso": []
 }

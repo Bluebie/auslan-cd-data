@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "FLOW + barrier",
-  "queries": "",
+  "queries": null,
   "english": [
     "overflow",
     "spillage",
@@ -30,12 +30,9 @@
     "flow"
   ],
   "deictic": [],
-  "cf": [
-    "lava"
-  ],
   "signNumber": 2856,
   "recordNumber": 1611,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,12 +48,15 @@
     "1. Of water or liquid, to go over the side of a barrier or the edge of a container. English = overflow, spill over, flow over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Too much water or liquid that goes over the side of a barrier or the edge of a container. English = overflow, spillage.",
     "2. A channel that carries away surplus water, as from a dam. English = spillway.",
     "3. Water that flows over the edge of a steep cliff and falls to the ground below. English = waterfall."
   ],
   "idGloss": "overflow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lava"
+  ]
 }

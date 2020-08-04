@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "front"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4167,
   "recordNumber": 2517,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "2. To go or move around a thing or a person so that the front is facing you, or so that you are between the thing or person and another one. English = go in front of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "go.in.front.of",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

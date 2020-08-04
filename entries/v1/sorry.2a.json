@@ -14,20 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "regret",
     "sorry"
   ],
   "deictic": [],
-  "cf": [
-    "apologise.forgive.1a"
-  ],
   "signNumber": 6650,
   "recordNumber": 3958,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 17.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -45,10 +42,13 @@
     "1. To wish you had not done something, especially something which has caused someone pain or difficulties. English = regret, feel sorry."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling you have when you wish you had not done something. English = regret."
   ],
   "idGloss": "sorry.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "apologise.forgive.1a"
+  ]
 }

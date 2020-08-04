@@ -21,9 +21,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "closeness",
     "close",
@@ -33,10 +33,9 @@
     "shorten"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4168,
   "recordNumber": 2518,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,12 +53,13 @@
     "4. To make shorter. English = shorten."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of a relationship with another person in which both people know each other very well and like each other. English = closeness.",
     "2. A reduction in the size of something.",
     "3. A reduction in the amount of time."
   ],
   "idGloss": "shorten.1a",
-  "oldEntry": "Popular explanation: one surface goes near another."
+  "oldEntry": "Popular explanation: one surface goes near another.",
+  "seeAlso": []
 }

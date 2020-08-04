@@ -12,17 +12,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "debt",
     "owe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3295,
   "recordNumber": 1923,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,10 +34,11 @@
     "1. To have the obligation to give money which you have borrowed from someone back to them. English = owe, (be) in debt to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The amount of money which you have borrowed from someone but have not yet paid them back. English = debt."
   ],
   "idGloss": "owe.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

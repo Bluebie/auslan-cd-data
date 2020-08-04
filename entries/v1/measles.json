@@ -14,20 +14,15 @@
     "cf3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "measles"
   ],
   "deictic": [],
-  "cf": [
-    "acne",
-    "chicken-pox.1",
-    "freckles"
-  ],
   "signNumber": 3029,
   "recordNumber": 1736,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -40,10 +35,15 @@
     "1. To have measles."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An infectious disease that gives you red spots on your skin. English = measles."
   ],
   "idGloss": "measles",
-  "oldEntry": "Popular explanation: spots on one's body."
+  "oldEntry": "Popular explanation: spots on one's body.",
+  "seeAlso": [
+    "acne",
+    "chicken-pox.1",
+    "freckles"
+  ]
 }

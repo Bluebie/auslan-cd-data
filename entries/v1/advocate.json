@@ -13,18 +13,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "advocate",
     "advocacy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5804,
   "recordNumber": 3444,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -41,11 +40,12 @@
     "1. To support a particular action or plan publicly, often on behalf of other people. English = advocate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who publicly supports a particular action or plan, often on behalf of other people. English = advocate.",
     "2. The action of publicly supporting a particular action or plan, often on behalf of other people. English = advocacy."
   ],
   "idGloss": "advocate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

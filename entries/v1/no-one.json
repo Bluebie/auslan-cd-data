@@ -10,18 +10,17 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HAVE.NONE + ALL",
-  "queries": "",
+  "queries": null,
   "english": [
     "no-one",
     "nobody"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 110,
   "recordNumber": 58,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Not a single person. English = no-one, nobody."
   ],
   "idGloss": "no-one",
-  "oldEntry": "Popular explanation: 'have' + 'nothing'."
+  "oldEntry": "Popular explanation: 'have' + 'nothing'.",
+  "seeAlso": []
 }

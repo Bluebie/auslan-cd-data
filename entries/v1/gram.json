@@ -7,17 +7,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gram"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5796,
   "recordNumber": 3437,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -33,5 +32,6 @@
     "1. A very small unit of weight. One thousand of these units are equal to one kilogram. English = gram."
   ],
   "idGloss": "gram",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

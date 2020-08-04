@@ -14,21 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trophy",
     "cup",
     "award"
   ],
   "deictic": [],
-  "cf": [
-    "pennant.1"
-  ],
   "signNumber": 438,
   "recordNumber": 245,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -43,10 +40,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A prize, such as a silver cup or shield, which is given to the winner of a competition or race. English = trophy, cup, award."
   ],
   "idGloss": "trophy.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pennant.1"
+  ]
 }

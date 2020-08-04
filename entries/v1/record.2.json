@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "record"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2222,
   "recordNumber": 1267,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A round, flat piece of black plastic on which sound, especially music, is stored. You listen to the sound by playing the record on a record player. English = record."
   ],
   "idGloss": "record.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

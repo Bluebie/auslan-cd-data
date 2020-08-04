@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tonsils",
     "tonsillectomy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1572,
   "recordNumber": 937,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -33,11 +32,12 @@
     "1. To remove someone's tonsils, or have your tonsils removed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two small, soft lumps in your throat at the back of your mouth. English = tonsils.",
     "2. An operation which removes your tonsils. English = tonsillectomy."
   ],
   "idGloss": "tonsils",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

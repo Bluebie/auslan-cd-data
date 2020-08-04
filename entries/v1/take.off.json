@@ -16,21 +16,18 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "departure",
     "take-off",
     "airport"
   ],
   "deictic": [],
-  "cf": [
-    "airport"
-  ],
   "signNumber": 6633,
   "recordNumber": 3947,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,12 +42,15 @@
     "1. Of an aeroplane, to leave the ground. English = take off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of an aeroplane, the act of leaving a place. English = departure.",
     "2. Of an aeroplane, the act of leaving the ground. English = take-off.",
     "3. A place where aircraft land and take off, usually with a lot of buildings and facilities. English = airport."
   ],
   "idGloss": "take.off",
-  "oldEntry": "Popular explanation: a plane taking off."
+  "oldEntry": "Popular explanation: a plane taking off.",
+  "seeAlso": [
+    "airport"
+  ]
 }

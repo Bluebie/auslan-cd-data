@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "start",
     "commencement",
@@ -29,10 +29,9 @@
     "begin"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6316,
   "recordNumber": 3770,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 10.3,
   "primaryLocation": 15,
@@ -52,11 +51,12 @@
     "2. To start a race."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The first part of some activity. English = start, commencement, beginning.",
     "2. The first part of a race or competition. English = start."
   ],
   "idGloss": "start.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

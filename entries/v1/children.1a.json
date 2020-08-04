@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LITTLE + CHILDREN or LITTLE + SHORT",
-  "queries": "",
+  "queries": null,
   "english": [
     "children",
     "kids"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 280,
   "recordNumber": 164,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +38,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Human beings who are not yet adults. English = children. Informal English = kids.",
     "2. Someone's sons and daughters of any age. English = children."
   ],
   "idGloss": "children.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

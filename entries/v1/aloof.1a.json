@@ -13,9 +13,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "aloof",
     "quit",
@@ -25,10 +25,9 @@
     "pull out"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2165,
   "recordNumber": 1250,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -43,8 +42,9 @@
     "3. To like to be alone and not talk much to other people. English = (be) aloof."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "aloof.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

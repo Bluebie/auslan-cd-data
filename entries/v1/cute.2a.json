@@ -12,17 +12,16 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cute",
     "pretty"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5108,
   "recordNumber": 3082,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -40,8 +39,9 @@
     "1. Of a girl especially, to be nice to look at and attractive in a delicate way. English = (be) pretty, (be) cute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cute.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

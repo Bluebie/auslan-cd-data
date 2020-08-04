@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "remains",
     "remainder",
@@ -22,10 +22,9 @@
     "supply"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4270,
   "recordNumber": 2590,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of something that is still on a surface (such as a table) to be seen, or used or eaten or taken after everything else has been taken away, used or eaten. English = remains, remainder, rest.",
     "2. Any part of something that is left after the main part has been taken away, used or eaten. English = remainder.",
@@ -44,5 +43,6 @@
     "4. In economics, the amount of something which someone has or which is available for them to use or buy; the amount of something that can be produced and made available for people to buy. English = supply."
   ],
   "idGloss": "remainder",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

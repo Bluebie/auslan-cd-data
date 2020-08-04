@@ -16,9 +16,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "east",
     "eastern",
@@ -26,13 +26,9 @@
     "eastwards"
   ],
   "deictic": [],
-  "cf": [
-    "north",
-    "south"
-  ],
   "signNumber": 1165,
   "recordNumber": 684,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -49,10 +45,14 @@
     "1. To be located in or associated with the east. English = (be) eastern, (be) easterly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The direction which you look towards in order to see the sun rise. English = east."
   ],
   "idGloss": "east",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "north",
+    "south"
+  ]
 }

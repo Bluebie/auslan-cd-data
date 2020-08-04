@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unhappiness",
     "unhappy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 860,
   "recordNumber": 492,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 9,
@@ -45,11 +44,12 @@
     "2. To feel displeasure when something unwanted or unwelcome has happened. English = (be) unhappy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The expression you have when you are unhappy, displeased, or being unfriendly by turning down the corners of your mouth.",
     "2. The feeling of displeasure you have when something unwanted or unwelcome has happened. English = unhappiness."
   ],
   "idGloss": "frown",
-  "oldEntry": "Popular explanation: the outline of a smile."
+  "oldEntry": "Popular explanation: the outline of a smile.",
+  "seeAlso": []
 }

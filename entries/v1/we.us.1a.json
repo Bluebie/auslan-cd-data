@@ -10,9 +10,9 @@
     "cf1",
     "deictic2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "we",
     "us"
@@ -21,12 +21,9 @@
     "Used to refer to the signer and one or more other people as a group. Immediately next to a verb it means the signer and the others do the action or that the action happens to the signer and the others (i.e., some other referent does the action)",
     "depending on the type of verb or on the number of other referents in the sentence. English = we, us."
   ],
-  "cf": [
-    "me/I.1a"
-  ],
   "signNumber": 875,
   "recordNumber": 499,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -39,8 +36,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "we.us.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "me/I.1a"
+  ]
 }

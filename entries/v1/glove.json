@@ -10,19 +10,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The movement can be repeated by reversing the hands.",
   "english": [
     "glove"
   ],
   "deictic": [],
-  "cf": [
-    "hand"
-  ],
   "signNumber": 4458,
   "recordNumber": 2708,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -35,10 +32,13 @@
     "1. To put on a glove."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing which covers your hand and wrist and has individual sections for each finger. English = glove."
   ],
   "idGloss": "glove",
-  "oldEntry": "Popular explanation: pulling on a glove."
+  "oldEntry": "Popular explanation: pulling on a glove.",
+  "seeAlso": [
+    "hand"
+  ]
 }

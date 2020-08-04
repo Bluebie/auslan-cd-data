@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hairbrush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5587,
   "recordNumber": 3307,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -36,10 +35,11 @@
     "1. To brush your hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A brush that you use to brush your hair. English = hairbrush."
   ],
   "idGloss": "hairbrush",
-  "oldEntry": "Popular explanation: brushing hair."
+  "oldEntry": "Popular explanation: brushing hair.",
+  "seeAlso": []
 }

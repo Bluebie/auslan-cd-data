@@ -7,18 +7,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "join",
     "enlist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3901,
   "recordNumber": 2323,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,8 +30,9 @@
     "1. To become a member of an organisation, especially the army. English = join, enlist."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "enlist",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

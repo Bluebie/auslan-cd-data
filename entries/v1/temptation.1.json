@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "temptation",
     "tempt",
     "tempting"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 321,
   "recordNumber": 179,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -42,11 +41,12 @@
     "2. Of something, to make you want to do or have it, even though you know it may be wrong or harmful. English = (be) tempting."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state you are in when you want to do or have something, although you know it may be wrong or harmful.  English = temptation.",
     "2. Something that makes you want to do or have something, even though you know it may wrong or harmful. English = temptation."
   ],
   "idGloss": "temptation.1",
-  "oldEntry": "Popular explanation: tugging on a shirt."
+  "oldEntry": "Popular explanation: tugging on a shirt.",
+  "seeAlso": []
 }

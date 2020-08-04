@@ -21,9 +21,9 @@
     "engtf7",
     "ant1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "? + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "luck",
     "chance",
@@ -34,10 +34,9 @@
     "accidentally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5071,
   "recordNumber": 3059,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -58,11 +57,12 @@
     "1. To have something that is very desirable; to be in a very desirable situation; to have something good happen to you that is not the result of your own efforts or happens by chance. English = (be) lucky, (be) fortunate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Success that does not come from your own abilities or efforts. English = luck.",
     "2. An opportunity to do something which will be good for you. English = chance."
   ],
   "idGloss": "lucky.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

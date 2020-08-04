@@ -13,19 +13,16 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "invitation",
     "invite"
   ],
   "deictic": [],
-  "cf": [
-    "accept.2"
-  ],
   "signNumber": 5168,
   "recordNumber": 3109,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "1. To ask someone to come to an occasion, such as a party or a meal. English = invite."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A written, spoken or signed request to some to an event such as a party, a meal, or a meeting. English = invitation."
   ],
   "idGloss": "invite.1",
-  "oldEntry": "Popular explanation: tugging at someone."
+  "oldEntry": "Popular explanation: tugging at someone.",
+  "seeAlso": [
+    "accept.2"
+  ]
 }

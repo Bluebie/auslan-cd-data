@@ -10,17 +10,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "medal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1954,
   "recordNumber": 1164,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,10 +37,11 @@
     "2. To pin a medal on to someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of metal with a design on it and sometimes ribbons attached which is pinned to the chest. It is given as an award for bravery or as a prize in sporting events. English = medal."
   ],
   "idGloss": "medal",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

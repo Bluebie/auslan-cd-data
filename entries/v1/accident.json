@@ -7,14 +7,13 @@
     "twohand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "accident"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1148,
   "recordNumber": 675,
   "signVisualComposition": "A + C + C",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something unpleasant and unfortunate that happens and that often lead to injury or death. English = accident."
   ],
   "idGloss": "accident",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

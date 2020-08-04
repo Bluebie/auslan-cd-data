@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ambulance"
   ],
   "deictic": [],
-  "cf": [
-    "alarm.bell"
-  ],
   "signNumber": 2124,
   "recordNumber": 1232,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,11 +33,14 @@
     "1. Of a visual alarm or siren, especially one on top of a vehicle such as an ambulance, to rotate and flash."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A vehicle for taking people to or from hospital. English = ambulance.",
     "2. An alarm or siren, usually attached to the top of a vehicle, that consists of a rotating and/or flashing light, with or without an audible alarm."
   ],
   "idGloss": "ambulance",
-  "oldEntry": "Popular explanation: the rotating light of a siren on a roof."
+  "oldEntry": "Popular explanation: the rotating light of a siren on a roof.",
+  "seeAlso": [
+    "alarm.bell"
+  ]
 }

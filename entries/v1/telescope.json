@@ -15,23 +15,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "telescope",
     "astronomy",
     "astronomer"
   ],
   "deictic": [],
-  "cf": [
-    "focus",
-    "microscope.1",
-    "binoculars"
-  ],
   "signNumber": 119,
   "recordNumber": 62,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 4,
@@ -44,12 +39,17 @@
     "1. To use or look through a telescope, to practise the science of astronomy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, tube-shaped instrument with lenses inside it which you look through in order to make distant things appear larger and nearer. English = telescope.",
     "2. The scientific study of the stars, planets, and other natural objects in space. English = astronomy.",
     "3. A scientist who studies the stars, planets, and other natural objects in space. English = astronomer."
   ],
   "idGloss": "telescope",
-  "oldEntry": "Popular explanation: the shape and form of a telescope."
+  "oldEntry": "Popular explanation: the shape and form of a telescope.",
+  "seeAlso": [
+    "focus",
+    "microscope.1",
+    "binoculars"
+  ]
 }

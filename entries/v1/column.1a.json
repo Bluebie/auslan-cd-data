@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "column",
     "article"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5407,
   "recordNumber": 3226,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
     "1. To put text or numbers into a vertical section of writing; to put into columns."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In a newspaper or magazine, a vertical section of writing. English = column.",
     "2. A piece of writing that has been written for publication in a newspaper or magazine. English = article."
   ],
   "idGloss": "column.1a",
-  "oldEntry": "Popular explanation: something long and thin on a page."
+  "oldEntry": "Popular explanation: something long and thin on a page.",
+  "seeAlso": []
 }

@@ -12,20 +12,15 @@
     "cf3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "turkey"
   ],
   "deictic": [],
-  "cf": [
-    "bird",
-    "duck.1a",
-    "peck.1a"
-  ],
   "signNumber": 528,
   "recordNumber": 299,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -36,10 +31,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large bird that is kept on a farm for its meat; the meat of such a bird. English = turkey."
   ],
   "idGloss": "turkey.1",
-  "oldEntry": "Popular explanation: the fleshy overhang on the beak of a turkey."
+  "oldEntry": "Popular explanation: the fleshy overhang on the beak of a turkey.",
+  "seeAlso": [
+    "bird",
+    "duck.1a",
+    "peck.1a"
+  ]
 }

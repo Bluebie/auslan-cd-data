@@ -17,8 +17,8 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "For most speakers of English 'cunt' is a very rude and offensive word.",
   "english": [
     "vagina",
@@ -29,10 +29,9 @@
     "genitals"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5244,
   "recordNumber": 3148,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 17,
@@ -47,12 +46,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The outer part of a woman's sexual organ. Technical English = vulva, pudendum. Formal English = vagina. Informal vulgar English = cunt. Informal slang English = pussy, beaver, snatch.",
     "2. The passage that connects a woman's outer sex organs to her womb. Formal English = vagina. Informal vulgar English = cunt.",
     "3. The sexual organs of a woman. Formal English = genitals. ('Genitals' is general term in English for the sexual organs of a woman or a man and this sign should only be used as a translation equivalent if the speaker is referring to a woman)."
   ],
   "idGloss": "vagina.2",
-  "oldEntry": "Popular explanation: outline of the vulva."
+  "oldEntry": "Popular explanation: outline of the vulva.",
+  "seeAlso": []
 }

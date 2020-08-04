@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wheel alignment"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2698,
   "recordNumber": 1497,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
     "1. In car mechanics, to adjust the wheels of a car so that they are perfectly parallel to each other; to align the wheels of a car."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The adjustment of the wheels of the car so that they are perfectly parallel to each other. English = wheel alignment."
   ],
   "idGloss": "wheel.alignment",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

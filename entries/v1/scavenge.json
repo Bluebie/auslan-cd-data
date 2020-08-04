@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scavenge",
     "come across",
@@ -32,7 +32,6 @@
     "adopt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 862,
   "recordNumber": 493,
   "signVisualComposition": "QUIET + (QUICK or SHILLING)?",
@@ -52,11 +51,12 @@
     "2. To take a child into your own family and to make it legally your own son or daughter. English = adopt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of taking a child into your own family and making it legally your son or daughter. English = adoption.",
     "2. The act of taking a child into your own family and making it legally your son or daughter. English = adoption."
   ],
   "idGloss": "scavenge",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

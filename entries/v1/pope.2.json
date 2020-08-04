@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pope"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2298,
   "recordNumber": 1293,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The head of the Roman Catholic Church. English = pope."
   ],
   "idGloss": "pope.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,20 +12,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "teaspoon",
     "stir"
   ],
   "deictic": [],
-  "cf": [
-    "cook.2"
-  ],
   "signNumber": 6270,
   "recordNumber": 3743,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "2. To stir something inside a small container using a teaspoon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small spoon that is used to put sugar into tea or coffee and then to stir it in. English = teaspoon."
   ],
   "idGloss": "teaspoon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "cook.2"
+  ]
 }

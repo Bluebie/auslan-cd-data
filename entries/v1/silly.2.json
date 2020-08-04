@@ -16,9 +16,9 @@
     "engtf6",
     "engtf7"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "guesswork",
     "speculation",
@@ -29,10 +29,9 @@
     "speculate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1538,
   "recordNumber": 916,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -47,10 +46,11 @@
     "3. To try to guess something without knowing all the facts. English = guess, speculate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process or result of trying to guess something without knowing all the facts. English = guesswork, speculation."
   ],
   "idGloss": "silly.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

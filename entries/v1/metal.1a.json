@@ -24,8 +24,8 @@
     "syn2",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "It appears that this sign has evolved from tapping the fingertip on the teeth. Today the normal form is made by tapping the chin.",
   "english": [
     "rock",
@@ -39,12 +39,9 @@
     "rocky"
   ],
   "deictic": [],
-  "cf": [
-    "berry"
-  ],
   "signNumber": 1399,
   "recordNumber": 831,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -62,7 +59,7 @@
     "3. Of ground, to be rough and to contain a lot of stones or rocks. English = stony, rocky."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hard, rigid substance.",
     "2. A hard substance such as iron, steel, copper, or lead. English = metal.",
@@ -70,5 +67,8 @@
     "4. In golf, a club that has a head is made of metal rather than wood. English = iron."
   ],
   "idGloss": "metal.1a",
-  "oldEntry": "Popular explanation: something hard, like the teeth."
+  "oldEntry": "Popular explanation: something hard, like the teeth.",
+  "seeAlso": [
+    "berry"
+  ]
 }

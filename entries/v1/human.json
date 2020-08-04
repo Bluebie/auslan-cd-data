@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BODY + H",
   "queries": "The sign in Auslan is slightly different in form from the ASL sign. The ASL sign taps the chest then the waist.",
   "english": [
     "human"
   ],
   "deictic": [],
-  "cf": [
-    "body.1a",
-    "physical"
-  ],
   "signNumber": 2037,
   "recordNumber": 1193,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -37,10 +33,14 @@
     "1. Relating to or concerning people. English = (be) human."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person. English = human."
   ],
   "idGloss": "human",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "body.1a",
+    "physical"
+  ]
 }

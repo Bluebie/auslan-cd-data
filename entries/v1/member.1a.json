@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dues",
     "membership",
@@ -30,10 +30,9 @@
     "subscribe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6250,
   "recordNumber": 3735,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -51,12 +50,13 @@
     "3. To pay to receive a service (gas, electricity, telephone, pay television, etc.). English = subscribe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sum of money you pay regularly to an organisation you belong to. English = dues, membership, subscription.",
     "2. A person who belongs to an organisation, especially one in which they are required to pay dues. English = member.",
     "3. A person who pays for a magazine or newspaper to be regularly sent to them or for a service (gas, electricity, telephone, pay television, etc.) to be provided to them. English = subscriber."
   ],
   "idGloss": "member.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

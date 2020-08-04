@@ -15,9 +15,9 @@
     "engtf4",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "accelerator",
     "speeding",
@@ -25,10 +25,9 @@
     "speed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4114,
   "recordNumber": 2473,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "2. To drive with one's foot on the accelerator; to drive at high speed. English = speed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The pedal on which you press with your foot in order to make a vehicle go faster. English = accelerator.",
     "2. Driving with one's foot on the accelerator; driving at high speed. English = speeding."
   ],
   "idGloss": "accelerate.1a",
-  "oldEntry": "Popular explanation: putting one's foot down on the accelerator."
+  "oldEntry": "Popular explanation: putting one's foot down on the accelerator.",
+  "seeAlso": []
 }

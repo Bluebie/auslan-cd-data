@@ -9,21 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "naughtiness",
     "naughty"
   ],
   "deictic": [],
-  "cf": [
-    "problem.1",
-    "interrupt"
-  ],
   "signNumber": 4040,
   "recordNumber": 2416,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +32,14 @@
     "1. To behave badly and be disobedient, especially when talking about children. English = (be) naughty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The behaviour of children that is bad and disobedient. English = naughtiness."
   ],
   "idGloss": "naughty.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "problem.1",
+    "interrupt"
+  ]
 }

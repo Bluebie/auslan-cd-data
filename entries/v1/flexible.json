@@ -13,20 +13,17 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flexibility",
     "flexible"
   ],
   "deictic": [],
-  "cf": [
-    "plastic.2"
-  ],
   "signNumber": 159.1,
   "recordNumber": 88,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. Of a system, arrangement or person, to be able to be changed and adapted to different conditions or circumstances. English = (be) flexible."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a system, arrangement or person, the ability to be able to change and adapt to different conditions or circumstances. English = flexibility."
   ],
   "idGloss": "flexible",
-  "oldEntry": "Popular explanation: bending something."
+  "oldEntry": "Popular explanation: bending something.",
+  "seeAlso": [
+    "plastic.2"
+  ]
 }

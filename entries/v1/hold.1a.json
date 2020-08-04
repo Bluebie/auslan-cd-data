@@ -9,19 +9,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hold"
   ],
   "deictic": [],
-  "cf": [
-    "restrain"
-  ],
   "signNumber": 2708,
   "recordNumber": 1506,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -36,8 +33,11 @@
     "1. To have your fingers and hands firmly around something. English = hold."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hold.1a",
-  "oldEntry": "Popular explanation: as if holding something."
+  "oldEntry": "Popular explanation: as if holding something.",
+  "seeAlso": [
+    "restrain"
+  ]
 }

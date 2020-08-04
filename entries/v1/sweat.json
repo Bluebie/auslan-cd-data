@@ -12,8 +12,8 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A variant of this for some signers has the hands moving down from under the armpits.",
   "english": [
     "sweat",
@@ -21,10 +21,9 @@
     "perspire"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2600,
   "recordNumber": 1440,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 8,
@@ -38,10 +37,11 @@
     "2. To be nervous or stressed by a particular situation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The salty, colourless liquid that comes out in drops on the surface of your skin when you are hot or frightened. English = sweat. Formal English = perspiration."
   ],
   "idGloss": "sweat",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

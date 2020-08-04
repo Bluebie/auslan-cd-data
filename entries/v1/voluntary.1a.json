@@ -13,21 +13,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "volunteer",
     "voluntary",
     "apply"
   ],
   "deictic": [],
-  "cf": [
-    "choose.1a"
-  ],
   "signNumber": 297,
   "recordNumber": 172,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -42,11 +39,14 @@
     "3. Of a person, to formally ask to be allowed to have something or do something, especially to have a job. English = apply."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who does work, especially socially useful work, for which they are not paid. English = volunteer.",
     "2. Someone who offers to do something because they choose to, not because they were forced to do it. English = volunteer."
   ],
   "idGloss": "voluntary.1a",
-  "oldEntry": "Popular explanation: choose oneself."
+  "oldEntry": "Popular explanation: choose oneself.",
+  "seeAlso": [
+    "choose.1a"
+  ]
 }

@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "giraffe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4504,
   "recordNumber": 2738,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -32,5 +31,6 @@
     "1. An African animal with a very long neck, long legs, and dark patches on its yellowish body. English = giraffe."
   ],
   "idGloss": "giraffe.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

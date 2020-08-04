@@ -10,17 +10,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brake"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5658,
   "recordNumber": 3354,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "2. Of a vehicle, to go slower because the brake has been operated. English = brake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The device in a vehicle that is used to make it go slower or stop. Often it is operated by pressing down on it with your foot. English = brake."
   ],
   "idGloss": "brake.1a",
-  "oldEntry": "Popular explanation: pushing down on the brake pedal."
+  "oldEntry": "Popular explanation: pushing down on the brake pedal.",
+  "seeAlso": []
 }

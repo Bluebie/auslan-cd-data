@@ -15,17 +15,16 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "beach",
     "picnic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4728,
   "recordNumber": 2857,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -42,11 +41,12 @@
     "1. To go the area of sand or pebbles beside the sea for an outing in order to swim, relax or eat a meal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The area of sand or pebbles beside the sea. English = beach.",
     "2. A meal eaten out of doors, usually in a field, wood, park or at the beach. English = picnic."
   ],
   "idGloss": "beach",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

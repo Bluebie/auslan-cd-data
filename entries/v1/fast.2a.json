@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speed",
     "rapidity",
@@ -28,10 +28,9 @@
     "rush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4182,
   "recordNumber": 2529,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,11 +48,12 @@
     "1. To move, do something, or happen with great speed or very quickly. English = (be) fast, go fast, rush, speed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The moving, doing or happening of something very quickly. English = speed, rapidity.",
     "2. The act of moving very fast in a vehicle, usually a car, so that you are over the legal speed limit. English = speeding."
   ],
   "idGloss": "fast.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

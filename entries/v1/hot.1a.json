@@ -17,9 +17,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hot",
     "hotness",
@@ -27,13 +27,9 @@
     "heat"
   ],
   "deictic": [],
-  "cf": [
-    "scorching.1a",
-    "humid.1a"
-  ],
   "signNumber": 3267,
   "recordNumber": 1904,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -49,11 +45,15 @@
     "2. To make something become very warm or have a high temperature. English = heat, make hot, heat up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being very warm or hot. English = heat, hotness.",
     "2. The measure of the amount of heat in something, the measure of how hot or cold it is. English = temperature."
   ],
   "idGloss": "hot.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "scorching.1a",
+    "humid.1a"
+  ]
 }

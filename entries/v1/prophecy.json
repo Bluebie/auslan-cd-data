@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "prophecy",
     "prophet",
     "prophesy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1687,
   "recordNumber": 1010,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -38,12 +37,13 @@
     "1. To say that you strongly believe that something will happen. English = prophesy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A statement in which someone says something that they believe will happen, especially when this is part of religious inspiration. English = prophecy.",
     "2. A person who is believed to be chosen by God to say the things that God wants to tell people. English = prophet.",
     "3. A person who predicts that something will happen in the future. English = prophet."
   ],
   "idGloss": "prophecy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

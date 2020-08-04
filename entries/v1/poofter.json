@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "poof",
     "poofter",
@@ -29,10 +29,9 @@
     "camp"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2484,
   "recordNumber": 1380,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -51,10 +50,11 @@
     "3. Of anyone, to behave in a way that uses exaggerated gestures."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A homosexual man. An offensive sign, used to show disapproval or contempt. British English = poof, fairy. Australian English = poofter, fairy. American English = fag, fairy."
   ],
   "idGloss": "poofter",
-  "oldEntry": "Popular explanation: culturally shared gesture mistakenly associated with male homosexuals. Pejorative sign."
+  "oldEntry": "Popular explanation: culturally shared gesture mistakenly associated with male homosexuals. Pejorative sign.",
+  "seeAlso": []
 }

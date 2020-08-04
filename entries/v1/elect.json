@@ -16,21 +16,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "draw",
     "election",
     "elect"
   ],
   "deictic": [],
-  "cf": [
-    "tissue"
-  ],
   "signNumber": 2853,
   "recordNumber": 1609,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,12 +43,15 @@
     "2. To choose a person to hold an official position or to represent you by voting. English = elect."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of extracting, pulling or taking out one thing (ticket, ball, stick, etc) from many such things in a container as part of a competition. The thing chosen tells you who has won. English = draw.",
     "2. An organised process in which people vote to choose a person or group of people to hold an official position or to represent them in government. English = election.",
     "3. The actual success and selection of a person in an election. English = election."
   ],
   "idGloss": "elect",
-  "oldEntry": "Popular explanation: selecting out of a container."
+  "oldEntry": "Popular explanation: selecting out of a container.",
+  "seeAlso": [
+    "tissue"
+  ]
 }

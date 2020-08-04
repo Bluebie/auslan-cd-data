@@ -17,8 +17,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "width",
     "broadness",
@@ -27,12 +27,9 @@
     "broad-shouldered"
   ],
   "deictic": [],
-  "cf": [
-    "tall.2"
-  ],
   "signNumber": 4812,
   "recordNumber": 2905,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -48,11 +45,14 @@
     "2. (When talking of people, especially men) to have very large and strong shoulders. English = (be) broad-shouldered."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large distance when measured from one side to the other. English = width, broadness.",
     "2. A person, usually a male, who has a very large chest and strong shoulders."
   ],
   "idGloss": "broad.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tall.2"
+  ]
 }

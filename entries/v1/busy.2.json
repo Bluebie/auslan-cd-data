@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "busy"
   ],
   "deictic": [],
-  "cf": [
-    "horse.racing.2"
-  ],
   "signNumber": 3458,
   "recordNumber": 2018,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,8 +33,11 @@
     "1. To be working hard or concentrating on a task, so that you are not free to do anything else. English = (be) busy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "busy.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "horse.racing.2"
+  ]
 }

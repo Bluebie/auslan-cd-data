@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "witch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5313,
   "recordNumber": 3181,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who is believed to have magic powers, especially evil ones. English = witch."
   ],
   "idGloss": "witch.2",
-  "oldEntry": "Popular explanation: the hooked nose of a witch."
+  "oldEntry": "Popular explanation: the hooked nose of a witch.",
+  "seeAlso": []
 }

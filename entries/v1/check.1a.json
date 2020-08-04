@@ -25,9 +25,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "checking",
     "testing",
@@ -41,10 +41,6 @@
     "assess"
   ],
   "deictic": [],
-  "cf": [
-    "university.2",
-    "checked"
-  ],
   "signNumber": 6642,
   "recordNumber": 3955,
   "signVisualComposition": "SEE + PERHAPS",
@@ -65,7 +61,7 @@
     "4. Of a person, to have a doctor examine you to see if your health is all right. English = have a check-up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of making sure that something is satisfactory, safe, or correct. English = checking, testing, trialing.",
     "2. An experiment in which you test something. English = trial.",
@@ -73,5 +69,9 @@
     "4. An examination by a doctor to see if your health is all right. English = check-up."
   ],
   "idGloss": "check.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "university.2",
+    "checked"
+  ]
 }

@@ -10,8 +10,8 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can incorporate handshape numbers (typically only up to the number 5) for 'two more', 'three more', and so on.",
   "english": [
     "one more",
@@ -19,12 +19,9 @@
     "again"
   ],
   "deictic": [],
-  "cf": [
-    "two.more"
-  ],
   "signNumber": 692,
   "recordNumber": 399,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,8 +36,11 @@
     "1. To be one more of something; to be additional."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "one.more",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "two.more"
+  ]
 }

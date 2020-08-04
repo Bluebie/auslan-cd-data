@@ -16,9 +16,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "DISAPPROVE + DEPRESSED",
-  "queries": "",
+  "queries": null,
   "english": [
     "repression",
     "oppression",
@@ -26,10 +26,9 @@
     "oppress"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4952,
   "recordNumber": 2992,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,11 +46,12 @@
     "2. To treat a person or a group of people unfairly or cruelly. English = oppress."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The use of force to restrict and control a person or a group of people, especially the people of a country. English = repression.",
     "2. The unfair or cruel treatment of a person or a group of people. English = oppression."
   ],
   "idGloss": "repress",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

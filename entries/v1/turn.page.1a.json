@@ -13,8 +13,8 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with a more relaxed handshape on the dominant hand (e.g., the Eight handshape) and/or with the sign beginning with the middle fingertip on the lips.",
   "english": [
     "page",
@@ -22,12 +22,9 @@
     "browse"
   ],
   "deictic": [],
-  "cf": [
-    "dictionary.1"
-  ],
   "signNumber": 1865,
   "recordNumber": 1117,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,11 +38,14 @@
     "2. To turn over the pages of a book or magazine in order to have a quick glance at the contents. English = skim, flick through, browse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One side of one of the pieces of paper in a book, magazine, or newspaper. English = page.",
     "2. The pieces of paper that a book, magazine, or newspaper consist of. English = page."
   ],
   "idGloss": "turn.page.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dictionary.1"
+  ]
 }

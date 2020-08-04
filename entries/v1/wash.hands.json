@@ -12,22 +12,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wash",
     "wash hands"
   ],
   "deictic": [],
-  "cf": [
-    "bath.1a",
-    "wash.face",
-    "wash"
-  ],
   "signNumber": 4246,
   "recordNumber": 2573,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,8 +35,13 @@
     "1. To clean your hands by rubbing them together with water and soap; to wash your hands."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "wash.hands",
-  "oldEntry": "Popular explanation: washing one's hands."
+  "oldEntry": "Popular explanation: washing one's hands.",
+  "seeAlso": [
+    "bath.1a",
+    "wash.face",
+    "wash"
+  ]
 }

@@ -17,19 +17,18 @@
     "syn3",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "elastic",
     "rubber band",
     "elastic band"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1452,
   "recordNumber": 865,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -47,11 +46,12 @@
     "2. To stretch a piece of elastic or a rubber band."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic.",
     "2. A thin circle of rubber that you put around things in order to hold them together. English = rubber band, elastic band."
   ],
   "idGloss": "elastic.1",
-  "oldEntry": "Popular explanation: stretching elastic."
+  "oldEntry": "Popular explanation: stretching elastic.",
+  "seeAlso": []
 }

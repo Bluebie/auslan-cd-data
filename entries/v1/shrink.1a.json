@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shrinkage",
     "shrink"
   ],
   "deictic": [],
-  "cf": [
-    "summary"
-  ],
   "signNumber": 2643,
   "recordNumber": 1466,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -44,10 +41,13 @@
     "1. Of a cloth or clothes, to become smaller in size, usually as a result of being washed. English = shrink."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A decrease in the size or amount of something, especially clothes after they have been washed. English = shrinkage."
   ],
   "idGloss": "shrink.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "summary"
+  ]
 }

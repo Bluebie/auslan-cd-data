@@ -13,9 +13,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stirring",
     "mixing",
@@ -23,10 +23,9 @@
     "mix"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2166,
   "recordNumber": 1251,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. To mix a liquid inside a container by using something such as a spoon. English = stir, mix."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of mixing a liquid inside a container by using something such as a spoon. English = stirring, mixing."
   ],
   "idGloss": "stir.2",
-  "oldEntry": "Popular explanation: stirring something with an implement."
+  "oldEntry": "Popular explanation: stirring something with an implement.",
+  "seeAlso": []
 }

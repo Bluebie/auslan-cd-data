@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sink"
   ],
   "deictic": [],
-  "cf": [
-    "boat.1a",
-    "sink.1"
-  ],
   "signNumber": 4075.1,
   "recordNumber": 2443,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,8 +31,12 @@
     "1. Of a boat, to stop floating and to move slowly downwards below the level of the water. English = sink."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "boat.sink",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "boat.1a",
+    "sink.1"
+  ]
 }

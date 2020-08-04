@@ -10,15 +10,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pour",
     "tip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4606,
   "recordNumber": 2788,
   "signVisualComposition": "POUR + CONTAINER",
@@ -40,5 +39,6 @@
   "generalMeaning": "The act of emptying the contents of one container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "pour.into",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

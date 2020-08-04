@@ -11,21 +11,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "course"
   ],
   "deictic": [],
-  "cf": [
-    "list.2",
-    "subject",
-    "policy"
-  ],
   "signNumber": 4689,
   "recordNumber": 2833,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,10 +31,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A series of lessons or lectures on a particular subject. It usually includes reading and written work that student has to do. English = course."
   ],
   "idGloss": "course",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "list.2",
+    "subject",
+    "policy"
+  ]
 }

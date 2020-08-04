@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beans",
     "peas"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6427,
   "recordNumber": 3832,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -40,5 +39,6 @@
     "2. Small, round, green seeds which are eaten as a vegetable. English = peas."
   ],
   "idGloss": "beans.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

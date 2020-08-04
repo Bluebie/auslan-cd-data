@@ -28,9 +28,9 @@
     "engtf12",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "floundering",
     "helplessness",
@@ -46,12 +46,9 @@
     "awkward"
   ],
   "deictic": [],
-  "cf": [
-    "panic.1"
-  ],
   "signNumber": 2738,
   "recordNumber": 1527,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -67,7 +64,7 @@
     "4. To move or handle things in a careless, awkward way, often so that things are knocked over or broken. English = (be) clumsy, (be) awkward, (be) stilted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of moving in an energetic, uncontrolled way when you are in water in order to try not to sink. English = floundering.",
     "2. The feeling that you are unable to do anything to protect or save yourself, or to do the right thing in a situation. English = helplessness, floundering.",
@@ -75,5 +72,8 @@
     "4. Moving or handling things in a careless, awkward way, often so that things are knocked over or broken. English = clumsiness, awkwardness."
   ],
   "idGloss": "awkward.1a",
-  "oldEntry": "Popular explanation: thrashing in water."
+  "oldEntry": "Popular explanation: thrashing in water.",
+  "seeAlso": [
+    "panic.1"
+  ]
 }

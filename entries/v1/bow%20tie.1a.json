@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bow tie",
     "formal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1778,
   "recordNumber": 1072,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 2.2,
   "primaryLocation": 12,
@@ -37,11 +36,12 @@
     "2. Of an occasion, for example a dinner or a dance, at which people wear smart clothes. English = (be) formal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man's tie in the form of a bow, worn especially for formal occasions. English = bow tie.",
     "2. An occasion at which people wear smart clothes and behave carefully rather than in a casual way. English = formal."
   ],
   "idGloss": "bow tie.1a",
-  "oldEntry": "Popular explanation: the shape of a bow."
+  "oldEntry": "Popular explanation: the shape of a bow.",
+  "seeAlso": []
 }

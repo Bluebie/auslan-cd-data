@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corset"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2418,
   "recordNumber": 1338,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A stiff piece of underwear worn by some women. It fits tightly around their hips and waist and makes them appear slimmer. English = corset."
   ],
   "idGloss": "corset",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

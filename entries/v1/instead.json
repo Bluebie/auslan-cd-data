@@ -19,9 +19,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "substitution",
     "substitute",
@@ -31,13 +31,9 @@
     "instead"
   ],
   "deictic": [],
-  "cf": [
-    "swap.1a",
-    "postpone.1"
-  ],
   "signNumber": 401,
   "recordNumber": 220,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -54,11 +50,15 @@
     "2. To use one thing instead of a second thing. English = substitute, replace."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of putting one person or thing in the place of another person or thing. English = substitution, replacement.",
     "2. The person or thing that takes the place of or performs the function of a second person or thing. English = substitute, replacement."
   ],
   "idGloss": "instead",
-  "oldEntry": "Popular explanation: picking up and changing positions."
+  "oldEntry": "Popular explanation: picking up and changing positions.",
+  "seeAlso": [
+    "swap.1a",
+    "postpone.1"
+  ]
 }

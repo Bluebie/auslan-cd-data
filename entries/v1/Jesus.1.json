@@ -10,19 +10,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Jesus"
   ],
   "deictic": [],
-  "cf": [
-    "crucifixion"
-  ],
   "signNumber": 6518,
   "recordNumber": 3879,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 14,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The man who Christians believe was the son of God and whose teachings are the basis of Christianity, called Jesus."
   ],
   "idGloss": "Jesus.1",
-  "oldEntry": "Popular explanation: the wounds of crucifixion."
+  "oldEntry": "Popular explanation: the wounds of crucifixion.",
+  "seeAlso": [
+    "crucifixion"
+  ]
 }

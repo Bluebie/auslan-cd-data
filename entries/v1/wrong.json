@@ -16,22 +16,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mistake",
     "error",
     "wrong"
   ],
   "deictic": [],
-  "cf": [
-    "fail.1a",
-    "bad"
-  ],
   "signNumber": 4976,
   "recordNumber": 3005,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -48,10 +44,14 @@
     "2. To be bad or immoral. English = (be) wrong."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or an opinion that is wrong. English = mistake, error."
   ],
   "idGloss": "wrong",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fail.1a",
+    "bad"
+  ]
 }

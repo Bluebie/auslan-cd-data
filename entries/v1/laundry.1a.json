@@ -22,9 +22,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "laundry",
     "dry cleaner",
@@ -33,12 +33,9 @@
     "dry clean"
   ],
   "deictic": [],
-  "cf": [
-    "dye"
-  ],
   "signNumber": 5932,
   "recordNumber": 3530,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 16,
@@ -56,7 +53,7 @@
     "4. To use a washboard to wash clothes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A room in a house or hotel where clothes, sheets, and towels are washed. English = laundry.",
     "2. A firm that washes and irons clothes, sheets, and towels for people. English = laundry.",
@@ -64,5 +61,8 @@
     "4. A board or frame with corrugated metallic or other surface, on which clothes are scrubbed in the process of washing. English = washboard."
   ],
   "idGloss": "laundry.1a",
-  "oldEntry": "Popular explanation: using a washboard."
+  "oldEntry": "Popular explanation: using a washboard.",
+  "seeAlso": [
+    "dye"
+  ]
 }

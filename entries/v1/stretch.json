@@ -15,21 +15,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stretch",
     "elaborate",
     "exaggerate"
   ],
   "deictic": [],
-  "cf": [
-    "elastic.1"
-  ],
   "signNumber": 5859,
   "recordNumber": 3484,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -49,8 +46,11 @@
     "4. To give more details to a story or to make a thing that you are talking about bigger, better, or worse than it actually is. English = elaborate, exaggerate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "stretch",
-  "oldEntry": "Popular explanation: pulling apart or stretching something."
+  "oldEntry": "Popular explanation: pulling apart or stretching something.",
+  "seeAlso": [
+    "elastic.1"
+  ]
 }

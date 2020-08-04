@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sideward"
   ],
   "deictic": [],
-  "cf": [
-    "backward",
-    "forward.1"
-  ],
   "signNumber": 3757,
   "recordNumber": 2219,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,8 +35,12 @@
     "1. To go from or to the side of something or someone. English = go sidewards."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "sidewards",
-  "oldEntry": "Popular explanation: a surface moving sidewards."
+  "oldEntry": "Popular explanation: a surface moving sidewards.",
+  "seeAlso": [
+    "backward",
+    "forward.1"
+  ]
 }

@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "near"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 929,
   "recordNumber": 529,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -35,8 +34,9 @@
     "1. To be located only a short distance from something. English = (be) near."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "near.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,22 +11,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "country-wide",
     "national",
     "nationally"
   ],
   "deictic": [],
-  "cf": [
-    "tour.country",
-    "region.1a"
-  ],
   "signNumber": 2493,
   "recordNumber": 1383,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -44,8 +40,12 @@
     "2. Relating to the whole of a country. English = (be) national."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "country-wide",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tour.country",
+    "region.1a"
+  ]
 }

@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "soccer"
   ],
   "deictic": [],
-  "cf": [
-    "bounce.1a",
-    "football.2"
-  ],
   "signNumber": 5569,
   "recordNumber": 3294,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,10 +32,14 @@
     "1. To bounce the ball off your head in a game of soccer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A football game in which two teams of eleven players try to get the ball into their opponents' goal. Only the goalkeepers are allowed to touch the ball with their hands when the ball is on the pitch. English = soccer."
   ],
   "idGloss": "soccer.1",
-  "oldEntry": "Popular explanation: bouncing a ball-like object off the head."
+  "oldEntry": "Popular explanation: bouncing a ball-like object off the head.",
+  "seeAlso": [
+    "bounce.1a",
+    "football.2"
+  ]
 }

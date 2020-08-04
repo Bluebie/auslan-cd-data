@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "contemplate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5110,
   "recordNumber": 3084,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -37,8 +36,9 @@
     "2. To think about doing something. English = contemplate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "contemplate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

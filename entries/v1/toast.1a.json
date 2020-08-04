@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "toast",
     "toaster"
   ],
   "deictic": [],
-  "cf": [
-    "fork.1a"
-  ],
   "signNumber": 2286,
   "recordNumber": 1291,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -37,11 +34,14 @@
     "1. To cook bread at a very high temperature so that it becomes brown and crisp. English = toast."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Bread which has been cut into slices and made brown and crisp by cooking at a high temperature. English = toast.",
     "2. A piece of electrical equipment which you use to toast bread. English = toaster."
   ],
   "idGloss": "toast.1a",
-  "oldEntry": "Popular explanation: placing a fork in both sides of a slice of bread in order to toast it."
+  "oldEntry": "Popular explanation: placing a fork in both sides of a slice of bread in order to toast it.",
+  "seeAlso": [
+    "fork.1a"
+  ]
 }

@@ -14,20 +14,17 @@
     "matter"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "wool",
     "woollen",
     "woolly"
   ],
   "deictic": [],
-  "cf": [
-    "cotton"
-  ],
   "signNumber": 4045,
   "recordNumber": 2420,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,11 +37,14 @@
     "1. To be made of wool. English = (be) woollen, (be) woolly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hair that grows on sheep and other animals. English = wool.",
     "2. A material made from animals' wool. It is used for making things such as clothes, blankets, and carpets. English = wool."
   ],
   "idGloss": "wool.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "cotton"
+  ]
 }

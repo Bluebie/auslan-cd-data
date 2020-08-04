@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cruel",
     "mean"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4980,
   "recordNumber": 3008,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,8 +36,9 @@
     "1. To deliberately cause people or animals pain or distress. English = (be) cruel, (be) mean."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cruel.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

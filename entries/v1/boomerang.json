@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boomerang"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6376,
   "recordNumber": 3811,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
     "1. To throw a boomerang."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A curved piece of wood which comes back to you if you throw it the correct way. It was first used by Australian Aborigines as a weapon. English = boomerang."
   ],
   "idGloss": "boomerang",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

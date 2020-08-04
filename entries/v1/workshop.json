@@ -7,17 +7,16 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "WORK + SHOP",
-  "queries": "",
+  "queries": null,
   "english": [
     "workshop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4188,
   "recordNumber": 2535,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of discussion or practical work in which a group of people learn about a particular subject by sharing their knowledge or experience. English = workshop."
   ],
   "idGloss": "workshop",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

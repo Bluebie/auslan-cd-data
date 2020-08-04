@@ -14,9 +14,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "briefs",
     "underpants",
@@ -25,10 +25,9 @@
     "underwear"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3958,
   "recordNumber": 2362,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 17,
@@ -41,11 +40,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing you wear under your clothes. It has two holes to put your legs through and elastic around the top. English = briefs; underpants (usually men and boys); panties or knickers (usually women and girls).",
     "2. Clothing you wear under your clothes. English = underwear."
   ],
   "idGloss": "underwear.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

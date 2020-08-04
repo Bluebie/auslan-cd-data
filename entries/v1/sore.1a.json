@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pain",
     "sore",
@@ -37,12 +37,9 @@
     "harm"
   ],
   "deictic": [],
-  "cf": [
-    "expensive.1a"
-  ],
   "signNumber": 2524,
   "recordNumber": 1402,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -59,7 +56,7 @@
     "2. To cause pain to some part of someone's body. English = hurt, injure, harm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An unpleasant feeling of discomfort from a part of your body. English = pain.",
     "2. A painful place on your body where the skin is infected. English = sore.",
@@ -67,5 +64,8 @@
     "4. A damaged part of your body, especially a cut in your flesh, which is caused by a gun, knife, or other weapon. English = wound."
   ],
   "idGloss": "sore.1a",
-  "oldEntry": "Popular explanation: shaking a hand in pain."
+  "oldEntry": "Popular explanation: shaking a hand in pain.",
+  "seeAlso": [
+    "expensive.1a"
+  ]
 }

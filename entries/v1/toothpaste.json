@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "toothpaste"
   ],
   "deictic": [],
-  "cf": [
-    "toothbrush.1a"
-  ],
   "signNumber": 6226,
   "recordNumber": 3719,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -34,10 +31,13 @@
     "1. To put toothpaste on your toothbrush."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thick substance which you put on your toothbrush and use to clean your teeth. English = toothpaste."
   ],
   "idGloss": "toothpaste",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "toothbrush.1a"
+  ]
 }

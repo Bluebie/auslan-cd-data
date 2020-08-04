@@ -14,9 +14,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hold-up",
     "robbery",
@@ -24,12 +24,9 @@
     "stick up"
   ],
   "deictic": [],
-  "cf": [
-    "gun.1a"
-  ],
   "signNumber": 5227,
   "recordNumber": 3141,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "2. To draw pistols out of their holsters in order to threaten, challenge or shoot someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation in which someone is threatened with a weapon in order to make them hand over money. English = hold-up, stick-up, (armed) robbery."
   ],
   "idGloss": "hold.up",
-  "oldEntry": "Popular explanation: drawing guns from holsters."
+  "oldEntry": "Popular explanation: drawing guns from holsters.",
+  "seeAlso": [
+    "gun.1a"
+  ]
 }

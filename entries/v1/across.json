@@ -14,8 +14,8 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is usually made in a clearly defined context where relative spatial locations have already been established.",
   "english": [
     "crossing",
@@ -24,10 +24,9 @@
     "cross"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 801,
   "recordNumber": 455,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -45,10 +44,11 @@
     "1. To move from one side of an area or place (such as a road, room, or an area of land) to the other side. English = go across, cross."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where pedestrians can cross a street and where motorists must stop to let them cross. English = pedestrian crossing, crossing."
   ],
   "idGloss": "across",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

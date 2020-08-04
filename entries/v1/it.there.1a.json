@@ -19,8 +19,8 @@
     "deictic3",
     "deictic4"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with the upturned Flat handshape (i.e., palm facing upwards) with fingertips pointing away. This form is very polite and formal, and often found in public speaking.",
   "english": [
     "it",
@@ -40,10 +40,9 @@
     "2. Used to refer to a location or time that is not near either the signer or the person addressed. English = there (location), then (time).",
     "3. Used to refer to some other but particular and special thing or person and is used alone or next to a noun. The signer expects the addressee to know which one. English = the, this, that."
   ],
-  "cf": [],
   "signNumber": 763,
   "recordNumber": 439,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -54,8 +53,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "it.there.1a",
-  "oldEntry": "Popular explanation: culturally shared gesture of pointing."
+  "oldEntry": "Popular explanation: culturally shared gesture of pointing.",
+  "seeAlso": []
 }

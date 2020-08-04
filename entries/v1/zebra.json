@@ -7,19 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "zebra"
   ],
   "deictic": [],
-  "cf": [
-    "stripes"
-  ],
   "signNumber": 1611,
   "recordNumber": 959,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,5 +32,8 @@
     "1. An African wild animal which looks like a horse with black and white stripes on its body. English = zebra."
   ],
   "idGloss": "zebra",
-  "oldEntry": "Popular explanation: stripes."
+  "oldEntry": "Popular explanation: stripes.",
+  "seeAlso": [
+    "stripes"
+  ]
 }

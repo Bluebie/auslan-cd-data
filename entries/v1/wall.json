@@ -7,17 +7,16 @@
     "onehand",
     "transl"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wall"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3198,
   "recordNumber": 1856,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the vertical sides of a building or room; a long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall."
   ],
   "idGloss": "wall",
-  "oldEntry": "Popular explanation: the line of a vertical flat surface."
+  "oldEntry": "Popular explanation: the line of a vertical flat surface.",
+  "seeAlso": []
 }

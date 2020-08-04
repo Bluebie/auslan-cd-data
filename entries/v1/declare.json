@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "declare"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5390,
   "recordNumber": 3220,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -31,8 +30,9 @@
     "1. In cricket, to close an innings voluntarily before all ten wickets have fallen. English = declare."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "declare",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

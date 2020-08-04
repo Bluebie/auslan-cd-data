@@ -13,20 +13,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "loneliness",
     "lonely"
   ],
   "deictic": [],
-  "cf": [
-    "single.1a"
-  ],
   "signNumber": 2801,
   "recordNumber": 1569,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 16,
@@ -41,10 +38,13 @@
     "1. To be unhappy because you are alone or do not have any friends. English = (be) lonely."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of unhappiness you have because you are alone or do not have any friends. English = loneliness."
   ],
   "idGloss": "lonely.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "single.1a"
+  ]
 }

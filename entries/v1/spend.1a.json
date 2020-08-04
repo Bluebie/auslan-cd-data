@@ -21,9 +21,9 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "PAY + SEND OUT",
-  "queries": "",
+  "queries": null,
   "english": [
     "expenses",
     "expenditure",
@@ -31,12 +31,9 @@
     "spend"
   ],
   "deictic": [],
-  "cf": [
-    "spendthrift"
-  ],
   "signNumber": 6245,
   "recordNumber": 3731,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -53,12 +50,15 @@
     "2. To be worth spending money one, to be valuable in monetary terms."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of paying money for things that you want.",
     "2. The money that you pay for things. English = expenses, expenditure.",
     "3. Money that you spend while doing something connected with your work and which is paid back to you afterwards. English = expenses."
   ],
   "idGloss": "spend.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "spendthrift"
+  ]
 }

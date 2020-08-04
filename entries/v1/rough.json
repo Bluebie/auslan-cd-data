@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "roughness",
     "crudeness",
@@ -40,10 +40,9 @@
     "violent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3424,
   "recordNumber": 1997,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -63,12 +62,13 @@
     "3. To behave in a way that is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = (be) violent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which uses a lot of force and not enough care and gentleness. English = roughness.",
     "2. Behaviour that is lacking in manners or is simple and unsophisticated. English = crudeness, uncouthness, vulgarity.",
     "3. Behaviour which is intended to hurt or kill people, for example by hitting or kicking or using guns or bombs. English = violence."
   ],
   "idGloss": "rough",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

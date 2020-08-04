@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hour"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1289,
   "recordNumber": 768,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the twenty-four equal parts that a day is divided into. It is made up of sixty minutes. English = hour."
   ],
   "idGloss": "hour.1a",
-  "oldEntry": "Popular explanation: the hand of the clock moving an hour."
+  "oldEntry": "Popular explanation: the hand of the clock moving an hour.",
+  "seeAlso": []
 }

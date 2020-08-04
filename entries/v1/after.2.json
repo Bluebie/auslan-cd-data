@@ -12,16 +12,15 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "after"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6109,
   "recordNumber": 3635,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "after.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

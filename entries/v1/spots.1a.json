@@ -23,8 +23,8 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "specks",
     "speckles",
@@ -36,12 +36,9 @@
     "dotted"
   ],
   "deictic": [],
-  "cf": [
-    "freckles"
-  ],
   "signNumber": 3101,
   "recordNumber": 1785,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -58,11 +55,14 @@
     "3. To have lots of little round marks or shapes on a surface, especially as a design on a fabric. English = (be) spotted, (be) dotted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Lots of tiny little marks on a surface. English = specks, speckles.",
     "2. Lots of tiny little round marks or shapes on a surface. English = spots, dots."
   ],
   "idGloss": "spots.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "freckles"
+  ]
 }

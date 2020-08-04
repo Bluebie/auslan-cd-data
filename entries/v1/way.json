@@ -14,21 +14,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "STREET + W",
-  "queries": "",
+  "queries": null,
   "english": [
     "way"
   ],
   "deictic": [],
-  "cf": [
-    "lane.1",
-    "road",
-    "avenue.1"
-  ],
   "signNumber": 2274,
   "recordNumber": 1285,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 3.1,
   "primaryLocation": 16,
@@ -41,12 +36,17 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The route that you must follow in order to get to a particular place. English = way.",
     "2. How you can do something. English = way.",
     "3. Of a particular person or group of people, their customs or their usual behaviour. English = way."
   ],
   "idGloss": "way",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lane.1",
+    "road",
+    "avenue.1"
+  ]
 }

@@ -14,22 +14,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crucifixion",
     "crucify"
   ],
   "deictic": [],
-  "cf": [
-    "Jesus.1",
-    "crucifix",
-    "Calvary"
-  ],
   "signNumber": 6046,
   "recordNumber": 3599,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -42,10 +37,15 @@
     "1. To kill someone by tying or nailing them to a cross and leaving them there to die. English = crucify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A way of killing people which was common in the Roman Empire, in which they were tied or nailed to a cross and left there to die. English = crucifixion."
   ],
   "idGloss": "crucifixion",
-  "oldEntry": "Popular explanation: hammer into the palm."
+  "oldEntry": "Popular explanation: hammer into the palm.",
+  "seeAlso": [
+    "Jesus.1",
+    "crucifix",
+    "Calvary"
+  ]
 }

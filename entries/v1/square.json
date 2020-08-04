@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "square"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 739,
   "recordNumber": 424,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,10 +34,11 @@
     "1. To be or have a shape which is the same or similar to a square. English = (be) square."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shape with four sides of the same length and four corners that are all right angles. English = square."
   ],
   "idGloss": "square",
-  "oldEntry": "Popular explanation: the outline of a square."
+  "oldEntry": "Popular explanation: the outline of a square.",
+  "seeAlso": []
 }

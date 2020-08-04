@@ -25,8 +25,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "wilfulness",
     "obstinacy",
@@ -41,10 +41,9 @@
     "on purpose"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 593,
   "recordNumber": 341,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -66,11 +65,12 @@
     "3. Of someone's character, to be determined to get what you want and to do things in your own way. English = (be) wilful, (be) headstrong, (be) obstinate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The determination to get what you want and to do things in your own way, often knowing you may hurt someone else. English = wilfulness.",
     "2. The strong determination that someone has to do exactly what they want and not to change their mind or be persuaded to do anything else. English = obstinacy."
   ],
   "idGloss": "wilful",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

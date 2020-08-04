@@ -18,22 +18,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "venetian blind",
     "louvre",
     "louvred"
   ],
   "deictic": [],
-  "cf": [
-    "blind.2",
-    "vertical blinds"
-  ],
   "signNumber": 3740,
   "recordNumber": 2207,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,11 +45,15 @@
     "2. Of a window or door, to have flat, sloping pieces of wood or glass across its frame. English = (be) louvred."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A window covering made of thin horizontal strips of wood, plastic, or metal. The strips can be turned to a different angle in order to let in more or less light. English = Venetian blind.",
     "2. A door or window with flat, sloping pieces of wood or glass across its frame. English = louvred window, louvres, louvred door."
   ],
   "idGloss": "venetian.blinds.1",
-  "oldEntry": "Popular explanation: the slats of a venetian blind."
+  "oldEntry": "Popular explanation: the slats of a venetian blind.",
+  "seeAlso": [
+    "blind.2",
+    "vertical blinds"
+  ]
 }

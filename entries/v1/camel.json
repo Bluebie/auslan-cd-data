@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "camel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4527,
   "recordNumber": 2747,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,5 +32,6 @@
     "1. A large animal that lives in deserts. It has a long neck, and one or two humps on its back. English = camel."
   ],
   "idGloss": "camel",
-  "oldEntry": "Popular explanation: the humps of a camel."
+  "oldEntry": "Popular explanation: the humps of a camel.",
+  "seeAlso": []
 }

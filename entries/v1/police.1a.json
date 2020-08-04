@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "police",
     "policeman",
@@ -22,10 +22,9 @@
     "police officer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4652,
   "recordNumber": 2812,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,12 +37,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The official organisation that is responsible for making sure that people obey the law. English = police.",
     "2. The men and women who are members of the police. English = police.",
     "3. A man or woman who is a member of the police force. English = police officer, policeman, policewoman."
   ],
   "idGloss": "police.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

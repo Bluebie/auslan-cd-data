@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "member",
     "join"
   ],
   "deictic": [],
-  "cf": [
-    "inside.1a"
-  ],
   "signNumber": 4383,
   "recordNumber": 2671,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.4,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To join an organisation, to become a member."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has joined an organisation. English = member."
   ],
   "idGloss": "member.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "inside.1a"
+  ]
 }

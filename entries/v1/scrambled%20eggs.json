@@ -7,14 +7,13 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scrambled eggs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3050,
   "recordNumber": 1748,
   "signVisualComposition": "MIX + EGGS",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A food which is made of eggs mixed together and then cooked in a pan. English = scrambled eggs."
   ],
   "idGloss": "scrambled eggs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

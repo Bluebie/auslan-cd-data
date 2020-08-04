@@ -30,9 +30,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "indifference",
     "carelessness",
@@ -48,12 +48,9 @@
     "reckless"
   ],
   "deictic": [],
-  "cf": [
-    "dismiss"
-  ],
   "signNumber": 5124,
   "recordNumber": 3094,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -75,7 +72,7 @@
     "4. To move or handle things in a careless, awkward way, often so that things are knocked over or broken. English = (be) clumsy, (be) reckless."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of having no particular interest or concern in something. English = indifference.",
     "2. Behaviour that shows little concern or interest; behaviour that shows little concern for the consequences or risks of actions. English = carelessness; recklessness.",
@@ -83,5 +80,8 @@
     "4. Behaviour which is careless and awkward and often results in things being knocked over or broken. English = clumsiness, recklessness."
   ],
   "idGloss": "not.care.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dismiss"
+  ]
 }

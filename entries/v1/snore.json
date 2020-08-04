@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "snore",
     "boring",
     "bored"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4209,
   "recordNumber": 2545,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "3. To feel tired and impatient because you have lost interest in something or because you have nothing to do. English = (be) bored."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sound made when you make a loud noise every time you breath when you are asleep. English = snore."
   ],
   "idGloss": "snore",
-  "oldEntry": "Popular explanation: the letter 'z' as in a comic-book representation of snoring."
+  "oldEntry": "Popular explanation: the letter 'z' as in a comic-book representation of snoring.",
+  "seeAlso": []
 }

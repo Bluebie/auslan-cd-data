@@ -13,20 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "licence",
     "licensed"
   ],
   "deictic": [],
-  "cf": [
-    "certificate.2"
-  ],
   "signNumber": 5376,
   "recordNumber": 3211,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 15,
@@ -41,10 +38,13 @@
     "1. To have an official document which gives you permission to do, used, or own something, especially drive a car. English = (be) licensed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An official document which gives you permission to do, use, or own something, especially drive a car. English = licence."
   ],
   "idGloss": "licence.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "certificate.2"
+  ]
 }

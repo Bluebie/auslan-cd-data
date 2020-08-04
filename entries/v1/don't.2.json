@@ -10,20 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "don't",
     "not"
   ],
   "deictic": [],
-  "cf": [
-    "no.way.1a"
-  ],
   "signNumber": 731,
   "recordNumber": 422,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,8 +37,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "don't.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "no.way.1a"
+  ]
 }

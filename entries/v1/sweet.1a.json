@@ -18,9 +18,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sweetness",
     "sweets",
@@ -29,10 +29,9 @@
     "delicious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4742,
   "recordNumber": 2866,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -53,11 +52,12 @@
     "3. Of a person, to be pleasant, gentle and kind to other people. English = (be) sweet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The taste of food or drink that contains a lot of sugar. English = sweetness.",
     "2. Something sweet, such as a fruit or pudding, that you eat at the end of a meal. English = sweets, dessert."
   ],
   "idGloss": "sweet.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

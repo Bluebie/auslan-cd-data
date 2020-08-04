@@ -13,18 +13,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "government",
     "govern"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2889,
   "recordNumber": 1630,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. To rule a country, for example by making and revising the laws, managing the economy, and controlling public services. English = govern."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The group of people who are responsible for governing a country or a state. English = government."
   ],
   "idGloss": "government.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

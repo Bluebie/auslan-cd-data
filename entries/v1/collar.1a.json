@@ -9,20 +9,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "collar",
     "collared"
   ],
   "deictic": [],
-  "cf": [
-    "priest.1a"
-  ],
   "signNumber": 5323,
   "recordNumber": 3186,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -35,10 +32,13 @@
     "1. Of a shirt or coat, to have a collar. English = (be) collared."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of a shirt or coat which fits round the neck and is usually folded over. English = collar."
   ],
   "idGloss": "collar.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "priest.1a"
+  ]
 }

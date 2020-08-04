@@ -12,17 +12,16 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "OLD + MOTHER",
-  "queries": "",
+  "queries": null,
   "english": [
     "grandmother"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2139,
   "recordNumber": 1238,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 5,
@@ -38,10 +37,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The mother of your father or mother. English = grandmother."
   ],
   "idGloss": "grandmother.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

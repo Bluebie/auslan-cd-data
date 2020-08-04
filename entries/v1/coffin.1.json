@@ -11,18 +11,14 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coffin",
     "inter"
   ],
   "deictic": [],
-  "cf": [
-    "box",
-    "bury.1a"
-  ],
   "signNumber": 3952,
   "recordNumber": 2356,
   "signVisualComposition": "BURY + BOX",
@@ -38,10 +34,14 @@
     "1. To put a dead body into a coffin and bury them. Formal English = inter."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A box in which a dead body is buried or cremated. English = coffin."
   ],
   "idGloss": "coffin.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "box",
+    "bury.1a"
+  ]
 }

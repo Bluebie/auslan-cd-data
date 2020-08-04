@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drive in"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4073,
   "recordNumber": 2441,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To park your car in a drive in cinema in preparation for watching a film."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A cinema where people can stay in their cars while they watch the movie. English = drive in cinema, drive in."
   ],
   "idGloss": "drive.in-cinema.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crown",
     "coronation"
   ],
   "deictic": [],
-  "cf": [
-    "king"
-  ],
   "signNumber": 2388,
   "recordNumber": 1317,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 1,
@@ -40,11 +37,14 @@
     "1. To place a crown on the head of someone as part of a ceremony in which they are officially made king or queen. English = crown."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A circular ornament for the head, usually made of gold and precious jewels. Kings and queens wear one at official ceremonies. English = crown.",
     "2. The ceremony in which a person is crowned. English = coronation."
   ],
   "idGloss": "crown.1",
-  "oldEntry": "Popular explanation: a crown on one's head."
+  "oldEntry": "Popular explanation: a crown on one's head.",
+  "seeAlso": [
+    "king"
+  ]
 }

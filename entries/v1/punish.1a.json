@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "punishment",
     "caning",
@@ -28,10 +28,9 @@
     "cane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5997,
   "recordNumber": 3570,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,11 +48,12 @@
     "2. To punish someone, especially a child at a school, by hitting them with a stick made of the long, hollow stems of a plant such as bamboo. English = cane, give someone the cane."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Things done to someone to make them suffer because they have done something wrong. English = punishment.",
     "2. The hitting of someone, especially a child at a school, using a stick made of the long, hollow stems of a plant such as bamboo. English = caning."
   ],
   "idGloss": "punish.1a",
-  "oldEntry": "Popular explanation: caning a palm."
+  "oldEntry": "Popular explanation: caning a palm.",
+  "seeAlso": []
 }

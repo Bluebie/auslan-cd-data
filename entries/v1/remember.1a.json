@@ -25,9 +25,9 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "remembrance",
     "recollection",
@@ -40,14 +40,9 @@
     "memorise"
   ],
   "deictic": [],
-  "cf": [
-    "prize",
-    "souvenir",
-    "resolute"
-  ],
   "signNumber": 22,
   "recordNumber": 13,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -66,7 +61,7 @@
     "2. To learn something thoroughly so that you can remember it exactly. English = memorise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The bringing back into your mind the thought or impression of something that happened in the past. English = remembrance, recollection.",
     "2. Your ability to remember things. English = memory, recall.",
@@ -74,5 +69,10 @@
     "4. The learning of something exactly so that you can remember it exactly. English = memorisation."
   ],
   "idGloss": "remember.1a",
-  "oldEntry": "Popular explanation: to hold something in the mind."
+  "oldEntry": "Popular explanation: to hold something in the mind.",
+  "seeAlso": [
+    "prize",
+    "souvenir",
+    "resolute"
+  ]
 }

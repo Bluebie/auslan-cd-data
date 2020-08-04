@@ -25,9 +25,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "average",
     "approximation",
@@ -40,12 +40,9 @@
     "indecisive"
   ],
   "deictic": [],
-  "cf": [
-    "middle"
-  ],
   "signNumber": 4316,
   "recordNumber": 2631,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,7 +63,7 @@
     "4. To be unable to come to a decision, to keep on changing your opinion. English = vacillate, (be) indecisive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The result that you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = average.",
     "2. A number, time, or position for something that is correct but not exact. English = approximation.",
@@ -74,5 +71,8 @@
     "4. The quality of being unable to come to a decision about something. English = vacillation, indecision."
   ],
   "idGloss": "approximate.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "middle"
+  ]
 }

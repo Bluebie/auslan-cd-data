@@ -22,8 +22,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "disconnection",
     "termination",
@@ -32,10 +32,9 @@
     "terminate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1678,
   "recordNumber": 1002,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -57,12 +56,13 @@
     "3. To end something completely. English = terminate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a piece of equipment, the act of detaching it from its source of power, such as a gas or electricity supply. English = disconnection.",
     "2. The act of turning off the connection to your house of the gas, electricity, water, or telephone. English = disconnection.",
     "3. The complete end of something. English = termination."
   ],
   "idGloss": "disconnect.1",
-  "oldEntry": "Popular explanation: cutting a wire with a pair of scissors."
+  "oldEntry": "Popular explanation: cutting a wire with a pair of scissors.",
+  "seeAlso": []
 }

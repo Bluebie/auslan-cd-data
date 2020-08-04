@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BEFORE.THAT = WEEK",
-  "queries": "",
+  "queries": null,
   "english": [
     "week",
     "last week"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1031,
   "recordNumber": 603,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -45,11 +44,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of seven days before the time of speaking.",
     "2. A period of seven days before another day already specified in the past or future."
   ],
   "idGloss": "one.week.before",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

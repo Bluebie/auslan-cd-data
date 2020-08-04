@@ -14,21 +14,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drawing",
     "sketch",
     "draw"
   ],
   "deictic": [],
-  "cf": [
-    "portrait"
-  ],
   "signNumber": 2133,
   "recordNumber": 1235,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -44,11 +41,14 @@
     "2. To produce a picture quickly and without a lot of details. English = sketch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A picture which someone has made with a pencil, pen or crayon. English = drawing.",
     "2. A drawing that is done quickly without a lot of details. English = sketch."
   ],
   "idGloss": "draw.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "portrait"
+  ]
 }

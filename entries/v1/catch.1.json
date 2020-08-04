@@ -15,22 +15,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "catch",
     "full-back",
     "caught out"
   ],
   "deictic": [],
-  "cf": [
-    "grab",
-    "capture.1"
-  ],
   "signNumber": 2641,
   "recordNumber": 1464,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -46,11 +42,15 @@
     "2. In cricket, when the fieldsman catches a ball that has just been hit by a batsman and has not yet touched the ground, the batsman has to stop playing and is replaced by another member from his team. English = (be) caught out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of seizing an object which is moving through the air with your hands. English = catch.",
     "2. In rugby, a defending player who plays close to the goal or line that he or she is defending. English = full-back."
   ],
   "idGloss": "catch.1",
-  "oldEntry": "Popular explanation: catching something."
+  "oldEntry": "Popular explanation: catching something.",
+  "seeAlso": [
+    "grab",
+    "capture.1"
+  ]
 }

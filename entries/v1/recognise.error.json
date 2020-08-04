@@ -11,14 +11,13 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "admission"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1197,
   "recordNumber": 702,
   "signVisualComposition": "SEE + FAULT",
@@ -37,11 +36,12 @@
     "2. To acknowledge an error or mistake (and admit that you are wrong)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The recognition of an error or a mistake.",
     "2. The acknowledgment of an error or mistake, particularly when you are in the wrong. English = admission."
   ],
   "idGloss": "recognise.error",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

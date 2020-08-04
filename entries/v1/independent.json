@@ -9,20 +9,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "independence",
     "independent"
   ],
   "deictic": [],
-  "cf": [
-    "itself.1a"
-  ],
   "signNumber": 706,
   "recordNumber": 408,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,10 +34,13 @@
     "1. To exist, happen, or act separately from other people, groups, or things; (of countries), to be not ruled by other countries and to have their own government and laws. English = (be) independent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact of existing, happening, or acting separately from other people, groups, or things. Used especially when a country rules itself. English = independence."
   ],
   "idGloss": "independent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "itself.1a"
+  ]
 }

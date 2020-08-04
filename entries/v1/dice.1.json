@@ -15,9 +15,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dice",
     "gambling",
@@ -25,12 +25,9 @@
     "gamble"
   ],
   "deictic": [],
-  "cf": [
-    "bet.2a"
-  ],
   "signNumber": 6117,
   "recordNumber": 3642,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,12 +41,15 @@
     "2. To play games of chance with dice and make bets. English = gamble."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small cube made of wood or plastic, which has from one to six spots on each of its six sides. You throw it in games to decide, for example, who will start the game first or how many moves you can make. English = dice.",
     "2. Games of chance in which people use dice and make bets. English = gambling.",
     "3. A building or a room where people play gambling games such as roulette. English = casino."
   ],
   "idGloss": "dice.1",
-  "oldEntry": "Popular explanation: shaking and throwing dice."
+  "oldEntry": "Popular explanation: shaking and throwing dice.",
+  "seeAlso": [
+    "bet.2a"
+  ]
 }

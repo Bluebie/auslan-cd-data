@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "short-hair"
   ],
   "deictic": [],
-  "cf": [
-    "curly",
-    "curl.1a"
-  ],
   "signNumber": 3195,
   "recordNumber": 1855,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -38,10 +34,14 @@
     "1. To have short hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Hair which is worn short."
   ],
   "idGloss": "short-hair",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "curly",
+    "curl.1a"
+  ]
 }

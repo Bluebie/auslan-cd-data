@@ -14,21 +14,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "companion",
     "party",
     "go with"
   ],
   "deictic": [],
-  "cf": [
-    "with.1a"
-  ],
   "signNumber": 2026.1,
   "recordNumber": 1188,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 14,
@@ -42,11 +39,14 @@
     "2. To move together as a group, go as a party."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A friend you have with you when you travel. English = companion.",
     "2. Two or more people who are going somewhere together. English = party."
   ],
   "idGloss": "go.with.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "with.1a"
+  ]
 }

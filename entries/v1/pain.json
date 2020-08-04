@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pain",
     "throb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1078,
   "recordNumber": 633,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. To feel a series of strong beats or dull pains in your body. English = throb."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An unpleasant feeling you have in your body because you are ill or have been hurt. English = pain.",
     "2. A series of strong beats or dull pains in your body. English = throb."
   ],
   "idGloss": "pain",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

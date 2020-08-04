@@ -19,9 +19,9 @@
     "engtf7",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "handicap",
     "disability",
@@ -32,12 +32,9 @@
     "lame"
   ],
   "deictic": [],
-  "cf": [
-    "limp"
-  ],
   "signNumber": 1095,
   "recordNumber": 643,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -51,12 +48,15 @@
     "2. To have a disability which makes it difficult to move your body, especially by walking, because it is weak, injured, or affected by disease. English = (be) crippled, (be) lame."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A physical or mental condition which prevents you from living a totally normal life. English = handicap, disability.",
     "2. A disability which makes it difficult to move your body, especially by walking, because your body is weak, injured, or affected by disease.",
     "3. A person who finds it difficult to move their body, especially by walking, because they are weak, injured, or affected by disease. English = cripple."
   ],
   "idGloss": "handicapped",
-  "oldEntry": "Popular explanation: a leg limping."
+  "oldEntry": "Popular explanation: a leg limping.",
+  "seeAlso": [
+    "limp"
+  ]
 }

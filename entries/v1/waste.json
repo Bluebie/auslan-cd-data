@@ -12,21 +12,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "waste",
     "squander"
   ],
   "deictic": [],
-  "cf": [
-    "spoil.1a",
-    "yearn"
-  ],
   "signNumber": 171,
   "recordNumber": 96,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -41,10 +37,14 @@
     "1. To use too much material, time, money, or energy on something that is not important or necessary. English = waste. Formal English = squander."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Excess material, time, money, or energy that is not used at all or not used properly when it should have been. English = waste."
   ],
   "idGloss": "waste",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "spoil.1a",
+    "yearn"
+  ]
 }

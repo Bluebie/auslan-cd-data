@@ -11,22 +11,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "second rower",
     "second row forward"
   ],
   "deictic": [],
-  "cf": [
-    "lock.2",
-    "five-eighth",
-    "breakaway"
-  ],
   "signNumber": 1686.1,
   "recordNumber": 1009,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 4,
   "primaryLocation": 15,
@@ -37,10 +32,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In rugby, either of the two forwards who pack down in the second row of a rugby scrum. English = second rower, second row forward."
   ],
   "idGloss": "second rower",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lock.2",
+    "five-eighth",
+    "breakaway"
+  ]
 }

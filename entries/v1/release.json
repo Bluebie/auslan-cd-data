@@ -22,9 +22,9 @@
     "engtf11",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "release",
     "freeing",
@@ -39,10 +39,9 @@
     "deliverance"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5754,
   "recordNumber": 3409,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -59,11 +58,12 @@
     "3. To release or save from evil. Formal religious English = deliver."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The setting free of a person or animal, especially a person from gaol. English = release, freeing, liberation.",
     "2. The escape of someone from bondage, or the saving of someone. Formal English = deliverance."
   ],
   "idGloss": "release",
-  "oldEntry": "Popular explanation: the bound hands becoming released."
+  "oldEntry": "Popular explanation: the bound hands becoming released.",
+  "seeAlso": []
 }

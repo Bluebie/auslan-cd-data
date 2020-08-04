@@ -12,19 +12,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "clay",
     "dough",
     "knead"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3051,
   "recordNumber": 1749,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -39,12 +38,13 @@
     "1. To press and squeeze dough or clay so that it becomes smooth and ready to cook or work with. English = knead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mass of something soft, such as wet earth or wet flour, that you can squeeze or knead with your fingers.",
     "2. A substance found in the ground that is soft when it is wet and hard when it is dry. It is used to make things such as pots. English = clay.",
     "3. A mixture of flour and water, and sometimes also sugar and fat, which can be cooked to make bread, pastry, or biscuits. English = dough."
   ],
   "idGloss": "clay",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

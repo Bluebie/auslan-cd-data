@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "weather",
     "climate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2607,
   "recordNumber": 1446,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 8,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of the atmosphere, for example whether it is raining, sunny, hot, or windy in an area at a particular time. English = weather.",
     "2. The general weather conditions that are typical of a place. English = climate."
   ],
   "idGloss": "weather.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

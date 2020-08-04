@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pouch"
   ],
   "deictic": [],
-  "cf": [
-    "at.heart"
-  ],
   "signNumber": 4385,
   "recordNumber": 2672,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.4,
   "primaryLocation": 15,
@@ -40,5 +37,8 @@
     "2. A pocket of skin on some animals. Female kangaroos have them on their stomachs in which their babies grow. English = pouch."
   ],
   "idGloss": "pouch",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "at.heart"
+  ]
 }

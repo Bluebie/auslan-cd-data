@@ -7,19 +7,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tunnel",
     "pipe",
     "tube"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4588,
   "recordNumber": 2778,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -33,5 +32,6 @@
   "generalMeaning": "Any long, thick, hollow cylindrical object, or any thing or action directly or indirectly associated with this, such as a tunnel, pipe, tube.",
   "nominalLexeme": [],
   "idGloss": "tube",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

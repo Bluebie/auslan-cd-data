@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "COUSIN + U",
-  "queries": "",
+  "queries": null,
   "english": [
     "uncle"
   ],
   "deictic": [],
-  "cf": [
-    "cousin"
-  ],
   "signNumber": 1926,
   "recordNumber": 1151,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,10 +33,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The brother of your mother or father, or the husband of your aunt. English = uncle."
   ],
   "idGloss": "uncle.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "cousin"
+  ]
 }

@@ -11,14 +11,13 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "swimming trunks"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3910,
   "recordNumber": 2329,
   "signVisualComposition": "SWIM + SHORTS",
@@ -36,10 +35,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The shorts that a man wears when he goes swimming. English = swimming trunks."
   ],
   "idGloss": "swimming trunks",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

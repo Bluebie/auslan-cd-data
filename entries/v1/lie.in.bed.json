@@ -9,19 +9,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bedridden"
   ],
   "deictic": [],
-  "cf": [
-    "get.into.bed.1a"
-  ],
   "signNumber": 1694,
   "recordNumber": 1013,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,8 +34,11 @@
     "2. To be so ill or disabled that you cannot get out of bed. English = (be) bedridden"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lie.in.bed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "get.into.bed.1a"
+  ]
 }

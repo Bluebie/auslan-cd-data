@@ -9,17 +9,16 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "general"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3739,
   "recordNumber": 2206,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,8 +36,9 @@
     "1. To be something that belongs or relates to the whole of something rather than to its details or parts. English = (be) general."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "general.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

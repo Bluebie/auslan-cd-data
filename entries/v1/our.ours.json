@@ -11,9 +11,9 @@
     "cf3",
     "deictic2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "our",
     "ours"
@@ -22,14 +22,9 @@
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is owned or possessed by the person or thing this sign is directed towards.",
     "In this case, the thing belongs or relates to the signer and a group including the signer. English = our, ours."
   ],
-  "cf": [
-    "your.yours.1a",
-    "your.yours.2a",
-    "my.mine.1a"
-  ],
   "signNumber": 5756,
   "recordNumber": 3410,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -40,8 +35,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "our.ours",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "your.yours.1a",
+    "your.yours.2a",
+    "my.mine.1a"
+  ]
 }

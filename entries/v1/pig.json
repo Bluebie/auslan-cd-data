@@ -13,17 +13,16 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "pig",
     "pork"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5573,
   "recordNumber": 3298,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pink or black animal with short legs and not much hair on its skin. They are often kept on farms for their meat. English = pig.",
     "2. Meat from a pig which is eaten as a food, especially if it is fresh and not smoked or salted. English = pork."
   ],
   "idGloss": "pig",
-  "oldEntry": "Popular explanation: the snout of a pig."
+  "oldEntry": "Popular explanation: the snout of a pig.",
+  "seeAlso": []
 }

@@ -6,16 +6,15 @@
     "engtf1"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "museum"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1403,
   "recordNumber": 834,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -26,10 +25,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building where large numbers of interesting and valuable objects are kept and displayed to the public. English = museum."
   ],
   "idGloss": "museum",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,20 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cock",
     "dick"
   ],
   "deictic": [],
-  "cf": [
-    "penis.1"
-  ],
   "signNumber": 4631,
   "recordNumber": 2806,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 16,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man's penis. A vulgar sign. English = cock, dick."
   ],
   "idGloss": "cock.1a",
-  "oldEntry": "Popular explanation: the form of a penis."
+  "oldEntry": "Popular explanation: the form of a penis.",
+  "seeAlso": [
+    "penis.1"
+  ]
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not yet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5666,
   "recordNumber": 3357,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,8 +35,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.yet.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

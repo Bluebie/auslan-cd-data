@@ -13,9 +13,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "upset",
     "queasy",
@@ -23,12 +23,9 @@
     "uneasy"
   ],
   "deictic": [],
-  "cf": [
-    "vomit.1a"
-  ],
   "signNumber": 326,
   "recordNumber": 182,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,8 +44,11 @@
     "2. To be unhappy or disappointed because something unpleasant has happened to you. English = (be) upset, (be) shocked, (be) uneasy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "upset.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "vomit.1a"
+  ]
 }

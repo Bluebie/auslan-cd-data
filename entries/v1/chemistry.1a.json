@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chemistry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4602,
   "recordNumber": 2785,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The scientific study of the characteristics and composition of substances and of the ways they react with other substances. English = chemistry."
   ],
   "idGloss": "chemistry.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,19 +14,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "university",
     "mortarboard",
     "graduate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 822,
   "recordNumber": 469,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 2,
@@ -41,12 +40,13 @@
     "1. To successfully complete a degree course and receive a certificate that shows this. English = graduate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An educational institution where students study for degrees and where academic research is done. English = university.",
     "2. A stiff black cap with a flat, square top and a tassel hanging from it. It is sometimes worn on formal occasions by university students and teachers. English = mortarboard.",
     "3. A person who has successfully completed a degree course and received a certificate that shows this. English = graduate."
   ],
   "idGloss": "university.1",
-  "oldEntry": "Popular explanation: the outline of a mortar board."
+  "oldEntry": "Popular explanation: the outline of a mortar board.",
+  "seeAlso": []
 }

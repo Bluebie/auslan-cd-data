@@ -9,14 +9,13 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wintertime"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5761,
   "recordNumber": 3414,
   "signVisualComposition": "WINTER + TIME",
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time during which winter lasts. English = wintertime."
   ],
   "idGloss": "wintertime",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

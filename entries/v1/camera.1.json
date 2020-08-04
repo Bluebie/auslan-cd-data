@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "camera",
     "photograph"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4705,
   "recordNumber": 2843,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -39,10 +38,11 @@
     "1. To operate a piece of equipment used for taking photographs. English = photograph."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of equipment that is used for taking photographs. English = camera."
   ],
   "idGloss": "camera.1",
-  "oldEntry": "Popular explanation: depressing the shutter button."
+  "oldEntry": "Popular explanation: depressing the shutter button.",
+  "seeAlso": []
 }

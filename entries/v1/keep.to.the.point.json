@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relevance",
     "constancy",
@@ -38,10 +38,9 @@
     "usually"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3971,
   "recordNumber": 2374,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -65,12 +64,13 @@
     "3. To remain faithful to a particular person or idea. English = (be) loyal, (be) constant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The connection that something has with what is being talked or written about. English = relevance.",
     "2. The quality of being the same even though other things change. English = constancy.",
     "3. The behaviour in which you stay firm in your friendship or support for someone or something. English = loyalty."
   ],
   "idGloss": "keep.to.the.point",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

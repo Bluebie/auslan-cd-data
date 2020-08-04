@@ -17,8 +17,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "plait",
     "braid",
@@ -26,10 +26,9 @@
     "braided"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6147,
   "recordNumber": 3663,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -46,10 +45,11 @@
     "3. To wear your hair in plaits or braids."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Three or more lengths of hair twisted over and under each other to make one thick length. English = plait. American English = braid."
   ],
   "idGloss": "plait.2",
-  "oldEntry": "Popular explanation: plaiting hair."
+  "oldEntry": "Popular explanation: plaiting hair.",
+  "seeAlso": []
 }

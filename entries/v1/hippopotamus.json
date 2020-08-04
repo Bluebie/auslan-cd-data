@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hippopotamus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3582,
   "recordNumber": 2104,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 9,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large animal with short legs and thick, wrinkled skin and a large rounded jaw. They live near rivers in Africa. English = hippopotamus."
   ],
   "idGloss": "hippopotamus",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

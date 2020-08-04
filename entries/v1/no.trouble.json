@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "TROUBLE + 'NOT'",
-  "queries": "",
+  "queries": null,
   "english": [
     "trouble-free",
     "hassle-free"
   ],
   "deictic": [],
-  "cf": [
-    "not.bother.1",
-    "not.bother.2"
-  ],
   "signNumber": 3524,
   "recordNumber": 2064,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -39,8 +35,12 @@
     "1. To cause or give no difficulties or no problems to someone. English = (be) trouble-free, (be) hassle-free."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "no.trouble",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.bother.1",
+    "not.bother.2"
+  ]
 }

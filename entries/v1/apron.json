@@ -9,17 +9,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "apron"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6205,
   "recordNumber": 3708,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 16,
@@ -32,10 +31,11 @@
     "1. To put on an apron."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing that you put on over the front of your normal clothes and tie round your waist, especially when you are cooking, in order to prevent your clothes from getting dirty. English = apron."
   ],
   "idGloss": "apron",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

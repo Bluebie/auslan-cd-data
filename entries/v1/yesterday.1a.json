@@ -17,20 +17,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "yesterday",
     "last"
   ],
   "deictic": [],
-  "cf": [
-    "yesteryear.1a"
-  ],
   "signNumber": 583,
   "recordNumber": 336,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -50,11 +47,14 @@
     "1. To be the most recent period of time, event, or thing. Used immediately before a time sign such as 'night', 'week', 'month', 'year', or before event sign such as 'birthday', 'marriage'. English = (be) last."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The day before today. English = yesterday.",
     "2. The day before any given day; the previous day."
   ],
   "idGloss": "yesterday.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "yesteryear.1a"
+  ]
 }

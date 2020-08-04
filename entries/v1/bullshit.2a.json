@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "EAT + DROP",
-  "queries": "",
+  "queries": null,
   "english": [
     "bullshit",
     "rubbish",
@@ -30,10 +30,9 @@
     "yuk"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 64,
   "recordNumber": 36,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -55,10 +54,11 @@
     "3. Of food, to spit out something because it tastes horrible."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is nonsense, completely untrue, or not worth taking seriously. English = bullshit, rubbish."
   ],
   "idGloss": "bullshit.2a",
-  "oldEntry": "Popular explanation: getting rid of something distasteful from the mouth."
+  "oldEntry": "Popular explanation: getting rid of something distasteful from the mouth.",
+  "seeAlso": []
 }

@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cover",
     "complete"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4417,
   "recordNumber": 2685,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "2. To finish doing something completely; to do all of something. English = complete."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cover.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

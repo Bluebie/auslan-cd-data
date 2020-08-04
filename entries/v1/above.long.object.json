@@ -5,15 +5,14 @@
     "twohand",
     "domonly"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 3984,
   "recordNumber": 2384,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -29,5 +28,6 @@
   "generalMeaning": "An area or a flat extended object located above a long, usually thin, object, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "above.long.object",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

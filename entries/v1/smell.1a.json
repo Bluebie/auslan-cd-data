@@ -16,9 +16,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fragrance",
     "perfume",
@@ -27,12 +27,9 @@
     "perfumed"
   ],
   "deictic": [],
-  "cf": [
-    "bad.smell"
-  ],
   "signNumber": 3165,
   "recordNumber": 1834,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -49,11 +46,14 @@
     "2. To have an effect on your nose, especially when the effect is neutral or pleasant. English = (be) fragrant, (be) perfumed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The effect that something has on your nose. English = smell.",
     "2. The effect that something has on your nose, especially when the effect is neutral or pleasant. English = fragrance, perfume."
   ],
   "idGloss": "smell.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bad.smell"
+  ]
 }

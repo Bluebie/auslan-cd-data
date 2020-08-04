@@ -6,17 +6,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pass"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 925,
   "recordNumber": 527,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
     "1. To go past someone or something without stopping; to pass by."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "pass.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

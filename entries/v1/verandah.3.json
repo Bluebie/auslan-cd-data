@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "verandah"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5386,
   "recordNumber": 3216,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 16,
@@ -40,5 +39,6 @@
     "1. A platform along the outside walls of a house with a roof supported by pillars. English = verandah."
   ],
   "idGloss": "verandah.3",
-  "oldEntry": "Popular explanation: the outline of a verandah."
+  "oldEntry": "Popular explanation: the outline of a verandah.",
+  "seeAlso": []
 }

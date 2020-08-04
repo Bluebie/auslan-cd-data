@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grill",
     "grille"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2415,
   "recordNumber": 1336,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 15,
@@ -42,5 +41,6 @@
     "2. A framework of metal bars or wire which is placed in front of or over something to protect it or to protect people. English = grille."
   ],
   "idGloss": "grill.1a",
-  "oldEntry": "Popular explanation: the crossed wires of a sieve."
+  "oldEntry": "Popular explanation: the crossed wires of a sieve.",
+  "seeAlso": []
 }

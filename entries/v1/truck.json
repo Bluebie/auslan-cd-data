@@ -11,21 +11,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "truck"
   ],
   "deictic": [],
-  "cf": [
-    "bus.1",
-    "steer.car",
-    "car.1"
-  ],
   "signNumber": 4364,
   "recordNumber": 2656,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,10 +31,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large vehicle that is used to transport goods by road. English = truck."
   ],
   "idGloss": "truck",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bus.1",
+    "steer.car",
+    "car.1"
+  ]
 }

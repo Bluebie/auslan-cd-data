@@ -11,21 +11,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grave",
     "level out",
     "cover"
   ],
   "deictic": [],
-  "cf": [
-    "cover.1a"
-  ],
   "signNumber": 3879,
   "recordNumber": 2307,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,5 +42,8 @@
     "1. A place where a dead person is buried. English = grave."
   ],
   "idGloss": "grave",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "cover.1a"
+  ]
 }

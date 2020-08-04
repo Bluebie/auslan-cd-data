@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "collection",
     "fund-raising",
@@ -32,12 +32,9 @@
     "raise funds"
   ],
   "deictic": [],
-  "cf": [
-    "take.1a"
-  ],
   "signNumber": 4674,
   "recordNumber": 2824,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -57,12 +54,15 @@
     "4. To make a profit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of bringing a number of things together from several places. English = collection.",
     "2. The activity of collecting money for a particular purpose or organisation. English = fund-raising.",
     "3. The amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit."
   ],
   "idGloss": "collect.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "take.1a"
+  ]
 }

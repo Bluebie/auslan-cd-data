@@ -9,17 +9,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "silly.1"
-  ],
   "signNumber": 6551,
   "recordNumber": 3903,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,8 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "silly.you",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "silly.1"
+  ]
 }

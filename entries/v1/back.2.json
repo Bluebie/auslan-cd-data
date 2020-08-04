@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "back",
     "background",
@@ -30,10 +30,9 @@
     "reverse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4723,
   "recordNumber": 2854,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -56,11 +55,12 @@
     "3. To move in a direction that takes you to a place where you were before. English = go back."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The side or part of something that is towards the rear or farthest from the front. It is normally not used or seen as much as the front. English = back.",
     "2. The kind of family you come from and the kind of education you have had. English = background."
   ],
   "idGloss": "back.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

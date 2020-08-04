@@ -14,19 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "help",
     "assistance",
     "assist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4253,
   "recordNumber": 2581,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. To do something to or for someone who is in danger that is a factor in removing them from that danger. English = help."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act or the actions of doing something for someone that makes it easier for them to do something. English = help, assistance.",
     "2. The act of doing something to or for someone who is in danger that is a factor in removing them from that danger. English = help."
   ],
   "idGloss": "help.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "demonstration",
     "instruction",
@@ -39,10 +39,9 @@
     "educate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5919,
   "recordNumber": 3521,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -60,12 +59,13 @@
     "2. To give someone instructions and information about something so that they know about it or know how to do it. English = teach, educate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of explaining to someone how to do something, especially by also showing them what to do. English = demonstration, instruction.",
     "2. A person who shows someone how to do something. English = instructor.",
     "3. Giving someone instructions and information about something so that they know about it or know how to do it. English = teaching, education."
   ],
   "idGloss": "teach",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

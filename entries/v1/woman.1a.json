@@ -15,8 +15,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "woman",
     "women",
@@ -24,10 +24,9 @@
     "feminine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3425,
   "recordNumber": 1998,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,10 +44,11 @@
     "1. To behave or look like a woman. English = (be) womanly, (be) feminine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Adult female human being. English = woman (singular), women (plural)."
   ],
   "idGloss": "woman.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

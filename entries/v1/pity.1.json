@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pity",
     "sorry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 69,
   "recordNumber": 41,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -46,8 +45,9 @@
     "3. To be on the verge of an unhappy or unwanted display of emotion."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "pity.1",
-  "oldEntry": "Popular explanation: a lump or tightness in your throat due to strong emotion."
+  "oldEntry": "Popular explanation: a lump or tightness in your throat due to strong emotion.",
+  "seeAlso": []
 }

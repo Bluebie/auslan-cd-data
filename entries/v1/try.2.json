@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "try"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6162,
   "recordNumber": 3677,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To score a try."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A instance in which a rugby league or rugby union player scores three points by making a touchdown. English = try."
   ],
   "idGloss": "try.2",
-  "oldEntry": "Popular explanation: the signal a linesman gives when a try is scored."
+  "oldEntry": "Popular explanation: the signal a linesman gives when a try is scored.",
+  "seeAlso": []
 }

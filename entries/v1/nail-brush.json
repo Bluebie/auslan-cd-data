@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nail-brush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 189,
   "recordNumber": 107,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To use a nail brush."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small brush that you use for cleaning your nails. English = nail-brush."
   ],
   "idGloss": "nail-brush",
-  "oldEntry": "Popular explanation: holding and using a nail brush."
+  "oldEntry": "Popular explanation: holding and using a nail brush.",
+  "seeAlso": []
 }

@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pepper-mill",
     "pepper-grinder"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5817,
   "recordNumber": 3454,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -35,11 +34,12 @@
     "1. To operate a pepper-mill."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, hand-operated device used to crush peppercorns in order to flavour a dish. English = pepper-mill, pepper-grinder.",
     "2. Fresh black or green pepper that comes out of a pepper-mill."
   ],
   "idGloss": "pepper-mill",
-  "oldEntry": "Popular explanation: operating a pepper-mill."
+  "oldEntry": "Popular explanation: operating a pepper-mill.",
+  "seeAlso": []
 }

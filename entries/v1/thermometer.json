@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thermometer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 613,
   "recordNumber": 353,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -31,10 +30,11 @@
     "1. To take someone's temperature using a thermometer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An instrument for measuring the temperature of a person's body. It usually consists of a narrow glass tube containing a thin column of mercury which rises and falls as the temperature rises and falls. English = thermometer."
   ],
   "idGloss": "thermometer",
-  "oldEntry": "Popular explanation: shaking a thermometer and then putting it in the mouth."
+  "oldEntry": "Popular explanation: shaking a thermometer and then putting it in the mouth.",
+  "seeAlso": []
 }

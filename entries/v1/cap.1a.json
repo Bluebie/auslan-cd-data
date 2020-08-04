@@ -16,18 +16,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cap",
     "peaked cap",
     "baseball cap"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6064,
   "recordNumber": 3606,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -44,11 +43,12 @@
     "3. To wear a peaked cap."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A soft, flat hat which is usually worn by men or boys. English = cap.",
     "2. A cap that has a pointed or rounded part that sticks out above your eyes. English = peaked cap. American English = baseball cap."
   ],
   "idGloss": "cap.1a",
-  "oldEntry": "Popular explanation: pulling the rim of a hat down."
+  "oldEntry": "Popular explanation: pulling the rim of a hat down.",
+  "seeAlso": []
 }

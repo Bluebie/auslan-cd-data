@@ -8,14 +8,13 @@
     "twohand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alphabet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1155,
   "recordNumber": 680,
   "signVisualComposition": "A + Z",
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The set of letters arranged in a fixed order which is used for writing the words of a language. English = alphabet."
   ],
   "idGloss": "alphabet",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

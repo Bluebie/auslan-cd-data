@@ -9,17 +9,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1064,
   "recordNumber": 628,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing."
   ],
   "idGloss": "thing.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

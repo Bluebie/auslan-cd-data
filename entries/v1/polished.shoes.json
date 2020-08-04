@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shoe",
     "shoe polish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4891,
   "recordNumber": 2955,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -42,7 +41,7 @@
     "1. To clean or polish shoes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Objects which you wear on your feet which are made of leather or plastic which has a shiny surface. They cover most of your foot and you wear them over socks or stockings. English = patent leather shoes.",
     "2. Objects which you wear on your feet which are polished. They cover most of your foot and you wear them over socks or stockings. English = polished shoes.",
@@ -50,5 +49,6 @@
     "4. A substance that you put on shoes in order to clean them, protect them, and make them shine. English = shoe polish."
   ],
   "idGloss": "polished.shoes",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

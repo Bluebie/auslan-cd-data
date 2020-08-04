@@ -9,16 +9,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "please"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3288.1,
   "recordNumber": 1920,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": null,
   "primaryLocation": 11,
@@ -35,8 +34,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "please.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

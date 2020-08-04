@@ -14,19 +14,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "provision",
     "provisions",
     "provide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 140,
   "recordNumber": 75,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -44,11 +43,12 @@
     "1. To give to someone something which they want or need, or to make it available to them in some way. English = provide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of giving something, or making it available, to someone who needs it. English = provision.",
     "2. Supplies of food. English = provisions."
   ],
   "idGloss": "provide",
-  "oldEntry": "Popular explanation: the action of giving something."
+  "oldEntry": "Popular explanation: the action of giving something.",
+  "seeAlso": []
 }

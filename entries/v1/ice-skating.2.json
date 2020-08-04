@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ice-skates"
   ],
   "deictic": [],
-  "cf": [
-    "roller-skating"
-  ],
   "signNumber": 6239,
   "recordNumber": 3728,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +33,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Shoes with a metal bar attached to them that you wear when you skate on ice. English = ice-skates."
   ],
   "idGloss": "ice-skating.2",
-  "oldEntry": "Popular explanation: the blade of an ice-skating shoe."
+  "oldEntry": "Popular explanation: the blade of an ice-skating shoe.",
+  "seeAlso": [
+    "roller-skating"
+  ]
 }

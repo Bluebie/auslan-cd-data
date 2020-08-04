@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "piano",
     "pianist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2733,
   "recordNumber": 1524,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
     "1. To play a piano."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A musical instrument with a row of black and white keys. When these keys are pressed down by the player's fingers, little hammers hit wire strings and different notes are played. English = piano.",
     "2. A person who plays the piano. English = pianist."
   ],
   "idGloss": "piano",
-  "oldEntry": "Popular explanation: playing a piano."
+  "oldEntry": "Popular explanation: playing a piano.",
+  "seeAlso": []
 }

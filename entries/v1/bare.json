@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ELIMINATE + BARE",
-  "queries": "",
+  "queries": null,
   "english": [
     "strip",
     "bare",
@@ -25,12 +25,9 @@
     "exposed"
   ],
   "deictic": [],
-  "cf": [
-    "naked.1a"
-  ],
   "signNumber": 6538,
   "recordNumber": 3892,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,8 +43,11 @@
     "2. To be empty or not be covered or decorated with anything. English = (be) bare, (be) exposed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "bare",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "naked.1a"
+  ]
 }

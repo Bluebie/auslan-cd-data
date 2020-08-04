@@ -13,20 +13,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign incorporates numbers up to 4 to mean 'in two days time', 'in three days time', and so on.",
   "english": [
     "tomorrow"
   ],
   "deictic": [],
-  "cf": [
-    "future",
-    "always.1"
-  ],
   "signNumber": 590,
   "recordNumber": 339,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -42,11 +38,15 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The day after today. English = tomorrow.",
     "2. The day after any given or particular day; the day after (another day); the next day; the following day."
   ],
   "idGloss": "tomorrow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "future",
+    "always.1"
+  ]
 }

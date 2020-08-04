@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "MOUSE + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "rat"
   ],
   "deictic": [],
-  "cf": [
-    "mouse.1a"
-  ],
   "signNumber": 2181,
   "recordNumber": 1258,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An animal with a long tail which looks like a large mouse. English = rat."
   ],
   "idGloss": "rat",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "mouse.1a"
+  ]
 }

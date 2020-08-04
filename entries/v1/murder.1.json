@@ -16,9 +16,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "murder",
     "murderer",
@@ -26,13 +26,9 @@
     "slay"
   ],
   "deictic": [],
-  "cf": [
-    "kill",
-    "operate.1a"
-  ],
   "signNumber": 4751,
   "recordNumber": 2872,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -49,12 +45,16 @@
     "3. To cut or slit a throat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The deliberate and unlawful killing of a person. English = murder.",
     "2. A person who deliberately and unlawfully kills a person. English = murderer.",
     "3. A cut or a slit on a throat."
   ],
   "idGloss": "murder.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "kill",
+    "operate.1a"
+  ]
 }

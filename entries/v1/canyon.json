@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ravine",
     "gully",
     "canyon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3893,
   "recordNumber": 2317,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -37,5 +36,6 @@
     "1. A narrow valley with very steep sides. English = ravine, gully, canyon."
   ],
   "idGloss": "canyon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

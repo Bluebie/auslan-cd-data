@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "objection",
     "criticism",
@@ -32,12 +32,9 @@
     "criticise"
   ],
   "deictic": [],
-  "cf": [
-    "blame.1a"
-  ],
   "signNumber": 5052,
   "recordNumber": 3047,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -57,12 +54,15 @@
     "3. To think or say that a person or thing is responsible for something bad. English = blame."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of saying that you do not like or approve of something. English = objection.",
     "2. The expression of your disapproval of someone or something by saying what you think is wrong with them. English = criticism.",
     "3. The responsibility for causing something bad, or letting it happen. English = blame."
   ],
   "idGloss": "object",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "blame.1a"
+  ]
 }

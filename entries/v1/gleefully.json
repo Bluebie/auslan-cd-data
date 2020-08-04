@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "happy",
     "gleeful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4491,
   "recordNumber": 2728,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -37,8 +36,9 @@
     "2. To be full of joy and excitement, often because of someone else's foolishness or failure. English = (be) gleeful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "gleefully",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

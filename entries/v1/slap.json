@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "slap",
     "smack"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4059,
   "recordNumber": 2430,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "2. To hit someone (especially a child) with the palm side of your hand in an attempt to stop them doing something or to punish them. English = slap, smack."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of hitting someone on the hand with the palm side of your hand.",
     "2. The action of hitting someone with the palm side of your hand. English = slap, smack."
   ],
   "idGloss": "slap",
-  "oldEntry": "Popular explanation: slapping the hand."
+  "oldEntry": "Popular explanation: slapping the hand.",
+  "seeAlso": []
 }

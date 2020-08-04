@@ -17,9 +17,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "newness",
     "novelty",
@@ -27,13 +27,9 @@
     "novel"
   ],
   "deictic": [],
-  "cf": [
-    "born.2a",
-    "born.1"
-  ],
   "signNumber": 4206,
   "recordNumber": 2544,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,11 +46,15 @@
     "3. To be the latest in fashion or technology."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being recently made or created; of not being owned or used before; of being different from what you had before; or of being only recently discovered. English = newness.",
     "2. The quality of being different, new, and unusual. English = novelty."
   ],
   "idGloss": "new.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "born.2a",
+    "born.1"
+  ]
 }

@@ -15,9 +15,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "generation",
     "descendants",
@@ -25,10 +25,9 @@
     "descended"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4135,
   "recordNumber": 2491,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -43,7 +42,7 @@
     "3. Of events, to happen one after the other in time towards the present."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time, usually considered to be about thirty years, that it takes for children to grow up and become adults and have children of their own. English = generation.",
     "2. All the children, grandchildren, great grandchildren and so on of any particular couple or community of people. English = descendants.",
@@ -51,5 +50,6 @@
     "4. A sequence of events that come one after the other in time towards the present."
   ],
   "idGloss": "generation.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

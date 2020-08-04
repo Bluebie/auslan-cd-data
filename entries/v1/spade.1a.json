@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spade",
     "shovel",
@@ -38,10 +38,9 @@
     "garden"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3398,
   "recordNumber": 1987,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -59,7 +58,7 @@
     "2. To do work in a garden such as weeding or planting. English = garden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tool used for digging, with a flat metal blade and a long handle. English = spade, shovel.",
     "2. A small garden tool with a curved, pointed blade that you use for digging small holes or for removing weeds. English = trowel.",
@@ -67,5 +66,6 @@
     "4. One of the four suits in a pack of playing cards. Each card in this suit is marked with one or more black symbols in the shape of a heart-shaped leaf with a stem. English = spades."
   ],
   "idGloss": "spade.1a",
-  "oldEntry": "Popular explanation: scooping with a spade."
+  "oldEntry": "Popular explanation: scooping with a spade.",
+  "seeAlso": []
 }

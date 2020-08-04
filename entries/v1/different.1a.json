@@ -19,8 +19,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "difference",
     "distinction",
@@ -29,10 +29,9 @@
     "differ"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1002,
   "recordNumber": 582,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -50,11 +49,12 @@
     "1. For one thing to be unlike another thing in some way. English = (be) different, (be) unlike; differ from."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The way in which two thing are unlike each other. English = difference.",
     "2. The thing that makes one thing different from another. English = distinction."
   ],
   "idGloss": "different.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

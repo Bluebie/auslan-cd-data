@@ -17,22 +17,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "board",
     "boarder"
   ],
   "deictic": [],
-  "cf": [
-    "wait.1",
-    "boarding.school",
-    "accommodation.1a"
-  ],
   "signNumber": 3915,
   "recordNumber": 2333,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,12 +42,17 @@
     "1. To stay somewhere long term, especially someone else's house or at a school, and pay for your food and room. English = board."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The cost of food and a room which is provided when you stay somewhere long term, like in a hotel, but especially in a private home or school. English = board.",
     "2. A person who stays long term in someone's house and pays for food and accommodation. English = boarder.",
     "3. A pupil who lives at school during term time. English = boarder."
   ],
   "idGloss": "boarder",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wait.1",
+    "boarding.school",
+    "accommodation.1a"
+  ]
 }

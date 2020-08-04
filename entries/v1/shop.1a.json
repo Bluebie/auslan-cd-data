@@ -15,9 +15,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shop",
     "store",
@@ -25,12 +25,9 @@
     "shopper"
   ],
   "deictic": [],
-  "cf": [
-    "buy.1a"
-  ],
   "signNumber": 4928,
   "recordNumber": 2980,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,7 +40,7 @@
     "1. To go to shops and buy things. English = shop, go shopping."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building or part of a building where things are sold. English = shop, store.",
     "2. The act of going to shops and buying things. English = shopping.",
@@ -51,5 +48,8 @@
     "4. A person who goes to a shop to buy things. English = shopper."
   ],
   "idGloss": "shop.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "buy.1a"
+  ]
 }

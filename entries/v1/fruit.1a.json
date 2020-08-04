@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "APPLE + ORANGE",
-  "queries": "",
+  "queries": null,
   "english": [
     "fruit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4482,
   "recordNumber": 2724,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that grows on a tree or a bush and which contains seeds or a stone covered by a substance that you can eat. Examples include apples, oranges, grapes, and bananas. English = fruit."
   ],
   "idGloss": "fruit.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

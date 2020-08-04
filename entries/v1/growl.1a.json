@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "growl",
     "bark"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2942,
   "recordNumber": 1672,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -37,11 +36,12 @@
     "2. Of a dog, to make a short, loud noise once or several times. English = bark."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A low rumbling noise made by a dog or other animal, usually because it is angry. English = growl.",
     "2. A short, loud noise, made by a dog once or several times. English = bark."
   ],
   "idGloss": "growl.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

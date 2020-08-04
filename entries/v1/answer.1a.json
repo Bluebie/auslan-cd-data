@@ -22,9 +22,9 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "answer",
     "reply",
@@ -32,10 +32,9 @@
     "respond"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1151,
   "recordNumber": 677,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -55,12 +54,13 @@
     "3. To write a letter back to someone as a result of having already received one from them. English = answer, reply."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. What you say or write back to someone who has asked you a question. English = answer.",
     "2. What you say or write to someone as a result of what they have said or written to you. English = answer, reply, response.",
     "3. A possible solution to a problem. English = answer."
   ],
   "idGloss": "answer.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

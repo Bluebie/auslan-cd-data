@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "can"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1522,
   "recordNumber": 908,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To open a ring-pull can."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A metal can used for storing food or drink which can be opened by pulling on a metal ring found on the top. English = ring-pull can."
   ],
   "idGloss": "ring.pull.can",
-  "oldEntry": "Popular explanation: opening a ring pull can."
+  "oldEntry": "Popular explanation: opening a ring pull can.",
+  "seeAlso": []
 }

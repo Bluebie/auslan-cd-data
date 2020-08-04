@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "golf"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5728,
   "recordNumber": 3392,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 8,
@@ -34,10 +33,11 @@
     "2. To strike a golf ball with a club."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game in which you use long sticks called clubs to hit a small, hard ball into holes that are spread out over a large area of grassy land. English = golf."
   ],
   "idGloss": "golf",
-  "oldEntry": "Popular explanation: using a golf club."
+  "oldEntry": "Popular explanation: using a golf club.",
+  "seeAlso": []
 }

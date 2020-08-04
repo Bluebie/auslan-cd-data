@@ -13,19 +13,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "de facto"
   ],
   "deictic": [],
-  "cf": [
-    "dormitory"
-  ],
   "signNumber": 2050,
   "recordNumber": 1197,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -39,11 +36,14 @@
     "2. To have a casual sexual relationship with someone. Idiomatic English = go to bed with someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A relationship in which two people live together in a sexual and domestic relationship without there being any act of marriage (legal, civil, or religious) between them. English = de facto relationship.",
     "2. A person who lives with another person in a sexual and domestic relationship (as husband or wife) without there being any act of marriage (legal, civil, or religious) between them. English = de facto."
   ],
   "idGloss": "de facto",
-  "oldEntry": "Popular explanation: one person lying next to another."
+  "oldEntry": "Popular explanation: one person lying next to another.",
+  "seeAlso": [
+    "dormitory"
+  ]
 }

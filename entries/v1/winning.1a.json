@@ -9,19 +9,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "win"
   ],
   "deictic": [],
-  "cf": [
-    "neck.and.neck.1a"
-  ],
   "signNumber": 4373,
   "recordNumber": 2663,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,8 +33,11 @@
     "1. In a competition or race, to be just ahead of your rival; to be winning; to overtake; to edge ahead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "winning.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "neck.and.neck.1a"
+  ]
 }

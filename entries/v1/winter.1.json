@@ -9,16 +9,15 @@
     "ant1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "winter"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5759,
   "recordNumber": 3412,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The coldest season of the year, between autumn and spring, when many trees and plants do not have any leaves. English = winter."
   ],
   "idGloss": "winter.1",
-  "oldEntry": "Popular explanation: shivering from the cold."
+  "oldEntry": "Popular explanation: shivering from the cold.",
+  "seeAlso": []
 }

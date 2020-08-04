@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "glad"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5535,
   "recordNumber": 3276,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 4,
@@ -35,8 +34,9 @@
     "1. To be very happy and pleased about something. English = (be) glad."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "glad.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

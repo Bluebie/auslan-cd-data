@@ -14,19 +14,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "build up",
     "reconstruction",
     "reconstruct"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3032,
   "recordNumber": 1739,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -45,11 +44,12 @@
     "2. To rebuild something that has been destroyed or badly damaged. English = reconstruct."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The gradual increase, growth or improvement in something, especially after it had been damaged. English = build up.",
     "2. The rebuilding of something that has been destroyed or badly damaged. English = reconstruction."
   ],
   "idGloss": "build.up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

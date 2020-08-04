@@ -13,20 +13,17 @@
     "engtf3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Sweden",
     "Swede",
     "Swedish"
   ],
   "deictic": [],
-  "cf": [
-    "wool.1a"
-  ],
   "signNumber": 4046,
   "recordNumber": 2421,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,11 +36,14 @@
     "1. To be from Sweden or relating to Sweden. English = (be) Swedish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in northern Europe between Norway and Finland, called Sweden.",
     "2. A person from Sweden. English = Swede."
   ],
   "idGloss": "Swedish",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wool.1a"
+  ]
 }

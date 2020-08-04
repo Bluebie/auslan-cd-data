@@ -16,18 +16,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "importance",
     "important"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6322,
   "recordNumber": 3774,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -49,10 +48,11 @@
     "2. Of something, to be more important or better than other things of its kind. English = (be) special, (be) exceptional, (be) outstanding."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being important, necessary or significant in a particular situation. English = importance."
   ],
   "idGloss": "important.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

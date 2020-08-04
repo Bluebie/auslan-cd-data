@@ -11,21 +11,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fly"
   ],
   "deictic": [],
-  "cf": [
-    "fly.3",
-    "zip.1a",
-    "fly.3"
-  ],
   "signNumber": 6188,
   "recordNumber": 3696,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 17,
@@ -41,8 +36,13 @@
     "2. Of a fly on a pair of trousers, to be zipped up, to be done up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "fly.close",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fly.3",
+    "zip.1a",
+    "fly.3"
+  ]
 }

@@ -10,18 +10,13 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "believe in"
   ],
   "deictic": [],
-  "cf": [
-    "believe.1",
-    "believe.2a",
-    "believe.3"
-  ],
   "signNumber": 834,
   "recordNumber": 475,
   "signVisualComposition": "THINK + FOLLOW",
@@ -37,8 +32,13 @@
     "1. To adopt the beliefs or opinions of another person or group of people after a period of doubt followed by consideration, reflection and ultimately agreement."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "think.follow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "believe.1",
+    "believe.2a",
+    "believe.3"
+  ]
 }

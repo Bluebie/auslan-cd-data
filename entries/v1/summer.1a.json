@@ -9,18 +9,17 @@
     "syn1",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "summer",
     "summertime"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3269,
   "recordNumber": 1905,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The season between spring and autumn when the weather is usually warm to hot. English = summer, summertime."
   ],
   "idGloss": "summer.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

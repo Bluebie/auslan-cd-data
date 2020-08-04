@@ -18,9 +18,9 @@
     "engtf6",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "collision",
     "accident",
@@ -30,12 +30,9 @@
     "collide"
   ],
   "deictic": [],
-  "cf": [
-    "plane.crash"
-  ],
   "signNumber": 5860,
   "recordNumber": 3486,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -49,11 +46,14 @@
     "2. Of a car, to hit something or another moving car by chance or unintentionally. English = crash, smash, have an accident."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact of two moving objects, especially cars, hitting each other. English = collision.",
     "2. An event that happens by chance or unintentionally, when a car hits something or another moving car. English = accident, car accident, smash, crash."
   ],
   "idGloss": "collision.1a",
-  "oldEntry": "Popular explanation: two objects crashing into each other."
+  "oldEntry": "Popular explanation: two objects crashing into each other.",
+  "seeAlso": [
+    "plane.crash"
+  ]
 }

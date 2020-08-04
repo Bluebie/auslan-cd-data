@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speedboat",
     "hydrofoil"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4201,
   "recordNumber": 2541,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,11 +35,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small boat that is propelled by an engine and can travel at high speed. English = speedboat.",
     "2. A boat which can travel above the surface of the water by resting on a pair of special fins. English = hydrofoil."
   ],
   "idGloss": "speedboat",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

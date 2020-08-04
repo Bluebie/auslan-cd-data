@@ -8,17 +8,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nasty"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 31,
   "recordNumber": 17,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -31,8 +30,9 @@
     "1. Of a person, to be unkind and unpleasant. English = (be) nasty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "nasty.person",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

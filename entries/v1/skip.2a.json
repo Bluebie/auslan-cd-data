@@ -13,22 +13,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skipping",
     "skip"
   ],
   "deictic": [],
-  "cf": [
-    "stand.1a",
-    "jump.up",
-    "hop.1a"
-  ],
   "signNumber": 1862,
   "recordNumber": 1115,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,10 +38,15 @@
     "1. To move by making a series of little jumps from one foot to the other. English = skip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of movement, almost like dancing, in which you make a series of little jumps from one foot to the other. English = skipping."
   ],
   "idGloss": "skip.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stand.1a",
+    "jump.up",
+    "hop.1a"
+  ]
 }

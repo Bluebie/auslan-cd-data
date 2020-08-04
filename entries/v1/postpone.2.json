@@ -13,9 +13,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "postponement",
     "postpone",
@@ -23,10 +23,9 @@
     "defer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 404,
   "recordNumber": 222,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -43,10 +42,11 @@
     "1. To arrange for an event to take place at a later time than was originally planned. English = postpone, put off. Formal English = defer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of arranging for an event to take place at a later time than was originally planned. English = postponement."
   ],
   "idGloss": "postpone.2",
-  "oldEntry": "Popular explanation: pick up and move to another place or time."
+  "oldEntry": "Popular explanation: pick up and move to another place or time.",
+  "seeAlso": []
 }

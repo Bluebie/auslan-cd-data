@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dozen",
     "twelve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1958,
   "recordNumber": 1166,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A quantity in which many things are sold, such as eggs, which consists of twelve items or units. English = dozen.",
     "2. The number 12, between 11 and 13. English = twelve."
   ],
   "idGloss": "dozen",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

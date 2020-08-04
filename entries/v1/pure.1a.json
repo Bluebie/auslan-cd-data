@@ -29,9 +29,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "exact",
     "purity",
@@ -47,12 +47,9 @@
     "accurate"
   ],
   "deictic": [],
-  "cf": [
-    "coincidence"
-  ],
   "signNumber": 1922,
   "recordNumber": 1147,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -70,7 +67,7 @@
     "4. To be correct or proper in every way possible, especially with reference to the answer to a question or problem. English = (be) precise, (be) accurate, (be) exact."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition or state of being completely clean. English = spotlessness.",
     "2. The condition or state of being completely clean, or not mixed with anything else and containing no harmful substances. English = purity.",
@@ -78,5 +75,8 @@
     "4. The ability to perform a task without making a mistake or to do something exactly as it should be done. English = accuracy, precision, exactness."
   ],
   "idGloss": "pure.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "coincidence"
+  ]
 }

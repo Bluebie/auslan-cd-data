@@ -16,21 +16,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "talk",
     "comments",
     "remarks"
   ],
   "deictic": [],
-  "cf": [
-    "discussion"
-  ],
   "signNumber": 1024,
   "recordNumber": 599,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -47,11 +44,14 @@
     "1. To say things to someone (in speech or sign). English = talk."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of saying things to someone (in speech or sign). English = talk.",
     "2. The things that someone says to someone (in speech or sign). English = comments, remarks."
   ],
   "idGloss": "talk",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "discussion"
+  ]
 }

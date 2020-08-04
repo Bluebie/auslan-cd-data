@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cherry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1766,
   "recordNumber": 1062,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Small, round fruit with red or black skins. English = cherry."
   ],
   "idGloss": "cherry",
-  "oldEntry": "Popular explanation: hanging cherries on one's ears as children often do."
+  "oldEntry": "Popular explanation: hanging cherries on one's ears as children often do.",
+  "seeAlso": []
 }

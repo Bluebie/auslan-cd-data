@@ -11,19 +11,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shaver",
     "electric shaver",
     "shave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5112,
   "recordNumber": 3086,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -38,10 +37,11 @@
     "1. To shave oneself using an electric shaver."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An electric tool used for shaving hair from the face and body. English = shaver, electric shaver."
   ],
   "idGloss": "electric.shaver.1a",
-  "oldEntry": "Popular explanation: holding and using an electric shaver."
+  "oldEntry": "Popular explanation: holding and using an electric shaver.",
+  "seeAlso": []
 }

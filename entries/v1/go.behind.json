@@ -12,17 +12,16 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "behind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4166,
   "recordNumber": 2516,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "2. To go or move so that you are facing the back of a thing or person, or so that something or someone is between you and another thing or person. English = go behind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "go.behind",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

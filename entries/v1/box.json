@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "box",
     "container",
@@ -28,12 +28,9 @@
     "block"
   ],
   "deictic": [],
-  "cf": [
-    "coffin.1"
-  ],
   "signNumber": 3788,
   "recordNumber": 2245,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,12 +47,15 @@
     "1. To put something in a box or container. English = box."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A square or rectangular object for putting things in which sometimes has a lid. English = box, container.",
     "2. A large, strong cardboard box in which goods are packed for storage and transport. English = carton.",
     "3. A large rectangular piece of something. English = block."
   ],
   "idGloss": "box",
-  "oldEntry": "Popular explanation: the sides of a box."
+  "oldEntry": "Popular explanation: the sides of a box.",
+  "seeAlso": [
+    "coffin.1"
+  ]
 }

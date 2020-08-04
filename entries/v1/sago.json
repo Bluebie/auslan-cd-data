@@ -10,17 +10,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sago"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 68,
   "recordNumber": 40,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -31,11 +30,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A white starchy substance that is obtained from the trunks of some palm trees. It is used for making sweet puddings and for thickening sauces. English = sago.",
     "2. A sweet pudding made from sago; sago pudding."
   ],
   "idGloss": "sago",
-  "oldEntry": "Popular explanation: the lumps often found in sago pudding."
+  "oldEntry": "Popular explanation: the lumps often found in sago pudding.",
+  "seeAlso": []
 }

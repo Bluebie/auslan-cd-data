@@ -12,21 +12,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drawer",
     "drawers"
   ],
   "deictic": [],
-  "cf": [
-    "drawer.open",
-    "drawer.close"
-  ],
   "signNumber": 4623,
   "recordNumber": 2799,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 16,
@@ -37,10 +33,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A box-shaped part of a desk or other piece of furniture. You pull it towards you to open it so that you can take things out of it or put things in. English = drawer, drawers."
   ],
   "idGloss": "drawer.1a",
-  "oldEntry": "Popular explanation: opening and closing a drawer."
+  "oldEntry": "Popular explanation: opening and closing a drawer.",
+  "seeAlso": [
+    "drawer.open",
+    "drawer.close"
+  ]
 }

@@ -9,17 +9,13 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "literacy"
   ],
   "deictic": [],
-  "cf": [
-    "read.1a",
-    "write.1a"
-  ],
   "signNumber": 1743,
   "recordNumber": 1046,
   "signVisualComposition": "READ + WRITE",
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to read and write. English = reading and writing, literacy."
   ],
   "idGloss": "literacy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "read.1a",
+    "write.1a"
+  ]
 }

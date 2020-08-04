@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grease",
     "scoop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4391,
   "recordNumber": 2675,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -41,5 +40,6 @@
     "2. A thick, oily substance which is put on the moving parts of machines in order to make them work smoothly. English = grease."
   ],
   "idGloss": "grease.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

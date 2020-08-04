@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4455,
   "recordNumber": 2706,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of the body at the end of one of your arms. Each one has four fingers and one thumb. English = hand."
   ],
   "idGloss": "hand",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

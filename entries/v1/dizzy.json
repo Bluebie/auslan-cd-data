@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dizziness",
     "giddiness",
@@ -29,12 +29,9 @@
     "drunk"
   ],
   "deictic": [],
-  "cf": [
-    "alcohol"
-  ],
   "signNumber": 2991,
   "recordNumber": 1702,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 6,
@@ -51,11 +48,14 @@
     "2. To feel confused and that you are losing your balance and are about to fall over because you have drunk too much alcohol. English = (be) drunk."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of losing your balance and being about to fall over. English = dizziness, giddiness.",
     "2. A confused feeling and a feeling of losing your balance and being about to fall over because you have drunk too much alcohol."
   ],
   "idGloss": "dizzy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "alcohol"
+  ]
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tuck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4129,
   "recordNumber": 2487,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To push the loose ends of a sheet or a blanket up under the mattress of a bed. English = tuck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "tuck",
-  "oldEntry": "Popular explanation: tucking a sheet under a bed."
+  "oldEntry": "Popular explanation: tucking a sheet under a bed.",
+  "seeAlso": []
 }

@@ -7,14 +7,13 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "son"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5038,
   "recordNumber": 3039,
   "signVisualComposition": "S + O + N",
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The male child of someone. English = son."
   ],
   "idGloss": "son.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

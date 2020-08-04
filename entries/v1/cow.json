@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5715,
   "recordNumber": 3381,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 1,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large female animal that is kept on farms for its milk. English = cow."
   ],
   "idGloss": "cow",
-  "oldEntry": "Popular explanation: the horns of a cow."
+  "oldEntry": "Popular explanation: the horns of a cow.",
+  "seeAlso": []
 }

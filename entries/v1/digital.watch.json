@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "WATCH + FLICKER",
-  "queries": "",
+  "queries": null,
   "english": [
     "digital watch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3108,
   "recordNumber": 1791,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,5 +38,6 @@
     "1. A small clock that you wear on a strap on your wrist that shows the time by displaying numbers rather than by using hands as on a traditional clock face. English = digital watch."
   ],
   "idGloss": "digital.watch",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

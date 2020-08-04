@@ -15,19 +15,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "walk"
   ],
   "deictic": [],
-  "cf": [
-    "run.1a"
-  ],
   "signNumber": 1726,
   "recordNumber": 1035,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,11 +41,14 @@
     "1. To move along by putting one foot in front of the other on the ground. English = walk."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of walking rather than running. English = walk.",
     "2. A journey which you make by walking. English = walk."
   ],
   "idGloss": "walk.1a",
-  "oldEntry": "Popular explanation: moving legs."
+  "oldEntry": "Popular explanation: moving legs.",
+  "seeAlso": [
+    "run.1a"
+  ]
 }

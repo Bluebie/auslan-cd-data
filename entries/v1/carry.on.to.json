@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GIVE + ON",
-  "queries": "",
+  "queries": null,
   "english": [
     "carry on to",
     "table"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4272,
   "recordNumber": 2592,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "2. To say formally that you want something added to the minutes of a meeting. English = table."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A proposal for something to be discussed or acted on in a meeting; an agenda item."
   ],
   "idGloss": "carry.on.to",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

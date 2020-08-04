@@ -13,19 +13,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "library",
     "bookshelf",
     "bookcase"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4351,
   "recordNumber": 2648,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -38,12 +37,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An institution or part of an institution which keeps books and newspapers for people to read. Most of them allow people to borrow books for certain periods of time. English = library.",
     "2. A room in which books are kept. English = library.",
     "3. The shelves on which books are stored. English = bookshelf, bookshelves, bookcase."
   ],
   "idGloss": "bookshelves",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

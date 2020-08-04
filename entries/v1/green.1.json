@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "green",
     "grass"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4032,
   "recordNumber": 2411,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. To be covered with luxurious grass and trees with no buildings. English = (be) green."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The colour of grass or of leaves. English = green.",
     "2. A very common plant with narrow leaves that forms a layer covering an area of ground. English = grass."
   ],
   "idGloss": "green.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

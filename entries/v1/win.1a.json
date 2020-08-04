@@ -15,23 +15,18 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "winner",
     "win",
     "achieve"
   ],
   "deictic": [],
-  "cf": [
-    "celebrate.1a",
-    "beat.2a",
-    "defeat.2"
-  ],
   "signNumber": 2426,
   "recordNumber": 1344,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -47,10 +42,15 @@
     "2. To succeed in doing something or causing it to happen, usually after a lot of effort. English = achieve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person who wins a prize, race or competition. English = winner."
   ],
   "idGloss": "win.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "celebrate.1a",
+    "beat.2a",
+    "defeat.2"
+  ]
 }

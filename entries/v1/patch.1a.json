@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "patch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4279,
   "recordNumber": 2599,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
     "1. To mend something, especially clothing, that has a hole in it by fastening a piece of material over the hole. English = patch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of material which you use to cover a hole in something, especially clothing. English = patch."
   ],
   "idGloss": "patch.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

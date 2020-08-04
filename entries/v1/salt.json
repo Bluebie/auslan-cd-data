@@ -14,22 +14,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "salt",
     "salty"
   ],
   "deictic": [],
-  "cf": [
-    "sauce",
-    "pepper.1",
-    "sprinkle.on.1a"
-  ],
   "signNumber": 6473,
   "recordNumber": 3855,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -43,10 +38,15 @@
     "2. To contain salt or taste of salt. English = (be) salty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong-tasting substance, in the form of white powder or crystals, which is used to improve the flavour of food or to preserve it. It occurs naturally in sea water. English = salt."
   ],
   "idGloss": "salt",
-  "oldEntry": "Popular explanation: sprinkling something."
+  "oldEntry": "Popular explanation: sprinkling something.",
+  "seeAlso": [
+    "sauce",
+    "pepper.1",
+    "sprinkle.on.1a"
+  ]
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "comb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2917,
   "recordNumber": 1654,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -34,10 +33,11 @@
     "1. To tidy your hair using a comb. English = comb."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A flat piece of plastic or metal, which you use to tidy your hair. English = comb."
   ],
   "idGloss": "comb",
-  "oldEntry": "Popular explanation: the teeth of a comb and the action of combing."
+  "oldEntry": "Popular explanation: the teeth of a comb and the action of combing.",
+  "seeAlso": []
 }

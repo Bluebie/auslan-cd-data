@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "talent",
     "competence",
@@ -35,10 +35,9 @@
     "fluent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3142,
   "recordNumber": 1819,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -56,12 +55,13 @@
     "3. To have the ability to speak, write or sign a language easily and correctly. English = (be) fluent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The natural ability to do something well. English = talent.",
     "2. A combination of a natural and acquired ability (through education, experience or training) to do something well. English = competence, skill.",
     "3. The ability to speak, write or sign a language easily and correctly. English = fluency."
   ],
   "idGloss": "talent.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

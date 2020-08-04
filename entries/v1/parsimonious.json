@@ -12,18 +12,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "mean",
     "stingy",
     "parsimonious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2911,
   "recordNumber": 1648,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -41,8 +40,9 @@
     "1. Of a person, to be very unwilling to spend money. English = (be) mean, (be) stingy. Formal English = (be) parsimonious"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "parsimonious",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

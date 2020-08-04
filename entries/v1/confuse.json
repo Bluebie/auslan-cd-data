@@ -19,9 +19,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "confusion",
     "mix up",
@@ -30,7 +30,6 @@
     "mixed up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1139,
   "recordNumber": 667,
   "signVisualComposition": "THINK + DULL",
@@ -53,11 +52,12 @@
     "3. To make it difficult for someone to know exactly what to do or what to think. English = confuse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of making a mistake about a person or thing and thinking that they are another person or thing. English = confusion. Idiomatic English = mix up.",
     "2. A situation where it is not clear what is happening. English = confusion."
   ],
   "idGloss": "confuse",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

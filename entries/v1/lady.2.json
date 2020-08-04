@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lady"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2481,
   "recordNumber": 1377,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who is thought to behave in a polite, dignified, and graceful way, or who is a woman from the upper classes. English = lady."
   ],
   "idGloss": "lady.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

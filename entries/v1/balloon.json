@@ -11,21 +11,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "balloon"
   ],
   "deictic": [],
-  "cf": [
-    "shout",
-    "expand.2",
-    "imagine.2"
-  ],
   "signNumber": 5734,
   "recordNumber": 3398,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 10,
@@ -38,10 +33,15 @@
     "1. To blow up or inflate a balloon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, thin, rubber bag that you blow air into so that it becomes larger and rounder or longer. They are used for toys or for decorations, especially at parties. English = balloon."
   ],
   "idGloss": "balloon",
-  "oldEntry": "Popular explanation: blowing up a balloon."
+  "oldEntry": "Popular explanation: blowing up a balloon.",
+  "seeAlso": [
+    "shout",
+    "expand.2",
+    "imagine.2"
+  ]
 }

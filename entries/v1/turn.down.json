@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "turn down"
   ],
   "deictic": [],
-  "cf": [
-    "channel.TV.1a"
-  ],
   "signNumber": 5171,
   "recordNumber": 3112,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,8 +36,11 @@
     "1. To adjust the controls on something such as a radio or heater so as to decrease the amount of sound or heat being produced. English = turn down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "turn.down",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "channel.TV.1a"
+  ]
 }

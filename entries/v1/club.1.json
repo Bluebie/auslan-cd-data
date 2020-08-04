@@ -15,19 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "club",
     "deaf club",
     "church"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5799,
   "recordNumber": 3440,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -40,12 +39,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A social club for people who are deaf; the deaf club.",
     "2. In Australia, any of a number of state based organisations that provide services to the deaf community (interpreting, welfare, community education, etc.); the deaf society.",
     "3. Any kind of social or sporting association or club."
   ],
   "idGloss": "club.1",
-  "oldEntry": "Popular explanation: pulling on church bell ropes."
+  "oldEntry": "Popular explanation: pulling on church bell ropes.",
+  "seeAlso": []
 }

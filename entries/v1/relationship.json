@@ -18,9 +18,9 @@
     "engtf6",
     "engtf7"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relationship",
     "connection",
@@ -31,13 +31,9 @@
     "related"
   ],
   "deictic": [],
-  "cf": [
-    "join.2",
-    "co-ordinate"
-  ],
   "signNumber": 384,
   "recordNumber": 207,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -52,12 +48,16 @@
     "3. Of two or more people, to belong to the same family. English = (be) related."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A close friendship between two people, especially one involving romantic or sexual feelings. English = relationship.",
     "2. Of two things, the way in which they are connected. English = relationship, connection, link.",
     "3. A strong feeling of friendship, love, or shared belief that unites two people. English = bond."
   ],
   "idGloss": "relationship",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "join.2",
+    "co-ordinate"
+  ]
 }

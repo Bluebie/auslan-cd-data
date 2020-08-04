@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smooth",
     "glassy"
   ],
   "deictic": [],
-  "cf": [
-    "wave.1a"
-  ],
   "signNumber": 4247,
   "recordNumber": 2574,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,10 +38,13 @@
     "2. [Especially with rounded lips and breathing in of air] of the surface of water, to be very smooth and shiny, like glass. English = glassy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A surface without any roughness, lumps, or holes; a smooth surface."
   ],
   "idGloss": "smooth",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wave.1a"
+  ]
 }

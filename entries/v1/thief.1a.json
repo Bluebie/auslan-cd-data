@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thief",
     "burglar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5067,
   "recordNumber": 3056,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who steals something from another person, especially without using violence and often wearing a mask to hide their identity. English = thief, burglar."
   ],
   "idGloss": "thief.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

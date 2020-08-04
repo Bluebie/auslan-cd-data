@@ -18,9 +18,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "genius",
     "intellect",
@@ -28,13 +28,9 @@
     "brainy"
   ],
   "deictic": [],
-  "cf": [
-    "brain",
-    "idea.1a"
-  ],
   "signNumber": 2909,
   "recordNumber": 1645,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -53,11 +49,15 @@
     "1. To have a very great natural ability and talent, especially for a particular subject or activity; to be very clever. English = (be) brilliant. Informal English = (be) brainy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has a very great natural ability and talent, especially for a particular subject or activity; a person who is very clever indeed. English = genius.",
     "2. A very great ability or skill in something. English = genius, intellect."
   ],
   "idGloss": "genius",
-  "oldEntry": "Popular explanation: a big brain."
+  "oldEntry": "Popular explanation: a big brain.",
+  "seeAlso": [
+    "brain",
+    "idea.1a"
+  ]
 }

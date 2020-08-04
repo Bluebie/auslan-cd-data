@@ -10,15 +10,12 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "half-time"
   ],
   "deictic": [],
-  "cf": [
-    "full-time"
-  ],
   "signNumber": 4312,
   "recordNumber": 2627,
   "signVisualComposition": "HALF + TIME",
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The short period of time between the two parts of a sports match, when the players have a short rest. English = half-time."
   ],
   "idGloss": "half-time",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "full-time"
+  ]
 }

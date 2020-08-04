@@ -22,9 +22,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "payment",
     "funds",
@@ -34,13 +34,9 @@
     "fund"
   ],
   "deictic": [],
-  "cf": [
-    "rent",
-    "mortgage"
-  ],
   "signNumber": 6247,
   "recordNumber": 3732,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -57,12 +53,16 @@
     "3. Of a person or organisation, to pay some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of paying money to someone. English = payment.",
     "2. The amount of money that is available for spending on something or is given by organisations or governments to be spent on something. English = funds, funding.",
     "3. A person or organisation who pays some or all of the expenses connected with an event or someone's training, often in order to get publicity for themselves. English = sponsor."
   ],
   "idGloss": "pay",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "rent",
+    "mortgage"
+  ]
 }

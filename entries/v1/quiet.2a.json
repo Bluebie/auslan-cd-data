@@ -20,7 +20,7 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SAY + PEACE",
   "queries": "A common variant of this sign is produced without the initial Point handshape (i.e., it is made with two Okay handshapes throughout).",
   "english": [
@@ -30,10 +30,9 @@
     "quieten"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1121,
   "recordNumber": 659,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0.2,
   "primaryLocation": 10,
@@ -54,12 +53,13 @@
     "3. To make a person, animal or thing become less noisy, less active and more calm. English = quieten."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A state or condition in which there is little or no noise or activity. English = quiet, silence.",
     "2. The situation in which you are not being disturbed and you are in calm, quiet surroundings. English = peace.",
     "3. The situation in which there is no war or conflict between countries. English = peace."
   ],
   "idGloss": "quiet.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

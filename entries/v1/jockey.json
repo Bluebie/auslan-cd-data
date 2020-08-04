@@ -12,21 +12,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers also position the subordinate hand as if holding onto reins.",
   "english": [
     "jockey",
     "whip"
   ],
   "deictic": [],
-  "cf": [
-    "punish.1a",
-    "penalise"
-  ],
   "signNumber": 6134,
   "recordNumber": 3651,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -41,10 +37,14 @@
     "1. To hit an animal, especially a horse, with a piece of leather or rope fastened to a handle to make it work harder or run faster. English = whip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who rides horses in a race. English = jockey."
   ],
   "idGloss": "jockey",
-  "oldEntry": "Popular explanation: hitting a horse with a whip."
+  "oldEntry": "Popular explanation: hitting a horse with a whip.",
+  "seeAlso": [
+    "punish.1a",
+    "penalise"
+  ]
 }

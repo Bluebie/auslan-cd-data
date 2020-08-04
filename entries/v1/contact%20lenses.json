@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "contact lenses"
   ],
   "deictic": [],
-  "cf": [
-    "spectacles.1a",
-    "glasses"
-  ],
   "signNumber": 6512,
   "recordNumber": 3874,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -37,10 +33,14 @@
     "1. To put contact lenses onto your eyes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two small pieces of plastic that you put on your eyes to make you see better, instead of wearing glasses. English = contact lenses."
   ],
   "idGloss": "contact lenses",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "spectacles.1a",
+    "glasses"
+  ]
 }

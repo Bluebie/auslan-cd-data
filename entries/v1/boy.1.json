@@ -13,19 +13,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boy"
   ],
   "deictic": [],
-  "cf": [
-    "people.2"
-  ],
   "signNumber": 633,
   "recordNumber": 367,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -41,11 +38,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A male human child. English = boy.",
     "2. A young man. Informal English = boy."
   ],
   "idGloss": "boy.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "people.2"
+  ]
 }

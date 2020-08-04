@@ -12,20 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "before"
   ],
   "deictic": [],
-  "cf": [
-    "prior.to.1a",
-    "since.1a"
-  ],
   "signNumber": 3969,
   "recordNumber": 2372,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -40,8 +36,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "before.that.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "prior.to.1a",
+    "since.1a"
+  ]
 }

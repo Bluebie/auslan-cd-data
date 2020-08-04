@@ -25,9 +25,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "accommodation",
     "hostel",
@@ -42,12 +42,9 @@
     "board"
   ],
   "deictic": [],
-  "cf": [
-    "dormitory"
-  ],
   "signNumber": 3210,
   "recordNumber": 1863,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -64,7 +61,7 @@
     "3. To live and sleep at school during term time. English = board."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A room or building to stay in or live in; a house where people can stay cheaply for a short time. English = accommodation; hostel.",
     "2. A building in which people stay, for example on holiday, paying for their rooms and meals; a building intended for people who are travelling by car, which has space to park cars near the rooms. English = hotel; motel.",
@@ -72,5 +69,8 @@
     "4. A large bedroom where several people sleep, for example in a boarding school. English = dormitory."
   ],
   "idGloss": "accommodation.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dormitory"
+  ]
 }

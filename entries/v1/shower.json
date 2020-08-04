@@ -12,19 +12,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shower"
   ],
   "deictic": [],
-  "cf": [
-    "bath.1a"
-  ],
   "signNumber": 2902,
   "recordNumber": 1639,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -37,11 +34,14 @@
     "1. To wash yourself by standing under a shower. English = shower, have a shower."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device used for washing yourself. It consists of a pipe or hose which ends in a flat piece with a lot of holes in it so that water comes out in a spray over your head and onto your body. English = shower.",
     "2. A wash you have by standing under a shower. English = shower."
   ],
   "idGloss": "shower",
-  "oldEntry": "Popular explanation: water falling on the head."
+  "oldEntry": "Popular explanation: water falling on the head.",
+  "seeAlso": [
+    "bath.1a"
+  ]
 }

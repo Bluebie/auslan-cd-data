@@ -14,19 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "station",
     "railway station",
     "steam train"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 36,
   "recordNumber": 22,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -43,11 +42,12 @@
     "1. To go somewhere by steam train."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building by a railway line where a train stops to pick up passengers and goods. English = station, railway station.",
     "2. A train whose engine is operated using steam as a means of power. English = steam train."
   ],
   "idGloss": "railway.station",
-  "oldEntry": "Popular explanation: a burst of steam and smoke from a steam-train."
+  "oldEntry": "Popular explanation: a burst of steam and smoke from a steam-train.",
+  "seeAlso": []
 }

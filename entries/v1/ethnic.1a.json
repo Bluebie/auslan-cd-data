@@ -13,18 +13,17 @@
     "engtf3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "migrant",
     "immigrant",
     "ethnic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 94,
   "recordNumber": 52,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
     "2. To be connected with or relating to different racial groups of people. English = (be) ethnic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person whose country of origin, background, or culture is not (Anglo-)Australian and is thus different from the majority of people in that culture.",
     "2. A person who moves from one country to another to live and work, particularly a person who moves to Australia. English = migrant, immigrant."
   ],
   "idGloss": "ethnic.1a",
-  "oldEntry": "Popular explanation: gesturing associated with Italians and other non-Anglos."
+  "oldEntry": "Popular explanation: gesturing associated with Italians and other non-Anglos.",
+  "seeAlso": []
 }

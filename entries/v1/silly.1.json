@@ -23,9 +23,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "silliness",
     "crudeness",
@@ -39,13 +39,9 @@
     "coarse"
   ],
   "deictic": [],
-  "cf": [
-    "fool.1a",
-    "silly.you"
-  ],
   "signNumber": 6550,
   "recordNumber": 3902,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -62,11 +58,15 @@
     "3. Of language or behaviour, to be rude and offensive. English = (be) crude, (be) gross, (be) coarse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is foolish or childish. English = silliness.",
     "2. Language or behaviour which is rude and offensive. English = crudeness, grossness, coarseness."
   ],
   "idGloss": "silly.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fool.1a",
+    "silly.you"
+  ]
 }

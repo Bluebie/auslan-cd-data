@@ -23,9 +23,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "frugality",
     "sparingness",
@@ -38,12 +38,9 @@
     "sparing"
   ],
   "deictic": [],
-  "cf": [
-    "rich.1a"
-  ],
   "signNumber": 3760,
   "recordNumber": 2222,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -61,11 +58,14 @@
     "2. To plan carefully how much you are going to spend on each thing you want. English = budget."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The spending of as little money as possible by living cheaply, mainly because of difficult economic circumstances. English = frugality, sparingness, scrimping, economising.",
     "2. A plan showing how much money a person or organisation has available and how it should be spent. English = budget."
   ],
   "idGloss": "scrimp",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "rich.1a"
+  ]
 }

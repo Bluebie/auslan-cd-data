@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "seal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3955,
   "recordNumber": 2359,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 17,
@@ -32,10 +31,11 @@
     "1. Of a seal, to clap flippers together."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, shiny animal without legs, which eats fish and lives partly on land and partly in the sea. English = seal."
   ],
   "idGloss": "seal.2",
-  "oldEntry": "Popular explanation: a seal clapping its fins together."
+  "oldEntry": "Popular explanation: a seal clapping its fins together.",
+  "seeAlso": []
 }

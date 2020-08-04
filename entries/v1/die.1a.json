@@ -18,9 +18,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "death",
     "die",
@@ -31,10 +31,9 @@
     "numb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2012,
   "recordNumber": 1180,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 14,
@@ -56,10 +55,11 @@
     "4. Of a part of your body, to temporarily lose the sense of feeling in it. English = (be) numb, (be) dead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The end of the life of a person or an animal. English = death."
   ],
   "idGloss": "die.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,21 +15,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "negotiation",
     "negotiate",
     "persuade"
   ],
   "deictic": [],
-  "cf": [
-    "fix.2"
-  ],
   "signNumber": 156,
   "recordNumber": 86,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -47,10 +44,13 @@
     "2. To try to cause someone to do something by giving them good reasons for doing it, usually by talking to them. English = persuade."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Discussions that take place between people with different interests, in which they try to reach an agreement. English = negotiation."
   ],
   "idGloss": "negotiate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fix.2"
+  ]
 }

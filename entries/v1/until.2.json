@@ -11,20 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "until"
   ],
   "deictic": [],
-  "cf": [
-    "round.the.clock",
-    "round.the.clock"
-  ],
   "signNumber": 4323,
   "recordNumber": 2635,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,8 +38,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "until.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "round.the.clock",
+    "round.the.clock"
+  ]
 }

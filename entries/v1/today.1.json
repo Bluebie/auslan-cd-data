@@ -14,19 +14,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "today"
   ],
   "deictic": [],
-  "cf": [
-    "now.1"
-  ],
   "signNumber": 4357,
   "recordNumber": 2652,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -43,10 +40,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The day on which you are signing, speaking, or writing. English = today."
   ],
   "idGloss": "today.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "now.1"
+  ]
 }

@@ -13,9 +13,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wharf",
     "berth",
@@ -24,12 +24,9 @@
     "dock"
   ],
   "deictic": [],
-  "cf": [
-    "platform.1a"
-  ],
   "signNumber": 4121.1,
   "recordNumber": 2481,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. To pull up in a ship next to a wharf, pier, or jetty. English = berth, dock."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A platform built of stone or wood along the side of a river or sea, where ships can be tied up for the purposes of loading and unloading goods or passengers. English = wharf, berth, pier, jetty, dock."
   ],
   "idGloss": "berth",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "platform.1a"
+  ]
 }

@@ -8,17 +8,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5698,
   "recordNumber": 3371,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "2. In a sports team, to get rid of a player because they are not needed or because they are not good enough. English = drop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "drop.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

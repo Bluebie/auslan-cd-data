@@ -9,17 +9,16 @@
     "engtf1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fur"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4480,
   "recordNumber": 2722,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,5 +35,6 @@
     "2. An item of clothing made out of fur. English = fur, fur coat."
   ],
   "idGloss": "fur",
-  "oldEntry": "Popular explanation: brushing and stroking a fur collar."
+  "oldEntry": "Popular explanation: brushing and stroking a fur collar.",
+  "seeAlso": []
 }

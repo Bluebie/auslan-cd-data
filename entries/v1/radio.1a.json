@@ -11,16 +11,15 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "radio"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2919,
   "recordNumber": 1656,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -35,10 +34,11 @@
     "1. To listen to a radio."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The piece of equipment you use when you listen to radio programmes. The sounds are sent over a distance by transmitting electrical signals. English = radio."
   ],
   "idGloss": "radio.1a",
-  "oldEntry": "Popular explanation: the earphones of a radio head-set."
+  "oldEntry": "Popular explanation: the earphones of a radio head-set.",
+  "seeAlso": []
 }

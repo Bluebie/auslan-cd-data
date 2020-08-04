@@ -18,21 +18,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corner",
     "convergence",
     "converge"
   ],
   "deictic": [],
-  "cf": [
-    "street.1a"
-  ],
   "signNumber": 3769,
   "recordNumber": 2230,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,12 +48,15 @@
     "2. For two edges, sides or surfaces of something to come closer and closer and meet; or for two once separate things to come together and merge in some way. English = converge."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A point or an area where two or more of its edges, sides, or surfaces join. English = corner.",
     "2. A place where two streets join. English = corner.",
     "3. The coming together of two edges, sides or surfaces of something; or the coming together in some way of two once separate things. English = convergence."
   ],
   "idGloss": "corner.1a",
-  "oldEntry": "Popular explanation: the corner of an object."
+  "oldEntry": "Popular explanation: the corner of an object.",
+  "seeAlso": [
+    "street.1a"
+  ]
 }

@@ -5,17 +5,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "profile"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 491,
   "recordNumber": 273,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -26,10 +25,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The outline of your face as it is seen when someone is looking at you from the side. English = profile."
   ],
   "idGloss": "profile",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

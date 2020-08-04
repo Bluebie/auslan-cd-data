@@ -18,9 +18,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boss",
     "foreman",
@@ -30,13 +30,9 @@
     "chief"
   ],
   "deictic": [],
-  "cf": [
-    "teacher",
-    "Lord"
-  ],
   "signNumber": 5065,
   "recordNumber": 3054,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -49,7 +45,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person who is in charge of the organisation where you work. English = boss, head.",
     "2. A person who is in charge of a group of workers; or a person who is in charge of or in control of a business or other organisation. English = foreman; manager.",
@@ -57,5 +53,9 @@
     "4. Someone who is more important than you or who has more authority. English = superior, chief."
   ],
   "idGloss": "boss.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "teacher",
+    "Lord"
+  ]
 }

@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "depth",
     "profundity",
@@ -30,10 +30,9 @@
     "profound"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5182,
   "recordNumber": 3117,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -54,12 +53,13 @@
     "3. Of understand or analysis, to be very serious, exhaustive, or complete, and to show a great deal of intellectual understanding. English = (be) deep, (be) profound."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The distance between the top and bottom surfaces of something. English = depth.",
     "2. The great intensity or seriousness of a situation, emotion, thought, etc. English = depth, profundity.",
     "3. The degree or amount to which something is serious or important. English = depth."
   ],
   "idGloss": "depth.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -21,9 +21,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "history",
     "olden",
@@ -32,13 +32,9 @@
     "formerly"
   ],
   "deictic": [],
-  "cf": [
-    "continue.1a",
-    "from.long.ago"
-  ],
   "signNumber": 3575,
   "recordNumber": 2097,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -59,12 +55,16 @@
     "3. To relate to history. English = (be) historical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time long before the present; a period of time in the distant past; olden times; olden days.",
     "2. Events in the past. English = history.",
     "3. A subject studied in schools, colleges, and universities that deals with the past. English = history."
   ],
   "idGloss": "long.ago.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "continue.1a",
+    "from.long.ago"
+  ]
 }

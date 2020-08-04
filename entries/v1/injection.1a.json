@@ -29,9 +29,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "syringe",
     "hypodermic needle",
@@ -47,13 +47,9 @@
     "inject"
   ],
   "deictic": [],
-  "cf": [
-    "needle",
-    "blood-sample"
-  ],
   "signNumber": 5532,
   "recordNumber": 3273,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -71,7 +67,7 @@
     "4. [Especially at 'unusual' locations on the body (e.g., teeth, jaw, various joints)], to administer a local anaesthetic by injection."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small tube with a plunger and a fine hollow needle or pointed end. It is used for putting liquids into something and taking them out, for example drugs into a person's body or for taking blood samples from them. English = syringe, hypodermic needle.",
     "2. The act of using a syringe to put liquids into a person's body. English = injection. Informal English = jab.",
@@ -79,5 +75,9 @@
     "4. A person who injects themselves with harmful drugs; the drugs themselves.  English = drug addict, intravenous drug user; drugs, heroin."
   ],
   "idGloss": "injection.1a",
-  "oldEntry": "Popular explanation: injecting a hypodermic needle into the arm."
+  "oldEntry": "Popular explanation: injecting a hypodermic needle into the arm.",
+  "seeAlso": [
+    "needle",
+    "blood-sample"
+  ]
 }

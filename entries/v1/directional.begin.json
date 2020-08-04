@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beginning directional"
   ],
   "deictic": [],
-  "cf": [
-    "directional",
-    "orientating"
-  ],
   "signNumber": 3364.3,
   "recordNumber": 1967,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": null,
   "primaryLocation": 14,
@@ -37,8 +33,12 @@
     "1. Of a sign, to belong to a class of signs in which the location of the starting point of the sign can be changed to show the relationship between two people or things and the action of the verb. English = (be) beginning directional."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "directional.begin",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "directional",
+    "orientating"
+  ]
 }

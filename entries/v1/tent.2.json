@@ -11,17 +11,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3626,
   "recordNumber": 2135,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,12 +35,13 @@
     "1. To pitch a tent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shelter made of canvas or nylon, which you sleep in when you are camping. It is held up by poles and ropes. English = tent.",
     "2. A large round tent, usually with a pitched roof, that a circus uses for its performances. English = big top.",
     "3. A pitched concave roof on a building, especially in the oriental style."
   ],
   "idGloss": "tent.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

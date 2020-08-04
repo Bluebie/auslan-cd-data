@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "agape",
     "flabbergasted"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5261,
   "recordNumber": 3158,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -41,8 +40,9 @@
     "1. To have your mouth open very wide, often because you are very surprised by something. English = (be) agape, (be) flabbergasted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "flabbergasted.1a",
-  "oldEntry": "Popular explanation: the jaw dropping in surprise."
+  "oldEntry": "Popular explanation: the jaw dropping in surprise.",
+  "seeAlso": []
 }

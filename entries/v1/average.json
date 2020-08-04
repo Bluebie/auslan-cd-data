@@ -17,19 +17,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "average",
     "division",
     "divide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 975,
   "recordNumber": 563,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -49,12 +48,13 @@
     "2. To add two or more numbers together and divide the total by the number of numbers you added together. English = average."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The calculation of the number of times a smaller number goes into a larger number. English = division.",
     "2. The result you get when you calculate the number of times a smaller number goes into a larger number.",
     "3. The result that you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = average."
   ],
   "idGloss": "average",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

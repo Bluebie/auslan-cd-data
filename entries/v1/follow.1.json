@@ -16,8 +16,8 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The dominant hand can incorporate numbers up to four to show how many people are following. Some signers initialise the sign with the one handed letter 'a' for 'apostle', and 'd' for 'disciple'.",
   "english": [
     "follower",
@@ -26,12 +26,9 @@
     "apostle"
   ],
   "deictic": [],
-  "cf": [
-    "traffic.jam"
-  ],
   "signNumber": 941,
   "recordNumber": 540,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -47,12 +44,15 @@
     "2. To believe and support the ideas of another person; to follow someone else's beliefs; to be a disciple of someone else."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of following closely behind someone.",
     "2. A person who supports the beliefs of another person. English = follower, adherent, disciple.",
     "3. The followers of Jesus Christ who went from place to place telling people about him and trying to persuade them to become Christians. English = apostle."
   ],
   "idGloss": "follow.1",
-  "oldEntry": "Popular explanation: two vertical upright objects moving away together."
+  "oldEntry": "Popular explanation: two vertical upright objects moving away together.",
+  "seeAlso": [
+    "traffic.jam"
+  ]
 }

@@ -5,15 +5,14 @@
     "auslex",
     "onehand"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 6555,
   "recordNumber": 3906,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,8 +27,9 @@
     "1. To experience a situation or a person, especially a foolish person, that is unpleasant in some way, while trying to hide your feelings of irritation or pain. Idiomatic English = suffer fools, grin and bear it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "suffer.fools",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

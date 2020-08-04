@@ -13,20 +13,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bad"
   ],
   "deictic": [],
-  "cf": [
-    "horrible.1a",
-    "disapprove.of"
-  ],
   "signNumber": 4979,
   "recordNumber": 3007,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,8 +39,12 @@
     "1. To be unpleasant, harmful, undesirable, or to be of an unacceptable quality, amount or standard. English = (be) bad."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "bad",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "horrible.1a",
+    "disapprove.of"
+  ]
 }

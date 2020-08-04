@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "saying",
     "telling",
@@ -38,10 +38,9 @@
     "mention"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 623,
   "recordNumber": 360,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -61,7 +60,7 @@
     "4. To say something that gives your opinion of something or which gives an explanation of it. English = comment."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A traditional sentence that people often say and that gives advice or information about human life and experience. English = saying.",
     "2. The way someone goes about using words or signs to communicate a specific piece of information or a story. English = telling, rendition.",
@@ -69,5 +68,6 @@
     "4. Something that you say that gives your opinion of something or which gives an explanation of it. English = comment."
   ],
   "idGloss": "say.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

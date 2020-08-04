@@ -21,9 +21,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pourer",
     "jug",
@@ -33,13 +33,9 @@
     "pour"
   ],
   "deictic": [],
-  "cf": [
-    "spout.1a",
-    "spout.1b"
-  ],
   "signNumber": 5671,
   "recordNumber": 3360,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -63,5 +59,9 @@
     "3. A container with a lid, a handle, and a spout for pouring. You use it for making and serving tea. English = teapot."
   ],
   "idGloss": "pourer",
-  "oldEntry": "Popular explanation: pouring a liquid from a container."
+  "oldEntry": "Popular explanation: pouring a liquid from a container.",
+  "seeAlso": [
+    "spout.1a",
+    "spout.1b"
+  ]
 }

@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jacket",
     "blazer",
@@ -25,12 +25,9 @@
     "sports coat"
   ],
   "deictic": [],
-  "cf": [
-    "cardigan"
-  ],
   "signNumber": 3428,
   "recordNumber": 2001,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -46,11 +43,14 @@
     "2. To wear a blazer, sports jacket or sports coat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A short coat with long sleeves and an opening at the front. English = jacket.",
     "2. A kind of jacket, particularly one worn by schoolchildren or members of a sports team. English = blazer, sports jacket, sports coat."
   ],
   "idGloss": "jacket.1a",
-  "oldEntry": "Popular explanation: the outline of a blazer."
+  "oldEntry": "Popular explanation: the outline of a blazer.",
+  "seeAlso": [
+    "cardigan"
+  ]
 }

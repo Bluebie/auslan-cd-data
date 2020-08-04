@@ -12,18 +12,17 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "slave",
     "slavery",
     "enslave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5632,
   "recordNumber": 3337,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,11 +35,12 @@
     "1. To make someone a slave. English = enslave."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is the property of another person and has to work for that person. English = slave.",
     "2. A system by which people are owned by other people for whom they have to work. English = slavery."
   ],
   "idGloss": "slave.1a",
-  "oldEntry": "Popular explanation: pulling on something around the neck."
+  "oldEntry": "Popular explanation: pulling on something around the neck.",
+  "seeAlso": []
 }

@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chewing gum",
     "chew gum"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 281,
   "recordNumber": 165,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -33,10 +32,11 @@
     "1. To chew gum."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of sweet which you chew for a long time but do not swallow. English = chewing gum."
   ],
   "idGloss": "chewing.gum",
-  "oldEntry": "Popular explanation: stretching gum from the mouth."
+  "oldEntry": "Popular explanation: stretching gum from the mouth.",
+  "seeAlso": []
 }

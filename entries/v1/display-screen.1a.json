@@ -11,9 +11,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "VDU",
     "visual display unit",
@@ -21,10 +21,9 @@
     "computer screen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 851,
   "recordNumber": 487,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 7,
@@ -37,10 +36,11 @@
     "1. To display information or pictures on a computer screen."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The vertical surface of a computer on which information and pictures are displayed. English = visual display screen, display screen, visual display unit (VDU), computer screen, monitor."
   ],
   "idGloss": "display-screen.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,21 +13,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nag"
   ],
   "deictic": [],
-  "cf": [
-    "alligator",
-    "bite.1a",
-    "speechless.2"
-  ],
   "signNumber": 3054,
   "recordNumber": 1752,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -42,10 +37,15 @@
     "1. To keep complaining in an irritating way, to keep on talking about something to someone in an irritating way. English = nag."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who always complains in an irritating way. English = nag."
   ],
   "idGloss": "nag",
-  "oldEntry": "Popular explanation: teeth opening and closing."
+  "oldEntry": "Popular explanation: teeth opening and closing.",
+  "seeAlso": [
+    "alligator",
+    "bite.1a",
+    "speechless.2"
+  ]
 }

@@ -16,19 +16,18 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scream",
     "cry",
     "shriek"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1415,
   "recordNumber": 843,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -48,11 +47,12 @@
     "2. To make a sudden loud scream. English = shriek."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very loud, high-pitched noise made with your voice and mouth, usually because you are in pain or are very frightened. English = scream, cry.",
     "2. A sudden loud scream. English = shriek."
   ],
   "idGloss": "scream",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

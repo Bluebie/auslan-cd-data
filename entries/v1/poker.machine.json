@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "poker machine",
     "pokies"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5675,
   "recordNumber": 3363,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To gamble on a poker machine; to play a poker machine. Informal Australian English = play the pokies."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine used for gambling. You put in a coin and then pull a lever (on old machines) or press buttons (on new machines) to try and get particular patterns of symbols on a screen in order to win money. Australian English = poker machine, pokies."
   ],
   "idGloss": "poker.machine",
-  "oldEntry": "Popular explanation: pulling the lever on a poker machine."
+  "oldEntry": "Popular explanation: pulling the lever on a poker machine.",
+  "seeAlso": []
 }

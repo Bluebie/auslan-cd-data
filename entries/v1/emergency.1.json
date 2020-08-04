@@ -12,16 +12,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "emergency"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5002,
   "recordNumber": 3016,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -38,10 +37,11 @@
     "1. For something bad or serious to happen suddenly in a way which is dangerous and must be dealt with immediately; to be an emergency."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
   ],
   "idGloss": "emergency.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

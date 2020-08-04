@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SPIRIT + container",
-  "queries": "",
+  "queries": null,
   "english": [
     "genie"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2892,
   "recordNumber": 1632,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A magical being, in stories from Arabia and Persia, that obeys the orders of the person who controls it. It is often portrayed as hiding in a magic lantern that must be rubbed for it to come out. English = genie."
   ],
   "idGloss": "genie",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

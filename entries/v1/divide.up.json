@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "share",
     "divide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1040,
   "recordNumber": 609,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To separate, cut, break, etc, something up into smaller parts so that a little piece or small amount can be given to each of several people. English = share, divide, divide up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "divide.up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

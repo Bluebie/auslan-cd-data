@@ -10,17 +10,16 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2452,
   "recordNumber": 1361,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -38,8 +37,9 @@
     "1. To be nervous and uncomfortable in the company of other people. English = (be) shy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "shy.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

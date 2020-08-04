@@ -10,21 +10,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dip",
     "savoury-dip",
     "scoop up"
   ],
   "deictic": [],
-  "cf": [
-    "filler"
-  ],
   "signNumber": 219,
   "recordNumber": 128,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,5 +37,8 @@
     "1. A thick, creamy mixture which you can eat by scooping it up with raw vegetables or biscuits. English = dip, savoury-dip."
   ],
   "idGloss": "savoury-dip",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "filler"
+  ]
 }

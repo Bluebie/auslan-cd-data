@@ -21,9 +21,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "patience",
     "endurance",
@@ -33,12 +33,9 @@
     "calm"
   ],
   "deictic": [],
-  "cf": [
-    "stroke.1"
-  ],
   "signNumber": 3456,
   "recordNumber": 2017,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -59,12 +56,15 @@
     "3. To be quiet and peaceful. English = (be) calm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to stay calm and not get annoyed, for example when you are waiting for something. English = patience.",
     "2. The ability to bear a painful or difficult situation calmly and patiently. English = endurance.",
     "3. A state of quiet and peacefulness without excitement or stress. English = calmness."
   ],
   "idGloss": "patience.1a",
-  "oldEntry": "Popular explanation: stroking oneself in the action of calming down."
+  "oldEntry": "Popular explanation: stroking oneself in the action of calming down.",
+  "seeAlso": [
+    "stroke.1"
+  ]
 }

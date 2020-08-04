@@ -12,21 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pack",
     "packer",
     "pack up"
   ],
   "deictic": [],
-  "cf": [
-    "put.1a"
-  ],
   "signNumber": 182,
   "recordNumber": 102,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "2. To work as a packer in a process line in a factory."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who removes things from the end of the process line in a factory and places them in packets or boxes. English = packer."
   ],
   "idGloss": "pack",
-  "oldEntry": "Popular explanation: putting things into a suitcase."
+  "oldEntry": "Popular explanation: putting things into a suitcase.",
+  "seeAlso": [
+    "put.1a"
+  ]
 }

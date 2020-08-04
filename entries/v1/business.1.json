@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "business"
   ],
   "deictic": [],
-  "cf": [
-    "lazy.3"
-  ],
   "signNumber": 3501,
   "recordNumber": 2048,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -36,11 +33,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Work relating to the production, buying, and selling of goods and services. English = business.",
     "2. An organisation which produces and sells goods or which provides a service. English = business."
   ],
   "idGloss": "business.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lazy.3"
+  ]
 }

@@ -21,9 +21,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "PROGRESS + OKAY",
-  "queries": "",
+  "queries": null,
   "english": [
     "improvement",
     "progress",
@@ -32,10 +32,9 @@
     "improve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 435,
   "recordNumber": 242,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -56,12 +55,13 @@
     "3. To grow or change over a period of time into a better or more complete form. English = develop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A change for the better. English = improvement.",
     "2. The act or process of becoming more advanced, skilful, or higher in rank over a period of time. English = progress.",
     "3. The process of growing or changing over a period of time into a better or more complete form. English = development."
   ],
   "idGloss": "improve.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

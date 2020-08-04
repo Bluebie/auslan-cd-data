@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "roll-your-own",
     "rollie"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6169,
   "recordNumber": 3681,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "2. Of or relating to a hand-rolled cigarette."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hand-rolled cigarette. English = roll-your-own, rollie."
   ],
   "idGloss": "roll-your-own",
-  "oldEntry": "Popular explanation: rolling a cigarette."
+  "oldEntry": "Popular explanation: rolling a cigarette.",
+  "seeAlso": []
 }

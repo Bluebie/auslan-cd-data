@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grease gun",
     "service"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5805,
   "recordNumber": 3445,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "2. Of a car, to examine, adjust and clean it so that it will keep working efficiently and safely. English = service."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device for forcing grease into special holes in machines so that their moving parts will work smoothly. English = grease gun.",
     "2. Of a car, the action of examining, adjusting and cleaning it so that it will keep working efficiently and safely. English = service."
   ],
   "idGloss": "grease gun",
-  "oldEntry": "Popular explanation: operating a grease gun."
+  "oldEntry": "Popular explanation: operating a grease gun.",
+  "seeAlso": []
 }

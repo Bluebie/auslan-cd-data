@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "According to some informants the modern form of this sign is now performed from the tip of the nose to the forehead.",
   "english": [
     "picnic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 549,
   "recordNumber": 314,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An outing at which people eat a meal out of doors, usually in a field, wood, park, or at the beach. English = picnic."
   ],
   "idGloss": "picnic.2",
-  "oldEntry": "Popular explanation: the outline of a cyst on the forehead of a grocer who used to take deaf children from Darlington school on picnics."
+  "oldEntry": "Popular explanation: the outline of a cyst on the forehead of a grocer who used to take deaf children from Darlington school on picnics.",
+  "seeAlso": []
 }

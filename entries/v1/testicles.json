@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "testicles",
     "balls"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3070,
   "recordNumber": 1764,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 16,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two sex glands of a man that produce sperm. They are egg shaped and hang in sacks under his penis. English = testicles, (singular) testicle. Informal slang English = balls."
   ],
   "idGloss": "testicles",
-  "oldEntry": "Popular explanation: two spheres."
+  "oldEntry": "Popular explanation: two spheres.",
+  "seeAlso": []
 }

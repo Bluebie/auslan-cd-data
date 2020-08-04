@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tail",
     "wag"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 808,
   "recordNumber": 461,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -38,10 +37,11 @@
     "1. Of an animal (especially a dog), to repeatedly wave its tail (especially when it is happy) from side to side. English = wag (a tail, its tail)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of the body of an animal, bird, or fish that is at the opposite end to its head. That part of the body is usually long and thin. English = tail."
   ],
   "idGloss": "tail.2",
-  "oldEntry": "Popular explanation: a tail wagging."
+  "oldEntry": "Popular explanation: a tail wagging.",
+  "seeAlso": []
 }

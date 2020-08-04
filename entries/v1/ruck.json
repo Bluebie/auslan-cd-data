@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ruck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5562,
   "recordNumber": 3288,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australian rules football, a group of three players, a rover and two ruckmen, who do not have fixed positions but follow the play with the purpose of winning possession of the ball. English = ruck."
   ],
   "idGloss": "ruck",
-  "oldEntry": "Popular explanation: hitting the ball."
+  "oldEntry": "Popular explanation: hitting the ball.",
+  "seeAlso": []
 }

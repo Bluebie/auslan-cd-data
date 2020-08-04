@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thin",
     "skinny",
@@ -28,12 +28,9 @@
     "narrow"
   ],
   "deictic": [],
-  "cf": [
-    "straw.1a"
-  ],
   "signNumber": 5475,
   "recordNumber": 3251,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 15,
@@ -55,5 +52,8 @@
   "generalMeaning": "An object which has a small distance between its two opposite surfaces and which is usually long and upright or vertical, or any thing or any action directly or indirectly associated with this, especially a very thin person.",
   "nominalLexeme": [],
   "idGloss": "thin.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "straw.1a"
+  ]
 }

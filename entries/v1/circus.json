@@ -7,16 +7,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "circus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2024,
   "recordNumber": 1186,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 14,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A show performed in a large tent, with animals, clowns, and acrobats. English = circus."
   ],
   "idGloss": "circus",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

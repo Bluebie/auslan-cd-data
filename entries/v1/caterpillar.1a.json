@@ -16,9 +16,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "worm",
     "caterpillar",
@@ -26,12 +26,9 @@
     "crawl"
   ],
   "deictic": [],
-  "cf": [
-    "maggot"
-  ],
   "signNumber": 1218,
   "recordNumber": 718,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,7 +41,7 @@
     "1. To crawl around like a worm, caterpillar or grub."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small animal with a longish soft body (usually with no legs) and no bones that wiggles around on plants or on or in the ground.",
     "2. A small animal with a long thin body, no bones, and no legs, which lives in the soil. English = worm.",
@@ -52,5 +49,8 @@
     "4. A young insect which has just come out of an egg and looks like a short fat worm. English = grub."
   ],
   "idGloss": "caterpillar.1a",
-  "oldEntry": "Popular explanation: the shape of a crawling grub."
+  "oldEntry": "Popular explanation: the shape of a crawling grub.",
+  "seeAlso": [
+    "maggot"
+  ]
 }

@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mouse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1422,
   "recordNumber": 850,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very small furry animal with a long tail. English = mouse."
   ],
   "idGloss": "mouse.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,15 +9,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "breastfeeding",
     "breastfeed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4436,
   "recordNumber": 2695,
   "signVisualComposition": "BREAST + FEED",
@@ -33,10 +32,11 @@
     "1. Of a woman, to feed a baby with the milk from her breasts, rather than from a bottle. English = breastfeed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a woman, the feeding of a baby with the milk from her breasts, rather than a bottle. English = breastfeeding."
   ],
   "idGloss": "breastfeed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

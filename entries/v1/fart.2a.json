@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fart"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5711,
   "recordNumber": 3378,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -34,10 +33,11 @@
     "1. To allow air to be forced out of your body through your anus. English = fart."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of forcing air out of your body through your anus, or the (usually foul smelling) air itself. English = fart."
   ],
   "idGloss": "fart.2a",
-  "oldEntry": "Popular explanation: something exploding behind oneself."
+  "oldEntry": "Popular explanation: something exploding behind oneself.",
+  "seeAlso": []
 }

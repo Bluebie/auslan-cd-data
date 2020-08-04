@@ -11,19 +11,18 @@
     "engtf3",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "indirect",
     "roundabout",
     "indirectly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3978,
   "recordNumber": 2379,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -40,8 +39,9 @@
     "1. To do or influence something by going through or using something else rather than the easiest, simplest, or shortest route; to go somewhere by a long route rather than the shortest route. English = (be) indirect, (be) roundabout."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "indirect",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

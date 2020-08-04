@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "abattoir",
     "slaughter"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6585,
   "recordNumber": 3926,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,10 +35,11 @@
     "1. To kill animals and then cut them up for their meat. English = slaughter."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where animals are killed for their meat. English = abattoir."
   ],
   "idGloss": "abattoir.1",
-  "oldEntry": "Popular explanation: slitting the throat of an animal with a cutthroat razor."
+  "oldEntry": "Popular explanation: slitting the throat of an animal with a cutthroat razor.",
+  "seeAlso": []
 }

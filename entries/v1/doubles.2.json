@@ -11,16 +11,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "doubles"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1645,
   "recordNumber": 976,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -35,10 +34,11 @@
     "1. To play doubles."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In a game of tennis or badminton, a competition in which two people play against two other people. English = doubles."
   ],
   "idGloss": "doubles.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

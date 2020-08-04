@@ -15,9 +15,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "able",
     "can",
@@ -25,13 +25,9 @@
     "may"
   ],
   "deictic": [],
-  "cf": [
-    "maybe",
-    "perhaps.1a"
-  ],
   "signNumber": 5075,
   "recordNumber": 3060,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -50,8 +46,12 @@
     "1. To have the possibility, skill or permission to do something. English = (be) able to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "can.able.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "maybe",
+    "perhaps.1a"
+  ]
 }

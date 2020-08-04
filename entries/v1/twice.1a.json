@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "twice"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1587,
   "recordNumber": 946,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "twice.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

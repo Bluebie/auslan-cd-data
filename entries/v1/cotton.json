@@ -12,21 +12,17 @@
     "cf2",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cotton",
     "cotton wool"
   ],
   "deictic": [],
-  "cf": [
-    "Swedish",
-    "wool.1a"
-  ],
   "signNumber": 3962,
   "recordNumber": 2366,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -37,11 +33,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A natural cloth made from the soft fibres that are produced by the cotton plant. English = cotton.",
     "2. Soft, fluffy cotton used especially for applying liquids or creams to your skin. English = cotton wool."
   ],
   "idGloss": "cotton",
-  "oldEntry": "Popular explanation: tugging on cotton wool."
+  "oldEntry": "Popular explanation: tugging on cotton wool.",
+  "seeAlso": [
+    "Swedish",
+    "wool.1a"
+  ]
 }

@@ -16,19 +16,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "correction",
     "correct",
     "vote"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1254,
   "recordNumber": 743,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,12 +46,13 @@
     "3. To mark a ballot paper with a cross to show your preferred candidate. English = vote."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mark on a surface in the shape of a cross.",
     "2. A line or cross drawn through the words on a page, usually because they are wrong. It is usually followed by the insertion of the correct word or words. English = correction.",
     "3. Marks on a ballot paper that show who the person is voting for."
   ],
   "idGloss": "cross.out.1a",
-  "oldEntry": "Popular explanation: marking a cross on something."
+  "oldEntry": "Popular explanation: marking a cross on something.",
+  "seeAlso": []
 }

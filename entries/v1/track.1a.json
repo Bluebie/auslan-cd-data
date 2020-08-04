@@ -7,17 +7,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "track"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3799,
   "recordNumber": 2255,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A narrow road or path, especially one that has not been deliberately built and which meanders all over the place. English = track."
   ],
   "idGloss": "track.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

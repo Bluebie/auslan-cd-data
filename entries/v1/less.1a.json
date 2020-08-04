@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "small",
     "less",
@@ -28,10 +28,9 @@
     "reduce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3781,
   "recordNumber": 2239,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,8 +50,9 @@
     "3. To be not as much in amount or degree as before or as something else. English = (be) less."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "less.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

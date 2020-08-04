@@ -9,16 +9,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "capital"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5387.1,
   "recordNumber": 3217,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a country, the city or town where its government or parliament is. English = capital."
   ],
   "idGloss": "capital.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

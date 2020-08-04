@@ -18,9 +18,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "illness",
     "sickness",
@@ -29,10 +29,9 @@
     "ill"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4987,
   "recordNumber": 3009,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -52,11 +51,12 @@
     "3. To make someone feel angry or disgusted. English = (be) sick."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A health problem which makes you unable to work or live normally. English = illness, sickness, disease.",
     "2. The experience of being ill for a period of time. English = illness."
   ],
   "idGloss": "sick.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

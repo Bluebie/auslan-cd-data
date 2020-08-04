@@ -13,9 +13,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "TEASE + JOKE",
-  "queries": "",
+  "queries": null,
   "english": [
     "teasing",
     "ridicule",
@@ -23,12 +23,9 @@
     "ridicule"
   ],
   "deictic": [],
-  "cf": [
-    "joke.1a"
-  ],
   "signNumber": 5546,
   "recordNumber": 3282,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "1. To deliberately embarrass someone, trick them, or make fun of them, because this amuses you. English = tease, ridicule."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of deliberately embarrassing someone, tricking them, or making fun of them, because this amuses you. English = teasing, ridicule."
   ],
   "idGloss": "tease.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "joke.1a"
+  ]
 }

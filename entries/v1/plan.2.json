@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plan",
     "blueprint",
@@ -28,12 +28,9 @@
     "map"
   ],
   "deictic": [],
-  "cf": [
-    "compasses"
-  ],
   "signNumber": 1715,
   "recordNumber": 1026,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,12 +48,15 @@
     "4. To make a map of an area. English = map."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Detailed decisions about what you are going to do. English = plan.",
     "2. A detailed drawing of the main parts of something that you are going to make, build, or create will be and how they will be arranged.  English = plan, blueprint.",
     "3. A map of an area showing where you will go. English = chart."
   ],
   "idGloss": "plan.2",
-  "oldEntry": "Popular explanation: a turning compass."
+  "oldEntry": "Popular explanation: a turning compass.",
+  "seeAlso": [
+    "compasses"
+  ]
 }

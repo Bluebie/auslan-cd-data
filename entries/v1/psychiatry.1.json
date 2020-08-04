@@ -12,15 +12,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "psychiatry",
     "psychiatrist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4011,
   "recordNumber": 2401,
   "signVisualComposition": "MIND + DOCTOR",
@@ -37,11 +36,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The branch of medicine concerned with mental illness. English = psychiatry.",
     "2. A doctor who treats people suffering from mental illness. English = psychiatrist."
   ],
   "idGloss": "psychiatry.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

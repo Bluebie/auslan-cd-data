@@ -4,15 +4,14 @@
     "auslex",
     "onehand"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign combines with reference or 'pronoun' signs (generally made by pointing to the real or imagined location of the referent) to form reflexives. The reflexive is used to mean the action is done by the referent to the referent.",
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 6300,
   "recordNumber": 3764,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -25,8 +24,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "self",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

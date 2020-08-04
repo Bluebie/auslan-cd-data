@@ -16,9 +16,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "highway",
     "expressway",
@@ -27,13 +27,9 @@
     "tollway"
   ],
   "deictic": [],
-  "cf": [
-    "road",
-    "street.1a"
-  ],
   "signNumber": 2013,
   "recordNumber": 1181,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 14,
@@ -44,11 +40,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large road that connects towns or cities; or a main road that carries a lot of traffic. English = highway.",
     "2. A road with several lanes and controlled places where vehicles join it, so that people can travel quickly. English = expressway, freeway, motorway, tollway."
   ],
   "idGloss": "highway",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "road",
+    "street.1a"
+  ]
 }

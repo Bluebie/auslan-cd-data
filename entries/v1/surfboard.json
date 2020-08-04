@@ -14,9 +14,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "surfing",
     "surfboard",
@@ -24,10 +24,9 @@
     "surfie"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1684,
   "recordNumber": 1007,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -40,12 +39,13 @@
     "1. To ride towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surf."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sport of riding towards the seashore on top of a big wave while standing or lying on a long narrow board. English = surfing.",
     "2. A long narrow board that people use in surfing. English = surfboard.",
     "3. A young person who spends a lot of time at the beach, enjoying themselves by going surfing. Informal Australian English = surfie."
   ],
   "idGloss": "surfboard",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

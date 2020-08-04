@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "honeymoon",
     "honey"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2454,
   "recordNumber": 1363,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -39,11 +38,12 @@
     "1. To go on a honeymoon. English = honeymoon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet sticky yellowish substance that is made by bees. English = honey.",
     "2. A holiday taken by a couple that have just got married. English = honeymoon."
   ],
   "idGloss": "honey.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

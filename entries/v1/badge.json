@@ -13,20 +13,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "badge"
   ],
   "deictic": [],
-  "cf": [
-    "watch.2",
-    "biscuit.2"
-  ],
   "signNumber": 4769,
   "recordNumber": 2883,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,10 +39,14 @@
     "1. To wear small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, usually circular, piece of metal or cloth which you attach to your clothes. It often has messages or designs on it. English = badge."
   ],
   "idGloss": "badge",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "watch.2",
+    "biscuit.2"
+  ]
 }

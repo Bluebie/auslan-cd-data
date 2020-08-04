@@ -8,17 +8,16 @@
     "engtf1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crystal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6324,
   "recordNumber": 3775,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very high quality glass, usually with its surface cut so that it twinkles in the light. High quality drinking glasses and other ornamental glassware are made from this. English = crystal."
   ],
   "idGloss": "crystal",
-  "oldEntry": "Popular explanation: flicking an object to test it."
+  "oldEntry": "Popular explanation: flicking an object to test it.",
+  "seeAlso": []
 }

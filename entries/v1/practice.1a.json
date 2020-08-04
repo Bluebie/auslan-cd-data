@@ -13,9 +13,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "practice",
     "training",
@@ -23,10 +23,9 @@
     "train"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5846,
   "recordNumber": 3478,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -39,10 +38,11 @@
     "1. To keep doing something regularly in order to do it better, especially something physical or associated with sport. English = practise, train."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Regular exercise at doing something in order to do it better, especially something physical or associated with sport. English = practice, training."
   ],
   "idGloss": "practice.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

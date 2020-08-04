@@ -17,8 +17,8 @@
     "ant1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "advantage",
     "benefit",
@@ -27,10 +27,9 @@
     "beneficial"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 952,
   "recordNumber": 548,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -47,10 +46,11 @@
     "3. To put you in a better position that other people, or to be likely to improve a situation. English = (be) advantageous, (be) beneficial."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that puts you in a better position than other people, or is likely to improve a situation. English = advantage, benefit."
   ],
   "idGloss": "positive.1a",
-  "oldEntry": "Popular explanation: the shape of a plus symbol."
+  "oldEntry": "Popular explanation: the shape of a plus symbol.",
+  "seeAlso": []
 }

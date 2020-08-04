@@ -8,15 +8,14 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "very",
     "extremely"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1703,
   "recordNumber": 1018,
   "signVisualComposition": "V + V",
@@ -34,8 +33,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "very.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

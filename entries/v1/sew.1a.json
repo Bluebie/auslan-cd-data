@@ -16,8 +16,8 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The subordinate handshape can be varied to incorporate various handshapes representing the object being sewn.",
   "english": [
     "sewing",
@@ -28,13 +28,9 @@
     "stitch"
   ],
   "deictic": [],
-  "cf": [
-    "needle",
-    "sewing-machine.1a"
-  ],
   "signNumber": 391,
   "recordNumber": 214,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -48,12 +44,16 @@
     "2. In medicine, to use a special needle and thread to tie the skin together. English = stitch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of making,  mending or decorating clothes or other material using a needle and thread. English = sewing, needlework, stitching.",
     "2. The activity of tying the skin together using a special needle and thread. English = stitching.",
     "3. A person who makes clothes, especially for men. English = tailor."
   ],
   "idGloss": "sew.1a",
-  "oldEntry": "Popular explanation: sewing something."
+  "oldEntry": "Popular explanation: sewing something.",
+  "seeAlso": [
+    "needle",
+    "sewing-machine.1a"
+  ]
 }

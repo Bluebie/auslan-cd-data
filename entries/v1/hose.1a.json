@@ -15,9 +15,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hose",
     "watering",
@@ -25,12 +25,9 @@
     "water"
   ],
   "deictic": [],
-  "cf": [
-    "torch.1"
-  ],
   "signNumber": 6112,
   "recordNumber": 3638,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -45,11 +42,14 @@
     "3. To use a hose to spread water all over a garden or lawn. English = hose, water, water the garden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, flexible pipe made of rubber or plastic, along which water is carried. English = hose.",
     "2. The action of using a hose to spread water all over a garden or lawn. English = watering, hosing."
   ],
   "idGloss": "hose.1a",
-  "oldEntry": "Popular explanation: watering the garden using a hose."
+  "oldEntry": "Popular explanation: watering the garden using a hose.",
+  "seeAlso": [
+    "torch.1"
+  ]
 }

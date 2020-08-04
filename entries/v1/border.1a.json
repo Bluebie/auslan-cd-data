@@ -16,21 +16,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "border",
     "frame"
   ],
   "deictic": [],
-  "cf": [
-    "picture.1a",
-    "system"
-  ],
   "signNumber": 5469,
   "recordNumber": 3249,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 14,
@@ -50,5 +46,9 @@
     "2. A hollow structure inside which you can fit something such as a window, door, or picture. English = frame."
   ],
   "idGloss": "border.1a",
-  "oldEntry": "Popular explanation: the shape of a border or frame."
+  "oldEntry": "Popular explanation: the shape of a border or frame.",
+  "seeAlso": [
+    "picture.1a",
+    "system"
+  ]
 }

@@ -14,20 +14,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skirt"
   ],
   "deictic": [],
-  "cf": [
-    "dress.1a",
-    "clothes.1"
-  ],
   "signNumber": 3957,
   "recordNumber": 2361,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -46,10 +42,14 @@
     "1. To wear a skirt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing worn by women and girls which fastens at the waist and hangs down to above or below the knees. English = skirt."
   ],
   "idGloss": "skirt.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dress.1a",
+    "clothes.1"
+  ]
 }

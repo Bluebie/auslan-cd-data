@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BED/SLEEP + DELAY",
-  "queries": "",
+  "queries": null,
   "english": [
     "sleep in"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3212,
   "recordNumber": 1865,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -29,8 +28,9 @@
     "1. To stay in bed longer than usual in the morning. English = sleep in."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "sleep.in",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,19 +11,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "factory"
   ],
   "deictic": [],
-  "cf": [
-    "broad.1a",
-    "tall.2"
-  ],
   "signNumber": 4844,
   "recordNumber": 2927,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -36,10 +32,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large building or a group of buildings where machines are used to make goods in large quantities. English = factory."
   ],
   "idGloss": "factory.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "broad.1a",
+    "tall.2"
+  ]
 }

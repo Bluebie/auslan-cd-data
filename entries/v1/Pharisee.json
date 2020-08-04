@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Pharisee",
     "hypocrite"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 879,
   "recordNumber": 503,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member of a group of Jews, mentioned in the Bible, that believed in strictly obeying the laws of Judaism. English = Pharisee.",
     "2. A person who pretends to be very moral or religious but who is not moral or religious in a true, deep way. English = Pharisee, hypocrite."
   ],
   "idGloss": "Pharisee",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

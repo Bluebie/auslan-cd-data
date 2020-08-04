@@ -11,16 +11,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "write off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1253,
   "recordNumber": 742,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
     "2. To judge a loss of money to be irreversible and to accept it to be lost forever. Idiomatic English = write off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A car that is so badly damaged in an accident that it is considered by you (or your insurance company) to be worthless because it cannot be fixed or it would be too expensive to fix. Idiomatic English = write off.",
     "2. An amount of money that you accept that you have lost (through bad business, misfortune, etc.) and that you accept you will not get back. Idiomatic English = write off."
   ],
   "idGloss": "write.off",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

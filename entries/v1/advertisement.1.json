@@ -9,16 +9,15 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "advertisement",
     "commercial",
     "advertise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1146,
   "recordNumber": 674,
   "signVisualComposition": "A + D + V",
@@ -34,10 +33,11 @@
     "1. To tell people about something such as a product, an event, or a job, in newspapers, on television, or on posters in order to encourage them to buy the product. English = advertise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An announcement in a newspaper, on television, or on a poster about something such as a product, event, or job vacancy. English = advertisement, commercial."
   ],
   "idGloss": "advertisement.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

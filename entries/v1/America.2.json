@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "America",
     "American"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2669,
   "recordNumber": 1485,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -36,11 +35,12 @@
     "2. To belong, relate to or come from the United States of America. English = (be) American."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in North America, between Canada and Mexico, called the United States of America,  or simply America.",
     "2. A person who come from the United States of America. English = American."
   ],
   "idGloss": "America.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

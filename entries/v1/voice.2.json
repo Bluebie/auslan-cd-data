@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "voice"
   ],
   "deictic": [],
-  "cf": [
-    "speech"
-  ],
   "signNumber": 1571,
   "recordNumber": 936,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -37,10 +34,13 @@
     "2. To say in the words of spoken English what someone who is signing is saying, especially when the style of signing is very close to English and requires little or no real translation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. What you hear when someone speaks. English = voice."
   ],
   "idGloss": "voice.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "speech"
+  ]
 }

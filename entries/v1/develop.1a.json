@@ -13,7 +13,7 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "IMPROVE + D",
   "queries": "Based on the ASL sign 'develop' (which has a flat handshape on the subordinate hand).",
   "english": [
@@ -21,10 +21,9 @@
     "develop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 900,
   "recordNumber": 516,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "2. Of a country, to change from being a poor or agricultural country to being an advanced industrial country. English = develop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The gradual growth or formation of something; the process or result of improving a basic design. English = development."
   ],
   "idGloss": "develop.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

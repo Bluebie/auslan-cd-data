@@ -16,18 +16,15 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "yesterday"
   ],
   "deictic": [],
-  "cf": [
-    "last.night.1"
-  ],
   "signNumber": 4729,
   "recordNumber": 2858,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -46,11 +43,14 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The day before today. English = yesterday.",
     "2. The day before a particular day in the past. English = the day before, the previous day."
   ],
   "idGloss": "yesterday.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "last.night.1"
+  ]
 }

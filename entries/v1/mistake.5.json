@@ -13,19 +13,16 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "mistake",
     "error"
   ],
   "deictic": [],
-  "cf": [
-    "wrong"
-  ],
   "signNumber": 6461,
   "recordNumber": 3852,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -42,10 +39,13 @@
     "1. To make a mistake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or an opinion that is wrong, or that is not what you intended to do. English = mistake, error."
   ],
   "idGloss": "mistake.5",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wrong"
+  ]
 }

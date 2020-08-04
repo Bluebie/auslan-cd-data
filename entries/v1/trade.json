@@ -17,9 +17,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trade",
     "apprentice",
@@ -29,10 +29,9 @@
     "bonded"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2112,
   "recordNumber": 1224,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,7 +46,7 @@
     "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The kind of work that someone does, especially when it requires special training in practical skills (eg plumbing). English = trade.",
     "2. A young person who works with someone in order to learn their skill. English = apprentice.",
@@ -55,5 +54,6 @@
     "4. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
   ],
   "idGloss": "trade",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

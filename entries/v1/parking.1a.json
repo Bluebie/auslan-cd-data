@@ -11,21 +11,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "parking",
     "parking lot"
   ],
   "deictic": [],
-  "cf": [
-    "park-vehicle.1a",
-    "reverse-vehicle.1a"
-  ],
   "signNumber": 4070,
   "recordNumber": 2437,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,11 +32,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of driving a vehicle into a position where it can stay for a period of time, and leaving it there. English = parking.",
     "2. An area of ground where people can leave their cars. English = parking lot."
   ],
   "idGloss": "parking.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "park-vehicle.1a",
+    "reverse-vehicle.1a"
+  ]
 }

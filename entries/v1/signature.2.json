@@ -11,15 +11,14 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "signature",
     "sign"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6486,
   "recordNumber": 3861,
   "signVisualComposition": "NAME + WRITE",
@@ -37,10 +36,11 @@
     "1. To write your name on a document, usually at the end or in a special place. English = sign."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Your name when you write it in your own characteristic way. English = signature."
   ],
   "idGloss": "signature.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

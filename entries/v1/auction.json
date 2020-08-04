@@ -15,20 +15,16 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "auction",
     "auctioneer"
   ],
   "deictic": [],
-  "cf": [
-    "bid.1a",
-    "bid.2"
-  ],
   "signNumber": 6103,
   "recordNumber": 3629,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,11 +37,15 @@
     "1. To sell goods at a public sale to the person who offers the highest price. English = auction."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A public sale of goods where the goods are sold to the person who offers the highest price. English = auction.",
     "2. A person in charge of an auction. English = auctioneer."
   ],
   "idGloss": "auction",
-  "oldEntry": "Popular explanation: striking a gavel on a table."
+  "oldEntry": "Popular explanation: striking a gavel on a table.",
+  "seeAlso": [
+    "bid.1a",
+    "bid.2"
+  ]
 }

@@ -7,14 +7,11 @@
     "domonly",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "been.there.done.that.2"
-  ],
   "signNumber": 6540,
   "recordNumber": 3894,
   "signVisualComposition": "TOUCH + FINISH",
@@ -30,8 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "been.there.done.that.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "been.there.done.that.2"
+  ]
 }

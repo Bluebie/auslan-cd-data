@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spoon",
     "soup",
@@ -37,10 +37,9 @@
     "porridge"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2160,
   "recordNumber": 1248,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -60,7 +59,7 @@
     "4. To eat breakfast, to eat cereal or porridge."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An object used for eating, stirring, and serving food. It is shaped like a small shallow bowl with a long handle. English = spoon.",
     "2. A liquid food made by boiling meat, fish, or vegetables in water. English = soup.",
@@ -69,5 +68,6 @@
     "5. A food made from grain, usually mixed with milk and eaten in the morning. English = cereal, breakfast cereal, porridge."
   ],
   "idGloss": "soup.1a",
-  "oldEntry": "Popular explanation: eating soup using a spoon."
+  "oldEntry": "Popular explanation: eating soup using a spoon.",
+  "seeAlso": []
 }

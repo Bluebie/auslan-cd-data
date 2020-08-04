@@ -14,18 +14,17 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Scotland",
     "Scottish",
     "Scots"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2510,
   "recordNumber": 1395,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,10 +39,11 @@
     "1. To relate to or be from Scotland. English = (be) Scottish, (be) Scots."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The country to the north of England, called Scotland."
   ],
   "idGloss": "Scotland.1a",
-  "oldEntry": "Popular explanation: playing bagpipes."
+  "oldEntry": "Popular explanation: playing bagpipes.",
+  "seeAlso": []
 }

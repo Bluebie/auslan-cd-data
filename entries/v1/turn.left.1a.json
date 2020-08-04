@@ -12,17 +12,16 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "turn left"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 966,
   "recordNumber": 557,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To turn or go left at a certain place, especially at a corner; to turn or go left."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A left turn."
   ],
   "idGloss": "turn.left.1a",
-  "oldEntry": "Popular explanation: pointing around a corner."
+  "oldEntry": "Popular explanation: pointing around a corner.",
+  "seeAlso": []
 }

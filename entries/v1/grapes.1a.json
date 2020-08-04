@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grapes",
     "sultanas"
   ],
   "deictic": [],
-  "cf": [
-    "eat.1a"
-  ],
   "signNumber": 6399,
   "recordNumber": 3821,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 11.1,
   "primaryLocation": 15,
@@ -43,5 +40,8 @@
     "2. Dried grapes. English = sultanas."
   ],
   "idGloss": "grapes.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "eat.1a"
+  ]
 }

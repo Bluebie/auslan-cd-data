@@ -23,8 +23,8 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "list",
     "program",
@@ -32,14 +32,9 @@
     "catalogue"
   ],
   "deictic": [],
-  "cf": [
-    "write.list",
-    "file.1a",
-    "sequence.1a"
-  ],
   "signNumber": 4331,
   "recordNumber": 2638,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -58,12 +53,17 @@
     "3. To make a list of a series of actions or events that are planned to be done. English = program."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set of things which are written down one below the other one. English = list.",
     "2. A series of actions or events that are planned to be done, especially at a meeting. English = program, agenda.",
     "3. A list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
   ],
   "idGloss": "list.1",
-  "oldEntry": "Popular explanation: the lines of a list."
+  "oldEntry": "Popular explanation: the lines of a list.",
+  "seeAlso": [
+    "write.list",
+    "file.1a",
+    "sequence.1a"
+  ]
 }

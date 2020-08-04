@@ -15,21 +15,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "film",
     "movie",
     "picture"
   ],
   "deictic": [],
-  "cf": [
-    "video-camera.1a"
-  ],
   "signNumber": 6146,
   "recordNumber": 3662,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -46,10 +43,13 @@
     "1. To use a camera to take moving pictures which can be shown in a cinema or on television; to make a film or movie. English = film, shoot a film."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Moving pictures that have been recorded so that they can be shown in a cinema or on television. English = film, movie, picture."
   ],
   "idGloss": "film.5",
-  "oldEntry": "Popular explanation: operating an old fashioned movie camera."
+  "oldEntry": "Popular explanation: operating an old fashioned movie camera.",
+  "seeAlso": [
+    "video-camera.1a"
+  ]
 }

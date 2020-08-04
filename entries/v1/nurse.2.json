@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nurse",
     "paramedic",
@@ -28,13 +28,9 @@
     "patient"
   ],
   "deictic": [],
-  "cf": [
-    "ambulance",
-    "first aid"
-  ],
   "signNumber": 814,
   "recordNumber": 464,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -49,7 +45,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing person or organisation connected with the care of sick or injured people, such as a nurse, hospital, or ambulance.",
     "2. Someone with medical training whose job it is to help people who are injured or sick. English = nurse, paramedic.",
@@ -57,5 +53,9 @@
     "4. A person who is receiving medical treatment from a doctor or a hospital, or who is registered with a particular doctor. English = patient."
   ],
   "idGloss": "nurse.2",
-  "oldEntry": "Popular explanation: the medical cross."
+  "oldEntry": "Popular explanation: the medical cross.",
+  "seeAlso": [
+    "ambulance",
+    "first aid"
+  ]
 }

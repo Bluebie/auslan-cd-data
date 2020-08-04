@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "enquiry",
     "inquiry",
@@ -22,10 +22,9 @@
     "inquire"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 355,
   "recordNumber": 196,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 10,
@@ -38,10 +37,11 @@
     "1. To ask about something in order to find out information about it. English = enquire, inquire."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process of asking about something in order to find out information about it. English = enquiry, inquiry."
   ],
   "idGloss": "enquiry",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

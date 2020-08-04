@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attempt",
     "try"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1371,
   "recordNumber": 812,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -33,10 +32,11 @@
     "1. To make the effort to do something because you want to do it even if you are not sure you are able to do it. English = try, attempt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An effort you make to do something because you want to do it even if you are not sure you are able to do it. English = try, attempt."
   ],
   "idGloss": "try.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

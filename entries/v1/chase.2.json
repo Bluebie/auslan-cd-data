@@ -8,19 +8,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chase",
     "pursuit",
     "pursue"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1012,
   "recordNumber": 591,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To run after someone or to follow them in order to catch them. English = chase, pursue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of running after someone or following them in order to catch them. English = chase, pursuit."
   ],
   "idGloss": "chase.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

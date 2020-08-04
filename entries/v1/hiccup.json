@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hiccup",
     "hiccough"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4505,
   "recordNumber": 2739,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To have the hiccups (or hiccoughs)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Repeated little choking sounds in your throat due to muscle spasms often caused by eating or drinking too much or too quickly. English = hiccup, hiccough."
   ],
   "idGloss": "hiccup",
-  "oldEntry": "Popular explanation: the rapid up and down movement associated with hiccups."
+  "oldEntry": "Popular explanation: the rapid up and down movement associated with hiccups.",
+  "seeAlso": []
 }

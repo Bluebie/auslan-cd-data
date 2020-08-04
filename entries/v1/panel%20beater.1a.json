@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "panel beater",
     "panel beating"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6259,
   "recordNumber": 3736,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,11 +34,12 @@
     "1. To beat sheet metal into particular shapes as part of making the bodywork of motor vehicles."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who beats sheet metal into particular shapes as part of making the bodywork of motor vehicles. English = panel beater.",
     "2. The job of a panel beater. English = panel beating."
   ],
   "idGloss": "panel beater.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,20 +13,17 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cork",
     "bottle stopper"
   ],
   "deictic": [],
-  "cf": [
-    "champagne"
-  ],
   "signNumber": 4956,
   "recordNumber": 2994,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. To insert a piece of soft wood or plastic into the end of a bottle to close it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of soft wood or plastic which is pushed into the end of a bottle to close it. English = cork, bottle stopper."
   ],
   "idGloss": "cork",
-  "oldEntry": "Popular explanation: pushing a cork into a bottle."
+  "oldEntry": "Popular explanation: pushing a cork into a bottle.",
+  "seeAlso": [
+    "champagne"
+  ]
 }

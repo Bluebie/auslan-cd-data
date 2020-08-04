@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "full",
     "enough",
@@ -29,12 +29,9 @@
     "fed up"
   ],
   "deictic": [],
-  "cf": [
-    "fill.1"
-  ],
   "signNumber": 3299,
   "recordNumber": 1925,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -59,8 +56,11 @@
     "3. To be bored or annoyed. English = (be) fed up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "full",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fill.1"
+  ]
 }

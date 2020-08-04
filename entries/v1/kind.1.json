@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GOOD + HEART",
-  "queries": "",
+  "queries": null,
   "english": [
     "kindness",
     "good-heartedness",
@@ -27,12 +27,9 @@
     "good-hearted"
   ],
   "deictic": [],
-  "cf": [
-    "wet.1a"
-  ],
   "signNumber": 4768,
   "recordNumber": 2882,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -52,10 +49,13 @@
     "1. To be gentle, caring and helpful. English = (be) kind, (be) good-hearted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being gentle, caring and helpful. English = kindness, good-heartedness."
   ],
   "idGloss": "kind.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wet.1a"
+  ]
 }

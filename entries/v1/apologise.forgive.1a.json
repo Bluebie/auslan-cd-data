@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "apology",
     "forgiveness",
@@ -23,10 +23,9 @@
     "forgive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6532,
   "recordNumber": 3887,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -40,11 +39,12 @@
     "2. To stop being angry with someone who has done something wrong. English = forgive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that you say or write in order to tell someone that you are sorry that you have hurt them or caused trouble for them.  English = apology.",
     "2. The act of forgiving someone. English = forgiveness."
   ],
   "idGloss": "apologise.forgive.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

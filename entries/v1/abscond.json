@@ -16,18 +16,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "VANISH + ESCAPE",
-  "queries": "",
+  "queries": null,
   "english": [
     "abscond",
     "exploit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3085,
   "recordNumber": 1775,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,11 +46,12 @@
     "4. To make someone's position untenable in an argument or other situation of conflict by successfully criticising them. Idiomatic English = pull the rug from under someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A successful and complete escape from somewhere.",
     "2. The complete and successful removal or theft of something from somewhere."
   ],
   "idGloss": "abscond",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

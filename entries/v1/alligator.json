@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crocodile",
     "alligator"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3863,
   "recordNumber": 2296,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large reptile with a long body, sharp teeth and big jaws. It lives in rivers and eats meat. English = crocodile.",
     "2. An animal similar to a crocodile that lives mainly in the southern United States. English = alligator."
   ],
   "idGloss": "alligator",
-  "oldEntry": "Popular explanation: an animal's jaw opening and closing."
+  "oldEntry": "Popular explanation: an animal's jaw opening and closing.",
+  "seeAlso": []
 }

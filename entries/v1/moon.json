@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "moon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5093,
   "recordNumber": 3072,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The round object in the sky that you can often see at night. English = moon."
   ],
   "idGloss": "moon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

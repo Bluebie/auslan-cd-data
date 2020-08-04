@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "degree"
   ],
   "deictic": [],
-  "cf": [
-    "percent.1a"
-  ],
   "signNumber": 72,
   "recordNumber": 42,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,12 +29,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The degree symbol, written as a small superscript zero after a number.",
     "2. A unit of measurement that is used when expressing temperatures. English = degree.",
     "3. A unit of measurement that is used when expressing angles and also latitude and longitude. English = degree."
   ],
   "idGloss": "degree",
-  "oldEntry": "Popular explanation: the shape of the degree symbol or zero."
+  "oldEntry": "Popular explanation: the shape of the degree symbol or zero.",
+  "seeAlso": [
+    "percent.1a"
+  ]
 }

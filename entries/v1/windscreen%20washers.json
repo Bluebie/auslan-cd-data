@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "windscreen washers"
   ],
   "deictic": [],
-  "cf": [
-    "windscreen-wipers"
-  ],
   "signNumber": 6409,
   "recordNumber": 3825,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 11.1,
   "primaryLocation": 15,
@@ -37,5 +34,8 @@
     "1. Two small outlets at the bottom of the outside of a car windscreen that squirt water onto the glass in order to clean it. English = windscreen washers."
   ],
   "idGloss": "windscreen washers",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "windscreen-wipers"
+  ]
 }

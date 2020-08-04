@@ -11,16 +11,15 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "because"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2718,
   "recordNumber": 1513,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "because.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

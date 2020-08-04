@@ -13,22 +13,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sinking",
     "sink",
     "float down"
   ],
   "deictic": [],
-  "cf": [
-    "parachute",
-    "boat.1a"
-  ],
   "signNumber": 2557,
   "recordNumber": 1412,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -43,11 +39,15 @@
     "3. To move slowly downwards through the air. English = float down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of something moving slowly downwards through air or water.",
     "2. The action of moving slowly downwards, especially below the surface of water. English = sinking."
   ],
   "idGloss": "sink.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "parachute",
+    "boat.1a"
+  ]
 }

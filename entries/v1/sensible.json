@@ -9,17 +9,16 @@
     "engtf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sensible",
     "sensibly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1357,
   "recordNumber": 800,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -34,8 +33,9 @@
     "1. To be able to make good decisions and judgements based on reasons rather than emotions. English = (be) sensible."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "sensible",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

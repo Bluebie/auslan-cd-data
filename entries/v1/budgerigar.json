@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "budgerigar"
   ],
   "deictic": [],
-  "cf": [
-    "bird"
-  ],
   "signNumber": 1413,
   "recordNumber": 842,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -34,10 +31,13 @@
     "1. To nibble and peck at something like a budgerigar."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, brightly-coloured bird that people keep in their houses as pets. It has a small, hard, curved beak. English = budgerigar."
   ],
   "idGloss": "budgerigar",
-  "oldEntry": "Popular explanation: the beak of a budgerigar."
+  "oldEntry": "Popular explanation: the beak of a budgerigar.",
+  "seeAlso": [
+    "bird"
+  ]
 }

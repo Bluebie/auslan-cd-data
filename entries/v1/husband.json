@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "husband"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3429,
   "recordNumber": 2002,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The man a woman is married to. English = husband."
   ],
   "idGloss": "husband",
-  "oldEntry": "Popular explanation: taking the partner's hand and arm during the wedding ceremony."
+  "oldEntry": "Popular explanation: taking the partner's hand and arm during the wedding ceremony.",
+  "seeAlso": []
 }

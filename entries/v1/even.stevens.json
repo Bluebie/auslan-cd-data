@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "In the sense of 'all' (ie, each) when scoring, the sign can include other number handshapes for 'two all', 'three all', and so on.",
   "english": [
     "get even",
     "all"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 917,
   "recordNumber": 522,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -42,8 +41,9 @@
     "2. When scoring the competitors or teams in a game, competition or match, to have one point each. English = (be) one all."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "even.stevens",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

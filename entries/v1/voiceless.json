@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "voiceless"
   ],
   "deictic": [],
-  "cf": [
-    "lock.1a"
-  ],
   "signNumber": 6085,
   "recordNumber": 3619,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -35,10 +32,13 @@
     "2. To have or use no voice at all, to be voiceless, to be mute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Communication in sign language which is not accompanied by any voicing at all."
   ],
   "idGloss": "voiceless",
-  "oldEntry": "Popular explanation: turning off or locking the voice."
+  "oldEntry": "Popular explanation: turning off or locking the voice.",
+  "seeAlso": [
+    "lock.1a"
+  ]
 }

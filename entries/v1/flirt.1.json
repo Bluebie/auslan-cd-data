@@ -14,9 +14,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flirting",
     "chatting up",
@@ -26,10 +26,9 @@
     "cruise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 939,
   "recordNumber": 538,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "2. To talk to someone you do not already know and to try and start a sexual relationship with them. Informal English = pick someone up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is intended to initiate a sexual relationship with someone, or at least show them that you like them very much. English = flirting. Informal English = chatting up. Gay slang English = cruising."
   ],
   "idGloss": "flirt.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

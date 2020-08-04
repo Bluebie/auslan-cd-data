@@ -10,17 +10,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "first"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 726,
   "recordNumber": 418,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The first day of the month.",
     "2. The first hour of a twelve hour cycle. English = one o'clock."
   ],
   "idGloss": "first.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

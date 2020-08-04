@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thing",
     "things"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 934,
   "recordNumber": 533,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -35,12 +34,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing.",
     "2. A physical object, rather than plants, animals, or human beings. English = thing.",
     "3. Your clothes or your possessions. English = things."
   ],
   "idGloss": "thing.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

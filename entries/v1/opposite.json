@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "opposite",
     "antonym"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1082,
   "recordNumber": 634,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. Of two things or qualities, to be as different as possible from each other in a particular way. For example, north and south, or win and lose, or good and bad. English = (be) opposite."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing which is completely different from another thing of the same kind in one particular way. English = opposite.",
     "2. Of signs and words, to be a word or sign which is completely different in meaning from another word or sign in one particular way. English = opposite, antonym."
   ],
   "idGloss": "opposite",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

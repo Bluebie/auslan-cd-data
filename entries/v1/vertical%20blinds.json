@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vertical blinds"
   ],
   "deictic": [],
-  "cf": [
-    "venetian.blinds.1"
-  ],
   "signNumber": 3605,
   "recordNumber": 2121,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A blind which is made up of numerous vertical strips and which is opened and closed by turning these strips. English = vertical blinds."
   ],
   "idGloss": "vertical blinds",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "venetian.blinds.1"
+  ]
 }

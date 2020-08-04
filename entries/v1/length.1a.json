@@ -14,19 +14,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "length",
     "duration",
     "long"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 982,
   "recordNumber": 569,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "2. To take a large amount of time from the beginning of some event to the end of it. English = (be) long, (be) lengthy; last a long time."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The distance something measures from one end to the other. English = length.",
     "2. The amount of time that it takes for something to happen. English = duration."
   ],
   "idGloss": "length.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

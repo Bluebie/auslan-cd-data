@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4676,
   "recordNumber": 2825,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A container for keeping liquids in. It is usually made of glass or plastic and is shaped like a cylinder with a narrow top. English = bottle."
   ],
   "idGloss": "bottle.2",
-  "oldEntry": "Popular explanation: the form of a bottle."
+  "oldEntry": "Popular explanation: the form of a bottle.",
+  "seeAlso": []
 }

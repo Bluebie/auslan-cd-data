@@ -12,18 +12,17 @@
     "ant1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "down",
     "downwards",
     "downstairs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 796,
   "recordNumber": 452,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -41,8 +40,9 @@
     "2. In a building, to go down to or be located at a lower floor. English = go downstairs, (be) downstairs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "go.down",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

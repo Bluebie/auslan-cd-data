@@ -7,21 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cousin"
   ],
   "deictic": [],
-  "cf": [
-    "uncle.2",
-    "son.2",
-    "daughter"
-  ],
   "signNumber": 4493,
   "recordNumber": 2730,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -32,10 +27,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The child of your uncle or aunt. English = cousin."
   ],
   "idGloss": "cousin",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "uncle.2",
+    "son.2",
+    "daughter"
+  ]
 }

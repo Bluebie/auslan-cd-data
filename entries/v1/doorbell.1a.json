@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doorbell",
     "ring doorbell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4911,
   "recordNumber": 2966,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,5 +39,6 @@
     "1. A button like object located next to the front door of houses which rings (or causes lights to flash) when pressed and lets the people inside know you are at the door. English = doorbell."
   ],
   "idGloss": "doorbell.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

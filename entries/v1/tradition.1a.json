@@ -25,9 +25,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "CARRY + GENERATION",
-  "queries": "",
+  "queries": null,
   "english": [
     "tradition",
     "custom",
@@ -40,10 +40,9 @@
     "heritable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4136,
   "recordNumber": 2492,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -62,7 +61,7 @@
     "3. To be a physical condition that one gets from one's parents, grandparents etc. English = (be) hereditary, (be) heritable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A belief or way of doing things that has existed for a long time without changing. English = tradition, custom.",
     "2. Things or ways of doing things that have been given or taught to the present generation from earlier generations. English = heritage.",
@@ -70,5 +69,6 @@
     "4. The quality of being acquired through biological transmission from one's parents, grandparents etc. English = hereditary, hereditariness."
   ],
   "idGloss": "tradition.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

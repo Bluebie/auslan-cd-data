@@ -24,9 +24,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dissolving",
     "fading",
@@ -40,13 +40,9 @@
     "resolve"
   ],
   "deictic": [],
-  "cf": [
-    "disappear.1a",
-    "wear.out.1a"
-  ],
   "signNumber": 3637,
   "recordNumber": 2141,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -62,12 +58,16 @@
     "4. To find the answer to a problem or to discover of a way of dealing with a difficult situation so that the difficulty is removed; to stop a sickness. English = solve, resolve; cure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The disappearance of a solid in a liquid after they have been mixed. English = dissolving.",
     "2. The change in colour of an object from strong to pale. English = fading.",
     "3. The way of dealing with a difficult situation so that the difficulty is removed; something that makes an illness disappear. English = solution; cure."
   ],
   "idGloss": "melt.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "disappear.1a",
+    "wear.out.1a"
+  ]
 }

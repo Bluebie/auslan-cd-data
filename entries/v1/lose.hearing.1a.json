@@ -8,17 +8,14 @@
     "deafness",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "extinguish.1a"
-  ],
   "signNumber": 3557,
   "recordNumber": 2085,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -33,10 +30,13 @@
     "1. To gradually lose your hearing through aging or illness so that you become almost totally deaf."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The gradual loss of hearing that a person can experience through aging or illness, leading to almost complete deafness."
   ],
   "idGloss": "lose.hearing.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "extinguish.1a"
+  ]
 }

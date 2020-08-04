@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "supervision",
     "surveillance",
@@ -41,12 +41,9 @@
     "take care"
   ],
   "deictic": [],
-  "cf": [
-    "careful.1a"
-  ],
   "signNumber": 5197,
   "recordNumber": 3125,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 7,
@@ -61,7 +58,7 @@
     "3. To keep a careful watch over things to makes sure they are not stolen or damaged. English = look after, keep an eye on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The careful watching of something or someone to make sure everything happens correctly. English = supervision.",
     "2. The careful watching of something, especially by an organisation such as the police or the army. English = surveillance.",
@@ -69,5 +66,8 @@
     "4. A person who looks after property to make sure it is not broken into, or things stolen or damaged; the service they provide. English = security guard; security."
   ],
   "idGloss": "supervise.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "careful.1a"
+  ]
 }

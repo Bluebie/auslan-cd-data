@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "glory",
     "glorify"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4808,
   "recordNumber": 2902,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 13,
@@ -33,10 +32,11 @@
     "1. To praise God. English = glorify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fame and admiration that someone gets by achieving something. Usually used to describe a quality of God. English = glory."
   ],
   "idGloss": "glory",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

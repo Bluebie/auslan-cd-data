@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attention",
     "blinkers",
@@ -30,10 +30,9 @@
     "single minded"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3561,
   "recordNumber": 2088,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -54,11 +53,12 @@
     "4. To be wearing blinkers."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of looking at, listening to, or thinking about something carefully. English = attention.",
     "2. Two pieces of leather which are placed at the side of a horse's eyes so that it can only see straight ahead. English = blinkers."
   ],
   "idGloss": "attention.1",
-  "oldEntry": "Popular explanation: the blinkers which direct your attention."
+  "oldEntry": "Popular explanation: the blinkers which direct your attention.",
+  "seeAlso": []
 }

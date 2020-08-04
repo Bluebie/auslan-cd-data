@@ -8,17 +8,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "windscreen wipers"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 844,
   "recordNumber": 483,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 6,
@@ -31,10 +30,11 @@
     "1. To operate the windscreen wipers on a vehicle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Long thin pieces of metal with a rubber edge which are electrically operated and which wipe rain from the windscreen of a vehicle. English = windscreen wipers."
   ],
   "idGloss": "windscreen-wipers",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

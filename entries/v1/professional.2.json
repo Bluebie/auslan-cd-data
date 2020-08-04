@@ -15,18 +15,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "professional",
     "profession"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1859,
   "recordNumber": 1114,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "4. To do a job to earn money rather than as a hobby. English = (be) professional."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has a job that requires special training and has a fairly high status. English = professional.",
     "2. A type of job that requires special training and has a fairly high status, such as the job of a doctor or lawyer. English = profession."
   ],
   "idGloss": "professional.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

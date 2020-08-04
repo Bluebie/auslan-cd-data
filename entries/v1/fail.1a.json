@@ -16,22 +16,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "failure",
     "flop",
     "fail"
   ],
   "deictic": [],
-  "cf": [
-    "wrong",
-    "bankrupt"
-  ],
   "signNumber": 5009,
   "recordNumber": 3020,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -49,11 +45,15 @@
     "1. To not succeed in doing something that you are trying to do. English = fail."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lack of success in doing or achieving something. English = failure.",
     "2. A person or thing that has not succeeded at something. English = failure, flop."
   ],
   "idGloss": "fail.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wrong",
+    "bankrupt"
+  ]
 }

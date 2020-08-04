@@ -12,17 +12,14 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "often",
     "frequently"
   ],
   "deictic": [],
-  "cf": [
-    "repeat.1a"
-  ],
   "signNumber": 849,
   "recordNumber": 486,
   "signVisualComposition": "SEE + LOT",
@@ -40,8 +37,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "often.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "repeat.1a"
+  ]
 }

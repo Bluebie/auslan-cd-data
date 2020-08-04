@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rope",
     "cord",
     "cable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5868,
   "recordNumber": 3491,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,11 +38,12 @@
     "2. To extend or hang a length of rope between two points. English = string (a rope)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of very thick string, made by twisting together several thinner pieces. English = rope.",
     "2. Strong thick string. English = cord."
   ],
   "idGloss": "rope.1a",
-  "oldEntry": "Popular explanation: holding a length of rope."
+  "oldEntry": "Popular explanation: holding a length of rope.",
+  "seeAlso": []
 }

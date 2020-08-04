@@ -5,17 +5,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pick up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3493,
   "recordNumber": 2043,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -28,8 +27,9 @@
     "1. To go somewhere in a car, collect someone, and then take them somewhere else. English = pick up someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "pick.up.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

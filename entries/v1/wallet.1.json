@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wallet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4146,
   "recordNumber": 2501,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small flat case made of leather or plastic, which is used for keeping paper money in and other small things such as credit cards. English = wallet."
   ],
   "idGloss": "wallet.1",
-  "oldEntry": "Popular explanation: a holder of small sheets of paper, money."
+  "oldEntry": "Popular explanation: a holder of small sheets of paper, money.",
+  "seeAlso": []
 }

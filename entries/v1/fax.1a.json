@@ -12,19 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "FAX.OUT + FAX.IN",
-  "queries": "",
+  "queries": null,
   "english": [
     "fax"
   ],
   "deictic": [],
-  "cf": [
-    "correspond.1a"
-  ],
   "signNumber": 4096,
   "recordNumber": 2458,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,10 +38,13 @@
     "1. To correspond or communicate with someone using faxes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A correspondence or communication made by using faxes."
   ],
   "idGloss": "fax.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "correspond.1a"
+  ]
 }

@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "remote control",
     "remote"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5180,
   "recordNumber": 3116,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To operate a remote control."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device for controlling a television or other device from a distance by using radio or electronic signals. English = remote control."
   ],
   "idGloss": "remote-control",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

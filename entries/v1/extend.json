@@ -22,9 +22,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "extension",
     "addition",
@@ -33,12 +33,9 @@
     "extra"
   ],
   "deictic": [],
-  "cf": [
-    "increase.1a"
-  ],
   "signNumber": 4170,
   "recordNumber": 2519,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -59,7 +56,7 @@
     "4. To be something which is added on to a space, building or period of time. English = (be) additional, (be) extra."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A new room or building which is added to an existing building. English = extension.",
     "2. An increase in the size of something created by moving a boundary marking, fence or wall. English = extension.",
@@ -67,5 +64,8 @@
     "4. Something which is added to a space, building or period of time. English = addition."
   ],
   "idGloss": "extend",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "increase.1a"
+  ]
 }

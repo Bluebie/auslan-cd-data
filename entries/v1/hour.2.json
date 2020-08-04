@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hour"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 265,
   "recordNumber": 154,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -35,10 +34,11 @@
     "2. Of time, for an hour to pass."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of sixty minutes. English = hour."
   ],
   "idGloss": "hour.2",
-  "oldEntry": "Popular explanation: the hands going around the face of a clock."
+  "oldEntry": "Popular explanation: the hands going around the face of a clock.",
+  "seeAlso": []
 }

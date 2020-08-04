@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "heaven"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3865,
   "recordNumber": 2298,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -37,10 +36,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The place where God is believed to live, and where good people are believed to go when they die. English = heaven."
   ],
   "idGloss": "heaven",
-  "oldEntry": "Popular explanation: heaven above."
+  "oldEntry": "Popular explanation: heaven above.",
+  "seeAlso": []
 }

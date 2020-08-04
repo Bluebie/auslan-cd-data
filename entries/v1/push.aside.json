@@ -7,17 +7,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "push aside"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3793,
   "recordNumber": 2250,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "1. To push something to one side."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "push.aside",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

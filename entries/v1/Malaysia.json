@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Malaysia",
     "Malaysian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3565,
   "recordNumber": 2092,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -34,10 +33,11 @@
     "1. A person or thing from or relating to Malaysia. English = Malaysian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in south east Asia, between Thailand and Indonesia, called Malaysia."
   ],
   "idGloss": "Malaysia",
-  "oldEntry": "Popular explanation: stereotypic movements from traditional Malaysian dance."
+  "oldEntry": "Popular explanation: stereotypic movements from traditional Malaysian dance.",
+  "seeAlso": []
 }

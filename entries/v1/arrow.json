@@ -8,18 +8,15 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "arrow"
   ],
   "deictic": [],
-  "cf": [
-    "sharp"
-  ],
   "signNumber": 949,
   "recordNumber": 545,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long thin weapon which is sharp and pointed at one end. It is shot from a bow. English = arrow."
   ],
   "idGloss": "arrow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sharp"
+  ]
 }

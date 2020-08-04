@@ -11,17 +11,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "question",
     "ask"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1479,
   "recordNumber": 882,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. To say, sign or write something to someone in order to get information from them about something. English = question, ask a question."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you say, sign or write in order to get information from someone about something. English = question."
   ],
   "idGloss": "question.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

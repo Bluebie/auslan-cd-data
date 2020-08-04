@@ -26,9 +26,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "round trip",
     "return journey",
@@ -40,12 +40,9 @@
     "commute"
   ],
   "deictic": [],
-  "cf": [
-    "come.back"
-  ],
   "signNumber": 712,
   "recordNumber": 412,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -66,7 +63,7 @@
     "4. To be a day student at a school at which there are boarding students."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A journey to and from a place; a person who does such a journey in a day; a person who does such a journey every day to work and back. English = round trip, return journey; day tripper; commuter.",
     "2. The movement to and fro between two locations (such as laps in a swimming pool).",
@@ -74,5 +71,8 @@
     "4. A day student at a school at which there are boarding students."
   ],
   "idGloss": "go.to.and.fro.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "come.back"
+  ]
 }

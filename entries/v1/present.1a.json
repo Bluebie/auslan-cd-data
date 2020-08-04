@@ -12,21 +12,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "present",
     "gift"
   ],
   "deictic": [],
-  "cf": [
-    "parcel",
-    "ribbon.1a"
-  ],
   "signNumber": 935,
   "recordNumber": 534,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -39,10 +35,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you give to someone, for example for Christmas or when you visit them. English = present, gift."
   ],
   "idGloss": "present.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "parcel",
+    "ribbon.1a"
+  ]
 }

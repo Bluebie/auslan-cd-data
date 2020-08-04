@@ -9,17 +9,16 @@
     "engtf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "two-up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1608,
   "recordNumber": 958,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To play two-up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A gambling game in which two coins are thrown into the air and people bet on whether they fall heads or tails. English = two-up."
   ],
   "idGloss": "two-up",
-  "oldEntry": "Popular explanation: flipping the coins in a game of two up."
+  "oldEntry": "Popular explanation: flipping the coins in a game of two up.",
+  "seeAlso": []
 }

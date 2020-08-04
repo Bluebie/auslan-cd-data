@@ -19,8 +19,8 @@
     "syn3"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "falsehood",
     "not true",
@@ -29,7 +29,6 @@
     "unsure"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4294,
   "recordNumber": 2613,
   "signVisualComposition": "TRUE + NEGATIVE AFFIX",
@@ -53,10 +52,11 @@
     "2. To have doubts that something is in agreement with the facts, to have doubts that something is true. English = (be) uncertain, (be) unsure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is not true and not in accordance with the facts. English = falsehood."
   ],
   "idGloss": "not.true",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

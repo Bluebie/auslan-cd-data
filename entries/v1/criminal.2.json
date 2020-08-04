@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BAD + MAN",
   "queries": "A variant of this sign is produced with a rocking motion under the chin.",
   "english": [
     "criminal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4975,
   "recordNumber": 3004,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has committed a crime. English = criminal."
   ],
   "idGloss": "criminal.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

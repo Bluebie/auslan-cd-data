@@ -20,7 +20,7 @@
     "engtf7"
   ],
   "sense": "2",
-  "blend": "",
+  "blend": null,
   "queries": "Often made with a repeated movement.",
   "english": [
     "involvement",
@@ -32,10 +32,9 @@
     "included"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 230,
   "recordNumber": 137,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -51,11 +50,12 @@
     "4. Of things in a task, situation, or system, to be required in order to achieve it or to understand it and the problems that it causes. English = (be) involved."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of taking part in something. English = involvement, participation",
     "2. The act of being part of something else. English = inclusion."
   ],
   "idGloss": "involve.1a",
-  "oldEntry": "Popular explanation: putting something inside something else."
+  "oldEntry": "Popular explanation: putting something inside something else.",
+  "seeAlso": []
 }

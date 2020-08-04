@@ -15,9 +15,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grudge",
     "revenge",
@@ -25,10 +25,9 @@
     "avenge"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4223,
   "recordNumber": 2554,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 3,
@@ -46,11 +45,12 @@
     "2. To hurt or do something bad to someone who has hurt or harmed you in some way before. English = revenge yourself, get revenge, avenge. Idiomatic English = get back at someone, get one's own back."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An unfriendly feeling towards someone because they have upset you or harmed you in the past. English = grudge.",
     "2. The act of hurting or doing something bad to someone who has hurt or harmed you in some way before. English = revenge, vengeance."
   ],
   "idGloss": "grudge.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

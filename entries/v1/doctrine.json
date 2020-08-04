@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doctrine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 866,
   "recordNumber": 496,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 11,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A principle or belief, or a set of principles or beliefs, particularly of a religion. English = doctrine."
   ],
   "idGloss": "doctrine",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

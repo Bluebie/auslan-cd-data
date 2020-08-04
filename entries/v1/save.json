@@ -22,9 +22,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "saving",
     "retention",
@@ -35,10 +35,9 @@
     "keep"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4298,
   "recordNumber": 2616,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -60,12 +59,13 @@
     "3. To help someone avoid harm or to escape from a dangerous or unpleasant situation. English = save, rescue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of collecting money by not spending it, or the money itself. English = saving, savings.",
     "2. The act of causing something to remain in the same state or place; the act of continuing to have something. English = retention, keeping.",
     "3. The helping of someone avoid harm or escape from a dangerous or unpleasant situation. English = rescue."
   ],
   "idGloss": "save",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

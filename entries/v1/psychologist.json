@@ -15,19 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "psychology",
     "psychologist",
     "psychological"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4215,
   "recordNumber": 2549,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "1. Referring to people's mind and thoughts; relating to psychology. English = (be) psychological."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The scientific study of the human mind and the reasons for people's behaviour. English = psychology.",
     "2. A person who studies the human mind and tries to explain why people behave in the way that they do. English = psychologist."
   ],
   "idGloss": "psychologist",
-  "oldEntry": "Popular explanation: the Greek letter psi."
+  "oldEntry": "Popular explanation: the Greek letter psi.",
+  "seeAlso": []
 }

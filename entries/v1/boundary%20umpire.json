@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boundary umpire"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5563,
   "recordNumber": 3289,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -31,10 +30,11 @@
     "1. In Australian rules football, of a boundary umpire, to restart play by throwing the ball backwards over your head onto the field."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australian rules football, one of two umpires on the boundary line who decides when the ball is out of bounds, and who restarts play by throwing the ball backwards over their heads. English = boundary umpire."
   ],
   "idGloss": "boundary umpire",
-  "oldEntry": "Popular explanation: throwing the ball back over your head."
+  "oldEntry": "Popular explanation: throwing the ball back over your head.",
+  "seeAlso": []
 }

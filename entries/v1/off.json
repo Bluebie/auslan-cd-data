@@ -14,17 +14,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4273,
   "recordNumber": 2593,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,8 +44,9 @@
     "4. To finish work for the day (to get off at a particular time); or to stop working for a period of time (to take time off work)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "off",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

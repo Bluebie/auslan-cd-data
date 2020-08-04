@@ -28,9 +28,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "going",
     "leaving",
@@ -45,10 +45,9 @@
     "away"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3369,
   "recordNumber": 1970,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -74,12 +73,13 @@
     "3. To tell someone, somewhat reluctantly, that they can go and do something. English = permit, allow, say go ahead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of moving or travelling away from the place where you are now. English = going, leaving, going away, departure.",
     "2. A social event in which you go away from your own house to be with other people to eat, watch entertainment, dance, drink, or, particularly, to visit outdoor sights. English = outing.",
     "3. The approval of someone else to do something. English = permission, go ahead."
   ],
   "idGloss": "depart.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

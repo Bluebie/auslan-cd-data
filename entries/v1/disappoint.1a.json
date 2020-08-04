@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disappointment",
     "disappoint",
     "disappointed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1567,
   "recordNumber": 934,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -38,11 +37,12 @@
     "2. To feel sad because something that you wanted has not happened or because it was not as good as you had hoped it would be. English = (be) disappointed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of feeling disappointed. English = disappointment.",
     "2. Something which makes you feel disappointed. English = disappointment."
   ],
   "idGloss": "disappoint.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

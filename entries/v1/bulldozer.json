@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bulldozer",
     "bulldoze"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4453,
   "recordNumber": 2705,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.4,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. To knock something down or move something using a bulldozer. English = bulldoze."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, powerful tractor with a broad metal blade at the front, which is used for knocking down buildings or moving large amounts of earth. English = bulldozer."
   ],
   "idGloss": "bulldozer",
-  "oldEntry": "Popular explanation: the blade of a bulldozer."
+  "oldEntry": "Popular explanation: the blade of a bulldozer.",
+  "seeAlso": []
 }

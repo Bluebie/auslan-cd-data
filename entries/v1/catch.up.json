@@ -6,17 +6,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "catch up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2828,
   "recordNumber": 1590,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
     "1. To spend time on an activity you have not had much time to do, so that it is up to date or on a par with other people who are doing the same activity, say students in a course. English = catch up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "catch.up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

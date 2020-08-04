@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flat",
     "level",
@@ -30,13 +30,9 @@
     "table"
   ],
   "deictic": [],
-  "cf": [
-    "smooth",
-    "table"
-  ],
   "signNumber": 3895,
   "recordNumber": 2319,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -62,5 +58,9 @@
     "2. A piece of furniture with a flat top that you put things one. English = table."
   ],
   "idGloss": "flat.surface.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "smooth",
+    "table"
+  ]
 }

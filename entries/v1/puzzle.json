@@ -16,9 +16,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "puzzle",
     "puzzlement",
@@ -26,10 +26,9 @@
     "perplexed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2910,
   "recordNumber": 1646,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -48,12 +47,13 @@
     "3. To scratch your head as a gesture of puzzlement or to show other people that you are puzzled."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that confuses you because you do not understand it. English = puzzle.",
     "2. The feeling of confusion you get when you do not understand something. English = puzzlement.",
     "3. A question, game, or toy which you have to think about carefully in order to answer it correctly or put it together properly. English = puzzle."
   ],
   "idGloss": "puzzle",
-  "oldEntry": "Popular explanation: scratching the head in puzzlement."
+  "oldEntry": "Popular explanation: scratching the head in puzzlement.",
+  "seeAlso": []
 }

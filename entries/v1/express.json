@@ -15,22 +15,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "expressiveness",
     "expressive",
     "express"
   ],
   "deictic": [],
-  "cf": [
-    "hold.1a",
-    "imagine.2"
-  ],
   "signNumber": 5751,
   "recordNumber": 3406,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -47,10 +43,14 @@
     "3. To get rid of any fear of letting other people know how you think and feel about something. Idiomatic English = let oneself go, let it all out, let go."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to easily and clearly show people how you think and feel by using your body and language. English = expressiveness."
   ],
   "idGloss": "express",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hold.1a",
+    "imagine.2"
+  ]
 }

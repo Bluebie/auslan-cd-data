@@ -14,21 +14,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "door open",
     "door"
   ],
   "deictic": [],
-  "cf": [
-    "door",
-    "sliding-door.open"
-  ],
   "signNumber": 4176,
   "recordNumber": 2524,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,8 +42,12 @@
     "2. About businesses, offices, shops, etc., to be in a period when work is happening and there is access to the premises. English = (be) open."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "door.open",
-  "oldEntry": "Popular explanation: a door opening."
+  "oldEntry": "Popular explanation: a door opening.",
+  "seeAlso": [
+    "door",
+    "sliding-door.open"
+  ]
 }

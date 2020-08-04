@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "teddy-bear"
   ],
   "deictic": [],
-  "cf": [
-    "bear.1a"
-  ],
   "signNumber": 819,
   "recordNumber": 468,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 1,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A child's soft toy which looks like a friendly bear with big round ears. English = teddy-bear."
   ],
   "idGloss": "teddy-bear",
-  "oldEntry": "Popular explanation: the outline of rounded ears."
+  "oldEntry": "Popular explanation: the outline of rounded ears.",
+  "seeAlso": [
+    "bear.1a"
+  ]
 }

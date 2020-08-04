@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hair"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6071,
   "recordNumber": 3612,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The long, fine, thread-like things that grow in large numbers on your head. English = hair."
   ],
   "idGloss": "hair",
-  "oldEntry": "Popular explanation: holding some hair."
+  "oldEntry": "Popular explanation: holding some hair.",
+  "seeAlso": []
 }

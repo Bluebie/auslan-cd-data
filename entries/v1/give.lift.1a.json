@@ -18,22 +18,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift",
     "chairlift"
   ],
   "deictic": [],
-  "cf": [
-    "hitch-hike",
-    "chair.2a",
-    "passenger.1"
-  ],
   "signNumber": 3883,
   "recordNumber": 2309,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,11 +45,16 @@
     "3. To ride on a chairlift."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A ride from one place to another in a car or truck which someone offers you for free. English = lift.",
     "2. A line of chairs that hang from a moving cable and carry people up or down a mountain or other steep slope. English = chairlift."
   ],
   "idGloss": "give.lift.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hitch-hike",
+    "chair.2a",
+    "passenger.1"
+  ]
 }

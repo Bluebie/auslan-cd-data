@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "whip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6134.1,
   "recordNumber": 3652,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": null,
   "primaryLocation": 17,
@@ -33,10 +32,11 @@
     "1. To hit a person or animal with a whip. English = whip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of leather or rope fastened to a handle, which is used for hitting people or animals. English = whip."
   ],
   "idGloss": "whip.1",
-  "oldEntry": "Popular explanation: cracking a whip."
+  "oldEntry": "Popular explanation: cracking a whip.",
+  "seeAlso": []
 }

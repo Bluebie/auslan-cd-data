@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pull apart"
   ],
   "deictic": [],
-  "cf": [
-    "elastic.2",
-    "string.1a"
-  ],
   "signNumber": 388,
   "recordNumber": 211,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -36,5 +32,9 @@
   "generalMeaning": "The act of pulling apart, opening or stretching something small and delicate, or any action or any thing directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "pull.apart",
-  "oldEntry": "Popular explanation: pulling something apart."
+  "oldEntry": "Popular explanation: pulling something apart.",
+  "seeAlso": [
+    "elastic.2",
+    "string.1a"
+  ]
 }

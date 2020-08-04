@@ -10,16 +10,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "goal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 853,
   "recordNumber": 489,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 8,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australian Rules Football, six points scored when the ball is kicked between the two centre poles of the four goal posts found at each end of the field. English = goal."
   ],
   "idGloss": "goal.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

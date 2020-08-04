@@ -28,9 +28,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pretence",
     "imitation",
@@ -44,12 +44,9 @@
     "suppose"
   ],
   "deictic": [],
-  "cf": [
-    "not.true"
-  ],
   "signNumber": 5517,
   "recordNumber": 3267,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -75,12 +72,15 @@
     "3. Of a statement, idea or action, to not be true or to be based on wrong information. English = (be) false."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of behaving in a way that is intended to make people believe that something is the case, although in fact it is not. English = pretence.",
     "2. Something that is made to look like something real. English = imitation, copy.",
     "3. An object, especially a work of art, which is made to appear real but which is not. English = fake."
   ],
   "idGloss": "pretend.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.true"
+  ]
 }

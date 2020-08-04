@@ -21,22 +21,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "health",
     "well",
     "healthy"
   ],
   "deictic": [],
-  "cf": [
-    "fine",
-    "cure"
-  ],
   "signNumber": 3444,
   "recordNumber": 2011,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -60,10 +56,14 @@
     "1. To be not suffering from any illness. English = (be) well, (be) healthy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state in which you are fit and well and not ill. English = health."
   ],
   "idGloss": "well.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fine",
+    "cure"
+  ]
 }

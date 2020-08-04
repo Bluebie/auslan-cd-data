@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Philippines",
     "Filipino"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3616,
   "recordNumber": 2131,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -36,10 +35,11 @@
     "1. To be someone from the Philippines or something relating to the Philippines. English = Filipino."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in south east Asia in the Pacific Ocean east of Vietnam, called the Philippines."
   ],
   "idGloss": "Philippines.1",
-  "oldEntry": "Popular explanation: the butterfly shoulders of traditional Filipino dress."
+  "oldEntry": "Popular explanation: the butterfly shoulders of traditional Filipino dress.",
+  "seeAlso": []
 }

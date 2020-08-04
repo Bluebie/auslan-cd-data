@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "change",
     "alteration",
@@ -32,12 +32,9 @@
     "modify"
   ],
   "deictic": [],
-  "cf": [
-    "alternate"
-  ],
   "signNumber": 971,
   "recordNumber": 561,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -56,7 +53,7 @@
     "4. To exchange an amount of money into different coins and notes. English = change, change money."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of becoming different. English = change.",
     "2. The act of making something be different. English = change, alteration, modification.",
@@ -64,5 +61,8 @@
     "4. Coins, rather than notes. English = change, small change."
   ],
   "idGloss": "change.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "alternate"
+  ]
 }

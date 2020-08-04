@@ -23,8 +23,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "acceptance",
     "resignation",
@@ -33,10 +33,9 @@
     "acceptable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3930,
   "recordNumber": 2343,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -59,12 +58,13 @@
     "3. To be generally approved of and allowed to happen. English = (be) acceptable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The taking of something you have been offered; the agreement to an idea or the decision to follow advice. English = acceptance.",
     "2. The process of no longer complaining about a difficult or unpleasant situation because you get used to it and because you recognise that it cannot be changed. English = acceptance, resignation.",
     "3. The quality of being generally approved of and allowed to happen. English = acceptability."
   ],
   "idGloss": "accept.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

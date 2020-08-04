@@ -15,18 +15,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "divorce",
     "divorced"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 997,
   "recordNumber": 578,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -46,10 +45,11 @@
     "2. To be single again after having ended your marriage by law. English = (be) divorced."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The formal ending of a marriage by law. English = divorce."
   ],
   "idGloss": "divorce.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

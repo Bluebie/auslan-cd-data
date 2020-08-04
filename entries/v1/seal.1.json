@@ -16,19 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "putty",
     "seal",
     "tape"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4949,
   "recordNumber": 2991,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,7 +44,7 @@
     "3. To close a container or letter with something that must be broken or removed before the container or letter can be opened. English = seal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A surface which has been joined, repaired or had something attached to it with long sticky strips of plastic.",
     "2. A stiff paste used to fix glass panes into frames and to fill cracks or holes in woodwork. English = putty.",
@@ -53,5 +52,6 @@
     "4. Something fixed to a container or letter that must be broken or removed before the container or letter can be opened. English = seal."
   ],
   "idGloss": "seal.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,17 +11,13 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "father"
   ],
   "deictic": [],
-  "cf": [
-    "aunt.1",
-    "daughter"
-  ],
   "signNumber": 2056,
   "recordNumber": 1201,
   "signVisualComposition": "F + F",
@@ -38,10 +34,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The man who is one of your parents. English = father."
   ],
   "idGloss": "father.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "aunt.1",
+    "daughter"
+  ]
 }

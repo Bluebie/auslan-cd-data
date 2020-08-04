@@ -10,17 +10,16 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shorts"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3508,
   "recordNumber": 2053,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -36,10 +35,11 @@
     "1. To wear shorts."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Short pants that do not go beyond your knees. English = shorts, pair of shorts."
   ],
   "idGloss": "shorts.1a",
-  "oldEntry": "Popular explanation: tracing the bottom of a pair of shorts."
+  "oldEntry": "Popular explanation: tracing the bottom of a pair of shorts.",
+  "seeAlso": []
 }

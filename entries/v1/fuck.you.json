@@ -5,17 +5,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fuck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6495,
   "recordNumber": 3867,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -28,8 +27,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "fuck.you",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

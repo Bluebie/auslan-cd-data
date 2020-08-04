@@ -9,19 +9,14 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "draw.line.1a",
-    "eyeliner",
-    "make-up"
-  ],
   "signNumber": 6337.1,
   "recordNumber": 3781,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": null,
   "primaryLocation": 3,
@@ -32,11 +27,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pencil which is used to apply dark lines or colour to the eyebrows. It is used for cosmetic purposes by women. English = eyebrow pencil.",
     "2. Eyebrows which have been coloured using an eyebrow pencil."
   ],
   "idGloss": "eyebrow pencil",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "draw.line.1a",
+    "eyeliner",
+    "make-up"
+  ]
 }

@@ -20,9 +20,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "interest",
     "fascination",
@@ -32,12 +32,9 @@
     "fascinating"
   ],
   "deictic": [],
-  "cf": [
-    "impress.1a"
-  ],
   "signNumber": 3475,
   "recordNumber": 2029,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -58,11 +55,14 @@
     "4. To attract very strongly or hold very tightly your attention, because you think it is very interesting. English = (be) fascinating."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The desire to want to learn or hear more about something. English = interest.",
     "2. A very strong interest in something. English = fascination."
   ],
   "idGloss": "interest.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "impress.1a"
+  ]
 }

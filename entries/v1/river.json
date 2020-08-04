@@ -19,9 +19,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "river",
     "stream",
@@ -31,13 +31,9 @@
     "trail"
   ],
   "deictic": [],
-  "cf": [
-    "path",
-    "street.1a"
-  ],
   "signNumber": 3800,
   "recordNumber": 2256,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,12 +46,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large amount of fresh water flowing continuously in a long line across the land. English = river, stream.",
     "2. A small stream or river. English = creek.",
     "3. The route to a particular place that is a long winding thin line of ground that has been marked by people or animals walking, or has been specifically constructed and paved, and/or has been marked with signs. English = way, path, trail."
   ],
   "idGloss": "river",
-  "oldEntry": "Popular explanation: the winding path of a river."
+  "oldEntry": "Popular explanation: the winding path of a river.",
+  "seeAlso": [
+    "path",
+    "street.1a"
+  ]
 }

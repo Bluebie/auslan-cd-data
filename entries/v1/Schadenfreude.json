@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Schadenfreude"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6359,
   "recordNumber": 3799,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -30,10 +29,11 @@
     "1. To take pleasure in other people's misfortunes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The pleasure some people feel in other people's misfortunes. Formal English = Schadenfreude."
   ],
   "idGloss": "Schadenfreude",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -17,8 +17,8 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Often used at the end of a sentence to turn a statement into a question as an afterthought.",
   "english": [
     "question mark",
@@ -26,10 +26,9 @@
     "query"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 766,
   "recordNumber": 441,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -48,11 +47,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A special punctuation mark which is put at the end of a written sentence. English = question mark, interrogation mark.",
     "2. Something you check by asking about it because you are no sure that it is correct. English = query."
   ],
   "idGloss": "question.2",
-  "oldEntry": "Popular explanation: the trace of a question mark."
+  "oldEntry": "Popular explanation: the trace of a question mark.",
+  "seeAlso": []
 }

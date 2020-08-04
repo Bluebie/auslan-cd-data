@@ -16,21 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "become",
     "change into",
     "transform"
   ],
   "deictic": [],
-  "cf": [
-    "continue.1a"
-  ],
   "signNumber": 3750,
   "recordNumber": 2214,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,8 +47,11 @@
     "3. To completely change into something else. English = transform."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "become.1a",
-  "oldEntry": "Popular explanation: change places with."
+  "oldEntry": "Popular explanation: change places with.",
+  "seeAlso": [
+    "continue.1a"
+  ]
 }

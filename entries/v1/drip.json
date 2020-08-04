@@ -15,23 +15,18 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drops",
     "leak",
     "drip"
   ],
   "deictic": [],
-  "cf": [
-    "rain",
-    "drop.2",
-    "dripolator"
-  ],
   "signNumber": 1437,
   "recordNumber": 857,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -48,11 +43,16 @@
     "3. Of a container or other object, to have a crack or a hole so that a liquid can pass through. English = leak."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Small ball shaped quantities of a liquid. English = drops.",
     "2. A crack or a small hole in a container through which a liquid is passing. English = leak."
   ],
   "idGloss": "drip",
-  "oldEntry": "Popular explanation: drops of water falling."
+  "oldEntry": "Popular explanation: drops of water falling.",
+  "seeAlso": [
+    "rain",
+    "drop.2",
+    "dripolator"
+  ]
 }

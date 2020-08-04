@@ -14,19 +14,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "minus"
   ],
   "deictic": [],
-  "cf": [
-    "equal.2"
-  ],
   "signNumber": 1429,
   "recordNumber": 854,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -46,10 +43,13 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sign (-) which is put between two numbers in order to show that the second number is being subtracted from the first number. English = minus sign."
   ],
   "idGloss": "minus.sign",
-  "oldEntry": "Popular explanation: the minus sign."
+  "oldEntry": "Popular explanation: the minus sign.",
+  "seeAlso": [
+    "equal.2"
+  ]
 }

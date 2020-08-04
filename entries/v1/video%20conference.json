@@ -9,16 +9,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "video conference"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1644,
   "recordNumber": 975,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A conference in which several people who are a long way from each other are able to talk to each other using audio and video equipment. English = video conference."
   ],
   "idGloss": "video conference",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

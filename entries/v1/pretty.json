@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LOOK + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "prettiness",
     "attractiveness",
@@ -29,10 +29,9 @@
     "attractive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1916,
   "recordNumber": 1144,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -53,10 +52,11 @@
     "1. To be nice to look at; to look good. English = (be) pretty, (be) good-looking, (be) attractive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition or state of being nice to look at or being good-looking. English = prettiness, attractiveness."
   ],
   "idGloss": "pretty",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

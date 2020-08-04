@@ -7,14 +7,13 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "make the bed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4412,
   "recordNumber": 2684,
   "signVisualComposition": "BED + MAKE",
@@ -30,8 +29,9 @@
     "1. To neatly arrange the sheets and covers of a bed. English = make the bed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "make.the.bed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

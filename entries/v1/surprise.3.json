@@ -10,17 +10,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "surprise",
     "surprised"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2957,
   "recordNumber": 1680,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,10 +34,11 @@
     "1. To be moderately interested or curious about something unexpected. English = (be) surprised."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of moderate interest or curiosity in something unexpected. English = surprise."
   ],
   "idGloss": "surprise.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

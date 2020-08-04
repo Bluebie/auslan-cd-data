@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "twin",
     "twins"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1543,
   "recordNumber": 919,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -31,11 +30,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of two people who have the same mother and were born at the same time. English = twin.",
     "2. Two people who have the same mother and were born at the same time. English = twins."
   ],
   "idGloss": "twin.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

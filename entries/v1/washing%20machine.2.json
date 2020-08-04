@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "washing machine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6614,
   "recordNumber": 3936,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine in which you can wash clothes. English = washing machine."
   ],
   "idGloss": "washing machine.2",
-  "oldEntry": "Popular explanation: rotating blades in a washing machine."
+  "oldEntry": "Popular explanation: rotating blades in a washing machine.",
+  "seeAlso": []
 }

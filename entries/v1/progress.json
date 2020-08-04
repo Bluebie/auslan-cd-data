@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "progress",
     "promotion",
@@ -29,10 +29,9 @@
     "promoted"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3980,
   "recordNumber": 2380,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -54,11 +53,12 @@
     "3. To progress to a more important job in an organisation. English = (be) promoted, work your way up, get on, get ahead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process of gradually getting better or nearer to achieving something or completing something; an improvement in circumstances. English = progress.",
     "2. The movement from a less important to a more important job in an organisation. English = promotion."
   ],
   "idGloss": "progress",
-  "oldEntry": "Popular explanation: a level moving upwards."
+  "oldEntry": "Popular explanation: a level moving upwards.",
+  "seeAlso": []
 }

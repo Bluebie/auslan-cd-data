@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "move"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5813,
   "recordNumber": 3451,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. To formally propose something at a meeting so that everyone present can vote for or against it. English = move."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A formal proposal which the people present at a meeting discuss and then vote on. English = motion."
   ],
   "idGloss": "move.motion.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

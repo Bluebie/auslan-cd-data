@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stop",
     "halt",
@@ -23,12 +23,9 @@
     "prevent"
   ],
   "deictic": [],
-  "cf": [
-    "hold.on"
-  ],
   "signNumber": 3352,
   "recordNumber": 1955,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,8 +42,11 @@
     "2. To make someone or something no longer do something. English = stop, halt , cease, prevent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "stop",
-  "oldEntry": "Popular explanation: culturally shared gesture."
+  "oldEntry": "Popular explanation: culturally shared gesture.",
+  "seeAlso": [
+    "hold.on"
+  ]
 }

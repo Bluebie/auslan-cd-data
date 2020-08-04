@@ -13,20 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift",
     "elevator"
   ],
   "deictic": [],
-  "cf": [
-    "lift.3a"
-  ],
   "signNumber": 3885,
   "recordNumber": 2311,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "1. To go up in a lift."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device like a large box that moves up and down inside a tall building and carries people from one floor to another. English = lift, elevator."
   ],
   "idGloss": "go.up.in.lift",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lift.3a"
+  ]
 }

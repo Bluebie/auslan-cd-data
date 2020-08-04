@@ -8,14 +8,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unaware"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4016,
   "recordNumber": 2404,
   "signVisualComposition": "SOUVENIR + 'NOT'",
@@ -33,8 +32,9 @@
     "1. To not know about something or to be unaware of something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "unaware.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

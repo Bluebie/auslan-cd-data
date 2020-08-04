@@ -13,18 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "government",
     "minister"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4506,
   "recordNumber": 2740,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,12 +37,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The group of people who are responsible for governing a country or state. English = government.",
     "2. The departments, ministries, and committees that carry out the decisions of the political leaders of a country. English = government.",
     "3. A person who is in charge of a particular government department.  English = minister."
   ],
   "idGloss": "government.3a",
-  "oldEntry": "Popular explanation: the sash worn by royalty, diplomats, mayors etc."
+  "oldEntry": "Popular explanation: the sash worn by royalty, diplomats, mayors etc.",
+  "seeAlso": []
 }

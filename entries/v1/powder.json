@@ -10,21 +10,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "talcum powder",
     "talc",
     "powder"
   ],
   "deictic": [],
-  "cf": [
-    "flour.1"
-  ],
   "signNumber": 4525,
   "recordNumber": 2746,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,10 +34,13 @@
     "1. To cover parts of your body with scented powder."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A soft perfumed powder which people put on their bodies after they have had a bath or shower. English = talcum powder, talc, powder."
   ],
   "idGloss": "powder",
-  "oldEntry": "Popular explanation: shaking a powder container."
+  "oldEntry": "Popular explanation: shaking a powder container.",
+  "seeAlso": [
+    "flour.1"
+  ]
 }

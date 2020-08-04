@@ -13,18 +13,15 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "journey"
   ],
   "deictic": [],
-  "cf": [
-    "wander"
-  ],
   "signNumber": 1088,
   "recordNumber": 638,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
     "1. To travel a long way from one place to another, usually in a leisurely or roundabout way. English = journey, go on a journey, go on a trip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long leisurely or roundabout journey or trip."
   ],
   "idGloss": "journey.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wander"
+  ]
 }

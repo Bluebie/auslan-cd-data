@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cucumber"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4633,
   "recordNumber": 2807,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. a long, thin vegetable, often used raw in salads, that has a green skin and is white and moist inside. English = cucumber."
   ],
   "idGloss": "cucumber",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

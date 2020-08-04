@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "take"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2564,
   "recordNumber": 1416,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "1. To put your hand around something, hold it and bring it towards you. English = take."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "take.1a",
-  "oldEntry": "Popular explanation: taking something."
+  "oldEntry": "Popular explanation: taking something.",
+  "seeAlso": []
 }

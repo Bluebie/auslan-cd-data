@@ -16,19 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "deaf",
     "deaf and dumb",
     "deaf mute"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1912,
   "recordNumber": 1142,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -45,12 +44,13 @@
     "3. To relate to deaf people and their community. English = (be) Deaf."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is unable to hear anything or unable to hear very well (especially the sounds of speech) and who tends not to use speech to communicate. English = a deaf and dumb person, a deaf mute person.",
     "2. People who are unable to hear anything or unable to hear very well (especially the sounds of speech) and who tend not to use speech to communicate. English = deaf and dumb people, deaf mute people.",
     "3. People who are unable to hear anything or unable to hear very well (especially the sounds of speech), who tend not to use speech but use sign language instead. They form and identify as a community. English = the deaf, the Deaf; the deaf and dumb."
   ],
   "idGloss": "deaf.and.dumb.1a",
-  "oldEntry": "Popular explanation: covering the ear and mouth. Probably in direct translation of deaf and dumb."
+  "oldEntry": "Popular explanation: covering the ear and mouth. Probably in direct translation of deaf and dumb.",
+  "seeAlso": []
 }

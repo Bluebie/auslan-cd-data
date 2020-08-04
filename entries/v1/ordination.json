@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ordination",
     "ordained"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3866,
   "recordNumber": 2299,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To be made a member of the Catholic clergy in a special religious ceremony. English = (be) ordained."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The religious event in which someone is made a member of the Catholic clergy in a special ceremony. English = ordination."
   ],
   "idGloss": "ordination",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

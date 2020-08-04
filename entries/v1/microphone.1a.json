@@ -16,9 +16,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "microphone",
     "announcer",
@@ -28,10 +28,9 @@
     "announce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5618,
   "recordNumber": 3328,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -45,12 +44,13 @@
     "2. To make an announcement or to record a message using a microphone, to announce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. [Usually made with mouth movement] a device for making sounds louder, especially a person's voice, or to record them on a tape recorder. English = microphone.",
     "2. A person whose job involves using a microphone to announce things or to record news for radio or television. English = announcer, radio journalist, television journalist.",
     "3. An amplified message played at a public place, such as a railway station, airport, shopping centre. English = announcement."
   ],
   "idGloss": "microphone.1a",
-  "oldEntry": "Popular explanation: holding on to a microphone."
+  "oldEntry": "Popular explanation: holding on to a microphone.",
+  "seeAlso": []
 }

@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "net",
     "mesh",
     "meshed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2410,
   "recordNumber": 1331,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -36,11 +35,12 @@
     "1. To be made with threads of wire, fabric or plastic which are woven loosely together. English = (be) meshed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of cloth made of very fine threads that are woven together so that there are small equal spaces between them and you can see through the cloth. English = net.",
     "2. Material like a net made from wire, thread, or plastic. English = mesh."
   ],
   "idGloss": "net",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

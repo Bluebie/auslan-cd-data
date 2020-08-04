@@ -11,17 +11,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "runs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 930,
   "recordNumber": 530,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. In cricket, to make runs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In cricket, a score of one which is made by players running between marked places on the pitch after hitting the ball. English = runs (plural)."
   ],
   "idGloss": "runs",
-  "oldEntry": "Popular explanation: two people going backward and forward."
+  "oldEntry": "Popular explanation: two people going backward and forward.",
+  "seeAlso": []
 }

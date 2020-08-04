@@ -23,8 +23,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "present",
     "current",
@@ -34,12 +34,9 @@
     "nowadays"
   ],
   "deictic": [],
-  "cf": [
-    "what.1a"
-  ],
   "signNumber": 708,
   "recordNumber": 409,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -61,11 +58,14 @@
     "2. Used immediately next to a sign which names a period of time ('morning', 'afternoon', 'night', 'year' etc.) to mean one of those periods of time which is happening now or closest to you. English = 'this morning', etc."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The present time of talking, writing or signing and not some other time. English = present.",
     "2. [With stress, squint and/or grimace] the very instant at which you are signing, right now at the time of signing."
   ],
   "idGloss": "now.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "what.1a"
+  ]
 }

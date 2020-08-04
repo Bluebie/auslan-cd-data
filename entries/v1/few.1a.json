@@ -15,21 +15,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "few",
     "rarely",
     "seldom"
   ],
   "deictic": [],
-  "cf": [
-    "often.1a"
-  ],
   "signNumber": 6363,
   "recordNumber": 3801,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -50,10 +47,13 @@
     "1. Of the number of things or people, to be smaller than desirable or than was expected. English = (be) few."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small number of things or people. English = few."
   ],
   "idGloss": "few.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "often.1a"
+  ]
 }

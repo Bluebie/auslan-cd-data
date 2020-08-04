@@ -14,22 +14,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "baseball",
     "softball"
   ],
   "deictic": [],
-  "cf": [
-    "lacrosse",
-    "cricket.1",
-    "tennis.1a"
-  ],
   "signNumber": 5727,
   "recordNumber": 3391,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 8,
@@ -43,11 +38,16 @@
     "2. To strike a baseball with the bat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game played by two teams of nine players. Each player from one team hits a ball with a bat and then tries to run round all four bases before the other team can get the ball back. English = baseball.",
     "2. A form of baseball played with a larger and softer ball. English = softball."
   ],
   "idGloss": "baseball",
-  "oldEntry": "Popular explanation: a batting action."
+  "oldEntry": "Popular explanation: a batting action.",
+  "seeAlso": [
+    "lacrosse",
+    "cricket.1",
+    "tennis.1a"
+  ]
 }

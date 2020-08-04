@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "should",
     "must",
@@ -25,10 +25,9 @@
     "have to"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4754,
   "recordNumber": 2874,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -50,8 +49,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "should.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

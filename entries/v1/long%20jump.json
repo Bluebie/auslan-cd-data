@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "long jump"
   ],
   "deictic": [],
-  "cf": [
-    "hurdles"
-  ],
   "signNumber": 6485,
   "recordNumber": 3860,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In athletics, a contest which involves jumping as far as you can from a marker which you run up to. English = long jump."
   ],
   "idGloss": "long jump",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hurdles"
+  ]
 }

@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "triples",
     "threes",
@@ -22,10 +22,9 @@
     "triple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2265,
   "recordNumber": 1281,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 3.1,
   "primaryLocation": 14,
@@ -41,10 +40,11 @@
     "2. To consist of three things or three parts. English = (be) triple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In various games, to have three people on one team play three other people on another team. English =  triples, threes."
   ],
   "idGloss": "treble",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

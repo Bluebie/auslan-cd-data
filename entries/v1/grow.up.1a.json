@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "childhood",
     "grow up"
   ],
   "deictic": [],
-  "cf": [
-    "grow",
-    "bring.up"
-  ],
   "signNumber": 3497,
   "recordNumber": 2045,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -38,10 +34,14 @@
     "2. To work one's way up in an organisation from a very low position so that you occupy positions of greater power or status."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time in which you gradually change from being a child into being an adult. English = childhood."
   ],
   "idGloss": "grow.up.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "grow",
+    "bring.up"
+  ]
 }

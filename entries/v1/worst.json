@@ -10,17 +10,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "worst"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5016,
   "recordNumber": 3026,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To be very bad indeed and more so than all the other things of its type you can compare it with. English = (be) worst."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing which is very bad indeed and more so than all the other things of its type you can compare it with. English = the worst."
   ],
   "idGloss": "worst",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

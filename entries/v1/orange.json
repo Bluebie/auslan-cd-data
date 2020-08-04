@@ -12,20 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "orange"
   ],
   "deictic": [],
-  "cf": [
-    "lemon.1a",
-    "lemon.2"
-  ],
   "signNumber": 44,
   "recordNumber": 26,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -38,11 +34,15 @@
     "1. To have a colour which is between red and yellow. English = (be) orange."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A round fruit that is juicy and sweet. It has a thick skin and is divided into sections inside. English = orange.",
     "2. A colour between red and yellow. English = orange."
   ],
   "idGloss": "orange",
-  "oldEntry": "Popular explanation: squeezing an orange."
+  "oldEntry": "Popular explanation: squeezing an orange.",
+  "seeAlso": [
+    "lemon.1a",
+    "lemon.2"
+  ]
 }

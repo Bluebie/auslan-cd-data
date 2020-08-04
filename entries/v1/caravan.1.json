@@ -13,20 +13,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "caravan"
   ],
   "deictic": [],
-  "cf": [
-    "tow.1a",
-    "trailer.1"
-  ],
   "signNumber": 4120,
   "recordNumber": 2479,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,10 +35,14 @@
     "1. To tow a caravan."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A vehicle with beds and other equipment inside, in which people live or spend their holidays. The are usually pulled by a car. English = caravan."
   ],
   "idGloss": "caravan.1",
-  "oldEntry": "Popular explanation: one vehicle attached to another."
+  "oldEntry": "Popular explanation: one vehicle attached to another.",
+  "seeAlso": [
+    "tow.1a",
+    "trailer.1"
+  ]
 }

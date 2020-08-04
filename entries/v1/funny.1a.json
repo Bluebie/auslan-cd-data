@@ -25,9 +25,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fun",
     "amusement",
@@ -43,10 +43,9 @@
     "queer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1377,
   "recordNumber": 817,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -66,11 +65,12 @@
     "3. To be unusual, surprising, or puzzling. English = (be) funny, (be) strange, (be) odd, (be) weird, (be) queer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Activity which is enjoyable or amusing. English = fun, amusement.",
     "2. The quality of something being unusual, surprising, or puzzling. English = strangeness, queerness, weirdness, oddity."
   ],
   "idGloss": "funny.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

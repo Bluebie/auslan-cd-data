@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "function"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1473,
   "recordNumber": 880,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In mathematics, a quantity whose value depends upon the values of other quantities, called the arguments or independent variables. English = function."
   ],
   "idGloss": "function",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

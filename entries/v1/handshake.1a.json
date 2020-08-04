@@ -16,9 +16,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "handshake",
     "congratulations",
@@ -26,10 +26,9 @@
     "congratulate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4657,
   "recordNumber": 2815,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,11 +44,12 @@
     "2. To praise someone for something they have done, especially by shaking their hand. English = congratulate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of holding someone's right hand in your own and moving it up and down when you are meeting them, saying goodbye to them, or congratulating them. English = handshake.",
     "2. The act of praising someone for something they have done, especially by shaking their hand. English = congratulations."
   ],
   "idGloss": "handshake.1a",
-  "oldEntry": "Popular explanation: shaking hands."
+  "oldEntry": "Popular explanation: shaking hands.",
+  "seeAlso": []
 }

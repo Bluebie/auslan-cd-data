@@ -15,8 +15,8 @@
     "engtf8"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "foolishness",
     "craziness",
@@ -28,10 +28,9 @@
     "stupid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1358,
   "recordNumber": 801,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -44,10 +43,11 @@
     "1. To behave in a unintelligent, ignorant, unfair, or illogical way. English = (be) foolish, (be) stupid, (be) crazy, (be) silly, (be) nuts."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is unintelligent, ignorant, unfair, or illogical. English = foolishness, craziness, stupidity."
   ],
   "idGloss": "foolish",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wear",
     "exhaustion",
@@ -31,10 +31,9 @@
     "wear off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3636,
   "recordNumber": 2140,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,11 +53,12 @@
     "4. Of a feeling, such as a pain, to disappear slowly. English = wear off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The damage that is caused to something during normal or prolonged use. English = wear and tear",
     "2. The state of being so tired that you have no energy left. English = exhaustion."
   ],
   "idGloss": "wear.out.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

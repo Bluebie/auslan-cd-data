@@ -12,19 +12,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "person",
     "character",
     "client"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5337,
   "recordNumber": 3195,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,12 +39,13 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man or a woman. English = person.",
     "2. A person in a film or play. English = character.",
     "3. A person or company that receives a service from a professional person or organisation. English = client."
   ],
   "idGloss": "person.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

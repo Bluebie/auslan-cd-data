@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "salute"
   ],
   "deictic": [],
-  "cf": [
-    "cub",
-    "girl guide"
-  ],
   "signNumber": 3141,
   "recordNumber": 1817,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -35,10 +31,14 @@
     "1. To formally greet someone using the military hand gesture. English = salute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A formal hand gesture greeting made by soldiers to officers. English = salute."
   ],
   "idGloss": "salute",
-  "oldEntry": "Popular explanation: saluting."
+  "oldEntry": "Popular explanation: saluting.",
+  "seeAlso": [
+    "cub",
+    "girl guide"
+  ]
 }

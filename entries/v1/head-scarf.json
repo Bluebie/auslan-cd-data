@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scarf",
     "head scarf"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6151,
   "recordNumber": 3667,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 11,
@@ -37,10 +36,11 @@
     "1. To put on or wear a head scarf."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of cloth that you wear round your head, usually to keep yourself warm. Usually worn by women. English = scarf, head scarf."
   ],
   "idGloss": "head-scarf",
-  "oldEntry": "Popular explanation: tying up a scarf."
+  "oldEntry": "Popular explanation: tying up a scarf.",
+  "seeAlso": []
 }

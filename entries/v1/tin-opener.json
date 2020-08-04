@@ -9,20 +9,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "can-opener",
     "tin-opener"
   ],
   "deictic": [],
-  "cf": [
-    "container.1a"
-  ],
   "signNumber": 6271,
   "recordNumber": 3744,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device for opening cans of food. English = can-opener, tin-opener."
   ],
   "idGloss": "tin-opener",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "container.1a"
+  ]
 }

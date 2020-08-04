@@ -17,9 +17,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gun",
     "revolver",
@@ -28,14 +28,9 @@
     "fire"
   ],
   "deictic": [],
-  "cf": [
-    "cowboy.1a",
-    "hold.up",
-    "film.5"
-  ],
   "signNumber": 5158,
   "recordNumber": 3107,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -51,11 +46,16 @@
     "1. To operate a gun or a revolver. English = shoot, fire."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A weapon consisting mainly of a metal tube from which bullets are fired. English = gun.",
     "2. A kind of a gun that you hold in your hand. English = revolver, pistol."
   ],
   "idGloss": "gun.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "cowboy.1a",
+    "hold.up",
+    "film.5"
+  ]
 }

@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "elephant",
     "trunk"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5579,
   "recordNumber": 3304,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -34,11 +33,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very large animal with a long trunk. They are found in Africa and India. English = elephant.",
     "2. The very long nose of an elephant that it uses to lift food and water. English = trunk."
   ],
   "idGloss": "elephant.1a",
-  "oldEntry": "Popular explanation: the trunk of an elephant."
+  "oldEntry": "Popular explanation: the trunk of an elephant.",
+  "seeAlso": []
 }

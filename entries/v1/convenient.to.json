@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "convenient"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1017,
   "recordNumber": 595,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -33,11 +32,12 @@
     "2. Of a house, business, etc., to be very suitably located so that one need only make short trips to facilities or other businesses; to be conveniently located; to be easy to get to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Short trips made frequently from one place to another.",
     "2. A convenient location for a house, business, etc., because it is close to everything."
   ],
   "idGloss": "convenient.to",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

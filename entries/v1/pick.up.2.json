@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pick up",
     "catch",
     "score"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4842,
   "recordNumber": 2925,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -40,8 +39,9 @@
     "3. To meet someone for the first time or casually, to talk to them in order to start a sexual relationship with them, and to succeed at it. Idiomatic English = pick up, score."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "pick.up.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

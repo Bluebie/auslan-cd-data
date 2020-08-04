@@ -17,8 +17,8 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is often made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
   "english": [
     "mannerism",
@@ -29,10 +29,9 @@
     "characteristically"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5656,
   "recordNumber": 3352,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -51,12 +50,13 @@
     "3. Of a society or culture, to do things or behave in a way which is normal for that group of people; to behave customarily."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Features or characteristics which are normal or typical for a thing of that type.",
     "2. The characteristic or typical behaviour patterns of a person. English = mannerism.",
     "3. The characteristic or typical behaviour patterns of a society or culture. English = custom, tradition."
   ],
   "idGloss": "typical.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -17,21 +17,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "conceal",
     "hide"
   ],
   "deictic": [],
-  "cf": [
-    "private.1",
-    "secret.1a"
-  ],
   "signNumber": 4099,
   "recordNumber": 2460,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,11 +47,15 @@
     "2. To move something to one side for later use or attention. English = put aside, put to one side."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is hidden.",
     "2. Something which is put aside to be used or attended to at a later time."
   ],
   "idGloss": "conceal",
-  "oldEntry": "Popular explanation: pushing something aside underneath another thing."
+  "oldEntry": "Popular explanation: pushing something aside underneath another thing.",
+  "seeAlso": [
+    "private.1",
+    "secret.1a"
+  ]
 }

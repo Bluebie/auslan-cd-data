@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "princess"
   ],
   "deictic": [],
-  "cf": [
-    "monarch",
-    "king"
-  ],
   "signNumber": 1829,
   "recordNumber": 1098,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The female member of a royal family, usually the daughter of a king or queen or the wife of a prince. English = princess."
   ],
   "idGloss": "princess",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "monarch",
+    "king"
+  ]
 }

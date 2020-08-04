@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dismemberment",
     "dismember",
     "take apart"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2618,
   "recordNumber": 1453,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
     "2. To tear the body of a person or animal to pieces, or to pull or cut off the arms or legs of a person or animal. Formal English = dismember."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The separating of something into the different parts that it is made of.",
     "2. The pulling off or the cutting off of the arms or legs of a person or animal. English = dismemberment."
   ],
   "idGloss": "take.apart.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

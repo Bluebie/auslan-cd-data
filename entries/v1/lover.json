@@ -8,20 +8,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lover"
   ],
   "deictic": [],
-  "cf": [
-    "heart.1",
-    "go steady.1a"
-  ],
   "signNumber": 3461,
   "recordNumber": 2022,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -34,10 +30,14 @@
     "1. To fall in love with someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone you are having a sexual relationship with but are not married to. English = lover."
   ],
   "idGloss": "lover",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "heart.1",
+    "go steady.1a"
+  ]
 }

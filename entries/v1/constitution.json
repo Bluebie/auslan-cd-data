@@ -10,18 +10,15 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "constitution"
   ],
   "deictic": [],
-  "cf": [
-    "policy"
-  ],
   "signNumber": 4682,
   "recordNumber": 2828,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The system of laws of a country or organisation which formally states people's rights and duties. English = constitution."
   ],
   "idGloss": "constitution",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "policy"
+  ]
 }

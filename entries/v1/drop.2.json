@@ -7,20 +7,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drop",
     "drip"
   ],
   "deictic": [],
-  "cf": [
-    "drip"
-  ],
   "signNumber": 1436,
   "recordNumber": 856,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -33,10 +30,13 @@
     "1. Of a single drop of liquid, to fall. English = drip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very small amount of liquid shaped like a little ball. English = drop."
   ],
   "idGloss": "drop.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "drip"
+  ]
 }

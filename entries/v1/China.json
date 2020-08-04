@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "China",
     "Chinese"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 669,
   "recordNumber": 390,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,10 +34,11 @@
     "1. To be from or relate to China. English = (be) Chinese."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
   ],
   "idGloss": "China",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

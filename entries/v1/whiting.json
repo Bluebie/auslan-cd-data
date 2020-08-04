@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "whiting"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 680,
   "recordNumber": 395,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of small fish. English = whiting."
   ],
   "idGloss": "whiting",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

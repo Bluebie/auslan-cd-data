@@ -15,9 +15,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rubber",
     "eraser",
@@ -25,12 +25,9 @@
     "rub out"
   ],
   "deictic": [],
-  "cf": [
-    "colour.1a"
-  ],
   "signNumber": 6449,
   "recordNumber": 3844,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "1. To use a piece of rubber to get rid of writing or drawing. English = erase, rub out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of rubber which is used for rubbing out writing. English = rubber. American English = eraser."
   ],
   "idGloss": "eraser",
-  "oldEntry": "Popular explanation: using an eraser."
+  "oldEntry": "Popular explanation: using an eraser.",
+  "seeAlso": [
+    "colour.1a"
+  ]
 }

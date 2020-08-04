@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not know"
   ],
   "deictic": [],
-  "cf": [
-    "ignorant"
-  ],
   "signNumber": 3129,
   "recordNumber": 1807,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -40,8 +37,11 @@
     "1. To have no information or incorrect information about something; to not have something correctly in your mind; to have heard nothing about something. English = not know."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.know.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "ignorant"
+  ]
 }

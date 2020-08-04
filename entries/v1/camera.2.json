@@ -16,22 +16,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "camera",
     "photograph"
   ],
   "deictic": [],
-  "cf": [
-    "photo.1a",
-    "photo.2",
-    "photo.3"
-  ],
   "signNumber": 5361,
   "recordNumber": 3202,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 4,
@@ -46,11 +41,16 @@
     "1. To take a picture using a camera."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of equipment that is used for taking photographs. English = camera.",
     "2. A picture which is made by using a camera. English = photograph."
   ],
   "idGloss": "camera.2",
-  "oldEntry": "Popular explanation: holding a camera and depressing the shutter button."
+  "oldEntry": "Popular explanation: holding a camera and depressing the shutter button.",
+  "seeAlso": [
+    "photo.1a",
+    "photo.2",
+    "photo.3"
+  ]
 }

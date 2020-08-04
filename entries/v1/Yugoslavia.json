@@ -10,17 +10,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Yugoslavia",
     "Yugoslavian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3383,
   "recordNumber": 1977,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,11 +32,12 @@
     "1. To come from or relate to Yugoslavia. English = (be) Yugoslav, (be) Yugoslavian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A former republic in south eastern Europe, between Italy and Greece, called Yugoslavia.",
     "2. A person from Yugoslavia. English = Yugoslav, Yugoslavian."
   ],
   "idGloss": "Yugoslavia",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

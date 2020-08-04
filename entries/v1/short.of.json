@@ -26,9 +26,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "reduction",
     "abbreviation",
@@ -44,10 +44,9 @@
     "briefly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3919,
   "recordNumber": 2336,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -71,11 +70,12 @@
     "3. To last only a short time and/or to be very small in significance or extent. English = (be) brief, (be) limited."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process of making something smaller. English = reduction.",
     "2. A shortened form of a word or phrase; a short account of something, which gives the main points but not the details. English = abbreviation; summary."
   ],
   "idGloss": "short.of",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

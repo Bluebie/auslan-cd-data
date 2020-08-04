@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "with",
     "together"
   ],
   "deictic": [],
-  "cf": [
-    "all.1a"
-  ],
   "signNumber": 3825,
   "recordNumber": 2272,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,8 +45,11 @@
     "1. To be in the company of another person or thing in one place. English = (be) with, (be) together."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "together.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "all.1a"
+  ]
 }

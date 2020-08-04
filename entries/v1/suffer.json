@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "suffering",
     "torment",
@@ -29,12 +29,9 @@
     "tormented"
   ],
   "deictic": [],
-  "cf": [
-    "expensive.1a"
-  ],
   "signNumber": 2681,
   "recordNumber": 1489,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -51,11 +48,14 @@
     "1. To feel serious pain in your body or in your mind. English = suffer, (be) tormented."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Serious pain which someone feels in their body or in their mind. English = suffering, torment.",
     "2. Great physical or mental pain. English = agony."
   ],
   "idGloss": "suffer",
-  "oldEntry": "Popular explanation: shaking hands in pain."
+  "oldEntry": "Popular explanation: shaking hands in pain.",
+  "seeAlso": [
+    "expensive.1a"
+  ]
 }

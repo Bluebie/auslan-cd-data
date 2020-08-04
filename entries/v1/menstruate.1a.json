@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "menstruation",
     "period",
     "menstruate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4405,
   "recordNumber": 2680,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "2. To lose blood from your womb for a period of time each month as part of a natural cycle associated with sexual fertility. English = menstruate, have your periods."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time each month during which a fertile woman loses blood from her womb. English = menstruation, period."
   ],
   "idGloss": "menstruate.1a",
-  "oldEntry": "Popular explanation: the fourth week."
+  "oldEntry": "Popular explanation: the fourth week.",
+  "seeAlso": []
 }

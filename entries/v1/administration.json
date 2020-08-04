@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "administration"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1623,
   "recordNumber": 963,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -28,11 +27,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The range of activities connected with organising and supervising the way a country, company, or institution functions. English = administration.",
     "2. The group of people who organise and supervise a company or institution. English = administration."
   ],
   "idGloss": "administration",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "apprentice",
     "apprenticeship",
@@ -25,12 +25,9 @@
     "bonded"
   ],
   "deictic": [],
-  "cf": [
-    "TAFE"
-  ],
   "signNumber": 4654,
   "recordNumber": 2813,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,11 +42,14 @@
     "1. To be under the power of an employer for a fixed period of time during which the employer is obliged to teach you a skill. English = (be) apprenticed, (be) bonded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A young person who works with someone in order to learn their skill. English = apprentice.",
     "2. A fixed period of time in which someone works with a person who has a particular skill in order to learn the skill. English = apprenticeship."
   ],
   "idGloss": "apprentice",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "TAFE"
+  ]
 }

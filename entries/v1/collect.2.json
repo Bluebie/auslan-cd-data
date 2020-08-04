@@ -14,8 +14,8 @@
     "engtf4"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "fetch",
     "collect",
@@ -23,10 +23,9 @@
     "lump sum"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2769,
   "recordNumber": 1550,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. To pay money to use something for a period of time. English = hire."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substantial sum of money that you get, receive or collect at one time, such as a superannuation payout, a redundancy package, or an inheritance.",
     "2. An amount of money that is paid as a large amount on a single occasion rather than as smaller amounts on several separate occasions. English = lump sum."
   ],
   "idGloss": "collect.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

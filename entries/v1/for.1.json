@@ -8,19 +8,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "F + O + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "for"
   ],
   "deictic": [],
-  "cf": [
-    "for.2"
-  ],
   "signNumber": 2199,
   "recordNumber": 1260,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,8 +32,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "for.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "for.2"
+  ]
 }

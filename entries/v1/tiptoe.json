@@ -11,22 +11,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tiptoe",
     "creep"
   ],
   "deictic": [],
-  "cf": [
-    "hop.1a",
-    "limp",
-    "footsteps"
-  ],
   "signNumber": 3918,
   "recordNumber": 2335,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,8 +34,13 @@
     "1. To walk very quietly on your toes. English = tiptoe, creep."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "tiptoe",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hop.1a",
+    "limp",
+    "footsteps"
+  ]
 }

@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "moustache"
   ],
   "deictic": [],
-  "cf": [
-    "shave.1a",
-    "Schadenfreude"
-  ],
   "signNumber": 6352,
   "recordNumber": 3794,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,10 +35,14 @@
     "1. To have a moustache, or wear a moustache."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hair grows on a man's upper lip. English = moustache."
   ],
   "idGloss": "moustache.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shave.1a",
+    "Schadenfreude"
+  ]
 }

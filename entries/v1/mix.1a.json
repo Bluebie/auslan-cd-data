@@ -18,8 +18,8 @@
     "ant1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "mixture",
     "mix",
@@ -28,10 +28,9 @@
     "among"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3048,
   "recordNumber": 1746,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -48,11 +47,12 @@
     "3. To be located inside a group of people or things and to be surrounded by them. English = (be) among."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substance that consists of other substances which have been stirred or shaken together. English = mixture.",
     "2. Several different things brought together. English = mixture."
   ],
   "idGloss": "mix.1a",
-  "oldEntry": "Popular explanation: mixing with one's fingers."
+  "oldEntry": "Popular explanation: mixing with one's fingers.",
+  "seeAlso": []
 }

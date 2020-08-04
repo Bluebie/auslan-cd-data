@@ -15,17 +15,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not see",
     "overlook"
   ],
   "deictic": [],
-  "cf": [
-    "catch.2"
-  ],
   "signNumber": 555,
   "recordNumber": 320,
   "signVisualComposition": "SEE + 'NOT'",
@@ -49,8 +46,11 @@
     "2. To not notice something or not realise its importance. English = overlook."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.see.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "catch.2"
+  ]
 }

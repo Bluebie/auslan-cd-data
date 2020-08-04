@@ -17,9 +17,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "character",
     "personality",
@@ -29,13 +29,9 @@
     "personally"
   ],
   "deictic": [],
-  "cf": [
-    "go.in.1a",
-    "pouch"
-  ],
   "signNumber": 4140,
   "recordNumber": 2495,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -51,11 +47,15 @@
     "2. To be related to one's heart, or real feelings and emotions; to be the essential or true character of something. English = at heart."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The way a person behaves and thinks that makes them unique or of a particular type. English = character,  personality.",
     "2. Things which are thought to be related to or inside the heart. English = emotion."
   ],
   "idGloss": "at.heart",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "go.in.1a",
+    "pouch"
+  ]
 }

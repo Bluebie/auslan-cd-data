@@ -21,9 +21,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "assessment",
     "solution",
@@ -34,12 +34,9 @@
     "calculate"
   ],
   "deictic": [],
-  "cf": [
-    "complicated"
-  ],
   "signNumber": 3023,
   "recordNumber": 1730,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -58,12 +55,15 @@
     "3. To work out a number or amount by doing some arithmetic. English = calculate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A consideration of someone or something and a judgement about them; a judgement about the consequences of something happening. English = assessment.",
     "2. The answer to a problem arrived at by thinking carefully about it. English = solution.",
     "3. The process of working out a number or an amount by doing some arithmetic. English = calculation."
   ],
   "idGloss": "calculate.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "complicated"
+  ]
 }

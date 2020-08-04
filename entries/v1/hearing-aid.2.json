@@ -7,17 +7,16 @@
     "deafness",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hearing-aid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1375,
   "recordNumber": 816,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An instrument that helps hearing impaired and deaf people hear better. An archaic sign. English = hearing-aid."
   ],
   "idGloss": "hearing-aid.2",
-  "oldEntry": "Popular explanation: the wire connecting the ear piece to the mechanism of an older style hearing-aid."
+  "oldEntry": "Popular explanation: the wire connecting the ear piece to the mechanism of an older style hearing-aid.",
+  "seeAlso": []
 }

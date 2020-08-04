@@ -26,9 +26,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "simplicity",
     "simpleton",
@@ -41,10 +41,9 @@
     "just"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 596,
   "recordNumber": 344,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -68,11 +67,12 @@
     "2. To make something easier to understand or do. English = simplify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact that something is not complicated but is easily understood or easily done. English = simplicity.",
     "2. A person who has very low intelligence. English = simpleton."
   ],
   "idGloss": "simple",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

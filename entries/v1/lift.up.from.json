@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4276,
   "recordNumber": 2596,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "3. To cause something to be lifted up, to be raised, or to be increased."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lift.up.from",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

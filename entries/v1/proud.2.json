@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pride",
     "boastfulness",
@@ -28,10 +28,9 @@
     "boast"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4827,
   "recordNumber": 2915,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -48,11 +47,12 @@
     "2. (With a 'smug' facial expression) to be overly pleased and glad with oneself so that other people think you are lacking in humility. English = brag, love oneself, boast."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of gladness you have about something good that you or someone close to you owns or has done; the feeling of dignity and self-respect. English = pride.",
     "2. The act of congratulating yourself too much, so that you offend other people. English = boastfulness."
   ],
   "idGloss": "proud.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

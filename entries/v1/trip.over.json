@@ -11,21 +11,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trip",
     "trip over"
   ],
   "deictic": [],
-  "cf": [
-    "slip.1a",
-    "fall.1a"
-  ],
   "signNumber": 1111,
   "recordNumber": 654,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -38,8 +34,12 @@
     "1. To knock your foot against something when you are walking, and you fall over or nearly fall over. English = trip, trip over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "trip.over",
-  "oldEntry": "Popular explanation: a leg stumbling over something."
+  "oldEntry": "Popular explanation: a leg stumbling over something.",
+  "seeAlso": [
+    "slip.1a",
+    "fall.1a"
+  ]
 }

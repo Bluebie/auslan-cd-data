@@ -8,20 +8,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tap"
   ],
   "deictic": [],
-  "cf": [
-    "tap.on",
-    "tap.off"
-  ],
   "signNumber": 4557,
   "recordNumber": 2759,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -32,10 +28,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device you turn in order to control the flow of a liquid or a gas from a pipe or container. You often find them attached to sinks and baths. English = tap."
   ],
   "idGloss": "tap.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tap.on",
+    "tap.off"
+  ]
 }

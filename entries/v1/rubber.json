@@ -12,21 +12,16 @@
     "cf3",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rubber"
   ],
   "deictic": [],
-  "cf": [
-    "colour.1a",
-    "condom.2",
-    "eraser"
-  ],
   "signNumber": 6425,
   "recordNumber": 3831,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -39,10 +34,15 @@
     "1. To be made of rubber. English = (be) rubber."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong, waterproof, elastic substance made from the sap of a tropical tree or produced chemically. English = rubber."
   ],
   "idGloss": "rubber",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "colour.1a",
+    "condom.2",
+    "eraser"
+  ]
 }

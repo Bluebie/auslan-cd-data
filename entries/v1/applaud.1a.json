@@ -12,9 +12,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "applause",
     "clapping",
@@ -22,10 +22,9 @@
     "clap"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4347,
   "recordNumber": 2647,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "1. To bring your hands together and make a noise in order to show approval, for example when you have enjoyed a play or a concert. English = applaud, clap."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sound or action of people bringing their hands together to make a noise in order to show approval, for example when they have enjoyed a play or a concert. English = applause, clapping."
   ],
   "idGloss": "applaud.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bank",
     "deposit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4603,
   "recordNumber": 2786,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To put your money in an account at a bank. English = bank, deposit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where you can keep your money in an account. English = bank."
   ],
   "idGloss": "bank.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

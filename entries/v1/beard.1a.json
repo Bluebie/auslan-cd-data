@@ -16,9 +16,9 @@
     "ant3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beard",
     "Christmas",
@@ -26,12 +26,9 @@
     "Father Christmas"
   ],
   "deictic": [],
-  "cf": [
-    "Christmas.1a"
-  ],
   "signNumber": 4495,
   "recordNumber": 2732,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -45,12 +42,15 @@
     "2. To grow a beard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hair that grows on a man's chin and cheeks. English = beard.",
     "2. The Christian festival on the 25th of December when the birth of Jesus Christ is celebrated. English = Christmas.",
     "3. An imaginary old man with a long white beard and a red coat. Young children believe that he brings them their presents at Christmas. English = Santa Claus, Father Christmas."
   ],
   "idGloss": "beard.1a",
-  "oldEntry": "Popular explanation: a man's beard."
+  "oldEntry": "Popular explanation: a man's beard.",
+  "seeAlso": [
+    "Christmas.1a"
+  ]
 }

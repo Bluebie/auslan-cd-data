@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "queue",
     "line up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 940,
   "recordNumber": 539,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -42,5 +41,6 @@
     "1. A line of people who are all waiting for something. English = queue, line."
   ],
   "idGloss": "queue.1",
-  "oldEntry": "Popular explanation: a line of vertical upright objects."
+  "oldEntry": "Popular explanation: a line of vertical upright objects.",
+  "seeAlso": []
 }

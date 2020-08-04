@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "imagination",
     "concept",
@@ -35,14 +35,9 @@
     "conceive"
   ],
   "deictic": [],
-  "cf": [
-    "expand.2",
-    "balloon",
-    "express"
-  ],
   "signNumber": 5717,
   "recordNumber": 3383,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 2,
@@ -58,11 +53,16 @@
     "1. To think of something and to form a picture of it in your mind. English = imagine, picture, visualise, conceive, conceive of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability you have to form ideas and pictures of new or exciting things in your mind. English = imagination.",
     "2. The idea or picture you have of something in your mind. English = concept, conception, notion."
   ],
   "idGloss": "imagine.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "expand.2",
+    "balloon",
+    "express"
+  ]
 }

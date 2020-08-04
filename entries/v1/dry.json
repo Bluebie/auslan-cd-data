@@ -17,9 +17,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dryness",
     "dry",
@@ -27,12 +27,9 @@
     "dry up"
   ],
   "deictic": [],
-  "cf": [
-    "disappear.1a"
-  ],
   "signNumber": 3945,
   "recordNumber": 2353,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,10 +46,13 @@
     "3. Of a body of water (puddle, river, lake, etc.) to lose all its water or moisture. English = dry up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lack of water or moisture. English = dryness."
   ],
   "idGloss": "dry",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "disappear.1a"
+  ]
 }

@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "barrier"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3936,
   "recordNumber": 2347,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,5 +37,6 @@
   "generalMeaning": "Some kind of vertical surface or line of things in front of and to the sides of you or the person, place or thing you represent, such as a barrier or fence, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "barrier",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

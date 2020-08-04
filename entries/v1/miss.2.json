@@ -12,19 +12,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "miss",
     "overlook",
     "missing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3277,
   "recordNumber": 1909,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -42,8 +41,9 @@
     "4. To be difficult or impossible to find because someone or something is not in the place that it is expected to be. English = (be) missing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "miss.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

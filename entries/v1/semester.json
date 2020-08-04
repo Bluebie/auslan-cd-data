@@ -7,17 +7,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "semester"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5648,
   "recordNumber": 3346,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the two periods into which the year is divided at many universities and colleges. English = semester."
   ],
   "idGloss": "semester",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

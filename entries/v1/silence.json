@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "silence",
     "quietness",
@@ -31,12 +31,9 @@
     "still"
   ],
   "deictic": [],
-  "cf": [
-    "secret.1a"
-  ],
   "signNumber": 3635,
   "recordNumber": 2139,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -53,11 +50,14 @@
     "2. To make no movement at all. English = (be) still."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lack of any noise in a place. English = silence, quietness.",
     "2. The lack of any busy activity in a place. English = calm, stillness."
   ],
   "idGloss": "silence",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "secret.1a"
+  ]
 }

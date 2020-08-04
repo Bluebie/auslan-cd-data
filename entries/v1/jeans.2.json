@@ -11,19 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jeans"
   ],
   "deictic": [],
-  "cf": [
-    "trousers.1a"
-  ],
   "signNumber": 1093,
   "recordNumber": 641,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 17,
@@ -37,10 +34,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Casual trousers made of strong blue denim. English = jeans."
   ],
   "idGloss": "jeans.2",
-  "oldEntry": "Popular explanation: the outline of the pockets of a pair of jeans."
+  "oldEntry": "Popular explanation: the outline of the pockets of a pair of jeans.",
+  "seeAlso": [
+    "trousers.1a"
+  ]
 }

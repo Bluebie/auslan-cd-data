@@ -12,20 +12,17 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sheep shearer",
     "sheep shearing",
     "shear"
   ],
   "deictic": [],
-  "cf": [
-    "pliers"
-  ],
   "signNumber": 4560,
   "recordNumber": 2761,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -38,11 +35,14 @@
     "1. To cut the wool off a sheep using shears. English = shear."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who makes a living shearing sheep for sheep farmers. English = sheep shearer.",
     "2. The act of shearing a sheep. English = sheep shearing."
   ],
   "idGloss": "sheep.shearer",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pliers"
+  ]
 }

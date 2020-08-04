@@ -17,20 +17,17 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "activity",
     "action",
     "active"
   ],
   "deictic": [],
-  "cf": [
-    "act"
-  ],
   "signNumber": 1794,
   "recordNumber": 1081,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 2.2,
   "primaryLocation": 15,
@@ -45,7 +42,7 @@
     "1. Of a person or animal, to be energetic and always busy or moving about. English = (be) active."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation in which a lot of things are happening or being done. English = activity.",
     "2. Something that you spend time doing. English = activity.",
@@ -53,5 +50,8 @@
     "4. Something done for a particular purpose, or on a particular occasion. English = action."
   ],
   "idGloss": "activity.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "act"
+  ]
 }

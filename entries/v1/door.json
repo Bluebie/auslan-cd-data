@@ -14,22 +14,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "door",
     "gate"
   ],
   "deictic": [],
-  "cf": [
-    "sliding-door",
-    "close.1a",
-    "door.open"
-  ],
   "signNumber": 4173,
   "recordNumber": 2522,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,11 +35,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A swinging piece of wood, glass, or metal, which is used to open and close the entrance to a building, room, or vehicle. English = door.",
     "2. A swinging piece of wood or metal which is used at the entrance to a field, a garden, or the grounds of a building. English = gate."
   ],
   "idGloss": "door",
-  "oldEntry": "Popular explanation: a door opening and closing."
+  "oldEntry": "Popular explanation: a door opening and closing.",
+  "seeAlso": [
+    "sliding-door",
+    "close.1a",
+    "door.open"
+  ]
 }

@@ -15,9 +15,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bracket",
     "brackets",
@@ -25,10 +25,9 @@
     "parentheses"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 972,
   "recordNumber": 562,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -44,10 +43,11 @@
     "1. To place brackets or parentheses around a word, expression or sentence. English = bracket."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pair of written marks, such as ( ), that you place around a word, expression or sentence in order to indicate that you are giving extra information. English = bracket, brackets, parenthesis, parentheses."
   ],
   "idGloss": "brackets",
-  "oldEntry": "Popular explanation: the outline of parentheses."
+  "oldEntry": "Popular explanation: the outline of parentheses.",
+  "seeAlso": []
 }

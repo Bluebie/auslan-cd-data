@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "above"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4085,
   "recordNumber": 2449,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,5 +43,6 @@
   "generalMeaning": "An area or a flat extended object located above a flat object or level area, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "above.flat.surface",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

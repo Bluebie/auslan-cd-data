@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drunkard",
     "tipsy",
@@ -30,10 +30,9 @@
     "pissed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2376,
   "recordNumber": 1310,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -50,10 +49,11 @@
     "2. To have drunk so much alcohol that you cannot speak or sign clearly or behave sensibly. English = (be) drunk. Formal English = (be) inebriated. Informal English = (be) sloshed, (be) pissed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who often gets drunk. English = drunkard."
   ],
   "idGloss": "drunk.1",
-  "oldEntry": "Popular explanation: up to the eyeballs in alcohol."
+  "oldEntry": "Popular explanation: up to the eyeballs in alcohol.",
+  "seeAlso": []
 }

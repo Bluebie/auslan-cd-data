@@ -14,20 +14,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scooter",
     "skateboard"
   ],
   "deictic": [],
-  "cf": [
-    "accelerate.1a"
-  ],
   "signNumber": 4119,
   "recordNumber": 2478,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,12 +38,15 @@
     "2. To ride on a skateboard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small vehicle with two wheels, one in front and one in back connected by a flat board on which a child stands. It is guided by handle bars and propelled by pushing against the ground with one foot. English = scooter.",
     "2. A narrow board with wheels at each end, which people stand on and ride for pleasure. English = skateboard.",
     "3. The activity of riding on a skateboard. English = skateboarding."
   ],
   "idGloss": "scooter",
-  "oldEntry": "Popular explanation: a foot passing beside a scooter."
+  "oldEntry": "Popular explanation: a foot passing beside a scooter.",
+  "seeAlso": [
+    "accelerate.1a"
+  ]
 }

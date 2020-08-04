@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tomato sauce",
     "ketchup"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2895,
   "recordNumber": 1634,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thick, cold sauce made from tomatoes. English = tomato sauce. American English = ketchup."
   ],
   "idGloss": "tomato sauce.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

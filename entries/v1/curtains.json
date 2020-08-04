@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "curtain"
   ],
   "deictic": [],
-  "cf": [
-    "curtains.open",
-    "curtains.close"
-  ],
   "signNumber": 6158,
   "recordNumber": 3673,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 14,
@@ -34,10 +30,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of material which hangs from the top of a window. You pull it across the window when you want to keep light out or prevent people from seeing you. English = curtain."
   ],
   "idGloss": "curtains",
-  "oldEntry": "Popular explanation: opening and closing curtains."
+  "oldEntry": "Popular explanation: opening and closing curtains.",
+  "seeAlso": [
+    "curtains.open",
+    "curtains.close"
+  ]
 }

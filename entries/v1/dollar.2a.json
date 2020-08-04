@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dollar",
     "buck"
   ],
   "deictic": [],
-  "cf": [
-    "c.words.1a"
-  ],
   "signNumber": 4673,
   "recordNumber": 2823,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A unit of money used in Australia, the USA, Canada, and some other countries. It is equal to 100 cents. English = dollar. Informal English = buck."
   ],
   "idGloss": "dollar.2a",
-  "oldEntry": "Popular explanation: the outline of a bank-note."
+  "oldEntry": "Popular explanation: the outline of a bank-note.",
+  "seeAlso": [
+    "c.words.1a"
+  ]
 }

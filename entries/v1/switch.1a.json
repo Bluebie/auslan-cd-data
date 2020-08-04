@@ -12,20 +12,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "switch"
   ],
   "deictic": [],
-  "cf": [
-    "switch.on",
-    "switch.over.1a"
-  ],
   "signNumber": 6346,
   "recordNumber": 3790,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -41,10 +37,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small control for an electrical device, such as a light, a radio, or a heater. You press it or move it up and down in order to turn the device on or off. English = switch."
   ],
   "idGloss": "switch.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "switch.on",
+    "switch.over.1a"
+  ]
 }

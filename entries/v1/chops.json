@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3304,
   "recordNumber": 1929,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of meat cut from the ribs of a sheep or a pig. English = chop."
   ],
   "idGloss": "chops",
-  "oldEntry": "Popular explanation: chopping the neck."
+  "oldEntry": "Popular explanation: chopping the neck.",
+  "seeAlso": []
 }

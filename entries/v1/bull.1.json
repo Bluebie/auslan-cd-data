@@ -15,21 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "horns",
     "bull",
     "devil"
   ],
   "deictic": [],
-  "cf": [
-    "horns.1a"
-  ],
   "signNumber": 825,
   "recordNumber": 472,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 2,
@@ -42,12 +39,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hard pointed things that stick out of the heads of cows, deer, and some other animals. English = horns.",
     "2. A male animal of the cow family. English = bull.",
     "3. In Christianity, the most powerful evil spirit who is often depicted as having horns. English = devil."
   ],
   "idGloss": "bull.1",
-  "oldEntry": "Popular explanation: the horns of a bull."
+  "oldEntry": "Popular explanation: the horns of a bull.",
+  "seeAlso": [
+    "horns.1a"
+  ]
 }

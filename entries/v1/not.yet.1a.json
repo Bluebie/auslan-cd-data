@@ -15,20 +15,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not yet",
     "not ready"
   ],
   "deictic": [],
-  "cf": [
-    "soon"
-  ],
   "signNumber": 6523,
   "recordNumber": 3882,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 15,
@@ -49,8 +46,11 @@
     "1. Not to have prepared yourself in time for something. English = (be) not ready."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.yet.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "soon"
+  ]
 }

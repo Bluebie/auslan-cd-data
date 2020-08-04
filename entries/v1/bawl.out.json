@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bawl out",
     "tell off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1786,
   "recordNumber": 1077,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 2.2,
   "primaryLocation": 14,
@@ -36,8 +35,9 @@
     "1. To scold someone angrily for doing something wrong. Informal English = bawl out, tell off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "bawl.out",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

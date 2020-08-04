@@ -25,9 +25,9 @@
     "engtf11",
     "engtf12"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "obedience",
     "submissiveness",
@@ -43,10 +43,9 @@
     "obsequious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3610,
   "recordNumber": 2125,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -62,12 +61,13 @@
     "4. To be someone (or a trained animal) who does everything they are told to do, or who follows commands and instructions. Used to show disapproval. English = (be) submissive, (be) grovelling, (be) obsequious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The type of behaviour of someone who does what they are told to do, or who follows someone's commands or instructions. English = obedience.",
     "2. The type of behaviour of someone who does everything they are told to do, or who follows someone's commands or instructions completely. English = submissiveness.",
     "3. The type of person who does everything they are told to do, or who follows someone's commands or instructions completely. English = groveller, crawler, lackey, dogsbody. slave."
   ],
   "idGloss": "obey.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

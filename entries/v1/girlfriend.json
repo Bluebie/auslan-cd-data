@@ -8,17 +8,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GIRL + FRIEND",
-  "queries": "",
+  "queries": null,
   "english": [
     "girlfriend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1325,
   "recordNumber": 783,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 2,
@@ -31,11 +30,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A girl or a woman with whom someone is having a romantic or sexual relationship. English = girlfriend.",
     "2. The female friend of a woman or a girl. English = girlfriend."
   ],
   "idGloss": "girlfriend",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,19 +14,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "difficulty",
     "difficult",
     "hard"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5391,
   "recordNumber": 3221,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -44,10 +43,11 @@
     "1. To be not easy to do, understand, or solve. English = (be) difficult, (be) hard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is a problem for you because it is not easy to do, understand, or solve. English = difficulty."
   ],
   "idGloss": "difficult.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

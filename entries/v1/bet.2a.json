@@ -19,8 +19,8 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "bet",
     "wager",
@@ -28,13 +28,9 @@
     "owe"
   ],
   "deictic": [],
-  "cf": [
-    "owe.1",
-    "dice.1"
-  ],
   "signNumber": 224,
   "recordNumber": 132,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,11 +48,15 @@
     "2. To have borrowed money from someone and to have not yet paid it back. English = owe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of betting on something, or the amount of money you agree to give. English = bet. Formal English = wager.",
     "2. The money that you have borrowed from someone and not yet paid back. English = debt."
   ],
   "idGloss": "bet.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "owe.1",
+    "dice.1"
+  ]
 }

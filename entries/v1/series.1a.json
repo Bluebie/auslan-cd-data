@@ -23,9 +23,9 @@
     "engtf9",
     "engtf10"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "series",
     "sequence",
@@ -39,10 +39,9 @@
     "serially"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6232,
   "recordNumber": 3724,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -60,12 +59,13 @@
     "3. Of things or events, to come one after the other and not be interrupted. English = (be) consecutive, (be) successive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A number of things or events that come one after the other. English = series.",
     "2. A number of things or events that come one after the other in a particular order. English = sequence.",
     "3. The particular order and series in which things of a particular type come one after another. English = succession."
   ],
   "idGloss": "series.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

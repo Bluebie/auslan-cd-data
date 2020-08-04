@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SWEAR + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "report",
     "school report"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2217,
   "recordNumber": 1264,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 5.3,
   "primaryLocation": 10,
@@ -39,11 +38,12 @@
     "2. Of someone, to tell a person in authority about something wrong that they have done. English = report."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A written, spoken, or signed account of an event or situation. English = report.",
     "2. An official written account of how well or how badly a student has done at school during the term that has just finished. English = report, school report."
   ],
   "idGloss": "report",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

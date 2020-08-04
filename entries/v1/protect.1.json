@@ -26,8 +26,8 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is only partially directional for some signers (disallowing movement towards the signer). For other signers it is fully directional.",
   "english": [
     "prevention",
@@ -41,14 +41,9 @@
     "shield"
   ],
   "deictic": [],
-  "cf": [
-    "revolt",
-    "avoid.2",
-    "defence.1a"
-  ],
   "signNumber": 5778,
   "recordNumber": 3425,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -66,12 +61,17 @@
     "4. To keep something or someone away which may harm or damage you. English = shield, shield off, fend off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The stopping of something from happening, or the stopping of someone from doing something. English = prevention.",
     "2. The prevention of someone or something from being harmed or damaged. English = protection.",
     "3. Action taken to protect someone or something from attack. English = defence."
   ],
   "idGloss": "protect.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "revolt",
+    "avoid.2",
+    "defence.1a"
+  ]
 }

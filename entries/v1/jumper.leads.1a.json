@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jumper leads",
     "car battery"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5545,
   "recordNumber": 3281,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 15,
@@ -39,11 +38,12 @@
     "1. To attach jumper leads to a car battery."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two thick wires with clamps at each end that can be used when a car will not start because its battery does not have enough power. They are used to connect the battery to the battery of another car. English = jumper leads.",
     "2. A device that produces electricity in a car. English = car battery."
   ],
   "idGloss": "jumper.leads.1a",
-  "oldEntry": "Popular explanation: attaching alligator clamps."
+  "oldEntry": "Popular explanation: attaching alligator clamps.",
+  "seeAlso": []
 }

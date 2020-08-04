@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Singapore",
     "Singaporean"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4055,
   "recordNumber": 2428,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To be from or relate to Singapore. English = (be) Singaporean."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An island city-state in South East Asia, between Malaysia and Indonesia, called Singapore."
   ],
   "idGloss": "Singapore.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

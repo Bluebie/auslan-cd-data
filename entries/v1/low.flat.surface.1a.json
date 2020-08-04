@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "floor",
     "ground",
@@ -31,13 +31,9 @@
     "plain"
   ],
   "deictic": [],
-  "cf": [
-    "smooth",
-    "table"
-  ],
   "signNumber": 3923,
   "recordNumber": 2339,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -66,5 +62,9 @@
     "3. A large flat area of land with very few trees on it. English = plain."
   ],
   "idGloss": "low.flat.surface.1a",
-  "oldEntry": "Popular explanation: the flat surface of the floor."
+  "oldEntry": "Popular explanation: the flat surface of the floor.",
+  "seeAlso": [
+    "smooth",
+    "table"
+  ]
 }

@@ -15,9 +15,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "touch",
     "feelings",
@@ -26,10 +26,9 @@
     "feel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6508,
   "recordNumber": 3872,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,12 +44,13 @@
     "2. To think that something is probably the case, but without being sure. English = feel. Idiomatic English = have the impression."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The physical ability to feel things on your skin. English = touch.",
     "2. Your emotions, attitudes or physical sensations that you experience. English = feelings.",
     "3. The vague idea that something is probably the case, but without being sure. English = impression."
   ],
   "idGloss": "sense.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

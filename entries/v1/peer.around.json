@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "peek",
     "peer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5721,
   "recordNumber": 3386,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 6,
@@ -36,10 +35,11 @@
     "1. To have a quick and secret look at something by looking around a barrier of some sort. English = peek, peek around, peer, peer around."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A quick and secretive look at something. English = peek."
   ],
   "idGloss": "peer.around",
-  "oldEntry": "Popular explanation: moving a screen sidewards."
+  "oldEntry": "Popular explanation: moving a screen sidewards.",
+  "seeAlso": []
 }

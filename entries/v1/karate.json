@@ -8,17 +8,16 @@
     "alternate",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "karate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3611.1,
   "recordNumber": 2127,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sport in which people fight using their hands, elbows, feet, and legs. English = karate."
   ],
   "idGloss": "karate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GRAB + entity",
-  "queries": "",
+  "queries": null,
   "english": [
     "capture",
     "catching up",
@@ -34,14 +34,9 @@
     "notice"
   ],
   "deictic": [],
-  "cf": [
-    "catch.2",
-    "grab",
-    "catch.2"
-  ],
   "signNumber": 2827,
   "recordNumber": 1589,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -62,11 +57,16 @@
     "3. To see something clearly or think about something and realise its importance and significance. English = catch, notice."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The catching of someone or something and making them a prisoner, especially after a struggle or in a war. English = capture.",
     "2. Work which you need to do on some activity which is late in order to make it complete or at least up to date. English = catching up."
   ],
   "idGloss": "capture.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "catch.2",
+    "grab",
+    "catch.2"
+  ]
 }

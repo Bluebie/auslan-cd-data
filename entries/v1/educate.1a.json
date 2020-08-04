@@ -26,9 +26,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "teaching",
     "instruction",
@@ -40,12 +40,9 @@
     "educational"
   ],
   "deictic": [],
-  "cf": [
-    "discipline"
-  ],
   "signNumber": 115,
   "recordNumber": 60,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 3,
@@ -63,12 +60,15 @@
     "4. Concerned with or related to education, or to be something you could learn from. English = (be) educational."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The work of a teacher or instructor. English = teaching, instruction.",
     "2. Helping students learn about various subjects in a school, college or university. English = education.",
     "3. Someone who helps a person or a group of people become better at a particular sport or subject. English = coach."
   ],
   "idGloss": "educate.1a",
-  "oldEntry": "Popular explanation: take from one mind and put into another."
+  "oldEntry": "Popular explanation: take from one mind and put into another.",
+  "seeAlso": [
+    "discipline"
+  ]
 }

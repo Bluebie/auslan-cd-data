@@ -15,21 +15,17 @@
     "cf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "food",
     "meal",
     "eat"
   ],
   "deictic": [],
-  "cf": [
-    "grapes.1a",
-    "take.tablet.1a"
-  ],
   "signNumber": 50,
   "recordNumber": 29,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -42,11 +38,15 @@
     "1. To put something in your mouth, chew it, and swallow it. English = eat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Things which you can put into your mouth, chew and then swallow. English = food.",
     "2. An occasion when people eat or the quantity of food that they eat on that occasion. English = meal."
   ],
   "idGloss": "eat.1a",
-  "oldEntry": "Popular explanation: putting food in the mouth by hand."
+  "oldEntry": "Popular explanation: putting food in the mouth by hand.",
+  "seeAlso": [
+    "grapes.1a",
+    "take.tablet.1a"
+  ]
 }

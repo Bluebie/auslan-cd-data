@@ -13,21 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "burrow",
     "claw",
     "dig"
   ],
   "deictic": [],
-  "cf": [
-    "excavate"
-  ],
   "signNumber": 3067,
   "recordNumber": 1761,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 16,
@@ -43,8 +40,11 @@
     "1. Of a person or animal, especially a dog, to dig a hole using your hands or claws. English = burrow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "burrow",
-  "oldEntry": "Popular explanation: a digging action."
+  "oldEntry": "Popular explanation: a digging action.",
+  "seeAlso": [
+    "excavate"
+  ]
 }

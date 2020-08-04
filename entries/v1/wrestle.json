@@ -15,21 +15,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wrestling",
     "wrestler",
     "wrestle"
   ],
   "deictic": [],
-  "cf": [
-    "karate"
-  ],
   "signNumber": 4616,
   "recordNumber": 2795,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -43,11 +40,14 @@
     "2. To participate in the sport of wresting. English = wrestle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sport in which two people wrestle and try to throw each other to the ground. English = wrestling.",
     "2. A person who wrestles as a sport. English = wrestler."
   ],
   "idGloss": "wrestle",
-  "oldEntry": "Popular explanation: a wrestling action."
+  "oldEntry": "Popular explanation: a wrestling action.",
+  "seeAlso": [
+    "karate"
+  ]
 }

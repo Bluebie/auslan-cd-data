@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shot put"
   ],
   "deictic": [],
-  "cf": [
-    "hurdles",
-    "spear",
-    "sprint"
-  ],
   "signNumber": 5633,
   "recordNumber": 3338,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In athletics, a competition in which the contestants throw a heavy metal ball as far as possible. English = shot put."
   ],
   "idGloss": "shot put",
-  "oldEntry": "Popular explanation: throwing a shot put."
+  "oldEntry": "Popular explanation: throwing a shot put.",
+  "seeAlso": [
+    "hurdles",
+    "spear",
+    "sprint"
+  ]
 }

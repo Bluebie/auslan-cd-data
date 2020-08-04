@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "triple",
     "treble"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2262,
   "recordNumber": 1279,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,8 +34,9 @@
     "2. To be three times greater in size or number. English = (be) triple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "triple",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

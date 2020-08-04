@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grace"
   ],
   "deictic": [],
-  "cf": [
-    "prayer"
-  ],
   "signNumber": 3458.1,
   "recordNumber": 2019,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": null,
   "primaryLocation": 14,
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Christian belief, the favour, goodwill and love of God or the influence or spirit of God operating in man to regenerate and strengthen. English = grace."
   ],
   "idGloss": "grace",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "prayer"
+  ]
 }

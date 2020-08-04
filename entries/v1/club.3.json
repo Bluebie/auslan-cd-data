@@ -14,8 +14,8 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "club",
     "football club",
@@ -23,10 +23,9 @@
     "rugby club"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6064.1,
   "recordNumber": 3607,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": null,
   "primaryLocation": 2,
@@ -40,10 +39,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An organisation of people who are all interested in or supporters of a particular football club. English = club, football club, soccer club, rugby club."
   ],
   "idGloss": "club.3",
-  "oldEntry": "Popular explanation: wearing a cap associated with a club."
+  "oldEntry": "Popular explanation: wearing a cap associated with a club.",
+  "seeAlso": []
 }

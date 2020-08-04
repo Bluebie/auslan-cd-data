@@ -15,18 +15,17 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "firm",
     "company",
     "factory"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4813,
   "recordNumber": 2906,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -41,12 +40,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The name plate or plaque of a firm, company, business, practise or partnership on a wall or outside a business.",
     "2. A firm, company, business, practise or partnership, especially one that is identified by a name plate or plaque on a wall or outside a business. English = firm, company.",
     "3. A large building or group of buildings where machines are used to make goods in large quantities. English = factory."
   ],
   "idGloss": "firm",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

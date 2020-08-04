@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attendance",
     "attend",
@@ -28,10 +28,9 @@
     "come"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 704,
   "recordNumber": 407,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -49,11 +48,12 @@
     "2. To go to and be present at a meeting or event. English = attend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The movement of a person from one place to another. English = going (away from point of reference), coming (towards point of reference).",
     "2. The fact that someone has travelled and is present at a meeting or some other event. English = attendance."
   ],
   "idGloss": "attend.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

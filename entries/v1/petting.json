@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "petting",
     "necking",
@@ -22,10 +22,9 @@
     "pet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4581,
   "recordNumber": 2774,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 13,
@@ -38,10 +37,11 @@
     "1. Of two people, especially a teenage couple, to kiss and stroke each other. English = pet. Informal English = neck, go parking."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of two people, especially teenage couples, the activity of kissing and stroking each other. English = petting. Informal English = necking."
   ],
   "idGloss": "petting",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

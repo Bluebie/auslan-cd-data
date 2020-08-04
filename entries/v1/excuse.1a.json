@@ -12,15 +12,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "excuse",
     "excuse me"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 962,
   "recordNumber": 554,
   "signVisualComposition": "E + X",
@@ -40,10 +39,11 @@
     "2. To explain why you have done something wrong in an attempt to make yourself seem less bad. English = excuse yourself, make excuses."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A reason which you give in order to explain why something has been done, has not been done, or will not be done. English = excuse."
   ],
   "idGloss": "excuse.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

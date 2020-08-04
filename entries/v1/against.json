@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "against",
     "versus",
@@ -22,10 +22,9 @@
     "opposition"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1074,
   "recordNumber": 630,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "2. To disagree with an idea, policy or system. English = (be) against, (be) opposed to, (be) in opposition to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "against",
-  "oldEntry": "Popular explanation: two things in opposition."
+  "oldEntry": "Popular explanation: two things in opposition.",
+  "seeAlso": []
 }

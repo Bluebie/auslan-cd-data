@@ -12,15 +12,14 @@
     "engtf2",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unemployment",
     "unemployed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4186,
   "recordNumber": 2532,
   "signVisualComposition": "WORK + 'NOT'",
@@ -38,11 +37,12 @@
     "1. To be without a job, to have no job. English = (be) unemployed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lack of jobs in a society or economy which means some people have no job at all. English = unemployment.",
     "2. The number of people in a society or economy who are out of work. English = unemployment."
   ],
   "idGloss": "unemployed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

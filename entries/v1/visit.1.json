@@ -13,17 +13,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "visit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5234,
   "recordNumber": 3144,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -40,8 +39,9 @@
     "3. To travel some distance from one place to another."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "visit.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

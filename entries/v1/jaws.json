@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jaws",
     "crocodile",
     "alligator"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3053,
   "recordNumber": 1751,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -41,11 +40,12 @@
     "1. Of an animal, to open and close its jaws or to bite with its jaws."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The large mouth of a large and often dangerous animal with large and sharp teeth. English = jaws.",
     "2. A large reptile with a long body and large jaws. It lives in rivers and eats meat. English = crocodile, alligator."
   ],
   "idGloss": "jaws",
-  "oldEntry": "Popular explanation: a large mouth opening and closing."
+  "oldEntry": "Popular explanation: a large mouth opening and closing.",
+  "seeAlso": []
 }

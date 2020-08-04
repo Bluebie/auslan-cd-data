@@ -9,16 +9,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "tram"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1467,
   "recordNumber": 876,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An electric vehicle for carrying people which travels on rails in the streets of a town. English = tram."
   ],
   "idGloss": "tram.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spaghetti"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6291,
   "recordNumber": 3760,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of food made from pasta. It looks like long pieces of string and is usually served with a sauce. English = spaghetti."
   ],
   "idGloss": "spaghetti.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

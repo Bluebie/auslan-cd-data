@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speech",
     "speaker",
     "speak"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 610,
   "recordNumber": 350,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -44,10 +43,11 @@
     "2. To know a (spoken) language and to be able to have a conversation in it. English = speak."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is speaking or is able to speak."
   ],
   "idGloss": "speak",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,20 +15,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The handshape on the subordinate hand is unimportant but is usually open and relaxed (as in a Flat handshape) or closed into a fist (as in the Fist handshape).",
   "english": [
     "grasshopper",
     "frog"
   ],
   "deictic": [],
-  "cf": [
-    "animal.1"
-  ],
   "signNumber": 1803,
   "recordNumber": 1090,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -51,5 +48,8 @@
     "2. A small creature with smooth skin, big eyes, and long back legs which it uses for jumping. It lives near water. English = frog."
   ],
   "idGloss": "grasshopper",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "animal.1"
+  ]
 }

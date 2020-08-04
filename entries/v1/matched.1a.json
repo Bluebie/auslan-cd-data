@@ -13,19 +13,16 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "match",
     "matched"
   ],
   "deictic": [],
-  "cf": [
-    "compare"
-  ],
   "signNumber": 3828,
   "recordNumber": 2274,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,8 +38,11 @@
     "2. Of two things, to be similar to one another, to have similar qualities, or to be as good or equal to one another in speed, size, or quality. English = match, (be) matched."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "matched.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "compare"
+  ]
 }

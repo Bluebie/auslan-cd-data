@@ -11,17 +11,16 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "busybody",
     "sticky-beak"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 536,
   "recordNumber": 305,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -35,10 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is very inquisitive and always wants to know everything that is happening, especially about other people's affairs. Informal English = busybody, sticky-beak."
   ],
   "idGloss": "sticky-beak.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

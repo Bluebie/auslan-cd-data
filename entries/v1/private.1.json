@@ -15,9 +15,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SECRET + CONCEAL",
-  "queries": "",
+  "queries": null,
   "english": [
     "privacy",
     "private",
@@ -25,10 +25,9 @@
     "privately"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4020,
   "recordNumber": 2406,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -46,11 +45,12 @@
     "2. To be kept secret and not told or shown to anyone else. English = (be) private, (be) confidential."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to do things alone without other people seeing or disturbing you. English = privacy.",
     "2. The ability to keep information about yourself and stop other people making the information public. English = privacy."
   ],
   "idGloss": "private.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

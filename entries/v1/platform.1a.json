@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "platform",
     "loading bay",
     "parking bay"
   ],
   "deictic": [],
-  "cf": [
-    "berth"
-  ],
   "signNumber": 4121,
   "recordNumber": 2480,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To pull up in a vehicle next to a platform."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A raised flat surface along the side of which a vehicle can stop for the purposes of loading and unloading goods or passengers. English = platform, loading bay, parking bay."
   ],
   "idGloss": "platform.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "berth"
+  ]
 }

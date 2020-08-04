@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doorbell",
     "flashing-light doorbell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4,
   "recordNumber": 3,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -42,5 +41,6 @@
     "1. An electrical system connected to lights inside a deaf person's home that causes them to flash when the doorbell is pressed. English = flashing-light doorbell."
   ],
   "idGloss": "flashing.doorbell",
-  "oldEntry": "Popular explanation: a flashing light."
+  "oldEntry": "Popular explanation: a flashing light.",
+  "seeAlso": []
 }

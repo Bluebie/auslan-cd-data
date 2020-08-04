@@ -14,20 +14,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "deaf"
   ],
   "deictic": [],
-  "cf": [
-    "hard-of-hearing",
-    "hearing-impaired"
-  ],
   "signNumber": 1909,
   "recordNumber": 1141,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -44,11 +40,15 @@
     "2. To relate to deaf people and their community. English = (be) Deaf."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech. English = a deaf person, deaf people, the deaf.",
     "2. A person or people who are unable to hear anything or unable to hear very well, especially the sounds of speech, who use sign language to communicate and who form and identify as a community. English = a Deaf person, the deaf, the Deaf."
   ],
   "idGloss": "deaf.1a",
-  "oldEntry": "Popular explanation: covering the ear."
+  "oldEntry": "Popular explanation: covering the ear.",
+  "seeAlso": [
+    "hard-of-hearing",
+    "hearing-impaired"
+  ]
 }

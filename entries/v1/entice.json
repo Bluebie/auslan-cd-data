@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "entice"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 937,
   "recordNumber": 536,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,8 +33,9 @@
     "1. To tempt someone away from a place or an activity to come over to where you are and/or to do what you are doing or do something else. English = entice."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "entice",
-  "oldEntry": "Popular explanation: the culturally shared gesture of beckoning."
+  "oldEntry": "Popular explanation: the culturally shared gesture of beckoning.",
+  "seeAlso": []
 }

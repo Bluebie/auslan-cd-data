@@ -12,19 +12,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "join",
     "connection",
     "connect"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1453,
   "recordNumber": 866,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. Of two things or people, to come together and to be attached to each other in some way; to fasten or fix two things together. English = join, connect."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact that two things or people are together or fastened to each other in some way; or the way or place in which they are fastened. English = join, connection."
   ],
   "idGloss": "join.1",
-  "oldEntry": "Popular explanation: joining two hooks together."
+  "oldEntry": "Popular explanation: joining two hooks together.",
+  "seeAlso": []
 }

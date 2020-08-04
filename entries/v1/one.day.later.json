@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "NEXT + TOMORROW",
-  "queries": "",
+  "queries": null,
   "english": [
     "day",
     "next day"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1061,
   "recordNumber": 626,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -35,11 +34,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of time which is at least one full day (twenty four hours) after the time of speaking.",
     "2. A period of time which is at least one full day (twenty four hours) after a reference time already established in the past or future."
   ],
   "idGloss": "one.day.later",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

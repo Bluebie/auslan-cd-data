@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pleasure",
     "please",
@@ -31,10 +31,9 @@
     "pleasing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4618,
   "recordNumber": 2797,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -58,11 +57,12 @@
     "3. Of something, to give you happiness and satisfaction. English = (be) pleasing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of happiness, satisfaction, or enjoyment. English = pleasure.",
     "2. The activity of enjoying yourself rather than working. English = pleasure."
   ],
   "idGloss": "pleased",
-  "oldEntry": "Popular explanation: rubbing hands in pleasure."
+  "oldEntry": "Popular explanation: rubbing hands in pleasure.",
+  "seeAlso": []
 }

@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "city"
   ],
   "deictic": [],
-  "cf": [
-    "town.1"
-  ],
   "signNumber": 922,
   "recordNumber": 526,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large town, especially one that has tall buildings in the centre. English = city."
   ],
   "idGloss": "city.1",
-  "oldEntry": "Popular explanation: the skyscrapers of a city."
+  "oldEntry": "Popular explanation: the skyscrapers of a city.",
+  "seeAlso": [
+    "town.1"
+  ]
 }

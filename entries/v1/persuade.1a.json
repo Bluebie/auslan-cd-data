@@ -17,9 +17,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "persuasion",
     "persuade",
@@ -28,12 +28,9 @@
     "convince"
   ],
   "deictic": [],
-  "cf": [
-    "encourage.1"
-  ],
   "signNumber": 3785,
   "recordNumber": 2242,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,10 +45,13 @@
     "3. To try very hard to persuade someone to believe that something is true or necessary. English = convince."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of persuading someone to do something. English = persuasion."
   ],
   "idGloss": "persuade.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "encourage.1"
+  ]
 }

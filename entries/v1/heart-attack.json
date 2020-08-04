@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "heart-attack",
     "cardiac arrest"
   ],
   "deictic": [],
-  "cf": [
-    "stroke.2"
-  ],
   "signNumber": 5638,
   "recordNumber": 3341,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,10 +33,13 @@
     "1. To have or suffer a heart attack; to have or suffer a cardiac arrest."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sudden sickness in which your heart starts to beat irregularly or fails to pump blood properly, so that it causes you a lot of pain. People often die because of this. English = heart attack. Formal medical English = cardiac arrest."
   ],
   "idGloss": "heart-attack",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stroke.2"
+  ]
 }

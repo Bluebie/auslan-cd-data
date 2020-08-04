@@ -9,17 +9,16 @@
     "transp",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oval"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 741,
   "recordNumber": 426,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "1. To have an oval shape. English = (be) oval."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shape that is like a circle, but is wider in one direction than the other. English = oval."
   ],
   "idGloss": "oval.2",
-  "oldEntry": "Popular explanation: the outline of an oval."
+  "oldEntry": "Popular explanation: the outline of an oval.",
+  "seeAlso": []
 }

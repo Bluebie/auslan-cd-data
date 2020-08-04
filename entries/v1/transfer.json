@@ -11,19 +11,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "transfer"
   ],
   "deictic": [],
-  "cf": [
-    "put.1a"
-  ],
   "signNumber": 195,
   "recordNumber": 111,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -38,8 +35,11 @@
     "3. To move to a different place or job within an organisation. English = transfer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "transfer",
-  "oldEntry": "Popular explanation: take from one place and put in another."
+  "oldEntry": "Popular explanation: take from one place and put in another.",
+  "seeAlso": [
+    "put.1a"
+  ]
 }

@@ -12,15 +12,14 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "envy",
     "envious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4752,
   "recordNumber": 2873,
   "signVisualComposition": "GOOD + YOU",
@@ -43,8 +42,9 @@
     "1. To wish you had things or qualities that other people have. English = envy someone, (be) envious of someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "envy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

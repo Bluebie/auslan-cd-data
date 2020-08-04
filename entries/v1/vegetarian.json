@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vegetarian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1560,
   "recordNumber": 931,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -32,10 +31,11 @@
     "1. To be a person who does not eat meat or fish. English = (be) vegetarian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who does not eat meat or fish. English = vegetarian."
   ],
   "idGloss": "vegetarian",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

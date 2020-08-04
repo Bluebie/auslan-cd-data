@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "period"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3602.1,
   "recordNumber": 2118,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -34,10 +33,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A defined or particular length of time. English = period."
   ],
   "idGloss": "period.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

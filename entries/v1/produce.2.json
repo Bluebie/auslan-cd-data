@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ASL/PRODUCE + P",
-  "queries": "",
+  "queries": null,
   "english": [
     "production",
     "producer",
     "produce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1844,
   "recordNumber": 1104,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 2.3,
   "primaryLocation": 15,
@@ -38,11 +37,12 @@
     "1. To organise a play, film, program, or record, and decide how it would be done. English = produce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The making of plays, films, programs, or records. English = production.",
     "2. A person whose job is organising plays, films, programs, or records. English =  producer."
   ],
   "idGloss": "produce.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "emu"
   ],
   "deictic": [],
-  "cf": [
-    "swan.1a"
-  ],
   "signNumber": 6463,
   "recordNumber": 3853,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large Australian bird with long legs that can run fast but cannot fly. English = emu."
   ],
   "idGloss": "emu",
-  "oldEntry": "Popular explanation: the head, beak and neck of a big bird."
+  "oldEntry": "Popular explanation: the head, beak and neck of a big bird.",
+  "seeAlso": [
+    "swan.1a"
+  ]
 }

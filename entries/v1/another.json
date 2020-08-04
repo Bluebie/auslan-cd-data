@@ -17,19 +17,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "other",
     "another",
     "moreover"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1122,
   "recordNumber": 660,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -50,11 +49,12 @@
     "2. To be a thing or a person which is one more thing or person in addition to the one or ones you have just mentioned or have just been talking about. English = another, one other; (be) another, (be) one other."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing or a person which is one more thing or person in addition to the one you have just mentioned or have just been talking about, to make two in total. English = the one other.",
     "2. A thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = the other one."
   ],
   "idGloss": "another",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,18 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lie",
     "liar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 632,
   "recordNumber": 366,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -41,11 +40,12 @@
     "1. To say something which you know is untrue. English = lie"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that someone says which they know is untrue. English = lie.",
     "2. A person who says things which they know are untrue; a person who tells lies. English = liar."
   ],
   "idGloss": "liar",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

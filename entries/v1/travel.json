@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "travelling",
     "travels",
@@ -31,12 +31,9 @@
     "commute"
   ],
   "deictic": [],
-  "cf": [
-    "far.1a"
-  ],
   "signNumber": 5239,
   "recordNumber": 3145,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -54,12 +51,15 @@
     "2. To travel a long distance every day between your home and your place of work. English = commute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of moving back and forth between two or many different places, especially for pleasure. English = travelling.",
     "2. The journeys that someone makes to places a long way from their home. English = travels.",
     "3. A person who travels a long distance every day between home and place of work. English = commuter."
   ],
   "idGloss": "travel",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "far.1a"
+  ]
 }

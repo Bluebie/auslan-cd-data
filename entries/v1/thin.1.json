@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thin",
     "skinny",
@@ -30,10 +30,9 @@
     "narrow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5438,
   "recordNumber": 3237,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -55,8 +54,9 @@
     "3. Of anything, to have a small distance between its two opposite surfaces. English = (be) thin, (be) narrow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "thin.1",
-  "oldEntry": "Popular explanation: the outline of something tall and thin."
+  "oldEntry": "Popular explanation: the outline of something tall and thin.",
+  "seeAlso": []
 }

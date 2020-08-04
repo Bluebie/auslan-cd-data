@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "salad",
     "toss"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2796,
   "recordNumber": 1565,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To gently shake pieces of a salad in a container with some liquid such as a dressing in order to cover all the pieces with the liquid. English = toss a salad."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mixture of uncooked vegetables. It is usually eaten with other foods as part of a meal. English = salad."
   ],
   "idGloss": "salad.1a",
-  "oldEntry": "Popular explanation: tossing a salad."
+  "oldEntry": "Popular explanation: tossing a salad.",
+  "seeAlso": []
 }

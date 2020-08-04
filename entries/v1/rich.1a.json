@@ -21,8 +21,8 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "riches",
     "wealth",
@@ -33,12 +33,9 @@
     "affluent"
   ],
   "deictic": [],
-  "cf": [
-    "scrimp"
-  ],
   "signNumber": 3714,
   "recordNumber": 2191,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -53,11 +50,14 @@
     "1. To have a lot of money or a lot of possessions. English = (be) rich, (be) wealthy, (be) well-off, (be) affluent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Valuable possessions or large amounts of money. English = riches, wealth.",
     "2. A very large amount of money. English = fortune."
   ],
   "idGloss": "rich.1a",
-  "oldEntry": "Popular explanation: stroking the fur of a rich person's apparel."
+  "oldEntry": "Popular explanation: stroking the fur of a rich person's apparel.",
+  "seeAlso": [
+    "scrimp"
+  ]
 }

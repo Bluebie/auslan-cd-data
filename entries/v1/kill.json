@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "killing",
     "killer",
@@ -25,10 +25,9 @@
     "slay"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 654,
   "recordNumber": 381,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -45,12 +44,13 @@
     "2. To kill a person in a violent way. Formal English = slay."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of causing a living thing to die. English = killing.",
     "2. A person who has killed someone. English = killer.",
     "3. Anything that causes death to a person, animal or plant. English = killer."
   ],
   "idGloss": "kill",
-  "oldEntry": "Popular explanation: cutting the throat."
+  "oldEntry": "Popular explanation: cutting the throat.",
+  "seeAlso": []
 }

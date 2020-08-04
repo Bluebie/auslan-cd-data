@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "suspicion",
     "invention",
@@ -32,10 +32,9 @@
     "improvise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 515,
   "recordNumber": 287,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -51,11 +50,12 @@
     "2. To come up with ideas about something, especially new and creative ones. English = invent, create, improvise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling that you do not trust someone or that something is wrong in some way; a feeling that something is probably true (especially if it involves the guilt of someone) or is likely to happen. English = suspicion.",
     "2. The act of coming up with ideas about something, particularly new and creative ones. English = invention, creation, improvisation."
   ],
   "idGloss": "suspicion.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

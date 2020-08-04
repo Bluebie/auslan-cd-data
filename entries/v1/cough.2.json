@@ -12,17 +12,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cough"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5670,
   "recordNumber": 3359,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,10 +39,11 @@
     "1. To force air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of forcing air out of your throat with a sudden, harsh noise, often because you have some food stuck in your throat. English = cough."
   ],
   "idGloss": "cough.2",
-  "oldEntry": "Popular explanation: tapping the chest."
+  "oldEntry": "Popular explanation: tapping the chest.",
+  "seeAlso": []
 }

@@ -18,8 +18,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cook",
     "chef",
@@ -28,10 +28,9 @@
     "cooker"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3059,
   "recordNumber": 1756,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -46,12 +45,13 @@
     "1. To prepare food for eating and then heat it, for example in an oven or in a saucepan. English = cook."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who prepares and cooks food, often as a job. English = cook, chef.",
     "2. The preparation of food to be eaten. English = cooking.",
     "3. A large box-shaped device which provides heat for cooking food. English = stove, cooker."
   ],
   "idGloss": "cook.1a",
-  "oldEntry": "Popular explanation: gas flames atop a stove."
+  "oldEntry": "Popular explanation: gas flames atop a stove.",
+  "seeAlso": []
 }

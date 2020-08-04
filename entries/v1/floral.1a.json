@@ -16,9 +16,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pattern",
     "patterned",
@@ -27,12 +27,9 @@
     "ornate"
   ],
   "deictic": [],
-  "cf": [
-    "tree.1"
-  ],
   "signNumber": 3005,
   "recordNumber": 1714,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -47,11 +44,14 @@
     "3. To be special, unusual or elaborate, especially when talking about a pattern. English = (be) fancy, (be) ornate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An arrangement of lines or shapes, especially a design in which the same shape is repeated at regular intervals over a surface. English =  pattern.",
     "2. A pattern of flowers. English = floral pattern."
   ],
   "idGloss": "floral.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tree.1"
+  ]
 }

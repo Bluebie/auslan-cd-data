@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cordial"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2499,
   "recordNumber": 1386,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,10 +39,11 @@
     "1. To share something equally with someone, so that both get half of it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet drink made from fruit juice and water. English = cordial."
   ],
   "idGloss": "cordial",
-  "oldEntry": "Popular explanation: fifty-fifty (i.e., water and syrup)."
+  "oldEntry": "Popular explanation: fifty-fifty (i.e., water and syrup).",
+  "seeAlso": []
 }

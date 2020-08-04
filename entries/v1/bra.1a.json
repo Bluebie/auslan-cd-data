@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bra",
     "brassiere"
   ],
   "deictic": [],
-  "cf": [
-    "bikini"
-  ],
   "signNumber": 4584,
   "recordNumber": 2776,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -37,10 +34,13 @@
     "1. To wear a bra."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of underwear that women wear to support their breasts. English = bra. Formal old-fashioned English = brassiere."
   ],
   "idGloss": "bra.1a",
-  "oldEntry": "Popular explanation: the outline of a bra."
+  "oldEntry": "Popular explanation: the outline of a bra.",
+  "seeAlso": [
+    "bikini"
+  ]
 }

@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hole",
     "rim"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1118,
   "recordNumber": 658,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large hollow space in something solid, especially  a flat surface such as the ground, with an opening on one side. English = hole.",
     "2. The edge that goes all the way around the top of a hollow space in something solid or a container like a cup or glass. English = rim."
   ],
   "idGloss": "hole.1a",
-  "oldEntry": "Popular explanation: the outline of a hole."
+  "oldEntry": "Popular explanation: the outline of a hole.",
+  "seeAlso": []
 }

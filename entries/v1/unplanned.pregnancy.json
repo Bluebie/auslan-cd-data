@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pregnant"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1557,
   "recordNumber": 925,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -29,10 +28,11 @@
     "1. Of an unmarried woman, to have a baby developing in her body. Formal English = (be) pregnant out of wedlock."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The development of a baby in the body of a woman who is not married, or who was not planning to have children. Formal English =  pregnancy out of wedlock."
   ],
   "idGloss": "unplanned.pregnancy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is particularly used in religious contexts as part of the ancient name of kings in the Bible (e.g., King David, King Solomon, etc.).",
   "english": [
     "king"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1828,
   "recordNumber": 1097,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man who is head of his country. He is a member of the royal family. English = king."
   ],
   "idGloss": "king",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

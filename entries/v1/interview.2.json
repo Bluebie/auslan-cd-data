@@ -11,14 +11,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "interview"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1481,
   "recordNumber": 883,
   "signVisualComposition": "QUESTION + ANSWER",
@@ -38,10 +37,11 @@
     "1. To ask someone a lot of questions and to get lots of answers back. English = interview."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A meeting at which you ask someone else a lot of questions and they give you lots of answers. English = interview."
   ],
   "idGloss": "interview.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

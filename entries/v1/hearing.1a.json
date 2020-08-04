@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hearing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 571,
   "recordNumber": 327,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -41,11 +40,12 @@
     "1. To be able to hear, to be able to hear speech, to be hearing, to be a hearing person."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who can hear.",
     "2. The sense of being able to hear sounds, especially speech; the sense of hearing."
   ],
   "idGloss": "hearing.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

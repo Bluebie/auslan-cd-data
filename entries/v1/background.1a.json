@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "background",
     "scenery"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2809,
   "recordNumber": 1575,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -31,12 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The things, shapes, or colours in a picture or scene that are less noticeable or less important and are often partly hidden by the main things or people in it. English = background.",
     "2. The pictures, lights, furniture and so on at the back of a stage in the theatre. English = scenery.",
     "3. The kind of family you come from and the kind of education and work experience you have had. English = background."
   ],
   "idGloss": "background.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

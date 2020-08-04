@@ -20,9 +20,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottom",
     "floor",
@@ -30,14 +30,9 @@
     "base"
   ],
   "deictic": [],
-  "cf": [
-    "beneath.flat.surface",
-    "beneath.long.object",
-    "under"
-  ],
   "signNumber": 6017,
   "recordNumber": 3582,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -56,12 +51,17 @@
     "3. To be located in the least powerful or important level in an organisation, the lowest point on a scale, or to be the worst student in a class. English = (be) on the bottom of, (be) bottom of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lowest part of something, as far away from the top as possible. English = bottom.",
     "2. The ground at the bottom of a body of water (river, lake, or sea); or the area at the bottom of a container. English = floor, bed; base.",
     "3. The least powerful or important level in an organisation or the lowest point on a scale. English = bottom."
   ],
   "idGloss": "bottom.2",
-  "oldEntry": "Popular explanation: something coming to rest on a low surface."
+  "oldEntry": "Popular explanation: something coming to rest on a low surface.",
+  "seeAlso": [
+    "beneath.flat.surface",
+    "beneath.long.object",
+    "under"
+  ]
 }

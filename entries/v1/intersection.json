@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "intersection",
     "conflict",
@@ -24,10 +24,9 @@
     "conflict"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1042,
   "recordNumber": 611,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. Of two ways of doing things (ideas, beliefs, or interests), to be very different and not at all in agreement. English = (be) in conflict; conflict."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where two paths, ways or roads cross each other, often at right angles. English = intersection.",
     "2. A serious difference between two ways of doing things (ideas, beliefs, or interests). English = conflict."
   ],
   "idGloss": "intersection",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

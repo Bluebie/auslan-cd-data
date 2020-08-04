@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HAVE + IDEA",
-  "queries": "",
+  "queries": null,
   "english": [
     "idea"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5568,
   "recordNumber": 3293,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -29,8 +28,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "got.idea",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

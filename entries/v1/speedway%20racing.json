@@ -7,18 +7,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speedway",
     "speedway racing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4071.1,
   "recordNumber": 2439,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": null,
@@ -35,5 +34,6 @@
     "2. The sport of racing cars and motorcycles on special racing tracks. English = speedway, speedway racing."
   ],
   "idGloss": "speedway racing",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "encouragement",
     "mustering",
@@ -33,12 +33,9 @@
     "muster"
   ],
   "deictic": [],
-  "cf": [
-    "persuade.1a"
-  ],
   "signNumber": 3784,
   "recordNumber": 2241,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -56,12 +53,15 @@
     "3. To look after and guide someone towards where you want them to go. Often used in a religious sense. English = shepherd."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of telling or the things you say when you tell someone that what they are doing is good and they should continue to do it. English = encouragement.",
     "2. The rounding up of sheep and cattle and bringing them together in one spot. English = (cattle) mustering, (sheep) shepherding.",
     "3. A person who looks after or rounds up sheep. English = shepherd."
   ],
   "idGloss": "encourage.1",
-  "oldEntry": "Popular explanation: pushing someone forward."
+  "oldEntry": "Popular explanation: pushing someone forward.",
+  "seeAlso": [
+    "persuade.1a"
+  ]
 }

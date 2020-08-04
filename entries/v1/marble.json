@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "marbles",
     "marble"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6133,
   "recordNumber": 3650,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -34,11 +33,12 @@
     "1. To play a game of marbles, to flick a marble with your thumb."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A children's game played with small balls made of coloured glass. You roll a ball along the ground and try to hit an opponent's ball with it. English = marbles.",
     "2. One of the small balls used by children in the game of marbles. English = marble."
   ],
   "idGloss": "marble",
-  "oldEntry": "Popular explanation: flicking a marble with the thumb."
+  "oldEntry": "Popular explanation: flicking a marble with the thumb.",
+  "seeAlso": []
 }

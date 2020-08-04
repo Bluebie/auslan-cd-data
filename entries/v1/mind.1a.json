@@ -12,9 +12,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mind",
     "mental",
@@ -22,12 +22,9 @@
     "silly"
   ],
   "deictic": [],
-  "cf": [
-    "think"
-  ],
   "signNumber": 3157,
   "recordNumber": 1829,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -41,10 +38,13 @@
     "2. To talk or behave in a strange or foolish way because of stupidity, mental retardation or mental illness. English = (be) crazy, (be) silly, (be) mental."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Your ability to think, including all the thoughts that you have. English = mind."
   ],
   "idGloss": "mind.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "think"
+  ]
 }

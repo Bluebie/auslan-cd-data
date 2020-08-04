@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tunic",
     "bib"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 878,
   "recordNumber": 502,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -41,5 +40,6 @@
     "2. A piece of cloth or plastic which is worn by very young children while they are eating, to protect their clothes. English = bib."
   ],
   "idGloss": "tunic",
-  "oldEntry": "Popular explanation: the outline of the top of a tunic."
+  "oldEntry": "Popular explanation: the outline of the top of a tunic.",
+  "seeAlso": []
 }

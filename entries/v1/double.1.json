@@ -7,20 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "double"
   ],
   "deictic": [],
-  "cf": [
-    "single.1a",
-    "doubles.1"
-  ],
   "signNumber": 1599,
   "recordNumber": 952,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,8 +33,12 @@
     "3. Of something, to consist of two things of the same kind or to be something, for example a bed, that is intended to be used by two people. English = (be) double."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "double.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "single.1a",
+    "doubles.1"
+  ]
 }

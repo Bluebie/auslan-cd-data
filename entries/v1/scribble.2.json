@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scribble"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1557.1,
   "recordNumber": 926,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -32,8 +31,9 @@
     "1. To make meaningless marks or rough drawings using a pencil or pen. English = scribble."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "scribble.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

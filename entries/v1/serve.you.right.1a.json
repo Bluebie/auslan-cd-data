@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "serve you right"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 392,
   "recordNumber": 215,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 10,
@@ -37,8 +36,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "serve.you.right.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,23 +14,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "politics",
     "politician",
     "political"
   ],
   "deictic": [],
-  "cf": [
-    "government.1",
-    "government.2a",
-    "government.3a"
-  ],
   "signNumber": 1810,
   "recordNumber": 1092,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -43,11 +38,16 @@
     "1. To relate to politics; or to be interested in politics and hold strong beliefs about it. English = (be) political."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The actions or activities which people use to achieve power in a country, society, or organisation. English = politics.",
     "2. A person whose job is in politics, particularly a member of parliament. English = politician"
   ],
   "idGloss": "politics",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "government.1",
+    "government.2a",
+    "government.3a"
+  ]
 }

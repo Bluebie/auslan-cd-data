@@ -12,18 +12,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "butcher",
     "meat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 651,
   "recordNumber": 379,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shopkeeper who sells meat, or the shop in which meat is sold. English = butcher, butcher's.",
     "2. The flesh of a dead animal that people cook and eat. English = meat."
   ],
   "idGloss": "meat.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

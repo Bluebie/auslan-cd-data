@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "infant"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5768.1,
   "recordNumber": 3419,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very young child or baby. English = infant."
   ],
   "idGloss": "infant",
-  "oldEntry": "Popular explanation: the closed fists and stance of an infant."
+  "oldEntry": "Popular explanation: the closed fists and stance of an infant.",
+  "seeAlso": []
 }

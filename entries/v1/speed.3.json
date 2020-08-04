@@ -8,20 +8,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "amphetamine",
     "speed"
   ],
   "deictic": [],
-  "cf": [
-    "pepper.2"
-  ],
   "signNumber": 6281,
   "recordNumber": 3754,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -34,10 +31,13 @@
     "1. To take amphetamines through the nose."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An illegal recreational drug which increases people's energy, makes them excited, and reduces their appetite. English = amphetamine. Informal English = speed."
   ],
   "idGloss": "speed.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pepper.2"
+  ]
 }

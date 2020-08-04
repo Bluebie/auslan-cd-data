@@ -22,8 +22,8 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "engraving",
     "etching",
@@ -33,10 +33,9 @@
     "etch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4913,
   "recordNumber": 2967,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -54,7 +53,7 @@
     "2. To create drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A picture or design that has been either cut into a surface with a sharp object or acid and/or printed from a plate which has been cut. English = engraving,  etching.",
     "2. The creation of drawings, paintings, and sculpture, when these things are considered to be beautiful or to express a particular idea. English = art.",
@@ -62,5 +61,6 @@
     "4. An activity such as weaving, carving, or pottery that involves making things skilfully with your hands. English = craft."
   ],
   "idGloss": "art",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

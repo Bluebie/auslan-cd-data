@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "purity",
     "cleanliness",
@@ -32,7 +32,6 @@
     "sterile"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2115,
   "recordNumber": 1227,
   "signVisualComposition": "PURE + CLEAN",
@@ -55,11 +54,12 @@
     "2. Of something, to be totally pure and healthy and medically safe because it is without any germs at all. English = (be) sterile."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Extreme purity, cleanliness and freshness.",
     "2. Total cleanliness and freedom from germs. English = sterility."
   ],
   "idGloss": "pure.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

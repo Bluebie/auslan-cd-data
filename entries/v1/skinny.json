@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skinniness",
     "scrawniness",
@@ -26,10 +26,9 @@
     "scrawny"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4988,
   "recordNumber": 3010,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,11 +46,12 @@
     "1. To have extremely little fat on your body. English = (be) thin, (be) skinny, (be) scrawny."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has extremely little fat on their body.",
     "2. The condition of having extremely little fat on your body. English = skinniness, scrawniness."
   ],
   "idGloss": "skinny",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

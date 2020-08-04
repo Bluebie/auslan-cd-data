@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diamond ring",
     "engagement ring",
@@ -29,10 +29,9 @@
     "engaged"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1190,
   "recordNumber": 697,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -48,12 +47,13 @@
     "1. To make a promise to marry someone; to have made a promise to marry someone. English = become engaged; (be) engaged."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small circle of metal that you wear on your finger as an ornament or to show that you are engaged or married. It often has a diamond in it. English = diamond ring, engagement ring, wedding ring.",
     "2. An agreement that two people have made with each other to get married. English = engagement.",
     "3. The man to whom a woman is engaged to be married; the woman to whom a man is engaged to be married. English = fiancee; fiance."
   ],
   "idGloss": "engaged.1a",
-  "oldEntry": "Popular explanation: the engagement ring on the ring finger."
+  "oldEntry": "Popular explanation: the engagement ring on the ring finger.",
+  "seeAlso": []
 }

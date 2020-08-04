@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "statue",
     "bust"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5581,
   "recordNumber": 3305,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -33,11 +32,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A work of art that is produced by carving or shaping stone, wood, or clay, depicting a person or an animal. English = statue.",
     "2. A statue of the head and shoulders of a person. English = bust."
   ],
   "idGloss": "statue.2",
-  "oldEntry": "Popular explanation: chiselling a face."
+  "oldEntry": "Popular explanation: chiselling a face.",
+  "seeAlso": []
 }

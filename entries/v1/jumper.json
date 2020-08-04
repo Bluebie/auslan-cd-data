@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jumper",
     "sweater",
     "pullover"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5844,
   "recordNumber": 3476,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To put on or wear a jumper, pullover or sweater."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing made of knitted wool, that covers the upper part of your body and your arms and does not open at the front. Australian English = jumper. British English = pullover. American English = sweater."
   ],
   "idGloss": "jumper",
-  "oldEntry": "Popular explanation: pulling a garment down the chest."
+  "oldEntry": "Popular explanation: pulling a garment down the chest.",
+  "seeAlso": []
 }

@@ -10,21 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "horns",
     "bull"
   ],
   "deictic": [],
-  "cf": [
-    "cattle.1a",
-    "tusks"
-  ],
   "signNumber": 4568,
   "recordNumber": 2767,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 1,
@@ -35,12 +31,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hard pointed things that stick out of the heads of cows, deer, and some other animals. English = horns.",
     "2. A male animal of the cow family. English = bull.",
     "3. Any animal with horns."
   ],
   "idGloss": "horns.1a",
-  "oldEntry": "Popular explanation: the horns of an animal."
+  "oldEntry": "Popular explanation: the horns of an animal.",
+  "seeAlso": [
+    "cattle.1a",
+    "tusks"
+  ]
 }

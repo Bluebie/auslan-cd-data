@@ -10,19 +10,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hero",
     "heroine",
     "star"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5099,
   "recordNumber": 3077,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The main character in a book, play or film, who is admired or respected for their good qualities; someone who has done something brave or good. English = hero (male or female), heroine (female only).",
     "2. A famous actor, musician or sports player. English = star."
   ],
   "idGloss": "hero.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

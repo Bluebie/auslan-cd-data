@@ -17,9 +17,9 @@
     "engtf7",
     "engtf8"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "consideration",
     "reflection",
@@ -31,10 +31,9 @@
     "ruminate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 508,
   "recordNumber": 283,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -49,11 +48,12 @@
     "3. To think about something carefully, slowly, at length and in depth. English = ponder, reflect upon. Formal English = ruminate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Careful and prolonged thought about something. English = consideration.",
     "2. Careful and prolonged thought about something in depth. English = reflection. Formal English = rumination."
   ],
   "idGloss": "consider.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

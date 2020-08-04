@@ -14,18 +14,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "mental"
   ],
   "deictic": [],
-  "cf": [
-    "deranged"
-  ],
   "signNumber": 6493,
   "recordNumber": 3865,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -44,8 +41,11 @@
     "1. To talk or behave in a very strange or foolish way. English = (be) crazy. Informal English = (be) mental."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "mental",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "deranged"
+  ]
 }

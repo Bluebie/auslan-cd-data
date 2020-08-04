@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "keenness",
     "eagerness",
@@ -36,13 +36,9 @@
     "glad to"
   ],
   "deictic": [],
-  "cf": [
-    "impress.1a",
-    "glad.2"
-  ],
   "signNumber": 2993,
   "recordNumber": 1704,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 8,
@@ -62,10 +58,14 @@
     "4. To have no objection to doing something you have been asked to do. Idiomatic English = (be) glad to do something, (be) happy to do something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong desire and interest in doing something. English = keenness, eagerness, enthusiasm."
   ],
   "idGloss": "interest.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "impress.1a",
+    "glad.2"
+  ]
 }

@@ -15,18 +15,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "next",
     "then"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4788,
   "recordNumber": 2893,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "1. To be the period of time, event, person, or thing which comes immediately after the present one or after the previous one. English = next."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time, event, person, or thing which comes immediately after the present one or after the previous one. English = the next one."
   ],
   "idGloss": "next.one.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,19 +8,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "future"
   ],
   "deictic": [],
-  "cf": [
-    "tomorrow"
-  ],
   "signNumber": 4479,
   "recordNumber": 2721,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -34,10 +31,13 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time that will come after the present, or the things that will happen then. English = future."
   ],
   "idGloss": "future",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tomorrow"
+  ]
 }

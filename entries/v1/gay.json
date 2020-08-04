@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "homosexual",
     "homosexuality",
@@ -27,12 +27,9 @@
     "homosexual"
   ],
   "deictic": [],
-  "cf": [
-    "poofter"
-  ],
   "signNumber": 6295,
   "recordNumber": 3761,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,11 +44,14 @@
     "1. To be sexually attracted to someone of the same sex. English = (be) gay, (be) homosexual."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is sexually attracted to someone of the same sex. English = homosexual, gay man, gay person.",
     "2. Sexual attraction to persons of the same sex. English = homosexuality."
   ],
   "idGloss": "gay",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "poofter"
+  ]
 }

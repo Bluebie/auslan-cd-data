@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "problem",
     "trouble",
@@ -40,13 +40,9 @@
     "annoying"
   ],
   "deictic": [],
-  "cf": [
-    "tribulation",
-    "interrupt"
-  ],
   "signNumber": 4043,
   "recordNumber": 2419,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -64,11 +60,15 @@
     "3. To make you feel slightly angry because it gives you problems or difficulties. English = (be) troublesome, (be) bothersome, (be) irritating, (be) annoying."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something or a situation which is unsatisfactory and causes difficulties. English = problem.",
     "2. Something which causes difficulties or problems in an intrusive way or in a way which makes you slightly angry, or is a difficulty or problem in itself. English = trouble, hassle, bother, irritation, nuisance, annoyance."
   ],
   "idGloss": "problem.1",
-  "oldEntry": "Popular explanation: jabbing on the arm."
+  "oldEntry": "Popular explanation: jabbing on the arm.",
+  "seeAlso": [
+    "tribulation",
+    "interrupt"
+  ]
 }

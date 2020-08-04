@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "football",
     "kick",
@@ -29,10 +29,9 @@
     "kick out"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1110,
   "recordNumber": 653,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -52,11 +51,12 @@
     "4. To get rid of someone from an organisation or team. Idiomatic English = kick out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A code of football which originated in Australia and which is most popular in the southern and western states of Australia. It has its origins in Gaelic football. English = Australian Rules. Informal English = Aussie Rules.",
     "2. Any game in which a ball is kicked around a field for most of the match. For example, Australian Rules, Rugby Union, Rugby League, Soccer, and Gridiron. English = football."
   ],
   "idGloss": "football.2",
-  "oldEntry": "Popular explanation: kicking a football."
+  "oldEntry": "Popular explanation: kicking a football.",
+  "seeAlso": []
 }

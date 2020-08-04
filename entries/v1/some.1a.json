@@ -12,8 +12,8 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Many signers combine this sign with signs for 'one' or 'thing' to produce equivalents of the English words 'someone' and 'something' which are used in very similar ways with very similar meanings.",
   "english": [
     "something",
@@ -21,10 +21,9 @@
     "bit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 108,
   "recordNumber": 56,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. A quantity of something or a number of people or things, without stating the number of people or things precisely. English = (be) some, (be) a bit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Anything that is not a person, for example an object, action, or quality. English = something."
   ],
   "idGloss": "some.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

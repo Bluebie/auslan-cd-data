@@ -15,20 +15,17 @@
     "syn1"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "discouragement",
     "discouraged",
     "disappointed"
   ],
   "deictic": [],
-  "cf": [
-    "humiliate"
-  ],
   "signNumber": 2881,
   "recordNumber": 1628,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -46,10 +43,13 @@
     "2. To be sad because something you wanted has not happened or because it is not as good as you hoped it would be. English = (be) disappointed. Idiomatic English = (be) let down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that makes you unwilling to do something because you are afraid of the consequences or because you have lost your enthusiasm. English = discouragement."
   ],
   "idGloss": "discourage",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "humiliate"
+  ]
 }

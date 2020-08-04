@@ -10,19 +10,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blunt"
   ],
   "deictic": [],
-  "cf": [
-    "knife.1a"
-  ],
   "signNumber": 1046,
   "recordNumber": 614,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -38,8 +35,11 @@
     "2. To try to cut something unsuccessfully because the knife or other implement is blunt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "blunt",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "knife.1a"
+  ]
 }

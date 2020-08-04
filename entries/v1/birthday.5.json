@@ -12,18 +12,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "birthday"
   ],
   "deictic": [],
-  "cf": [
-    "birthday.4"
-  ],
   "signNumber": 998.1,
   "recordNumber": 580,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -38,10 +35,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The anniversary  of the date on which you were born. English = birthday."
   ],
   "idGloss": "birthday.5",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "birthday.4"
+  ]
 }

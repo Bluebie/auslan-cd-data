@@ -13,21 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "letter",
     "Epistle"
   ],
   "deictic": [],
-  "cf": [
-    "glue.1",
-    "stamp.1"
-  ],
   "signNumber": 4898,
   "recordNumber": 2960,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 10,
@@ -43,11 +39,15 @@
     "1. To stick a stamp onto a letter."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A message you write on a piece of paper and then send to someone, usually through the post. English = letter.",
     "2. One of the books in the New Testament which were originally written as letters to the early Christians by the apostles. English = Epistle."
   ],
   "idGloss": "letter",
-  "oldEntry": "Popular explanation: affix a stamp."
+  "oldEntry": "Popular explanation: affix a stamp.",
+  "seeAlso": [
+    "glue.1",
+    "stamp.1"
+  ]
 }

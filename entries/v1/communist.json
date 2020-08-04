@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "communism",
     "communist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5590,
   "recordNumber": 3309,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -34,11 +33,12 @@
     "1. To relate to or be based on communism. English = (be) communist."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The political  belief that the state should control the means of producing everything, and that there should be no private property. English = communism.",
     "2. A person who believes in communism. English = communist."
   ],
   "idGloss": "communist",
-  "oldEntry": "Popular explanation: the fist held up in the revolutionary salute."
+  "oldEntry": "Popular explanation: the fist held up in the revolutionary salute.",
+  "seeAlso": []
 }

@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ticket",
     "card",
@@ -24,10 +24,9 @@
     "business card"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5368,
   "recordNumber": 3207,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 14,
@@ -48,5 +47,6 @@
     "4. A small piece of stiff paper with your name and business details which you give to people when you first meet them. English = business card."
   ],
   "idGloss": "ticket.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

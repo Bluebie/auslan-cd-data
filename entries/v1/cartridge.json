@@ -6,17 +6,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cartridge"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 417,
   "recordNumber": 234,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -32,5 +31,6 @@
     "1. A metal or cardboard tube containing a bullet and an explosive substance used in guns. English = cartridge."
   ],
   "idGloss": "cartridge",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

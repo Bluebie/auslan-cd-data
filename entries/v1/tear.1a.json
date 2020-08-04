@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tear",
     "rip",
     "licence"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6196,
   "recordNumber": 3702,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "2. To have your driver's licence cancelled because you have broken the road rules in some serious way; to lose your licence."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hole or a break that has been made in a piece of clothing or a piece of cloth or paper. English = tear, rip."
   ],
   "idGloss": "tear.1a",
-  "oldEntry": "Popular explanation: tearing some paper."
+  "oldEntry": "Popular explanation: tearing some paper.",
+  "seeAlso": []
 }

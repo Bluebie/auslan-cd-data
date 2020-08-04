@@ -15,17 +15,13 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "last night"
   ],
   "deictic": [],
-  "cf": [
-    "yesterday.1a",
-    "evening"
-  ],
   "signNumber": 4727,
   "recordNumber": 2856,
   "signVisualComposition": "YESTERDAY + EVENING",
@@ -42,11 +38,15 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The night of the day before today. English = last night, yesterday night.",
     "2. The night of the day before a particular day in the past. English = the previous night."
   ],
   "idGloss": "last.night.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "yesterday.1a",
+    "evening"
+  ]
 }

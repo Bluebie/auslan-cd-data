@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "imagination",
     "imagine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4960,
   "recordNumber": 2997,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,10 +35,11 @@
     "1. To form a picture or idea of something in your mind. English = imagine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability that you have to form ideas of new or exciting things; the part of your mind which you use to form pictures or ideas of things that do not necessarily exist in real life. English = imagination."
   ],
   "idGloss": "imagine.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

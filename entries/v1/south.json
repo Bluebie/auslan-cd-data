@@ -15,22 +15,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "south",
     "southern",
     "southerly"
   ],
   "deictic": [],
-  "cf": [
-    "east",
-    "west"
-  ],
   "signNumber": 5039,
   "recordNumber": 3040,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -46,10 +42,14 @@
     "2. Of a direction that something faces or the direction from which a wind blows, to be from or face the south. English = (be) southerly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The direction which is on your right side when you are looking towards the direction where the sun rises. English = south."
   ],
   "idGloss": "south",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "east",
+    "west"
+  ]
 }

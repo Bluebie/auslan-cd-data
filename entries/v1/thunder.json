@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thunder"
   ],
   "deictic": [],
-  "cf": [
-    "vibration.1a"
-  ],
   "signNumber": 2728,
   "recordNumber": 1521,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -39,5 +36,8 @@
     "1. A loud noise you hear in the sky and feel in the air or even on the ground after lightning. English = thunder."
   ],
   "idGloss": "thunder",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "vibration.1a"
+  ]
 }

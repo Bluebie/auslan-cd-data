@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "opportunity",
     "chance",
@@ -27,12 +27,9 @@
     "appear"
   ],
   "deictic": [],
-  "cf": [
-    "happen.1a"
-  ],
   "signNumber": 1235,
   "recordNumber": 729,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,11 +45,14 @@
     "2. To be present unexpectedly at a place. English = pop up, appear."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation in which it is possible for something to happen, especially a situation which is unexpected and beneficial. English = opportunity, chance.",
     "2. The arrival of someone somewhere, especially unexpectedly. English = appearance."
   ],
   "idGloss": "pop.up.1a",
-  "oldEntry": "Popular explanation: something coming up."
+  "oldEntry": "Popular explanation: something coming up.",
+  "seeAlso": [
+    "happen.1a"
+  ]
 }

@@ -21,9 +21,9 @@
     "engtf8",
     "engtf9"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spill",
     "spillage",
@@ -36,12 +36,9 @@
     "epidemic"
   ],
   "deictic": [],
-  "cf": [
-    "spread.1"
-  ],
   "signNumber": 177,
   "recordNumber": 100,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -57,12 +54,15 @@
     "4. Of objects, to be far apart and to cover a large area. English = to be spread out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of causing a liquid to flow over the edge of a container. English = spill, spillage.",
     "2. The spreading of people or objects over a wide area or of ideas and objects amongst a large number of people. English = dispersal, dissemination.",
     "3. An occurrence of a disease which affects a large number of people and which spreads quickly. English = epidemic."
   ],
   "idGloss": "spill",
-  "oldEntry": "Popular explanation: to go from one place out in all directions."
+  "oldEntry": "Popular explanation: to go from one place out in all directions.",
+  "seeAlso": [
+    "spread.1"
+  ]
 }

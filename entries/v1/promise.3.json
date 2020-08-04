@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "promise",
     "vow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1410,
   "recordNumber": 839,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -38,10 +37,11 @@
     "1. To say to someone that you will definitely do something. English = promise, vow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A statement you make to someone in which you say that you will definitely do something or give them something. English = promise, vow."
   ],
   "idGloss": "promise.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

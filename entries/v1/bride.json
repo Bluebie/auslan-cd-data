@@ -14,19 +14,16 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "bride",
     "bridesmaid"
   ],
   "deictic": [],
-  "cf": [
-    "lobby"
-  ],
   "signNumber": 5802,
   "recordNumber": 3442,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,11 +36,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who is getting married or who has just got married. English = bride.",
     "2. A woman or girl who helps and accompanies a bride on her wedding day. English = bridesmaid."
   ],
   "idGloss": "bride",
-  "oldEntry": "Popular explanation: holding a bouquet while moving forwards."
+  "oldEntry": "Popular explanation: holding a bouquet while moving forwards.",
+  "seeAlso": [
+    "lobby"
+  ]
 }

@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mouth",
     "mouthing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 617,
   "recordNumber": 356,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -36,11 +35,12 @@
     "2. To make facial gestures with your mouth without saying words or making any sounds. English = mouth."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Your lips, or the space behind your lips where your teeth and tongue are. You use it for eating, speaking and making facial gestures. English = mouth.",
     "2. The action of making facial gestures with your mouth, or of forming words with your lips without making any sound. English = mouthing."
   ],
   "idGloss": "mouth",
-  "oldEntry": "Popular explanation: the outline of the mouth."
+  "oldEntry": "Popular explanation: the outline of the mouth.",
+  "seeAlso": []
 }

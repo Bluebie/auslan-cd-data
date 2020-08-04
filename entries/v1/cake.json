@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cake"
   ],
   "deictic": [],
-  "cf": [
-    "scones"
-  ],
   "signNumber": 3081,
   "recordNumber": 1768,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet food made by baking a mixture of flour, eggs, sugar, and fat in an oven. It is usually flat and round. English = cake."
   ],
   "idGloss": "cake",
-  "oldEntry": "Popular explanation: the form of a cup cake."
+  "oldEntry": "Popular explanation: the form of a cup cake.",
+  "seeAlso": [
+    "scones"
+  ]
 }

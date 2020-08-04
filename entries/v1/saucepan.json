@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "saucepan"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6115,
   "recordNumber": 3640,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,5 +36,6 @@
     "1. A deep metal cooking pot, usually with a long handle and a lid. English = saucepan."
   ],
   "idGloss": "saucepan",
-  "oldEntry": "Popular explanation: holding the handle of a saucepan."
+  "oldEntry": "Popular explanation: holding the handle of a saucepan.",
+  "seeAlso": []
 }

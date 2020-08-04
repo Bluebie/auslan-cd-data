@@ -12,21 +12,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "responsibility",
     "responsible",
     "duty"
   ],
   "deictic": [],
-  "cf": [
-    "burden"
-  ],
   "signNumber": 3612,
   "recordNumber": 2128,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -39,10 +36,13 @@
     "1. To be obliged to deal with something and make decisions about it. English = (be) responsible."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The obligation that a person has to deal with something or make decisions relating to something and not ignore it or give the work to someone else. English = responsibility, duty."
   ],
   "idGloss": "responsibility.1a",
-  "oldEntry": "Popular explanation: indicating a burden on one's shoulders."
+  "oldEntry": "Popular explanation: indicating a burden on one's shoulders.",
+  "seeAlso": [
+    "burden"
+  ]
 }

@@ -25,9 +25,9 @@
     "engtf10",
     "engtf11"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blockage",
     "obstacle",
@@ -43,10 +43,9 @@
     "bind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5905,
   "recordNumber": 3510,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -62,7 +61,7 @@
     "4. To tie a piece of string or rope tightly round someone's hands; of hands, to be tied tightly together with string or rope. English = bind; (be) bound."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where something is blocking a pipe, tube, channel, road, or way; something that makes it difficult to go where you want to go or do what you want to do. English = blockage; obstacle.",
     "2. Something such as a piece of equipment or a hole that is carefully positioned in order to catch animals or birds; a trick that is intended to catch or deceive someone. English = trap.",
@@ -70,5 +69,6 @@
     "4. The act of stopping or not allowing something to happen. English = prevention."
   ],
   "idGloss": "block.2",
-  "oldEntry": "Popular explanation: bound hands."
+  "oldEntry": "Popular explanation: bound hands.",
+  "seeAlso": []
 }

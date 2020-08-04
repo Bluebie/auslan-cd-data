@@ -17,20 +17,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "today"
   ],
   "deictic": [],
-  "cf": [
-    "tomorrow",
-    "yesterday.1a",
-    "yesterday.2"
-  ],
   "signNumber": 709,
   "recordNumber": 410,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,11 +42,16 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The day on which or during which you are speaking, writing or signing. English = today, this day.",
     "2. On the very day which has already been identified (in the future or in the past) on which other actions also happen. English = that day, on that day, on that very day."
   ],
   "idGloss": "today.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tomorrow",
+    "yesterday.1a",
+    "yesterday.2"
+  ]
 }

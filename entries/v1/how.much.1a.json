@@ -15,9 +15,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "price",
     "cost",
@@ -25,13 +25,9 @@
     "how much"
   ],
   "deictic": [],
-  "cf": [
-    "when",
-    "how.old"
-  ],
   "signNumber": 2464,
   "recordNumber": 1370,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -44,11 +40,15 @@
   "questionLexeme": [
     "1. Used to ask the amount of money that must be paid in order to buy something. English = How much?"
   ],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The amount of money you must pay in order to buy something. English = price, cost.",
     "2. The amount of money you must pay in order to buy something, especially a service rather than a thing. English = charge."
   ],
   "idGloss": "how.much.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "when",
+    "how.old"
+  ]
 }

@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sky",
     "heavens",
@@ -27,10 +27,9 @@
     "overhead"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3112,
   "recordNumber": 1795,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -46,12 +45,13 @@
     "2. To be located high over one's head, especially in the sky. English = (be) overhead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The space around the Earth which you can see when you stand outside and look upwards, and where you can see the sun, the moon, and the stars. English = sky. In literary English = heavens.",
     "2. The high horizontal surface that forms the top part inside a room in which the walls go up a long way. English = (high) ceiling.",
     "3. The covering on the top of a building. English = roof."
   ],
   "idGloss": "sky.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

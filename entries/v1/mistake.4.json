@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mistake",
     "mistaken",
@@ -29,13 +29,9 @@
     "miss"
   ],
   "deictic": [],
-  "cf": [
-    "miss.1a",
-    "deceive"
-  ],
   "signNumber": 1568,
   "recordNumber": 935,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -55,10 +51,14 @@
     "4. To feel sad that someone is no longer with you, or that you no longer have something or experience it. English = miss."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or an opinion that is wrong. English = mistake."
   ],
   "idGloss": "mistake.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "miss.1a",
+    "deceive"
+  ]
 }

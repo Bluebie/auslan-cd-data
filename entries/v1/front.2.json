@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "front"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3187,
   "recordNumber": 1852,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -36,10 +35,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The side or surface of your body that you can see and is on the same side as your chest. English = front."
   ],
   "idGloss": "front.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

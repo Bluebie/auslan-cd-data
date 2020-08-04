@@ -14,21 +14,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plug",
     "socket",
     "electric"
   ],
   "deictic": [],
-  "cf": [
-    "double adaptor"
-  ],
   "signNumber": 5248,
   "recordNumber": 3151,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -42,11 +39,14 @@
     "2. Of a device or machine, to need to be plugged into an electric power source in order to operate. English = (be) electric, (be) powered by electricity."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small plastic object with metal pieces which fit into the holes in a socket and connect the wire from a piece of electrical equipment to the electricity supply. English = plug.",
     "2. A place on a wall or on a piece of electrical equipment into which you can put a plug. English = socket."
   ],
   "idGloss": "plug.1a",
-  "oldEntry": "Popular explanation: inserting a plug."
+  "oldEntry": "Popular explanation: inserting a plug.",
+  "seeAlso": [
+    "double adaptor"
+  ]
 }

@@ -7,14 +7,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cheque"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5422,
   "recordNumber": 3231,
   "signVisualComposition": "C + H + Q",
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A printed piece of paper that you can use instead of money. You write on it the name of the person you are paying and the amount of money you are paying them, and then you sign it. English = cheque."
   ],
   "idGloss": "cheque.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

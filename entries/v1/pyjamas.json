@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pyjamas"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3430,
   "recordNumber": 2003,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To wear or put on pyjamas."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Loose trousers and a loose jacket that people, especially men, wear in bed. English = pyjamas."
   ],
   "idGloss": "pyjamas",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

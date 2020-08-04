@@ -18,21 +18,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "twist",
     "wring",
     "sprain"
   ],
   "deictic": [],
-  "cf": [
-    "hate.1"
-  ],
   "signNumber": 5815,
   "recordNumber": 3453,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -49,12 +46,15 @@
     "3. To accidentally damage a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A turn on something made by both hands in opposite directions, or by holding one end and turning the other. English = twist.",
     "2. The shape that something has when it has been twisted. English = twist.",
     "3. The injury caused by accidentally damaging a joint such as your ankle or wrist by twisting it or bending it violently. English = sprain."
   ],
   "idGloss": "twist.1a",
-  "oldEntry": "Popular explanation: twisting something."
+  "oldEntry": "Popular explanation: twisting something.",
+  "seeAlso": [
+    "hate.1"
+  ]
 }

@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plait",
     "braid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2178,
   "recordNumber": 1257,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -36,10 +35,11 @@
     "2. To have plaited hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Lengths of hair that have been twisted over and under each other to make one thick length. English = plait, braid."
   ],
   "idGloss": "plait.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

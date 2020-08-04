@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "uniformity",
     "standard",
@@ -28,10 +28,9 @@
     "average"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 994,
   "recordNumber": 576,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -49,7 +48,7 @@
     "2. To be the same for everyone or to be considered to be the correct and acceptable form for everyone (especially regarding the words and signs of a language). English = (be) standard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition in which something is the same over time. English = uniformity.",
     "2. A state in which everyone or everything behaves or looks the same as everyone or everything else. English = uniformity.",
@@ -57,5 +56,6 @@
     "4. In mathematics, the number you get when you add two or more numbers together and divide the total by the number of numbers you added together. English = mean, average."
   ],
   "idGloss": "uniformity.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

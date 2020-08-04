@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "conductor",
     "cap"
   ],
   "deictic": [],
-  "cf": [
-    "ticket-punch"
-  ],
   "signNumber": 823,
   "recordNumber": 470,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 2,
@@ -34,11 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who sells tickets on a bus or tram. English = conductor.",
     "2. A soft hat with a brim or peak only on the front part of it. English = cap"
   ],
   "idGloss": "cap.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "ticket-punch"
+  ]
 }

@@ -19,18 +19,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disappear",
     "vanish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5069,
   "recordNumber": 3057,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -52,12 +51,13 @@
     "3. Of a vehicle, to go off into the distance at high speed; to zoom off into the distance."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The disappearance of something, especially into the distance.",
     "2. The disappearance of a person from a place which is quick, unnoticed by others, or made without saying goodbye.",
     "3. The movement of a vehicle at high speed away into the distance."
   ],
   "idGloss": "disappear.2",
-  "oldEntry": "Popular explanation: something moving away and getting smaller in front of the eyes."
+  "oldEntry": "Popular explanation: something moving away and getting smaller in front of the eyes.",
+  "seeAlso": []
 }

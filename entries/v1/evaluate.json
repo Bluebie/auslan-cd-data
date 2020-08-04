@@ -14,18 +14,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BALANCE + E",
-  "queries": "",
+  "queries": null,
   "english": [
     "evaluation",
     "evaluate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 135,
   "recordNumber": 73,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -40,10 +39,11 @@
     "1. To carefully study the good and bad features of something in order to decide how significant, valuable, or effective it is. English = evaluate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A decision about how significant, valuable, or effective something is, based on a  careful study of its good and bad features. English = evaluation."
   ],
   "idGloss": "evaluate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

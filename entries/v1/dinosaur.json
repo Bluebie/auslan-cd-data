@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dinosaur"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1345,
   "recordNumber": 793,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 17.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of large reptile that lived in prehistoric times and which is now extinct. English = dinosaur."
   ],
   "idGloss": "dinosaur",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

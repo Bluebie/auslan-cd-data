@@ -7,15 +7,14 @@
     "domonly",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 6321,
   "recordNumber": 3773,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -30,8 +29,9 @@
     "1. In snooker, for one ball to pass and just miss another ball."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "just.miss",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

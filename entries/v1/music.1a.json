@@ -18,8 +18,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "music",
     "orchestra",
@@ -28,10 +28,9 @@
     "conduct"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 998,
   "recordNumber": 579,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -47,7 +46,7 @@
     "1. To stand in front of an orchestra, band or choir and direct its performance by waving your hands. English = conduct."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Sounds that are put together in a pattern and performed by people who are singing or playing instruments. English = music.",
     "2. A large group of musicians who play a variety of different instruments together. English = orchestra.",
@@ -55,5 +54,6 @@
     "4. A performance of music given by musicians. English = concert."
   ],
   "idGloss": "music.1a",
-  "oldEntry": "Popular explanation: conducting music."
+  "oldEntry": "Popular explanation: conducting music.",
+  "seeAlso": []
 }

@@ -13,22 +13,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "balancing",
     "deuce",
     "balance"
   ],
   "deictic": [],
-  "cf": [
-    "doubt",
-    "advantage.tennis"
-  ],
   "signNumber": 3889,
   "recordNumber": 2315,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,11 +37,15 @@
     "1. To remain steady and upright and not fall over when you are standing or walking on a narrow spot. English = balance, keep your balance."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of remaining steady and upright and not falling over when you are standing or walking on a narrow spot. English = balancing.",
     "2. The score in a game of tennis when both players have forty points. English = deuce."
   ],
   "idGloss": "balance.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "doubt",
+    "advantage.tennis"
+  ]
 }

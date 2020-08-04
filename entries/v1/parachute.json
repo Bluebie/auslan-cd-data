@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "parachute",
     "parachuting",
     "parachutist"
   ],
   "deictic": [],
-  "cf": [
-    "sink.1"
-  ],
   "signNumber": 2944,
   "recordNumber": 1674,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,12 +36,15 @@
     "1. To jump out of a plane using a parachute. English = parachute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device which enables you to jump from an aircraft and float to the ground. It consists of a large circle of thin cloth attached to your body by strings. English = parachute.",
     "2. The sport or activity of jumping out of planes with a parachute. English = parachuting.",
     "3. A person who jumps out of planes using a parachute. English = parachutist."
   ],
   "idGloss": "parachute",
-  "oldEntry": "Popular explanation: a parachute descending."
+  "oldEntry": "Popular explanation: a parachute descending.",
+  "seeAlso": [
+    "sink.1"
+  ]
 }

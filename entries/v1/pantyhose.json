@@ -13,18 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pantyhose",
     "pantihose"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5937,
   "recordNumber": 3535,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 17,
@@ -40,10 +39,11 @@
     "1. To put on or be wearing pantyhose."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Women's tights, similar in look and style to stockings. English = pantyhose, pantihose."
   ],
   "idGloss": "pantyhose",
-  "oldEntry": "Popular explanation: pulling on a pair of pantyhose."
+  "oldEntry": "Popular explanation: pulling on a pair of pantyhose.",
+  "seeAlso": []
 }

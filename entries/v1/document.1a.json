@@ -26,9 +26,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "document",
     "story",
@@ -42,13 +42,9 @@
     "text"
   ],
   "deictic": [],
-  "cf": [
-    "course",
-    "program"
-  ],
   "signNumber": 4334,
   "recordNumber": 2641,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -69,5 +65,9 @@
     "3. Facts, details and ideas which are communicated or received about something or someone. English = information."
   ],
   "idGloss": "document.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "course",
+    "program"
+  ]
 }

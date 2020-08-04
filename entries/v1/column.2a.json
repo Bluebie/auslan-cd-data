@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "column"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5379,
   "recordNumber": 3213,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 15,
@@ -37,5 +36,6 @@
     "1. A tall solid cylinder, usually used to support or decorate part of a building. English = column."
   ],
   "idGloss": "column.2a",
-  "oldEntry": "Popular explanation: indicating something long and thin."
+  "oldEntry": "Popular explanation: indicating something long and thin.",
+  "seeAlso": []
 }

@@ -26,9 +26,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "profit",
     "collection",
@@ -39,12 +39,9 @@
     "earn"
   ],
   "deictic": [],
-  "cf": [
-    "collect.1a"
-  ],
   "signNumber": 4305,
   "recordNumber": 2623,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,7 +63,7 @@
     "4. To get money for work or a service you provide. English = earn."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An amount of money that you gain when you are paid more for something than it cost you to make, get, or do. English = profit.",
     "2. The activity of bringing together things from different places. English = collection.",
@@ -74,5 +71,8 @@
     "4. The money you get for performing work or providing a service. English = earnings."
   ],
   "idGloss": "profit.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "collect.1a"
+  ]
 }

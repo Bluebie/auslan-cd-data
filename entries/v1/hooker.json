@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hooker"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1520,
   "recordNumber": 906,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Rugby football, the central forward in the front row of the scrum, whose job it is to pull back the ball with his foot. English = hooker."
   ],
   "idGloss": "hooker",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

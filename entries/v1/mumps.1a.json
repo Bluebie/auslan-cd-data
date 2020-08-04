@@ -14,20 +14,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mumps"
   ],
   "deictic": [],
-  "cf": [
-    "fat.1a",
-    "swell"
-  ],
   "signNumber": 128,
   "recordNumber": 69,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 12,
@@ -41,11 +37,15 @@
     "2. To have swollen glands in the neck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A disease that causes a painful swelling of the glands in the neck. English =  mumps.",
     "2. A swelling of the glands in the neck."
   ],
   "idGloss": "mumps.1a",
-  "oldEntry": "Popular explanation: swollen glands."
+  "oldEntry": "Popular explanation: swollen glands.",
+  "seeAlso": [
+    "fat.1a",
+    "swell"
+  ]
 }

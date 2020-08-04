@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "circle",
     "circular"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 742,
   "recordNumber": 427,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,10 +39,11 @@
     "2. To draw a circle around something or to move in a circular path around something. English = circle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shape consisting of a curved line completely surrounding an area. Every part of the line is the same distance from the centre of the area. English = circle."
   ],
   "idGloss": "circle",
-  "oldEntry": "Popular explanation: the outline of a circle."
+  "oldEntry": "Popular explanation: the outline of a circle.",
+  "seeAlso": []
 }

@@ -23,9 +23,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "laughter",
     "mirth",
@@ -38,10 +38,9 @@
     "hilarious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5114,
   "recordNumber": 3088,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -60,7 +59,7 @@
     "4. [Especially with stress] to laugh very loudly and with great energy. Idiomatic English = roar with laughter, (be) in the aisles laughing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sounds people make by which they show that they are happy or amused or the action of makings such sounds. English = laughter.",
     "2. Amusement which you express by laughing. Literary English = mirth.",
@@ -68,5 +67,6 @@
     "4. [Especially with stress] great amusement and laughter. English = hilarity."
   ],
   "idGloss": "laugh.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "snake",
     "hiss",
@@ -26,12 +26,9 @@
     "bitchy"
   ],
   "deictic": [],
-  "cf": [
-    "lizard"
-  ],
   "signNumber": 6465,
   "recordNumber": 3854,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -48,11 +45,14 @@
     "3. Of a person, to behave in a way that is rude and offensive, particularly by saying nasty things about other people. English = (be) bitchy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, thin reptile with no legs. English = snake.",
     "2. A person who says nasty things about other people. English = bitch."
   ],
   "idGloss": "snake",
-  "oldEntry": "Popular explanation: the snake's tongue."
+  "oldEntry": "Popular explanation: the snake's tongue.",
+  "seeAlso": [
+    "lizard"
+  ]
 }

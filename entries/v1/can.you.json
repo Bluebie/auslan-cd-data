@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "amazing",
     "incredible"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5078,
   "recordNumber": 3063,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -36,8 +35,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "can.you",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

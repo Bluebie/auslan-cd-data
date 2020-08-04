@@ -14,22 +14,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "string",
     "thread",
     "wire"
   ],
   "deictic": [],
-  "cf": [
-    "elastic.2",
-    "pull.apart"
-  ],
   "signNumber": 372,
   "recordNumber": 202,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -42,7 +38,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thin rope made of twisted threads. English = string",
     "2. A long, very thin piece of cotton, silk, nylon or wool. English = thread.",
@@ -50,5 +46,9 @@
     "4. A length or piece of something long and thin."
   ],
   "idGloss": "string.1a",
-  "oldEntry": "Popular explanation: something long and thin."
+  "oldEntry": "Popular explanation: something long and thin.",
+  "seeAlso": [
+    "elastic.2",
+    "pull.apart"
+  ]
 }

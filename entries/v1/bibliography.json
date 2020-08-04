@@ -8,17 +8,16 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BOOK + LIST",
-  "queries": "",
+  "queries": null,
   "english": [
     "bibliography"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3727,
   "recordNumber": 2198,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -29,11 +28,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A list of books on a particular subject. English = bibliography.",
     "2. A list of books and articles that are referred to in a particular book. English = bibliography."
   ],
   "idGloss": "bibliography",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

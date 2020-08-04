@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is often made with the lips rounded or protruding.",
   "english": [
     "speaking",
     "hearing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 631,
   "recordNumber": 365,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -46,10 +45,11 @@
     "1. To be able to use your voice to say words and use speech to communicate; not to be mute or dumb; not to be deaf; to be a speaking (and hearing) person."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is able to use their voice to say words and communicate in speech; a person who is not mute or dumb; a person who is not mute or dumb and deaf; a speaking person; a speaking and hearing person."
   ],
   "idGloss": "speaking",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grapefruit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2167,
   "recordNumber": 1252,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To eat a grapefruit using a spoon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, round, yellow fruit, similar to an orange, that has a sharp, sour taste. It is often cut in half and eaten using a teaspoon. English = grapefruit."
   ],
   "idGloss": "grapefruit",
-  "oldEntry": "Popular explanation: scraping a grapefruit with a spoon."
+  "oldEntry": "Popular explanation: scraping a grapefruit with a spoon.",
+  "seeAlso": []
 }

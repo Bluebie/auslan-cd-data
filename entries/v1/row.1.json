@@ -13,20 +13,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rowing",
     "row"
   ],
   "deictic": [],
-  "cf": [
-    "rowboat"
-  ],
   "signNumber": 5874,
   "recordNumber": 3494,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To sit in a boat and make it move by using oars. English = row."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of sitting in a boat and making it move by using oars. English = rowing."
   ],
   "idGloss": "row.1",
-  "oldEntry": "Popular explanation: a rowing action."
+  "oldEntry": "Popular explanation: a rowing action.",
+  "seeAlso": [
+    "rowboat"
+  ]
 }

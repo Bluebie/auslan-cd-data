@@ -12,9 +12,9 @@
     "syn2",
     "deictic2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "here",
     "this"
@@ -24,10 +24,9 @@
     "2. Used alone or next to a noun to refer to a person or thing which has been mentioned already in a conversation and is close in time, importance or relevance to the signer. English = this.",
     "."
   ],
-  "cf": [],
   "signNumber": 794,
   "recordNumber": 451,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -42,8 +41,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "here.1a",
-  "oldEntry": "Popular explanation: culturally shared pointing gesture."
+  "oldEntry": "Popular explanation: culturally shared pointing gesture.",
+  "seeAlso": []
 }

@@ -14,19 +14,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "figure",
     "shape",
     "shapely"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3803,
   "recordNumber": 2259,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. To give a particular object, usually one made of a soft substance, a certain shape. English = shape."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The appearance of the outside edges of a person, usually a woman. English = figure.",
     "2. The appearance of the outside edges of an object. English = figure, shape."
   ],
   "idGloss": "figure.1a",
-  "oldEntry": "Popular explanation: the outline of a shapely female figure."
+  "oldEntry": "Popular explanation: the outline of a shapely female figure.",
+  "seeAlso": []
 }

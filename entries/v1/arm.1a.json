@@ -7,17 +7,16 @@
     "transp",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "arm"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3520,
   "recordNumber": 2062,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The long part of your body that is attached to your shoulder and has a hand at the end. You have two of them. English = arm."
   ],
   "idGloss": "arm.1a",
-  "oldEntry": "Popular explanation: the arm."
+  "oldEntry": "Popular explanation: the arm.",
+  "seeAlso": []
 }

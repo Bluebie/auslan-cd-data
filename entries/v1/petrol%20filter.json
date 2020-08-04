@@ -7,14 +7,13 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "petrol filter"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1899,
   "recordNumber": 1136,
   "signVisualComposition": "PETROL + FILTER",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device in a petrol powered engine through which petrol flows and particles and impurities are removed. English = petrol filter."
   ],
   "idGloss": "petrol filter",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

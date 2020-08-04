@@ -17,18 +17,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "pass",
     "approval",
     "approve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 943,
   "recordNumber": 542,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -48,11 +47,12 @@
     "2. To agree to a plan or a request because it meets official or formal standards. English = approve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mark you get in an exam or test which means you have got an acceptable standard, usually by getting more than half of the answers right. English = pass.",
     "2. Agreement which is given to a plan or a request, particularly because it meets official or formal standards. English = approval."
   ],
   "idGloss": "pass.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

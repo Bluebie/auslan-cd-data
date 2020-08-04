@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "certificate",
     "form",
@@ -25,10 +25,9 @@
     "certificated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1451,
   "recordNumber": 864,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 14,
@@ -45,11 +44,12 @@
     "2. To be given or awarded a certificate. English = (be) certificated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An official document that you receive when you have successfully completed a course of study or training. English = certificate.",
     "2. A piece of paper with questions on it. You write the answers on the same piece of paper. English = form."
   ],
   "idGloss": "certificate.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

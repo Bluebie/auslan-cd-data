@@ -11,17 +11,16 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rewind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4851,
   "recordNumber": 2932,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "2. To go back and repeat what has been said in order to make something clear, or because someone else has joined the conversation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "rewind.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,8 +15,8 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "film",
     "movie",
@@ -24,10 +24,9 @@
     "cinema"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2925,
   "recordNumber": 1658,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -42,11 +41,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Moving pictures that have been recorded so that they can be shown in a cinema or on television. English = film, films, movie, movies, picture, pictures.",
     "2. A theatre where moving pictures are shown. English = cinema. Informal English = pictures."
   ],
   "idGloss": "film.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

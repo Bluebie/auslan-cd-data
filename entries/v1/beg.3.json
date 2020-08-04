@@ -13,18 +13,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dog",
     "beg"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3934,
   "recordNumber": 2345,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "1. Of a dog, to sit on your hind legs and raise your forelegs. English = beg."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog."
   ],
   "idGloss": "beg.3",
-  "oldEntry": "Popular explanation: assuming the stance of a begging dog."
+  "oldEntry": "Popular explanation: assuming the stance of a begging dog.",
+  "seeAlso": []
 }

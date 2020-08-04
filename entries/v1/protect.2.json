@@ -14,9 +14,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "protection",
     "protect",
@@ -24,10 +24,9 @@
     "defend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4870,
   "recordNumber": 2946,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "1. To prevent someone or something from being harmed or damaged. English = protect, defend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that prevents people or things from being harmed or damaged. English = protection, defence."
   ],
   "idGloss": "protect.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

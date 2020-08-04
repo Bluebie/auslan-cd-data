@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "IMAGINATION + I",
   "queries": "Especially considered to be a genuine sign by some South Australian informants.",
   "english": [
     "opinion"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 15,
   "recordNumber": 11,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ideas and thoughts you have about a certain subject or topic; the beliefs or views that a person has. English = opinion."
   ],
   "idGloss": "opinion.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

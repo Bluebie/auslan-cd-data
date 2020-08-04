@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sit",
     "sit on",
@@ -29,10 +29,9 @@
     "seat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1797,
   "recordNumber": 1084,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -52,12 +51,13 @@
     "1. To be on something, such as a chair, so that your weight is supported by your buttocks rather than your feet, and the upper part of your body is upright. English = sit, sit on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is sitting down, a seated person.",
     "2. A piece of furniture for one person to sit on, with a back and four legs. English = chair.",
     "3. An object you can sit on, for example a chair. English = seat."
   ],
   "idGloss": "sit.on",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

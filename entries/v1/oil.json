@@ -16,9 +16,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oil",
     "lubricant",
@@ -27,10 +27,9 @@
     "lubricate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5529,
   "recordNumber": 3271,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,7 +43,7 @@
     "2. To put oil on a part of a machine to that it moves smoothly. English = lubricate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A smooth, sticky liquid that is used as a fuel and for lubricating machines. English = oil.",
     "2. Oil that you put on a part of a machine so that it moves smoothly. English = lubricant.",
@@ -52,5 +51,6 @@
     "4. A can for holding oil, with a long spout or nozzle through which the oil is squirted to lubricate machinery. English = oil can."
   ],
   "idGloss": "oil",
-  "oldEntry": "Popular explanation: operating a thumb press oiling can."
+  "oldEntry": "Popular explanation: operating a thumb press oiling can.",
+  "seeAlso": []
 }

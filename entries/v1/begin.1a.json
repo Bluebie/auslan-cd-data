@@ -14,18 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "begin",
     "start"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 978,
   "recordNumber": 565,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "1. To begin or start something, especially a race, game or match."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The first part of something, especially a race, game or match. English = beginning, start."
   ],
   "idGloss": "begin.1a",
-  "oldEntry": "Popular explanation: signalling the beginning of a race."
+  "oldEntry": "Popular explanation: signalling the beginning of a race.",
+  "seeAlso": []
 }

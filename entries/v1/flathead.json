@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flathead"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4019,
   "recordNumber": 2405,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 3,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A species of elongated fish that lives on the sea bottom in Australian waters and which is eaten as food and caught recreationally. They have depressed, ridged heads. English = flathead."
   ],
   "idGloss": "flathead",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

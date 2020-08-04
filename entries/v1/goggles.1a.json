@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "goggles"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5360,
   "recordNumber": 3201,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 4,
@@ -34,10 +33,11 @@
     "1. To put on or wear goggles."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Large glasses that fit closely to your face around your eyes to protect them from such things as water, wind, or sparks. English = goggles."
   ],
   "idGloss": "goggles.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

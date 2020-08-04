@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sugar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3240,
   "recordNumber": 1885,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet substance, often in the form of white or brown crystals, which is used to sweeten food and drink. English = sugar."
   ],
   "idGloss": "sugar.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

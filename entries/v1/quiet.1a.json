@@ -18,9 +18,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "quiet",
     "silence",
@@ -31,10 +31,9 @@
     "silently"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 620,
   "recordNumber": 358,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -55,10 +54,11 @@
     "1. To have very little noise in a place. English = (be) quiet, (be) silent; (be) still."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition or state in which there is no noise at all, and especially no talking; or in which there is no commotion. English = quiet, silence, stillness."
   ],
   "idGloss": "quiet.1a",
-  "oldEntry": "Popular explanation: culturally shared gesture."
+  "oldEntry": "Popular explanation: culturally shared gesture.",
+  "seeAlso": []
 }

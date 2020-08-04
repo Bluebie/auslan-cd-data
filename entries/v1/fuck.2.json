@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fuck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4607,
   "recordNumber": 2789,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -38,8 +37,9 @@
     "1. To have sex with someone. A vulgar sign to be used with caution. Vulgar English = fuck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "fuck.2",
-  "oldEntry": "Popular explanation: forcefully grabbing someone around the waist."
+  "oldEntry": "Popular explanation: forcefully grabbing someone around the waist.",
+  "seeAlso": []
 }

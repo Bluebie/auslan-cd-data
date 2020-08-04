@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "throat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 656,
   "recordNumber": 382,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The back of your mouth and the top part of the tubes inside your neck that go down into your stomach and your lungs; the front part of your neck. English = throat."
   ],
   "idGloss": "throat",
-  "oldEntry": "Popular explanation: pointing to the throat."
+  "oldEntry": "Popular explanation: pointing to the throat.",
+  "seeAlso": []
 }

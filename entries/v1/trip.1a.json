@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trip",
     "wanderings",
     "wander"
   ],
   "deictic": [],
-  "cf": [
-    "tour"
-  ],
   "signNumber": 1775,
   "recordNumber": 1070,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,11 +37,14 @@
     "2. To walk around a place in a casual way. English = wander about."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A journey in which you visit several places. English = trip.",
     "2. Journeys that a person makes from place to place without staying in one place for a long time, or without a particular destination in mind. English = wanderings."
   ],
   "idGloss": "trip.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tour"
+  ]
 }

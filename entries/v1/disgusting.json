@@ -13,19 +13,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disgusting",
     "horrible",
     "revolting"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2838,
   "recordNumber": 1598,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +42,9 @@
     "1. Of food, to taste, look or smell extremely unpleasant. English = (be) disgusting, (be) horrible, (be) revolting."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "disgusting",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

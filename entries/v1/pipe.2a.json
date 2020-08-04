@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pipe",
     "pole",
@@ -29,10 +29,9 @@
     "diploma"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 179,
   "recordNumber": 101,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -53,5 +52,6 @@
     "3. A qualification gained by passing a course of study at a university or college. English = degree, diploma."
   ],
   "idGloss": "pipe.2a",
-  "oldEntry": "Popular explanation: the outline of a pipe."
+  "oldEntry": "Popular explanation: the outline of a pipe.",
+  "seeAlso": []
 }

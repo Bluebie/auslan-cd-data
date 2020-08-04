@@ -15,9 +15,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "basin",
     "washbasin",
@@ -25,12 +25,9 @@
     "tub"
   ],
   "deictic": [],
-  "cf": [
-    "dish"
-  ],
   "signNumber": 4628,
   "recordNumber": 2803,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -48,5 +45,8 @@
     "3. A large basin with taps that supply water which is used for washing clothes or dishes. English = sink, tub."
   ],
   "idGloss": "basin",
-  "oldEntry": "Popular explanation: the outline and form of a basin."
+  "oldEntry": "Popular explanation: the outline and form of a basin.",
+  "seeAlso": [
+    "dish"
+  ]
 }

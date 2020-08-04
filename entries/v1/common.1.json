@@ -16,9 +16,9 @@
     "engtf4",
     "ant1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HEAR + FIFTY",
-  "queries": "",
+  "queries": null,
   "english": [
     "common knowledge",
     "common",
@@ -26,10 +26,9 @@
     "used to"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2447,
   "recordNumber": 1357,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -48,10 +47,11 @@
     "3. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences and, consequently, to be of little interest or to be not surprising. English = (be) used to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Things or facts which are known by everybody and not special in any way. English = common knowledge."
   ],
   "idGloss": "common.1",
-  "oldEntry": "Popular explanation: having heard something fifty times."
+  "oldEntry": "Popular explanation: having heard something fifty times.",
+  "seeAlso": []
 }

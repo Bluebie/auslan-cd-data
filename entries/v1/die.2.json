@@ -19,9 +19,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "death",
     "die",
@@ -30,10 +30,9 @@
     "deceased"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2034,
   "recordNumber": 1191,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -55,10 +54,11 @@
     "4. Of people, plants and animals, to be no longer living, to have stopped living. English = (be) dead, (be) deceased."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The end of the life of a person or an animal. English = death."
   ],
   "idGloss": "die.2",
-  "oldEntry": "Popular explanation: the legs in a posture of repose."
+  "oldEntry": "Popular explanation: the legs in a posture of repose.",
+  "seeAlso": []
 }

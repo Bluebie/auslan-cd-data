@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
+  "blend": null,
   "queries": "This sign originated in the Catholic schools for the deaf but has gained widespread acceptance and use.",
   "english": [
     "Saturday"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6289,
   "recordNumber": 3758,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the seven days of the week. It is the day after Friday and the day before Sunday. English = Saturday."
   ],
   "idGloss": "Saturday",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

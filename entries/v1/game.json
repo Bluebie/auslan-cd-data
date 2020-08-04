@@ -13,20 +13,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "game",
     "activity"
   ],
   "deictic": [],
-  "cf": [
-    "sport.1a"
-  ],
   "signNumber": 4846,
   "recordNumber": 2929,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -37,11 +34,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An activity or sport involving skill, knowledge, or chance, in which you follow rules and try to win against an opponent or try to solve a puzzle. English = game.",
     "2. Something that you spend time doing usually for pleasure, amusement or in educational settings. English = activity."
   ],
   "idGloss": "game",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sport.1a"
+  ]
 }

@@ -21,9 +21,9 @@
     "engtf10",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "clothes",
     "clothing",
@@ -37,12 +37,9 @@
     "dress up"
   ],
   "deictic": [],
-  "cf": [
-    "dress.1a"
-  ],
   "signNumber": 2651,
   "recordNumber": 1469,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -57,11 +54,14 @@
     "3. [Especially with rounded lips and a sucking action], to put on special clothes for a special occasion. English = dress up, get dressed up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The things that people wear, such as shirts, coats, trousers, and dresses. English = clothes, clothing. Formal English = garments.",
     "2. Clothes that people wear, especially on a formal occasion. Formal English = apparel."
   ],
   "idGloss": "clothes.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dress.1a"
+  ]
 }

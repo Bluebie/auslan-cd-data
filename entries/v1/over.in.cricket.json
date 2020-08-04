@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "over"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3878,
   "recordNumber": 2306,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,11 +28,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In cricket, the number of balls delivered between successive changes of bowlers. English = over.",
     "2. In cricket, the part of the game played between successive changes of bowlers. English = over."
   ],
   "idGloss": "over.in.cricket",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

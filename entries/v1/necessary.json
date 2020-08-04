@@ -9,18 +9,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "necessity",
     "necessary"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5673,
   "recordNumber": 3361,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To be needed in order to get the result that is wanted. English = (be) necessary."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that needs to be done, or something that is needed in order for something else to be done. English = necessity."
   ],
   "idGloss": "necessary",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

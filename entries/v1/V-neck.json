@@ -12,18 +12,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "v-neck",
     "shirt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5131,
   "recordNumber": 3099,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The neck on a pullover, dress, shirt, etc.,  that is inn the shape of the letter V. English = V-neck.",
     "2. A piece of clothing that you wear on the upper part of your body. It has a collar, sleeves, and buttons down the front. English = shirt."
   ],
   "idGloss": "V-neck",
-  "oldEntry": "Popular explanation: the outline of a v-neck."
+  "oldEntry": "Popular explanation: the outline of a v-neck.",
+  "seeAlso": []
 }

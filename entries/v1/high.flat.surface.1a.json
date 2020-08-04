@@ -17,20 +17,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shelf",
     "ledge"
   ],
   "deictic": [],
-  "cf": [
-    "horizontal"
-  ],
   "signNumber": 3701,
   "recordNumber": 2182,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -54,5 +51,8 @@
     "2. A narrow, flat place along the bottom edge of a high window or high up in the side of a mountain or cliff. English = ledge."
   ],
   "idGloss": "high.flat.surface.1a",
-  "oldEntry": "Popular explanation: the level of a high flat surfaces."
+  "oldEntry": "Popular explanation: the level of a high flat surfaces.",
+  "seeAlso": [
+    "horizontal"
+  ]
 }

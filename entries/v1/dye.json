@@ -13,20 +13,16 @@
     "cf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "dye",
     "dunk"
   ],
   "deictic": [],
-  "cf": [
-    "tea bag",
-    "laundry.1a"
-  ],
   "signNumber": 409,
   "recordNumber": 226,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -40,10 +36,14 @@
     "2. To hold something small and put it into a liquid. English = dunk."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substance which is mixed into a liquid and is used to change the colour of something such as clothing or hair. English = dye."
   ],
   "idGloss": "dye",
-  "oldEntry": "Popular explanation: dunking material in dye."
+  "oldEntry": "Popular explanation: dunking material in dye.",
+  "seeAlso": [
+    "tea bag",
+    "laundry.1a"
+  ]
 }

@@ -13,9 +13,9 @@
     "engtf4",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "life",
     "live",
@@ -23,10 +23,9 @@
     "living"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3453,
   "recordNumber": 2015,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,7 +40,7 @@
     "1. To be not dead; to have life. English = live, (be) alive, (be) living."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality which people, animals, and plants have when they are not dead and which objects and substances do not have; the state of being alive. English = life.",
     "2. The period of time during which something (usually a person) is alive. English = life.",
@@ -49,5 +48,6 @@
     "4. People who are living or alive, as opposed to those who are dead or who have died. English = the living."
   ],
   "idGloss": "living.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

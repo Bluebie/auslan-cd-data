@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "since"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2824,
   "recordNumber": 1585,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -31,8 +30,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "many.since",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

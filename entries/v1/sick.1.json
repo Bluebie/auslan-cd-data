@@ -16,9 +16,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sickness",
     "illness",
@@ -26,10 +26,9 @@
     "ill"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 826,
   "recordNumber": 473,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 2,
@@ -48,10 +47,11 @@
     "3. Of acts, stories, or jokes, to deal with death, cruelty, or suffering in a frivolous way. English = (be) sick, (be) disgusting, (be) distasteful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The experience of having a disease or a health problem which makes you unable to work or to live normally for a period of time, particularly if it happens suddenly or lasts for only a short time. English = sickness, illness."
   ],
   "idGloss": "sick.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

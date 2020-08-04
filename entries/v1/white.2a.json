@@ -15,18 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "white",
     "whiten"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 295,
   "recordNumber": 170,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -46,10 +45,11 @@
     "2. To become white. English = whiten."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lightest colour that there is, the colour of snow and milk. English = white."
   ],
   "idGloss": "white.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

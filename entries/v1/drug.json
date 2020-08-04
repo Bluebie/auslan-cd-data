@@ -13,21 +13,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drug"
   ],
   "deictic": [],
-  "cf": [
-    "medicine",
-    "pill",
-    "take.tablet.1a"
-  ],
   "signNumber": 5858,
   "recordNumber": 3483,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -40,11 +35,16 @@
     "1. To give a chemical substance to a person or animal. English = drug."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A chemical which is given to people in order to treat or prevent an illness or disease. English = drug.",
     "2. Substances that some people smoke or inject into their blood because of their stimulating effects. In most countries, these uses are illegal. English = drugs."
   ],
   "idGloss": "drug",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "medicine",
+    "pill",
+    "take.tablet.1a"
+  ]
 }

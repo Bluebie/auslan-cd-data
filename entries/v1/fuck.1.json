@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A vulgar sign to be used with caution.",
   "english": [
     "fuck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1114,
   "recordNumber": 656,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "1. To have sex with someone, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sexual act between two people, especially sex which involves penetration with a penis. A crude and silly sign which most signers find offensive and associate with sniggering adolescents. English = fuck."
   ],
   "idGloss": "fuck.1",
-  "oldEntry": "Popular explanation: the act of sexual penetration."
+  "oldEntry": "Popular explanation: the act of sexual penetration.",
+  "seeAlso": []
 }

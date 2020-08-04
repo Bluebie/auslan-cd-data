@@ -14,8 +14,8 @@
     "engtf4"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "whisky",
     "whiskey",
@@ -23,10 +23,9 @@
     "scotch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5026,
   "recordNumber": 3033,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -39,11 +38,12 @@
     "1. To open a bottle of whisky or spirits."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong alcoholic drink made from grain such as barley or rye, especially in Scotland. English = whisky, whiskey, scotch.",
     "2. A strong alcoholic drink, such as whisky and gin. English = spirits."
   ],
   "idGloss": "whisky",
-  "oldEntry": "Popular explanation: uncorking a bottle."
+  "oldEntry": "Popular explanation: uncorking a bottle.",
+  "seeAlso": []
 }

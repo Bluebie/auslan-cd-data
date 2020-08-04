@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "variable",
     "vary"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 992,
   "recordNumber": 574,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "3. Of a person's mental or physical state, to be constantly changing from better to worse. Overall, it is not very good. Idiomatic English = (be) up and down, (be) so so, (be) fifty-fifty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "variable.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

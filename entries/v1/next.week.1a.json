@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "week",
     "next week"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1027,
   "recordNumber": 602,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -35,11 +34,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The next calendar week after the week of speaking. English = next week.",
     "2. A period of seven days after another specified day in the past or future."
   ],
   "idGloss": "next.week.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stratification",
     "stratified"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3664,
   "recordNumber": 2159,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "1. Especially of an organisation or society, to have lots of strata or levels. English = (be) stratified."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of making levels or the way in which something, especially an organisation or a society, is divided up into levels. English = stratification."
   ],
   "idGloss": "stratification",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

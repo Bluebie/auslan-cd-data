@@ -9,21 +9,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "false teeth",
     "dentures"
   ],
   "deictic": [],
-  "cf": [
-    "tooth",
-    "teeth"
-  ],
   "signNumber": 2935,
   "recordNumber": 1667,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,10 +30,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Artificial teeth used by people who no longer have all their own teeth. English = false teeth, dentures."
   ],
   "idGloss": "dentures",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tooth",
+    "teeth"
+  ]
 }

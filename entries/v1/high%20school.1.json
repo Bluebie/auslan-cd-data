@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HIGH + SCHOOL",
-  "queries": "",
+  "queries": null,
   "english": [
     "high school"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3169,
   "recordNumber": 1838,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A school for people aged between eleven and eighteen. English = high school."
   ],
   "idGloss": "high school.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

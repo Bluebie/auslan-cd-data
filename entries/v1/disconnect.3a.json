@@ -8,19 +8,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disconnect",
     "unfasten",
     "detach"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1454,
   "recordNumber": 867,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -35,8 +34,9 @@
     "1. Of two things or people, to suddenly become apart from each other after having been attached or joined in some way. English = disconnect, unfasten, detach."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "disconnect.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,17 +12,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SCIENCE + E",
-  "queries": "",
+  "queries": null,
   "english": [
     "experiment"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 134,
   "recordNumber": 72,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
     "1. To carry out a scientific test in order to prove or discover something or to try out a new idea or method in order to see what happens. English = experiment."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A scientific test which is done in order to prove or discover something. English = experiment.",
     "2. The trying out of a new idea or method to see what effect it has. English = experiment."
   ],
   "idGloss": "experiment",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

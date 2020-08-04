@@ -7,17 +7,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "reverse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3396,
   "recordNumber": 1985,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "1. To move in reverse in a vehicle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "reverse.in.vehicle.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

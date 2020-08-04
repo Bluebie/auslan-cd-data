@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "characters"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1649,
   "recordNumber": 980,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A letter, number, or other symbol of Chinese or related languages that is written or printed. English = characters, Chinese characters, ideographic writing."
   ],
   "idGloss": "characters.2",
-  "oldEntry": "Popular explanation: the criss-crossing lines and brush strokes of a Chinese character."
+  "oldEntry": "Popular explanation: the criss-crossing lines and brush strokes of a Chinese character.",
+  "seeAlso": []
 }

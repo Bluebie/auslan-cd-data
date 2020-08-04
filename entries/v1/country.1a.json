@@ -11,9 +11,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "country",
     "nation",
@@ -21,10 +21,9 @@
     "countryside"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3145,
   "recordNumber": 1821,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -35,12 +34,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A political area into which the world is divided. It has its own government, people, language, culture, and land. English = country, nation.",
     "2. The country or nation that a person belongs to . English = nationality.",
     "3. Land which is away from towns and cities. English = country, countryside"
   ],
   "idGloss": "country.1a",
-  "oldEntry": "Popular explanation: saluting the flag."
+  "oldEntry": "Popular explanation: saluting the flag.",
+  "seeAlso": []
 }

@@ -11,21 +11,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "neck",
     "throat"
   ],
   "deictic": [],
-  "cf": [
-    "voice.1",
-    "thirsty.1a"
-  ],
   "signNumber": 4503,
   "recordNumber": 2737,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,11 +32,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body which joins your head to the rest of your body. English = neck.",
     "2. The front part of your neck. English = throat."
   ],
   "idGloss": "neck.1a",
-  "oldEntry": "Popular explanation: the neck."
+  "oldEntry": "Popular explanation: the neck.",
+  "seeAlso": [
+    "voice.1",
+    "thirsty.1a"
+  ]
 }

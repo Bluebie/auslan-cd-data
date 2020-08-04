@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pink"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 607,
   "recordNumber": 349,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -37,10 +36,11 @@
     "1. To be or have the colour half way between red and white. English = (be) pink."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The colour half way between red and white. English = pink."
   ],
   "idGloss": "pink.2a",
-  "oldEntry": "Popular explanation: the pink of the lips."
+  "oldEntry": "Popular explanation: the pink of the lips.",
+  "seeAlso": []
 }

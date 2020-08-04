@@ -12,9 +12,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottom",
     "buttocks",
@@ -22,13 +22,9 @@
     "bum"
   ],
   "deictic": [],
-  "cf": [
-    "bottom.1",
-    "bottom.2"
-  ],
   "signNumber": 3503,
   "recordNumber": 2049,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -41,10 +37,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body that you sit on. English = bottom, buttocks. Formal English = posterior. Informal English = bum."
   ],
   "idGloss": "posterior",
-  "oldEntry": "Popular explanation: the bottom."
+  "oldEntry": "Popular explanation: the bottom.",
+  "seeAlso": [
+    "bottom.1",
+    "bottom.2"
+  ]
 }

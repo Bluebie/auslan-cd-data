@@ -15,22 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tie",
     "necktie"
   ],
   "deictic": [],
-  "cf": [
-    "bow tie.1a",
-    "bow tie.2",
-    "suit"
-  ],
   "signNumber": 5467,
   "recordNumber": 3248,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 14,
@@ -45,10 +40,15 @@
     "1. To put on or wear a tie."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, narrow piece of cloth that is worn around someone's neck under their shirt collar and tied in a knot at the front. It is worn mainly by men. English = tie, necktie."
   ],
   "idGloss": "tie.1a",
-  "oldEntry": "Popular explanation: the outline of a necktie."
+  "oldEntry": "Popular explanation: the outline of a necktie.",
+  "seeAlso": [
+    "bow tie.1a",
+    "bow tie.2",
+    "suit"
+  ]
 }

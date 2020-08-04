@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "meeting",
     "meet"
   ],
   "deictic": [],
-  "cf": [
-    "conference.1a"
-  ],
   "signNumber": 909,
   "recordNumber": 520,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -36,10 +33,13 @@
     "1. Of two people, to both go separately to the same place at the same time so that you can talk or do something together. English = meet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An event at which you meet someone. English = meeting."
   ],
   "idGloss": "meet.1a",
-  "oldEntry": "Popular explanation: two persons approaching each other."
+  "oldEntry": "Popular explanation: two persons approaching each other.",
+  "seeAlso": [
+    "conference.1a"
+  ]
 }

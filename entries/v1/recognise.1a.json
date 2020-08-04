@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "KNOW + YOU",
-  "queries": "",
+  "queries": null,
   "english": [
     "recognise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4709,
   "recordNumber": 2845,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -41,8 +40,9 @@
     "1. To know someone or something because you have seen or heard them before or because someone has described them to you. English = recognise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "recognise.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

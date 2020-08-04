@@ -9,15 +9,14 @@
     "engtf2",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "absence",
     "absent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2571,
   "recordNumber": 1417,
   "signVisualComposition": "HERE + 'NOT'",
@@ -35,10 +34,11 @@
     "1. To be not at a place, to be not there. English = (be) absent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact that someone is not at a place. English = absence."
   ],
   "idGloss": "absent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

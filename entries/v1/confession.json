@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "confession",
     "confessional",
     "confess"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4655,
   "recordNumber": 2814,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. To tell a priest about your sins and ask for forgiveness. English = confess. Idiomatic English = make a confession."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A religious act in which you tell a priest about your sins and ask for forgiveness. English = confession.",
     "2. A small room in a church where Christians, especially Roman Catholics, go to confess their sins. English = confessional."
   ],
   "idGloss": "confession",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

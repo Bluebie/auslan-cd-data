@@ -13,19 +13,15 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "agenda",
     "sequence",
     "order"
   ],
   "deictic": [],
-  "cf": [
-    "list.1",
-    "next.one.1a"
-  ],
   "signNumber": 4915,
   "recordNumber": 2969,
   "signVisualComposition": "LIST + NEXT.ONE",
@@ -41,11 +37,15 @@
     "1. To work through, or go through the list of items that have to be discussed at a meeting."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A list of the items that have to be discussed at a meeting. English = agenda.",
     "2. A number of events or things that come one after another in a particular way or at a particular time. English = sequence, order."
   ],
   "idGloss": "agenda",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "list.1",
+    "next.one.1a"
+  ]
 }

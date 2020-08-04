@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "CULTURE + A",
-  "queries": "",
+  "queries": null,
   "english": [
     "anthropology"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4888,
   "recordNumber": 2954,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The scientific study of people, society, and culture. English = anthropology."
   ],
   "idGloss": "anthropology",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

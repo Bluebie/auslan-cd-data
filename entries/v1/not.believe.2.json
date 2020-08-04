@@ -14,15 +14,14 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "disbelief",
     "not believe",
     "disbelieve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5823,
   "recordNumber": 3460,
   "signVisualComposition": "BELIEVE + 'NOT'",
@@ -42,10 +41,11 @@
     "1. To not think that something is true; to think that something is false. English = not believe, disbelieve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The thought that something is not true, or false. English = disbelief."
   ],
   "idGloss": "not.believe.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

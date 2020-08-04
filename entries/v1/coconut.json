@@ -9,16 +9,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "coconut"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2997,
   "recordNumber": 1708,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 8,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very large nut with a hairy shell, which has white flesh and milky juice inside it. English = coconut."
   ],
   "idGloss": "coconut",
-  "oldEntry": "Popular explanation: shaking a coconut."
+  "oldEntry": "Popular explanation: shaking a coconut.",
+  "seeAlso": []
 }

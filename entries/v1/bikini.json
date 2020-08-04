@@ -9,19 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bikini"
   ],
   "deictic": [],
-  "cf": [
-    "bra.1a"
-  ],
   "signNumber": 4585,
   "recordNumber": 2777,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -34,10 +31,13 @@
     "1. To wear a bikini."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A two-piece swimming costume worn by women.  English = bikini."
   ],
   "idGloss": "bikini",
-  "oldEntry": "Popular explanation: the outline of the two-piece bikini."
+  "oldEntry": "Popular explanation: the outline of the two-piece bikini.",
+  "seeAlso": [
+    "bra.1a"
+  ]
 }

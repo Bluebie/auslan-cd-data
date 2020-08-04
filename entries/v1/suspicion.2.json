@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "suspicion",
     "suspect",
     "suspicious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4963,
   "recordNumber": 2998,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,10 +35,11 @@
     "1. To lack trust in someone or to think that something is wrong in some way; to feel that something is probably true (especially someone's guilt) or is likely to happen. English = suspect, (be) suspicious of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling that you do not trust someone or that something is wrong in some way; a feeling that something is probably true (especially if it involves the guilt of someone) or is likely to happen. English = suspicion."
   ],
   "idGloss": "suspicion.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

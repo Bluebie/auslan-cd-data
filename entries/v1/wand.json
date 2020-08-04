@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6106,
   "recordNumber": 3633,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To wave a wand as part of performing magic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long thin rod that magicians wave when they are performing tricks and magic. In children's stories, fairies also use one when doing magic. English = wand."
   ],
   "idGloss": "wand",
-  "oldEntry": "Popular explanation: waving a wand about."
+  "oldEntry": "Popular explanation: waving a wand about.",
+  "seeAlso": []
 }

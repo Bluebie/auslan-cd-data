@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "use"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4779,
   "recordNumber": 2890,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
     "1. To do something with an object in order to do a job or to achieve something. English = use."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The purpose for which a thing is normally made, or the purpose to which a thing is normally put. English = use."
   ],
   "idGloss": "use.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

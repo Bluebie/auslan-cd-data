@@ -15,21 +15,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "theatre",
     "theatrical"
   ],
   "deictic": [],
-  "cf": [
-    "drama",
-    "perform.1a"
-  ],
   "signNumber": 6534,
   "recordNumber": 3889,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,11 +41,15 @@
     "2. Of behaviour, to be exaggerated, unnatural, and done deliberately for effect. English = (be) theatrical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building with a stage on which plays and other entertainments are performed. English = theatre.",
     "2. The activity of acting in, producing, and writing plays. English = theatre."
   ],
   "idGloss": "theatre",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "drama",
+    "perform.1a"
+  ]
 }

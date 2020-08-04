@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "funeral",
     "cortege"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2036,
   "recordNumber": 1192,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. To travel in a procession of people who are walking or riding in cars to a funeral."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A ceremony that is held when the body of someone who has died is buried or cremated. English = funeral.",
     "2. A procession of people who are walking or riding in cars to a funeral. English = cortege."
   ],
   "idGloss": "funeral.1a",
-  "oldEntry": "Popular explanation: the line of a funeral cortege."
+  "oldEntry": "Popular explanation: the line of a funeral cortege.",
+  "seeAlso": []
 }

@@ -7,17 +7,16 @@
     "twohand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A repeated located form of this sign (along a time line) means 'every year' or 'yearly'.",
   "english": [
     "year"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1157,
   "recordNumber": 681,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of 365 or 366 days, beginning on the first of January and ending on the thirty-first of December. It is made up of twelve months. English = year."
   ],
   "idGloss": "year.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

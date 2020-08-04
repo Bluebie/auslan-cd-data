@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "broom",
     "sweep"
   ],
   "deictic": [],
-  "cf": [
-    "mop"
-  ],
   "signNumber": 5833,
   "recordNumber": 3468,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
     "1. To clean the floor using a broom. English = sweep."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of brush with a long handle. You use it for cleaning the floor. English = broom."
   ],
   "idGloss": "sweep.1a",
-  "oldEntry": "Popular explanation: holding and sweeping with a broom."
+  "oldEntry": "Popular explanation: holding and sweeping with a broom.",
+  "seeAlso": [
+    "mop"
+  ]
 }

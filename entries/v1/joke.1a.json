@@ -15,8 +15,8 @@
     "engtf4"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "joke",
     "gag",
@@ -24,13 +24,9 @@
     "jest"
   ],
   "deictic": [],
-  "cf": [
-    "joke.2a",
-    "tease.1"
-  ],
   "signNumber": 5513,
   "recordNumber": 3265,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -44,12 +40,16 @@
     "2. To make fun of people in a gentle but slightly cruel way, especially by telling them things which are not true which they believe. Idiomatic English = pull someone's leg."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is said or done to make you laugh, for example a funny story. English = joke, gag.",
     "2. A person who tells jokes. English = joker.",
     "3. In a pack of cards, a card which does not belong to any of the four suits. English = joker."
   ],
   "idGloss": "joke.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "joke.2a",
+    "tease.1"
+  ]
 }

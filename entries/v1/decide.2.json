@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "decision",
     "decision making",
@@ -28,10 +28,9 @@
     "weigh up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 399,
   "recordNumber": 218,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -50,11 +49,12 @@
     "2. To consider a number of different possibilities and their importance in relation to each other in order to help you make a decision. Idiomatic English = weigh up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A choice that you make about what should be done or about which is the best of various alternatives. English = decision.",
     "2. The act of deciding something. English = decision, decision making."
   ],
   "idGloss": "decide.2",
-  "oldEntry": "Popular explanation: balancing the scales."
+  "oldEntry": "Popular explanation: balancing the scales.",
+  "seeAlso": []
 }

@@ -11,21 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mug",
     "stein"
   ],
   "deictic": [],
-  "cf": [
-    "cup.1a",
-    "drink.1a"
-  ],
   "signNumber": 5611,
   "recordNumber": 3323,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +35,15 @@
     "2. To drink beer from a stein."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, deep cup with straight sides. English = mug.",
     "2. A large mug for drinking beer. English = stein."
   ],
   "idGloss": "mug.1",
-  "oldEntry": "Popular explanation: drinking from a mug while holding on to the handle."
+  "oldEntry": "Popular explanation: drinking from a mug while holding on to the handle.",
+  "seeAlso": [
+    "cup.1a",
+    "drink.1a"
+  ]
 }

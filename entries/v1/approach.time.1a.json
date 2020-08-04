@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "appear",
     "approach"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3590.1,
   "recordNumber": 2109,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -35,8 +34,9 @@
     "3. Of anything in general, to move into your field of vision or to come closer so that it can be better seen. English = appear."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "approach.time.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

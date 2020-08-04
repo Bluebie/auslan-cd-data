@@ -17,20 +17,16 @@
     "cf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "warmth",
     "warm"
   ],
   "deictic": [],
-  "cf": [
-    "hot.1a",
-    "cold"
-  ],
   "signNumber": 5605,
   "recordNumber": 3318,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -46,11 +42,15 @@
     "4. To make something warm or hotter. English = warm, warm up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The moderate amount of heat that something has, for example enough heat to make you feel comfortable. English = warmth.",
     "2. The ability of clothes or blankets to protect you from the cold. English = warmth."
   ],
   "idGloss": "warm.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hot.1a",
+    "cold"
+  ]
 }

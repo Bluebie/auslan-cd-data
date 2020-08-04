@@ -10,19 +10,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BODY + P",
   "queries": "The ASL sign has a double contact beginning at the chest and ending at the waist.",
   "english": [
     "physical"
   ],
   "deictic": [],
-  "cf": [
-    "human"
-  ],
   "signNumber": 1840,
   "recordNumber": 1101,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 2.3,
   "primaryLocation": 14,
@@ -37,8 +34,11 @@
     "1. Qualities, actions, or things which are connected with a person's body, rather than with their mind. English = (be) physical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "physical",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "human"
+  ]
 }

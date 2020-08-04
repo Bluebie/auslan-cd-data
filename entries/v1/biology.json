@@ -14,21 +14,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "biology",
     "biologist"
   ],
   "deictic": [],
-  "cf": [
-    "chemistry.1a",
-    "physics"
-  ],
   "signNumber": 3693,
   "recordNumber": 2178,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -41,11 +37,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The science which is concerned with the study of living things. English = biology.",
     "2. A scientist who studies living things. English = biologist."
   ],
   "idGloss": "biology",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "chemistry.1a",
+    "physics"
+  ]
 }

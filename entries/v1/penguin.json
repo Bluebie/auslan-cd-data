@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "penguin"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3925,
   "recordNumber": 2341,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A black and white flightless sea bird found mainly in the Antarctic. English = penguin."
   ],
   "idGloss": "penguin",
-  "oldEntry": "Popular explanation: the legs and gait of a penguin."
+  "oldEntry": "Popular explanation: the legs and gait of a penguin.",
+  "seeAlso": []
 }

@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ascension",
     "ascend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1722,
   "recordNumber": 1032,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "2. Of a person or soul, to go upwards into heaven. English = ascend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a person, the act of moving up into the air. English = ascension.",
     "2. Of a person or soul, the act of going up into heaven. English = ascension."
   ],
   "idGloss": "ascend",
-  "oldEntry": "Popular explanation: legs rising into the air."
+  "oldEntry": "Popular explanation: legs rising into the air.",
+  "seeAlso": []
 }

@@ -15,21 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "zip",
     "zip up"
   ],
   "deictic": [],
-  "cf": [
-    "fly.3",
-    "fly.3"
-  ],
   "signNumber": 6182,
   "recordNumber": 3691,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -48,8 +44,12 @@
     "2. To put on an item of clothing worn on the torso that has a zip up front such as a jacket, a windcheater, or a track suit top."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "zip.close",
-  "oldEntry": "Popular explanation: doing up a zipper."
+  "oldEntry": "Popular explanation: doing up a zipper.",
+  "seeAlso": [
+    "fly.3",
+    "fly.3"
+  ]
 }

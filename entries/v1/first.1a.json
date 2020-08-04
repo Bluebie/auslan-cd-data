@@ -22,9 +22,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "first-born",
     "first",
@@ -33,12 +33,9 @@
     "eldest"
   ],
   "deictic": [],
-  "cf": [
-    "depends"
-  ],
   "signNumber": 4192,
   "recordNumber": 2537,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -61,12 +58,15 @@
     "3. To be child who is born first in a group of siblings and is thus older than the others. English = (be) first-born, (be) eldest."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person, thing or event that comes before all the others of the same kind; the first thing.",
     "2. Of a group of siblings, the child who is the oldest. English = first-born.",
     "3. A thing of a particular type that you like most or best; a favourite thing."
   ],
   "idGloss": "first.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "depends"
+  ]
 }

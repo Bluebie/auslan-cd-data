@@ -10,17 +10,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with the Two or Eight handshapes.",
   "english": [
     "volleyball"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3533,
   "recordNumber": 2069,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 1,
@@ -33,10 +32,11 @@
     "1. To play volleyball."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game played in which two teams hit a large ball with their hands, backwards and forwards over a high net. If you allow the ball to touch the ground within the court, your team loses a point. English = volleyball."
   ],
   "idGloss": "volleyball.1a",
-  "oldEntry": "Popular explanation: bouncing the volley ball above one's head."
+  "oldEntry": "Popular explanation: bouncing the volley ball above one's head.",
+  "seeAlso": []
 }

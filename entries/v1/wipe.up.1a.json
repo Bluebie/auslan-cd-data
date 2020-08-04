@@ -19,9 +19,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wiping",
     "wiping up",
@@ -31,14 +31,9 @@
     "dry up"
   ],
   "deictic": [],
-  "cf": [
-    "wash.up",
-    "bath.1a",
-    "wash.hands"
-  ],
   "signNumber": 4325,
   "recordNumber": 2636,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,11 +47,16 @@
     "2. To dry plates, knives, forks, and other things with a cloth when they have been washed after a meal. English = wipe up, dry up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of rubbing the surface of something lightly in order to remove dirt or liquid from it. English = wiping.",
     "2. The drying of plates, knives, forks, and other things with a cloth when they have been washed after a meal. English = wiping up, drying up."
   ],
   "idGloss": "wipe.up.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wash.up",
+    "bath.1a",
+    "wash.hands"
+  ]
 }

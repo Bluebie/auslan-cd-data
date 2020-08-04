@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fours",
     "quadruple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2406,
   "recordNumber": 1329,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "1. To make a number or amount four times larger. English = quadruple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In lawn bowls, a competition in which there are four players on each team. English = fours."
   ],
   "idGloss": "quadruple",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

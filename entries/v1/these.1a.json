@@ -6,19 +6,18 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "these"
   ],
   "deictic": [
     "Used alone or next to a noun to refer to people or things which are considered to be close or important to the signer or which have already been mentioned in a conversation and are close in time, importance or relevance to the signer. English = these."
   ],
-  "cf": [],
   "signNumber": 797,
   "recordNumber": 454,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -31,8 +30,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "these.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

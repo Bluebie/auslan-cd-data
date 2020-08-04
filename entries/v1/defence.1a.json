@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "protector",
     "defender",
@@ -33,13 +33,9 @@
     "full-back"
   ],
   "deictic": [],
-  "cf": [
-    "protect.1",
-    "protect.2"
-  ],
   "signNumber": 5766,
   "recordNumber": 3418,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -53,7 +49,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person or thing that protects or defends anything. English = protector, defender, guard.",
     "2. A person who protects famous or important people. English = bodyguard.",
@@ -62,5 +58,9 @@
     "5. In football, hockey or rugby,  the player who plays close to the goal or line that he or she is defending. English = full-back."
   ],
   "idGloss": "defence.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "protect.1",
+    "protect.2"
+  ]
 }

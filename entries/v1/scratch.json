@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scratch",
     "mark",
@@ -28,12 +28,9 @@
     "marked"
   ],
   "deictic": [],
-  "cf": [
-    "rake"
-  ],
   "signNumber": 1509,
   "recordNumber": 899,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,11 +48,14 @@
     "4. To withdraw (a horse, etc.) from the list of entries in a race or competition. English = scratch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small mark on an object which spoils its appearance. English = scratch, mark.",
     "2. A small cut on your skin. English = scratch."
   ],
   "idGloss": "scratch",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "rake"
+  ]
 }

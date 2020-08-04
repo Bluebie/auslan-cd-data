@@ -14,19 +14,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fight"
   ],
   "deictic": [],
-  "cf": [
-    "boxing"
-  ],
   "signNumber": 5739,
   "recordNumber": 3400,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -43,10 +40,13 @@
     "2. To agitate and lobby for something in a way that involves political struggle and confrontation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A confrontation between two or more people in which they try to hurt each other physically, especially by hitting each other with closed fists. English = fight, fist fight."
   ],
   "idGloss": "fight.1a",
-  "oldEntry": "Popular explanation: raised fists."
+  "oldEntry": "Popular explanation: raised fists.",
+  "seeAlso": [
+    "boxing"
+  ]
 }

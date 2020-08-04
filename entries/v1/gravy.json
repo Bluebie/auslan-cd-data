@@ -13,20 +13,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gravy"
   ],
   "deictic": [],
-  "cf": [
-    "tip.into",
-    "science.1a"
-  ],
   "signNumber": 5998,
   "recordNumber": 3571,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,5 +43,9 @@
     "1. A thin savoury sauce that is served with meat. English = gravy."
   ],
   "idGloss": "gravy",
-  "oldEntry": "Popular explanation: pouring something on to a surface."
+  "oldEntry": "Popular explanation: pouring something on to a surface.",
+  "seeAlso": [
+    "tip.into",
+    "science.1a"
+  ]
 }

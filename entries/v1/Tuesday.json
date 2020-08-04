@@ -8,13 +8,12 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Tuesday"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1178,
   "recordNumber": 689,
   "signVisualComposition": "T + T",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the seven days of the week, after Monday and before Wednesday, called Tuesday."
   ],
   "idGloss": "Tuesday",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

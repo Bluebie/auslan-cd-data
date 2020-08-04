@@ -17,18 +17,17 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "worship",
     "idol",
     "idolatry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3545,
   "recordNumber": 2076,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -43,12 +42,13 @@
     "1. To show your respect and admiration for a god, especially by kneeling down or bowing down and praying to it. English = worship."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The showing of respect and admiration for a god, especially by kneeling down or bowing down and praying to it. English = worship.",
     "2. A statue that is worshiped by people who believe that it is a god. English = idol.",
     "3. The practice of worshiping idols. English = idolatry."
   ],
   "idGloss": "worship",
-  "oldEntry": "Popular explanation: bow down to something."
+  "oldEntry": "Popular explanation: bow down to something.",
+  "seeAlso": []
 }

@@ -13,9 +13,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "folder",
     "lap-top computer",
@@ -25,13 +25,9 @@
     "pencil case"
   ],
   "deictic": [],
-  "cf": [
-    "folder.open",
-    "folder.close"
-  ],
   "signNumber": 4150,
   "recordNumber": 2504,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,5 +43,9 @@
     "1. A thin piece of cardboard folded into the shape of a container or cover, in which you can keep documents. English = folder."
   ],
   "idGloss": "folder",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "folder.open",
+    "folder.close"
+  ]
 }

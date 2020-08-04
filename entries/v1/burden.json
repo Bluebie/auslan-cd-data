@@ -12,20 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "burden"
   ],
   "deictic": [],
-  "cf": [
-    "responsibility.1a",
-    "responsibility.2"
-  ],
   "signNumber": 4580,
   "recordNumber": 2773,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 13,
@@ -39,11 +35,15 @@
     "2. To carry something heavy on your shoulders; to carry a burden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which causes you a lot of worry or hard work. English = burden.",
     "2. A heavy load that is difficult to carry. English = burden."
   ],
   "idGloss": "burden",
-  "oldEntry": "Popular explanation: carrying a burden on one's shoulders."
+  "oldEntry": "Popular explanation: carrying a burden on one's shoulders.",
+  "seeAlso": [
+    "responsibility.1a",
+    "responsibility.2"
+  ]
 }

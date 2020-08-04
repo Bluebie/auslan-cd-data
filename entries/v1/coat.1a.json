@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5753,
   "recordNumber": 3408,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
     "1. To put on or wear a coat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing with long sleeves which you wear over your other clothes when you go outside. English = coat."
   ],
   "idGloss": "coat.1a",
-  "oldEntry": "Popular explanation: pulling on a coat."
+  "oldEntry": "Popular explanation: pulling on a coat.",
+  "seeAlso": []
 }

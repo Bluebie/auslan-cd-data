@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hill"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3173,
   "recordNumber": 1841,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An area of land that is higher than the land that surrounds it, but is not as high as a mountain. English = hill."
   ],
   "idGloss": "hill",
-  "oldEntry": "Popular explanation: the shape of a hill."
+  "oldEntry": "Popular explanation: the shape of a hill.",
+  "seeAlso": []
 }

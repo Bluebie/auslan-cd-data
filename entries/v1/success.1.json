@@ -21,9 +21,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "success",
     "achievement",
@@ -35,12 +35,9 @@
     "successful"
   ],
   "deictic": [],
-  "cf": [
-    "champion"
-  ],
   "signNumber": 3338,
   "recordNumber": 1949,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -60,12 +57,15 @@
     "3. To defeat or beat other people in a race or competition of some sort. English = win."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of doing something, or causing it to happen, especially after a lot of effort. English = success, achievement.",
     "2. The person who defeats or beats other people in a race or competition of some sort. English = winner.",
     "3. Someone who does well at things. English = achiever."
   ],
   "idGloss": "success.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "champion"
+  ]
 }

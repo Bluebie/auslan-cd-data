@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "experience",
     "familiarity",
@@ -29,12 +29,9 @@
     "skilled"
   ],
   "deictic": [],
-  "cf": [
-    "take.in.experience"
-  ],
   "signNumber": 4897,
   "recordNumber": 2959,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 3,
@@ -50,11 +47,14 @@
     "2. To have the knowledge and ability to do something well which you acquire through training and experience. English = (be) skilled."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The know-how a person has at a particular job or task because they have done it for a long time. English = experience, familiarity.",
     "2. The knowledge and ability that enables you to do something well. English = skill."
   ],
   "idGloss": "experienced",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "take.in.experience"
+  ]
 }

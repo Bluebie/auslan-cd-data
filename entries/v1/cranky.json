@@ -28,9 +28,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crankiness",
     "grumpiness",
@@ -46,10 +46,9 @@
     "disagreeable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2463,
   "recordNumber": 1369,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -70,7 +69,7 @@
     "4. To pull a face in displeasure at something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being ill-tempered or angry. English = crankiness.",
     "2. The feeling of being bad-tempered and rather miserable. English = grumpiness. Informal English = grouchiness.",
@@ -78,5 +77,6 @@
     "3. The state of being easily annoyed. English = irritability."
   ],
   "idGloss": "cranky",
-  "oldEntry": "Popular explanation: the tensing and slackening mouth."
+  "oldEntry": "Popular explanation: the tensing and slackening mouth.",
+  "seeAlso": []
 }

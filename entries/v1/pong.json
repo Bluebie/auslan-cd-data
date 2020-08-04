@@ -12,21 +12,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pong",
     "stink"
   ],
   "deictic": [],
-  "cf": [
-    "smell.1a",
-    "smell.2"
-  ],
   "signNumber": 6496,
   "recordNumber": 3868,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -43,10 +39,14 @@
     "1. To have a strong or offensive smell. English = stink. Informal English = pong."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An offensive or strong smell. Informal English = pong."
   ],
   "idGloss": "pong",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "smell.1a",
+    "smell.2"
+  ]
 }

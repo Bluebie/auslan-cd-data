@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bowl",
     "dish",
@@ -26,10 +26,9 @@
     "nest"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4629,
   "recordNumber": 2804,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -50,5 +49,6 @@
     "3. A place that a bird makes to lay its eggs in, using things like twigs, leaves, moss, and mud. English = nest."
   ],
   "idGloss": "bowl.1a",
-  "oldEntry": "Popular explanation: the outline and form of a bowl."
+  "oldEntry": "Popular explanation: the outline and form of a bowl.",
+  "seeAlso": []
 }

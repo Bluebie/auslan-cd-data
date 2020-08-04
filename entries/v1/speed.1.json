@@ -13,21 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speeding",
     "speed"
   ],
   "deictic": [],
-  "cf": [
-    "car-park",
-    "fast.1"
-  ],
   "signNumber": 4112,
   "recordNumber": 2471,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,5 +44,9 @@
     "1. The act of moving or travelling very quickly in a vehicle. English = speeding."
   ],
   "idGloss": "speed.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "car-park",
+    "fast.1"
+  ]
 }

@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "credit card"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5995,
   "recordNumber": 3568,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To use or swipe a credit card."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plastic card that you can use to allow you to buy goods on credit or to borrow money. English = credit card."
   ],
   "idGloss": "credit.card",
-  "oldEntry": "Popular explanation: operating a credit card impression machine."
+  "oldEntry": "Popular explanation: operating a credit card impression machine.",
+  "seeAlso": []
 }

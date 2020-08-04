@@ -7,17 +7,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pair up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 902,
   "recordNumber": 517,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. Of two people, to meet and form a deep and strong relationship, usually loving and often sexual, that lasts for a long time. Idiomatic English = pair up with someone; share one's life with someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long and enduring partnership, friendship, or romantic attachment, in which two people share many experiences and do much together."
   ],
   "idGloss": "pair.up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

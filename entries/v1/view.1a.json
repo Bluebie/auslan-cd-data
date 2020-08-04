@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "view",
     "panorama",
     "vista"
   ],
   "deictic": [],
-  "cf": [
-    "look.at.1a"
-  ],
   "signNumber": 1542,
   "recordNumber": 918,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -39,10 +36,13 @@
     "1. To look out at a view, to take in a view."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Everything that you can see from a window or from a high place. English = view, panorama, vista."
   ],
   "idGloss": "view.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "look.at.1a"
+  ]
 }

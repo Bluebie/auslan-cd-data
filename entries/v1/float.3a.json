@@ -6,17 +6,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "float"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3864,
   "recordNumber": 2297,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,8 +28,9 @@
     "1. To lie or move slowly along the surface of a liquid. English = float."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "float.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

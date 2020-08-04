@@ -14,8 +14,8 @@
     "ant1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "complication",
     "complicated",
@@ -23,10 +23,9 @@
     "complicate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3049,
   "recordNumber": 1747,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -42,10 +41,11 @@
     "2. To make something more difficult to understand or deal with. English = complicate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A circumstance that makes a situation harder to deal with or understand. English = complication, complications."
   ],
   "idGloss": "complicated",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

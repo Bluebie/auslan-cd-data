@@ -11,21 +11,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Asia"
   ],
   "deictic": [],
-  "cf": [
-    "Europe",
-    "America.2",
-    "Australia.1"
-  ],
   "signNumber": 4764,
   "recordNumber": 2879,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,10 +33,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the continents or region of the earth extending from Japan in the East to Turkey in the West and from Siberia in the North to India and Indonesia in the south. English = Asia."
   ],
   "idGloss": "Asia.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "Europe",
+    "America.2",
+    "Australia.1"
+  ]
 }

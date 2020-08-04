@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "For a particular toe, point to the relevant finger (your big toe is your thumb).",
   "english": [
     "toe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1223,
   "recordNumber": 722,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Any one of the five moveable parts at the end of your foot. English = toe."
   ],
   "idGloss": "toe.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

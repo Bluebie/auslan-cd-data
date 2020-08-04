@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fan belt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6410.3,
   "recordNumber": 3826,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -33,5 +32,6 @@
     "1. A belt in a car engine that drives the fan which keeps the engine cool. English = fan belt."
   ],
   "idGloss": "fan belt",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

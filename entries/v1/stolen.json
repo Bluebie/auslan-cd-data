@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stealing",
     "theft",
@@ -24,10 +24,9 @@
     "stolen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3480,
   "recordNumber": 2033,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. To have been taken away from you without your permission and without any intention of returning it. English = (be) stolen."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of taking something away from someone without their permission and without intending to return it. English = stealing, theft.",
     "2. Things which have been taken away without permission and without any intention of being returned; things which have been stolen. English = stolen goods."
   ],
   "idGloss": "stolen",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

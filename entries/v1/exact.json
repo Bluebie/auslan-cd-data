@@ -23,9 +23,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ALL + CORRECT",
-  "queries": "",
+  "queries": null,
   "english": [
     "exactitude",
     "precision",
@@ -38,12 +38,9 @@
     "righteousness"
   ],
   "deictic": [],
-  "cf": [
-    "newspaper.2"
-  ],
   "signNumber": 4941,
   "recordNumber": 2987,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -63,11 +60,14 @@
     "2. To behave in a way that is morally good, religious, and praiseworthy. English = (be) righteous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being very accurate, correct in every detail, or careful. English = exactitude, precision, exactness.",
     "2. Behaviour which is morally good, religious, and praiseworthy. English = righteousness."
   ],
   "idGloss": "exact",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "newspaper.2"
+  ]
 }

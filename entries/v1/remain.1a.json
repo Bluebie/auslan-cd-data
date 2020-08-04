@@ -14,19 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "remain",
     "stay",
     "still"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1471,
   "recordNumber": 878,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "1. To be somewhere and not to move away. English = remain, stay."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of being in a place and not moving away."
   ],
   "idGloss": "remain.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "modem"
   ],
   "deictic": [],
-  "cf": [
-    "computer.2"
-  ],
   "signNumber": 6635,
   "recordNumber": 3949,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device which allows one computer to sent information to another computer over a telephone line. English = modem."
   ],
   "idGloss": "modem",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "computer.2"
+  ]
 }

@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pat"
   ],
   "deictic": [],
-  "cf": [
-    "shoulder.1a"
-  ],
   "signNumber": 3319,
   "recordNumber": 1940,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -39,5 +36,8 @@
     "1. A light tap on something lightly, usually with your fingers. English = pat."
   ],
   "idGloss": "pat.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shoulder.1a"
+  ]
 }

@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cot"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2404,
   "recordNumber": 1327,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -35,5 +34,6 @@
     "1. A bed for a baby, with bars or panels round it so that the baby cannot fall out. English = cot."
   ],
   "idGloss": "cot.1a",
-  "oldEntry": "Popular explanation: the bars of cot."
+  "oldEntry": "Popular explanation: the bars of cot.",
+  "seeAlso": []
 }

@@ -12,19 +12,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "preparation",
     "prepare",
     "get ready"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6318,
   "recordNumber": 3771,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 10.3,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "1. To get yourself ready for an action or event that will happen soon. English = prepare, get ready, make ready."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the arrangements and activity that is needed  to be ready for a future event. English = preparation, preparations."
   ],
   "idGloss": "prepare",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

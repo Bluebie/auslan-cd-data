@@ -12,19 +12,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blame",
     "accusation",
     "accuse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3985,
   "recordNumber": 2385,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "1. To say that someone is responsible for something bad happening. English = blame, accuse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The claim that someone is responsible for something bad happening. English = blame, accusation."
   ],
   "idGloss": "blame.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

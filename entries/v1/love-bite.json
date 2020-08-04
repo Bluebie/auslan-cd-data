@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "love-bite"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 67,
   "recordNumber": 39,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -38,10 +37,11 @@
     "2. To be kissed, to be given a kiss."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A red mark left on the neck or face as a result of enthusiastic and passionate kissing and biting. English = love-bite."
   ],
   "idGloss": "love-bite",
-  "oldEntry": "Popular explanation: a mouth kissing the neck."
+  "oldEntry": "Popular explanation: a mouth kissing the neck.",
+  "seeAlso": []
 }

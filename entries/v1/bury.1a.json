@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "funeral",
     "burial",
@@ -29,12 +29,9 @@
     "bury"
   ],
   "deictic": [],
-  "cf": [
-    "coffin.1"
-  ],
   "signNumber": 3950,
   "recordNumber": 2355,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 17,
@@ -49,7 +46,7 @@
     "1. To put the body of a dead person into the ground and cover it with earth. English = bury."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ceremony that takes place when a dead body is put into the ground and covered or burnt. English = funeral.",
     "2. The ceremony that takes place when a dead body is put into the ground and covered. English = burial.",
@@ -57,5 +54,8 @@
     "4. A place where dead people are buried. English = cemetery."
   ],
   "idGloss": "bury.1a",
-  "oldEntry": "Popular explanation: the coffin lowering into the grave, the sides of a grave."
+  "oldEntry": "Popular explanation: the coffin lowering into the grave, the sides of a grave.",
+  "seeAlso": [
+    "coffin.1"
+  ]
 }

@@ -12,21 +12,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mother"
   ],
   "deictic": [],
-  "cf": [
-    "daughter",
-    "son.2",
-    "aunt.1"
-  ],
   "signNumber": 2349.1,
   "recordNumber": 1299,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,10 +36,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The woman who gave birth to you. English = mother."
   ],
   "idGloss": "mother.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "daughter",
+    "son.2",
+    "aunt.1"
+  ]
 }

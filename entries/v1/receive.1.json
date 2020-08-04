@@ -16,9 +16,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "get",
     "obtain",
@@ -26,10 +26,9 @@
     "receive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2707,
   "recordNumber": 1505,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -50,8 +49,9 @@
     "2. To be given something, to get something after it has been sent to you. English = receive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "receive.1",
-  "oldEntry": "Popular explanation: holding on to something."
+  "oldEntry": "Popular explanation: holding on to something.",
+  "seeAlso": []
 }

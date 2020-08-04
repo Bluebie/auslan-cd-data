@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disallow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 987,
   "recordNumber": 571,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "1. To not accept or not approve of something. English = disallow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "disallow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

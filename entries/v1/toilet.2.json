@@ -12,13 +12,12 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "toilet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1177,
   "recordNumber": 688,
   "signVisualComposition": "T + T",
@@ -37,11 +36,12 @@
     "1. To go to the toilet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large bowl with a seat which you use when you want to get rid of urine or faeces from your body. English = toilet.",
     "2. A small room containing a toilet. English = toilet."
   ],
   "idGloss": "toilet.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

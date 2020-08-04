@@ -22,9 +22,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "demonstration",
     "protest",
@@ -34,13 +34,9 @@
     "protest"
   ],
   "deictic": [],
-  "cf": [
-    "bride",
-    "revolt"
-  ],
   "signNumber": 5719,
   "recordNumber": 3384,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 6,
@@ -57,12 +53,16 @@
     "3. To hold a placard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A public meeting or march which is held by people to show their opposition to something or their support for it. English = demonstration, protest.",
     "2. A group of people, usually trade union members, who stand outside a place of work in order to protest about something, to prevent people from going in, or to persuade the workers to join a strike. English = picket.",
     "3. A large notice that is carried in a march or demonstration or is displayed in a public place. English = placard."
   ],
   "idGloss": "demonstrate",
-  "oldEntry": "Popular explanation: holding up a banner."
+  "oldEntry": "Popular explanation: holding up a banner.",
+  "seeAlso": [
+    "bride",
+    "revolt"
+  ]
 }

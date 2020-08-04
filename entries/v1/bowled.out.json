@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bowled out"
   ],
   "deictic": [],
-  "cf": [
-    "wicket.1",
-    "wicket.2"
-  ],
   "signNumber": 1133,
   "recordNumber": 664,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 3.1,
   "primaryLocation": 14,
@@ -35,8 +31,12 @@
     "1. To be bowled out in cricket by hitting the wicket and making the sticks on the top fall off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "bowled.out",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wicket.1",
+    "wicket.2"
+  ]
 }

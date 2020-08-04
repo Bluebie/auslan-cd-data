@@ -15,20 +15,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "step",
     "footstep"
   ],
   "deictic": [],
-  "cf": [
-    "footsteps"
-  ],
   "signNumber": 4113,
   "recordNumber": 2472,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,11 +43,14 @@
     "2. To put your foot on something. English = step on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The movement you make when you lift your foot and put it down in a different place, for example when you are walking. English = step.",
     "2. The sound or vibrations that your feet make when you make a step. English = footstep."
   ],
   "idGloss": "step",
-  "oldEntry": "Popular explanation: one foot placed in front of the other."
+  "oldEntry": "Popular explanation: one foot placed in front of the other.",
+  "seeAlso": [
+    "footsteps"
+  ]
 }

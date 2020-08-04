@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "eldest"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 842,
   "recordNumber": 481,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 5,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In a family, the child who was born before all the others; the eldest child."
   ],
   "idGloss": "eldest",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

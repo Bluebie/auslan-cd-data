@@ -12,21 +12,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "peg",
     "clothes peg",
     "clothes line"
   ],
   "deictic": [],
-  "cf": [
-    "wash"
-  ],
   "signNumber": 5480,
   "recordNumber": 3253,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 6,
@@ -41,11 +38,14 @@
     "1. To hand clothes up on a clothes line, to peg up clothes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small wooden or plastic device which you use to fasten clothes to a clothes line. English = clothes peg, peg.",
     "2. A rope on which you hang washing so that it can dry. English = clothes line."
   ],
   "idGloss": "clothes peg.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wash"
+  ]
 }

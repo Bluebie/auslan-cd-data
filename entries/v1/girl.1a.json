@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "girl"
   ],
   "deictic": [],
-  "cf": [
-    "people.2"
-  ],
   "signNumber": 493,
   "recordNumber": 274,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -39,10 +36,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A female child. English = girl."
   ],
   "idGloss": "girl.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "people.2"
+  ]
 }

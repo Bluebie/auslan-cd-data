@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign also be made with the Cup handshape and/or with the base of the palm contacting the chin.",
   "english": [
     "apple",
     "fruit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2938,
   "recordNumber": 1670,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A round fruit with a smooth skin and firm white flesh. English = apple.",
     "2. Something which grows on a tree or a bush and which contains seeds or a stone covered by a substance that you can eat. Apples, oranges, grapes, and bananas are examples. English = fruit."
   ],
   "idGloss": "apple.1a",
-  "oldEntry": "Popular explanation: holding an apple for eating."
+  "oldEntry": "Popular explanation: holding an apple for eating.",
+  "seeAlso": []
 }

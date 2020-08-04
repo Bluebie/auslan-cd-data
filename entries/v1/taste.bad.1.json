@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "TASTE + BAD",
-  "queries": "",
+  "queries": null,
   "english": [
     "taste bad",
     "distasteful",
@@ -26,12 +26,9 @@
     "disgusting"
   ],
   "deictic": [],
-  "cf": [
-    "taste.1a"
-  ],
   "signNumber": 6643,
   "recordNumber": 3956,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 16.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -49,10 +46,13 @@
     "1. Of food, to taste bad or unpleasant. English = taste bad, (be) distasteful, (be) awful, (be) disgusting."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of food, a bad or unpleasant taste."
   ],
   "idGloss": "taste.bad.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "taste.1a"
+  ]
 }

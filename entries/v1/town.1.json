@@ -13,19 +13,16 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "town",
     "village"
   ],
   "deictic": [],
-  "cf": [
-    "community.1a"
-  ],
   "signNumber": 3642,
   "recordNumber": 2144,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -41,10 +38,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place with many streets and buildings where people live and work. English = town, village."
   ],
   "idGloss": "town.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "community.1a"
+  ]
 }

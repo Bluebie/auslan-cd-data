@@ -21,9 +21,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fit",
     "match",
@@ -33,12 +33,9 @@
     "merge"
   ],
   "deictic": [],
-  "cf": [
-    "integrate"
-  ],
   "signNumber": 3021,
   "recordNumber": 1728,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -55,12 +52,15 @@
     "3. To combine two things together to make one whole thing. English = merge, mesh."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The suitability or naturalness with which two things can be brought closely together so that the shape of one complements the other. English = fit, match.",
     "2. The suitability with which two things can be brought closely together because the colour, design, function, etc., of one complements or goes well with the other. English = match.",
     "3. The combination of two things together to make one whole thing. English = merger."
   ],
   "idGloss": "match.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "integrate"
+  ]
 }

@@ -16,8 +16,8 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A variant of this sign uses two Okay (F) handshapes.",
   "english": [
     "precise",
@@ -25,10 +25,9 @@
     "specific"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6403,
   "recordNumber": 3822,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 11.1,
   "primaryLocation": 14,
@@ -49,8 +48,9 @@
     "2. To belong to or be connected with a particular fixed subject, topic, idea or thing, and only that; to be precise and exact. English = (be) specific."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "precise.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

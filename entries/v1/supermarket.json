@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "supermarket"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 38,
   "recordNumber": 23,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large shop that sells all kinds of food and household goods. English = supermarket."
   ],
   "idGloss": "supermarket",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

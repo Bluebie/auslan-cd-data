@@ -13,20 +13,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "best"
   ],
   "deictic": [],
-  "cf": [
-    "better",
-    "excellent"
-  ],
   "signNumber": 4865,
   "recordNumber": 2941,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -43,10 +39,14 @@
     "1. To be very good indeed-more so than all the other things of its type you can compare it to. English = (be) best."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing which is very good indeed-more so than all the other things of its type you can compare it to. English = the best."
   ],
   "idGloss": "best",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "better",
+    "excellent"
+  ]
 }

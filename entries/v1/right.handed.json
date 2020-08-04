@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "right handed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4042,
   "recordNumber": 2418,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +42,9 @@
     "2. To have the steering wheel of a car located on the right side of the car. English = right hand drive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "right.handed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

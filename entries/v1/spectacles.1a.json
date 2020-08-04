@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "glasses",
     "spectacles"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5311,
   "recordNumber": 3180,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -37,10 +36,11 @@
     "1. To put on or wear a pair of glasses."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two lenses in a frame that some people wear in front of their eyes in order to help them see better. English = glasses, spectacles."
   ],
   "idGloss": "spectacles.1a",
-  "oldEntry": "Popular explanation: the shape a lens."
+  "oldEntry": "Popular explanation: the shape a lens.",
+  "seeAlso": []
 }

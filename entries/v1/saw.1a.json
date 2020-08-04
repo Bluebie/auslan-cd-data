@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "saw"
   ],
   "deictic": [],
-  "cf": [
-    "work.1a"
-  ],
   "signNumber": 4075,
   "recordNumber": 2442,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,10 +29,13 @@
     "1. To cut something with a saw. English = saw."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tool for cutting wood, which has a blade with sharp teeth along one edge. English = saw."
   ],
   "idGloss": "saw.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "work.1a"
+  ]
 }

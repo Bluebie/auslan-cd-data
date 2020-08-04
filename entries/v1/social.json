@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "socialise",
     "social"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4861,
   "recordNumber": 2938,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
     "2. To relate to society or to the way that society is organised. English = (be) social."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "social",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

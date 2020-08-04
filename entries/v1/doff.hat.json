@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doff"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6065,
   "recordNumber": 3608,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -32,8 +31,9 @@
     "1. To lift your hat off in greeting, or to show respect, honour or recognition of a person's achievements; to doff one's hat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "doff.hat",
-  "oldEntry": "Popular explanation: doffing a hat."
+  "oldEntry": "Popular explanation: doffing a hat.",
+  "seeAlso": []
 }

@@ -14,9 +14,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "discussion",
     "talks",
@@ -24,13 +24,9 @@
     "confer"
   ],
   "deictic": [],
-  "cf": [
-    "talk",
-    "dialogue.2"
-  ],
   "signNumber": 1025,
   "recordNumber": 600,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,11 +39,15 @@
     "1. To talk seriously with other people about something. English = discuss, confer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of talking seriously with other people about something. English = discussion, group discussion.",
     "2. Formal discussions between officials of organisations or governments. English = talks."
   ],
   "idGloss": "discussion",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "talk",
+    "dialogue.2"
+  ]
 }

@@ -16,20 +16,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "learning",
     "learn"
   ],
   "deictic": [],
-  "cf": [
-    "take.in.experience"
-  ],
   "signNumber": 3136,
   "recordNumber": 1813,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -48,11 +45,14 @@
     "2. To find out something about life, in a moral and interpersonal sense, through your experiences. English = learn from your experiences. Idiomatic English = pick up, take in."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Knowledge about abstract or theoretical things that has been gained by being told about them or by reading and studying. English = learning.",
     "2. Knowledge about people and life that is acquired by your own personal experiences."
   ],
   "idGloss": "learn.2a",
-  "oldEntry": "Popular explanation: put in the mind."
+  "oldEntry": "Popular explanation: put in the mind.",
+  "seeAlso": [
+    "take.in.experience"
+  ]
 }

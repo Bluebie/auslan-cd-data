@@ -14,9 +14,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hook",
     "fishing hook",
@@ -25,10 +25,9 @@
     "hooked"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1396,
   "recordNumber": 829,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -44,11 +43,12 @@
     "2. To be unable to stop taking a harmful drug. English = (be) addicted. Idiomatic English = (be) hooked on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hook used for catching fish. English = fishing hook, hook.",
     "2. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
   ],
   "idGloss": "hooked",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

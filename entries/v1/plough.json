@@ -16,8 +16,8 @@
     "engtf4"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "plough",
     "grader",
@@ -25,10 +25,9 @@
     "grade"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4257,
   "recordNumber": 2583,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,12 +42,13 @@
     "3. To level the ground using a road grader. English = grade."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device used for turning or pushing soil aside in farming or construction.",
     "2. A large farming tool with sharp blades which is attached to a tractor or an animal such as a horse. It is pulled across the soil to turn it over, usually before seed are planted. English = plough.",
     "3. A tractor-like vehicle with a large flat metal device at the front which pushes and levels the ground, especially used in making roads. English = road grader."
   ],
   "idGloss": "plough",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

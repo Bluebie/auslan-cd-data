@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "xylophone",
     "drum",
     "drums"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6173,
   "recordNumber": 3684,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -39,5 +38,6 @@
     "1. A musical instrument made of a row of wooden bars of different lengths that you hit with a special hammer. English = xylophone."
   ],
   "idGloss": "xylophone.1",
-  "oldEntry": "Popular explanation: striking the keys of a xylophone."
+  "oldEntry": "Popular explanation: striking the keys of a xylophone.",
+  "seeAlso": []
 }

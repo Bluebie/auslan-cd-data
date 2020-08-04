@@ -15,9 +15,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fly",
     "pants",
@@ -25,14 +25,9 @@
     "jeans"
   ],
   "deictic": [],
-  "cf": [
-    "fly.open",
-    "fly.close",
-    "zip.1a"
-  ],
   "signNumber": 6190,
   "recordNumber": 3698,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 17,
@@ -45,11 +40,16 @@
     "1. To put on a pair of trousers, pants or jeans that has a fly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The front opening on a pair of trousers. English = fly.",
     "2. A pair of pants or trousers that has a fly, especially a pair of jeans."
   ],
   "idGloss": "fly.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fly.open",
+    "fly.close",
+    "zip.1a"
+  ]
 }

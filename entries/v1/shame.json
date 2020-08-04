@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shame",
     "outrage",
@@ -42,10 +42,6 @@
     "rude"
   ],
   "deictic": [],
-  "cf": [
-    "bad.luck",
-    "rude.1a"
-  ],
   "signNumber": 2440,
   "recordNumber": 1353,
   "signVisualComposition": "?ASHAMED + ?AWFUL",
@@ -69,12 +65,16 @@
     "3. Words, signs, or behaviour that are likely to embarrass and offend people, because they relate to sex or other bodily functions. English = (be) rude."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation which is unfortunate and which you wish hadn't happened. English = shame.",
     "2. A situation (picture, action, language) which is bad or obscene. English = outrage, obscenity.",
     "3. A feeling of anger you have when you reject something as outrageous or obscene. English = disgust, revulsion."
   ],
   "idGloss": "shame",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bad.luck",
+    "rude.1a"
+  ]
 }

@@ -15,9 +15,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "past",
     "previous",
@@ -25,13 +25,9 @@
     "ago"
   ],
   "deictic": [],
-  "cf": [
-    "yesterday.1a",
-    "recent"
-  ],
   "signNumber": 3205,
   "recordNumber": 1861,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -48,10 +44,14 @@
     "3. To belong to the past and be the person or thing immediately before the person or thing that now occupies the same place. English = previous, prior."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time before the present. English = past."
   ],
   "idGloss": "past.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "yesterday.1a",
+    "recent"
+  ]
 }

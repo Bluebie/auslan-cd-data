@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "share",
     "apportion"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4320,
   "recordNumber": 2633,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "2. To cut or divide something up so that it can be shared; to apportion."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Equal amounts or pieces of a thing that you and another person or other people use or consume together. English = share."
   ],
   "idGloss": "share.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

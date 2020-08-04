@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "quince"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5628,
   "recordNumber": 3333,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hard fruit with an acid taste that is used for making jelly, marmalade, etc. English = quince."
   ],
   "idGloss": "quince.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

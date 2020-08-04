@@ -22,9 +22,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "birth",
     "reproduction",
@@ -35,12 +35,9 @@
     "breed"
   ],
   "deictic": [],
-  "cf": [
-    "new.2"
-  ],
   "signNumber": 3946,
   "recordNumber": 2354,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 17,
@@ -57,7 +54,7 @@
     "3. [Especially repeated], to keep animals, especially pets, for the purpose of producing more animals with particular qualities, in a controlled way. English = breed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of a baby emerging from the body of its mother. English = birth.",
     "2. The process for producing young. English = reproduction.",
@@ -65,5 +62,8 @@
     "4. [Especially repeated] a person who keeps animals, especially pets, for the purpose of producing more animals for sale with particular qualities, in a controlled way. English = breeder."
   ],
   "idGloss": "born.2a",
-  "oldEntry": "Popular explanation: emerging from the womb."
+  "oldEntry": "Popular explanation: emerging from the womb.",
+  "seeAlso": [
+    "new.2"
+  ]
 }

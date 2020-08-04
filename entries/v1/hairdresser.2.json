@@ -12,16 +12,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hairdresser"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6148,
   "recordNumber": 3664,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who cuts, washes, and styles people's hair. English = hairdresser."
   ],
   "idGloss": "hairdresser.2",
-  "oldEntry": "Popular explanation: plaiting hair."
+  "oldEntry": "Popular explanation: plaiting hair.",
+  "seeAlso": []
 }

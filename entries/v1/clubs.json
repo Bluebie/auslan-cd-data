@@ -7,17 +7,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "clubs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6101,
   "recordNumber": 3627,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of four suits in a pack of playing cards. Each card in the suit is marked with one or more black symbols in the shape of a leaf with three rounded parts. English = clubs."
   ],
   "idGloss": "clubs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

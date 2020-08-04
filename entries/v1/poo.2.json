@@ -15,22 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "poo",
     "bowel"
   ],
   "deictic": [],
-  "cf": [
-    "toilet.1",
-    "toilet.2",
-    "toilet.3"
-  ],
   "signNumber": 3489,
   "recordNumber": 2040,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -47,11 +42,16 @@
     "2. To have a bowel movement."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Waste matter discharged from the intestines through the anus. Used especially when talking to children. English = poo.",
     "2. The tubes in the lower part of your body through which digested food passes from your stomach to your anus. English = bowel, bowels."
   ],
   "idGloss": "poo.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "toilet.1",
+    "toilet.2",
+    "toilet.3"
+  ]
 }

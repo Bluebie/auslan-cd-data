@@ -7,16 +7,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "damn"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6076,
   "recordNumber": 3615,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -29,8 +28,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "damn.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

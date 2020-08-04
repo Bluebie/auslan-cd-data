@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fountain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 111,
   "recordNumber": 59,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
     "1. A spray or jet of water that is forced up into the air by a pump or pressure. English = fountain."
   ],
   "idGloss": "open.up",
-  "oldEntry": "Popular explanation: something opening up."
+  "oldEntry": "Popular explanation: something opening up.",
+  "seeAlso": []
 }

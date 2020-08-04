@@ -16,9 +16,9 @@
     "engtf8",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bin",
     "rubbish bin",
@@ -30,10 +30,9 @@
     "bucket"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4608,
   "recordNumber": 2790,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -49,5 +48,6 @@
   "generalMeaning": "A large cylindrical object, hollow as a container (such as a bin, rubbish bin, wastepaper basket, drum, bucket) or solid (such as a column, pole, pylon, etc.), or any object or action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "bin.1a",
-  "oldEntry": "Popular explanation: a large vertical cylinder."
+  "oldEntry": "Popular explanation: a large vertical cylinder.",
+  "seeAlso": []
 }

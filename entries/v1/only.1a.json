@@ -11,9 +11,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "only",
     "exclusively",
@@ -21,10 +21,9 @@
     "merely"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1237,
   "recordNumber": 730,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,8 +39,9 @@
     "1. To be no others of its kind involved or relevant. English = (be) only."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "only.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

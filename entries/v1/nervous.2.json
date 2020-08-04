@@ -16,8 +16,8 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "nervousness",
     "anxiety",
@@ -25,10 +25,9 @@
     "anxious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1021,
   "recordNumber": 597,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "1. To be worried and frightened and to show this in your behaviour. English = (be) nervous, (be) anxious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of worry and fear you have about something. English = nervousness, anxiety."
   ],
   "idGloss": "nervous.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

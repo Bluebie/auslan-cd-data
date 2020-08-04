@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A sign to be avoided as it is seen as offensive by many people.",
   "english": [
     "Jew",
     "Jewish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5081,
   "recordNumber": 3066,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -38,10 +37,11 @@
     "1. To relate to the religion of Judaism. English = (be) Jewish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who believes in and practices the religion of Judaism. English = Jew."
   ],
   "idGloss": "Jew.2",
-  "oldEntry": "Popular explanation: a large nose."
+  "oldEntry": "Popular explanation: a large nose.",
+  "seeAlso": []
 }

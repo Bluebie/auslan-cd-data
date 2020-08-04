@@ -15,19 +15,18 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "age",
     "old",
     "aged"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1757,
   "recordNumber": 1054,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -45,10 +44,11 @@
     "3. Of a thing, to have existed for a long time and to be no longer new. English = (be) old."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time during which a person is old. English = old age."
   ],
   "idGloss": "old",
-  "oldEntry": "Popular explanation: the lines of age on the face."
+  "oldEntry": "Popular explanation: the lines of age on the face.",
+  "seeAlso": []
 }

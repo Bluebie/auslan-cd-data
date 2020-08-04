@@ -12,21 +12,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hear  of",
     "hear about",
     "informed"
   ],
   "deictic": [],
-  "cf": [
-    "loud.1a"
-  ],
   "signNumber": 569,
   "recordNumber": 326,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -43,8 +40,11 @@
     "2. To know about something already because you have been told about it, or it has been mentioned on the television. English = have heard of, (be) informed of, (be) told of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hear.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "loud.1a"
+  ]
 }

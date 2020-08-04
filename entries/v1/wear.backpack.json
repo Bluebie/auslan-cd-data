@@ -22,9 +22,9 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hike",
     "hiking",
@@ -35,10 +35,9 @@
     "camping"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4810,
   "recordNumber": 2904,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 13,
@@ -55,7 +54,7 @@
     "3. To stay somewhere in the countryside for a short time in a tent for pleasure and usually as part of a holiday. English = camp, go camping."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long walk in the country made for pleasure. English = hike, hiking.",
     "2. A person who goes for a long walk in the country for pleasure. English = hiker.",
@@ -63,5 +62,6 @@
     "4. The activity of living in tents out in the countryside for a short time for pleasure and usually as part of a holiday. English = camping."
   ],
   "idGloss": "wear.backpack",
-  "oldEntry": "Popular explanation: holding straps of a hiker's back-pack."
+  "oldEntry": "Popular explanation: holding straps of a hiker's back-pack.",
+  "seeAlso": []
 }

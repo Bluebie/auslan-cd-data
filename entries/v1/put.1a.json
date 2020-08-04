@@ -14,22 +14,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "put",
     "put away",
     "deposit"
   ],
   "deictic": [],
-  "cf": [
-    "pack",
-    "transfer"
-  ],
   "signNumber": 103,
   "recordNumber": 54,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -46,8 +42,12 @@
     "3. When talking about money, to put a sum of money in a bank account, or to pay part of the price of something when you agree to buy it. English = deposit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "put.1a",
-  "oldEntry": "Popular explanation: putting something somewhere."
+  "oldEntry": "Popular explanation: putting something somewhere.",
+  "seeAlso": [
+    "pack",
+    "transfer"
+  ]
 }

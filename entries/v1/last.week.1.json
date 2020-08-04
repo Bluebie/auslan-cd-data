@@ -14,15 +14,14 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "week",
     "last week"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1032,
   "recordNumber": 604,
   "signVisualComposition": "YESTERDAY + WEEK",
@@ -41,11 +40,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The calendar week before the week of speaking. English = last week, one week ago.",
     "2. The calendar week before an already specified week in the past. English = the week before that, the previous week."
   ],
   "idGloss": "last.week.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

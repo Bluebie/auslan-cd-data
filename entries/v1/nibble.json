@@ -11,9 +11,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "snack food",
     "nibblies",
@@ -21,10 +21,9 @@
     "nibble"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 282,
   "recordNumber": 166,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -38,10 +37,11 @@
     "2. To eat something slowly by taking small bites out of it. English = nibble."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Small foods which you can eat between main meals. English = snack food. Informal English = nibbles, nibblies."
   ],
   "idGloss": "nibble",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brain"
   ],
   "deictic": [],
-  "cf": [
-    "genius"
-  ],
   "signNumber": 2907,
   "recordNumber": 1643,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -34,10 +31,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The organ inside your head that enables you to think and to feel things such as heat and pain. English = brain."
   ],
   "idGloss": "brain",
-  "oldEntry": "Popular explanation: the shape of the brain."
+  "oldEntry": "Popular explanation: the shape of the brain.",
+  "seeAlso": [
+    "genius"
+  ]
 }

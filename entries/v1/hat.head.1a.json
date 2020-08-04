@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "head",
     "hat"
   ],
   "deictic": [],
-  "cf": [
-    "face.1a"
-  ],
   "signNumber": 3121,
   "recordNumber": 1803,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -45,11 +42,14 @@
     "2. To wear or put on a hat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body which has your eyes, mouth, and brain in it. English = head.",
     "2. A covering that you wear on your head, especially when you are outside. Used particularly, but not exclusively, for head wear worn by women. English = hat."
   ],
   "idGloss": "hat.head.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "face.1a"
+  ]
 }

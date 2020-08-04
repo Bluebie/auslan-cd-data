@@ -11,19 +11,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doubles",
     "pairs",
     "double"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1640,
   "recordNumber": 973,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -38,10 +37,11 @@
     "1. To make the amount or size of something twice as large. English = double."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game of tennis, badminton, or any other game, when two people play against two other people. English = doubles, pairs."
   ],
   "idGloss": "double.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

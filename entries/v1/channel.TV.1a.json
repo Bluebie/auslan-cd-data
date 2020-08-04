@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "channel",
     "station"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5172,
   "recordNumber": 3113,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A wavelength on which television or radio programs are broadcast. English = channel, station."
   ],
   "idGloss": "channel.TV.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "premiers",
     "premiership"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2955.1,
   "recordNumber": 1678,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": null,
   "primaryLocation": 14,
@@ -34,11 +33,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The winner of a rugby championship. Australian English = premiers.",
     "2. A championship competition held among a number of sports clubs. English = premiership."
   ],
   "idGloss": "premiers",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

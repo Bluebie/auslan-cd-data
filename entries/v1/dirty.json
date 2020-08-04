@@ -28,9 +28,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dirt",
     "grime",
@@ -46,13 +46,9 @@
     "smutty"
   ],
   "deictic": [],
-  "cf": [
-    "blur",
-    "unclear"
-  ],
   "signNumber": 2771,
   "recordNumber": 1552,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -71,12 +67,16 @@
     "3. Of jokes, books, magazines and films, to refer to sex in a way that many people find offensive. English = (be) dirty, (be) obscene, (be) filthy, (be) smutty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Dust or mud on something which is usually kept clean. English = dirt.",
     "2. Stains, bodily fluids (such as blood) and other things on something which is usually kept clean. English = grime, filth.",
     "3. References to sex in jokes, books, magazines and films that many people find offensive. English = smut, obscenity."
   ],
   "idGloss": "dirty",
-  "oldEntry": "Popular explanation: rubbing dirt from the hands."
+  "oldEntry": "Popular explanation: rubbing dirt from the hands.",
+  "seeAlso": [
+    "blur",
+    "unclear"
+  ]
 }

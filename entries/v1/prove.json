@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "evidence",
     "proof",
     "prove"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5729,
   "recordNumber": 3393,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 9,
@@ -37,11 +36,12 @@
     "1. To show that something is definitely true. English = prove."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Any thing that you see, experience, read, or are told which causes you to believe that something is true or has really happened. English = evidence.",
     "2. A fact or a piece of evidence that shows that something is true or exists. English = proof."
   ],
   "idGloss": "prove",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

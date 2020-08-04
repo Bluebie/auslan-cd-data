@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plane crash",
     "crash"
   ],
   "deictic": [],
-  "cf": [
-    "collision"
-  ],
   "signNumber": 6634,
   "recordNumber": 3948,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
     "1. Of an aeroplane, to hit something or to fall out of the sky and be badly damaged or destroyed. English = crash."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An accident in which an aeroplane hits something or falls out of the sky and is badly damaged or destroyed. English = plane crash."
   ],
   "idGloss": "plane.crash",
-  "oldEntry": "Popular explanation: a plane colliding with the ground."
+  "oldEntry": "Popular explanation: a plane colliding with the ground.",
+  "seeAlso": [
+    "collision"
+  ]
 }

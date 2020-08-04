@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sequence",
     "consequence",
@@ -31,12 +31,9 @@
     "then"
   ],
   "deictic": [],
-  "cf": [
-    "series.1a"
-  ],
   "signNumber": 4762,
   "recordNumber": 2878,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -56,11 +53,14 @@
     "2. To put things or events in an ordered series, one after another. English = sequence, order."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A number of events or things that come one after another in a particular order. English = sequence.",
     "2. A thing which happens after another thing and which is a result of the first. English = consequence."
   ],
   "idGloss": "sequence.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "series.1a"
+  ]
 }

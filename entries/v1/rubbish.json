@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rubbish",
     "garbage",
@@ -31,10 +31,9 @@
     "crap"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2805,
   "recordNumber": 1572,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 16,
@@ -51,12 +50,13 @@
     "2. Of ideas and statements, to be silly, foolish or wrong in your opinion."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Unwanted things or material that is left over when something has been used, for example because the valuable or useful part of it has been taken out. English = rubbish, garbage, trash, waste. Formal English = refuse.",
     "2. Something which is of very poor quality. English = rubbish.",
     "3. An idea or a statement which you think is foolish or wrong. English = codswallop. Informal English = rubbish, crap."
   ],
   "idGloss": "rubbish",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

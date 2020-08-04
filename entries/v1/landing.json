@@ -16,9 +16,9 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "landing",
     "arrival",
@@ -26,12 +26,9 @@
     "land"
   ],
   "deictic": [],
-  "cf": [
-    "airport"
-  ],
   "signNumber": 6632,
   "recordNumber": 3946,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,12 +44,15 @@
     "2. Of an aeroplane, to arrive at an airport after a journey in the air. English = land."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of bringing an aeroplane down to the ground. English = landing.",
     "2. Of an aeroplane, the act of arriving at an airport after a journey in the air. English = landing, arrival.",
     "3. A place where aircraft land and take off, usually with a lot of buildings and facilities. English = airport."
   ],
   "idGloss": "landing",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "airport"
+  ]
 }

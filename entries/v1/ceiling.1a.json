@@ -21,9 +21,9 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ceiling",
     "awning",
@@ -34,10 +34,9 @@
     "shaded"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3120,
   "recordNumber": 1802,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -54,7 +53,7 @@
     "3. To be in the shade. English = (be) shaded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The horizontal surface that forms the top part inside a room . English = ceiling.",
     "2. A horizontal surface above head height used for protecting people and objects from the elements. English = awning, covering.",
@@ -62,5 +61,6 @@
     "4. One of the separate sections in a house or other building, which has its own walls, ceiling, floor, and door. English = room."
   ],
   "idGloss": "ceiling.1a",
-  "oldEntry": "Popular explanation: indicating the ceiling."
+  "oldEntry": "Popular explanation: indicating the ceiling.",
+  "seeAlso": []
 }

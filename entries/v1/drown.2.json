@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drowning",
     "drown"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3668,
   "recordNumber": 2161,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To die because you go under water and cannot breathe. English = drown."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Death by going under water and being unable to breathe. English = drowning."
   ],
   "idGloss": "drown.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,23 +13,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "match",
     "strike",
     "light"
   ],
   "deictic": [],
-  "cf": [
-    "light.1",
-    "ignite",
-    "match.1"
-  ],
   "signNumber": 6421,
   "recordNumber": 3829,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -42,11 +37,16 @@
     "1. To strike a match."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, thin stick of wood that produces a flame when you strike it against the side of a matchbox. English = match.",
     "2. A match or a cigarette lighter that can be used to start a cigarette burning. English = light."
   ],
   "idGloss": "match.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "light.1",
+    "ignite",
+    "match.1"
+  ]
 }

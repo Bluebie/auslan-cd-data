@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cheek",
     "rudeness",
@@ -36,10 +36,9 @@
     "insolent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5603,
   "recordNumber": 3317,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -55,10 +54,11 @@
     "1. To behave in a rude or disrespectful way, especially children to adults. Informal English = (be) cheeky, (be) rude. English = (be) impertinent, (be) impudent, (be) insolent. Idiomatic English = give cheek."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is rude or disrespectful, especially used of children towards adults. Informal English = cheek, rudeness. English = impertinence, impudence,  insolence."
   ],
   "idGloss": "cheeky",
-  "oldEntry": "Popular explanation: pinching the cheek."
+  "oldEntry": "Popular explanation: pinching the cheek.",
+  "seeAlso": []
 }

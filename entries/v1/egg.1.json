@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Most Auslan signers simply fingerspell 'egg'.",
   "english": [
     "egg",
     "hard-boiled egg"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2171,
   "recordNumber": 1254,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -36,11 +35,12 @@
     "1. To crack open a hard-boiled egg using an implement such as a knife."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An egg which has been boiled in its shell until the yolk and the white are hard. English = hard-boiled egg.",
     "2. The rounded object produced by a female bird (and some other creatures) from which a baby bird later emerges. Especially used for the type produced by hens and eaten by people as a food. English = egg."
   ],
   "idGloss": "egg.1",
-  "oldEntry": "Popular explanation: tapping a boiled egg with an implement."
+  "oldEntry": "Popular explanation: tapping a boiled egg with an implement.",
+  "seeAlso": []
 }

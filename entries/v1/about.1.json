@@ -13,21 +13,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "A + T",
-  "queries": "",
+  "queries": null,
   "english": [
     "about",
     "approximate",
     "concerning"
   ],
   "deictic": [],
-  "cf": [
-    "on"
-  ],
   "signNumber": 1154,
   "recordNumber": 679,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -46,8 +43,11 @@
     "1. To be close to a particular number but not exactly that number. English = (be) about, (be) approximate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "about.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "on"
+  ]
 }

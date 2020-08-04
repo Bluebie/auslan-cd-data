@@ -7,17 +7,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BOY + FRIEND",
-  "queries": "",
+  "queries": null,
   "english": [
     "boyfriend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1326,
   "recordNumber": 784,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 11,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man or a boy with whom someone is having a romantic or sexual relationship. English = boyfriend."
   ],
   "idGloss": "boyfriend",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

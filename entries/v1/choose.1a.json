@@ -24,9 +24,9 @@
     "engtf11",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "choice",
     "selection",
@@ -41,12 +41,9 @@
     "appoint"
   ],
   "deictic": [],
-  "cf": [
-    "voluntary.1a"
-  ],
   "signNumber": 5152,
   "recordNumber": 3105,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -61,7 +58,7 @@
     "3. To select someone to do a particular job. English = appoint."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The thing or things that you choose. English = choice, selection.",
     "2. The opportunity you have to choose from several things that are available. English = choice, option.",
@@ -69,5 +66,8 @@
     "4. The selection of someone to do a particular job. English = appointment."
   ],
   "idGloss": "choose.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "voluntary.1a"
+  ]
 }

@@ -13,18 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not responsible",
     "no responsibility"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6522,
   "recordNumber": 3881,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 14,
@@ -41,8 +40,9 @@
     "1. To not have the duty to deal with, make decision about, or accept the blame for something; (be) not responsible for; to have no responsibility."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.my.responsibility",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "serve"
   ],
   "deictic": [],
-  "cf": [
-    "place.1a",
-    "service"
-  ],
   "signNumber": 226,
   "recordNumber": 134,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,5 +34,9 @@
   "generalMeaning": "To carry and place something on a flat surface, such as a plate on a table, or any thing or any action directly or indirectly associated with this, for example serving someone in a restaurant.",
   "nominalLexeme": [],
   "idGloss": "serve",
-  "oldEntry": "Popular explanation: placing a flat object on a table."
+  "oldEntry": "Popular explanation: placing a flat object on a table.",
+  "seeAlso": [
+    "place.1a",
+    "service"
+  ]
 }

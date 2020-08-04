@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hospitality",
     "hospitable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3837,
   "recordNumber": 2281,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
     "1. To be friendly and welcoming to guests or strangers. English = (be) hospitable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Friendly, welcoming behaviour towards guests or strangers. English = hospitality.",
     "2. The sector of the economy which deals with tourism, accommodation and entertainment. English = hospitality industry."
   ],
   "idGloss": "hospitality",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,19 +14,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "first",
     "original",
     "firstly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 725,
   "recordNumber": 417,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -46,8 +45,9 @@
     "3. To be in a state or condition of having had nothing changed or altered since it was first created. English = (be) original."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "first.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

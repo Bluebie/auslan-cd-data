@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "comma"
   ],
   "deictic": [],
-  "cf": [
-    "point.1a",
-    "point.3a"
-  ],
   "signNumber": 1427,
   "recordNumber": 853,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The punctuation mark (,) which is used to separate parts of a sentence or items in a list. English = comma."
   ],
   "idGloss": "comma",
-  "oldEntry": "Popular explanation: the outline of a comma."
+  "oldEntry": "Popular explanation: the outline of a comma.",
+  "seeAlso": [
+    "point.1a",
+    "point.3a"
+  ]
 }

@@ -14,21 +14,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attract",
     "seduce",
     "pick up"
   ],
   "deictic": [],
-  "cf": [
-    "require.1a"
-  ],
   "signNumber": 988,
   "recordNumber": 572,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -46,8 +43,11 @@
     "4. To catch someone's attention or affections."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "attract",
-  "oldEntry": "Popular explanation: hooking something."
+  "oldEntry": "Popular explanation: hooking something.",
+  "seeAlso": [
+    "require.1a"
+  ]
 }

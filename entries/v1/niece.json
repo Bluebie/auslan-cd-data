@@ -9,19 +9,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "niece"
   ],
   "deictic": [],
-  "cf": [
-    "clean.2"
-  ],
   "signNumber": 1915,
   "recordNumber": 1143,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,10 +33,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The daughter of someone's sister or brother. English = niece."
   ],
   "idGloss": "niece",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "clean.2"
+  ]
 }

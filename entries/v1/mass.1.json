@@ -8,19 +8,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pile",
     "heap",
     "mound"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3089,
   "recordNumber": 1777,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
     "1. A mass of something in a heap which is higher in the middle with sloping sides and usually round. English = pile, heap, mound."
   ],
   "idGloss": "mass.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

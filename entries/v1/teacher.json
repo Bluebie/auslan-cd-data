@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "teacher"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5094,
   "recordNumber": 3073,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -37,10 +36,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who gives instructions about something to people, especially children in a school, so that they know about it or know how to do it. English = teacher."
   ],
   "idGloss": "teacher",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

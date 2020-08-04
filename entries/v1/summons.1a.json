@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "summons",
     "conscription",
@@ -30,10 +30,9 @@
     "conscript"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 942,
   "recordNumber": 541,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -55,12 +54,13 @@
     "4. To select someone from out of a crowd or group to do some task which no one is willing to volunteer to do."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An order to come towards you, to approach you, or to come inside. English = summons.",
     "2. An order to come and see someone, particularly an official order to appear in court. English = summons.",
     "3. Officially making people in a particular country join the army, navy, or air force. English = conscription, draft, call up."
   ],
   "idGloss": "summons.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

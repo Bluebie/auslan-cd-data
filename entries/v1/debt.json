@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "debt",
     "owe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1512,
   "recordNumber": 901,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "1. To have borrowed something, especially money, from someone and to have not yet paid it back. English = owe, (be) in debt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that you have borrowed from someone, especially money, which you have not yet paid back. English = debt."
   ],
   "idGloss": "debt",
-  "oldEntry": "Popular explanation: pointing to bill or I-O-U."
+  "oldEntry": "Popular explanation: pointing to bill or I-O-U.",
+  "seeAlso": []
 }

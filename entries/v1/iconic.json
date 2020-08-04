@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "iconicity",
     "iconic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5506,
   "recordNumber": 3263,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -33,10 +32,11 @@
     "1. Of a symbol (especially a sign in a sign language) to look like or resemble the thing it stands for or means. English = (be) iconic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality that symbols (especially signs in a sign language) can have whereby the symbol looks like or resembles the thing it stands for or means. English = iconicity."
   ],
   "idGloss": "iconic",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

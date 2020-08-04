@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "curls",
     "curly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2988,
   "recordNumber": 1699,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 1,
@@ -37,10 +36,11 @@
     "1. To have hair that is full of curls. English = (be) curly, have curly hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Lengths of hair that are shaped in tight curves and circles. English = curls."
   ],
   "idGloss": "curly",
-  "oldEntry": "Popular explanation: curly locks of hair."
+  "oldEntry": "Popular explanation: curly locks of hair.",
+  "seeAlso": []
 }

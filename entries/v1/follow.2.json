@@ -15,19 +15,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "follow"
   ],
   "deictic": [],
-  "cf": [
-    "depend"
-  ],
   "signNumber": 1010,
   "recordNumber": 589,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -47,8 +44,11 @@
     "3. To agree with what other people want to do, to follow their opinions."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "follow.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "depend"
+  ]
 }

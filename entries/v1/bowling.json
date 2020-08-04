@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bowls",
     "lawn bowls",
@@ -22,10 +22,9 @@
     "bowl"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2979,
   "recordNumber": 1692,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -38,11 +37,12 @@
     "1. To roll a ball in a game of bowls or bowling. English = bowl."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game in which the players try to roll large wooden balls as near as possible to a small ball on a special lawn. English = bowls, lawn bowls.",
     "2. A game in which you roll a heavy ball down a long narrow track towards a group of wooden objects and try to knock down as many of them as possible. English = bowling."
   ],
   "idGloss": "bowling",
-  "oldEntry": "Popular explanation: bowling a ball."
+  "oldEntry": "Popular explanation: bowling a ball.",
+  "seeAlso": []
 }

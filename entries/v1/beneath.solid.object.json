@@ -12,20 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beneath"
   ],
   "deictic": [],
-  "cf": [
-    "top.2",
-    "bottom.2"
-  ],
   "signNumber": 4429,
   "recordNumber": 2692,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -45,5 +41,9 @@
   "generalMeaning": "An area or a flat extended object located below a container or solid object, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "beneath.solid.object",
-  "oldEntry": "Popular explanation: one thing or the area below another thing."
+  "oldEntry": "Popular explanation: one thing or the area below another thing.",
+  "seeAlso": [
+    "top.2",
+    "bottom.2"
+  ]
 }

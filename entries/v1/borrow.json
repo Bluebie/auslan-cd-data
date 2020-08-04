@@ -15,8 +15,8 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "borrowing",
     "lending",
@@ -24,10 +24,9 @@
     "lend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5906.1,
   "recordNumber": 3512,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "2. To allow someone else to take, have or use something with belongs to you for a period of time. English = lend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of taking, having or using something which belongs to someone else, with their permission, for a period of time. English = borrowing.",
     "2. The act of allowing someone else to take, have or use something with belongs to you for a period of time. English = lending."
   ],
   "idGloss": "borrow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

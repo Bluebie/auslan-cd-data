@@ -13,17 +13,16 @@
     "engtf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "handball",
     "handpass"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6020,
   "recordNumber": 3584,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. In Australian rules football, to pass the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australian rules football, a pass in which a player attempts to deliver the ball to a team mate by holding the ball in one hand and hitting it away with the other fist. English = handball, handpass."
   ],
   "idGloss": "handball.pass",
-  "oldEntry": "Popular explanation: passing the ball."
+  "oldEntry": "Popular explanation: passing the ball.",
+  "seeAlso": []
 }

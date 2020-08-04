@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "film",
     "movie",
@@ -32,13 +32,9 @@
     "project"
   ],
   "deictic": [],
-  "cf": [
-    "film.5",
-    "slide.2"
-  ],
   "signNumber": 6334,
   "recordNumber": 3778,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -55,11 +51,15 @@
     "1. To make a film appear on a screen or wall. English = project, show a film."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Moving images that have been recorded so that they can be shown in a theatre or on television. English = film, films, movie, movies, picture, pictures. Informal English = flicks.",
     "2. A special theatre where films are shown. English = cinema."
   ],
   "idGloss": "film.2a",
-  "oldEntry": "Popular explanation: the flickering projector."
+  "oldEntry": "Popular explanation: the flickering projector.",
+  "seeAlso": [
+    "film.5",
+    "slide.2"
+  ]
 }

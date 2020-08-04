@@ -12,9 +12,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vulva",
     "pudendum",
@@ -22,10 +22,9 @@
     "cunt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6385,
   "recordNumber": 3814,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The outer part of a woman's sexual organ. English = vulva, (female) pudendum.",
     "2. The passage that connects a woman's outer sex organs to her womb. English = vagina. Vulgar English = cunt."
   ],
   "idGloss": "vagina.1",
-  "oldEntry": "Popular explanation: outline of the vulva."
+  "oldEntry": "Popular explanation: outline of the vulva.",
+  "seeAlso": []
 }

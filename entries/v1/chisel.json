@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chisel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2151,
   "recordNumber": 1244,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
     "1. To use a chisel. English = chisel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. English = chisel."
   ],
   "idGloss": "chisel",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

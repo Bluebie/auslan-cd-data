@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The related ASL sign 'mormon' is an initialisation of this sign.",
   "english": [
     "Mormon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2453,
   "recordNumber": 1362,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -30,10 +29,11 @@
     "1. Of or relating to the Church of Jesus Christ of Latter-Day Saints. English = (be) Mormon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who belongs to the religious group called the Church of Jesus Christ of Latter-Day Saints. English = Mormon."
   ],
   "idGloss": "Mormon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

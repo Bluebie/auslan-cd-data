@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "traffic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2755,
   "recordNumber": 1540,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Long lines or lanes of traffic on a road."
   ],
   "idGloss": "traffic.lanes",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

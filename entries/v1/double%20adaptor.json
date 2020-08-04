@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "double adaptor"
   ],
   "deictic": [],
-  "cf": [
-    "plug.1a"
-  ],
   "signNumber": 5249,
   "recordNumber": 3152,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plug-in connector by which two electrical appliances may be operated simultaneously from a single power-point. English = double adaptor."
   ],
   "idGloss": "double adaptor",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "plug.1a"
+  ]
 }

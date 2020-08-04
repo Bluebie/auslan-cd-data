@@ -15,21 +15,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "aunt",
     "aunty",
     "auntie"
   ],
   "deictic": [],
-  "cf": [
-    "hospital.2"
-  ],
   "signNumber": 6438,
   "recordNumber": 3836,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,10 +42,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sister of your mother or father, or the wife of your uncle. English = aunt, aunty, auntie."
   ],
   "idGloss": "aunt.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hospital.2"
+  ]
 }

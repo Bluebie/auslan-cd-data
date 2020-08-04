@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "high rise",
     "flat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3794,
   "recordNumber": 2251,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tall structure or a high rise building such as an office building or a large hotel. English = high rise.",
     "2. A set of rooms for living in, usually on one floor of a large building. English = flat."
   ],
   "idGloss": "tall.building",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

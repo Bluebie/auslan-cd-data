@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Messiah"
   ],
   "deictic": [],
-  "cf": [
-    "king"
-  ],
   "signNumber": 2368.1,
   "recordNumber": 1304,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.3,
   "passiveHandshape": null,
   "primaryLocation": 13,
@@ -32,11 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. For Jews, the King of the Jews, who will be sent to them by God. English = Messiah.",
     "2. For Christians, Jesus Christ. English = Messiah."
   ],
   "idGloss": "messiah",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "king"
+  ]
 }

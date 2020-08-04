@@ -17,18 +17,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "half",
     "part",
     "halve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4307.1,
   "recordNumber": 2624,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,11 +44,12 @@
     "3. To be one of the pieces or areas which, together with other pieces or areas, forms one larger thing. English = (be) part."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of two equal parts of an amount of something or an object. English = half.",
     "2. A piece or an area of a larger thing. English = part."
   ],
   "idGloss": "half.1",
-  "oldEntry": "Popular explanation: cutting something in half."
+  "oldEntry": "Popular explanation: cutting something in half.",
+  "seeAlso": []
 }

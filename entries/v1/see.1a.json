@@ -17,19 +17,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "see",
     "visit",
     "understand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 551,
   "recordNumber": 316,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -51,8 +50,9 @@
     "3. To understand what someone means or to understand why something happens. English = see, understand."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "see.1a",
-  "oldEntry": "Popular explanation: from the eye."
+  "oldEntry": "Popular explanation: from the eye.",
+  "seeAlso": []
 }

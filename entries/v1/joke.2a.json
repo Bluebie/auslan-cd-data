@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "joke",
     "fake",
@@ -26,12 +26,9 @@
     "artificial"
   ],
   "deictic": [],
-  "cf": [
-    "not.true"
-  ],
   "signNumber": 256,
   "recordNumber": 149,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -48,12 +45,15 @@
     "3. To make someone believe that you will do something when you do not really intend to do it. English = bluff."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is said or done in order to make people laugh. English = joke.",
     "2. An object which has been make to look like something valuable or real, often in order to deceive people. English = fake.",
     "3. An attempt to make someone believe you will do something when you do not really intend to do it. English = bluff."
   ],
   "idGloss": "joke.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.true"
+  ]
 }

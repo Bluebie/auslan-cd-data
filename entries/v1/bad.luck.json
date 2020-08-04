@@ -19,8 +19,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "bad luck",
     "misfortune",
@@ -28,9 +28,6 @@
     "unfortunately"
   ],
   "deictic": [],
-  "cf": [
-    "shame"
-  ],
   "signNumber": 6639,
   "recordNumber": 3953,
   "signVisualComposition": "LUCKY + BAD",
@@ -55,10 +52,13 @@
     "1. To have bad luck. English = unlucky. Formal English = unfortunate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lack of success or bad things that happen to you, that have not been caused by yourself or other people. English = bad luck. Formal English = misfortune."
   ],
   "idGloss": "bad.luck",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shame"
+  ]
 }

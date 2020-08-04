@@ -13,16 +13,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "brown"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4049,
   "recordNumber": 2423,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To be the colour of earth or wood. English = (be) brown."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The colour of earth or wood. English = brown."
   ],
   "idGloss": "brown.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

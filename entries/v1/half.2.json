@@ -7,16 +7,15 @@
     "engtf1"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "half"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6111,
   "recordNumber": 3637,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. When counting or using numbers, one of two equal parts of an integer (number). It is signed immediately after the whole number (eg, TWO HALF). In other words, this sign is the fraction written as '1/2'. English = half."
   ],
   "idGloss": "half.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

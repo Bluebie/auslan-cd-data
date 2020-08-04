@@ -17,18 +17,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ASL-STEER + D",
-  "queries": "",
+  "queries": null,
   "english": [
     "director",
     "direct"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 968,
   "recordNumber": 559,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -45,12 +44,13 @@
     "2. To decide how a film, play, or television program should be made and performed. English = direct."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who is responsible for organising and leading a group of people who are working together. English = director.",
     "2. Someone who is on the board of a company or in charge of a government organisation. English = director.",
     "3. Someone who decides how a film, play, or television program is made or performed. English = director."
   ],
   "idGloss": "director.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

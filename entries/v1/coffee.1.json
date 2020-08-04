@@ -15,17 +15,16 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "coffee",
     "coffee beans"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5819,
   "recordNumber": 3455,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,12 +38,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hot brown drink that you make by pouring boiling water onto the roasted and ground seeds of a tropical tree, or onto a powder. English = coffee.",
     "2. The roasted seeds or powder from which the drink is made. English = coffee, coffee beans.",
     "3. A cup of coffee."
   ],
   "idGloss": "coffee.1",
-  "oldEntry": "Popular explanation: operating a manual coffee grinder."
+  "oldEntry": "Popular explanation: operating a manual coffee grinder.",
+  "seeAlso": []
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pie"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5378,
   "recordNumber": 3212,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Meat, vegetables, or fruit, which is baked in a pastry. English = pie."
   ],
   "idGloss": "pie.2",
-  "oldEntry": "Popular explanation: indicating something small and round."
+  "oldEntry": "Popular explanation: indicating something small and round.",
+  "seeAlso": []
 }

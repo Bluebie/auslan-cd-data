@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "policy",
     "principle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1854,
   "recordNumber": 1112,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -33,12 +32,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy.",
     "2. A document that shows the agreement that you have made with an insurance company. English = policy.",
     "3. A general belief that you have about the way you should behave which influences your behaviour; a general rule about how something should be done. English = principle."
   ],
   "idGloss": "policy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

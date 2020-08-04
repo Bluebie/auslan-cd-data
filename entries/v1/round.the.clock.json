@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A variant hand of this can be made with the subordinate Point (G) handshape.",
   "english": [
     "overtime"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4340,
   "recordNumber": 2644,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -33,10 +32,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Time that you spend at your job in addition to your normal working hours. English = overtime."
   ],
   "idGloss": "round.the.clock",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

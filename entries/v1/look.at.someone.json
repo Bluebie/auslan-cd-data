@@ -17,8 +17,8 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign may be modified with a single upwards or downwards sweep to signify 'look up to' or 'look down on'.",
   "english": [
     "disdain",
@@ -29,10 +29,9 @@
     "assess"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1671,
   "recordNumber": 995,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -55,5 +54,6 @@
     "3. A judgement made about the quality of a student and their work. English = assessment."
   ],
   "idGloss": "look.at.someone",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

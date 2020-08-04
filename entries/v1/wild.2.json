@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wild",
     "wacky"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2233,
   "recordNumber": 1270,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": null,
   "primaryLocation": 3,
@@ -36,8 +35,9 @@
     "2. Of an idea or a scheme, to be unusual and rather silly. English = (be) wild. Informal English = (be) wacky."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "wild.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -24,9 +24,9 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "delay",
     "prolongation",
@@ -39,12 +39,9 @@
     "tarry"
   ],
   "deictic": [],
-  "cf": [
-    "extend"
-  ],
   "signNumber": 4297,
   "recordNumber": 2615,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,12 +63,15 @@
     "4. To brush something to one side and ignore it until a later time."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The start of an event later than was expected. English = delay.",
     "2. An extension in the time it usually takes to do something. English = delay, prolongation.",
     "3. The act of taking your time and spending more time than is necessary to do something or go somewhere. English = dawdling."
   ],
   "idGloss": "delay",
-  "oldEntry": "Popular explanation: push something into the future. Made with reference to the time lines."
+  "oldEntry": "Popular explanation: push something into the future. Made with reference to the time lines.",
+  "seeAlso": [
+    "extend"
+  ]
 }

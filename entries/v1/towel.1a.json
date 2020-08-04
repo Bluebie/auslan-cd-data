@@ -10,17 +10,16 @@
     "transp",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "towel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5736.1,
   "recordNumber": 3399,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 12,
@@ -33,10 +32,11 @@
     "1. To dry yourself with a towel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of thick, soft cloth that you use to dry yourself with after a wash, bath or shower. English = towel."
   ],
   "idGloss": "towel.1a",
-  "oldEntry": "Popular explanation: wiping the neck with a towel."
+  "oldEntry": "Popular explanation: wiping the neck with a towel.",
+  "seeAlso": []
 }

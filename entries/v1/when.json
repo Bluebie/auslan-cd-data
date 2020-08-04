@@ -15,23 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "when",
     "while",
     "during"
   ],
   "deictic": [],
-  "cf": [
-    "how.much.1a",
-    "how.old",
-    "number.1a"
-  ],
   "signNumber": 2456,
   "recordNumber": 1364,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -49,8 +44,13 @@
   "questionLexeme": [
     "1. Used to ask questions about the time at which things happen. Found at the beginning, end or at both the beginning and end of the question. English = when."
   ],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "when",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "how.much.1a",
+    "how.old",
+    "number.1a"
+  ]
 }

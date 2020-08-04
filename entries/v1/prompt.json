@@ -13,18 +13,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "prompter",
     "prompt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1869,
   "recordNumber": 1119,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "2. To assist an interpreter by providing words or signs he or she does not know or missed during an interpretation. English = prompt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person in a theatre whose job is to remind an actor of words that he or she has forgotten during a performance. English = prompter."
   ],
   "idGloss": "prompt",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

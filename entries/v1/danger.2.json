@@ -18,9 +18,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "danger",
     "dangerous",
@@ -29,10 +29,9 @@
     "extremely"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2915,
   "recordNumber": 1652,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -54,10 +53,11 @@
     "2. To be very unpleasant or shocking. English = (be) horrendous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The possibility that someone may be harmed or killed. English = danger."
   ],
   "idGloss": "danger.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

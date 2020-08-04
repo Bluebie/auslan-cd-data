@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is particularly common in the Wollongong signing deaf community.",
   "english": [
     "big"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5080,
   "recordNumber": 3065,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -42,8 +41,9 @@
     "1. To be large in size, degree, extent, or importance. English = big."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "big.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

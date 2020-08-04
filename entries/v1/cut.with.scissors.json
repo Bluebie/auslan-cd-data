@@ -6,19 +6,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scissors"
   ],
   "deictic": [],
-  "cf": [
-    "scissors"
-  ],
   "signNumber": 1606,
   "recordNumber": 956,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -31,8 +28,11 @@
     "1. To cut something with scissors."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cut.with.scissors",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "scissors"
+  ]
 }

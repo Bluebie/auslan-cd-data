@@ -12,19 +12,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shampoo"
   ],
   "deictic": [],
-  "cf": [
-    "wash.hands"
-  ],
   "signNumber": 2986,
   "recordNumber": 1697,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 1,
@@ -38,11 +35,14 @@
     "2. To wash your hair with shampoo. English = shampoo."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of washing your hair.",
     "2. A soapy liquid you use for washing your hair. English = shampoo."
   ],
   "idGloss": "shampoo",
-  "oldEntry": "Popular explanation: washing one's hair."
+  "oldEntry": "Popular explanation: washing one's hair.",
+  "seeAlso": [
+    "wash.hands"
+  ]
 }

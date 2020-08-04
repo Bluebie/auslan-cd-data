@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "communication",
     "communicate",
@@ -32,10 +32,9 @@
     "converse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4598,
   "recordNumber": 2783,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -53,12 +52,13 @@
     "3. Of two or more people, to talk to each other. English = converse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity or process of giving information to other people or to other living things. English = communication.",
     "2. The systems and processes that are used to communicate or broadcast information, especially by means of electricity or radio waves. English = communications.",
     "3. The act of two or more people talking to each other. English = conversation."
   ],
   "idGloss": "communicate.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

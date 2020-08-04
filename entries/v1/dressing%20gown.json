@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dressing gown"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2088,
   "recordNumber": 1213,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 16,
@@ -32,10 +31,11 @@
     "1. To put on or wear a dressing gown."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A loose-fitting coat which you wear over pyjamas or a nightdress when you are not in bed. English = dressing gown."
   ],
   "idGloss": "dressing gown",
-  "oldEntry": "Popular explanation: tying-together two ribbon-like objects."
+  "oldEntry": "Popular explanation: tying-together two ribbon-like objects.",
+  "seeAlso": []
 }

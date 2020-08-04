@@ -20,9 +20,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "submission",
     "application",
@@ -31,11 +31,6 @@
     "apply"
   ],
   "deictic": [],
-  "cf": [
-    "list.1",
-    "put.1a",
-    "place.1a"
-  ],
   "signNumber": 200,
   "recordNumber": 116,
   "signVisualComposition": "LIST + PLACE",
@@ -54,11 +49,16 @@
     "4. To complete or make an application for something. English = apply, apply for."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A formal, written request for something, often a job, which is made by writing a letter or completing a form. English = application.",
     "2. A written proposal or application which can be sent to someone so that they can decide whether to accept it or not. English = submission."
   ],
   "idGloss": "submission.1a",
-  "oldEntry": "Popular explanation: putting something in a document."
+  "oldEntry": "Popular explanation: putting something in a document.",
+  "seeAlso": [
+    "list.1",
+    "put.1a",
+    "place.1a"
+  ]
 }

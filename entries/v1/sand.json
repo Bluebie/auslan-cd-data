@@ -11,19 +11,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sand",
     "sandy",
     "powdery"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3392,
   "recordNumber": 1981,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "2. To look and feel like powder (something that consists of many tiny particles of a solid substance). English = powdery."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A powdery substance that consists of extremely small pieces of stone. Most deserts and beaches are covered in it. English = sand."
   ],
   "idGloss": "sand",
-  "oldEntry": "Popular explanation: running sand through one's fingers."
+  "oldEntry": "Popular explanation: running sand through one's fingers.",
+  "seeAlso": []
 }

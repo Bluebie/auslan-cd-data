@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sideboards",
     "sideburns"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5464,
   "recordNumber": 3247,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 9,
@@ -35,10 +34,11 @@
     "1. Of a man, to have sideburns."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. On a man, a strip of hair growing down the side of each cheek. English = sideboards, sideburns."
   ],
   "idGloss": "side.burns.1a",
-  "oldEntry": "Popular explanation: the shape of side burns."
+  "oldEntry": "Popular explanation: the shape of side burns.",
+  "seeAlso": []
 }

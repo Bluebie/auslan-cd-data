@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fit",
     "insert"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4448,
   "recordNumber": 2702,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.4,
   "primaryLocation": 14,
@@ -37,5 +36,6 @@
     "1. The condition of being the right size or shape to go onto or into another thing. English = fit."
   ],
   "idGloss": "insert.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

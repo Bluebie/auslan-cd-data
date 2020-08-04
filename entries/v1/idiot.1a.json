@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "idiot",
     "idiotic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1331,
   "recordNumber": 788,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 3,
@@ -32,10 +31,11 @@
     "1. To be very stupid. English = (be) idiotic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very stupid person. English = idiot."
   ],
   "idGloss": "idiot.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

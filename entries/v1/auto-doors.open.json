@@ -8,17 +8,14 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "auto-doors"
-  ],
   "signNumber": 3732,
   "recordNumber": 2201,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -33,10 +30,13 @@
     "1. Of automatic doors, to open."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The opening of a set of automatic doors."
   ],
   "idGloss": "auto-doors.open",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "auto-doors"
+  ]
 }

@@ -15,21 +15,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "environment",
     "environmental"
   ],
   "deictic": [],
-  "cf": [
-    "culture.1a",
-    "situation"
-  ],
   "signNumber": 193,
   "recordNumber": 110,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -42,11 +38,15 @@
     "1. To be concerned with or to relate to either the surroundings in which a person or animal lives, or the natural world as a whole. English = environmental."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Everything which affects a person in their daily life, for example the place where they live, the people around them, and the things that they experience. English = environment.",
     "2. The natural world of land, sea, air, plants, and animals that exists outside of towns and cities. English = environment."
   ],
   "idGloss": "environment",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "culture.1a",
+    "situation"
+  ]
 }

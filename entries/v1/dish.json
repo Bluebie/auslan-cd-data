@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers produce this sign with a movement towards the body rather than away from the body.",
   "english": [
     "dish",
     "bowl"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3777,
   "recordNumber": 2235,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,5 +38,6 @@
     "1. A shallow container used for cooking or serving food. English = dish."
   ],
   "idGloss": "dish",
-  "oldEntry": "Popular explanation: the form of a dish."
+  "oldEntry": "Popular explanation: the form of a dish.",
+  "seeAlso": []
 }

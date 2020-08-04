@@ -16,20 +16,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "church",
     "religion",
     "religious"
   ],
   "deictic": [],
-  "cf": [
-    "prayer"
-  ],
   "signNumber": 3681,
   "recordNumber": 2168,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -45,11 +42,14 @@
     "1. To have a strong belief in a god or gods and for this to be shown in your everyday life. English = (be) religious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building in which Christians worship. English = church.",
     "2. The belief in a god or gods and the activities that are connected with this belief, such as prayer or worship in a church or temple. English =  religion."
   ],
   "idGloss": "church.1",
-  "oldEntry": "Popular explanation: praying."
+  "oldEntry": "Popular explanation: praying.",
+  "seeAlso": [
+    "prayer"
+  ]
 }

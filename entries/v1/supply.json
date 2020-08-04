@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "supply",
     "provide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6194,
   "recordNumber": 3700,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To give someone something that they need or want. English = supply, provide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "supply",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

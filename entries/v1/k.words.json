@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "kilogram",
     "kilometre"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1489,
   "recordNumber": 888,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -39,5 +38,6 @@
     "2. A metric unit of distance that is a thousand metres. English = kilometre."
   ],
   "idGloss": "k.words",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

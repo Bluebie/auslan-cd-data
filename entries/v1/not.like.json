@@ -9,18 +9,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LIKE + NEGATIVE SUFFIX",
-  "queries": "",
+  "queries": null,
   "english": [
     "dislike",
     "not like"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3450,
   "recordNumber": 2013,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,8 +36,9 @@
     "1. To find something unpleasant or unattractive, or to disapprove of it. English = dislike, not like."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.like",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

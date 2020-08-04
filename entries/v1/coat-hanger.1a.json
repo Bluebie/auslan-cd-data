@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coat-hanger"
   ],
   "deictic": [],
-  "cf": [
-    "wardrobe.1a"
-  ],
   "signNumber": 6581,
   "recordNumber": 3923,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -34,10 +31,13 @@
     "1. To hang up on a coat hanger, or put away in a wardrobe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A curved piece of wood, metal, or plastic that you hang a piece of clothing on. English = coat-hanger."
   ],
   "idGloss": "coat-hanger.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wardrobe.1a"
+  ]
 }

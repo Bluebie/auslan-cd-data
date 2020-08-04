@@ -11,18 +11,13 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "daughter"
   ],
   "deictic": [],
-  "cf": [
-    "father.1",
-    "mother.1a",
-    "aunt.1"
-  ],
   "signNumber": 5393,
   "recordNumber": 3222,
   "signVisualComposition": "D + D",
@@ -38,10 +33,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The female child of someone. English = daughter."
   ],
   "idGloss": "daughter",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "father.1",
+    "mother.1a",
+    "aunt.1"
+  ]
 }

@@ -24,9 +24,9 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "announcement",
     "proclamation",
@@ -37,14 +37,9 @@
     "notify"
   ],
   "deictic": [],
-  "cf": [
-    "send.out",
-    "order",
-    "ignore"
-  ],
   "signNumber": 611,
   "recordNumber": 351,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -60,7 +55,7 @@
     "4. To make a written, spoken or signed account of an event or a situation, especially if done in an official capacity or as a part of work. English = report."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A public statement which gives information about something that has happened or that will happen; or the act of telling people about such. English  = announcement, proclamation.",
     "2. A public announcement about something important, particularly from the government. Formal English = proclamation.",
@@ -68,5 +63,10 @@
     "4. A written, spoken or signed account of an event or a situation, especially one that has been prepared and made public in an official capacity or as part of your work. English = report."
   ],
   "idGloss": "announce.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "send.out",
+    "order",
+    "ignore"
+  ]
 }

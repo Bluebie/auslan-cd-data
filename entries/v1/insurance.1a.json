@@ -9,15 +9,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "insurance",
     "insure"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1167,
   "recordNumber": 686,
   "signVisualComposition": "I + I",
@@ -33,10 +32,11 @@
     "1. To pay money to an insurance company so that, if you become ill or if your property is damaged or stolen, the company will pay you a sum of money. English = insure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An agreement in which you pay a fixed sum of money to a special company, usually each year. Then, if you become ill or if your property is damaged or stolen, the company pays you a sum of money. English = insurance."
   ],
   "idGloss": "insurance.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

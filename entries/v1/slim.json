@@ -12,19 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "slim"
   ],
   "deictic": [],
-  "cf": [
-    "figure.1a"
-  ],
   "signNumber": 3783,
   "recordNumber": 2240,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +40,11 @@
     "2. To have a narrow waist, to be narrow waisted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "slim",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "figure.1a"
+  ]
 }

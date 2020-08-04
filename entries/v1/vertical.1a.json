@@ -10,20 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vertical",
     "perpendicular"
   ],
   "deictic": [],
-  "cf": [
-    "straighten.up.1a"
-  ],
   "signNumber": 3317,
   "recordNumber": 1938,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -38,8 +35,11 @@
     "1. To stand or point straight upwards. English = (be) vertical, (be) perpendicular."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "vertical.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "straighten.up.1a"
+  ]
 }

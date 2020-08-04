@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "week"
   ],
   "deictic": [],
-  "cf": [
-    "next.week.1a"
-  ],
   "signNumber": 2629,
   "recordNumber": 1459,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of seven days, beginning on a Sunday and ending on a Saturday. English = week."
   ],
   "idGloss": "week",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "next.week.1a"
+  ]
 }

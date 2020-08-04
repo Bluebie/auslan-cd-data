@@ -10,17 +10,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stiletto"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5024,
   "recordNumber": 3032,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 17,
@@ -34,10 +33,11 @@
     "2. To walk in stilettos somewhat awkwardly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Women's shoes that have high, very narrow heels. English = stiletto."
   ],
   "idGloss": "stiletto",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

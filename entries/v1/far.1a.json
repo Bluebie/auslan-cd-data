@@ -17,22 +17,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "distance",
     "far",
     "distant"
   ],
   "deictic": [],
-  "cf": [
-    "travel",
-    "advanced.2a"
-  ],
   "signNumber": 5164,
   "recordNumber": 3108,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -50,11 +46,15 @@
     "1. To be located at a great distance away. English = (be) far, (be) far away, (be) distant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The amount of space between two places. English = distance.",
     "2. The distance between two places, especially when that distance is considerable; a long way."
   ],
   "idGloss": "far.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "travel",
+    "advanced.2a"
+  ]
 }

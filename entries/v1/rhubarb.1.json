@@ -10,14 +10,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rhubarb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1323,
   "recordNumber": 782,
   "signVisualComposition": "RED + STICK",
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plant with long red stems which people eat after cooking them with sugar. English = rhubarb."
   ],
   "idGloss": "rhubarb.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

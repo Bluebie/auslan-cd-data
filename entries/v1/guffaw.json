@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "guffaw",
     "laugh at"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3052,
   "recordNumber": 1750,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -38,10 +37,11 @@
     "1. To laugh very loudly, especially at someone in an unkind way. English = guffaw, laugh at."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very loud laugh. English = guffaw."
   ],
   "idGloss": "guffaw",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

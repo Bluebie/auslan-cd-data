@@ -9,20 +9,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trapdoor",
     "hatch"
   ],
   "deictic": [],
-  "cf": [
-    "hatch.1a"
-  ],
   "signNumber": 4370,
   "recordNumber": 2661,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,5 +37,8 @@
   "generalMeaning": "The action of swivelling one flat object down onto another, or any thing or any object that is directly or indirectly associated with this, especially closing a trapdoor or hatch.",
   "nominalLexeme": [],
   "idGloss": "hatch.close",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hatch.1a"
+  ]
 }

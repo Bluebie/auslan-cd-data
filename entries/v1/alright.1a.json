@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alright",
     "okay",
     "fine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4787,
   "recordNumber": 2892,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
     "1. To be satisfactory or acceptable. English = (be) alright, (be) all right, (be) fine, (be) okay."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "alright.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "U + S",
-  "queries": "",
+  "queries": null,
   "english": [
     "Usher's Syndrome"
   ],
   "deictic": [],
-  "cf": [
-    "deaf.1a",
-    "blind.3"
-  ],
   "signNumber": 1886,
   "recordNumber": 1127,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A congenital condition in which a person with deafness (which may get worse and worse) also loses their sight (which may lead to total blindness). English = Usher's Syndrome."
   ],
   "idGloss": "Usher's Syndrome",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "deaf.1a",
+    "blind.3"
+  ]
 }

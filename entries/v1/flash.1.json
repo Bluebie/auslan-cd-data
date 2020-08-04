@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flash"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 82,
   "recordNumber": 46,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -34,11 +33,12 @@
     "2. Of a source of sound, to give out a noise for a short period of time."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sudden brief appearance of light. English = flash.",
     "2. A sudden brief sound, usually loud; a burst of sound; a blast of noise."
   ],
   "idGloss": "flash.1",
-  "oldEntry": "Popular explanation: a flashing energy source."
+  "oldEntry": "Popular explanation: a flashing energy source.",
+  "seeAlso": []
 }

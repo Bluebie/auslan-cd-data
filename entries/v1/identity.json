@@ -7,17 +7,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "identity"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5053,
   "recordNumber": 3048,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the qualities, beliefs, and ideas which make you feel that you belong to a particular group or which define who you are. English = identity."
   ],
   "idGloss": "identity",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

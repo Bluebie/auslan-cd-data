@@ -28,9 +28,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fake",
     "forgery",
@@ -45,12 +45,9 @@
     "betray"
   ],
   "deictic": [],
-  "cf": [
-    "not.true"
-  ],
   "signNumber": 6552,
   "recordNumber": 3904,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -70,11 +67,14 @@
     "4. To deliberately make someone believe something that is not true, especially after assuring them that you will be honest with them. English = deceive, betray, turn against someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is made to look like something valuable or real in order to deceive people. English = fake, forgery, imitation, copy.",
     "2. A person who dishonestly pretends to be someone else in order to get something they want. English = impostor."
   ],
   "idGloss": "false.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.true"
+  ]
 }

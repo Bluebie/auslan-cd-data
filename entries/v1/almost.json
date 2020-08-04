@@ -11,21 +11,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nearly",
     "almost",
     "soon"
   ],
   "deictic": [],
-  "cf": [
-    "soon"
-  ],
   "signNumber": 6099,
   "recordNumber": 3626,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,8 +38,11 @@
     "1. To be not completely, exactly or fully something, but close to it nonetheless. English = (be) nearly, (be) almost."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "almost",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "soon"
+  ]
 }

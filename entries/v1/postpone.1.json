@@ -12,9 +12,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "postponement",
     "postpone",
@@ -22,12 +22,9 @@
     "put off"
   ],
   "deictic": [],
-  "cf": [
-    "disappear.1a"
-  ],
   "signNumber": 4290.1,
   "recordNumber": 2609,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. To arrange for an event to take place at another time later than was originally planned. English = postpone, defer, put off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The moving of the arranged time for an event to another time later than was originally planned. English = postponement."
   ],
   "idGloss": "postpone.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "disappear.1a"
+  ]
 }

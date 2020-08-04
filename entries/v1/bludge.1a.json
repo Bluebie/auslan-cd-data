@@ -16,9 +16,9 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bludger",
     "scrounger",
@@ -29,10 +29,9 @@
     "cadge"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4940,
   "recordNumber": 2986,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,11 +47,12 @@
     "2. To treat someone unfairly for your own benefit, to use someone, to make use of someone, to take advantage of someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who constantly or repeatedly asks other people for things, food or money (especially cigarettes or drinks), rather than buying or getting them him or herself. Informal English = bludger, scrounger.",
     "2. A person who always takes advantage of other people to get or do things they want. English = user, cadger, scrounger, bludger."
   ],
   "idGloss": "bludge.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

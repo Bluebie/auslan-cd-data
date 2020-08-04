@@ -13,17 +13,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "handsome",
     "good-looking"
   ],
   "deictic": [],
-  "cf": [
-    "face.1a"
-  ],
   "signNumber": 5070,
   "recordNumber": 3058,
   "signVisualComposition": "NOSE + GOOD",
@@ -45,8 +42,11 @@
     "1. Of men especially, to have an attractive face with regular features. English = (be) handsome, (be) good-looking."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "handsome.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "face.1a"
+  ]
 }

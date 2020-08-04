@@ -10,17 +10,16 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "rubbish",
     "garbage"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5574,
   "recordNumber": 3299,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -33,11 +32,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Unwanted things or waste material. English = rubbish.",
     "2. Rubbish, especially waste from a kitchen. English = garbage."
   ],
   "idGloss": "garbage",
-  "oldEntry": "Popular explanation: the snout of a pig."
+  "oldEntry": "Popular explanation: the snout of a pig.",
+  "seeAlso": []
 }

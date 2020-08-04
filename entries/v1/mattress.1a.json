@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mattress"
   ],
   "deictic": [],
-  "cf": [
-    "pillow.1",
-    "doona",
-    "sponge"
-  ],
   "signNumber": 3653,
   "recordNumber": 2152,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, flat cushion the same size as a bed, which is put on a bed to make it soft to lie on. English = mattress."
   ],
   "idGloss": "mattress.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pillow.1",
+    "doona",
+    "sponge"
+  ]
 }

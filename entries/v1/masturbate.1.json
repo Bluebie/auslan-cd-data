@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "masturbation",
     "wanking",
@@ -29,12 +29,9 @@
     "jerk off"
   ],
   "deictic": [],
-  "cf": [
-    "dickhead"
-  ],
   "signNumber": 4551,
   "recordNumber": 2756,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -50,11 +47,14 @@
     "2. To behave or to talk on and on in a selfish and egotistical way. English = wank."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a male, the act of stroking or rubbing your own genitals in order to get sexual pleasure. English = masturbation. Informal English = wanking.",
     "2. A person whose behaviour you think is selfish and egotistical. English = wanker."
   ],
   "idGloss": "masturbate.1",
-  "oldEntry": "Popular explanation: the action of male masturbation."
+  "oldEntry": "Popular explanation: the action of male masturbation.",
+  "seeAlso": [
+    "dickhead"
+  ]
 }

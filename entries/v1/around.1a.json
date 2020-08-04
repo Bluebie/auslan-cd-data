@@ -16,19 +16,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "circuit",
     "lap",
     "roundabout"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1090,
   "recordNumber": 640,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -46,11 +45,12 @@
     "4. To do or say something in a way which is not the simplest or most direct way; to avoid the point or the issue. English = (be) roundabout. Idiomatic English = beat around the bush."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The path or places around something.",
     "2. A journey around a circular path or course. English = circuit, lap."
   ],
   "idGloss": "around.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,21 +14,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "facial expression",
     "express",
     "expressive"
   ],
   "deictic": [],
-  "cf": [
-    "let.go"
-  ],
   "signNumber": 6144,
   "recordNumber": 3661,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 9,
@@ -42,10 +39,13 @@
     "2. To be able to show very easily and clearly what you are thinking and feeling through your face. English = (be) expressive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The way your face shows what you are thinking or feeling. English = expression, facial expression."
   ],
   "idGloss": "facial.expression.1a",
-  "oldEntry": "Popular explanation: adjusting facial muscles."
+  "oldEntry": "Popular explanation: adjusting facial muscles.",
+  "seeAlso": [
+    "let.go"
+  ]
 }

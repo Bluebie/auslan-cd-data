@@ -20,9 +20,9 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "guilt",
     "remorse",
@@ -32,12 +32,9 @@
     "sinner"
   ],
   "deictic": [],
-  "cf": [
-    "not.my.responsibility"
-  ],
   "signNumber": 4989,
   "recordNumber": 3011,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -55,12 +52,15 @@
     "4. To do something that is believed to be very bad and immoral, especially according to a religion. English = sin."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The unhappy feeling you have when you believe you have done something wrong. English = guilt. Formal English = remorse.",
     "2. An action that is believed to be vary bad and immoral, especially one that breaks the rules of a religion. English = sin.",
     "3. A person who does something that is believed to be vary bad and immoral, especially breaking the rules of a religion. English = sinner."
   ],
   "idGloss": "guilty.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.my.responsibility"
+  ]
 }

@@ -16,19 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corn",
     "cob",
     "bone"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4575,
   "recordNumber": 2770,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 10,
@@ -45,11 +44,12 @@
     "2. To eat a bone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The large spikes of tightly-packed yellow grains found on a cereal crop. English = corn, cob of corn.",
     "2. A bone of an animal with some meat on it that you can eat."
   ],
   "idGloss": "corn.3",
-  "oldEntry": "Popular explanation: holding and eating a cylindrical object."
+  "oldEntry": "Popular explanation: holding and eating a cylindrical object.",
+  "seeAlso": []
 }

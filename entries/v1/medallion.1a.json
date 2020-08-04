@@ -11,21 +11,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "medal",
     "medallion",
     "pendant"
   ],
   "deictic": [],
-  "cf": [
-    "school captain"
-  ],
   "signNumber": 5327,
   "recordNumber": 3189,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,11 +37,14 @@
     "1. To wear a medal, medallion or pendant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of metal with a design on it. It is given as an award for bravery or as a prize in sporting events.  English = medal.",
     "2. A round piece of metal which is worn as an ornament on a chain round a person's neck. English = medallion, pendant."
   ],
   "idGloss": "medallion.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "school captain"
+  ]
 }

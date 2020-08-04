@@ -21,9 +21,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BEST + ALL",
-  "queries": "",
+  "queries": null,
   "english": [
     "excellence",
     "excellent",
@@ -31,13 +31,9 @@
     "brilliant"
   ],
   "deictic": [],
-  "cf": [
-    "best",
-    "better"
-  ],
   "signNumber": 4867,
   "recordNumber": 2943,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -59,10 +55,14 @@
     "3. To be very clever. English = (be) brilliant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being very good indeed. English = excellence."
   ],
   "idGloss": "excellent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "best",
+    "better"
+  ]
 }

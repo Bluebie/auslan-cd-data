@@ -6,17 +6,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thrice"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2249,
   "recordNumber": 1275,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "thrice.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

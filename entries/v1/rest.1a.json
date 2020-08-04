@@ -13,19 +13,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rest"
   ],
   "deictic": [],
-  "cf": [
-    "lie.down"
-  ],
   "signNumber": 1647,
   "recordNumber": 978,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -40,10 +37,13 @@
     "1. To not do anything active, especially by sitting or lying quietly, for a period of time. English = rest. Idiomatic English = put one's feet up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of time in which you are not doing anything active. English = rest."
   ],
   "idGloss": "rest.1a",
-  "oldEntry": "Popular explanation: putting one's legs up."
+  "oldEntry": "Popular explanation: putting one's legs up.",
+  "seeAlso": [
+    "lie.down"
+  ]
 }

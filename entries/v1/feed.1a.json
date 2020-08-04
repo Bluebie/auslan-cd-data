@@ -14,20 +14,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "feeding",
     "feed"
   ],
   "deictic": [],
-  "cf": [
-    "breastfeed"
-  ],
   "signNumber": 6214,
   "recordNumber": 3711,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -41,10 +38,13 @@
     "2. To supply food to your family or your community. English = feed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of giving food to a baby or an animal or to a person who is unable to eat without help. English = feeding."
   ],
   "idGloss": "feed.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "breastfeed"
+  ]
 }

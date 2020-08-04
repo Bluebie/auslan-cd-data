@@ -11,19 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LIAR + C",
-  "queries": "",
+  "queries": null,
   "english": [
     "cheat"
   ],
   "deictic": [],
-  "cf": [
-    "copy.1a"
-  ],
   "signNumber": 4492,
   "recordNumber": 2729,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -40,10 +37,13 @@
     "1. To lie or behave dishonestly in order to get or achieve something. English = cheat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who lies or behaves dishonestly in order to get or achieve something. English = cheat."
   ],
   "idGloss": "cheat.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "copy.1a"
+  ]
 }

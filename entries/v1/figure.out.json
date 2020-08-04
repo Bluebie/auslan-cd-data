@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "work out",
     "figure out"
   ],
   "deictic": [],
-  "cf": [
-    "average"
-  ],
   "signNumber": 843,
   "recordNumber": 482,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 6,
@@ -41,8 +38,11 @@
     "1. To think about a mystery or a problem and solve it or understand it. English = work out, figure out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "figure.out",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "average"
+  ]
 }

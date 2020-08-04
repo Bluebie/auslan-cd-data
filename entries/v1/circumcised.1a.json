@@ -14,19 +14,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "circumcision",
     "circumcise",
     "circumcised"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4893,
   "recordNumber": 2956,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "2. To have a penis in which the loose skin at the end has been cut off for religious or medical reasons. English = (be) circumcised."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The operation in which the loose skin at the end of a man's or boy's penis is cut off for religious or medical reasons. English = circumcision.",
     "2. The penis of a man or boy in which the loose skin at the end has been cut off. English = circumcised penis."
   ],
   "idGloss": "circumcised.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

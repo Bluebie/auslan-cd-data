@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nappy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2089,
   "recordNumber": 1214,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 17,
@@ -32,10 +31,11 @@
     "1. To fasten a nappy on to a baby; to be wearing a nappy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of soft thick cloth or paper which is fastened round a baby's bottom in order to soak up its urine and faeces. English = nappy."
   ],
   "idGloss": "nappy",
-  "oldEntry": "Popular explanation: pinning up a nappy."
+  "oldEntry": "Popular explanation: pinning up a nappy.",
+  "seeAlso": []
 }

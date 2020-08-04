@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "form",
     "brochure",
@@ -22,10 +22,9 @@
     "flier"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 890,
   "recordNumber": 510,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -36,11 +35,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of paper with questions on it. You write the answers on the same piece of paper. English = form.",
     "2. A sheet of paper, sometimes with pictures, that gives you information about a product or service. English = brochure, flyer, flier."
   ],
   "idGloss": "form.1",
-  "oldEntry": "Popular explanation: the outline of a form."
+  "oldEntry": "Popular explanation: the outline of a form.",
+  "seeAlso": []
 }

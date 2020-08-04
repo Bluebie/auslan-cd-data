@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift",
     "elevator"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3886,
   "recordNumber": 2312,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. To travel up and down in a lift."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device like a large box that moves up and down inside a tall building and carries people from one floor to another. English = lift, elevator."
   ],
   "idGloss": "lift.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

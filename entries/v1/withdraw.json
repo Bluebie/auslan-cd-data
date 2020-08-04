@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "withdrawal",
     "retreat",
@@ -41,12 +41,9 @@
     "revoke"
   ],
   "deictic": [],
-  "cf": [
-    "steal.1a"
-  ],
   "signNumber": 3928,
   "recordNumber": 2342,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -68,12 +65,15 @@
     "4. To take back what was given, especially a remark or a statement, by saying that you wish to change or deny it. English = withdraw, retract, rescind, revoke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The removal of something from one place to another; the removal of troops from the place where there is fighting. English = withdrawal, retreat.",
     "2. The act of stopping participation in some activity. English = withdrawal.",
     "3. The act of taking back what was given, especially a remark or a statement. English = withdrawal, retraction."
   ],
   "idGloss": "withdraw",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "steal.1a"
+  ]
 }

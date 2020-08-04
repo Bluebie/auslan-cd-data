@@ -14,17 +14,16 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "frustration",
     "frustrated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1022,
   "recordNumber": 598,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. To feel upset and angry because you are unable to do what you would like to do. English = (be) frustrated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The unpleasant feeling you have when you are upset and angry because you are unable to do what you would like to do. English = frustration."
   ],
   "idGloss": "frustrated.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

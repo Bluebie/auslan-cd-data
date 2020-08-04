@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pressure cooker"
   ],
   "deictic": [],
-  "cf": [
-    "saucepan"
-  ],
   "signNumber": 6217,
   "recordNumber": 3713,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large saucepan with a lid that fights tightly, in which you can cook food quickly using steam at high pressure. English = pressure cooker."
   ],
   "idGloss": "pressure cooker",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "saucepan"
+  ]
 }

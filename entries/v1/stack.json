@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stack"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3661,
   "recordNumber": 2157,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -39,10 +38,11 @@
     "1. To arrange things into neat piles. English = stack."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A neat pile of things, usually with one thing on top of another. English = stack."
   ],
   "idGloss": "stack",
-  "oldEntry": "Popular explanation: placing things on top of one another."
+  "oldEntry": "Popular explanation: placing things on top of one another.",
+  "seeAlso": []
 }

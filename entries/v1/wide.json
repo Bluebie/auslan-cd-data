@@ -18,9 +18,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "width",
     "widen",
@@ -28,12 +28,9 @@
     "broad"
   ],
   "deictic": [],
-  "cf": [
-    "big.1a"
-  ],
   "signNumber": 3778,
   "recordNumber": 2236,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,10 +48,13 @@
     "2. To measure a large distance from one side to another. English = (be) wide, (be) broad."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The measure of the distance from one side of an object to the other, the measure of the narrowness or width of something. English = width."
   ],
   "idGloss": "wide",
-  "oldEntry": "Popular explanation: moving the sides of something apart."
+  "oldEntry": "Popular explanation: moving the sides of something apart.",
+  "seeAlso": [
+    "big.1a"
+  ]
 }

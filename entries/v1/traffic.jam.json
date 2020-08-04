@@ -15,20 +15,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "traffic jam"
   ],
   "deictic": [],
-  "cf": [
-    "follow.1",
-    "flow.1a"
-  ],
   "signNumber": 2754,
   "recordNumber": 1539,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -44,10 +40,14 @@
     "1. Of traffic, to move very slowly or not at all because the road is blocked or because there are too many vehicles."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long line of cars and other vehicles on a road that cannot move because the road is blocked or there is too many of them. English = traffic jam."
   ],
   "idGloss": "traffic.jam",
-  "oldEntry": "Popular explanation: lines of slow moving traffic.\t"
+  "oldEntry": "Popular explanation: lines of slow moving traffic.\t",
+  "seeAlso": [
+    "follow.1",
+    "flow.1a"
+  ]
 }

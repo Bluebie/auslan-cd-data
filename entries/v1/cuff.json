@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The dominant handshape is often modified to show the relative size and thickness of a cuff when this is relevant.",
   "english": [
     "cuff"
   ],
   "deictic": [],
-  "cf": [
-    "shirt.1a"
-  ],
   "signNumber": 5406,
   "recordNumber": 3225,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The end part of a sleeve which is thicker than the rest of the sleeve. English = cuff."
   ],
   "idGloss": "cuff",
-  "oldEntry": "Popular explanation: the outline of a cuff."
+  "oldEntry": "Popular explanation: the outline of a cuff.",
+  "seeAlso": [
+    "shirt.1a"
+  ]
 }

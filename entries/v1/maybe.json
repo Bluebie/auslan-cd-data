@@ -23,9 +23,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "indecision",
     "vacillation",
@@ -37,13 +37,9 @@
     "might"
   ],
   "deictic": [],
-  "cf": [
-    "can.able.1a",
-    "permit.1"
-  ],
   "signNumber": 2545,
   "recordNumber": 1409,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -66,11 +62,15 @@
     "2. To keep changing your opinions or feelings about something. English = vacillate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Uncertainty about what you should do. English = indecision.",
     "2. The constant changing of your opinions or feelings. English = vacillation."
   ],
   "idGloss": "maybe",
-  "oldEntry": "Popular explanation: the culturally shared gesture of uncertainty."
+  "oldEntry": "Popular explanation: the culturally shared gesture of uncertainty.",
+  "seeAlso": [
+    "can.able.1a",
+    "permit.1"
+  ]
 }

@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "whale"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1,
   "recordNumber": 1,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
   ],
   "idGloss": "whale.1",
-  "oldEntry": "Popular explanation: the whale spurting from its breathing hole."
+  "oldEntry": "Popular explanation: the whale spurting from its breathing hole.",
+  "seeAlso": []
 }

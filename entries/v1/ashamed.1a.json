@@ -22,9 +22,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shame",
     "embarrassment",
@@ -36,10 +36,9 @@
     "shameful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2439,
   "recordNumber": 1352,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -59,11 +58,12 @@
     "3. Of someone's actions, to be so bad that they ought to be ashamed. English = shameful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An uncomfortable feeling you have when you know you have done something wrong. English = shame, embarrassment.",
     "2. The act of going redder in your face than usual because you are ashamed or embarrassed. English = blushing."
   ],
   "idGloss": "ashamed.1a",
-  "oldEntry": "Popular explanation: blood rising in your face."
+  "oldEntry": "Popular explanation: blood rising in your face.",
+  "seeAlso": []
 }

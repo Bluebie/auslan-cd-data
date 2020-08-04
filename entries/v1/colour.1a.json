@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "colour"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 864,
   "recordNumber": 494,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 10,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The appearance of something as the result of reflecting light. Examples include red, blue, and green. English = colour."
   ],
   "idGloss": "colour.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

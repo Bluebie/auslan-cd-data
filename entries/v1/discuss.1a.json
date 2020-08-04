@@ -27,9 +27,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chat",
     "communication",
@@ -40,14 +40,9 @@
     "interact"
   ],
   "deictic": [],
-  "cf": [
-    "communicate.1a",
-    "interview.1a",
-    "interview.2"
-  ],
   "signNumber": 3823,
   "recordNumber": 2271,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,12 +61,17 @@
     "3. To communicate, work and socialise together. English = interact."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The exchange of pleasantries, news or information between two people. English = conversation, dialogue, discussion. Informal English = chat.",
     "2. The exchange of information between people. English = communication.",
     "3. The activity through which people communicate, work and socialise together. English = interaction."
   ],
   "idGloss": "discuss.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "communicate.1a",
+    "interview.1a",
+    "interview.2"
+  ]
 }

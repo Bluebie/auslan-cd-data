@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "time out"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4372,
   "recordNumber": 2662,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -35,10 +34,11 @@
     "1. To take a brief time of rest during a game or a meeting. English = take time out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A brief time of rest during a game or a meeting. English = time out."
   ],
   "idGloss": "time.out",
-  "oldEntry": "Popular explanation: culturally shared gesture."
+  "oldEntry": "Popular explanation: culturally shared gesture.",
+  "seeAlso": []
 }

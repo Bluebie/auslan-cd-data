@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6355,
   "recordNumber": 3796,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -36,5 +35,6 @@
     "1. One of the small hard seeds in a fruit such as an apple, orange, or pear. English = pip."
   ],
   "idGloss": "pip",
-  "oldEntry": "Popular explanation: removing something small from your mouth."
+  "oldEntry": "Popular explanation: removing something small from your mouth.",
+  "seeAlso": []
 }

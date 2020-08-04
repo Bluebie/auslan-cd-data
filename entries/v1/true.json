@@ -30,7 +30,7 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
+  "blend": null,
   "queries": "This sign can be used at the end of a sentence with a questioning facial expression to turn it into a question with a 'yes' or 'no' answer.",
   "english": [
     "truth",
@@ -47,12 +47,9 @@
     "such"
   ],
   "deictic": [],
-  "cf": [
-    "confirm.1a"
-  ],
   "signNumber": 4287,
   "recordNumber": 2606,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -74,12 +71,15 @@
     "4. To believe that someone is honest, is telling the truth and will not deliberately do anything to harm you. English = trust."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the facts about something, rather than things that are imagined or invented. English = truth.",
     "2. A piece of information that is true. English = fact.",
     "3. The world around us as it is rather than the way someone imagines it to be. English = reality."
   ],
   "idGloss": "true",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "confirm.1a"
+  ]
 }

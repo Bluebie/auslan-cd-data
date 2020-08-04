@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bream"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1368,
   "recordNumber": 810,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of fish found in Australian waters and highly valued as a food. English = bream."
   ],
   "idGloss": "bream",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

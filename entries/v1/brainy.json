@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "brainy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4467,
   "recordNumber": 2715,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -37,8 +36,9 @@
     "1. To be very clever and good at learning. English = (be) brainy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "brainy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

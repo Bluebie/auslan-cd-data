@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "don't know"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2778,
   "recordNumber": 1557,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -37,8 +36,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "dunno",
-  "oldEntry": "Popular explanation: culturally shared dismissive gesture."
+  "oldEntry": "Popular explanation: culturally shared dismissive gesture.",
+  "seeAlso": []
 }

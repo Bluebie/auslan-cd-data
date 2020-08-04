@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "holiday",
     "vacation"
   ],
   "deictic": [],
-  "cf": [
-    "available"
-  ],
   "signNumber": 6558,
   "recordNumber": 3908,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 14.1,
   "primaryLocation": 14,
@@ -44,10 +41,13 @@
     "1. To go away for a period of time during which you relax and enjoy yourself away from home. English = holiday, go on holidays."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of time during which you are relaxing and enjoying yourself away from home; a period of time during which you are not working or attending school, college, or university. English = holiday, holidays, vacation."
   ],
   "idGloss": "holiday.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "available"
+  ]
 }

@@ -15,20 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gift",
     "give"
   ],
   "deictic": [],
-  "cf": [
-    "come.back"
-  ],
   "signNumber": 3840,
   "recordNumber": 2283,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,10 +41,13 @@
     "1. To offer something to someone as a present; to hand something over to someone; to provide someone with something and let them keep it. English = give, hand over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that you give to someone as a present. English = gift."
   ],
   "idGloss": "give.1",
-  "oldEntry": "Popular explanation: handing something over."
+  "oldEntry": "Popular explanation: handing something over.",
+  "seeAlso": [
+    "come.back"
+  ]
 }

@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fart",
     "farting",
@@ -30,10 +30,9 @@
     "smelly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3170,
   "recordNumber": 1839,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -52,11 +51,12 @@
     "2. To allow air to be forced out of your body through your anus. English = fart. Polite English = break wind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The effect that something has on your nose, especially if the effect is unpleasant. English = smell, odour.",
     "2. The act of forcing air out of your body through your anus, or the resulting unpleasantly smelling expelled air. English = fart."
   ],
   "idGloss": "fart.1",
-  "oldEntry": "Popular explanation: waving away an unpleasant smell."
+  "oldEntry": "Popular explanation: waving away an unpleasant smell.",
+  "seeAlso": []
 }

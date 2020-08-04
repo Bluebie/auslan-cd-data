@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lousy",
     "rotten",
@@ -34,10 +34,9 @@
     "go off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4916,
   "recordNumber": 2970,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -59,8 +58,9 @@
     "3. (When talking of food, wood or the bodies of animals) to become no good because they are getting old, dying, or are dead and are being attacked by micro-organisms or insects. English = rot, decay, go off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lousy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

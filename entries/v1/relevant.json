@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relevant"
   ],
   "deictic": [],
-  "cf": [
-    "intend.1"
-  ],
   "signNumber": 3977,
   "recordNumber": 2378,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,8 +31,11 @@
     "2. To start to talk about what others are talking or writing about, especially after having moved away from it. English = become relevant, come back to the point."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "relevant",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "intend.1"
+  ]
 }

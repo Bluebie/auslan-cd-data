@@ -14,9 +14,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "resistance",
     "avoidance",
@@ -25,10 +25,9 @@
     "tolerate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5779,
   "recordNumber": 3426,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -44,11 +43,12 @@
     "2. Of a person or thing, to be able to suffer the existence or action of something against you which you do not like or which is potentially damaging but without any actual harm occurring. English = tolerate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of keeping away or refusing someone or something which has the potential to cause you harm or damage, especially if you could be tempted. English = resistance, avoidance.",
     "2. The ability of something to withstand various pressures."
   ],
   "idGloss": "avoid.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

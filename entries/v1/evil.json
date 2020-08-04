@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Appears to be ASL loan sign, but interestingly some Auslan signers interpret it as 'wrong' initialised for 'e' and sign it lower in space.",
   "english": [
     "evil"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 65,
   "recordNumber": 37,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,10 +38,11 @@
     "2. Of actions, to cause a great deal of harm to people. English = (be) evil."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the wicked and bad things that happen in the world. English = evil."
   ],
   "idGloss": "evil",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -18,19 +18,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "night",
     "tonight",
     "nightly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1755,
   "recordNumber": 1052,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -51,12 +50,13 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of each period of twenty-four hours when it is dark outside, especially the time when most people are sleeping. English = night.",
     "2. The period of time between the end of the afternoon and midnight, or between the end of the afternoon and the time when you go to bed. English = night.",
     "3. The evening or night that will come at the end of today. English = tonight."
   ],
   "idGloss": "night.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

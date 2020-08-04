@@ -14,18 +14,17 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fun",
     "oops"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 32,
   "recordNumber": 18,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -45,10 +44,11 @@
     "1. Of an activity, to be enjoyable or amusing. English = (be) fun."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Activities which are enjoyable and amusing. English = fun."
   ],
   "idGloss": "fun",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

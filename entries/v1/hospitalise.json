@@ -10,14 +10,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hospitalise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5925,
   "recordNumber": 3528,
   "signVisualComposition": "THROW.OUT + HOSPITAL",
@@ -36,8 +35,9 @@
     "1. To put someone in hospital because they are sick, especially in an emergency. English = hospitalise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hospitalise",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

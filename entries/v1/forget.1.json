@@ -10,20 +10,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "forget",
     "go blank"
   ],
   "deictic": [],
-  "cf": [
-    "empty-headed"
-  ],
   "signNumber": 3132,
   "recordNumber": 1809,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -39,8 +36,11 @@
     "2. To be unable to remember things you have learnt (such as your part in a play, or information for an exam) or to be unable to think of anything to say. English = go blank."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "forget.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "empty-headed"
+  ]
 }

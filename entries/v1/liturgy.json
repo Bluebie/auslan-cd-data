@@ -11,17 +11,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ASL - MASS +  L",
-  "queries": "",
+  "queries": null,
   "english": [
     "liturgy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5213,
   "recordNumber": 3131,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The religious services that are carried out in a set way in a Christian church. English = liturgy.",
     "2. A particular form of religious service. English = liturgy."
   ],
   "idGloss": "liturgy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

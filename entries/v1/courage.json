@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "courage",
     "bravery",
@@ -29,10 +29,9 @@
     "brave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5747,
   "recordNumber": 3403,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -49,11 +48,12 @@
     "1. To show great courage. English = (be) courageous, (be) brave. Informal English = have guts."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. English = courage, bravery. Informal English = guts.",
     "2. A person you admire greatly because they have done things that are courageous or brave. English = hero."
   ],
   "idGloss": "courage",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

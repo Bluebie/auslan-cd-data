@@ -17,8 +17,8 @@
     "engtf5"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "stamp",
     "seal",
@@ -27,10 +27,9 @@
     "sealed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5989,
   "recordNumber": 3563,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,12 +44,13 @@
     "3. To be something which has a mark on it made by a stamp or a seal. English = (be) stamped, (be) marked, (be) sealed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small block of wood, metal or plastic with a handle, which has a pattern or a group of letters on one side. You press it into an inky pad and then onto a piece of paper in order to produce a mark. English = stamp.",
     "2. The mark left on a piece of paper by a stamp; an official mark left on a document to show that it is legal or genuine. English = stamp; seal.",
     "3. A stamp, usually made in wax, that marks and closes a container or a letter that must be broken before it can be opened. English = seal."
   ],
   "idGloss": "stamp.2",
-  "oldEntry": "Popular explanation: applying a stamp to something."
+  "oldEntry": "Popular explanation: applying a stamp to something.",
+  "seeAlso": []
 }

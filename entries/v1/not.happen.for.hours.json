@@ -6,18 +6,14 @@
     "domonly",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "happen.1a",
-    "not.happen"
-  ],
   "signNumber": 431,
   "recordNumber": 240,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -30,8 +26,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.happen.for.hours",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "happen.1a",
+    "not.happen"
+  ]
 }

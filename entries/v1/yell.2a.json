@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SAY + FAR",
-  "queries": "",
+  "queries": null,
   "english": [
     "yell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5102,
   "recordNumber": 3078,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -38,10 +37,11 @@
     "1. To shout loudly, usually because you are excited, angry, or in pain. English = yell."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A loud shout given by someone who is excited, afraid, or in pain. English = yell."
   ],
   "idGloss": "yell.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scrape",
     "scraping",
     "grind"
   ],
   "deictic": [],
-  "cf": [
-    "shave.1a"
-  ],
   "signNumber": 1513,
   "recordNumber": 902,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "2. In motor mechanics, to grind the head of the engine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of removing something from a surface by pulling a knife or some other sharp object over it. English = scraping."
   ],
   "idGloss": "scrape",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shave.1a"
+  ]
 }

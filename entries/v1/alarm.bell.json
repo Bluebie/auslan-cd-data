@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alarm",
     "alarm bell"
   ],
   "deictic": [],
-  "cf": [
-    "ring.bell"
-  ],
   "signNumber": 1284,
   "recordNumber": 763,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -39,10 +36,13 @@
     "1. Of an alarm, to make a loud noise by ringing (or by any other means) in order to warn people of some danger."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An automatic device that warns you of danger, for example by ringing a bell. English = alarm, alarm bell."
   ],
   "idGloss": "alarm.bell",
-  "oldEntry": "Popular explanation: the hammer of a bell striking a surface."
+  "oldEntry": "Popular explanation: the hammer of a bell striking a surface.",
+  "seeAlso": [
+    "ring.bell"
+  ]
 }

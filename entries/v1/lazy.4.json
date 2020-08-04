@@ -12,18 +12,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "laziness",
     "lazy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4566,
   "recordNumber": 2765,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 19,
@@ -40,10 +39,11 @@
     "1. To avoid doing any work or making any effort to do something. English = (be) lazy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The characteristic of avoiding doing any work or making any effort to do something. English = laziness."
   ],
   "idGloss": "lazy.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "onion"
   ],
   "deictic": [],
-  "cf": [
-    "sound"
-  ],
   "signNumber": 2430,
   "recordNumber": 1347,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small round vegetable. It is white with a brown, papery skin, and has a strong smell and taste. It can make your eyes water, as if you are crying, when you cut it. English = onion."
   ],
   "idGloss": "onion.1a",
-  "oldEntry": "Popular explanation: something going into your eyes."
+  "oldEntry": "Popular explanation: something going into your eyes.",
+  "seeAlso": [
+    "sound"
+  ]
 }

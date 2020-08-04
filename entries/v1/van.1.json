@@ -13,18 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "van",
     "coach"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4599,
   "recordNumber": 2784,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A vehicle like a large car that is used for carrying goods. English = van.",
     "2. A comfortable bus that carries passengers on long journeys. English = coach."
   ],
   "idGloss": "van.1",
-  "oldEntry": "Popular explanation: the form of a van."
+  "oldEntry": "Popular explanation: the form of a van.",
+  "seeAlso": []
 }

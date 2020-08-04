@@ -12,21 +12,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "evening"
   ],
   "deictic": [],
-  "cf": [
-    "tonight",
-    "good.night.1",
-    "last.night.1"
-  ],
   "signNumber": 3376,
   "recordNumber": 1974,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,10 +38,15 @@
     "1. To become dark, to become night."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The time of the day when it gets dark, between the end of the afternoon and the time when you go to bed. English = evening."
   ],
   "idGloss": "evening",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tonight",
+    "good.night.1",
+    "last.night.1"
+  ]
 }

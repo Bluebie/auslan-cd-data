@@ -14,9 +14,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "creation",
     "creative",
@@ -25,10 +25,9 @@
     "imagine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 829,
   "recordNumber": 474,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 3,
@@ -42,10 +41,11 @@
     "2. To invent and develop original ideas, especially in art. English = create, imagine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An invention or development of original ideas, especially in art. English = creation."
   ],
   "idGloss": "creative",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

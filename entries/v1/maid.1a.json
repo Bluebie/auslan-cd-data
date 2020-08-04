@@ -12,9 +12,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "maid",
     "servant",
@@ -22,10 +22,9 @@
     "kitchen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4757,
   "recordNumber": 2876,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who works as in a hotel, boarding school or private house, cleaning, preparing and serving meals etc. English = maid, servant, kitchen-hand.",
     "2. A room that you use for cooking and for household jobs such as washing dishes. English = kitchen."
   ],
   "idGloss": "maid.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

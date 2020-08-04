@@ -17,9 +17,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "veil",
     "Muslim",
@@ -28,10 +28,9 @@
     "Islamic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3548.1,
   "recordNumber": 2078,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -54,5 +53,6 @@
     "3. The religion of the Muslims, which teaches that there is only one God and that Mohammed is His prophet. English = Islam."
   ],
   "idGloss": "veil",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

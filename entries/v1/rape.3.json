@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rape",
     "rapist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2617,
   "recordNumber": 1452,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
     "1. To violently force someone to have sex with you when they do not want to. English = rape."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of violently forcing someone to have sex with you when they do not want to. English = rape.",
     "2. A person, usually a man, who violently forces other people, usually women, to have sex with him when they do not want to. English = rapist."
   ],
   "idGloss": "rape.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

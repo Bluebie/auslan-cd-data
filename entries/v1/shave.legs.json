@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1439,
   "recordNumber": 858,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -30,10 +29,11 @@
     "1. To shave your legs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Legs which have been shaved."
   ],
   "idGloss": "shave.legs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

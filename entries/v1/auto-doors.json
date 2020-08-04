@@ -7,18 +7,14 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "auto-doors.open",
-    "auto-doors.close"
-  ],
   "signNumber": 3733,
   "recordNumber": 2202,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -29,10 +25,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set of automatic doors."
   ],
   "idGloss": "auto-doors",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "auto-doors.open",
+    "auto-doors.close"
+  ]
 }

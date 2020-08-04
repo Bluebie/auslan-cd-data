@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "anus",
     "arse",
     "arsehole"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4887,
   "recordNumber": 2953,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hole between a person's buttocks, from which faeces leave their body. Formal English = anus  (a polite or medical word). Vulgar English = arse, arsehole."
   ],
   "idGloss": "anus",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

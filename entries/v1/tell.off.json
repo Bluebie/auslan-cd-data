@@ -15,21 +15,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tell off",
     "blast"
   ],
   "deictic": [],
-  "cf": [
-    "argue",
-    "blame.1a"
-  ],
   "signNumber": 152,
   "recordNumber": 83,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -46,8 +42,12 @@
     "1. To speak or sign to someone in an angry or serious way because they have done something wrong. Idiomatic English = tell off, blast."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "tell.off",
-  "oldEntry": "Popular explanation: rapid angry fingerspelling."
+  "oldEntry": "Popular explanation: rapid angry fingerspelling.",
+  "seeAlso": [
+    "argue",
+    "blame.1a"
+  ]
 }

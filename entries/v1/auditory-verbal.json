@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "auditory-verbal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3263,
   "recordNumber": 1901,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -35,10 +34,11 @@
     "2. Of a deaf child, to be subjected to the auditory-verbal technique."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An educational philosophy and technique used in the education of some deaf children which stresses speech and listening without the reliance any visual clues, including lip patterns. English = auditory-verbal technique."
   ],
   "idGloss": "auditory-verbal",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

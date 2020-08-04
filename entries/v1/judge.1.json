@@ -25,9 +25,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "court",
     "judge",
@@ -39,12 +39,9 @@
     "legal"
   ],
   "deictic": [],
-  "cf": [
-    "check.1a"
-  ],
   "signNumber": 6616,
   "recordNumber": 3938,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 15.1,
   "primaryLocation": 8,
@@ -61,7 +58,7 @@
     "3. To relate to or be connected to the law. English = (be) legal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where legal matters are decided by a judge and jury or by a magistrate. English = court.",
     "2. The person in a court of law who decides how the law should be applied to people, for example how criminals should be punished. English = judge.",
@@ -69,5 +66,8 @@
     "4. A person who is qualified  to advise people about the law and/or represent them in court. English = lawyer, solicitor, barrister."
   ],
   "idGloss": "judge.1",
-  "oldEntry": "Popular explanation: the wig of a judge."
+  "oldEntry": "Popular explanation: the wig of a judge.",
+  "seeAlso": [
+    "check.1a"
+  ]
 }

@@ -13,18 +13,17 @@
     "engtf3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "dough",
     "pastry",
     "knead"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4636,
   "recordNumber": 2808,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -39,11 +38,12 @@
     "1. To press and squeeze dough with your hands so that it becomes smooth and ready to cook. English = knead."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mixture of flour and water, and sometimes also sugar and fat, which can be cooked to make bread, pastry, or biscuits. English = dough.",
     "2. A food made of flour, fat, and water that is mixed into a dough and then rolled flat. It is used for making pies and flans. English = pastry."
   ],
   "idGloss": "pastry",
-  "oldEntry": "Popular explanation: rolling or kneading pastry."
+  "oldEntry": "Popular explanation: rolling or kneading pastry.",
+  "seeAlso": []
 }

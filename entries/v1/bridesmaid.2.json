@@ -15,22 +15,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bridesmaid",
     "train"
   ],
   "deictic": [],
-  "cf": [
-    "bride",
-    "groomsman",
-    "wedding.1a"
-  ],
   "signNumber": 6178,
   "recordNumber": 3689,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -43,11 +38,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman or a girl who helps and accompanies a bride on her wedding day. English = bridesmaid.",
     "2. The long part at the back of a formal dress that rests on the ground. English = train."
   ],
   "idGloss": "bridesmaid.2",
-  "oldEntry": "Popular explanation: holding on to the bride's train."
+  "oldEntry": "Popular explanation: holding on to the bride's train.",
+  "seeAlso": [
+    "bride",
+    "groomsman",
+    "wedding.1a"
+  ]
 }

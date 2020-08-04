@@ -6,14 +6,13 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gentleman"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3716,
   "recordNumber": 2193,
   "signVisualComposition": "RICH + MAN",
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man who is well behaved, educated, and refined. English = gentleman."
   ],
   "idGloss": "gentleman.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

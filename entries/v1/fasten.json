@@ -9,20 +9,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fasten",
     "buckle"
   ],
   "deictic": [],
-  "cf": [
-    "edit"
-  ],
   "signNumber": 2040,
   "recordNumber": 1194,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -40,5 +37,8 @@
   "generalMeaning": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as splicing film together, joining streamers and, particularly, joining up the two ends of a belt.",
   "nominalLexeme": [],
   "idGloss": "fasten",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "edit"
+  ]
 }

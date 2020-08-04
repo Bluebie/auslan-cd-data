@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "WILL + 'NOT'",
-  "queries": "",
+  "queries": null,
   "english": [
     "refusal",
     "refuse",
@@ -26,10 +26,9 @@
     "won't"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4725,
   "recordNumber": 2855,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -50,10 +49,11 @@
     "1. To deliberately intend not to do something or to say you will not do something. English = refuse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of deliberately not doing something or saying that you will not do it. English = refusal."
   ],
   "idGloss": "won't.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

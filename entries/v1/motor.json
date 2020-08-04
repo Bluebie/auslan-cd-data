@@ -12,20 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "motor",
     "engine"
   ],
   "deictic": [],
-  "cf": [
-    "gears"
-  ],
   "signNumber": 3042,
   "recordNumber": 1744,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of a machine or vehicle that uses electricity or fuel to produce movement, so that the machine or vehicle can work. English = motor, engine."
   ],
   "idGloss": "motor",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "gears"
+  ]
 }

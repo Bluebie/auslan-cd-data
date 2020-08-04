@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cliff"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3380,
   "recordNumber": 1975,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -34,5 +33,6 @@
     "1. A high area of land which a very steep side, especially one next to the sea. English = cliff."
   ],
   "idGloss": "cliff.1a",
-  "oldEntry": "Popular explanation: the line of an even surface which suddenly drops'"
+  "oldEntry": "Popular explanation: the line of an even surface which suddenly drops'",
+  "seeAlso": []
 }

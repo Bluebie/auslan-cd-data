@@ -6,19 +6,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "black eye"
   ],
   "deictic": [],
-  "cf": [
-    "eyeball"
-  ],
   "signNumber": 2910.1,
   "recordNumber": 1647,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": null,
   "primaryLocation": 4,
@@ -29,10 +26,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An eye which has been injured and has a dark-coloured bruise around it. English = black eye."
   ],
   "idGloss": "black eye",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "eyeball"
+  ]
 }

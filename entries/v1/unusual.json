@@ -18,9 +18,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unusual",
     "uncommon",
@@ -29,10 +29,9 @@
     "suddenly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4164,
   "recordNumber": 2515,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -56,8 +55,9 @@
     "3. To be not suitable or right for a particular occasion or use. English = (be) inappropriate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "unusual",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

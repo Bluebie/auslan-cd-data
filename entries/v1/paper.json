@@ -12,18 +12,17 @@
     "syn2",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "paper",
     "newspaper"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5784,
   "recordNumber": 3429,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Material that you write on or wrap things with. English = paper.",
     "2. A number of large sheets of folded paper on which news, advertisements, and other information is printed. Some are available everyday and other once a week. English = newspaper."
   ],
   "idGloss": "paper",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

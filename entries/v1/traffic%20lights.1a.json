@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "traffic lights"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 33,
   "recordNumber": 20,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set of red, amber, and green lights at a road junction which control the flow of traffic. The red light means stop, amber means prepare to stop or to move off, and green means go. English = traffic lights."
   ],
   "idGloss": "traffic lights.1a",
-  "oldEntry": "Popular explanation: three lights in a vertical line."
+  "oldEntry": "Popular explanation: three lights in a vertical line.",
+  "seeAlso": []
 }

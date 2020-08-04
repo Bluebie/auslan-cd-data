@@ -13,18 +13,17 @@
     "engtf3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "developing",
     "developer",
     "develop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6171,
   "recordNumber": 3683,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. To make prints or negatives from photographic flim. English = develop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of making prints or negatives from photographic film. English = developing.",
     "2. The special liquid in which photographic film is immersed in order to make prints or negatives from it. English = developer."
   ],
   "idGloss": "develop.2",
-  "oldEntry": "Popular explanation: agitating developing paper in fluid."
+  "oldEntry": "Popular explanation: agitating developing paper in fluid.",
+  "seeAlso": []
 }

@@ -14,9 +14,9 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "contribution",
     "donation",
@@ -24,10 +24,9 @@
     "donate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6249,
   "recordNumber": 3734,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,11 +44,12 @@
     "2. To give money to a charity. English = donate (money), make a donation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Money which several people pay towards something. English = (monetary) contribution.",
     "2. Money which is given to a charity. English = donation."
   ],
   "idGloss": "donate.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

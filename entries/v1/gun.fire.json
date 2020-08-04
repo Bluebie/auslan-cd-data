@@ -8,19 +8,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gunfire"
   ],
   "deictic": [],
-  "cf": [
-    "bullet"
-  ],
   "signNumber": 6272.2,
   "recordNumber": 3746,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The noise and smoke that comes out of a gun when it is fired. English = gunfire."
   ],
   "idGloss": "gun.fire",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bullet"
+  ]
 }

@@ -13,20 +13,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "robot",
     "robotic"
   ],
   "deictic": [],
-  "cf": [
-    "parade.1"
-  ],
   "signNumber": 3805,
   "recordNumber": 2261,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,11 +36,14 @@
     "1. To move like a science fiction robot. English = (be) robotic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A science fiction machine, shaped like a person, which is programmed to move and perform tasks automatically. English = robot.",
     "2. A machine which is programmed to move and perform certain tasks automatically. English = robot."
   ],
   "idGloss": "robot",
-  "oldEntry": "Popular explanation: the arms moving in the stiff fashion of a robot."
+  "oldEntry": "Popular explanation: the arms moving in the stiff fashion of a robot.",
+  "seeAlso": [
+    "parade.1"
+  ]
 }

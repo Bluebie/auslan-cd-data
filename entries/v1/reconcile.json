@@ -6,17 +6,16 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "reconcile"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2580,
   "recordNumber": 1423,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 1,
@@ -29,8 +28,9 @@
     "1. In religious belief, to become friendly, as one, or at peace with God. Formal English = reconcile."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "reconcile",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -29,9 +29,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "interest",
     "awareness",
@@ -47,10 +47,9 @@
     "interesting"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2735,
   "recordNumber": 1526,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -70,12 +69,13 @@
     "4. To feel very surprised about something. English = (be) amazed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The desire you have to want to learn more about something; the attraction someone or something has for you because it is exciting or unusual. English = interest.",
     "2. The knowledge you have about the existence of something; the realisation that something is present or happening. English = awareness.",
     "3. What you feel when something surprises you very much. English = amazement."
   ],
   "idGloss": "impress.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

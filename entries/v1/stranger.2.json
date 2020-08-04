@@ -17,18 +17,17 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "stranger",
     "alien",
     "enemy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3466,
   "recordNumber": 2025,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,12 +46,13 @@
     "1. To belong to somebody else, not oneself; to be not one's own."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone you have never met before. English = stranger.",
     "2. Someone who comes from a different country, race, or group. English = alien.",
     "3. In a war, the army or country that your country is fighting. English = enemy."
   ],
   "idGloss": "stranger.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

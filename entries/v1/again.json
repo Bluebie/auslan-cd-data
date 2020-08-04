@@ -11,21 +11,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "again",
     "pardon"
   ],
   "deictic": [],
-  "cf": [
-    "repeat.1a",
-    "often.1a"
-  ],
   "signNumber": 1602,
   "recordNumber": 953,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -42,8 +38,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "again",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "repeat.1a",
+    "often.1a"
+  ]
 }

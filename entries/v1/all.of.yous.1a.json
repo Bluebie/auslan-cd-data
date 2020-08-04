@@ -8,9 +8,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "you",
     "all of you"
@@ -18,10 +18,9 @@
   "deictic": [
     "Refers to people you are talking to, especially in a polite or formal way, for example when signing to a large crowd of people and giving a speech. English = you, all of you."
   ],
-  "cf": [],
   "signNumber": 3410,
   "recordNumber": 1991,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "all.of.yous.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

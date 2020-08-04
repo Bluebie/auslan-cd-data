@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "consultant",
     "consultation"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 356,
   "recordNumber": 197,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 10,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who gives expert advice to people who need professional help. English = consultant.",
     "2. A discussion between people, particularly when questions are asked and advice and information is being given. English = consultation."
   ],
   "idGloss": "consultant",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oven",
     "bake"
   ],
   "deictic": [],
-  "cf": [
-    "microwave"
-  ],
   "signNumber": 4128,
   "recordNumber": 2486,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "2. To cook in an oven without extra liquid or fat. English = bake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A cooker or part of a cooker that is like a box with a door. You put food inside the oven in order to cook it. English = oven."
   ],
   "idGloss": "oven.1",
-  "oldEntry": "Popular explanation: placing a tray in an oven."
+  "oldEntry": "Popular explanation: placing a tray in an oven.",
+  "seeAlso": [
+    "microwave"
+  ]
 }

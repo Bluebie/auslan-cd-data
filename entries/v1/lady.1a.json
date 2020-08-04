@@ -20,9 +20,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lady",
     "Lady",
@@ -33,10 +33,9 @@
     "female"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3236,
   "recordNumber": 1882,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -54,7 +53,7 @@
     "2. To relate to women rather than men. English = (be) female."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A polite way of referring to an adult female human being (woman). English = lady.",
     "2. A woman who behaves in a polite, dignified, and graceful way; or a woman from a privileged background. English = lady.",
@@ -62,5 +61,6 @@
     "4. An adult female human being. English = woman."
   ],
   "idGloss": "lady.1a",
-  "oldEntry": "Popular explanation: stroking the smooth face of a woman."
+  "oldEntry": "Popular explanation: stroking the smooth face of a woman.",
+  "seeAlso": []
 }

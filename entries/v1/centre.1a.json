@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "centre",
     "central"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6543,
   "recordNumber": 3897,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,12 +38,13 @@
     "2. Of a place, to be easy to reach because it is in the centre of a city. English = (be) central."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The middle of something. English = centre.",
     "2. A building where people have meetings, get help of some kind, or take part in a particular activity. English = centre.",
     "3. In rugby football, one of the two middle players in the three-quarter line. English = centre."
   ],
   "idGloss": "centre.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

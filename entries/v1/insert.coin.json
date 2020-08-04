@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vending machine",
     "insert"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6377,
   "recordNumber": 3812,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,5 +37,6 @@
     "1. A machine from which you can get things such as cigarettes, chocolate, or coffee by putting in money and pressing a button. English = vending machine."
   ],
   "idGloss": "insert.coin",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

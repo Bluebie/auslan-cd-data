@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dentist",
     "filling"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6578,
   "recordNumber": 3922,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +38,12 @@
     "1. To make a filling in a tooth."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is qualified to treat people's teeth. English = dentist.",
     "2. A small amount of metal or plastic that a dentist puts in a hole in a tooth. English = filling."
   ],
   "idGloss": "dentist.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

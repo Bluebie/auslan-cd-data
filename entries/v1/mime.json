@@ -13,17 +13,16 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mime"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3692,
   "recordNumber": 2177,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,11 +39,12 @@
     "1. To use movements and gestures to express something or tell a story without using speech or signs. English = mime."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The use of movements and gestures to express something or tell a story without using speech or signs. English = mime.",
     "2. An actor who uses mime in his or her performances. English = mime."
   ],
   "idGloss": "mime",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

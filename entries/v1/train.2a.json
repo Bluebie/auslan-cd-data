@@ -14,20 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "train",
     "electric-train"
   ],
   "deictic": [],
-  "cf": [
-    "train.3a"
-  ],
   "signNumber": 1763,
   "recordNumber": 1059,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -42,10 +39,13 @@
     "1. To go or travel by train, especially an electric train."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A number of carriages or trucks which are pulled by an engine along a railway line, especially one powered by overhead wires. English = train, electric-train."
   ],
   "idGloss": "train.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "train.3a"
+  ]
 }

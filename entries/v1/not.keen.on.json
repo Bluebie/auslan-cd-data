@@ -12,18 +12,14 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disagreeable",
     "not keen"
   ],
   "deictic": [],
-  "cf": [
-    "useless",
-    "very.sweet"
-  ],
   "signNumber": 4744,
   "recordNumber": 2868,
   "signVisualComposition": "SWEET + 'NOT'",
@@ -42,8 +38,12 @@
     "2. Of something, to have too much of some quality so that it is not desireable or is no longer desireable. English = (be) disagreeable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.keen.on",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "useless",
+    "very.sweet"
+  ]
 }

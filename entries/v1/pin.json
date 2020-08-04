@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pin"
   ],
   "deictic": [],
-  "cf": [
-    "sting.1a",
-    "needle"
-  ],
   "signNumber": 322,
   "recordNumber": 180,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,10 +31,14 @@
     "1. To use a pin to fasten something somewhere. English = pin."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very small, thin rod of metal with a point at one end. They can be stuck through things, for example two pieces of cloth, in order to fasten them together. English = pin."
   ],
   "idGloss": "pin",
-  "oldEntry": "Popular explanation: putting a pin in one's lapel."
+  "oldEntry": "Popular explanation: putting a pin in one's lapel.",
+  "seeAlso": [
+    "sting.1a",
+    "needle"
+  ]
 }

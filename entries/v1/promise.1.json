@@ -26,9 +26,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "promise",
     "vow",
@@ -40,13 +40,9 @@
     "truthfully"
   ],
   "deictic": [],
-  "cf": [
-    "swear.1a",
-    "oath.2"
-  ],
   "signNumber": 673,
   "recordNumber": 392,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -70,12 +66,16 @@
     "."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A statement which you make to someone in which you say that you will definitely do something or give them something. English = promise, vow, commitment",
     "2. A formal promise, particularly a formal promise to tell the truth in a court. English = oath.",
     "3. The quality of being honest. English = honesty."
   ],
   "idGloss": "promise.1",
-  "oldEntry": "Popular explanation: culturally shared gesture of promising."
+  "oldEntry": "Popular explanation: culturally shared gesture of promising.",
+  "seeAlso": [
+    "swear.1a",
+    "oath.2"
+  ]
 }

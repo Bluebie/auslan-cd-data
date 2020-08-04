@@ -18,9 +18,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "instant",
     "moment",
@@ -30,13 +30,9 @@
     "suddenly"
   ],
   "deictic": [],
-  "cf": [
-    "tiny.1",
-    "little.1a"
-  ],
   "signNumber": 6372,
   "recordNumber": 3808,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -55,10 +51,14 @@
     "2. To last for a short time. English = (be) temporary."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An extremely short period of time. English = instant, moment."
   ],
   "idGloss": "instant.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tiny.1",
+    "little.1a"
+  ]
 }

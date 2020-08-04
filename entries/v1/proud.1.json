@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pride",
     "proud"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2577,
   "recordNumber": 1421,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -38,10 +37,11 @@
     "1. To feel glad or pleased with yourself about something good that you or someone close to you owns or has done. English = (be) proud."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of satisfaction which you have because you or people close to you have done something good or possess something good. English = pride."
   ],
   "idGloss": "proud.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

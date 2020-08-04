@@ -23,9 +23,9 @@
     "engtf10",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "explosion",
     "bang",
@@ -39,10 +39,9 @@
     "blow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5749,
   "recordNumber": 3405,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -60,7 +59,7 @@
     "4. To suddenly break or split open letting out the air or some other substance which was inside. English = burst."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sudden violent burst of energy. English = explosion.",
     "2. A loud noise such as the noise of an explosion. English = bang.",
@@ -68,5 +67,6 @@
     "4. The act of destroying something, especially through warfare and the use of bombs. English = destruction, bombing."
   ],
   "idGloss": "bomb.1a",
-  "oldEntry": "Popular explanation: an object exploding."
+  "oldEntry": "Popular explanation: an object exploding.",
+  "seeAlso": []
 }

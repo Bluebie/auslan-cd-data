@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "slipper",
     "slip on"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4398,
   "recordNumber": 2678,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -43,5 +42,6 @@
     "1. Loose, soft shoes that you wear in the house. English = slipper, slippers."
   ],
   "idGloss": "slipper",
-  "oldEntry": "Popular explanation: the foot slipping into a slipper."
+  "oldEntry": "Popular explanation: the foot slipping into a slipper.",
+  "seeAlso": []
 }

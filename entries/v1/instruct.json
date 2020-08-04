@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "instruction",
     "instructions",
@@ -37,12 +37,9 @@
     "teach"
   ],
   "deictic": [],
-  "cf": [
-    "educate.1a"
-  ],
   "signNumber": 865,
   "recordNumber": 495,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 11,
@@ -65,12 +62,15 @@
     "3. To help someone become better at a particular sport of subject. English = coach."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that someone tells you to do, especially the clear and detailed information. English = instruction.",
     "2. Clear and detailed information on how to do something, especially written information. English = instructions.",
     "3. A person who teaches you something, especially a skill such as driving, swimming or skiing. English = instructor, coach, teacher"
   ],
   "idGloss": "instruct",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "educate.1a"
+  ]
 }

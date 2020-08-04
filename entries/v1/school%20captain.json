@@ -10,17 +10,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "school captain",
     "captain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5329,
   "recordNumber": 3191,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A senior boy or girl in a school, appointed or elected to lead and represent the other pupils and to help maintain discipline. English = school captain, captain."
   ],
   "idGloss": "school captain",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,19 +12,18 @@
     "engtf3",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "one way",
     "journey",
     "trip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 713,
   "recordNumber": 413,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,5 +46,6 @@
     "3. A journey or a trip out of or away from where you are now which does not include returning to the starting point or is made with a ticket that does not include a return journey. English = one way trip."
   ],
   "idGloss": "go.forth",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,21 +13,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "baptism",
     "Baptist",
     "baptise"
   ],
   "deictic": [],
-  "cf": [
-    "christen.1a"
-  ],
   "signNumber": 3604,
   "recordNumber": 2120,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -40,11 +37,14 @@
     "1. To immerse someone in water as a sign that they have become a member of a Christian Church. English = baptise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ceremony in which a person is immersed in water as a sign that they have become a member of a Christian Church. English = baptism.",
     "2. A person who is a Christian who believes that baptism is necessary for a Christian, and that it should happen only to someone who is old enough to understand what they are doing. English = Baptist."
   ],
   "idGloss": "baptise.1a",
-  "oldEntry": "Popular explanation: the act of baptising someone."
+  "oldEntry": "Popular explanation: the act of baptising someone.",
+  "seeAlso": [
+    "christen.1a"
+  ]
 }

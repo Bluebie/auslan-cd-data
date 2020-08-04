@@ -15,9 +15,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "baby",
     "infant",
@@ -25,13 +25,9 @@
     "cradle"
   ],
   "deictic": [],
-  "cf": [
-    "adult",
-    "child"
-  ],
   "signNumber": 3816,
   "recordNumber": 2268,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,10 +42,14 @@
     "1. To nurse a baby; to hold a baby in your arms; to cradle a baby in your arms."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very young child, especially one that cannot yet walk or talk. English = baby, infant."
   ],
   "idGloss": "baby",
-  "oldEntry": "Popular explanation: nursing a baby."
+  "oldEntry": "Popular explanation: nursing a baby.",
+  "seeAlso": [
+    "adult",
+    "child"
+  ]
 }

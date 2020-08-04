@@ -17,8 +17,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "wings",
     "fly",
@@ -27,10 +27,9 @@
     "winger"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3592,
   "recordNumber": 2111,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -46,11 +45,12 @@
     "2. Of animals, birds and insects, to move wings up and down. English = flap."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two parts of the body of some animals, insects and birds that are used for flying. English = wings.",
     "2. In football or hockey, an attacking player who plays mainly on the far left or the far right of the pitch. English = winger."
   ],
   "idGloss": "fly.1a",
-  "oldEntry": "Popular explanation: flapping wings."
+  "oldEntry": "Popular explanation: flapping wings.",
+  "seeAlso": []
 }

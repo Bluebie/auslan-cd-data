@@ -13,21 +13,18 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "isolated",
     "shunned",
     "shun"
   ],
   "deictic": [],
-  "cf": [
-    "attack"
-  ],
   "signNumber": 2825.1,
   "recordNumber": 1587,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -44,8 +41,11 @@
     "2. Of people in general, to keep away from or avoid someone who is unpopular because of something unpleasant in their behaviour or character. English = shun."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "isolated",
-  "oldEntry": "Popular explanation: many people recoiling from one."
+  "oldEntry": "Popular explanation: many people recoiling from one.",
+  "seeAlso": [
+    "attack"
+  ]
 }

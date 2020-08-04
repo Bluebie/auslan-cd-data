@@ -20,8 +20,8 @@
     "engtf8"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "jail",
     "gaol",
@@ -33,10 +33,9 @@
     "imprisoned"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5912,
   "recordNumber": 3517,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -50,11 +49,12 @@
     "2. To be put into prison. English = (be) jailed, (be) imprisoned."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A special place where people are kept locked up, usually because they have been found guilty of a crime. English = jail, gaol, prison.",
     "2. A person who is locked up in a prison. English = prisoner, inmate."
   ],
   "idGloss": "jail",
-  "oldEntry": "Popular explanation: the bound hands of a prisoner."
+  "oldEntry": "Popular explanation: the bound hands of a prisoner.",
+  "seeAlso": []
 }

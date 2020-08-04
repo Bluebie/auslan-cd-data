@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "surprise",
     "amazement",
@@ -33,12 +33,9 @@
     "dumbfounded"
   ],
   "deictic": [],
-  "cf": [
-    "nag"
-  ],
   "signNumber": 3055,
   "recordNumber": 1753,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -55,11 +52,14 @@
     "2. To be open-mouthed and unable to speak because you are so surprised. English = (be) speechless, (be) dumbfounded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being very surprised about something, especially when this is shown by opening your mouth wide. English = surprise, amazement.",
     "2. The feeling of being so surpassed about something that you don't know what to say or do."
   ],
   "idGloss": "speechless.2",
-  "oldEntry": "Popular explanation: the jaw dropping open."
+  "oldEntry": "Popular explanation: the jaw dropping open.",
+  "seeAlso": [
+    "nag"
+  ]
 }

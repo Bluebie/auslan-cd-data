@@ -21,9 +21,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "distribution",
     "release",
@@ -33,12 +33,9 @@
     "provide"
   ],
   "deictic": [],
-  "cf": [
-    "share.1a"
-  ],
   "signNumber": 6206,
   "recordNumber": 3709,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -56,7 +53,7 @@
     "4. To give someone something or to make it available to them. English = provide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of distributing things to people. English = distribution.",
     "2. The delivering of something to several people or organisations. English = distribution.",
@@ -64,5 +61,8 @@
     "4. The official time or the formal occasion on which a product, such as a film, book, or record, is made available for people to experience or buy. English = launch, release."
   ],
   "idGloss": "distribute.1a",
-  "oldEntry": "Popular explanation: action of handing over something."
+  "oldEntry": "Popular explanation: action of handing over something.",
+  "seeAlso": [
+    "share.1a"
+  ]
 }

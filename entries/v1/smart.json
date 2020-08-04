@@ -21,9 +21,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smartness",
     "intelligence",
@@ -34,10 +34,9 @@
     "intelligent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 39,
   "recordNumber": 24,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -58,11 +57,12 @@
     "1. To be able to understand things easily or plan things well. English = (be) smart, (be) clever, (be) bright, (be) intelligent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability someone has to understand things easily or plan things well. English = smartness, cleverness, intelligence.",
     "2. A person who is very smart, clever, bright or intelligent."
   ],
   "idGloss": "smart",
-  "oldEntry": "Popular explanation: brightness of the mind."
+  "oldEntry": "Popular explanation: brightness of the mind.",
+  "seeAlso": []
 }

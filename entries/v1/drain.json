@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4008,
   "recordNumber": 2399,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. Of water, to flow over and through a metal grid away to somewhere else (usually through pipes). English = drain, drain away."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A metal grid in a road, through which rainwater can flow away into pipes. English = drain."
   ],
   "idGloss": "drain",
-  "oldEntry": "Popular explanation: the grate of a drain."
+  "oldEntry": "Popular explanation: the grate of a drain.",
+  "seeAlso": []
 }

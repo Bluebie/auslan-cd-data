@@ -16,9 +16,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stiff",
     "rigid",
@@ -27,13 +27,9 @@
     "brace"
   ],
   "deictic": [],
-  "cf": [
-    "stress.3",
-    "solid"
-  ],
   "signNumber": 2722,
   "recordNumber": 1517,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -50,8 +46,12 @@
     "3. To prepare yourself for something unpleasant or difficult. English = brace oneself."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "stiff",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stress.3",
+    "solid"
+  ]
 }

@@ -16,20 +16,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "middle",
     "average"
   ],
   "deictic": [],
-  "cf": [
-    "centre.1a"
-  ],
   "signNumber": 4440,
   "recordNumber": 2699,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 13.1,
   "primaryLocation": 15,
@@ -46,12 +43,15 @@
     "3. To be the amount or quantity of something that is normal or typical. English = (be) average."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. That part of a thing that is furthest from its edges, ends, or outside surface. English = middle.",
     "2. Of an event or period of time, that part that comes after the first part and before the last part. English = middle.",
     "3. The result you get when you add two or more numbers together and divide the total by the number of numbers you added together; the amount or quantity of something that is normal or typical. English = average."
   ],
   "idGloss": "middle",
-  "oldEntry": "Popular explanation: the middle finger."
+  "oldEntry": "Popular explanation: the middle finger.",
+  "seeAlso": [
+    "centre.1a"
+  ]
 }

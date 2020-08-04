@@ -21,8 +21,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "prize",
     "award",
@@ -32,13 +32,9 @@
     "remember"
   ],
   "deictic": [],
-  "cf": [
-    "trophy.1",
-    "grudge.1"
-  ],
   "signNumber": 3155,
   "recordNumber": 1827,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -57,12 +53,16 @@
     "2. To bring something that has happened in the past back into your mind and think about it. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = remember."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something of value, for example a certificate, money or a trophy, that is given to someone who has the best results in a competition or game, or as a reward for doing good work. English = prize, award.",
     "2. Something which you buy or keep to remind you of a holiday, place, or event. English = souvenir.",
     "3. The ability to remember things. (This sense is becoming obsolete and is used in this way mostly by older members of the deaf community.) English = memory."
   ],
   "idGloss": "prize",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "trophy.1",
+    "grudge.1"
+  ]
 }

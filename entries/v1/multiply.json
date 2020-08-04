@@ -12,19 +12,16 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "multiplication",
     "multiply"
   ],
   "deictic": [],
-  "cf": [
-    "cross.1"
-  ],
   "signNumber": 897,
   "recordNumber": 514,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -37,11 +34,14 @@
     "1. In mathematics, to calculate the total which you get when you add a number to itself a particular number of times. English = multiply."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In mathematics, the process of calculating the total of one number multiplied by another number. English = multiplication.",
     "2. In mathematics, the multiplication sign (x) which is put between two numbers to show that they are being multiplied."
   ],
   "idGloss": "multiply",
-  "oldEntry": "Popular explanation: the form of an 'x'."
+  "oldEntry": "Popular explanation: the form of an 'x'.",
+  "seeAlso": [
+    "cross.1"
+  ]
 }

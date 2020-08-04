@@ -15,21 +15,17 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "upward",
     "rise"
   ],
   "deictic": [],
-  "cf": [
-    "progress",
-    "promote.1"
-  ],
   "signNumber": 3655,
   "recordNumber": 2153,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -47,8 +43,12 @@
     "1. To move from a lower position to a higher position. English = go upward, go up, rise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "upward",
-  "oldEntry": "Popular explanation: a flat surface going upwards."
+  "oldEntry": "Popular explanation: a flat surface going upwards.",
+  "seeAlso": [
+    "progress",
+    "promote.1"
+  ]
 }

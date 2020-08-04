@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "retreat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4740,
   "recordNumber": 2864,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In some Christian churches, time you spend in a quiet, secluded place that you go to in order to pray and think about your relationship with God. English = retreat."
   ],
   "idGloss": "retreat",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

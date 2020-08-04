@@ -21,21 +21,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fight",
     "enemy",
     "foe"
   ],
   "deictic": [],
-  "cf": [
-    "quarrel"
-  ],
   "signNumber": 4997,
   "recordNumber": 3012,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -56,7 +53,7 @@
     "3. To try in a determined way to prevent something or stop something from happening. English = fight against."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation in which two or more people try to hurt each other physically. English = fight.",
     "2. A situation in which you try in a determined way to get or achieve something. English = fight.",
@@ -64,5 +61,8 @@
     "4. Someone with whom you are in competition and whom you do not like. You do not care if you harm them or if they suffer; in a war, the army or country that your country is fighting. English = enemy. Formal English = foe."
   ],
   "idGloss": "fight.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "quarrel"
+  ]
 }

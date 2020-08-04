@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "seesaw"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1780,
   "recordNumber": 1073,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 2.2,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To go up and down on a seesaw. English = seesaw."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long board which is balanced on a fixed part in the middle. Children play on it by making the board tilt up and down when one child sits on each end. English = seesaw."
   ],
   "idGloss": "seesaw",
-  "oldEntry": "Popular explanation: going up and down in the manner of a seesaw."
+  "oldEntry": "Popular explanation: going up and down in the manner of a seesaw.",
+  "seeAlso": []
 }

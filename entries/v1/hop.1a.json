@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hop"
   ],
   "deictic": [],
-  "cf": [
-    "skip.1",
-    "stand.1a",
-    "jump.up"
-  ],
   "signNumber": 1872,
   "recordNumber": 1121,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,8 +32,13 @@
     "1. Of a person, to move along jumping on one foot. English = hop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hop.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "skip.1",
+    "stand.1a",
+    "jump.up"
+  ]
 }

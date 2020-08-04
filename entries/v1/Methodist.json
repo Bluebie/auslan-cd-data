@@ -14,17 +14,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
+  "blend": null,
   "queries": "A sign used especially in the SA Lutheran congregation.",
   "english": [
     "Methodist",
     "Methodism"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3764,
   "recordNumber": 2226,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. Of or relating to the Methodists, their church, and their beliefs. English = (be) Methodist."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A Christian who follow the teachings of John Wesley. English = Methodist.",
     "2. The beliefs and practices of Methodists. English = Methodism."
   ],
   "idGloss": "Methodist",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

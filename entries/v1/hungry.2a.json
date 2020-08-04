@@ -14,17 +14,16 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hunger",
     "hungry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4748,
   "recordNumber": 2870,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -41,10 +40,11 @@
     "1. To have the feeling of weakness or discomfort that you get when you need something to eat. English = (be) hungry, hunger for."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of weakness or discomfort that you get when you need something to eat. English = hunger."
   ],
   "idGloss": "hungry.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

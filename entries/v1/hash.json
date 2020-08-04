@@ -9,20 +9,16 @@
     "cf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hash",
     "hashish"
   ],
   "deictic": [],
-  "cf": [
-    "smoke.dope.2",
-    "smoke.dope.1"
-  ],
   "signNumber": 6657,
   "recordNumber": 3961,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 17.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A drug made from the marijuana plant which people smoke or eat to make them feel relaxed. Informal English = hash, hashish."
   ],
   "idGloss": "hash",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "smoke.dope.2",
+    "smoke.dope.1"
+  ]
 }

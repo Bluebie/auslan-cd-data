@@ -12,19 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "many"
   ],
   "deictic": [],
-  "cf": [
-    "crowded.1"
-  ],
   "signNumber": 3026,
   "recordNumber": 1733,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -42,8 +39,11 @@
     "1. To be a lot of people or things. English = (be) many."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "many",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "crowded.1"
+  ]
 }

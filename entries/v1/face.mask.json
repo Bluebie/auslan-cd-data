@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "face mask",
     "anaesthetic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2433,
   "recordNumber": 1350,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -30,11 +29,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device which is placed over the nose and mouth either to protect the breathing passages from dust, dirt or other irritants, or to channel particular gases, such as oxygen or an anaesthetic, to the lungs. English = face mask.",
     "2. A substance that stops you feeling pain in the whole of your body when you are unconscious. It is breathed in through a face mask. English = anaesthetic."
   ],
   "idGloss": "face.mask",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

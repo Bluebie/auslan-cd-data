@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vomit",
     "chunder",
@@ -27,12 +27,9 @@
     "throw up"
   ],
   "deictic": [],
-  "cf": [
-    "not.want"
-  ],
   "signNumber": 2508,
   "recordNumber": 1394,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,11 +42,14 @@
     "1. To have food and drink come back from your stomach and out through your mouth, usually because you are ill. English = vomit, (be) sick. Idiomatic English = throw up. Informal English = chunder."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Partly digested food and drink that has come back up from someone's stomach and out through their mouth. English = vomit. Informal English = chunder.",
     "2. The act of ejecting food and drink from your stomach and out through your mouth, usually because you are ill. English = vomiting."
   ],
   "idGloss": "vomit.1a",
-  "oldEntry": "Popular explanation: vomit leaving the body."
+  "oldEntry": "Popular explanation: vomit leaving the body.",
+  "seeAlso": [
+    "not.want"
+  ]
 }

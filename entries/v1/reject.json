@@ -17,9 +17,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rejection",
     "scraps",
@@ -28,12 +28,9 @@
     "exclude"
   ],
   "deictic": [],
-  "cf": [
-    "delay"
-  ],
   "signNumber": 4296,
   "recordNumber": 2614,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -53,11 +50,14 @@
     "3. To deliberately not include something by preventing it from entering a place or from taking part in an activity. English = exclude."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of not accepting or not agreeing to a proposal or a request. English = rejection.",
     "2. Pieces of unwanted food which are thrown away or given to animals. English = scraps."
   ],
   "idGloss": "reject",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "delay"
+  ]
 }

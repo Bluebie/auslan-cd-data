@@ -7,17 +7,16 @@
     "engtf1",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "personality"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1819,
   "recordNumber": 1095,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person's whole character and nature. English = personality."
   ],
   "idGloss": "personality",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

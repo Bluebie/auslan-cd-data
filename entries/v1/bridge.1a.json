@@ -8,15 +8,14 @@
     "sym",
     "transl"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 6478,
   "recordNumber": 3858,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 12.1,
   "primaryLocation": 15,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A structure that is built over a river, road, or railway so that people or vehicles can cross from one side to the other. English = bridge."
   ],
   "idGloss": "bridge.1a",
-  "oldEntry": "Popular explanation: the spans of a bridge."
+  "oldEntry": "Popular explanation: the spans of a bridge.",
+  "seeAlso": []
 }

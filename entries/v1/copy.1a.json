@@ -27,9 +27,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "copy",
     "mimicry",
@@ -42,13 +42,9 @@
     "absorb"
   ],
   "deictic": [],
-  "cf": [
-    "photo.1a",
-    "photocopy"
-  ],
   "signNumber": 2860,
   "recordNumber": 1614,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,7 +62,7 @@
     "4. To soak up or take in a liquid, gas, light, or heat. English = absorb."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is made to look exactly the same as something else. English = copy.",
     "2. The copying of someone else's actions or behaviour. English = mimicry, imitation.",
@@ -74,5 +70,9 @@
     "4. The action of absorbing something. English = absorption."
   ],
   "idGloss": "copy.1a",
-  "oldEntry": "Popular explanation: taking from something."
+  "oldEntry": "Popular explanation: taking from something.",
+  "seeAlso": [
+    "photo.1a",
+    "photocopy"
+  ]
 }

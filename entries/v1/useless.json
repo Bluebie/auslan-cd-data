@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GOOD + 'NOT' or 'stressed'",
-  "queries": "",
+  "queries": null,
   "english": [
     "useless",
     "hopeless",
@@ -25,12 +25,9 @@
     "exhausted"
   ],
   "deictic": [],
-  "cf": [
-    "very.sweet"
-  ],
   "signNumber": 4782,
   "recordNumber": 2891,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -48,8 +45,11 @@
     "2. To be no longer good for its purpose because something is too old and broken, or used too much and no longer efficient or working. English = worn out, exhausted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "useless",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "very.sweet"
+  ]
 }

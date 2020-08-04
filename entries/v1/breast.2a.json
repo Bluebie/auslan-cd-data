@@ -7,20 +7,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "breast",
     "bosom"
   ],
   "deictic": [],
-  "cf": [
-    "breast.3"
-  ],
   "signNumber": 4514,
   "recordNumber": 2743,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two soft, round pieces of flesh on a woman's chest that can produce milk to feed a baby. English = breasts. Formal English = bosom."
   ],
   "idGloss": "breast.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "breast.3"
+  ]
 }

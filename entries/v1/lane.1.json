@@ -8,17 +8,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3796,
   "recordNumber": 2253,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A narrow street. English = lane."
   ],
   "idGloss": "lane.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

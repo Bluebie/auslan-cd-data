@@ -9,18 +9,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Indian",
     "Amerindian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3260,
   "recordNumber": 1898,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member of one of the tribes of people who were living in North America when Europeans arrived there. English = Indian. Formal English = Amerindian."
   ],
   "idGloss": "Amerindian.2",
-  "oldEntry": "Popular explanation: imitating a North American Indian."
+  "oldEntry": "Popular explanation: imitating a North American Indian.",
+  "seeAlso": []
 }

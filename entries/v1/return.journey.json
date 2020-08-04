@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "return journey"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 802,
   "recordNumber": 456,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -38,11 +37,12 @@
     "2. To go across something and then come back."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A short or brief return journey somewhere.",
     "2. A movement across something and then back again."
   ],
   "idGloss": "return.journey",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "official"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 400,
   "recordNumber": 219,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -30,8 +29,9 @@
     "1. To be something which is approved or has been decided by the government or by someone else in authority. English = official."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "official.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

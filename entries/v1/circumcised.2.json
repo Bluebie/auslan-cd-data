@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "circumcise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1680,
   "recordNumber": 1004,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. Of a man or a boy, to cut off the loose skin at the end of his penis for religious or medical reasons. English = circumcise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "circumcised.2",
-  "oldEntry": "Popular explanation: cutting the foreskin."
+  "oldEntry": "Popular explanation: cutting the foreskin.",
+  "seeAlso": []
 }

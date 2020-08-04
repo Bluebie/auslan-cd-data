@@ -19,9 +19,9 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "possibility",
     "potential",
@@ -31,10 +31,9 @@
     "possibly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5079,
   "recordNumber": 3064,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -56,11 +55,12 @@
     "3. To be capable of becoming a particular kind of thing or of doing something. English = (be) potential."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The opportunity for something to happen and the likelihood that it might happen. English = possibility.",
     "2. The ability of something to become a particular kind of thing or to do something. English = potential."
   ],
   "idGloss": "possible",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

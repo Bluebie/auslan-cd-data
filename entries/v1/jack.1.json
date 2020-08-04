@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jack",
     "jack up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5704.1,
   "recordNumber": 3374,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": null,
   "primaryLocation": 16,
@@ -38,5 +37,6 @@
     "1. A mechanical device that is used to lift a heavy object, especially a car, off the ground. English = jack."
   ],
   "idGloss": "jack.1",
-  "oldEntry": "Popular explanation: operating a car jack."
+  "oldEntry": "Popular explanation: operating a car jack.",
+  "seeAlso": []
 }

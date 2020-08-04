@@ -18,8 +18,8 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Based on the ASL sign 'program' but changed somewhat in form.",
   "english": [
     "program",
@@ -28,14 +28,9 @@
     "policy"
   ],
   "deictic": [],
-  "cf": [
-    "document.1a",
-    "calendar",
-    "project.2"
-  ],
   "signNumber": 1850,
   "recordNumber": 1110,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -48,7 +43,7 @@
     "1. To plan a series of actions or events to be done as part of some task or executed as part of a computer's instructions, or shown or performed as part of some entertainment. English = program."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A series of actions or events that are planned to be done as part of some task or as part of a computer's instructions, or shown or performed as part of some entertainment. English = program.",
     "2. A person whose job involves writing instructions (programs) for a computer. English = programmer.",
@@ -56,5 +51,10 @@
     "4. A set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business. English = policy."
   ],
   "idGloss": "program",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "document.1a",
+    "calendar",
+    "project.2"
+  ]
 }

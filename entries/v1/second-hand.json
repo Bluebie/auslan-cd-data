@@ -6,16 +6,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "second-hand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1583,
   "recordNumber": 943,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,8 +27,9 @@
     "1. To have been owned by someone else before and not be new. English = (be) second-hand."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "second-hand",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

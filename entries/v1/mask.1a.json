@@ -7,19 +7,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mask"
   ],
   "deictic": [],
-  "cf": [
-    "glasses"
-  ],
   "signNumber": 5066,
   "recordNumber": 3055,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which you wear over your face, especially around the eyes, in order to hide or protect it or to make yourself look different. English = mask."
   ],
   "idGloss": "mask.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "glasses"
+  ]
 }

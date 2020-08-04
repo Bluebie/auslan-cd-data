@@ -14,19 +14,16 @@
     "ant3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spendthrift"
   ],
   "deictic": [],
-  "cf": [
-    "scrimp"
-  ],
   "signNumber": 6209.1,
   "recordNumber": 3710,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 16,
@@ -43,10 +40,13 @@
     "1. To spend money in a wasteful, careless or extravagant way."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who spends money in a wasteful, careless or extravagant way. English = spendthrift."
   ],
   "idGloss": "spendthrift",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "scrimp"
+  ]
 }

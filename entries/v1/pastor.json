@@ -12,16 +12,15 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "pastor"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5366,
   "recordNumber": 3205,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member of the Christian clergy, especially one who is not a member of the Catholic or Anglican churches. English = pastor."
   ],
   "idGloss": "pastor",
-  "oldEntry": "Popular explanation: the outline of the adornments worn around the collars of some ministers of religion in the past."
+  "oldEntry": "Popular explanation: the outline of the adornments worn around the collars of some ministers of religion in the past.",
+  "seeAlso": []
 }

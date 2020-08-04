@@ -8,17 +8,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tithe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 703,
   "recordNumber": 406,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "2. Of a church member, to pay a fixed amount of money or goods, usually one tenth of their income, in order to support the church, its priests and charities; to pay a tithe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A fixed amount of money or goods, usually one tenth of income, that people give regularly in order to support churches, priests, charities, etc. English = tithe."
   ],
   "idGloss": "tithe",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

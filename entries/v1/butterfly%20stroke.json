@@ -12,22 +12,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "butterfly stroke",
     "butterfly"
   ],
   "deictic": [],
-  "cf": [
-    "swim.1",
-    "swim.2",
-    "backstroke"
-  ],
   "signNumber": 3597,
   "recordNumber": 2115,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -40,10 +35,15 @@
     "1. To swim using the butterfly stroke. English = butterfly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of swimming stroke which you do lying on your front, bringing your arms over your head together. English = butterfly stroke."
   ],
   "idGloss": "butterfly stroke",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "swim.1",
+    "swim.2",
+    "backstroke"
+  ]
 }

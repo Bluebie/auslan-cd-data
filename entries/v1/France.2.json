@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "France",
     "French"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 284,
   "recordNumber": 168,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,11 +33,12 @@
     "1. To come from or relate to France. English = (be) French."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in Western Europe between Germany and Spain, and across the Channel from England. English = France.",
     "2. The language spoken in France as well as in some other countries such as Canada, Belgium and Switzerland. English = French."
   ],
   "idGloss": "France.2",
-  "oldEntry": "Popular explanation: the outline of a goatee and moustache."
+  "oldEntry": "Popular explanation: the outline of a goatee and moustache.",
+  "seeAlso": []
 }

@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wedding"
   ],
   "deictic": [],
-  "cf": [
-    "spouse.1a",
-    "married.1a",
-    "divorce.1a"
-  ],
   "signNumber": 442,
   "recordNumber": 249,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A marriage ceremony. English = wedding."
   ],
   "idGloss": "wedding.1a",
-  "oldEntry": "Popular explanation: putting on a wedding ring."
+  "oldEntry": "Popular explanation: putting on a wedding ring.",
+  "seeAlso": [
+    "spouse.1a",
+    "married.1a",
+    "divorce.1a"
+  ]
 }

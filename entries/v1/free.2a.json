@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "free",
     "voluntary",
@@ -29,12 +29,9 @@
     "voluntarily"
   ],
   "deictic": [],
-  "cf": [
-    "voluntary.1a"
-  ],
   "signNumber": 277,
   "recordNumber": 162,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -56,8 +53,11 @@
     "2. To be done willingly and because you choose to do it and not because you have been forced to do it. English = (be) voluntary."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "free.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "voluntary.1a"
+  ]
 }

@@ -22,8 +22,8 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cramp",
     "seizure",
@@ -33,12 +33,9 @@
     "stressed"
   ],
   "deictic": [],
-  "cf": [
-    "paralysed"
-  ],
   "signNumber": 2724,
   "recordNumber": 1519,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -55,12 +52,15 @@
     "2. To feel worried and tense because of difficulties in your life. English = (be) stressed, suffer from stress."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a person's body, the sudden tightening of a muscle that makes it hard or impossible to move a limb. English = cramp.",
     "2. Of a machine or a person's body, the sudden stopping of movement because it is broken or the muscles have tightened. English = seizure.",
     "3. The worry and tenseness you feel because of difficulties in your life. English = stress."
   ],
   "idGloss": "stress.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "paralysed"
+  ]
 }

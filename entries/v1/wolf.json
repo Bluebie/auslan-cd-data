@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wolf",
     "fox",
@@ -23,10 +23,9 @@
     "snout"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3188,
   "recordNumber": 1853,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -37,7 +36,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A wild animal that looks like a dog with a long muzzle that kills and eats other animals. English = wolf.",
     "2. A wild animal that looks like a small dog with a long muzzle that kills and eats other animals. English = fox.",
@@ -45,5 +44,6 @@
     "4. That part of the face of many animals, such as pigs, that sticks out a long way and contains its nose. English = snout."
   ],
   "idGloss": "wolf",
-  "oldEntry": "Popular explanation: the shape of a wolf's snout."
+  "oldEntry": "Popular explanation: the shape of a wolf's snout.",
+  "seeAlso": []
 }

@@ -17,9 +17,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "MONEY + SORE",
-  "queries": "",
+  "queries": null,
   "english": [
     "expense",
     "expensive",
@@ -29,13 +29,9 @@
     "precious"
   ],
   "deictic": [],
-  "cf": [
-    "money.1a",
-    "sore.1a"
-  ],
   "signNumber": 4923,
   "recordNumber": 2977,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,10 +45,14 @@
     "2. To be worth a lot of money. English = (be) valuable, (be) precious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The large amount of money that something costs. English = large expense, great expense."
   ],
   "idGloss": "expensive.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "money.1a",
+    "sore.1a"
+  ]
 }

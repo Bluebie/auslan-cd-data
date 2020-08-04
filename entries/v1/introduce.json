@@ -12,17 +12,16 @@
     "engtf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "introduction",
     "introduce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3827,
   "recordNumber": 2273,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To tell two people who have not met before each other's name and a maybe little bit about each other so that they may get to know each other. English = introduce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of telling two people each other's name and maybe a little bit about each other so that they can get to know each other. English = introduction."
   ],
   "idGloss": "introduce",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

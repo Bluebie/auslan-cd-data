@@ -13,19 +13,16 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "thanks",
     "thank"
   ],
   "deictic": [],
-  "cf": [
-    "please.1"
-  ],
   "signNumber": 3288,
   "recordNumber": 1919,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -42,10 +39,13 @@
     "1. To tell someone you appreciate what they have done for you. English = thank."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The expression of your appreciation or gratitude to someone. English = thanks."
   ],
   "idGloss": "thank",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "please.1"
+  ]
 }

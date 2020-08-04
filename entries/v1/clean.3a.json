@@ -20,9 +20,9 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cleaning",
     "cleaner",
@@ -31,14 +31,9 @@
     "wipe"
   ],
   "deictic": [],
-  "cf": [
-    "rub.2a",
-    "wipe.up.1a",
-    "buff"
-  ],
   "signNumber": 5888,
   "recordNumber": 3500,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -54,11 +49,16 @@
     "2. To remove dirt or liquid from a surface. English = wipe, wipe down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of making something clean. English = cleaning.",
     "2. A person who cleans. English = cleaner."
   ],
   "idGloss": "clean.3a",
-  "oldEntry": "Popular explanation: cleaning a surface."
+  "oldEntry": "Popular explanation: cleaning a surface.",
+  "seeAlso": [
+    "rub.2a",
+    "wipe.up.1a",
+    "buff"
+  ]
 }

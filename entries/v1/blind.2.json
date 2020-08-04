@@ -12,22 +12,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blind",
     "shade",
     "Holland blind"
   ],
   "deictic": [],
-  "cf": [
-    "venetian.blinds.1",
-    "curtain"
-  ],
   "signNumber": 6070,
   "recordNumber": 3611,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -40,10 +36,14 @@
     "1. To pull down a blind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A roll of cloth or paper which you can pull down over a window in order to keep out the light. English = blind, shade, Holland blind."
   ],
   "idGloss": "blind.2",
-  "oldEntry": "Popular explanation: pulling a blind up and down."
+  "oldEntry": "Popular explanation: pulling a blind up and down.",
+  "seeAlso": [
+    "venetian.blinds.1",
+    "curtain"
+  ]
 }

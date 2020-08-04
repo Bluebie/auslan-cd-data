@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spirit level"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4570,
   "recordNumber": 2768,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 6,
@@ -33,5 +32,6 @@
     "1. A device for testing a surface to see if it is level. It consists of a piece of wood or metal containing a tube of liquid with a bubble of air in it. When it is level the bubble is in the centre of the tube. English = spirit level."
   ],
   "idGloss": "spirit level",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

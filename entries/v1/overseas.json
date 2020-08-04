@@ -17,9 +17,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "overseas",
     "foreigner",
@@ -29,10 +29,9 @@
     "foreign"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4065,
   "recordNumber": 2433,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,12 +46,13 @@
     "3. To belong to a another country. English = (be) foreign."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Any place which is not in Australia but in other countries. English = overseas.",
     "2. A person who comes from another country. English = foreigner, alien.",
     "3. In Tasmania, the large or main part of the country of Australia, in contrast to the island of Tasmania itself. English = the mainland."
   ],
   "idGloss": "overseas",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

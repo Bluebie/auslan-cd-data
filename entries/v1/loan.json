@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lender",
     "loan",
@@ -26,12 +26,9 @@
     "borrow"
   ],
   "deictic": [],
-  "cf": [
-    "adopt.2"
-  ],
   "signNumber": 5121,
   "recordNumber": 3093,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -47,11 +44,14 @@
     "2. To take something from someone and have it or use it for a period of time. English = borrow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person or institution that allows people to have and use some of its money for a period of time before they pay it back. English = lender.",
     "2. A sum of money that you borrow from a lender. English = loan."
   ],
   "idGloss": "loan",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "adopt.2"
+  ]
 }

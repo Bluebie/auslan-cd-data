@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "THINK + SUFFER",
-  "queries": "",
+  "queries": null,
   "english": [
     "worry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 513,
   "recordNumber": 285,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,8 +35,9 @@
     "1. To keep thinking about a problem or something unpleasant that might happen. English = worry."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "worry.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

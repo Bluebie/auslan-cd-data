@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speeding",
     "speed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1058,
   "recordNumber": 623,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. [Often made with puffed cheeks] to drive very fast in a vehicle, especially a car. English = speed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. [Often made with puffed cheeks] the act of going very fast in a vehicle, especially a car. English = speeding."
   ],
   "idGloss": "speed.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

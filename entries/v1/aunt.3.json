@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "aunt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4736,
   "recordNumber": 2861,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sister of your mother or your father. English = aunt."
   ],
   "idGloss": "aunt.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,9 +13,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "clam",
     "oyster",
@@ -24,10 +24,9 @@
     "bud"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4592,
   "recordNumber": 2781,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -43,5 +42,6 @@
   "generalMeaning": "Any object of a circular or elliptical shape, as described, or any object or action directly or indirectly associated with such an object, such as a clam, oyster, mussel and other shellfish, or a bud on a plant.",
   "nominalLexeme": [],
   "idGloss": "bud",
-  "oldEntry": "Popular explanation: the form of a bud."
+  "oldEntry": "Popular explanation: the form of a bud.",
+  "seeAlso": []
 }

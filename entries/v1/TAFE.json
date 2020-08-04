@@ -11,21 +11,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "TAFE"
   ],
   "deictic": [],
-  "cf": [
-    "apprentice",
-    "university.1",
-    "university.2"
-  ],
   "signNumber": 2113,
   "recordNumber": 1225,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,10 +33,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Part of the tertiary education system in Australia at which people train for technical and trade careers. The system of colleges is called TAFE (acronym for Technical and Further Education). English = TAFE."
   ],
   "idGloss": "TAFE",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "apprentice",
+    "university.1",
+    "university.2"
+  ]
 }

@@ -10,15 +10,14 @@
     "obscure",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 4216,
   "recordNumber": 2550,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,11 +32,12 @@
     "1. Of a surface, such as a wall, fence, or cliff, to go up a long way from bottom to top and in a very straight line. English = (be) high, (be) steep."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A high wall or fence.",
     "2. A very sheer or steep cliff."
   ],
   "idGloss": "high.wall",
-  "oldEntry": "Popular explanation: a plane extending upwards."
+  "oldEntry": "Popular explanation: a plane extending upwards.",
+  "seeAlso": []
 }

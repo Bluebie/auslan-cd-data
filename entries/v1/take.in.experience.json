@@ -20,9 +20,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "experience",
     "acquisition",
@@ -32,12 +32,9 @@
     "absorb"
   ],
   "deictic": [],
-  "cf": [
-    "learn.2a"
-  ],
   "signNumber": 3137,
   "recordNumber": 1814,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -54,12 +51,15 @@
     "3. To learn a skill by watching and doing, especially speaking or signing a language, by being exposed and immersed in it as a child. English = acquire."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that happens to you that you can feel physically but which has a particularly important psychological or intellectual impact. English = experience.",
     "2. Things that have happened to you or that you have done before in your life. English = experiences.",
     "3. The learning of a skill by watching and doing, especially  learning to speak or sign a language by being exposed and immersed in it as a child. English = acquisition."
   ],
   "idGloss": "take.in.experience",
-  "oldEntry": "Popular explanation: draw into or put into the mind."
+  "oldEntry": "Popular explanation: draw into or put into the mind.",
+  "seeAlso": [
+    "learn.2a"
+  ]
 }

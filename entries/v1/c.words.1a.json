@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coffee",
     "cent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5331,
   "recordNumber": 3193,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,5 +42,6 @@
     "3. A small unit of money used as one-hundredth of the main unit of money in many countries. English = cent."
   ],
   "idGloss": "c.words.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

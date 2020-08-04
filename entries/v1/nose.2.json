@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nose",
     "busybody",
@@ -28,12 +28,9 @@
     "inquisitive"
   ],
   "deictic": [],
-  "cf": [
-    "nose.1"
-  ],
   "signNumber": 526,
   "recordNumber": 297,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -50,11 +47,14 @@
     "1. To ask lots of questions about other people's affairs or about things that do not concern you, often in a way that irritates them. English = (be) nosy, (be) inquisitive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is very inquisitive and always wants to know everything that is happening, particularly other people's affairs. Informal English = busybody, sticky-beak.",
     "2. The part of your face which sticks out above your mouth. You use it for smelling and breathing. English = nose."
   ],
   "idGloss": "nose.2",
-  "oldEntry": "Popular explanation: the outline of a nose."
+  "oldEntry": "Popular explanation: the outline of a nose.",
+  "seeAlso": [
+    "nose.1"
+  ]
 }

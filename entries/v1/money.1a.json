@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "money",
     "currency",
@@ -30,10 +30,9 @@
     "fund"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4922,
   "recordNumber": 2976,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,7 +48,7 @@
     "1. To provide money from organisations or governments to other organisations, governments, or individuals. English = fund."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The coins or bank notes that you use when you buy something. English = money.",
     "2. The coins or bank notes of a particular country. English = currency.",
@@ -57,5 +56,6 @@
     "4. The person in an organisation who is in charge of its finances and keeps its accounts. English = treasurer."
   ],
   "idGloss": "money.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

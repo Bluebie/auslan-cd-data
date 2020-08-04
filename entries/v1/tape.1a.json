@@ -14,9 +14,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tape",
     "adhesive tape",
@@ -24,12 +24,9 @@
     "plaster"
   ],
   "deictic": [],
-  "cf": [
-    "tape.measure"
-  ],
   "signNumber": 4885,
   "recordNumber": 2951,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -43,11 +40,14 @@
     "2. To put a band-aid onto someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Sticky strips of plastic which you use for sticking things together. English = tape, adhesive tape.",
     "2. A strip of sticky material used for covering small cuts or sores on your body. English = band-aid. British English = plaster."
   ],
   "idGloss": "tape.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tape.measure"
+  ]
 }

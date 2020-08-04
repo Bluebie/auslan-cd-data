@@ -12,21 +12,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "order",
     "instruction"
   ],
   "deictic": [],
-  "cf": [
-    "ignore",
-    "send.out"
-  ],
   "signNumber": 612,
   "recordNumber": 352,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +35,15 @@
     "1. To tell someone to do something with the expectation that they will obey you. English = order."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of telling someone to do something with the expectation that they will obey you. English = order.",
     "2. The actual instruction or instructions you give to someone and which you expect them to follow. English = order, instruction."
   ],
   "idGloss": "order",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "ignore",
+    "send.out"
+  ]
 }

@@ -15,9 +15,9 @@
     "syn1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diamond",
     "diamond ring",
@@ -26,10 +26,9 @@
     "ring"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1340,
   "recordNumber": 790,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -42,11 +41,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hard, bright, precious stone that consists of pure carbon. It is used especially in jewellery and rings. English = diamond.",
     "2. A small circle of metal that you wear on your finger as an ornament or to show that you are engaged or married. It often has a diamond in it. English = ring, diamond ring, engagement ring, wedding ring."
   ],
   "idGloss": "diamond.1a",
-  "oldEntry": "Popular explanation: the diamond of a ring."
+  "oldEntry": "Popular explanation: the diamond of a ring.",
+  "seeAlso": []
 }

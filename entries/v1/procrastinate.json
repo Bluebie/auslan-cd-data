@@ -11,18 +11,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "put off",
     "procrastinate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 579,
   "recordNumber": 334,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -43,8 +42,9 @@
     "1. To be very slow to do something because you keep leaving it to another time. English = put off, procrastinate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "procrastinate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

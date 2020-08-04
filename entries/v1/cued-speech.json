@@ -7,17 +7,16 @@
     "deafness",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cued-speech"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2457,
   "recordNumber": 1365,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -30,10 +29,11 @@
     "1. To used cued-speech."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A communicative technique and an educational philosophy in the education of the deaf which uses handshapes and movements, made at the side of the mouth, to disambiguate the mouth patterns, and hence sounds, of speech. English = cued-speech."
   ],
   "idGloss": "cued-speech",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

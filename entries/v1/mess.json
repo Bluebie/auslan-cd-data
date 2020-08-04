@@ -16,9 +16,9 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "DIRTY + TURN OVER",
-  "queries": "",
+  "queries": null,
   "english": [
     "mess",
     "messy",
@@ -26,10 +26,9 @@
     "upside down"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2776,
   "recordNumber": 1555,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -47,10 +46,11 @@
     "3. To be turned around so that the part of a thing which is usually lowest is above the part that is usually highest. English = (be) upside down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is in a very untidy state. English = mess."
   ],
   "idGloss": "mess",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

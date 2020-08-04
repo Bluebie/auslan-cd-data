@@ -11,8 +11,8 @@
     "syn1",
     "deictic2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is often made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
   "english": [
     "their",
@@ -22,14 +22,9 @@
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is owned or possessed by the person or thing this sign is directed towards.",
     "In this case the thing belongs to the person or group of people that you are talking about, not the person you are talking to. English = their, theirs."
   ],
-  "cf": [
-    "your.yours.1a",
-    "your.yours.2a",
-    "my.mine.1a"
-  ],
   "signNumber": 5650,
   "recordNumber": 3347,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,8 +35,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "their.theirs.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "your.yours.1a",
+    "your.yours.2a",
+    "my.mine.1a"
+  ]
 }

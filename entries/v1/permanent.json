@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "permanence",
     "permanent",
     "constant"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1457,
   "recordNumber": 869,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 16,
@@ -37,11 +36,12 @@
     "2. To be present all the time. English = (be) permanent, (be) constant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of remaining the same for a long time. English = permanence.",
     "2. Of employees, someone who is hired to work for as long as they are able to or for no minimum period. English = permanent employee."
   ],
   "idGloss": "permanent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

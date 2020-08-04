@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "than"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6110,
   "recordNumber": 3636,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -30,8 +29,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "than.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

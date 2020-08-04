@@ -6,17 +6,16 @@
     "auslex",
     "onehand"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SEE + READY",
-  "queries": "",
+  "queries": null,
   "english": [
     "in case"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6283,
   "recordNumber": 3756,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -30,8 +29,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "in.case",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

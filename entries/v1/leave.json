@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "going",
     "leaving",
@@ -30,12 +30,9 @@
     "depart"
   ],
   "deictic": [],
-  "cf": [
-    "lose.1a"
-  ],
   "signNumber": 3736,
   "recordNumber": 2204,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -53,10 +50,13 @@
     "1. To move or travel away from the place where you are now. English = go, leave, go away, depart."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of moving or travelling away from the place where you are now. English = going, leaving, going away, departure."
   ],
   "idGloss": "leave",
-  "oldEntry": "Popular explanation: waving something or someone away from oneself."
+  "oldEntry": "Popular explanation: waving something or someone away from oneself.",
+  "seeAlso": [
+    "lose.1a"
+  ]
 }

@@ -8,17 +8,16 @@
     "domonly",
     "opaque"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is used immediately after a person's name or role and before the sign for something to express possession. For example, 'brother' + 'apostrophe' + 'car' means 'brother's car'.",
   "english": [
     "apostrophe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5020,
   "recordNumber": 3030,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -29,11 +28,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A symbol written before or after an 's' at the end of a word to indicate that what follows belongs to or relates to the word, as in 'the cat's whiskers'. English = apostrophe.",
     "2. A mark written to indicate that one or more letters have been omitted from a word, as in 'can't and 'he'll'. English = apostrophe."
   ],
   "idGloss": "apostrophe",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

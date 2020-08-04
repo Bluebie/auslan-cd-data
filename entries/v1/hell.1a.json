@@ -9,16 +9,15 @@
     "ant1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "hell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 796.1,
   "recordNumber": 453,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": null,
   "primaryLocation": 16,
@@ -33,10 +32,11 @@
     "1. To go to hell."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The place that some people believe wicked people go to when they die. English = hell."
   ],
   "idGloss": "hell.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

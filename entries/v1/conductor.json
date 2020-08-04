@@ -14,9 +14,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "orchestra",
     "conductor",
@@ -24,12 +24,9 @@
     "conduct"
   ],
   "deictic": [],
-  "cf": [
-    "guitar"
-  ],
   "signNumber": 333,
   "recordNumber": 185,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,12 +41,15 @@
     "1. To direct the performance of an orchestra or choir. English = conduct."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large group of musicians who play a variety of different instruments together, usually playing classical music. English = orchestra.",
     "2. A person who stands in front of an orchestra or choir and direct its performance. English = conductor.",
     "3. A group of musicians, especially who play brass or percussion instruments. English = band."
   ],
   "idGloss": "conductor",
-  "oldEntry": "Popular explanation: conducting a band."
+  "oldEntry": "Popular explanation: conducting a band.",
+  "seeAlso": [
+    "guitar"
+  ]
 }

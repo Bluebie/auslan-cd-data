@@ -17,20 +17,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "garage",
     "carport"
   ],
   "deictic": [],
-  "cf": [
-    "go.in.1a"
-  ],
   "signNumber": 4100,
   "recordNumber": 2461,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,11 +44,14 @@
     "3. To drive a car under something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building in which you keep a car. English = garage.",
     "2. A shelter for one or two cars which is attached to a house and consists of a flat roof supported on pillars. English =  carport."
   ],
   "idGloss": "garage.1",
-  "oldEntry": "Popular explanation: vehicle going under cover."
+  "oldEntry": "Popular explanation: vehicle going under cover.",
+  "seeAlso": [
+    "go.in.1a"
+  ]
 }

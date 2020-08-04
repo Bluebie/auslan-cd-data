@@ -14,19 +14,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hairdressing",
     "hairdresser",
     "hair cut"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1531,
   "recordNumber": 911,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -41,12 +40,13 @@
     "1. To cut someone's hair, or to have someone cut your hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity or occupation of cutting, washing, and styling people's hair. English = hairdressing.",
     "2. A person who cuts, washes and styles people's hair. English = hairdresser.",
     "3. The style in which you hair has been cut. English = hair cut."
   ],
   "idGloss": "hairdresser.1a",
-  "oldEntry": "Popular explanation: cutting hair."
+  "oldEntry": "Popular explanation: cutting hair.",
+  "seeAlso": []
 }

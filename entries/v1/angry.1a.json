@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "anger",
     "annoyance",
@@ -36,10 +36,9 @@
     "complain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2963.1,
   "recordNumber": 1685,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -61,11 +60,12 @@
     "2. To express the fact that you are not satisfied with a particular situation. English = complain."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong emotion about something that you consider unfair, cruel, or insulting. English = anger, annoyance.",
     "2. A statement in which you express your dissatisfaction with a particular situation. English = complaint."
   ],
   "idGloss": "angry.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

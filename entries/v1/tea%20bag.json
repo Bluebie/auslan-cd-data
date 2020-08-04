@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tea bag"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 481,
   "recordNumber": 267,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -32,11 +31,12 @@
     "1. To hold a tea bag above a cup and dip it into hot water in order to make a cup of tea."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small paper bag with tea leaves in it. You put it into hot water to make tea and then throw it away. English = tea bag.",
     "2. A cup of tea made with a tea bag."
   ],
   "idGloss": "tea bag",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

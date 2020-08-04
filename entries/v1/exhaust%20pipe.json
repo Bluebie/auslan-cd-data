@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "exhaust pipe",
     "exhaust"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 192,
   "recordNumber": 109,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pipe which carries the gas out of an engine and out of a car. English = exhaust, exhaust pipe."
   ],
   "idGloss": "exhaust pipe",
-  "oldEntry": "Popular explanation: fumes from a pipe."
+  "oldEntry": "Popular explanation: fumes from a pipe.",
+  "seeAlso": []
 }

@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "syntax",
     "word order",
     "grammar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5374,
   "recordNumber": 3209,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 7.2,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The grammatical arrangement of words or signs in a language, or the grammatical rules in a language. English = syntax, word order, grammar."
   ],
   "idGloss": "syntax",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

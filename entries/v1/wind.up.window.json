@@ -8,17 +8,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wind up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5694,
   "recordNumber": 3370,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
     "1. To wind up the window in a car door."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The handle used to wind up the window in a car door."
   ],
   "idGloss": "wind.up.window",
-  "oldEntry": "Popular explanation: turning a car window handle."
+  "oldEntry": "Popular explanation: turning a car window handle.",
+  "seeAlso": []
 }

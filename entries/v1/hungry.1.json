@@ -19,9 +19,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "starvation",
     "hunger",
@@ -30,10 +30,9 @@
     "hungry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3942,
   "recordNumber": 2350,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,11 +49,12 @@
     "3. To want to eat food very much. English = (be) hungry. Informal English = (be) starving."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Extreme suffering or death caused by lack of food. English = starvation.",
     "2. The desire to eat food. English = hunger."
   ],
   "idGloss": "hungry.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

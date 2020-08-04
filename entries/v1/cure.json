@@ -18,9 +18,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cure",
     "recovery",
@@ -29,13 +29,9 @@
     "healed"
   ],
   "deictic": [],
-  "cf": [
-    "brave",
-    "well.1a"
-  ],
   "signNumber": 3721,
   "recordNumber": 2194,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -52,11 +48,15 @@
     "3. To recover from an illness, to make a recovery, to get better, to get well; to be cured; to be healed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A medicine or other treatment that makes an illness or an injury disappear. English = cure.",
     "2. The act of becoming well again after being sick. English = recovery, healing."
   ],
   "idGloss": "cure",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "brave",
+    "well.1a"
+  ]
 }

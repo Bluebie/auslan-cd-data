@@ -13,18 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hood",
     "parka"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6140,
   "recordNumber": 3658,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -38,11 +37,12 @@
     "2. To put on a parka."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A part of a coat or cloak which you pull up to cover your head. English = hood.",
     "2. A jacket or coat which has a quilted lining and a hood with fur round the edge. English = parka."
   ],
   "idGloss": "parka",
-  "oldEntry": "Popular explanation: pulling the hood of a parka over one's head."
+  "oldEntry": "Popular explanation: pulling the hood of a parka over one's head.",
+  "seeAlso": []
 }

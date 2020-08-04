@@ -7,14 +7,11 @@
     "domonly",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "watch.1a"
-  ],
   "signNumber": 1688,
   "recordNumber": 1011,
   "signVisualComposition": "LOOK + WATCH",
@@ -30,8 +27,11 @@
     "1. To keep an eye on the time."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "watch.the.time",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "watch.1a"
+  ]
 }

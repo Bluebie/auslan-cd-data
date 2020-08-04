@@ -13,21 +13,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "about-turn",
     "about-face",
     "turn-around"
   ],
   "deictic": [],
-  "cf": [
-    "facing"
-  ],
   "signNumber": 3591,
   "recordNumber": 2110,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -41,11 +38,14 @@
     "2. To be confused, (be) surprised, (be) thrown off balance or be disoriented, especially by a complete and unexpected change in circumstances."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A complete change in attitude or opinion. English = about-turn, about-face.",
     "2. A complete change in circumstances. English = turn-around."
   ],
   "idGloss": "about.face",
-  "oldEntry": "Popular explanation: two faces changing places."
+  "oldEntry": "Popular explanation: two faces changing places.",
+  "seeAlso": [
+    "facing"
+  ]
 }

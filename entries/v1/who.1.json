@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "who",
     "whom",
@@ -31,10 +31,9 @@
     "whomever"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 695,
   "recordNumber": 401,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -53,12 +52,13 @@
     "1. Used to ask a question about someone's name or the identity of the person who performs the action of the verb in the sentence, or undergoes the action. English = who, whom, which one of you.",
     "2. Used immediately next to a noun to ask questions about the name or identity of the person that the thing belongs to or relates to. English = whose."
   ],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person in the most general sense (without saying who they are exactly). English = someone.",
     "2. A person who does something whose identity does not matter or is not known. English = whoever.",
     "3. A person who has something  done to them whose identity does not matter or is not known. English = whomever."
   ],
   "idGloss": "who.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

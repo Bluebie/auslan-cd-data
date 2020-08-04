@@ -19,9 +19,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "medication",
     "chemist",
@@ -31,13 +31,9 @@
     "medicine"
   ],
   "deictic": [],
-  "cf": [
-    "ointment",
-    "take.tablet.1a"
-  ],
   "signNumber": 5028,
   "recordNumber": 3035,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -50,7 +46,7 @@
     "1. To prepare or mix medicine or chemicals."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substance that you drink or swallow in order to cure an illness. English = medicine, medication.",
     "2. Someone who is qualified to sell medicines prescribed by a doctor. English = chemist, pharmacist.",
@@ -58,5 +54,9 @@
     "4. A substance that is used in a chemical process or that is made by a chemical process. English = chemical."
   ],
   "idGloss": "medicine",
-  "oldEntry": "Popular explanation: mixing something with a small implement."
+  "oldEntry": "Popular explanation: mixing something with a small implement.",
+  "seeAlso": [
+    "ointment",
+    "take.tablet.1a"
+  ]
 }

@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pants",
     "underpants"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3511,
   "recordNumber": 2054,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -44,11 +43,12 @@
     "2. To wear underpants."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Clothes you wear on your legs, such as shorts or trousers. English = pants.",
     "2. A piece of clothing worn by men and boys under their pants. English = underpants."
   ],
   "idGloss": "pants",
-  "oldEntry": "Popular explanation: tracing the top and bottom of a pair of pants."
+  "oldEntry": "Popular explanation: tracing the top and bottom of a pair of pants.",
+  "seeAlso": []
 }

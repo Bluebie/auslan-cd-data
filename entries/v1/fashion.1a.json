@@ -17,9 +17,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fashion",
     "magic",
@@ -28,10 +28,9 @@
     "magical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3227,
   "recordNumber": 1874,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -46,7 +45,7 @@
     "3. To use magic or be able to produce magic. English = (be) magical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The area of activity that involves styles of clothing and appearance. English = fashion.",
     "2. A style of clothing or way of behaving that is popular at a particular time. English = fashion.",
@@ -54,5 +53,6 @@
     "4. The art and skill of performing tricks to entertain people, for example, by seeming to make things appear and disappear. English = magic."
   ],
   "idGloss": "fashion.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

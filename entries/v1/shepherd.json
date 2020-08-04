@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SHEEP + ENCOURAGE",
-  "queries": "",
+  "queries": null,
   "english": [
     "shepherd"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4968,
   "recordNumber": 3000,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,10 +35,11 @@
     "2. To look after and guide someone towards where you want them to go. Often used in a religious sense. English = shepherd."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who looks after or rounds up sheep. English = shepherd."
   ],
   "idGloss": "shepherd",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

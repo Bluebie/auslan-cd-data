@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "radiator"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4450,
   "recordNumber": 2704,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.4,
   "primaryLocation": 14,
@@ -33,5 +32,6 @@
     "1. The part of the engine in a car which is filled with water in order to cool the engine. English = radiator."
   ],
   "idGloss": "radiator.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

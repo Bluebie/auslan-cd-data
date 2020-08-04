@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sweat",
     "perspiration",
@@ -33,10 +33,9 @@
     "phew"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1349,
   "recordNumber": 796,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -56,11 +55,12 @@
     "3. Of the weather, to have a high temperature, especially high enough to make you sweat. English = (be) hot."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The salty, colourless liquid which comes through your skin when you are hot, ill, or afraid. English = sweat, perspiration.",
     "2. Of the weather or air in a room, the quality of being hot. English = heat."
   ],
   "idGloss": "humid.1a",
-  "oldEntry": "Popular explanation: wiping the brow."
+  "oldEntry": "Popular explanation: wiping the brow.",
+  "seeAlso": []
 }

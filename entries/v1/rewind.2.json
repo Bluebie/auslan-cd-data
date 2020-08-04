@@ -7,17 +7,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rewind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1100,
   "recordNumber": 647,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -32,8 +31,9 @@
     "1. To make the tape on a tape recorder or video go backwards so that you can play it again. English = rewind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "rewind.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

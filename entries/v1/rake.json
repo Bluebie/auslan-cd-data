@@ -12,21 +12,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rake"
   ],
   "deictic": [],
-  "cf": [
-    "steal.1a",
-    "scratch",
-    "scratches"
-  ],
   "signNumber": 3106,
   "recordNumber": 1789,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +35,15 @@
     "2. To sweep up leaves or weeds using a rake. English = rake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A garden tool consisting of a row of metal teeth attached to a long handle. English = rake."
   ],
   "idGloss": "rake",
-  "oldEntry": "Popular explanation: a rake passing over the ground."
+  "oldEntry": "Popular explanation: a rake passing over the ground.",
+  "seeAlso": [
+    "steal.1a",
+    "scratch",
+    "scratches"
+  ]
 }

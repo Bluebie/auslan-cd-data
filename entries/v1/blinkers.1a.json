@@ -18,8 +18,8 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Left or right blinkers may be specified by keeping the left or right hand closed (for the blinker which is inoperative).",
   "english": [
     "indicators",
@@ -29,12 +29,9 @@
     "hazard lights"
   ],
   "deictic": [],
-  "cf": [
-    "headlights"
-  ],
   "signNumber": 3704,
   "recordNumber": 2185,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -48,11 +45,14 @@
     "2. To operate the hazard lights on a car."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lights at the front and back of a car which are used to show that the car is turning or is about to turn left or right. English = indicators, blinkers.",
     "2. The lights at the front and back of a car which, when both are flashing simultaneously, are used to show that the car is stationary and a hazard to traffic. English = hazard lights."
   ],
   "idGloss": "blinkers.1a",
-  "oldEntry": "Popular explanation: a light flashing on and off."
+  "oldEntry": "Popular explanation: a light flashing on and off.",
+  "seeAlso": [
+    "headlights"
+  ]
 }

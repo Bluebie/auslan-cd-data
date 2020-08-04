@@ -30,9 +30,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wonder",
     "delight",
@@ -48,12 +48,9 @@
     "divine"
   ],
   "deictic": [],
-  "cf": [
-    "fashion.1a"
-  ],
   "signNumber": 3225,
   "recordNumber": 1873,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -75,12 +72,15 @@
     "4. To come from or relate to God. English = (be) holy, (be) divine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of surprise and amazement. English = wonder, wonderment.",
     "2. A feeling of surprise and pleasure. English = delight.",
     "3. Something which surprises, pleases and amazes; something that is quite unbelievable because it is so surprising, pleasing or amazing. English = wonder; marvel, miracle."
   ],
   "idGloss": "wonderful.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fashion.1a"
+  ]
 }

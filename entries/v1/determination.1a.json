@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "single-mindedness",
     "independence",
@@ -33,7 +33,6 @@
     "determined"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1327,
   "recordNumber": 785,
   "signVisualComposition": "THINK + STRONG",
@@ -53,11 +52,12 @@
     "2. To be determined to behave in a particular way despite advice not to do so. Sometimes used showing disapproval. English = (be) strong-willed, (be) determined."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of having your own attitudes and opinions and not being easily influenced by other people. English = single-mindedness, independence.",
     "2. The quality of persisting in doing things or behaving in a particular way especially against advice to the contrary. English = determination, resoluteness."
   ],
   "idGloss": "determination.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

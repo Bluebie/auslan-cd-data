@@ -8,17 +8,16 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "power"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 816,
   "recordNumber": 466,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -35,10 +34,11 @@
     "1. Control over people and activities; authority or the legal right to do something. English = power."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Control over people and activities; authority or the legal right to do something. English = power."
   ],
   "idGloss": "power.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beside",
     "next to"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 928,
   "recordNumber": 528,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -36,8 +35,9 @@
     "1. To be located at the side of something or next to it. English = (be) beside."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "beside",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

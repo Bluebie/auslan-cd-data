@@ -11,20 +11,15 @@
     "cf3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "snapper"
   ],
   "deictic": [],
-  "cf": [
-    "shark.1",
-    "bream",
-    "whiting"
-  ],
   "signNumber": 5566,
   "recordNumber": 3291,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australia and New Zealand, a pink-coloured sea fish that is good to eat. English = snapper."
   ],
   "idGloss": "snapper",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shark.1",
+    "bream",
+    "whiting"
+  ]
 }

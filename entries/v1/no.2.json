@@ -11,14 +11,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "no"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1960,
   "recordNumber": 1167,
   "signVisualComposition": "N + O",
@@ -38,8 +37,9 @@
     "1. To say no."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "no.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

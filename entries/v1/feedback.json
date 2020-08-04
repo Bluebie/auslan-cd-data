@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers flick open the handshapes at the end of each movement.",
   "english": [
     "feedback"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 353,
   "recordNumber": 194,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Comments you get about something that you have done or made. English = feedback."
   ],
   "idGloss": "feedback",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

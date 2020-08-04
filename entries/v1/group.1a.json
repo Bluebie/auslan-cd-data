@@ -18,22 +18,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "group",
     "class"
   ],
   "deictic": [],
-  "cf": [
-    "unit.1a",
-    "everything",
-    "enclose"
-  ],
   "signNumber": 3687,
   "recordNumber": 2174,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -52,12 +47,17 @@
     "2. To put a number of things or people together which have something in common or which have similar characteristics. English = class, group."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A number of people or things which are together in one place at one time; a set of people or things which have something in common. English = group.",
     "2. A group of pupils or students who are taught together. English = class.",
     "3. A set of people or things which have something in common or have similar characteristics. English = class, group."
   ],
   "idGloss": "group.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "unit.1a",
+    "everything",
+    "enclose"
+  ]
 }

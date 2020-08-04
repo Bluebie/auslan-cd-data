@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "access"
   ],
   "deictic": [],
-  "cf": [
-    "row.3a"
-  ],
   "signNumber": 3999,
   "recordNumber": 2391,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -33,10 +30,13 @@
     "1. To succeed in getting into a building or using your right to use or see something or someone. English = access."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The opportunity or right to use or see something or someone. English = access."
   ],
   "idGloss": "access",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "row.3a"
+  ]
 }

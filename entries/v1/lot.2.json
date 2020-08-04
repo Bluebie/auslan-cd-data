@@ -14,9 +14,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lot",
     "much",
@@ -24,10 +24,9 @@
     "often"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2799,
   "recordNumber": 1567,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -45,8 +44,9 @@
     "1. For there to be a large amount or large number of something. English = (be) a lot of, (be) much, (be) many."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lot.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bull's-eye"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 523,
   "recordNumber": 293,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -34,11 +33,12 @@
     "3. To poke one's eye with something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The small circular area at the centre of a target. English = bull's-eye.",
     "2. A throw of a dart or shot of an arrow or bullet that hits the bull's-eye. English = bull's-eye."
   ],
   "idGloss": "bull's-eye.1",
-  "oldEntry": "Popular explanation: something going into one's eye."
+  "oldEntry": "Popular explanation: something going into one's eye.",
+  "seeAlso": []
 }

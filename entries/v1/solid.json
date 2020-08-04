@@ -13,9 +13,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "solid",
     "hard",
@@ -23,12 +23,9 @@
     "firm"
   ],
   "deictic": [],
-  "cf": [
-    "metal.1a"
-  ],
   "signNumber": 1385,
   "recordNumber": 821,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -42,10 +39,13 @@
     "2. Of a substance, to feel very firm when you touch it and not to be easily bent, cut, or broken. English = (be) hard, (be) rigid, (be) firm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substance which is hard and firm and remains the same shape whether it is in a container or not. English = solid."
   ],
   "idGloss": "solid",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "metal.1a"
+  ]
 }

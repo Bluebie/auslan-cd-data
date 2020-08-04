@@ -18,19 +18,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "walk",
     "stroll",
     "promenade"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2123,
   "recordNumber": 1231,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,12 +48,13 @@
     "3. To stroll around in a leisurely way, usually in a public place, for pleasure or display. English = promenade."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A journey you make somewhere by walking. English = walk.",
     "2. A walk you make somewhere in a slow, relaxed manner. English = stroll.",
     "3. A leisurely walk or stroll, especially in a public place, made for pleasure or display. English = promenade."
   ],
   "idGloss": "stroll",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

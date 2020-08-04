@@ -18,9 +18,9 @@
     "engtf6",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "quote",
     "quotation",
@@ -30,12 +30,9 @@
     "so-called"
   ],
   "deictic": [],
-  "cf": [
-    "inch"
-  ],
   "signNumber": 1636,
   "recordNumber": 972,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -49,11 +46,14 @@
     "2. To be the name or word that is generally used to describe something. You feel that there is something wrong or inappropriate about that name or word. English = (be) so-called."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sentence or phrase from a book, film, poem, song, or play. English = quote, quotation.",
     "2. Punctuation marks that are used to show where something someone has said or a quotation begins and ends. English = quotation marks, inverted commas."
   ],
   "idGloss": "quote",
-  "oldEntry": "Popular explanation: quotation marks."
+  "oldEntry": "Popular explanation: quotation marks.",
+  "seeAlso": [
+    "inch"
+  ]
 }

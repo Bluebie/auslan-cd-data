@@ -14,17 +14,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The sign can also be made with the bent Gun handshape.",
   "english": [],
   "deictic": [],
-  "cf": [
-    "sickie"
-  ],
   "signNumber": 1901,
   "recordNumber": 1138,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -45,8 +42,11 @@
     "3. To give up on doing something because you think it is too difficult or because you really do not want to do it at all. English = give up. Idiomatic English = throw in the towel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.care.less",
-  "oldEntry": "Popular explanation: blowing one's nose and disposing of the handkerchief."
+  "oldEntry": "Popular explanation: blowing one's nose and disposing of the handkerchief.",
+  "seeAlso": [
+    "sickie"
+  ]
 }

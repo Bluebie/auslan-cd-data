@@ -6,15 +6,14 @@
     "doublehnd",
     "sym"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 2668,
   "recordNumber": 1484,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -29,8 +28,9 @@
     "1. To move your thumbs around each other while your fingers are linked together because you are bored or because you have nothing else to do. Idiomatic English = twiddle your thumbs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "twiddle-thumbs",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

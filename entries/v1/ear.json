@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ear",
     "ear lobe"
   ],
   "deictic": [],
-  "cf": [
-    "earring.1a",
-    "hearing.1a"
-  ],
   "signNumber": 6349,
   "recordNumber": 3793,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -35,11 +31,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two parts of your body, one on each side of your head, with which most people hear sounds. English = ear, ears.",
     "2. The soft part at the bottom  of your ears. English = ear lobe.\u0002"
   ],
   "idGloss": "ear",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "earring.1a",
+    "hearing.1a"
+  ]
 }

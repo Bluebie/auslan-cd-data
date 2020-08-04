@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "divorce",
     "divorced"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 444,
   "recordNumber": 251,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -44,10 +43,11 @@
     "2. Of a man and a woman, to have legally ended a marriage. English = (be) divorced."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The formal ending of a marriage by law. English = divorce."
   ],
   "idGloss": "divorce.1a",
-  "oldEntry": "Popular explanation: taking off the wedding ring."
+  "oldEntry": "Popular explanation: taking off the wedding ring.",
+  "seeAlso": []
 }

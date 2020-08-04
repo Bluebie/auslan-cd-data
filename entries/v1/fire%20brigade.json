@@ -12,17 +12,16 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "fire brigade",
     "firefighter"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2372,
   "recordNumber": 1307,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -36,11 +35,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The organisation that puts out fires. English = fire brigade.",
     "2. A person whose job is to put out fires and to rescue people who are trapped, for example in burning buildings or cars. English = firefighter"
   ],
   "idGloss": "fire brigade",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

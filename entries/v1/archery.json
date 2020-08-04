@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bow",
     "archery",
@@ -23,10 +23,9 @@
     "Sagittarius"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1802,
   "recordNumber": 1089,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -39,7 +38,7 @@
     "1. To shoot an arrow using a bow and arrow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A weapon for shooting arrows. It consists of a long piece of wood bent into a curve by a string attached to both its ends. English = bow.",
     "2. A sport in which people shoot at a target with a bow and arrow. English = archery.",
@@ -47,5 +46,6 @@
     "4. A constellation and sign of the zodiac, called Sagittarius or the Archer (a centaur drawing a bow). English = Sagittarius."
   ],
   "idGloss": "archery",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

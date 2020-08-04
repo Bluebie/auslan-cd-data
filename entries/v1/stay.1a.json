@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stay",
     "remain",
@@ -41,12 +41,9 @@
     "stop dead"
   ],
   "deictic": [],
-  "cf": [
-    "wait.1"
-  ],
   "signNumber": 1455,
   "recordNumber": 868,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 16,
@@ -69,12 +66,15 @@
     "4. To continue to happen or exist for a long time. Formal (religious) English = abide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of continuing to be somewhere without moving away.",
     "2. The act of being in a place, not moving away, and not moving at all.",
     "3. The act of suddenly stopping any movement and remaining still in one place. Idiomatic English = freezing."
   ],
   "idGloss": "stay.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wait.1"
+  ]
 }

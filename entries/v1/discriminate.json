@@ -9,20 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "discrimination",
     "discriminate"
   ],
   "deictic": [],
-  "cf": [
-    "penalise"
-  ],
   "signNumber": 1255,
   "recordNumber": 744,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +32,13 @@
     "1. To unfairly treat someone worse or better than other people. Usually used in the negative sense only. English = discriminate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The practice of unfairly treating someone worse or better than other people. Usually used in the negative sense only. English = discrimination."
   ],
   "idGloss": "discriminate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "penalise"
+  ]
 }

@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sandal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5488,
   "recordNumber": 3258,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -30,11 +29,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Light shoes that you wear in warm weather, which have straps instead of a solid part over the top of your foot. English = sandal.",
     "2. A strap on a shoe or a sandal."
   ],
   "idGloss": "sandal",
-  "oldEntry": "Popular explanation: a thin strap across a foot."
+  "oldEntry": "Popular explanation: a thin strap across a foot.",
+  "seeAlso": []
 }

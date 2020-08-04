@@ -11,19 +11,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "comic",
     "comic book",
     "cartoon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 41,
   "recordNumber": 25,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,12 +35,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A magazine that contains stories told in pictures. English = comic, comic book.",
     "2. A humorous drawing or series of drawings in a newspaper or magazine. English = cartoon.",
     "3. A film in which all the characters and scenes are drawn rather than being real people or objects. English = cartoon."
   ],
   "idGloss": "comic.1",
-  "oldEntry": "Popular explanation: making noise as you laugh (or, dialogue bubbles opening from the mouth)."
+  "oldEntry": "Popular explanation: making noise as you laugh (or, dialogue bubbles opening from the mouth).",
+  "seeAlso": []
 }

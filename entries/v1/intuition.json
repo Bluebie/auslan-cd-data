@@ -13,9 +13,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "intuition",
     "sense",
@@ -23,10 +23,9 @@
     "intuitive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 527,
   "recordNumber": 298,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -44,10 +43,11 @@
     "2. To be an idea or feeling that something is true or exists which you have without any evidence or proof of it, but just from your feelings. English = (be) intuitive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling that something is true or exists although you have no evidence or proof of it. English = intuition."
   ],
   "idGloss": "intuition",
-  "oldEntry": "Popular explanation: culturally shared gesture."
+  "oldEntry": "Popular explanation: culturally shared gesture.",
+  "seeAlso": []
 }

@@ -7,16 +7,13 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "letter box"
   ],
   "deictic": [],
-  "cf": [
-    "letter"
-  ],
   "signNumber": 4902,
   "recordNumber": 2962,
   "signVisualComposition": "LETTER + POST",
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large metal container in the street or against the wall of a post office into which you post letters. English = letter box."
   ],
   "idGloss": "letterbox",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "letter"
+  ]
 }

@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "above",
     "upstairs"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4086,
   "recordNumber": 2450,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "3. To be located one floor above another (in a building with two or more floors); to go up by one floor in a building; to go upstairs (one floor)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The floor above the one you are on or the one you are talking about; upstairs one floor."
   ],
   "idGloss": "one.level.above",
-  "oldEntry": "Popular explanation: one surface above another."
+  "oldEntry": "Popular explanation: one surface above another.",
+  "seeAlso": []
 }

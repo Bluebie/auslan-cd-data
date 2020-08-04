@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "naughtiness",
     "naughty",
@@ -32,10 +32,9 @@
     "chastise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1034,
   "recordNumber": 605,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -55,11 +54,12 @@
     "3. To tell a child that they have behaved badly or in a disobedient way. English = chastise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In children, bad or disobedient behaviour. English = naughtiness.",
     "2. In adults, risque or slightly rude, sexually suggestive or even indecent language or behaviour."
   ],
   "idGloss": "naughty.2",
-  "oldEntry": "Popular explanation: culturally shared gesture of admonishment."
+  "oldEntry": "Popular explanation: culturally shared gesture of admonishment.",
+  "seeAlso": []
 }

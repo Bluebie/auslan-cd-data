@@ -25,9 +25,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disappearance",
     "cancellation",
@@ -38,13 +38,9 @@
     "off"
   ],
   "deictic": [],
-  "cf": [
-    "wear.out.1a",
-    "reserve.1a"
-  ],
   "signNumber": 3649,
   "recordNumber": 2149,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -64,7 +60,7 @@
     "4. Of things of a particular type, especially species of animals, to become less and less common until something no longer exists. English = become extinct, die out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of becoming unable to be seen or experienced by going somewhere else, by changing in some way, or by becoming smaller and smaller or less and less. English = disappearance.",
     "2. The act of stopping something happening. English = cancellation.",
@@ -72,5 +68,9 @@
     "4. The end of existence of things of a particular type, especially species of animals, after they have become less and less common. English = extinction."
   ],
   "idGloss": "disappear.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wear.out.1a",
+    "reserve.1a"
+  ]
 }

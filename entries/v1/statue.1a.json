@@ -6,16 +6,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "statue"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1401,
   "recordNumber": 832,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -26,10 +25,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large sculpture of a person or an animal, made of stone or metal. English = statue."
   ],
   "idGloss": "statue.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

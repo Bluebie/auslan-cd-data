@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lion",
     "mane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2581,
   "recordNumber": 1424,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 1,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large wild animal of the cat family which is found in Africa. They have yellowish fur, and the males have long hair on their head and neck. English = lion.",
     "2. The long thick hair that grows on the head and neck of a male lion. English = mane, lion's mane."
   ],
   "idGloss": "lion",
-  "oldEntry": "Popular explanation: the mane of a lion."
+  "oldEntry": "Popular explanation: the mane of a lion.",
+  "seeAlso": []
 }

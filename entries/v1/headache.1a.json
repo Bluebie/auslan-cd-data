@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "headache"
   ],
   "deictic": [],
-  "cf": [
-    "toothache",
-    "earache"
-  ],
   "signNumber": 1362,
   "recordNumber": 804,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -35,10 +31,14 @@
     "1. To have a pain in your head. English = have a headache."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pain that you feel in your head. English = headache."
   ],
   "idGloss": "headache.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "toothache",
+    "earache"
+  ]
 }

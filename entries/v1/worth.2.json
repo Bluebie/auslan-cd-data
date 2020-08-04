@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "worth",
     "value",
@@ -30,12 +30,9 @@
     "valued"
   ],
   "deictic": [],
-  "cf": [
-    "spend.1a"
-  ],
   "signNumber": 2634,
   "recordNumber": 1463,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -53,10 +50,13 @@
     "2. Used immediately before a noun or a sign for an amount of money to mean that what is being talked about can be thought of as equivalent or exchangeable for that thing or that amount of money. English = (be) worth, (be) valued at."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The amount of importance or usefulness of some thing or action to people. The importance or usefulness may be personal, practical, spiritual, moral, material, or monetary. English = worth, value."
   ],
   "idGloss": "worth.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "spend.1a"
+  ]
 }

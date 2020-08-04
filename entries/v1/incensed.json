@@ -19,8 +19,8 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Often made with puffed cheeks followed by a blowing action.",
   "english": [
     "fury",
@@ -30,10 +30,9 @@
     "enraged"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 121,
   "recordNumber": 64,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 6,
@@ -54,10 +53,11 @@
     "2. To be extremely angry. English = furious. Formal English = incensed, enraged."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The very strong emotion that you feel when you think that someone has behaved in an unfair, cruel, or insulting way; extreme anger. English = fury, rage."
   ],
   "idGloss": "incensed",
-  "oldEntry": "Popular explanation: an explosion of emotion."
+  "oldEntry": "Popular explanation: an explosion of emotion.",
+  "seeAlso": []
 }

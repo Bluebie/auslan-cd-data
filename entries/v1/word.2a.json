@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "word"
   ],
   "deictic": [],
-  "cf": [
-    "sign"
-  ],
   "signNumber": 5112.1,
   "recordNumber": 3087,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +36,14 @@
     "2. To communicate in language using words, rather than signs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A single unit of language that is uttered in speech. English = word.",
     "2. A single unit of language that can be represented in writing or speech. In English, it has a space on either side of it when it is written. It can have one or more meanings. English = word."
   ],
   "idGloss": "word.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sign"
+  ]
 }

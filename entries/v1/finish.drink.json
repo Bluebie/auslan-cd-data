@@ -12,19 +12,14 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "run.out.of.petrol",
-    "run.out.of.time",
-    "finish.fag"
-  ],
   "signNumber": 5298,
   "recordNumber": 3174,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -38,11 +33,16 @@
     "2. To drink a container of liquid dry or empty; to finish your drink."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The reduction in the level or amount of a liquid in a container, especially by drinking it empty.",
     "2. The time it takes to drink a container of liquid dry; the time it takes for you to finish your drink."
   ],
   "idGloss": "finish.drink",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "run.out.of.petrol",
+    "run.out.of.time",
+    "finish.fag"
+  ]
 }

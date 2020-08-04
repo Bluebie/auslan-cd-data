@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chilli"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3255,
   "recordNumber": 1895,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -30,10 +29,11 @@
     "1. Of food, to be hot and spicy, especially because it has been flavoured with chilli."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small red or green seed pod, which has a hot, spicy taste and is used in cooking. English = chilli."
   ],
   "idGloss": "chilli",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

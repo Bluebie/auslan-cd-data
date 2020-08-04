@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "butcher"
   ],
   "deictic": [],
-  "cf": [
-    "operate.1a",
-    "murder.1"
-  ],
   "signNumber": 4747,
   "recordNumber": 2869,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -37,11 +33,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shopkeeper who sells meat. English = butcher.",
     "2. A shop where you can buy meat. English = butcher, butcher's."
   ],
   "idGloss": "butcher",
-  "oldEntry": "Popular explanation: cutting an animal's throat."
+  "oldEntry": "Popular explanation: cutting an animal's throat.",
+  "seeAlso": [
+    "operate.1a",
+    "murder.1"
+  ]
 }

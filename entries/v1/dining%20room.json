@@ -10,17 +10,13 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dining room"
   ],
   "deictic": [],
-  "cf": [
-    "kitchen.1",
-    "lounge room"
-  ],
   "signNumber": 53,
   "recordNumber": 32,
   "signVisualComposition": "EAT + ROOM",
@@ -34,10 +30,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The room in a house where people have their meals, or a room in a hotel where meals are served. English = dining room."
   ],
   "idGloss": "dining room",
-  "oldEntry": "Popular explanation: eating room."
+  "oldEntry": "Popular explanation: eating room.",
+  "seeAlso": [
+    "kitchen.1",
+    "lounge room"
+  ]
 }

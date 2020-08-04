@@ -10,18 +10,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "extinguish",
     "turn off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3119,
   "recordNumber": 1801,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -38,8 +37,9 @@
     "1. About an overhead light source, to stop shining, to cease to illuminate, to go out; to turn off, to extinguish; to be turned off, to be extinguished."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "extinguish.light",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

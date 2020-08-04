@@ -12,21 +12,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "write"
   ],
   "deictic": [],
-  "cf": [
-    "agenda",
-    "list.1",
-    "write.1a"
-  ],
   "signNumber": 6452,
   "recordNumber": 3846,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -39,8 +34,13 @@
     "1. To write a list."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "write.list",
-  "oldEntry": "Popular explanation: writing a list."
+  "oldEntry": "Popular explanation: writing a list.",
+  "seeAlso": [
+    "agenda",
+    "list.1",
+    "write.1a"
+  ]
 }

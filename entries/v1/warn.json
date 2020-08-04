@@ -26,9 +26,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "warning",
     "caution",
@@ -40,13 +40,9 @@
     "admonish"
   ],
   "deictic": [],
-  "cf": [
-    "hold.on",
-    "discipline"
-  ],
   "signNumber": 745,
   "recordNumber": 430,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -65,7 +61,7 @@
     "4. To officially speak to someone because they have done something wrong or ignored an earlier warning. English = reprimand."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is said, written or signed to tell people of a possible danger, problem, or other unpleasant thing that might happen. English = warning, caution.",
     "2. Stern or angry words or signs communicated to someone, particularly a child, because they have done something wrong or ignored an earlier warning. English = scolding.",
@@ -73,5 +69,9 @@
     "4. An official notification or complaint that someone should not have done something. English = reprimand."
   ],
   "idGloss": "warn",
-  "oldEntry": "Popular explanation: culturally shared warning gesture."
+  "oldEntry": "Popular explanation: culturally shared warning gesture.",
+  "seeAlso": [
+    "hold.on",
+    "discipline"
+  ]
 }

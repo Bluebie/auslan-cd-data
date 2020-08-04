@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "decision",
     "resolution",
@@ -27,10 +27,9 @@
     "resolve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5192,
   "recordNumber": 3124,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 3,
@@ -49,12 +48,13 @@
     "3. To make a formal decision to do something at a meeting by means of a vote. English = resolve, make a resolution, pass a resolution."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of choosing to do something, usually after you have thought carefully about the other possibilities. English = decision.",
     "2. A firm decision to do something or the determination to do something. English = resolution.",
     "3. A formal decision to do something which is passed at a meeting by means of a vote. English = resolution."
   ],
   "idGloss": "resolve.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

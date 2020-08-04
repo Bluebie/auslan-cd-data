@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "picture"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2926,
   "recordNumber": 1659,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Lines and shapes that are drawn, painted, or printed on a surface that show a person, thing, or scene. English = picture."
   ],
   "idGloss": "picture.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

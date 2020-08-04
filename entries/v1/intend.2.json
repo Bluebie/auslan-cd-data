@@ -23,8 +23,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "intention",
     "aim",
@@ -36,10 +36,9 @@
     "ambitious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5435,
   "recordNumber": 3234,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -58,12 +57,13 @@
     "4. To be someone who wants to achieve their aims, usually to be successful, rich, or powerful. English = (be) ambitious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you plan or hope to achieve. English = aim, goal, objective, ambition.",
     "2. Something which you decide and plan to do. English = intention.",
     "3. The very strong desire to achieve or do something in your life. English = ambition."
   ],
   "idGloss": "intend.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

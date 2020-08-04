@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "advertisement",
     "advertise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6000,
   "recordNumber": 3573,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To tell people about a product, event, or job vacancy, by printing a notice about it in a newspaper or magazine, or on a poster. English = advertise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An announcement in a newspaper or  magazine, or on a poster, about something such as a product, event, or job vacancy. English = advertisement."
   ],
   "idGloss": "advertisement.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

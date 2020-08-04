@@ -16,9 +16,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gale",
     "gust",
@@ -27,10 +27,9 @@
     "gusty"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3601,
   "recordNumber": 2117,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -45,12 +44,13 @@
     "1. To have a lot of strong wind about. English = (be) windy, (be) gusty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very strong wind. English = gale.",
     "2. A very strong, sudden and short lived wind. English = gust.",
     "3. A very violent storm. Formal literary English = tempest."
   ],
   "idGloss": "gale.1a",
-  "oldEntry": "Popular explanation: trees swaying in the wind."
+  "oldEntry": "Popular explanation: trees swaying in the wind.",
+  "seeAlso": []
 }

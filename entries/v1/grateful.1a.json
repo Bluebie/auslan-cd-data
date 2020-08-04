@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "appreciation",
     "gratefulness",
@@ -31,10 +31,9 @@
     "appreciate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3608,
   "recordNumber": 2124,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -49,10 +48,11 @@
     "1. To have friendly feelings towards someone and to wish to thank them because they have given you something or done something for you. English = (be) grateful, (be) appreciative, (be) thankful; appreciate, give thanks, show your appreciation."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The friendly feelings you have towards someone and the wish to thank them because they have given you something or done something for you. English = appreciation, gratefulness, thanks."
   ],
   "idGloss": "grateful.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

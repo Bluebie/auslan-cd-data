@@ -5,17 +5,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wet the bed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3217,
   "recordNumber": 1869,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -28,8 +27,9 @@
     "1. Of people, especially children, to urinate in your bed because you cannot control your bladder. Idiomatic English = wet the bed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "wet.bed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

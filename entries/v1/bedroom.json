@@ -10,18 +10,13 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bedroom"
   ],
   "deictic": [],
-  "cf": [
-    "bed.1a",
-    "bed.2",
-    "boarding school"
-  ],
   "signNumber": 3215,
   "recordNumber": 1867,
   "signVisualComposition": "BED + ROOM",
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A room which is used for sleeping in. English = bedroom."
   ],
   "idGloss": "bedroom",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bed.1a",
+    "bed.2",
+    "boarding school"
+  ]
 }

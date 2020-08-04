@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "tongue"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5443,
   "recordNumber": 3239,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,10 +33,11 @@
     "1. To stick your tongue out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The soft part inside your mouth that you can move and use for tasting, licking, and speaking. English = tongue."
   ],
   "idGloss": "tongue.3",
-  "oldEntry": "Popular explanation: the outline of a long tongue."
+  "oldEntry": "Popular explanation: the outline of a long tongue.",
+  "seeAlso": []
 }

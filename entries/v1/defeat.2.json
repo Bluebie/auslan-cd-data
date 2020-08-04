@@ -25,9 +25,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "defeat",
     "oppression",
@@ -41,12 +41,9 @@
     "subjugate"
   ],
   "deictic": [],
-  "cf": [
-    "depressed.1a"
-  ],
   "signNumber": 2826,
   "recordNumber": 1588,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -66,7 +63,7 @@
     "4. To criticise someone and make them look foolish. Idiomatic English = put down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being beaten in a battle, game, or contest. English = defeat.",
     "2. The cruel or unfair treatment of someone or a group of people. English = oppression.",
@@ -74,5 +71,8 @@
     "4. A criticism that makes someone look foolish. Idiomatic English = put down."
   ],
   "idGloss": "defeat.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "depressed.1a"
+  ]
 }

@@ -15,19 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "party",
     "socialise",
     "social"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6617,
   "recordNumber": 3939,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 15.1,
   "primaryLocation": 8,
@@ -44,11 +43,12 @@
     "2. To relate to leisure activities that involve meeting other people. English = (be) social."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Activities in which you meet your friends and acquaintances, for example at parties, and relax and have a good time; social activities.",
     "2. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking, or playing games. English = party."
   ],
   "idGloss": "party.2",
-  "oldEntry": "Popular explanation: shaking tambourines."
+  "oldEntry": "Popular explanation: shaking tambourines.",
+  "seeAlso": []
 }

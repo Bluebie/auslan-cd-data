@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "decision",
     "decide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 514,
   "recordNumber": 286,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -38,10 +37,11 @@
     "1. To choose to do something after you have thought carefully about the other possibilities. English = decide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A choice to do something after you have thought carefully about the other possibilities. English = decision."
   ],
   "idGloss": "decide.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

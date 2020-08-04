@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bread"
   ],
   "deictic": [],
-  "cf": [
-    "saw.1a",
-    "slice.1a"
-  ],
   "signNumber": 4309,
   "recordNumber": 2625,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +33,14 @@
     "1. To cut a slice of bread, to cut bread."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very common food made from flour, water, and often yeast. The mixture is made into a soft dough and baked in an oven. English = bread."
   ],
   "idGloss": "bread",
-  "oldEntry": "Popular explanation: cutting bread."
+  "oldEntry": "Popular explanation: cutting bread.",
+  "seeAlso": [
+    "saw.1a",
+    "slice.1a"
+  ]
 }

@@ -14,18 +14,17 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "busy",
     "dart",
     "hectic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1461,
   "recordNumber": 872,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 16,
@@ -42,8 +41,9 @@
     "2. Of a place, to be full of people going about doing lots of different things. English = (be) very busy, (be) hectic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hectic",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

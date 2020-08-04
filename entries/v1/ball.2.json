@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ball",
     "sphere",
@@ -28,10 +28,9 @@
     "spherical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3014,
   "recordNumber": 1722,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -48,11 +47,12 @@
     "2. To be perfectly round in shape like a ball. English = (be) spherical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that has a round shape. English = ball.",
     "2. Something that has a perfectly round shape. English = sphere."
   ],
   "idGloss": "ball.2",
-  "oldEntry": "Popular explanation: the shape of a ball."
+  "oldEntry": "Popular explanation: the shape of a ball.",
+  "seeAlso": []
 }

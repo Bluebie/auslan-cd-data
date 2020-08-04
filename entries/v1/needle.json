@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "needle"
   ],
   "deictic": [],
-  "cf": [
-    "pin"
-  ],
   "signNumber": 5402,
   "recordNumber": 3223,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, very thin piece of polished metal which is used for sewing. It has a sharp point at one end and a hole in the other end for a thread to go through. English = needle."
   ],
   "idGloss": "needle",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pin"
+  ]
 }

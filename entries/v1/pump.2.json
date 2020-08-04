@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pump",
     "bicycle pump",
     "pumping"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5935,
   "recordNumber": 3533,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 6,
   "primaryLocation": 17,
@@ -36,11 +35,12 @@
     "1. To force air into a bicycle tyre using a hand held pump. English = pump, pump up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hand held device for forcing air into the tyre of a bicycle. English = pump, bicycle pump.",
     "2. The act of forcing air into a bicycle tyre by using a hand held pump. English = pumping."
   ],
   "idGloss": "pump.2",
-  "oldEntry": "Popular explanation: using a bicycle pump."
+  "oldEntry": "Popular explanation: using a bicycle pump.",
+  "seeAlso": []
 }

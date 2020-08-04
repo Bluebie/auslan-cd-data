@@ -10,18 +10,17 @@
     "transl",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dart",
     "darts"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 305,
   "recordNumber": 174,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
     "2. To play darts."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, narrow object with a sharp point which can be thrown or shot. English = dart.",
     "2. A game in which you throw darts at a round board which has numbers on it. English = darts."
   ],
   "idGloss": "darts",
-  "oldEntry": "Popular explanation: throwing a dart."
+  "oldEntry": "Popular explanation: throwing a dart.",
+  "seeAlso": []
 }

@@ -18,9 +18,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "digression",
     "aside",
@@ -30,10 +30,9 @@
     "divert"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3974,
   "recordNumber": 2377,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -52,12 +51,13 @@
     "3. To change the course or destination of something, especially a telephone call. English = divert."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A move away from the subject you are talking or writing about. English = digression, aside.",
     "2. A route which is not the shortest way from one place to another. You often do this because you want to avoid a traffic jam, because the direct route is closed for some reason, or because you want to see the sights. English = detour.",
     "3. A change in the course or destination of something, especially a telephone call. English = diversion."
   ],
   "idGloss": "digress",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

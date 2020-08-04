@@ -15,8 +15,8 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A vulgar or crude sign for many signers.",
   "english": [
     "fuck",
@@ -24,10 +24,9 @@
     "screw"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1657,
   "recordNumber": 983,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 15,
@@ -43,10 +42,11 @@
     "1. To have sex with someone. Vulgar English = fuck, root, screw."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of having sex with someone. Vulgar English = fuck, root, screw."
   ],
   "idGloss": "fuck.3",
-  "oldEntry": "Popular explanation: one set of legs on top of another."
+  "oldEntry": "Popular explanation: one set of legs on top of another.",
+  "seeAlso": []
 }

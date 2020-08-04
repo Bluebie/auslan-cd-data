@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rectangle",
     "rectangular"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 744,
   "recordNumber": 429,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To have the shape of a rectangle. English = (be) rectangular."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A four-sided shape whose angles are all right angles. Each side of the shape is the same length as the one opposite. It is like a square but the sides are longer in one direction. English = rectangle."
   ],
   "idGloss": "rectangle",
-  "oldEntry": "Popular explanation: the outline of a rectangle."
+  "oldEntry": "Popular explanation: the outline of a rectangle.",
+  "seeAlso": []
 }

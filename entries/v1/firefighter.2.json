@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "firefighter",
     "fireman"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4463,
   "recordNumber": 2712,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person whose job it is to put out fires. He or she also rescues people or animals when they are trapped, for example in burning buildings or cars. English = firefighter, fireman."
   ],
   "idGloss": "firefighter.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

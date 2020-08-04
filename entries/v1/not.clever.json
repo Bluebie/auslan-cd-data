@@ -26,9 +26,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "CLEVER + 'NOT'",
-  "queries": "",
+  "queries": null,
   "english": [
     "ignorance",
     "inexperience",
@@ -43,10 +43,9 @@
     "unwise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4714,
   "recordNumber": 2848,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -66,12 +65,13 @@
     "2. To be unable to use your experience and knowledge in order to make sensible decisions and judgements. English = (be) ill-informed, (be) inexperienced, (be) unwise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The inability to understand or learn things easily or be unable to plans things well. English =  ignorance.",
     "2. The inability to use your experience and knowledge in order to make sensible decisions and judgements. English = inexperience, immaturity.",
     "3. A person who is unable to understand or learn things easily, or to use their experience and knowledge in order to make sensible decisions and judgements. English = simpleton, ignoramus."
   ],
   "idGloss": "not.clever",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

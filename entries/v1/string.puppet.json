@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "string puppet",
     "puppet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 411,
   "recordNumber": 228,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To make a string puppet move by pulling the strings which are attached to it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A doll that you can move by pulling strings which are attached to it. English  = string puppet."
   ],
   "idGloss": "string.puppet",
-  "oldEntry": "Popular explanation: operating a string puppet."
+  "oldEntry": "Popular explanation: operating a string puppet.",
+  "seeAlso": []
 }

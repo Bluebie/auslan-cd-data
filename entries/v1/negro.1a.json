@@ -12,9 +12,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "black",
     "Negro",
@@ -22,10 +22,9 @@
     "aboriginal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5583,
   "recordNumber": 3306,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -40,11 +39,12 @@
     "1. To relate to the indigenous, black population of Australia. English = (be) aboriginal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is black. English = black, Negro.",
     "2. A person who belongs to the indigenous, black population of Australia. English = Aborigine."
   ],
   "idGloss": "negro.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

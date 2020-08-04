@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Perth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1826,
   "recordNumber": 1096,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The capital city of the Australian state of Western Australia, called Perth."
   ],
   "idGloss": "Perth.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

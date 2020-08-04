@@ -9,21 +9,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wait",
     "uneventful"
   ],
   "deictic": [],
-  "cf": [
-    "happen.1a",
-    "not.happen.for.hours"
-  ],
   "signNumber": 345,
   "recordNumber": 190,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -38,8 +34,12 @@
     "3. Of a period of time, to have nothing interesting happen. English = (be) uneventful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.happen",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "happen.1a",
+    "not.happen.for.hours"
+  ]
 }

@@ -25,8 +25,8 @@
     "engtf11"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "reduction",
     "decrease",
@@ -41,10 +41,9 @@
     "depreciate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4229,
   "recordNumber": 2559,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -60,7 +59,7 @@
     "4. To decrease in value over time. English = depreciate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lowering in the number, level, or amount of something. English = reduction, decrease.",
     "2. A decrease in the height of something; or a decrease in your wages or salary; a wage cut. English = fall, lowering; wage cut.",
@@ -68,5 +67,6 @@
     "4. A decrease in the value of something over time. English = depreciation."
   ],
   "idGloss": "decrease.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

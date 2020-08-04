@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "THINK + L",
-  "queries": "",
+  "queries": null,
   "english": [
     "logic",
     "logical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5064,
   "recordNumber": 3053,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -39,10 +38,11 @@
     "2. To be true according to the rules of logic. English = (be) logical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A method of reasoning that involves a series of statements, each of which must be true if the statement before it is true. English = logic."
   ],
   "idGloss": "logic",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

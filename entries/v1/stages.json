@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stage"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3749,
   "recordNumber": 2213,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +30,11 @@
     "1. Of a process, to occur in several distinct stages."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Parts of a process. English = stages."
   ],
   "idGloss": "stages",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,18 +11,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GUILTY + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "innocence",
     "innocent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4767,
   "recordNumber": 2881,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,10 +38,11 @@
     "1. To be not responsible for or not guilty of a crime. English = (be) innocent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of not being responsible for or not being guilty of a crime. English = innocence."
   ],
   "idGloss": "innocent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

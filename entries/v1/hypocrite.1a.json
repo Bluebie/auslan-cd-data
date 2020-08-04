@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hypocrite",
     "hypocritical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1541,
   "recordNumber": 917,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -32,10 +31,11 @@
     "1. To say or pretend you have beliefs, principles, or feelings that you do not really have. English = (be) a hypocrite, (be) hypocritical. Idiomatic English = (be) two faced."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who pretends to have beliefs, principles, or feelings that they do not really have. Used to show disapproval. English = hypocrite."
   ],
   "idGloss": "hypocrite.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

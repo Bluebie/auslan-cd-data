@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "earache"
   ],
   "deictic": [],
-  "cf": [
-    "headache.1a",
-    "toothache"
-  ],
   "signNumber": 1374,
   "recordNumber": 815,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -35,10 +31,14 @@
     "1. To have an ache in the ear."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An ache in the ear. English = earache."
   ],
   "idGloss": "earache",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "headache.1a",
+    "toothache"
+  ]
 }

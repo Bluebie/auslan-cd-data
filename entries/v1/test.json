@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "test"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6167,
   "recordNumber": 3680,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -38,10 +37,11 @@
     "1. To ask someone questions and set them tasks to do in order to measure their knowledge or skill. English = test."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An examination consisting of a set of questions or tasks, which is intended to measure your knowledge or skill. English = test."
   ],
   "idGloss": "test",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

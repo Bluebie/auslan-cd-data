@@ -26,9 +26,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "individual",
     "self",
@@ -43,13 +43,9 @@
     "individually"
   ],
   "deictic": [],
-  "cf": [
-    "lonely.1",
-    "lonely.2"
-  ],
   "signNumber": 687,
   "recordNumber": 397,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -70,12 +66,16 @@
     "3. To be not married. English = (be) single."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person considered separately from everyone else; or a person's basic personality and nature. English = individual; self.",
     "2. A person who likes to do things in their own way; a person who likes to be alone. English = individualist; loner.",
     "3. A person who is not married, a single person."
   ],
   "idGloss": "single.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lonely.1",
+    "lonely.2"
+  ]
 }

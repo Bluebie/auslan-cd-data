@@ -18,23 +18,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cold",
     "flu",
     "influenza"
   ],
   "deictic": [],
-  "cf": [
-    "handkerchief",
-    "tissue",
-    "cold"
-  ],
   "signNumber": 5085,
   "recordNumber": 3069,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -49,12 +44,17 @@
     "3. To have the flu."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A condition in which your nose runs a lot, because of illness or allergy, and you are forced to use tissues or handkerchiefs to blow it a lot.",
     "2. A mild, common illness which makes you sneeze and blow your nose a lot and gives you a sore throat or a cough. English = cold.",
     "3. An illness which is like a bad cold. Not only do you sneeze a lot, have a runny nose, have a sore throat and a cough, but you are also weak and your muscles ache. English = flu, influenza."
   ],
   "idGloss": "flu.1a",
-  "oldEntry": "Popular explanation: using a handkerchief."
+  "oldEntry": "Popular explanation: using a handkerchief.",
+  "seeAlso": [
+    "handkerchief",
+    "tissue",
+    "cold"
+  ]
 }

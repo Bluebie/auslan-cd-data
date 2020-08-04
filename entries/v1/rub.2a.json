@@ -24,9 +24,9 @@
     "engtf11",
     "engtf12"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rubbing",
     "washing",
@@ -42,10 +42,9 @@
     "scrub"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6011,
   "recordNumber": 3579,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -60,7 +59,7 @@
     "3. To move your hand backwards and forwards over something, while holding a brush and pressing firmly, in order to make it clean. English = scrub."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of moving your hand backwards and forwards over something, while holding a cloth and pressing firmly. English = rubbing.",
     "2. The act of moving your hand backwards and forwards over something, while holding a cloth and pressing firmly, in order to make it clean; or to make it shine. English = washing, cleaning; polishing.",
@@ -68,5 +67,6 @@
     "4. Something soft, usually fabric, that you hold in your hand when you wash, polish or rub something. English = cloth, rag."
   ],
   "idGloss": "rub.2a",
-  "oldEntry": "Popular explanation: holding on to something and rubbing it against a surface."
+  "oldEntry": "Popular explanation: holding on to something and rubbing it against a surface.",
+  "seeAlso": []
 }

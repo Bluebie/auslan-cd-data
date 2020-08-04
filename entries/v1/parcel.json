@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "parcel",
     "present",
@@ -26,10 +26,9 @@
     "wrap"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3751,
   "recordNumber": 2215,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,12 +44,13 @@
     "1. To cover a parcel or present in paper or plastic. English = wrap, wrap up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something wrapped up in paper. English = parcel.",
     "2. Something you give to someone on special occasions, such as Christmas or on their birthday, which is usually wrapped up in fancy paper. English = present.",
     "3. A piece of paper or plastic which is used to cover and protect something. English = wrapping."
   ],
   "idGloss": "parcel",
-  "oldEntry": "Popular explanation: wrapping something."
+  "oldEntry": "Popular explanation: wrapping something.",
+  "seeAlso": []
 }

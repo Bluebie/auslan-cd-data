@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "priest",
     "father",
@@ -30,12 +30,9 @@
     "dog-collar"
   ],
   "deictic": [],
-  "cf": [
-    "collar.1a"
-  ],
   "signNumber": 5448,
   "recordNumber": 3242,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -48,12 +45,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member of the Christian clergy in the Catholic, Anglican, or Orthodox church. English = priest, father, (Anglican only) vicar.",
     "2. The officially appointed leaders of the religious activities of a particular church or temple; a member of this group. English = clergy; minister.",
     "3. A white collar that is worn by priest and ministers of the Christian Church. Informal English = dog-collar."
   ],
   "idGloss": "priest.1a",
-  "oldEntry": "Popular explanation: the outline of the collar worn by a priest."
+  "oldEntry": "Popular explanation: the outline of the collar worn by a priest.",
+  "seeAlso": [
+    "collar.1a"
+  ]
 }

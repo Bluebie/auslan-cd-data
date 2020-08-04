@@ -8,17 +8,16 @@
     "transp",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "yawn"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3259,
   "recordNumber": 1897,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -31,10 +30,11 @@
     "1. To open your mouth wide and breath in more air than usual, often because you are tired or bored. English = yawn."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of opening your mouth wide and breathing in more air than usual. You often do this when you are tired or bored. English = yawn."
   ],
   "idGloss": "yawn",
-  "oldEntry": "Popular explanation: a yawning posture."
+  "oldEntry": "Popular explanation: a yawning posture.",
+  "seeAlso": []
 }

@@ -11,21 +11,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crewcut"
   ],
   "deictic": [],
-  "cf": [
-    "bald.1a",
-    "short-hair",
-    "long-hair"
-  ],
   "signNumber": 5434,
   "recordNumber": 3233,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -38,10 +33,15 @@
     "1. To have your hair cut very short; to wear your hear in the style of a crewcut."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hairstyle in which the hair is cut very short. English = crewcut."
   ],
   "idGloss": "crewcut",
-  "oldEntry": "Popular explanation: something very narrow or thin over the head."
+  "oldEntry": "Popular explanation: something very narrow or thin over the head.",
+  "seeAlso": [
+    "bald.1a",
+    "short-hair",
+    "long-hair"
+  ]
 }

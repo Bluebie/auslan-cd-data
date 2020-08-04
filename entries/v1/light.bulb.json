@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "light bulb",
     "bulb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4461,
   "recordNumber": 2711,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -33,10 +32,11 @@
     "1. To insert a light bulb into a ceiling light."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The glass part of an electric lamp, which gives out light when electricity passes through it. English = light bulb, bulb."
   ],
   "idGloss": "light.bulb",
-  "oldEntry": "Popular explanation: unscrewing a light bulb."
+  "oldEntry": "Popular explanation: unscrewing a light bulb.",
+  "seeAlso": []
 }

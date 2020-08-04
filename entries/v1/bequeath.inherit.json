@@ -17,9 +17,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bequest",
     "inheritance",
@@ -28,12 +28,9 @@
     "inherit"
   ],
   "deictic": [],
-  "cf": [
-    "next.1a"
-  ],
   "signNumber": 6107,
   "recordNumber": 3634,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -48,12 +45,15 @@
     "3. To be given or left money or property by someone who has died. English = inherit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Money or property that someone gives to someone else after they die, or money  or property that someone receives after someone else has died.",
     "2. Money or property that someone gives to someone else after they die. Formal English = bequest.",
     "3. Money or property that someone is given by someone who dies. English = inheritance."
   ],
   "idGloss": "bequeath.inherit",
-  "oldEntry": "Popular explanation: handing something over to someone."
+  "oldEntry": "Popular explanation: handing something over to someone.",
+  "seeAlso": [
+    "next.1a"
+  ]
 }

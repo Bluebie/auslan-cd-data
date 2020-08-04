@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Signers will often make the meaning of this sign more specific by preceding it with the sign 'car'.",
   "english": [
     "convertible"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3530,
   "recordNumber": 2066,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 1,
@@ -37,5 +36,6 @@
     "1. A car with a soft roof that can be folded down or removed. English = convertible."
   ],
   "idGloss": "convertible.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

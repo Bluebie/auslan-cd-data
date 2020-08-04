@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Germany",
     "German"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 488,
   "recordNumber": 271,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -33,10 +32,11 @@
     "1. A person, product or service that comes from Germany. English = (be) German."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in central Europe, between Poland and the Netherlands, called Germany."
   ],
   "idGloss": "German.2",
-  "oldEntry": "Popular explanation: the spike of the World War I helmet of the Germans."
+  "oldEntry": "Popular explanation: the spike of the World War I helmet of the Germans.",
+  "seeAlso": []
 }

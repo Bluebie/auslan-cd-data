@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "new"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4426,
   "recordNumber": 2691,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -30,8 +29,9 @@
     "1. Of something, to be recently made or created. English = (be) new."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "new.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

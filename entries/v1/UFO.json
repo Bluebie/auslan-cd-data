@@ -8,17 +8,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "UFO"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 267,
   "recordNumber": 156,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -32,10 +31,11 @@
     "2. Of a flying object, to look like a UFO."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An object seen in the sky or landing on earth which cannot be identified and which some people believe to be a spaceship from another planet. English = UFO, unidentified flying object."
   ],
   "idGloss": "UFO",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

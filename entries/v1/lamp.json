@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lamp"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 196,
   "recordNumber": 112,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device which produces light. It consists of a light bulb (usually covered by a lamp shade) at the end of a lamp stand. English = lamp."
   ],
   "idGloss": "lamp",
-  "oldEntry": "Popular explanation: a light on a pole."
+  "oldEntry": "Popular explanation: a light on a pole.",
+  "seeAlso": []
 }

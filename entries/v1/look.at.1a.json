@@ -17,9 +17,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "look",
     "regard",
@@ -29,13 +29,9 @@
     "stare"
   ],
   "deictic": [],
-  "cf": [
-    "notice.1",
-    "meet.2"
-  ],
   "signNumber": 1546,
   "recordNumber": 920,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -52,11 +48,15 @@
     "3. [With stress] to look at something for a long time. English = stare."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of turning your eyes in a particular direction so that you can see what is there. English = look, regard.",
     "2. A period of time during which you look at something and pay attention to what is happening. English = observation."
   ],
   "idGloss": "look.at.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "notice.1",
+    "meet.2"
+  ]
 }

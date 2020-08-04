@@ -12,20 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smell",
     "odour"
   ],
   "deictic": [],
-  "cf": [
-    "fart.1"
-  ],
   "signNumber": 5577,
   "recordNumber": 3302,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -41,11 +38,14 @@
     "1. To have an effect on your nose, especially when that effect is unpleasant. English = smell"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The effect that something has on your nose, especially when that effect is unpleasant. English = smell.",
     "2. A strong smell, especially when it is unpleasant. English = odour."
   ],
   "idGloss": "bad.smell",
-  "oldEntry": "Popular explanation: holding one's nose."
+  "oldEntry": "Popular explanation: holding one's nose.",
+  "seeAlso": [
+    "fart.1"
+  ]
 }

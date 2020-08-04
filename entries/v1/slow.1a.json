@@ -16,21 +16,18 @@
     "ant3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "slowness",
     "slow",
     "slowly"
   ],
   "deictic": [],
-  "cf": [
-    "instant.1a"
-  ],
   "signNumber": 4037,
   "recordNumber": 2414,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,10 +46,13 @@
     "1. To move or happen without much speed or in a way that takes a large amount of time. English = (be) slow, go slow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lack of speed or haste so that something takes a long time to move, happen or be done. English = slowness."
   ],
   "idGloss": "slow.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "instant.1a"
+  ]
 }

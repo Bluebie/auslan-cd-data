@@ -8,20 +8,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "open folder",
     "folder"
   ],
   "deictic": [],
-  "cf": [
-    "folder"
-  ],
   "signNumber": 4151,
   "recordNumber": 2505,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,5 +34,8 @@
   "generalMeaning": "The action of opening something with an opening and closing lid, or any thing or action directly or indirectly associated with this, such as opening a lap top computer, portable compact TTY, or pencil case, and especially a folder.",
   "nominalLexeme": [],
   "idGloss": "folder.open",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "folder"
+  ]
 }

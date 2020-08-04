@@ -18,9 +18,9 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "drafting",
     "draughting",
@@ -31,10 +31,9 @@
     "draught"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2114,
   "recordNumber": 1226,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 5,
@@ -49,12 +48,13 @@
     "2. To prepare technical drawings. English = draft, draught."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The preparation of technical drawings. English = drafting, draughting.",
     "2. A person whose job it is to prepare technical drawings. English = draftsman, draughtsman.",
     "3. A person who designs buildings. English = architect."
   ],
   "idGloss": "drafting.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

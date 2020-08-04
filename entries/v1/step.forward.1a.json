@@ -13,19 +13,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stand out",
     "volunteer",
     "come forward"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1299,
   "recordNumber": 773,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -45,10 +44,11 @@
     "4. To identify yourself in a real or notional group of people, for example by stepping forward, by putting your hand up, or by letting other people know that you are the person they are looking for."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or movement that makes something, especially a person, stand out from the background or the crowd."
   ],
   "idGloss": "step.forward.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

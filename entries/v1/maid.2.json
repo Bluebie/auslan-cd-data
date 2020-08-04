@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "maid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1445,
   "recordNumber": 862,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 3,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who works as a servant in a hotel, private house or institution. English = maid."
   ],
   "idGloss": "maid.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,18 +15,14 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disregard",
     "ignore"
   ],
   "deictic": [],
-  "cf": [
-    "order",
-    "send.out"
-  ],
   "signNumber": 576,
   "recordNumber": 331,
   "signVisualComposition": "HEAR + SEND.OUT",
@@ -47,10 +43,14 @@
     "1. To act as if something or someone you have seen, heard, or experienced did not or does not exist. Used especially in the sense of not following orders or instructions. English = ignore, disregard."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of not paying attention to or ignoring something or someone, especially orders and instructions. English = disregard."
   ],
   "idGloss": "ignore",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "order",
+    "send.out"
+  ]
 }

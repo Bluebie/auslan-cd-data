@@ -11,20 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HEAR + L",
-  "queries": "",
+  "queries": null,
   "english": [
     "loud"
   ],
   "deictic": [],
-  "cf": [
-    "sound",
-    "hear.1a"
-  ],
   "signNumber": 5095,
   "recordNumber": 3074,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -41,10 +37,14 @@
     "1. For the level of a sound to be very high, for example the sound of thunder or the sound of your voice when you shout. English = (be) loud."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A loud noise or sound, especially one that is at the lower end of the frequency spectrum (ie, very bass) because it is more likely to be felt by a deaf person, rather than actually heard."
   ],
   "idGloss": "loud.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sound",
+    "hear.1a"
+  ]
 }

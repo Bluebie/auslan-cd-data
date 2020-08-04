@@ -16,9 +16,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diving",
     "scuba",
@@ -28,13 +28,9 @@
     "scuba dive"
   ],
   "deictic": [],
-  "cf": [
-    "dive.1a",
-    "dive.2"
-  ],
   "signNumber": 1708,
   "recordNumber": 1021,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -47,11 +43,15 @@
     "1. To go under water, usually in the sea, using special breathing equipment for pleasure or work. English = dive, go deep sea diving, go scuba diving."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity in which you go under water, usually in the sea, using special breathing equipment for pleasure or work.",
     "2. A person who goes deep sea diving for pleasure or work. English = diver, deep sea diver, scuba diver."
   ],
   "idGloss": "deep.sea.dive",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dive.1a",
+    "dive.2"
+  ]
 }

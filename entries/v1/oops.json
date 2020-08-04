@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boo-boo",
     "oops"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 246,
   "recordNumber": 143,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -35,8 +34,9 @@
     "1. To make a slight mistake, especially overlooking or forgetting something. Idiomatic English = boo-boo, make a boo-boo."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "oops",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

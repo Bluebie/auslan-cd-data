@@ -16,9 +16,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "surrender",
     "hold-up",
@@ -26,12 +26,9 @@
     "relinquish"
   ],
   "deictic": [],
-  "cf": [
-    "give.up"
-  ],
   "signNumber": 3568,
   "recordNumber": 2094,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -47,11 +44,14 @@
     "2. To give up something or let someone else have something in the face of threats of violence, or during a robbery. English = give up, surrender, relinquish, put your hands up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The end of fighting or resisting when one side agrees that it has been beaten. English = surrender.",
     "2. A robbery during which the victims are threatened with weapons and told to hold their hands up in the air. English = hold-up."
   ],
   "idGloss": "surrender",
-  "oldEntry": "Popular explanation: raising one's hands."
+  "oldEntry": "Popular explanation: raising one's hands.",
+  "seeAlso": [
+    "give.up"
+  ]
 }

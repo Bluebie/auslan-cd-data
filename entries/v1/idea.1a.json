@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "idea",
     "suggestion",
@@ -37,10 +37,9 @@
     "opinion"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 505,
   "recordNumber": 282,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -65,7 +64,7 @@
     "3. To be someone who has an above average ability to think, understand and learn ideas. English = (be) intelligent, (be) clever."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plan, suggestion, or possible course of action which you form in your mind. English = idea.",
     "2. An idea or plan which is put forward, made known or told to someone for them to think about. English = suggestion.",
@@ -73,5 +72,6 @@
     "4. The ideas and thoughts you have about some topic or subject. English = opinion."
   ],
   "idGloss": "idea.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

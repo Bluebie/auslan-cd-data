@@ -15,21 +15,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ache"
   ],
   "deictic": [],
-  "cf": [
-    "headache.1a",
-    "toothache",
-    "earache"
-  ],
   "signNumber": 1420,
   "recordNumber": 848,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,10 +40,15 @@
     "1. To have a dull steady pain in some part of your body. English = ache."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A dull steady pain in some part of your body. English = ache."
   ],
   "idGloss": "ache.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "headache.1a",
+    "toothache",
+    "earache"
+  ]
 }

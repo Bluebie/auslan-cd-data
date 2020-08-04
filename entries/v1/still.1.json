@@ -12,18 +12,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "continue",
     "still"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5636,
   "recordNumber": 3340,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -42,8 +41,9 @@
     "1. To keep doing something and not stop. English = continue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "still.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

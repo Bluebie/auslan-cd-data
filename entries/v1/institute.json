@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SCHOOL + I",
-  "queries": "",
+  "queries": null,
   "english": [
     "institution",
     "institute",
     "institutional"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5013,
   "recordNumber": 3023,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -37,12 +36,13 @@
     "1. From or related to an institute or institution. English = (be) institutional."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building where certain people are educated, kept or looked after, for example children who are deaf or have no parents, or people who are mentally ill. English = institution.",
     "2. A large organisation, for example a university, a bank, or church. English = institution.",
     "3. An organisation set up to do a particular kind of work, especially research or teaching. English = institute."
   ],
   "idGloss": "institute",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

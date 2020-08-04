@@ -15,21 +15,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "apply",
     "applied",
     "application"
   ],
   "deictic": [],
-  "cf": [
-    "touch.1a"
-  ],
   "signNumber": 1674,
   "recordNumber": 998,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -44,10 +41,13 @@
     "3. Of a subject of study, to have a practical use. English = (be) applied."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The practical use to which something, especially a theory or subject of study, can be put. English = application."
   ],
   "idGloss": "apply",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "touch.1a"
+  ]
 }

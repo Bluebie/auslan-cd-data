@@ -11,19 +11,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "close shave",
     "close call",
     "close"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 319,
   "recordNumber": 178,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,10 +40,11 @@
     "1. Of an accident or disaster, to very nearly happen. Idiomatic English = (be) a close shave, (be) a close call, (be) close, (be) very close."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An event in which something bad, such as an accident or disaster, very nearly happened. Idiomatic English = close shave, close call."
   ],
   "idGloss": "close.shave.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

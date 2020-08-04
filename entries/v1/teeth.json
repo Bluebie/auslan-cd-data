@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "teeth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1391,
   "recordNumber": 825,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hard, white objects in your mouth that you use for biting and chewing food. English = teeth."
   ],
   "idGloss": "teeth",
-  "oldEntry": "Popular explanation: a row of teeth."
+  "oldEntry": "Popular explanation: a row of teeth.",
+  "seeAlso": []
 }

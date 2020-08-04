@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beat",
     "defeat"
   ],
   "deictic": [],
-  "cf": [
-    "punch.1a"
-  ],
   "signNumber": 5864,
   "recordNumber": 3489,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,8 +36,11 @@
     "1. To win a victory over someone in a battle, game, or contest. English = beat, defeat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "beat.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "punch.1a"
+  ]
 }

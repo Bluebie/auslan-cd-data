@@ -8,16 +8,13 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chicken-pox"
   ],
   "deictic": [],
-  "cf": [
-    "measles"
-  ],
   "signNumber": 5259,
   "recordNumber": 3156,
   "signVisualComposition": "CHICKEN + MEASLES",
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A disease which gives you a high temperature and red spots that itch. English = chicken-pox."
   ],
   "idGloss": "chicken-pox.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "measles"
+  ]
 }

@@ -14,9 +14,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wherewithal",
     "moneyed",
@@ -24,12 +24,9 @@
     "wealthy"
   ],
   "deictic": [],
-  "cf": [
-    "some.1a"
-  ],
   "signNumber": 6389,
   "recordNumber": 3816,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -48,10 +45,13 @@
     "1. To have the resources, especially money, that you need in order to do or buy something. English = (be) moneyed, (be) well off, (be) wealthy. Formal English = have the wherewithal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The resources, especially money, that you need in order to do or buy something; the financial means to do something. Formal English = wherewithal."
   ],
   "idGloss": "money.2a",
-  "oldEntry": "Popular explanation: culturally shared gesture for money."
+  "oldEntry": "Popular explanation: culturally shared gesture for money.",
+  "seeAlso": [
+    "some.1a"
+  ]
 }

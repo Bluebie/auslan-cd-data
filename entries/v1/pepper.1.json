@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pepper"
   ],
   "deictic": [],
-  "cf": [
-    "salt",
-    "sauce"
-  ],
   "signNumber": 6098,
   "recordNumber": 3625,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,10 +35,14 @@
     "1. To sprinkle pepper on food. English = pepper."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hot tasting powder which is used to flavour food."
   ],
   "idGloss": "pepper.1",
-  "oldEntry": "Popular explanation: shaking the pepper container."
+  "oldEntry": "Popular explanation: shaking the pepper container.",
+  "seeAlso": [
+    "salt",
+    "sauce"
+  ]
 }

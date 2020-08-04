@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brochure"
   ],
   "deictic": [],
-  "cf": [
-    "book"
-  ],
   "signNumber": 3606,
   "recordNumber": 2122,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A magazine, booklet, or leaflet with pictures that gives you information about a product or service. English = brochure."
   ],
   "idGloss": "brochure",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "book"
+  ]
 }

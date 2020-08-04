@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "recording",
     "record"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2872,
   "recordNumber": 1623,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To use a special machine to make a copy of sounds, speech or pictures that can be played back later and heard or seen again. English = record."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A copy of sounds, speech or pictures which is on a record, tape, video or computer disk and which can be played back and heard or seen again. English = recording."
   ],
   "idGloss": "record.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

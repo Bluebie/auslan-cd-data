@@ -23,9 +23,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trade in",
     "exchange",
@@ -35,12 +35,9 @@
     "transform"
   ],
   "deictic": [],
-  "cf": [
-    "become.1a"
-  ],
   "signNumber": 6195,
   "recordNumber": 3701,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -59,7 +56,7 @@
     "4. To completely change something. English = transform."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A business deal in which someone buys a new car, washing machine, etc. at a reduced price by giving an old car, washing machine, etc. as well as money in payment. English = trade in.",
     "2. Something which is given to someone at the same time they give you something. English = exchange.",
@@ -67,5 +64,8 @@
     "4. [With stress] A complete change in something. English = transformation."
   ],
   "idGloss": "trade.in.1a",
-  "oldEntry": "Popular explanation: changing places."
+  "oldEntry": "Popular explanation: changing places.",
+  "seeAlso": [
+    "become.1a"
+  ]
 }

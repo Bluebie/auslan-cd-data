@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "badminton"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6061,
   "recordNumber": 3604,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -36,10 +35,11 @@
     "1. To play badminton."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game in which you use a racket to hit a small, feathered object called a shuttlecock over a high net to your opponent. English = badminton."
   ],
   "idGloss": "badminton",
-  "oldEntry": "Popular explanation: using a badminton racquet."
+  "oldEntry": "Popular explanation: using a badminton racquet.",
+  "seeAlso": []
 }

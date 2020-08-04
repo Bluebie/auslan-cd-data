@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "force",
     "compel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4539,
   "recordNumber": 2751,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To make someone do something, although they are very unwilling to. English = force, compel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "force.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

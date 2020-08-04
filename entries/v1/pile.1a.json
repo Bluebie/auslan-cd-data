@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "heap",
     "pile",
@@ -28,13 +28,9 @@
     "piled"
   ],
   "deictic": [],
-  "cf": [
-    "stack.up",
-    "stack"
-  ],
   "signNumber": 4256,
   "recordNumber": 2582,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,11 +45,15 @@
     "1. To become or be a mass of things that is high in the middle with sloping sides. English = heap up, pile up; (be) heaped up, (be) piled up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A quantity of things which forms a mass that is high in the middle and has sloping sides. English = heap, pile.",
     "2. A quantity of earth which forms a mass that is high in the middle and has sloping sides. English = mound."
   ],
   "idGloss": "pile.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stack.up",
+    "stack"
+  ]
 }

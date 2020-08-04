@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "confirmation",
     "confirm",
@@ -37,12 +37,9 @@
     "definite"
   ],
   "deictic": [],
-  "cf": [
-    "right.1a"
-  ],
   "signNumber": 4872,
   "recordNumber": 2947,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -61,12 +58,15 @@
     "4. To formally agree with a plan or an idea, especially a motion that has been presented to a meeting. English = adopt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A communication with says that something is definitely true or which says that an arrangement or an appointment that has already been agreed on is definite. English = confirmation.",
     "2. The formal agreement with a plan or an idea given by someone in a position of authority. English = approval.",
     "3. The formal agreement with a plan or an idea, especially a motion that has been presented to a meeting. English = adoption."
   ],
   "idGloss": "confirm.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "right.1a"
+  ]
 }

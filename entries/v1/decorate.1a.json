@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "decoration",
     "decorations",
     "decorate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1905,
   "recordNumber": 1140,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -37,11 +36,12 @@
     "2. To hang ribbons, balloons and other brightly colored objects around a room or object to make it look more attractive as part of a celebration. English = decorate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that is added to something else in order to make it look more attractive. English = decoration, decorations.",
     "2. Ribbons, balloons and other brightly colored objects hung around a room to make it look more attractive as part of a celebration. English = decorations."
   ],
   "idGloss": "decorate.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

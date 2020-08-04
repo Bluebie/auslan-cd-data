@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "punctual",
     "punctually",
     "precisely"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3963,
   "recordNumber": 2367,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "2. To happen exactly on the hour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "punctually",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

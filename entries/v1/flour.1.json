@@ -10,20 +10,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flour"
   ],
   "deictic": [],
-  "cf": [
-    "some.1a",
-    "salt"
-  ],
   "signNumber": 100,
   "recordNumber": 53,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,10 +32,14 @@
     "1. To sprinkle flour over something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A white or brown powder that is made by grinding grain. It is used to make bread, cakes, and pastry. English = flour."
   ],
   "idGloss": "flour.1",
-  "oldEntry": "Popular explanation: sprinkling powder."
+  "oldEntry": "Popular explanation: sprinkling powder.",
+  "seeAlso": [
+    "some.1a",
+    "salt"
+  ]
 }

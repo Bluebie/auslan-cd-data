@@ -13,19 +13,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift up",
     "get up",
     "get off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3858,
   "recordNumber": 2294,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,8 +43,9 @@
     "3. To get off something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lift.up.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

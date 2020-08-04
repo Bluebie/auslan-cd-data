@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GOOD + NIGHT",
-  "queries": "",
+  "queries": null,
   "english": [
     "good night"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4809.1,
   "recordNumber": 2903,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -34,8 +33,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "good.night.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

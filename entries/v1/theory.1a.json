@@ -14,18 +14,15 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "theory",
     "theoretical",
     "theorise"
   ],
   "deictic": [],
-  "cf": [
-    "consider.1a"
-  ],
   "signNumber": 6062,
   "recordNumber": 3605,
   "signVisualComposition": "CONSIDER + T",
@@ -42,11 +39,14 @@
     "2. To develop ideas about something in order to explain it. English = theorise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An idea or set of ideas that is intended to explain something. English = theory.",
     "2. A set of ideas that relate to a particular subject. English = theory."
   ],
   "idGloss": "theory.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "consider.1a"
+  ]
 }

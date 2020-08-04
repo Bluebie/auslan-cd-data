@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can incorporate number handshapes on the dominant hand to show how many goals have been scored.",
   "english": [
     "behind"
   ],
   "deictic": [],
-  "cf": [
-    "behind"
-  ],
   "signNumber": 4006,
   "recordNumber": 2397,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -36,10 +33,13 @@
     "1. To score a behind in Australian rules football."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kind of goal scored in Australian rules football. English = behind."
   ],
   "idGloss": "behind",
-  "oldEntry": "Popular explanation: between the posts."
+  "oldEntry": "Popular explanation: between the posts.",
+  "seeAlso": [
+    "behind"
+  ]
 }

@@ -7,14 +7,13 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "classifier"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5420,
   "recordNumber": 3229,
   "signVisualComposition": "C + L",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A special class of signs in the grammar of sign languages which in some instances fulfil a similar function to the pronouns of English, and in others serve to describe or refer to objects in a unique visual-gestural way. English = classifier."
   ],
   "idGloss": "classifier",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

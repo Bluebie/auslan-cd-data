@@ -15,22 +15,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lighten",
     "light"
   ],
   "deictic": [],
-  "cf": [
-    "match.2",
-    "light.2",
-    "light.weight"
-  ],
   "signNumber": 6459,
   "recordNumber": 3850,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -47,8 +42,13 @@
     "3. Of colours, to be very pale. English = (be) light."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "light.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "match.2",
+    "light.2",
+    "light.weight"
+  ]
 }

@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "knockout"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5624,
   "recordNumber": 3330,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,11 +34,12 @@
     "1. In boxing, to punch your opponent so that he falls to the floor and is not able to stand up before the referee has counted to ten. English = knockout."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In boxing, a blow or punch that makes one of the boxers fall to the floor and not be able to stand up before the referee has counted to ten. English = knockout.",
     "2. A competition in which the winner of each match goes on to the next round, until one competitor or team is the winner. English = knockout competition."
   ],
   "idGloss": "knockout",
-  "oldEntry": "Popular explanation: punching someone in the jaw."
+  "oldEntry": "Popular explanation: punching someone in the jaw.",
+  "seeAlso": []
 }

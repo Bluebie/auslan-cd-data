@@ -14,17 +14,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "show"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1293,
   "recordNumber": 769,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -43,10 +42,11 @@
     "1. To give or take someone to something, or to point to something so that the person you are talking to can see it or know what you are referring to. English = show. Idiomatic English = give (someone) a look, point out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of giving something to someone, taking someone to something, or pointing to something so that the person you are talking to can see it or know that you are referring to."
   ],
   "idGloss": "show.2",
-  "oldEntry": "Popular explanation: showing and pointing at a document."
+  "oldEntry": "Popular explanation: showing and pointing at a document.",
+  "seeAlso": []
 }

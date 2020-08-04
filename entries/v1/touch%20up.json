@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "touch up",
     "liquid paper",
     "correction fluid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2092,
   "recordNumber": 1217,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -44,5 +43,6 @@
     "2. The act of painting over scratches and imperfections on an object or picture, especially the paintwork on the body of a car. English = touch up."
   ],
   "idGloss": "touch up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,17 +8,16 @@
     "engtf1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "leather"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4920,
   "recordNumber": 2974,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The specially treated skin of animals. It is used for making shoes, clothes, bags, and furniture. English = leather."
   ],
   "idGloss": "leather.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

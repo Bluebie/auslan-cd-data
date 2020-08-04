@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hail"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1440,
   "recordNumber": 859,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 1,
@@ -31,10 +30,11 @@
     "1. Of tiny balls of ice, to fall from the sky like rain. English = hail."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Tiny balls of ice that fall like rain from the sky. English = hail."
   ],
   "idGloss": "hail.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

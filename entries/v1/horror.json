@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "horror"
   ],
   "deictic": [],
-  "cf": [
-    "ghost.1"
-  ],
   "signNumber": 2751.1,
   "recordNumber": 1537,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -36,10 +33,13 @@
     "1. Of a film or story, to be very frightening and usually about ghosts, witches, or imaginary monsters."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A film or story which is very frightening and usually about ghosts, witches, or imaginary monsters. English = horror film, horror story."
   ],
   "idGloss": "horror",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "ghost.1"
+  ]
 }

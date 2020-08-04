@@ -18,9 +18,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "duck",
     "beak",
@@ -30,10 +30,9 @@
     "quack"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1948,
   "recordNumber": 1163,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -46,7 +45,7 @@
     "1. Of a duck, to open its beak and make a noise. English = quack."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very common water bird with short legs, webbed feet, a short neck, and a large flat beak. English = duck.",
     "2. The hard, flat mouth of a duck. English = beak, bill.",
@@ -54,5 +53,6 @@
     "4. In cricket, a batsman's score of nought. English = duck."
   ],
   "idGloss": "duck.1a",
-  "oldEntry": "Popular explanation: the opening and closing beak of a duck."
+  "oldEntry": "Popular explanation: the opening and closing beak of a duck.",
+  "seeAlso": []
 }

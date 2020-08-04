@@ -9,13 +9,12 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "kitchen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1492,
   "recordNumber": 889,
   "signVisualComposition": "K + K",
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A room that you use for cooking, or part of a larger room that is used for cooking. English = kitchen."
   ],
   "idGloss": "kitchen.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

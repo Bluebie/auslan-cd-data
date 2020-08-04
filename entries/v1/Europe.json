@@ -10,21 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Europe",
     "European"
   ],
   "deictic": [],
-  "cf": [
-    "Asia.1a",
-    "Asia.2"
-  ],
   "signNumber": 79,
   "recordNumber": 44,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,10 +33,14 @@
     "1. To come from or relate to Europe. English = (be) European."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The continent which is the western part of the Eurasian landmass, called Europe."
   ],
   "idGloss": "Europe",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "Asia.1a",
+    "Asia.2"
+  ]
 }

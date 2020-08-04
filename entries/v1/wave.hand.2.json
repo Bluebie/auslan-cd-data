@@ -15,8 +15,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "wave",
     "good-bye",
@@ -25,10 +25,9 @@
     "hi"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2482,
   "recordNumber": 1378,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -47,8 +46,9 @@
     "1. To move your hand side to side in the air, usually in order to say hello or goodbye to someone.  English = wave."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "wave.hand.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

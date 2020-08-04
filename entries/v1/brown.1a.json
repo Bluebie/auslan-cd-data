@@ -12,21 +12,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brown"
   ],
   "deictic": [],
-  "cf": [
-    "suntan.1",
-    "suntan.2",
-    "suntan.3"
-  ],
   "signNumber": 3265,
   "recordNumber": 1903,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -41,10 +36,15 @@
     "1. To have the colour of earth or wood. English = (be) brown."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The colour of earth or wood. English = brown."
   ],
   "idGloss": "brown.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "suntan.1",
+    "suntan.2",
+    "suntan.3"
+  ]
 }

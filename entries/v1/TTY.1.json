@@ -15,9 +15,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "TTY",
     "telephone typewriter",
@@ -25,10 +25,9 @@
     "teletype"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6612,
   "recordNumber": 3935,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "1. To answer a telephone typewriter."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device with a typewriter keyboard which sends and receives typed messages over the telephone. English = telephone typewriter, teletypewriter, teletype, TTY."
   ],
   "idGloss": "TTY.1",
-  "oldEntry": "Popular explanation: picking up and placing a telephone receiver on a TTY."
+  "oldEntry": "Popular explanation: picking up and placing a telephone receiver on a TTY.",
+  "seeAlso": []
 }

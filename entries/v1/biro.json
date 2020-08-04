@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lighter",
     "cigarette lighter",
@@ -28,12 +28,9 @@
     "stopwatch"
   ],
   "deictic": [],
-  "cf": [
-    "pencil"
-  ],
   "signNumber": 4774,
   "recordNumber": 2885,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -57,5 +54,8 @@
     "3. A watch with buttons which you press at the beginning and end of an event, so that you can measure exactly how long it takes. English = stopwatch."
   ],
   "idGloss": "biro",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pencil"
+  ]
 }

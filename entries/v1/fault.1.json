@@ -17,9 +17,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fault",
     "failing",
@@ -29,13 +29,9 @@
     "failure"
   ],
   "deictic": [],
-  "cf": [
-    "except.1",
-    "ugly.2"
-  ],
   "signNumber": 5050,
   "recordNumber": 3045,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,12 +48,16 @@
     "3. To try to do something but not succeed in doing it. English = fail."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A weakness, imperfection or unsatisfactory feature of something. English = fault, failing, shortcoming.",
     "2. The inability of someone to do something. English = failure.",
     "3. A situation in which something stops working or does not do what it is supposed to do. English = failure."
   ],
   "idGloss": "fault.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "except.1",
+    "ugly.2"
+  ]
 }

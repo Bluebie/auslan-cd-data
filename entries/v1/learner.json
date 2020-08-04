@@ -12,8 +12,8 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign appears to be borrowed from the wider hearing culture.",
   "english": [
     "learner",
@@ -21,10 +21,9 @@
     "green"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5055,
   "recordNumber": 3049,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -42,11 +41,12 @@
     "1. Of a person, to have very little experience at something, especially because you are young. Idiomatic English = (be) green."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who is learning how to do something, especially drive a vehicle. English = learner.",
     "2. Someone who is not experienced at a job or activity they are doing. English = novice."
   ],
   "idGloss": "learner",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

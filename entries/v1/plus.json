@@ -24,8 +24,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "addition",
     "add",
@@ -34,10 +34,9 @@
     "plus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 951,
   "recordNumber": 547,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -62,11 +61,12 @@
     "4. In mathematics, the sign for the word used to name the operation of adding two numbers together and represented by the symbol +. English = plus."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In mathematics, the calculation of the total of two or more numbers. English = addition.",
     "2. In mathematics, the addition or plus symbol (+) which is put between two numbers to show that they are to be added together."
   ],
   "idGloss": "plus",
-  "oldEntry": "Popular explanation: the shape of a plus symbol."
+  "oldEntry": "Popular explanation: the shape of a plus symbol.",
+  "seeAlso": []
 }

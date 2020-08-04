@@ -15,9 +15,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "knob",
     "stone",
@@ -25,12 +25,9 @@
     "bead"
   ],
   "deictic": [],
-  "cf": [
-    "tomato.2a"
-  ],
   "signNumber": 199,
   "recordNumber": 115,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -53,5 +50,8 @@
     "4. A small piece of coloured glass, wood, or plastic with a hole through the middle. English = bead."
   ],
   "idGloss": "knob.1a",
-  "oldEntry": "Popular explanation: something small and round at the end of something long and thin."
+  "oldEntry": "Popular explanation: something small and round at the end of something long and thin.",
+  "seeAlso": [
+    "tomato.2a"
+  ]
 }

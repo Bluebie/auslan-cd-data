@@ -22,9 +22,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "obvious",
     "plain",
@@ -36,7 +36,6 @@
     "clearly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 554,
   "recordNumber": 319,
   "signVisualComposition": "SEE + EASY",
@@ -65,8 +64,9 @@
     "2. To be something that you expect people to know already. English = (be) obvious, (be) clear."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "obvious",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,21 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tour"
   ],
   "deictic": [],
-  "cf": [
-    "holiday.1",
-    "holiday.2",
-    "country-wide"
-  ],
   "signNumber": 1772,
   "recordNumber": 1067,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,10 +36,15 @@
     "1. To travel extensively and widely around a country or region. English = tour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An extensive journey around a country or a region. English = tour."
   ],
   "idGloss": "tour.country",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "holiday.1",
+    "holiday.2",
+    "country-wide"
+  ]
 }

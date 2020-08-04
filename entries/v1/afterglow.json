@@ -13,17 +13,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "score"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5883,
   "recordNumber": 3497,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. To be successful in having sexual intercourse with someone. Informal English = score."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of having sex. English = sexual intercourse.",
     "2. The act of successfully having sexual intercourse with someone."
   ],
   "idGloss": "afterglow",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

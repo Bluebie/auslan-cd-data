@@ -19,8 +19,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "idleness",
     "loafing",
@@ -31,10 +31,9 @@
     "available"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2657,
   "recordNumber": 1474,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 13,
@@ -52,11 +51,12 @@
     "2. To be able to do something at a certain time because you are not or will not be doing anything else. English = (be) free, (be) available."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact of not doing anything, especially when you should be doing something, especially working. English = idleness, loafing.",
     "2. A person who spends their time not working or not doing the things that they ought to be doing. English = loafer."
   ],
   "idGloss": "idle.1a",
-  "oldEntry": "Popular explanation: holding braces."
+  "oldEntry": "Popular explanation: holding braces.",
+  "seeAlso": []
 }

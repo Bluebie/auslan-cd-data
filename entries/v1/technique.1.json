@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "technology",
     "technique",
     "technical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6549,
   "recordNumber": 3901,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,11 +39,12 @@
     "3. Involving details about machines, processes, and materials that are used, especially in industry, transport, and communications. English = (be) technical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity or study of using scientific knowledge for practical purposes in industry, farming, medicine, or business. English = technology.",
     "2. A particular method of doing something. English = technique."
   ],
   "idGloss": "technique.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

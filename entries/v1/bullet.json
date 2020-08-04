@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bullet"
   ],
   "deictic": [],
-  "cf": [
-    "gun.1a",
-    "gun.fire"
-  ],
   "signNumber": 1322,
   "recordNumber": 781,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -40,5 +36,9 @@
     "1. A small piece of metal with a pointed or rounded end, which is fired out of a gun. English = bullet."
   ],
   "idGloss": "bullet",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "gun.1a",
+    "gun.fire"
+  ]
 }

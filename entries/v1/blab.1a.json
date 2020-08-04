@@ -28,9 +28,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "telltale",
     "informer",
@@ -45,12 +45,9 @@
     "pimp"
   ],
   "deictic": [],
-  "cf": [
-    "gossip.1a"
-  ],
   "signNumber": 61,
   "recordNumber": 34,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -70,12 +67,15 @@
     "3. Especially in the Catholic religion, to tell a priest about your sins and ask for forgiveness. English = confess."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who reports the misdemeanours, true or fictitious, of their friends, peers, relatives, etc. English = telltale, informer, pimp. Informal English = dobber.",
     "2. A person who tells other people things that you did not want them to know. Informal English = blabbermouth, big mouth.",
     "3. Especially in the Catholic religion, a religious act in which you tell a priest about your sins and ask for forgiveness. English = confession."
   ],
   "idGloss": "blab.1a",
-  "oldEntry": "Popular explanation: words coming out of your mouth."
+  "oldEntry": "Popular explanation: words coming out of your mouth.",
+  "seeAlso": [
+    "gossip.1a"
+  ]
 }

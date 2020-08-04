@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ease",
     "easy",
@@ -29,12 +29,9 @@
     "simply"
   ],
   "deictic": [],
-  "cf": [
-    "obvious"
-  ],
   "signNumber": 6116,
   "recordNumber": 3641,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -54,10 +51,13 @@
     "1. To be able to be done without effort or difficulty. English = (be) easy, simple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lack of any difficulty. English = ease."
   ],
   "idGloss": "easy.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "obvious"
+  ]
 }

@@ -14,9 +14,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tears",
     "crying",
@@ -25,10 +25,9 @@
     "weep"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 847,
   "recordNumber": 484,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 7,
@@ -41,11 +40,12 @@
     "1. To produce tears in your eyes, usually because you are unhappy or hurt. English = cry. Formal English = weep."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Drops of liquid that come out of your eyes when you cry. English = tears.",
     "2. The act of producing tears in your eyes. English = crying. Formal English = weeping."
   ],
   "idGloss": "cry.1a",
-  "oldEntry": "Popular explanation: the path of tears on the cheeks."
+  "oldEntry": "Popular explanation: the path of tears on the cheeks.",
+  "seeAlso": []
 }

@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hearing loop"
   ],
   "deictic": [],
-  "cf": [
-    "FM-hearing.aid"
-  ],
   "signNumber": 408,
   "recordNumber": 225,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A wire which is connected around the edge of a room or auditorium that facilitates the operation of FM-hearing aids. English = hearing loop."
   ],
   "idGloss": "hearing-loop",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "FM-hearing.aid"
+  ]
 }

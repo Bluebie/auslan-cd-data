@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BROWN + FACE",
-  "queries": "",
+  "queries": null,
   "english": [
     "tan",
     "suntan",
@@ -28,12 +28,9 @@
     "sun-tanned"
   ],
   "deictic": [],
-  "cf": [
-    "brown.1a"
-  ],
   "signNumber": 34,
   "recordNumber": 21,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -50,10 +47,13 @@
     "1. Used to describe someone whose skin is darker than usual because they have been in the sun. English = (be) brown, (be) tanned, (be) sun-tanned. Idiomatic English = have a tan, have a sun tan."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of having skin which has turned an attractive brown colour because you have been in the sun. English = tan, suntan."
   ],
   "idGloss": "suntan.2",
-  "oldEntry": "Popular explanation: a brown face."
+  "oldEntry": "Popular explanation: a brown face.",
+  "seeAlso": [
+    "brown.1a"
+  ]
 }

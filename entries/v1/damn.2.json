@@ -15,19 +15,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "damn",
     "dare",
     "blast"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2691,
   "recordNumber": 1494,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -47,8 +46,9 @@
     "1. To suggest someone do something or to challenge someone to do something to show how brave or reckless they are. English = dare."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "damn.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

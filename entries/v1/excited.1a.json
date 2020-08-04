@@ -27,8 +27,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "excitement",
     "interest",
@@ -42,10 +42,9 @@
     "interest"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3027,
   "recordNumber": 1734,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -65,12 +64,13 @@
     "3. To make someone so happy that they are full of energy and cannot relax, usually because they are looking forward to something and cannot stop thinking about it. English = excite, interest."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being so happy that you are full of energy and cannot relax, usually because you are looking forward to something and cannot stop thinking about it or are already enjoying it so much. English = excitement.",
     "2. The desire to experience, learn or know more about something. English = interest.",
     "3. The desire to want to do something very much. English = keenness."
   ],
   "idGloss": "excited.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

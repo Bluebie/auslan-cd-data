@@ -21,9 +21,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "work",
     "job",
@@ -33,13 +33,9 @@
     "employed"
   ],
   "deictic": [],
-  "cf": [
-    "saw.1a",
-    "laborious.1a"
-  ],
   "signNumber": 4187,
   "recordNumber": 2533,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -57,11 +53,15 @@
     "2. To expend effort to do something that must be done. English = work."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An activity you do for which you are paid. English = work, job, employment, occupation.",
     "2. Something that you need to do that requires some effort. English = work, task."
   ],
   "idGloss": "work.1a",
-  "oldEntry": "Popular explanation: a sawing or chopping action."
+  "oldEntry": "Popular explanation: a sawing or chopping action.",
+  "seeAlso": [
+    "saw.1a",
+    "laborious.1a"
+  ]
 }

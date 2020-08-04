@@ -13,9 +13,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "laziness",
     "idleness",
@@ -23,12 +23,9 @@
     "idle"
   ],
   "deictic": [],
-  "cf": [
-    "business.1"
-  ],
   "signNumber": 3498,
   "recordNumber": 2046,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -44,10 +41,13 @@
     "1. To try to avoid doing any work or making any effort to do something. English = (be) lazy, (be) idle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The attempt to or fact of avoiding any work or of making little or no effort to do something. English = laziness, idleness."
   ],
   "idGloss": "lazy.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "business.1"
+  ]
 }

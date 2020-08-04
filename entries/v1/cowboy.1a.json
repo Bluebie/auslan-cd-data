@@ -13,20 +13,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "western",
     "cowboy"
   ],
   "deictic": [],
-  "cf": [
-    "gun.1a"
-  ],
   "signNumber": 5205,
   "recordNumber": 3128,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -37,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A book or film about life in the west of America in the nineteenth century. The story usually involves a lot of fighting and shooting. English = western.",
     "2. A male character in a western book or film. English = cowboy.",
@@ -45,5 +42,8 @@
     "4. A children's game in which one group pretends to be cowboys and another group pretends to be Red Indians and the two groups pretend to fight each other. English = Cowboys and Indians."
   ],
   "idGloss": "cowboy.1a",
-  "oldEntry": "Popular explanation: drawing guns from holsters."
+  "oldEntry": "Popular explanation: drawing guns from holsters.",
+  "seeAlso": [
+    "gun.1a"
+  ]
 }

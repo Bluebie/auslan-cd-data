@@ -16,9 +16,9 @@
     "engtf5",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "peeling",
     "peel",
@@ -27,12 +27,9 @@
     "fruit"
   ],
   "deictic": [],
-  "cf": [
-    "banana.1"
-  ],
   "signNumber": 4959,
   "recordNumber": 2996,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -45,12 +42,15 @@
     "1. To remove the tough outer layer of fruit or vegetables. English = peel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of removing the outer layer of fruit or vegetables. English = peeling.",
     "2. The outer layer of fruit or vegetables. English = peel, skin.",
     "3. Types of plants from which you usually remove the tough outer layer before eating. English = vegetables, fruit."
   ],
   "idGloss": "peel",
-  "oldEntry": "Popular explanation: using a vegetable peeler."
+  "oldEntry": "Popular explanation: using a vegetable peeler.",
+  "seeAlso": [
+    "banana.1"
+  ]
 }

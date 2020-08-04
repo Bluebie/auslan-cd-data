@@ -12,20 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "purse"
   ],
   "deictic": [],
-  "cf": [
-    "wind.watch",
-    "wallet.2"
-  ],
   "signNumber": 6441,
   "recordNumber": 3838,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,5 +39,9 @@
     "1. A very small bag that people, usually women, keep their money in. English = purse."
   ],
   "idGloss": "purse",
-  "oldEntry": "Popular explanation: opening a purse."
+  "oldEntry": "Popular explanation: opening a purse.",
+  "seeAlso": [
+    "wind.watch",
+    "wallet.2"
+  ]
 }

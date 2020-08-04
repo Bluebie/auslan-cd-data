@@ -18,9 +18,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "speech",
     "articulation",
@@ -29,13 +29,9 @@
     "pronounce"
   ],
   "deictic": [],
-  "cf": [
-    "voice.2",
-    "hand.puppet.1a"
-  ],
   "signNumber": 3250,
   "recordNumber": 1892,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -52,11 +48,15 @@
     "3. To say a word it is usually said or to say it in a particular way. English = pronounce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to speak or the act of speaking. English = speech, articulation.",
     "2. (When referring to deaf people) the ability to speak intelligibly."
   ],
   "idGloss": "speech",
-  "oldEntry": "Popular explanation: the mouth opening and closing."
+  "oldEntry": "Popular explanation: the mouth opening and closing.",
+  "seeAlso": [
+    "voice.2",
+    "hand.puppet.1a"
+  ]
 }

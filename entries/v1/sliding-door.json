@@ -9,18 +9,15 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sliding-door"
   ],
   "deictic": [],
-  "cf": [
-    "sliding-door.open"
-  ],
   "signNumber": 4177,
   "recordNumber": 2525,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A door which opens by sliding sideways rather than by swinging open."
   ],
   "idGloss": "sliding-door",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sliding-door.open"
+  ]
 }

@@ -7,9 +7,9 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "my",
     "mine"
@@ -17,10 +17,9 @@
   "deictic": [
     "This sign is placed before or after a noun sign, though usually before it, to mean the thing is owned or possessed by the person or thing this sign is directed towards. In this case, the thing is owned by the signer. English = my, mine."
   ],
-  "cf": [],
   "signNumber": 5641,
   "recordNumber": 3343,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -31,8 +30,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "my.mine.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

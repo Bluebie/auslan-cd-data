@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tabula rasa",
     "no idea",
     "blank mind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 247,
   "recordNumber": 144,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -34,10 +33,11 @@
     "1. To have no ideas or thoughts at all; to have a blank mind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mind which has no ideas or thoughts in it at all; a mind which is empty. Formal English = tabula rasa."
   ],
   "idGloss": "no.idea.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

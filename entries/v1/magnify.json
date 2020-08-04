@@ -17,23 +17,18 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "enlargement",
     "enlarge",
     "magnify"
   ],
   "deictic": [],
-  "cf": [
-    "microscope.1",
-    "focus",
-    "telescope"
-  ],
   "signNumber": 5821.1,
   "recordNumber": 3458,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -52,10 +47,15 @@
     "2. Using a microscope, to make the image of something, which was originally very small, much larger so that it can be seen. English = magnify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something, especially an image, which is a much larger copy or view of an original which is much smaller. English = enlargement."
   ],
   "idGloss": "magnify",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "microscope.1",
+    "focus",
+    "telescope"
+  ]
 }

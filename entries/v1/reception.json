@@ -17,8 +17,8 @@
     "cf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "switchboard",
     "switch",
@@ -26,10 +26,9 @@
     "receptionist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6176,
   "recordNumber": 3687,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -40,12 +39,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place in a large office or business where all the telephone calls are connected. English = switchboard, switch.",
     "2. The place in an office, business, hotel, doctor's surgery, etc., where people go when they first arrive and where all the telephone calls are often also connected or dealt with. English = reception.",
     "3. In a hotel, office, or doctor's surgery, the person whose job is to deal with guests or clients when they first arrive, answer the telephone, and arrange reservations or appointments. English = receptionist."
   ],
   "idGloss": "reception",
-  "oldEntry": "Popular explanation: inserting and removing lines in an old fashioned telephone switchboard."
+  "oldEntry": "Popular explanation: inserting and removing lines in an old fashioned telephone switchboard.",
+  "seeAlso": []
 }

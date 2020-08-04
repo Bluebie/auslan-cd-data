@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "participation",
     "participant",
     "participate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1845,
   "recordNumber": 1105,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. To join in or take part in some activity. English = participate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Joining in or taking part in some activity. English = participation.",
     "2. A person who takes part in some activity. English = participant."
   ],
   "idGloss": "participate.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

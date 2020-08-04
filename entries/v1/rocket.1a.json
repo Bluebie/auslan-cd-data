@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rocket",
     "lift off",
@@ -23,10 +23,9 @@
     "take off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1215,
   "recordNumber": 717,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "2. Of a rocket or missile, to lift off the ground and go into the air; to take off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A space vehicle that is shaped like a long tube; a missile containing explosive that drives itself through the air by sending out burning gas; a firework that quickly goes high into the air and then explodes. English = rocket.",
     "2. The launching of a rocket or missile. English = lift off."
   ],
   "idGloss": "rocket.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

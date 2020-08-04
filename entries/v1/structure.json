@@ -11,19 +11,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BUILD + S",
-  "queries": "",
+  "queries": null,
   "english": [
     "structure"
   ],
   "deictic": [],
-  "cf": [
-    "build.1a"
-  ],
   "signNumber": 5901,
   "recordNumber": 3507,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -36,11 +33,14 @@
     "1. To arrange something in a careful, organised pattern or system. English = structure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The way in which something is made, built, or organised. English = structure.",
     "2. Something that has been built or formed in a particular way. English = structure."
   ],
   "idGloss": "structure",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "build.1a"
+  ]
 }

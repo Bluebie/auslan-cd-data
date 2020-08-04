@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rage",
     "fury",
@@ -32,13 +32,9 @@
     "furious"
   ],
   "deictic": [],
-  "cf": [
-    "roof.1a",
-    "party.1"
-  ],
   "signNumber": 3627,
   "recordNumber": 2136,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -59,10 +55,14 @@
     "3. To suddenly become very very angry. English = fly into a rage. Idiomatic English = blow one's top."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong, often sudden, anger that is difficult to control. English = rage, fury."
   ],
   "idGloss": "rage",
-  "oldEntry": "Popular explanation: a roof lifting off."
+  "oldEntry": "Popular explanation: a roof lifting off.",
+  "seeAlso": [
+    "roof.1a",
+    "party.1"
+  ]
 }

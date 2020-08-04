@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stride"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5791,
   "recordNumber": 3435,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -38,10 +37,11 @@
     "1. To walk somewhere with quick, long steps, in a confident, determined, or even aggressive way. English = stride."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A confident, determined or aggressive walk or gait made with quick, long steps. English = stride."
   ],
   "idGloss": "stride",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

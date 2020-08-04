@@ -14,21 +14,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "roller-skates",
     "roller-skating",
     "roller-skate"
   ],
   "deictic": [],
-  "cf": [
-    "ice-skating.1"
-  ],
   "signNumber": 3924,
   "recordNumber": 2340,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -41,11 +38,14 @@
     "1. To roller-skate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Shoes with four small wheels on the bottom. English = roller-skates.",
     "2. The activity or sport of moving over a flat surface with roller-skates. English = roller-skating."
   ],
   "idGloss": "roller-skating",
-  "oldEntry": "Popular explanation: the feet gliding across a surface."
+  "oldEntry": "Popular explanation: the feet gliding across a surface.",
+  "seeAlso": [
+    "ice-skating.1"
+  ]
 }

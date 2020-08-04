@@ -11,16 +11,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "ballet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6535,
   "recordNumber": 3890,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,11 +32,12 @@
     "1. To leap or jump up in the air, especially as part of a ballet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of very skilled and artistic dancing with carefully planned movements. English = ballet.",
     "2. An artistic work that is performed by ballet dancers. English = ballet."
   ],
   "idGloss": "ballet.1",
-  "oldEntry": "Popular explanation: a ballet dancer jumping up into the air."
+  "oldEntry": "Popular explanation: a ballet dancer jumping up into the air.",
+  "seeAlso": []
 }

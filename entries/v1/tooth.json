@@ -8,18 +8,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tooth",
     "teeth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1387,
   "recordNumber": 822,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hard white objects in your mouth that you use in biting and chewing food. English = tooth (singular), teeth (plural)."
   ],
   "idGloss": "tooth",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

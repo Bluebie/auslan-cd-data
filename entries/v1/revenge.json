@@ -17,22 +17,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "revenge",
     "vengeance",
     "avenge"
   ],
   "deictic": [],
-  "cf": [
-    "change.1a",
-    "about.face"
-  ],
   "signNumber": 933,
   "recordNumber": 532,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -51,11 +47,15 @@
     "3. To swap places with someone so that you experience what they were experiencing or vice versa."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hurting of someone who has hurt you. English = revenge, vengeance.",
     "2. A complete change in a situation so that the positions and experiences of two people are swapped. Idiomatic English = turn around."
   ],
   "idGloss": "revenge",
-  "oldEntry": "Popular explanation: swap places with."
+  "oldEntry": "Popular explanation: swap places with.",
+  "seeAlso": [
+    "change.1a",
+    "about.face"
+  ]
 }

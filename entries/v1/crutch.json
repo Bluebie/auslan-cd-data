@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crutches"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5937.1,
   "recordNumber": 3536,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 16,
@@ -33,10 +32,11 @@
     "1. To walk on or use crutches."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Supports like sticks, which you lean on in order to help you to walk when you have injured your foot or leg. English = crutches."
   ],
   "idGloss": "crutch",
-  "oldEntry": "Popular explanation: using crutches."
+  "oldEntry": "Popular explanation: using crutches.",
+  "seeAlso": []
 }

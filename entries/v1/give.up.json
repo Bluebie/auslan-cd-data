@@ -18,9 +18,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "give up",
     "yield",
@@ -30,13 +30,9 @@
     "retire"
   ],
   "deictic": [],
-  "cf": [
-    "retire.1a",
-    "surrender"
-  ],
   "signNumber": 174,
   "recordNumber": 98,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -55,5 +51,9 @@
   "generalMeaning": "The action of throwing something up in the air, such as a ball, or any thing or action directly or indirectly associated with this, such as the action of throwing up your hands or arms as a gesture of 'giving up'.",
   "nominalLexeme": [],
   "idGloss": "give.up",
-  "oldEntry": "Popular explanation: the gesture of giving up."
+  "oldEntry": "Popular explanation: the gesture of giving up.",
+  "seeAlso": [
+    "retire.1a",
+    "surrender"
+  ]
 }

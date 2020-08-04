@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flicker",
     "digital display"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2964,
   "recordNumber": 1686,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
     "2. Of a digital display light, to shine and glow, often changing with the time or the amount of something being displayed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small light or flame that shines unsteadily, with sudden changes in strength and brightness. English = flicker.",
     "2. A small light or series of lights which display numerical and other information on a small screen. The numbers change often according to the time or the amount of some thing being measured. English = digital display."
   ],
   "idGloss": "flicker",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

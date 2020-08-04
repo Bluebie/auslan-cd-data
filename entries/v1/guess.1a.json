@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "guess",
     "estimate"
   ],
   "deictic": [],
-  "cf": [
-    "fiction.1a"
-  ],
   "signNumber": 5083,
   "recordNumber": 3068,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -41,10 +38,13 @@
     "2. To attempt to give an approximate answer to something. English = estimate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An attempt to give the right answer to something when you do not know it. English = guess."
   ],
   "idGloss": "guess.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fiction.1a"
+  ]
 }

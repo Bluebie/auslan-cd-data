@@ -14,9 +14,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "terror",
     "trembling",
@@ -25,10 +25,9 @@
     "nervous"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1096,
   "recordNumber": 644,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -46,12 +45,13 @@
     "3. To be worried and frightened about something and show this in your behaviour. English = (be) nervous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very great fear or something that makes you very frightened. English = terror.",
     "2. The shaking of the body from fear. English = trembling.",
     "3. A feeling of worry and fear about something. English = nervousness."
   ],
   "idGloss": "terrified.2",
-  "oldEntry": "Popular explanation: the knees or legs knocking together in fear."
+  "oldEntry": "Popular explanation: the knees or legs knocking together in fear.",
+  "seeAlso": []
 }

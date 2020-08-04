@@ -13,18 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "show",
     "display"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5537,
   "recordNumber": 3277,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 7,
@@ -38,11 +37,12 @@
     "2. To put something in a place where people can easily see it. English = display."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An arrangement of things that is intended to attract people's attention. English = show, display.",
     "2. A public event that is intended to entertain people. English = show."
   ],
   "idGloss": "show.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

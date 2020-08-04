@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "encounter",
     "run into",
     "bump into"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 915,
   "recordNumber": 521,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. For one person or thing to go to and meet another unexpectedly. Formal English = encounter. Idiomatic English = run into, bump into."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The accidental meeting of someone."
   ],
   "idGloss": "encounter.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boot",
     "trunk"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5705,
   "recordNumber": 3375,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -35,5 +34,6 @@
     "1. A covered space usually found at the back of a car in which you carry things such as luggage and shopping. British and Australian English = boot. American English = trunk."
   ],
   "idGloss": "trunk.car",
-  "oldEntry": "Popular explanation: opening and closing the boot of a car."
+  "oldEntry": "Popular explanation: opening and closing the boot of a car.",
+  "seeAlso": []
 }

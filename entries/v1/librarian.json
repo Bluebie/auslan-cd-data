@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "library",
     "librarian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1885,
   "recordNumber": 1126,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -34,11 +33,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An institution or part of an institution that keeps books and newspapers for people to read. A member is usually allowed to borrow books for certain periods of time. English = library.",
     "2. A person who is in charge of a library or who has been trained to do responsible work in a library. English = librarian."
   ],
   "idGloss": "librarian",
-  "oldEntry": "Popular explanation: derived from the name sign for a past librarian at the Victorian School for the Deaf."
+  "oldEntry": "Popular explanation: derived from the name sign for a past librarian at the Victorian School for the Deaf.",
+  "seeAlso": []
 }

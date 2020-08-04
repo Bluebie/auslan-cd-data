@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fat",
     "overweight",
@@ -27,12 +27,9 @@
     "obese"
   ],
   "deictic": [],
-  "cf": [
-    "mumps.1a"
-  ],
   "signNumber": 3000,
   "recordNumber": 1711,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 9,
@@ -49,8 +46,11 @@
     "3. To be very fat. Formal English = (be) obese."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "fat.1a",
-  "oldEntry": "Popular explanation: the plump cheeks."
+  "oldEntry": "Popular explanation: the plump cheeks.",
+  "seeAlso": [
+    "mumps.1a"
+  ]
 }

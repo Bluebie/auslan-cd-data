@@ -6,14 +6,13 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "emergency"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 961,
   "recordNumber": 553,
   "signVisualComposition": "E + M + G",
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
   ],
   "idGloss": "emergency.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

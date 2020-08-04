@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sunroof"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3114,
   "recordNumber": 1797,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -32,5 +31,6 @@
     "1. A small retractable section in the roof of some cars. English = sunroof."
   ],
   "idGloss": "sunroof",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,16 +13,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "influence"
   ],
   "deictic": [],
-  "cf": [
-    "educate.1a"
-  ],
   "signNumber": 24,
   "recordNumber": 14,
   "signVisualComposition": "EDUCATE + ALL",
@@ -41,11 +38,14 @@
     "1. To have an effect on the way that a person acts or on what happens. English = influence."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The effect that someone has on what a person does or on what happens. English = influence.",
     "2. The power that you have which makes it likely that other people will agree with you or do what you want. English = influence."
   ],
   "idGloss": "influence.1",
-  "oldEntry": "Popular explanation: to take from your mind and put into others."
+  "oldEntry": "Popular explanation: to take from your mind and put into others.",
+  "seeAlso": [
+    "educate.1a"
+  ]
 }

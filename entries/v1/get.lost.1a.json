@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Jokingly used with friends and peers but can be quite offensive if used with a stranger.",
   "english": [
     "get lost"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5511,
   "recordNumber": 3264,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,8 +34,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "get.lost.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

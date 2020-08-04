@@ -15,19 +15,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "horse racing",
     "horse race",
     "race"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1796,
   "recordNumber": 1083,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 2.2,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "1. To race horses."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Races run between horses in which people place bets on the horse they think will win. English = horse racing.",
     "2. A race run between horses. English = horse race."
   ],
   "idGloss": "horse.racing.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

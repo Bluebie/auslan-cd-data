@@ -9,20 +9,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "deodorant",
     "underarm"
   ],
   "deictic": [],
-  "cf": [
-    "hair spray"
-  ],
   "signNumber": 1417,
   "recordNumber": 846,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -35,10 +32,13 @@
     "1. To apply underarm spray deodorant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pleasant-smelling spray that you put on your body, especially under your arms, in order to reduce the smell of perspiration. English = deodorant, underarm deodorant, spray deodorant."
   ],
   "idGloss": "deodorant",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hair spray"
+  ]
 }

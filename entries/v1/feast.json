@@ -14,22 +14,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "feast",
     "smorgasbord",
     "buffet"
   ],
   "deictic": [],
-  "cf": [
-    "party.1",
-    "provide"
-  ],
   "signNumber": 126,
   "recordNumber": 68,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 10,
@@ -42,11 +38,15 @@
     "1. To spread food out on a table."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large and special meal. English = feast.",
     "2. Various hot and cold foods arranged on a table. English = smorgasbord, buffet."
   ],
   "idGloss": "feast",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "party.1",
+    "provide"
+  ]
 }

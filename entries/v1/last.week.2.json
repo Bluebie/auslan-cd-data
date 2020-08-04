@@ -13,19 +13,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "last week"
   ],
   "deictic": [],
-  "cf": [
-    "next.week.1a"
-  ],
   "signNumber": 2829,
   "recordNumber": 1591,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -41,11 +38,14 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The calendar week before the week of speaking or signing. English = last week, one week ago.",
     "2. The calendar week before an already specified week in the past. English = the week before that, the previous week."
   ],
   "idGloss": "last.week.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "next.week.1a"
+  ]
 }

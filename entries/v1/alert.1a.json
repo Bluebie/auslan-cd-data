@@ -20,9 +20,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alertness",
     "astonishment",
@@ -32,13 +32,9 @@
     "impressed"
   ],
   "deictic": [],
-  "cf": [
-    "realise",
-    "wake"
-  ],
   "signNumber": 6339,
   "recordNumber": 3784,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -57,11 +53,15 @@
     "3. To admire something or to understand the importance of it. English = (be) impressed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being fully aware of something, or to be paying full attention to what is happening. English = alertness.",
     "2. A feeling of great surprise about something. English = astonishment."
   ],
   "idGloss": "alert.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "realise",
+    "wake"
+  ]
 }

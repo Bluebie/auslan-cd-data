@@ -12,19 +12,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "about",
     "approximate",
     "around"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2491,
   "recordNumber": 1382,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,8 +42,9 @@
     "1. To be close to the correct number of something, but not to be exact. English = (be) around, (be) about, (be) approximate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "about.number",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

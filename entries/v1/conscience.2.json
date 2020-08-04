@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cogitation",
     "conscience",
@@ -24,10 +24,9 @@
     "conscientious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 504,
   "recordNumber": 281,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -44,11 +43,12 @@
     "3. To be very careful to do your work properly. English = (be) conscientious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Ideas that you have in your mind or the act of having an idea or ideas in your mind. English = thoughts, thinking. Formal English = cogitation, cogitations.",
     "2. The part of your mind that tells you whether what you are doing is right or wrong. English = conscience."
   ],
   "idGloss": "conscience.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

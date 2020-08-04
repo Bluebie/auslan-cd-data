@@ -12,21 +12,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bowler",
     "bowl"
   ],
   "deictic": [],
-  "cf": [
-    "bowling",
-    "waiter"
-  ],
   "signNumber": 5711.1,
   "recordNumber": 3379,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -39,11 +35,15 @@
     "1. To throw a ball down the pitch towards the batsman in a game of cricket. English = bowl."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person who is throwing the ball towards the batsman in a game of cricket. English = bowler.",
     "2. The act of throwing a ball towards the batsman in a game of cricket. English = bowl."
   ],
   "idGloss": "bowler",
-  "oldEntry": "Popular explanation: bowling a ball."
+  "oldEntry": "Popular explanation: bowling a ball.",
+  "seeAlso": [
+    "bowling",
+    "waiter"
+  ]
 }

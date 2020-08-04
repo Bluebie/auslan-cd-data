@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "avoidance",
     "avoid",
@@ -29,10 +29,9 @@
     "duck"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 918,
   "recordNumber": 523,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -59,5 +58,6 @@
     "2. A quick movement or a sudden change in direction so as to avoid meeting or being seen by someone, or to avoid being hit or caught by someone or something."
   ],
   "idGloss": "avoid.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

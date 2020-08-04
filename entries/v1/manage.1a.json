@@ -26,8 +26,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "management",
     "manager",
@@ -40,12 +40,9 @@
     "deal with"
   ],
   "deictic": [],
-  "cf": [
-    "scrimp"
-  ],
   "signNumber": 3761,
   "recordNumber": 2223,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -63,7 +60,7 @@
     "4. Of a situation or problem, to do what is necessary to achieve the result you want; of a theory or idea, to be able to explain a particular event or thing. English = deal with."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The responsibility for and actions involved in controlling an organisation, business, or system. English = management.",
     "2. The person or people responsible for controlling an organisation, business, or system. English = manager, management",
@@ -71,5 +68,8 @@
     "4. An agreement or arrangement that is made, especially in business. English = deal, transaction."
   ],
   "idGloss": "manage.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "scrimp"
+  ]
 }

@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "washing",
     "laundry",
@@ -29,10 +29,9 @@
     "launder"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5915,
   "recordNumber": 3519,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -51,12 +50,13 @@
     "3. To wash clothes by hand."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of cleaning something using soap and water. English = washing.",
     "2. The clothes that have been or are to be washed. English = the washing, the laundry.",
     "3. A room in a house or a hotel where clothes are washed. English = laundry."
   ],
   "idGloss": "wash",
-  "oldEntry": "Popular explanation: washing by hand."
+  "oldEntry": "Popular explanation: washing by hand.",
+  "seeAlso": []
 }

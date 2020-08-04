@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "perfume"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 86,
   "recordNumber": 48,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To apply perfume to yourself; to dab perfume onto yourself."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pleasant-smelling liquid which you put on your body to make yourself smell nice. English = perfume."
   ],
   "idGloss": "perfume.1a",
-  "oldEntry": "Popular explanation: tipping a small container onto oneself."
+  "oldEntry": "Popular explanation: tipping a small container onto oneself.",
+  "seeAlso": []
 }

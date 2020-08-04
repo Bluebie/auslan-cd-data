@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1418,
   "recordNumber": 847,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -30,10 +29,11 @@
     "1. To shave under your arms."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Armpits which have been shaved."
   ],
   "idGloss": "shave.underarm",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

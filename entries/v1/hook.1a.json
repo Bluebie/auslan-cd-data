@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hook"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1434,
   "recordNumber": 855,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To attach one thing to another using a hook. English = hook."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A bent piece of metal or plastic that is used for holding things. English = hook."
   ],
   "idGloss": "hook.1a",
-  "oldEntry": "Popular explanation: hooking shape and action."
+  "oldEntry": "Popular explanation: hooking shape and action.",
+  "seeAlso": []
 }

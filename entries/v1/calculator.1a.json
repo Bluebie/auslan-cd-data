@@ -16,20 +16,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "calculator",
     "mobile phone"
   ],
   "deictic": [],
-  "cf": [
-    "sums.1a"
-  ],
   "signNumber": 1296,
   "recordNumber": 771,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -51,5 +48,8 @@
     "2. A small portable telecommunications device that you use for making phone calls. You dial the number by pushing on buttons. English = mobile phone."
   ],
   "idGloss": "calculator.1a",
-  "oldEntry": "Popular explanation: pressing buttons."
+  "oldEntry": "Popular explanation: pressing buttons.",
+  "seeAlso": [
+    "sums.1a"
+  ]
 }

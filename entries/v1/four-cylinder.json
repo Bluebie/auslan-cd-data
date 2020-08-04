@@ -9,19 +9,14 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "six-cylinder",
-    "traverse.engine",
-    "V8.engine"
-  ],
   "signNumber": 2421,
   "recordNumber": 1340,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -32,10 +27,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A car engine that has four pistons; a four-cylinder engine."
   ],
   "idGloss": "four-cylinder",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "six-cylinder",
+    "traverse.engine",
+    "V8.engine"
+  ]
 }

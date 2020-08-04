@@ -12,20 +12,17 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is obsolete elsewhere in Australia.",
   "english": [
     "telephone",
     "call"
   ],
   "deictic": [],
-  "cf": [
-    "telegram.1a"
-  ],
   "signNumber": 6138,
   "recordNumber": 3655,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -38,10 +35,13 @@
     "1. To dial someone's telephone number and speak to them by telephone. English = telephone, call."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The piece of equipment you use when you talk to someone by telephone. English = telephone."
   ],
   "idGloss": "telephone.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "telegram.1a"
+  ]
 }

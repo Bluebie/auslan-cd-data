@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottle-opener"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5304,
   "recordNumber": 3177,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "1. To remove the lid from a bottle using a bottle-opener."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A metal device for removing lids from bottles. English = bottle-opener."
   ],
   "idGloss": "bottle-opener.1",
-  "oldEntry": "Popular explanation: the action of using a bottle-opener."
+  "oldEntry": "Popular explanation: the action of using a bottle-opener.",
+  "seeAlso": []
 }

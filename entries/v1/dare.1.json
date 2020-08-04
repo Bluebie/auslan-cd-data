@@ -8,16 +8,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "dare"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 649,
   "recordNumber": 377,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -32,10 +31,11 @@
     "1. To challenge someone to do something dangerous or frightening. English = dare."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A challenge that one person makes to another to do something dangerous or frightening. English = dare."
   ],
   "idGloss": "dare.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

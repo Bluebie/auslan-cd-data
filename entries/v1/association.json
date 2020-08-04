@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "association"
   ],
   "deictic": [],
-  "cf": [
-    "class.1a",
-    "family.2a"
-  ],
   "signNumber": 5777,
   "recordNumber": 3424,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An official group of people with a common occupation, aim, or interest. English = association."
   ],
   "idGloss": "association",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "class.1a",
+    "family.2a"
+  ]
 }

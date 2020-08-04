@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "couple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1643,
   "recordNumber": 974,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two people who are married, living together, or having a sexual relationship. English = couple."
   ],
   "idGloss": "couple.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

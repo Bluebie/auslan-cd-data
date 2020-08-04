@@ -17,18 +17,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sound",
     "noise",
     "noisy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 573,
   "recordNumber": 329,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -48,11 +47,12 @@
     "2. To be full of a lot of loud noise, often in an unpleasant way. English = (be) noisy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that you hear. English = sound.",
     "2. A sound that someone or something makes, often loud and unpleasant. English = noise."
   ],
   "idGloss": "noise.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

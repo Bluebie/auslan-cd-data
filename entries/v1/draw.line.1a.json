@@ -12,19 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "write"
   ],
   "deictic": [],
-  "cf": [
-    "write.report"
-  ],
   "signNumber": 6443,
   "recordNumber": 3839,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "1. To draw a line, especially on a vertical surface or a board."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A line which has been drawn on a vertical surface or a board."
   ],
   "idGloss": "draw.line.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "write.report"
+  ]
 }

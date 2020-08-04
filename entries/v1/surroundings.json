@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "AREA + entity",
-  "queries": "",
+  "queries": null,
   "english": [
     "surroundings",
     "environment",
@@ -26,12 +26,9 @@
     "context"
   ],
   "deictic": [],
-  "cf": [
-    "surround"
-  ],
   "signNumber": 2812,
   "recordNumber": 1578,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -53,5 +50,8 @@
     "4. The words, signs or sentences before or after other words, signs or sentences which help to make the meaning clear. English = context."
   ],
   "idGloss": "surroundings",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "surround"
+  ]
 }

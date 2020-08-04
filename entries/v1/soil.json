@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "soil",
     "earth",
     "dirt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 169,
   "recordNumber": 94,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The substance on the land surface of the earth in which plants grow. English = soil, earth, dirt."
   ],
   "idGloss": "soil",
-  "oldEntry": "Popular explanation: crumbling soil with one's fingers."
+  "oldEntry": "Popular explanation: crumbling soil with one's fingers.",
+  "seeAlso": []
 }

@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ASL REHEARSE + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "rehearsal",
     "rehearse"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1507,
   "recordNumber": 897,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To practise a play, dance, or piece of music, in order to prepare for a performance. English = rehearse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a play, dance, or a piece of music, a practice, in which it is prepared for a performance. English = rehearsal."
   ],
   "idGloss": "rehearse",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

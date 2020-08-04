@@ -11,9 +11,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Amerindian",
     "Indian",
@@ -22,10 +22,9 @@
     "Native American"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1530,
   "recordNumber": 910,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -38,10 +37,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member or descendant of one of the tribes of people living in North America when Europeans arrived there. English = American Indian, Amerindian, Native American, red Indian."
   ],
   "idGloss": "Amerindian.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

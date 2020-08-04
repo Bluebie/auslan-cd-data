@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shirt",
     "blouse",
@@ -27,12 +27,9 @@
     "T-shirt"
   ],
   "deictic": [],
-  "cf": [
-    "dress.1a"
-  ],
   "signNumber": 6086,
   "recordNumber": 3620,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -48,7 +45,7 @@
     "1. To wear or be wearing a shirt or blouse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing you wear on the upper part of your body. It has a collar, sleeves, and buttons down the front. English = shirt.",
     "2. A kind of shirt worn by a girl or woman. English = blouse.",
@@ -56,5 +53,8 @@
     "4. A piece of clothing that you wear on the top half of your body. It has short sleeves, no collar, and no buttons down the front. English = T-shirt."
   ],
   "idGloss": "shirt.1a",
-  "oldEntry": "Popular explanation: holding on to or indicating material."
+  "oldEntry": "Popular explanation: holding on to or indicating material.",
+  "seeAlso": [
+    "dress.1a"
+  ]
 }

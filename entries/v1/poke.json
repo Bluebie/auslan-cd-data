@@ -12,19 +12,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "poke",
     "jab",
     "prod"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 666,
   "recordNumber": 388,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -39,10 +38,11 @@
     "3. To keep on telling someone the same thing repeatedly in an aggressive or authoritative way which is rude and unpleasant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A short sharp movement with your finger into the shoulder or upper part of the torso of someone. English = prod, jab, poke."
   ],
   "idGloss": "poke",
-  "oldEntry": "Popular explanation: poking oneself."
+  "oldEntry": "Popular explanation: poking oneself.",
+  "seeAlso": []
 }

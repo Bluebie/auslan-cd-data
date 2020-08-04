@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "upset"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2507,
   "recordNumber": 1393,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. To be unhappy or disappointed because something unpleasant has happened to you. English = (be) upset."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A situation that causes you to be unhappy or disappointed because something unpleasant has happened to you. English = upset."
   ],
   "idGloss": "upset.1",
-  "oldEntry": "Popular explanation: emotions rising."
+  "oldEntry": "Popular explanation: emotions rising.",
+  "seeAlso": []
 }

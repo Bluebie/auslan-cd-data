@@ -14,22 +14,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "congestion",
     "crowded"
   ],
   "deictic": [],
-  "cf": [
-    "class.1a",
-    "audience.1",
-    "attend.1a"
-  ],
   "signNumber": 3022,
   "recordNumber": 1729,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -44,10 +39,15 @@
     "1. Of a place, to be full of people. English = (be) crowded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The situation in which a place is so crowded with traffic or people that normal movement is impossible. English = congestion."
   ],
   "idGloss": "crowded.2",
-  "oldEntry": "Popular explanation: a tightly grouped crowd of people."
+  "oldEntry": "Popular explanation: a tightly grouped crowd of people.",
+  "seeAlso": [
+    "class.1a",
+    "audience.1",
+    "attend.1a"
+  ]
 }

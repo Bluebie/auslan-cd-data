@@ -10,18 +10,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "advanced",
     "developed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5140,
   "recordNumber": 3101,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,8 +39,9 @@
     "3. Of a country, to have reached a high level of industrial or technological development. English = (be) advanced, (be) developed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "advanced.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

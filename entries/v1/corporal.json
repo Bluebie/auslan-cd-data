@@ -6,19 +6,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corporal"
   ],
   "deictic": [],
-  "cf": [
-    "sergeant"
-  ],
   "signNumber": 1622,
   "recordNumber": 962,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -29,10 +26,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An officer of low rank in the army. English = corporal."
   ],
   "idGloss": "corporal",
-  "oldEntry": "Popular explanation: a corporal's stripes."
+  "oldEntry": "Popular explanation: a corporal's stripes.",
+  "seeAlso": [
+    "sergeant"
+  ]
 }

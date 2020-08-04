@@ -12,22 +12,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "side",
     "beside"
   ],
   "deictic": [],
-  "cf": [
-    "front.1",
-    "front.2",
-    "back.1"
-  ],
   "signNumber": 3420,
   "recordNumber": 1994,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,11 +35,16 @@
     "1. To be located next to the side of a person. English = beside."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The position to the left or right of something, rather than in front of it or behind it. English = side.",
     "2. The parts of your body under your arms from your armpits down to your hips. English = side, sides."
   ],
   "idGloss": "side",
-  "oldEntry": "Popular explanation: the side of body."
+  "oldEntry": "Popular explanation: the side of body.",
+  "seeAlso": [
+    "front.1",
+    "front.2",
+    "back.1"
+  ]
 }

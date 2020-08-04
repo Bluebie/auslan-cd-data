@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "line-umpire",
     "linesman"
   ],
   "deictic": [],
-  "cf": [
-    "referee.1",
-    "referee.2"
-  ],
   "signNumber": 6069,
   "recordNumber": 3610,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In soccer, an official on the sidelines who assists the referee or umpire in determining whether the ball is still in play. English = line umpire, linesman."
   ],
   "idGloss": "line-umpire",
-  "oldEntry": "Popular explanation: waving a flag like a line-umpire."
+  "oldEntry": "Popular explanation: waving a flag like a line-umpire.",
+  "seeAlso": [
+    "referee.1",
+    "referee.2"
+  ]
 }

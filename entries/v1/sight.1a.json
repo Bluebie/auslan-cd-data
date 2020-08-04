@@ -26,9 +26,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "eyes",
     "eyesight",
@@ -43,10 +43,9 @@
     "visual"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 522,
   "recordNumber": 292,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -67,7 +66,7 @@
     "4. To create a picture in your mind of or about something; to relate to the eyes, sight or vision. English = visualise; (be) visual."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The two things in your face that you see with. English = eyes.",
     "2. Your ability to see; your ability to see clearly. English = eyesight, sight; vision.",
@@ -75,5 +74,6 @@
     "4. Something which you see which causes you to believe that something is true or has really happened. English = evidence, proof."
   ],
   "idGloss": "sight.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

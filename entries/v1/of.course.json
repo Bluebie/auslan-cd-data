@@ -10,16 +10,15 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "of course",
     "certainly",
     "obviously"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4717,
   "recordNumber": 2851,
   "signVisualComposition": "KNOW + RIGHT",
@@ -37,8 +36,9 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "of.course",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -7,14 +7,13 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "first aid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 727,
   "recordNumber": 419,
   "signVisualComposition": "FIRST + HOSPITAL",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Simple medical treatment which is given as soon as possible to a person who is injured or who has suddenly become ill. English = first aid."
   ],
   "idGloss": "first aid",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

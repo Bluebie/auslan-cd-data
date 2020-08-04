@@ -11,20 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "point",
     "tip"
   ],
   "deictic": [],
-  "cf": [
-    "toward"
-  ],
   "signNumber": 1039,
   "recordNumber": 608,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -38,11 +35,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The thin sharp edge of something like a pin, needle, or knife. English = point.",
     "2. The end of something that is long and thin. English = tip."
   ],
   "idGloss": "point.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "toward"
+  ]
 }

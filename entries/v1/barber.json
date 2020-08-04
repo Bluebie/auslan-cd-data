@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "barber"
   ],
   "deictic": [],
-  "cf": [
-    "sheep.shearer"
-  ],
   "signNumber": 5097,
   "recordNumber": 3075,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -38,12 +35,15 @@
     "1. To cut hair quite short, using clippers."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A man who cuts men's hair. English = barber.",
     "2. A shop or a place where a barber works. English = barber's.",
     "3. A very short haircut, especially on a man."
   ],
   "idGloss": "barber",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sheep.shearer"
+  ]
 }

@@ -14,19 +14,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "across",
     "cross",
     "run over"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4072,
   "recordNumber": 2440,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +42,9 @@
     "3. To go over something in a vehicle, especially a car, which you are not meant to drive over (such as a person or an animal). English = run over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "across.surface",
-  "oldEntry": "Popular explanation: something going across and over something."
+  "oldEntry": "Popular explanation: something going across and over something.",
+  "seeAlso": []
 }

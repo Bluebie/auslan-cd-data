@@ -17,9 +17,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hide out",
     "concealment",
@@ -28,10 +28,9 @@
     "conceal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4281,
   "recordNumber": 2601,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -48,7 +47,7 @@
     "1. To put something in a place where it cannot easily be seen or found. English = hide, conceal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where someone or something can be hidden, or where they are hiding. English = hiding place.",
     "2. A place where someone goes secretly because they do not want anyone to find them, for example if they are running away from the police. English = hide-out.",
@@ -56,5 +55,6 @@
     "4. A game in which one player covers his or her eyes until the other players have hidden themselves, and then he or she tries to find them. English = hide-and-seek."
   ],
   "idGloss": "hide.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

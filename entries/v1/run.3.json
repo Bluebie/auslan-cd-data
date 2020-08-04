@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "run"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5908,
   "recordNumber": 3514,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To move quickly, leaving the ground during each stride, because you are in a hurry or because you are taking part in a race. English = run."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "run.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

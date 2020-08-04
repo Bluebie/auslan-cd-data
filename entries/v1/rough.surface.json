@@ -12,22 +12,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rough",
     "bumpy",
     "uneven"
   ],
   "deictic": [],
-  "cf": [
-    "wave.1a",
-    "mountain.1a"
-  ],
   "signNumber": 3434,
   "recordNumber": 2005,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,10 +40,14 @@
     "1. To have lots of bumps and raised parts on a surface. English = (be) rough, (be) bumpy, (be) uneven."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A surface which is sloping or curved, and has raised parts; an uneven surface, a rough surface."
   ],
   "idGloss": "rough.surface",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wave.1a",
+    "mountain.1a"
+  ]
 }

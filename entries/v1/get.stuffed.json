@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A vulgar, crude and insulting sign.",
   "english": [
     "get stuffed"
   ],
   "deictic": [],
-  "cf": [
-    "get.lost.2"
-  ],
   "signNumber": 6526,
   "recordNumber": 3883,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -35,8 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "get.stuffed",
-  "oldEntry": "Popular explanation: culturally shared obscene gesture."
+  "oldEntry": "Popular explanation: culturally shared obscene gesture.",
+  "seeAlso": [
+    "get.lost.2"
+  ]
 }

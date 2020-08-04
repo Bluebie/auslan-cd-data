@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "HIERARCHY + B",
-  "queries": "",
+  "queries": null,
   "english": [
     "bureaucracy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 142,
   "recordNumber": 76,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An administrative system operated by a large number of officials following rules and procedures. English = bureaucracy."
   ],
   "idGloss": "bureaucracy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

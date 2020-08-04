@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shoulder"
   ],
   "deictic": [],
-  "cf": [
-    "pat.1a"
-  ],
   "signNumber": 3320,
   "recordNumber": 1941,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body between your neck and the top of your arm. English = shoulder."
   ],
   "idGloss": "shoulder.1a",
-  "oldEntry": "Popular explanation: the shoulder."
+  "oldEntry": "Popular explanation: the shoulder.",
+  "seeAlso": [
+    "pat.1a"
+  ]
 }

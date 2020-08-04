@@ -12,20 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gorilla"
   ],
   "deictic": [],
-  "cf": [
-    "monkey.1a",
-    "monkey.2"
-  ],
   "signNumber": 5845,
   "recordNumber": 3477,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -38,10 +34,14 @@
     "1. To beat your chest like a gorilla."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An animal that looks like a very large monkey with a black face and black fur. It lives in African forests. English = gorilla."
   ],
   "idGloss": "gorilla",
-  "oldEntry": "Popular explanation: beating the chest."
+  "oldEntry": "Popular explanation: beating the chest.",
+  "seeAlso": [
+    "monkey.1a",
+    "monkey.2"
+  ]
 }

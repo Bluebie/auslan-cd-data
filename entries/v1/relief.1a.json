@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relief",
     "calm",
@@ -25,12 +25,9 @@
     "relieved"
   ],
   "deictic": [],
-  "cf": [
-    "depressed.1a"
-  ],
   "signNumber": 3439,
   "recordNumber": 2007,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -49,11 +46,14 @@
     "2. To feel quiet and peaceful and not show or experience any worry or excitement. English = (be) calm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The glad feeling you have because something unpleasant has not happened or is no longer happening. English = relief, calm.",
     "2. The state of quietness and peacefulness when you do not show or experience any worry or excitement. English = calm, calmness."
   ],
   "idGloss": "relief.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "depressed.1a"
+  ]
 }

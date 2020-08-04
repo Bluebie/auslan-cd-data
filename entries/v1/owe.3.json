@@ -11,17 +11,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "owe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1172,
   "recordNumber": 687,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -36,8 +35,9 @@
     "1. To be obliged to pay someone a sum of money because they have earlier lent it to you and you have not yet paid it back. English = owe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "owe.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

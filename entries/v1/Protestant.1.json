@@ -16,9 +16,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Protestant",
     "Protestantism",
@@ -26,12 +26,9 @@
     "Christianity"
   ],
   "deictic": [],
-  "cf": [
-    "Catholic.1"
-  ],
   "signNumber": 3133,
   "recordNumber": 1810,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -45,7 +42,7 @@
     "2. To be someone or to relate to someone who believes in Jesus Christ and follows his teachings. English = (be) Christian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who belongs to the branch of the Christian church which separated from the Catholic church in the sixteenth century. English = Protestant.",
     "2. The set of Christian beliefs that are held by Protestants. English = Protestantism.",
@@ -53,5 +50,8 @@
     "4. A religion that is based on the teachings of Jesus Christ and the belief that he was the son of God. English = Christianity."
   ],
   "idGloss": "Protestant.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "Catholic.1"
+  ]
 }

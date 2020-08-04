@@ -16,19 +16,16 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "ribbon",
     "bow"
   ],
   "deictic": [],
-  "cf": [
-    "knot.1a"
-  ],
   "signNumber": 2084,
   "recordNumber": 1210,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -44,11 +41,14 @@
     "1. To tie a ribbon into a bow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, narrow piece of cloth that you use for tying things together or as a decoration. English = ribbon.",
     "2. A knot with two loops and two loose ends that is used in tying shoelaces and ribbons. English = bow."
   ],
   "idGloss": "ribbon.1a",
-  "oldEntry": "Popular explanation: a length of ribbon."
+  "oldEntry": "Popular explanation: a length of ribbon.",
+  "seeAlso": [
+    "knot.1a"
+  ]
 }

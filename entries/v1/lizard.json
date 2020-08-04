@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lizard"
   ],
   "deictic": [],
-  "cf": [
-    "snake",
-    "spiteful"
-  ],
   "signNumber": 6374,
   "recordNumber": 3810,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,10 +32,14 @@
     "1. Of a lizard, to flick out the tongue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small animal with short legs, a long tail, and a rough dry skin. English = lizard."
   ],
   "idGloss": "lizard",
-  "oldEntry": "Popular explanation: the tongue of a lizard."
+  "oldEntry": "Popular explanation: the tongue of a lizard.",
+  "seeAlso": [
+    "snake",
+    "spiteful"
+  ]
 }

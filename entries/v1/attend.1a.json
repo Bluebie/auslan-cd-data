@@ -20,9 +20,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attendance",
     "assembly",
@@ -32,13 +32,9 @@
     "congregate"
   ],
   "deictic": [],
-  "cf": [
-    "class.1a",
-    "audience.1"
-  ],
   "signNumber": 2663,
   "recordNumber": 1480,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -54,12 +50,16 @@
     "2. Of a large number of people, to gather together in one place. English = assemble, form a crowd, crowd together, congregate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The number of people who are present at a meeting or a performance. English = attendance.",
     "2. A large gathering or meeting of people. English = assembly, crowd.",
     "3. The gathering of people in one place."
   ],
   "idGloss": "attend.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "class.1a",
+    "audience.1"
+  ]
 }

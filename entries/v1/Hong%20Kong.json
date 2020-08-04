@@ -7,17 +7,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Hong Kong"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 32.1,
   "recordNumber": 19,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A city in South-East China at the mouth of the Pearl River, called Hong Kong."
   ],
   "idGloss": "Hong Kong",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

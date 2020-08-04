@@ -8,17 +8,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "IRISH-G + SPEAK",
-  "queries": "",
+  "queries": null,
   "english": [
     "gospel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 274,
   "recordNumber": 160,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the four books of the Bible which describe the life and teachings of Jesus Christ. English = gospel."
   ],
   "idGloss": "gospel",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

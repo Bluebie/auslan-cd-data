@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "button up"
   ],
   "deictic": [],
-  "cf": [
-    "button.1a",
-    "zip.1a"
-  ],
   "signNumber": 382,
   "recordNumber": 205,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -37,8 +33,12 @@
     "1. To fasten the buttons on an item of clothing, especially a shirt. Idiomatic English = do up buttons, button up"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "do.up.buttons",
-  "oldEntry": "Popular explanation: twisting buttons into button holes."
+  "oldEntry": "Popular explanation: twisting buttons into button holes.",
+  "seeAlso": [
+    "button.1a",
+    "zip.1a"
+  ]
 }

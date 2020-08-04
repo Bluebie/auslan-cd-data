@@ -16,20 +16,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trophy",
     "award"
   ],
   "deictic": [],
-  "cf": [
-    "prize"
-  ],
   "signNumber": 6624,
   "recordNumber": 3942,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 15.1,
   "primaryLocation": 15,
@@ -45,11 +42,14 @@
     "1. To give or present a trophy or award to someone. English = award."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A prize, for example a silver cup or shield, that is given to the winner of a competition or race. English = trophy.",
     "2. A prize or certificate that a person is given for doing something well. English = award."
   ],
   "idGloss": "trophy.1",
-  "oldEntry": "Popular explanation: the handles on the side of a trophy."
+  "oldEntry": "Popular explanation: the handles on the side of a trophy.",
+  "seeAlso": [
+    "prize"
+  ]
 }

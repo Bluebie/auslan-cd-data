@@ -20,8 +20,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "fact",
     "certainty",
@@ -32,10 +32,9 @@
     "accurate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4292,
   "recordNumber": 2611,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,12 +53,13 @@
     "3. To have the ability to perform a task without making a mistake; to have the quality of giving a true idea of what someone or something is like. English = (be) accurate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of information that is true. English = fact.",
     "2. The feeling that you have no doubt that something is in agreement with the fact. English = certainty.",
     "3. The ability to perform a task without making a mistake; the quality of being true or correct. English = accuracy."
   ],
   "idGloss": "fact",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

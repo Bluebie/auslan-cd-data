@@ -9,22 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "binoculars",
     "field glasses"
   ],
   "deictic": [],
-  "cf": [
-    "telescope",
-    "microscope.1",
-    "focus"
-  ],
   "signNumber": 120,
   "recordNumber": 63,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 4,
@@ -39,10 +34,15 @@
     "1. To look through binoculars, or to adjust them so that you can clearly see the thing you want to look at."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An instrument which is made up of two small telescopes joined together side by side, which you look through in order to see things which are a long way away. English = binoculars, field glasses."
   ],
   "idGloss": "binoculars",
-  "oldEntry": "Popular explanation: holding a pair of binoculars to the eyes."
+  "oldEntry": "Popular explanation: holding a pair of binoculars to the eyes.",
+  "seeAlso": [
+    "telescope",
+    "microscope.1",
+    "focus"
+  ]
 }

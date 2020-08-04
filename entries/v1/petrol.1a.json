@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "petrol"
   ],
   "deictic": [],
-  "cf": [
-    "smell.1a"
-  ],
   "signNumber": 2168,
   "recordNumber": 1253,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -38,10 +35,13 @@
     "1. To fill up the fuel tank a motor vehicle with petrol."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A liquid which is used as a fuel for motor vehicles. English = petrol."
   ],
   "idGloss": "petrol.1a",
-  "oldEntry": "Popular explanation: inserting nozzle into petrol tank."
+  "oldEntry": "Popular explanation: inserting nozzle into petrol tank.",
+  "seeAlso": [
+    "smell.1a"
+  ]
 }

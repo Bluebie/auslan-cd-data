@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "purl"
   ],
   "deictic": [],
-  "cf": [
-    "crochet",
-    "knit.1a",
-    "garter"
-  ],
   "signNumber": 1009,
   "recordNumber": 588,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of stitch found in knitting. It is the inversion of a normal, plain or garter stitch. English = purl."
   ],
   "idGloss": "purl",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "crochet",
+    "knit.1a",
+    "garter"
+  ]
 }

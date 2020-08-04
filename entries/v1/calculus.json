@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "MATHEMATICS + C",
-  "queries": "",
+  "queries": null,
   "english": [
     "calculus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4589,
   "recordNumber": 2779,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A branch of advanced mathematics which deals with variable quantities. English = calculus."
   ],
   "idGloss": "calculus",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

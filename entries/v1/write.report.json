@@ -13,17 +13,13 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "report"
   ],
   "deictic": [],
-  "cf": [
-    "sentence.1a",
-    "write.1a"
-  ],
   "signNumber": 6434,
   "recordNumber": 3834,
   "signVisualComposition": "PENCIL + WRITE.DOWN",
@@ -41,10 +37,14 @@
     "1. To write down an account of an event or situation; write a report."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A written account of an event or situation. English = report."
   ],
   "idGloss": "write.report",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sentence.1a",
+    "write.1a"
+  ]
 }

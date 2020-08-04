@@ -21,9 +21,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cooperation",
     "fellowship",
@@ -36,10 +36,9 @@
     "harmonise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4833,
   "recordNumber": 2919,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -58,12 +57,13 @@
     "2. To share the same idea or opinion with a number of people. English = agree, harmonise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of working or acting together with other people for a purpose. English = cooperation.",
     "2. The feeling of friendship people have when they are doing something together. English = fellowship, friendship, mateship.",
     "3. The same opinion or idea about something shared between several people. English = agreement, accord."
   ],
   "idGloss": "cooperate",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

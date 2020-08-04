@@ -13,19 +13,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ram",
     "sheep",
     "Aries"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5716,
   "recordNumber": 3382,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 1,
@@ -38,12 +37,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An adult male sheep. English = ram.",
     "2. A farm animal with a thick woolly coat. They are kept for their wool or for their meat. English = sheep.",
     "3. A constellation and sign of the zodiac. English = Aries."
   ],
   "idGloss": "ram",
-  "oldEntry": "Popular explanation: the curved horns of a ram."
+  "oldEntry": "Popular explanation: the curved horns of a ram.",
+  "seeAlso": []
 }

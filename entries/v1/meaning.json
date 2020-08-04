@@ -13,9 +13,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "meaning",
     "significance",
@@ -23,10 +23,9 @@
     "signify"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4249.1,
   "recordNumber": 2577,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. Of a unit of language (word or sign) or a whole expression, to refer to a thing or idea or express something. English = mean. Formal English = signify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The thing that a single unit of a language (word or sign) or a whole expression refers to or expresses. Often this 'thing' is just other words and signs, rather than something you can point at. English = meaning, significance."
   ],
   "idGloss": "meaning",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

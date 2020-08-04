@@ -28,9 +28,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "identity",
     "identicalness",
@@ -46,10 +46,9 @@
     "deuce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1000,
   "recordNumber": 581,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -67,7 +66,7 @@
     "4. To know or recognise something because you have seen, heard, or experienced it before many times; for an experience to be the same as your past experiences. English = (be) used to, (be) familiar with. Formal English = (be) acclimatised to."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of two things being exactly alike in all respects. English = identity, identicalness.",
     "2. In a match or competition, an equal score between two people or two teams so that nobody wins. English = draw, tie; deuce (in tennis).",
@@ -75,5 +74,6 @@
     "4. The knowing of something because you have experienced it before or because it is the same as many of your past experiences. English = familiarity. Formal English = acclimatisation, habituation."
   ],
   "idGloss": "used.to.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

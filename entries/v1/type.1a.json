@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "typewriter",
     "typist",
@@ -32,10 +32,9 @@
     "typed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3044,
   "recordNumber": 1745,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -53,12 +52,13 @@
     "2. Of a document, to be written on a typewriter. English = (be) typewritten, (be) typed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine that you use to write things in print. It has a series of keys that you press in order to write the letters, numbers, or other characters on the paper. English = typewriter.",
     "2. Someone whose job is typing, usually in an office. English = typist.",
     "3. A room or a part of a building where people work sitting at desks. English = office."
   ],
   "idGloss": "type.1a",
-  "oldEntry": "Popular explanation: typing something."
+  "oldEntry": "Popular explanation: typing something.",
+  "seeAlso": []
 }

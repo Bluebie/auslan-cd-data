@@ -13,20 +13,17 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "trophy",
     "cup",
     "award"
   ],
   "deictic": [],
-  "cf": [
-    "sculpture.2"
-  ],
   "signNumber": 4818,
   "recordNumber": 2909,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -40,10 +37,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A prize in the shape of a shield or cup, that is given to the winner of a competition or race. English = trophy, cup, award."
   ],
   "idGloss": "trophy.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sculpture.2"
+  ]
 }

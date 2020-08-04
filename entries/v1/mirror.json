@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mirror"
   ],
   "deictic": [],
-  "cf": [
-    "shine.1a"
-  ],
   "signNumber": 3177,
   "recordNumber": 1845,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A flat piece of glass which reflects light, so that when you look at it you can see yourself reflected in it. English = mirror."
   ],
   "idGloss": "mirror",
-  "oldEntry": "Popular explanation: holding a mirror in front of the face."
+  "oldEntry": "Popular explanation: holding a mirror in front of the face.",
+  "seeAlso": [
+    "shine.1a"
+  ]
 }

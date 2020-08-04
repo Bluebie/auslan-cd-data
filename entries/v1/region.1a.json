@@ -23,9 +23,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "region",
     "district",
@@ -39,13 +39,9 @@
     "divisionally"
   ],
   "deictic": [],
-  "cf": [
-    "city.1",
-    "scones"
-  ],
   "signNumber": 3084,
   "recordNumber": 1771,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -61,12 +57,16 @@
     "2. To be located in each of the parts of an organisation, institution or some other entity which together make up the whole. English = (be) divisional, (be) departmental."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of, or a number of, large areas of land that are different from other areas of land, for example because they are different parts of a country or because they have a particular geographical features. English = region, regions; district, districts.",
     "2. One of, or a number of, the parts of an organisation, institution or some other entity which together make up the whole. English = division, divisions, department, departments.",
     "3. One of, or a number of, the separate areas of a large town or city that are not close to the centre. People often work in the centre and live in one of these areas. English = suburb, suburbs."
   ],
   "idGloss": "region.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "city.1",
+    "scones"
+  ]
 }

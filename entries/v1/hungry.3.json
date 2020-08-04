@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hungry"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 657,
   "recordNumber": 383,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,8 +35,9 @@
     "1. To want to eat food. English = (be) hungry."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hungry.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -15,8 +15,8 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Often made with lip patterns similar to saying 'ba-ba'.",
   "english": [
     "strange",
@@ -26,10 +26,9 @@
     "bizarre"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3007,
   "recordNumber": 1716,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -47,8 +46,9 @@
     "2. To be very odd and strange. English = (be) bizarre."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "peculiar",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

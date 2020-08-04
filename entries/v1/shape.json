@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "FIGURE + S",
-  "queries": "",
+  "queries": null,
   "english": [
     "shape"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5788,
   "recordNumber": 3432,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The appearance of the outside edges of an object or area, for example whether it is round, square, curved, or wide. English = shape."
   ],
   "idGloss": "shape",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,18 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "neighbour",
     "next door"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4868,
   "recordNumber": 2944,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -48,5 +47,6 @@
     "2. The house of the people who live immediately beside your house. English = the place next door, next door."
   ],
   "idGloss": "neighbour.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

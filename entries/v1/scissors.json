@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scissors"
   ],
   "deictic": [],
-  "cf": [
-    "cut.out",
-    "cut.with.scissors"
-  ],
   "signNumber": 1605,
   "recordNumber": 955,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small tool with two sharp blades which are screwed together. You use them for cutting things such as paper and cloth. English = scissors."
   ],
   "idGloss": "scissors",
-  "oldEntry": "Popular explanation: the blades of a pair of scissors."
+  "oldEntry": "Popular explanation: the blades of a pair of scissors.",
+  "seeAlso": [
+    "cut.out",
+    "cut.with.scissors"
+  ]
 }

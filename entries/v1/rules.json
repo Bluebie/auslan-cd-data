@@ -8,18 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "rules"
   ],
   "deictic": [],
-  "cf": [
-    "list.1"
-  ],
   "signNumber": 4332,
   "recordNumber": 2639,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
     "1. To do something, especially follow work practices, according to rules which have been set down; to follow the rules."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Instructions that tell you what you are allowed to do and what you are not allowed to do. English = rules."
   ],
   "idGloss": "rules",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "list.1"
+  ]
 }

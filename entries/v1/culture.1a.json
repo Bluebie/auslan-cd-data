@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SURROUND + C",
-  "queries": "",
+  "queries": null,
   "english": [
     "culture"
   ],
   "deictic": [],
-  "cf": [
-    "environment",
-    "situation"
-  ],
   "signNumber": 5388,
   "recordNumber": 3219,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +30,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ideas, customs, and art that are produced by a particular society. English = culture."
   ],
   "idGloss": "culture.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "environment",
+    "situation"
+  ]
 }

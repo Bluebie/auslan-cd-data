@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottom",
     "bed",
@@ -28,10 +28,9 @@
     "river bed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4124,
   "recordNumber": 2483,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,11 +50,12 @@
     "2. To be located on the ground at the bottom of the sea or a river."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The lowest part of something; the lowest layer or thing in a series; the least powerful or important level in an organisation; the worst student in a class. English = bottom.",
     "2. The ground at the bottom of the sea or a river. English = sea bed, river bed."
   ],
   "idGloss": "bottom.1",
-  "oldEntry": "Popular explanation: one level or surface below another level or surface."
+  "oldEntry": "Popular explanation: one level or surface below another level or surface.",
+  "seeAlso": []
 }

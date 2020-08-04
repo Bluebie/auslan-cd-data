@@ -17,9 +17,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fare",
     "pay",
@@ -27,10 +27,9 @@
     "afford"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 346,
   "recordNumber": 191,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -48,10 +47,11 @@
     "2. To have enough money to be able to pay for something. English = afford."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The money you pay for a journey in a taxi, train, bus or aeroplane. English = fare."
   ],
   "idGloss": "afford",
-  "oldEntry": "Popular explanation: taking money out of a pocket and paying someone."
+  "oldEntry": "Popular explanation: taking money out of a pocket and paying someone.",
+  "seeAlso": []
 }

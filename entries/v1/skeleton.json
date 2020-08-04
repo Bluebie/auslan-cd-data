@@ -14,9 +14,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skeleton",
     "ribs",
@@ -24,10 +24,9 @@
     "emaciated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3025,
   "recordNumber": 1732,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -40,12 +39,13 @@
     "1. To be extremely thin and weak because of illness or lack of food. English = (be) emaciated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The framework of bones which supports and protects your organs and muscles. English = skeleton.",
     "2. The curved bones that go from your backbone to your chest. English = ribs.",
     "3. The structure of ribs in your chest. English = rib cage."
   ],
   "idGloss": "skeleton",
-  "oldEntry": "Popular explanation: the rib cage."
+  "oldEntry": "Popular explanation: the rib cage.",
+  "seeAlso": []
 }

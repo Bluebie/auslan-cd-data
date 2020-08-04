@@ -6,19 +6,16 @@
     "sym",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "community"
   ],
   "deictic": [],
-  "cf": [
-    "town.1"
-  ],
   "signNumber": 3644,
   "recordNumber": 2146,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -29,10 +26,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The people who live in a particular area, or a particular group of people in society who are alike in some way. English = community."
   ],
   "idGloss": "community.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "town.1"
+  ]
 }

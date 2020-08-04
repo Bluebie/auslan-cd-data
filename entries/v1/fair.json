@@ -17,19 +17,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LOOK/SEE + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "fair",
     "acceptable",
     "average"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5088,
   "recordNumber": 3071,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -50,10 +49,11 @@
     "3. To look like or appear to be. English = seem."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which is fair or reasonable."
   ],
   "idGloss": "fair",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

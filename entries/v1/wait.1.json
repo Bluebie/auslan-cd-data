@@ -13,20 +13,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wait"
   ],
   "deictic": [],
-  "cf": [
-    "stay.1a",
-    "boarder"
-  ],
   "signNumber": 3390,
   "recordNumber": 1980,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,10 +40,14 @@
     "1. To spend some time, usually doing very little and staying in the one place, before something happens. English = wait."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of time in which you do very little, before something happens. English = wait."
   ],
   "idGloss": "wait.1",
-  "oldEntry": "Popular explanation: stay there."
+  "oldEntry": "Popular explanation: stay there.",
+  "seeAlso": [
+    "stay.1a",
+    "boarder"
+  ]
 }

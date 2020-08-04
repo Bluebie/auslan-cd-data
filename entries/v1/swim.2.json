@@ -17,9 +17,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "swimming",
     "swim",
@@ -27,10 +27,9 @@
     "freestyle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3872,
   "recordNumber": 2303,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,12 +47,13 @@
     "1. To move through the water by making movements with your arms and legs. English = swim."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The sport or recreation in which people move through the water by making movements with your arms and legs. English = swimming.",
     "2. A short period of activity during which people move through the water by making movements with your arms and legs. English = swim.",
     "3. A style of swimming. English = overarm, freestyle, Australian crawl."
   ],
   "idGloss": "swim.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crawl"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3069,
   "recordNumber": 1763,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 16,
@@ -35,10 +34,11 @@
     "1. To move forward on your hands and knees. Children do this before they learn to walk. English = crawl."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Movement forward on your hands and knees, like a baby. English = crawl."
   ],
   "idGloss": "crawl.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

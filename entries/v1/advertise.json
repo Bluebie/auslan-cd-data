@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "advertisement",
     "publicity",
@@ -29,12 +29,9 @@
     "commercial"
   ],
   "deictic": [],
-  "cf": [
-    "trumpet"
-  ],
   "signNumber": 5731,
   "recordNumber": 3395,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 10,
@@ -51,11 +48,14 @@
     "2. To make a fact or event widely known to the public. English = publicise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An announcement in a newspaper, on television, or on a poster about something such as a product, event, or job vacancy. English = advertisement, commercial.",
     "2. Information or actions intended to attract the public's attention to someone or something. English = publicity."
   ],
   "idGloss": "advertise",
-  "oldEntry": "Popular explanation: blowing a trumpet."
+  "oldEntry": "Popular explanation: blowing a trumpet.",
+  "seeAlso": [
+    "trumpet"
+  ]
 }

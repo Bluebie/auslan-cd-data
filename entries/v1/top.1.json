@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "top",
     "majority",
@@ -30,10 +30,9 @@
     "major"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2810,
   "recordNumber": 1576,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -54,12 +53,13 @@
     "4. To be the largest or biggest thing in a particular situation. English = (be) major."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The highest point, part or surface of something. English = top.",
     "2. The main thing in a particular situation.",
     "3. The largest or biggest part of a thing in a particular situation. English = majority."
   ],
   "idGloss": "top.1",
-  "oldEntry": "Popular explanation: the top of something."
+  "oldEntry": "Popular explanation: the top of something.",
+  "seeAlso": []
 }

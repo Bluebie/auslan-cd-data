@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pencil"
   ],
   "deictic": [],
-  "cf": [
-    "write.1a",
-    "biro"
-  ],
   "signNumber": 6368,
   "recordNumber": 3805,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -34,10 +30,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An object that you write or draw with. It consists of a thin piece of wood with a rod of graphite in the middle. English = pencil."
   ],
   "idGloss": "pencil",
-  "oldEntry": "Popular explanation: licking a pencil."
+  "oldEntry": "Popular explanation: licking a pencil.",
+  "seeAlso": [
+    "write.1a",
+    "biro"
+  ]
 }

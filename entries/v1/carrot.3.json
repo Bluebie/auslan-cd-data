@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "carrot"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5077,
   "recordNumber": 3062,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, thin, orange-coloured vegetable that grows under the ground. English = carrot."
   ],
   "idGloss": "carrot.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

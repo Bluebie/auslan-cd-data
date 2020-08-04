@@ -9,14 +9,13 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "In other areas, Auslan signers appear to form 'homework' as in English (i.e., as a compound of 'home' + 'work').",
   "english": [
     "homework"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1756,
   "recordNumber": 1053,
   "signVisualComposition": "NIGHT + FINGERSPELL",
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The work that teachers give pupils to do at home. English = homework."
   ],
   "idGloss": "homework",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

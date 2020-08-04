@@ -9,16 +9,13 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "newsagent"
   ],
   "deictic": [],
-  "cf": [
-    "newspaper.1"
-  ],
   "signNumber": 5787,
   "recordNumber": 3431,
   "signVisualComposition": "NEWSPAPER + SHOP",
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A shop which sells newspapers and magazines, and often cigarettes, sweets, and stationery. English = newsagent, newsagent's."
   ],
   "idGloss": "newsagent",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "newspaper.1"
+  ]
 }

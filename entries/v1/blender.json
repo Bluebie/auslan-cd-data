@@ -24,8 +24,8 @@
     "engtf9",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The subordinate hand may be held stationary.",
   "english": [
     "spinning",
@@ -39,12 +39,9 @@
     "spin dry"
   ],
   "deictic": [],
-  "cf": [
-    "spin-drier.1a"
-  ],
   "signNumber": 1087,
   "recordNumber": 637,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -68,5 +65,8 @@
     "4. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
   ],
   "idGloss": "blender",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "spin-drier.1a"
+  ]
 }

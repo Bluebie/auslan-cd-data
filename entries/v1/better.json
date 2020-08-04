@@ -14,20 +14,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "better"
   ],
   "deictic": [],
-  "cf": [
-    "best",
-    "excellent"
-  ],
   "signNumber": 4866,
   "recordNumber": 2942,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -47,8 +43,12 @@
     "2. To be not as ill as you were before; to be less sick. English = (be) better, get better."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "better",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "best",
+    "excellent"
+  ]
 }

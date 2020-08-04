@@ -10,18 +10,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "mouse"
   ],
   "deictic": [],
-  "cf": [
-    "mouse.1a"
-  ],
   "signNumber": 4694,
   "recordNumber": 2837,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very small furry animal with a long tail. They sometimes live in people's houses. English = mouse."
   ],
   "idGloss": "mouse.2",
-  "oldEntry": "Popular explanation: darting around a corner."
+  "oldEntry": "Popular explanation: darting around a corner.",
+  "seeAlso": [
+    "mouse.1a"
+  ]
 }

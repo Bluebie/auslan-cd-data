@@ -26,9 +26,9 @@
     "engtf12",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "foolishness",
     "idiocy",
@@ -44,10 +44,9 @@
     "crazy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5971,
   "recordNumber": 3551,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -65,12 +64,13 @@
     "2. To fool or take advantage of someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour which is foolish, silly or strange. English = foolishness, idiocy, craziness, stupidity.",
     "2. A person whose behaviour is foolish, silly or strange. English = fool, idiot, madman. Informal English = loony.",
     "3. Something written or said that you think is untrue, foolish or stupid. English = nonsense."
   ],
   "idGloss": "stupid.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

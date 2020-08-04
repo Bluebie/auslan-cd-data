@@ -20,9 +20,9 @@
     "engtf8",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sameness",
     "same",
@@ -34,10 +34,9 @@
     "also"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 993,
   "recordNumber": 575,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -56,10 +55,11 @@
     "2. For two things, qualities, quantities or actions to be exactly alike in some way. The sign is put between two nouns. English = (be) the same as, (be) like."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of two or more things, qualities, quantities or actions being exactly alike in some way. English = sameness."
   ],
   "idGloss": "same.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

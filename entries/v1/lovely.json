@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beauty",
     "loveliness",
@@ -31,10 +31,9 @@
     "beautify"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3290,
   "recordNumber": 1921,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -51,11 +50,12 @@
     "2. To make something attractive, pleasant and pleasing to the eye and other senses. English = beautify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being attractive, pleasant and pleasing to the eye and other senses.  English = beauty, loveliness, prettiness.",
     "2. (When speaking of people) the quality of attractiveness found in women. English = beauty, loveliness, prettiness."
   ],
   "idGloss": "lovely",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

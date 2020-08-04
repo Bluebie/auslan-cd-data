@@ -7,17 +7,14 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "flag"
-  ],
   "signNumber": 3982,
   "recordNumber": 2382,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,8 +29,11 @@
     "1. To raise a flag on a flag pole."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "flag.raise",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "flag"
+  ]
 }

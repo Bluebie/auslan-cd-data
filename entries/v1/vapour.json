@@ -17,9 +17,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vapour",
     "smoke",
@@ -29,10 +29,9 @@
     "fume"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2558,
   "recordNumber": 1413,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -48,7 +47,7 @@
     "4. To give off gases that are usually strong and unpleasant smelling. English = fume."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mass of tiny drops of water, other liquids, or tiny particles in the air, which rise up from something. English = vapour.",
     "2. Gas and small bits of solid material that are sent into the air when something burns. English = smoke.",
@@ -56,5 +55,6 @@
     "4. Strong and usually unpleasant smelling gasses that rise up from something. English = fumes."
   ],
   "idGloss": "vapour",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

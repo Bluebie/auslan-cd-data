@@ -15,18 +15,15 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "responsibility",
     "burden",
     "duty"
   ],
   "deictic": [],
-  "cf": [
-    "burden"
-  ],
   "signNumber": 4187.1,
   "recordNumber": 2534,
   "signVisualComposition": "WORK + YOURS",
@@ -47,10 +44,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The obligation that a person has to deal with something or make decisions relating to something and not ignore it or give the work to someone else. English = responsibility, duty."
   ],
   "idGloss": "responsibility.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "burden"
+  ]
 }

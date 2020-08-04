@@ -7,17 +7,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unfold"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3922,
   "recordNumber": 2338,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "1. To unbend a piece of paper or cloth so that it becomes flat again and with one part of it no longer covering another part. English = unfold."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "unfold",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

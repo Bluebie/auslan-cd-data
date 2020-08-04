@@ -14,18 +14,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "seat-belt",
     "buckle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5243,
   "recordNumber": 3147,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 16,
@@ -43,11 +42,12 @@
     "2. To put on a seat belt, to fasten a seat belt, to buckle up a seat belt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strap attached to a seat in a car or an aeroplane. You fasten it across your body in order to prevent yourself being thrown out of the seat if there is a sudden movement. English = seat-belt.",
     "2. A piece of metal or plastic attached to one end of a belt or strap, which is used to fasten it. English = buckle."
   ],
   "idGloss": "buckle.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

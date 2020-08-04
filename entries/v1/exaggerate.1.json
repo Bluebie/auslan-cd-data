@@ -13,19 +13,18 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "exaggeration",
     "exaggerate",
     "embellish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4234,
   "recordNumber": 2562,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,10 +42,11 @@
     "2. To make a story or account more interesting by adding details which are possibly untrue. English = embellish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of making the thing that you are talking about seem bigger, better, or worse than it actually is, usually by adding extra details, or a story which is like that. English = exaggeration."
   ],
   "idGloss": "exaggerate.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

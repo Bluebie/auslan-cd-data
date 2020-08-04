@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nun",
     "habit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 824,
   "recordNumber": 471,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 2,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A member of a female religious community. English = nun.",
     "2. A covering over the head and body which a nun wears. English = habit."
   ],
   "idGloss": "nun.1",
-  "oldEntry": "Popular explanation: the outline of a nun habit."
+  "oldEntry": "Popular explanation: the outline of a nun habit.",
+  "seeAlso": []
 }

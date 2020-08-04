@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "STREET + R",
-  "queries": "",
+  "queries": null,
   "english": [
     "road"
   ],
   "deictic": [],
-  "cf": [
-    "lane.1",
-    "way"
-  ],
   "signNumber": 2210,
   "recordNumber": 1263,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 2.6,
   "primaryLocation": 16,
@@ -37,10 +33,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long piece of hard ground which is built between two places so that people can drive or ride easily from one place to the other. English = road."
   ],
   "idGloss": "road",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lane.1",
+    "way"
+  ]
 }

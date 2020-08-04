@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "clip",
     "peg"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5484,
   "recordNumber": 3257,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -38,10 +37,11 @@
     "1. To fasten things together using a peg or clip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small device, usually made of metal or plastic, that is specially shaped for holding things together. English = clip, peg."
   ],
   "idGloss": "peg.1a",
-  "oldEntry": "Popular explanation: a peg on a line."
+  "oldEntry": "Popular explanation: a peg on a line.",
+  "seeAlso": []
 }

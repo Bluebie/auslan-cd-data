@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bill",
     "receipt"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 888,
   "recordNumber": 509,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -39,5 +38,6 @@
     "2. A piece of paper that you give or send to someone to confirm that you have received money or goods from them. English = receipt."
   ],
   "idGloss": "receipt.1",
-  "oldEntry": "Popular explanation: the outline of a small square."
+  "oldEntry": "Popular explanation: the outline of a small square.",
+  "seeAlso": []
 }

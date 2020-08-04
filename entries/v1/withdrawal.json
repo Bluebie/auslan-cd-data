@@ -12,17 +12,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "withdrawal",
     "withdraw"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2768,
   "recordNumber": 1549,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -36,11 +35,12 @@
     "2. To take money out of your account in a bank. English = withdraw."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The removal of something from a place. English = withdrawal.",
     "2. The taking out of money from your bank account. English = withdrawal."
   ],
   "idGloss": "withdrawal",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,19 +10,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mop"
   ],
   "deictic": [],
-  "cf": [
-    "sweep.1a"
-  ],
   "signNumber": 5825,
   "recordNumber": 3462,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -35,10 +32,13 @@
     "1. To clean a floor with a mop. English = mop."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tool for washing floors. It consists of a sponge or a cluster of pieces of string attached to a long handle. English = mop."
   ],
   "idGloss": "mop",
-  "oldEntry": "Popular explanation: using a mop."
+  "oldEntry": "Popular explanation: using a mop.",
+  "seeAlso": [
+    "sweep.1a"
+  ]
 }

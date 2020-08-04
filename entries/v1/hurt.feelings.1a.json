@@ -13,9 +13,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "touchiness",
     "sensitivity",
@@ -23,13 +23,9 @@
     "hurt"
   ],
   "deictic": [],
-  "cf": [
-    "upset.1",
-    "upset.2"
-  ],
   "signNumber": 3460,
   "recordNumber": 2021,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,10 +39,14 @@
     "2. To be unhappy because someone has been unkind to you. English = (be) hurt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being easily upset, offended, or irritated. English = touchiness, sensitivity."
   ],
   "idGloss": "hurt.feelings.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "upset.1",
+    "upset.2"
+  ]
 }

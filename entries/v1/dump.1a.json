@@ -12,9 +12,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dump",
     "rubbish dump",
@@ -22,12 +22,9 @@
     "throw away"
   ],
   "deictic": [],
-  "cf": [
-    "fart.2a"
-  ],
   "signNumber": 5701,
   "recordNumber": 3372,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -43,10 +40,13 @@
     "2. To carelessly and quickly put or throw something (usually something unwanted) somewhere. English = throw away, dump."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where rubbish is left. English = dump, rubbish dump, tip."
   ],
   "idGloss": "dump.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fart.2a"
+  ]
 }

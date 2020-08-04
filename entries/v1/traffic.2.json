@@ -14,20 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "traffic",
     "busy"
   ],
   "deictic": [],
-  "cf": [
-    "flow.1a"
-  ],
   "signNumber": 2412,
   "recordNumber": 1333,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -43,10 +40,13 @@
     "1. Of a road, to be full of moving vehicles. English = (be) busy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The movement of vehicles along a road. English = traffic, flow of traffic."
   ],
   "idGloss": "traffic.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "flow.1a"
+  ]
 }

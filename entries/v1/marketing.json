@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "marketing",
     "market"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 147,
   "recordNumber": 80,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -39,11 +38,12 @@
     "1. To sell a product or service in an organised way or on a large scale. English = market."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of business which is concerned with the way a product is sold, for example, its price and the way it is advertised. English = marketing.",
     "2. A place, sometimes in the open air, where lots of different goods are bought and sold. English = market."
   ],
   "idGloss": "marketing",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

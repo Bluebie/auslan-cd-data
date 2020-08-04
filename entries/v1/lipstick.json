@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lipstick"
   ],
   "deictic": [],
-  "cf": [
-    "make-up"
-  ],
   "signNumber": 6354,
   "recordNumber": 3795,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,10 +31,13 @@
     "1. To put on lipstick."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A coloured substance which women put on their lips. English = lipstick."
   ],
   "idGloss": "lipstick",
-  "oldEntry": "Popular explanation: holding and applying a lipstick."
+  "oldEntry": "Popular explanation: holding and applying a lipstick.",
+  "seeAlso": [
+    "make-up"
+  ]
 }

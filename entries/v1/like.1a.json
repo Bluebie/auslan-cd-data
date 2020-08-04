@@ -13,19 +13,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "enjoyment",
     "like",
     "enjoy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3448,
   "recordNumber": 2012,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -44,10 +43,11 @@
     "2. To find pleasure and satisfaction in doing or experiencing something. English = enjoy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The pleasure and satisfaction in doing or experiencing something. English = enjoyment."
   ],
   "idGloss": "like.1a",
-  "oldEntry": "Popular explanation: rubbing the stomach, chest in satisfaction or in a soothing fashion."
+  "oldEntry": "Popular explanation: rubbing the stomach, chest in satisfaction or in a soothing fashion.",
+  "seeAlso": []
 }

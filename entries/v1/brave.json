@@ -14,9 +14,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bravery",
     "courage",
@@ -24,11 +24,6 @@
     "courageous"
   ],
   "deictic": [],
-  "cf": [
-    "feel.1a",
-    "strong.1a",
-    "cure"
-  ],
   "signNumber": 2794,
   "recordNumber": 1564,
   "signVisualComposition": "FEEL + STRONG",
@@ -46,10 +41,15 @@
     "1. To be willing to do things which are dangerous without showing fear; to not show fear in difficult or dangerous situations. Used to show approval of the person. English = (be) brave, (be) courageous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality shown by someone who decides to do something difficult or dangerous, even though they may be afraid. Used to show approval of the person. English = bravery, courage."
   ],
   "idGloss": "brave",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "feel.1a",
+    "strong.1a",
+    "cure"
+  ]
 }

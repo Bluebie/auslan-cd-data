@@ -9,18 +9,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "put",
     "place"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 104,
   "recordNumber": 55,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,8 +34,9 @@
     "1. To move something carefully into a particular place or position. English = put, place, put with care."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "place.1a",
-  "oldEntry": "Popular explanation: placing something somewhere."
+  "oldEntry": "Popular explanation: placing something somewhere.",
+  "seeAlso": []
 }

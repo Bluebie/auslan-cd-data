@@ -20,9 +20,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cover",
     "lid",
@@ -32,12 +32,9 @@
     "cover up"
   ],
   "deictic": [],
-  "cf": [
-    "grave"
-  ],
   "signNumber": 4063,
   "recordNumber": 2432,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,12 +51,15 @@
     "3. To hide things from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing which is placed over another thing to hide or protect it. English = cover, lid, covering.",
     "2. A large flat surface of something this is on top of something else. English = layer.",
     "3. An attempt to hide things and information from people because you don't want them to know about it, especially when you have done wrong. English = cover up."
   ],
   "idGloss": "cover.1a",
-  "oldEntry": "Popular explanation: one things covers another."
+  "oldEntry": "Popular explanation: one things covers another.",
+  "seeAlso": [
+    "grave"
+  ]
 }

@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "temptation",
     "provocation",
@@ -29,10 +29,9 @@
     "provoke"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 970,
   "recordNumber": 560,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -50,11 +49,12 @@
     "3. To deliberately annoy someone and to try to make them behave aggressively; to cause a violent or unpleasant reaction in someone. English = provoke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Acts which encourage someone to do something, especially when they feel it might be wrong or harmful to do it. English = temptation.",
     "2. Acts which deliberately annoy someone and to try to make them behave aggressively; acts which cause a violent or unpleasant reaction in someone. English = provocation."
   ],
   "idGloss": "temptation.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

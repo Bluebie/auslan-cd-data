@@ -11,21 +11,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dummy",
     "teat",
     "pacifier"
   ],
   "deictic": [],
-  "cf": [
-    "Holy Communion.2"
-  ],
   "signNumber": 283,
   "recordNumber": 167,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -41,5 +38,8 @@
     "1. A rubber or plastic object that you give to a baby to suck so that it feels comforted and stays quiet. English = dummy, (rubber) teat, pacifier."
   ],
   "idGloss": "dummy.1a",
-  "oldEntry": "Popular explanation: putting something small into your mouth."
+  "oldEntry": "Popular explanation: putting something small into your mouth.",
+  "seeAlso": [
+    "Holy Communion.2"
+  ]
 }

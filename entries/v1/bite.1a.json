@@ -10,20 +10,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bite"
   ],
   "deictic": [],
-  "cf": [
-    "growl.1a",
-    "jaws"
-  ],
   "signNumber": 2941,
   "recordNumber": 1671,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,11 +32,15 @@
     "1. Of a person or animal, to use your teeth to grab or cut into something. English = bite."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of biting someone or something. English = bite.",
     "2 A mark made on your skin by the teeth of an animal or person or by parts of an insect. English = bite."
   ],
   "idGloss": "bite.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "growl.1a",
+    "jaws"
+  ]
 }

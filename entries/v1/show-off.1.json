@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "show-off",
     "show off"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6282,
   "recordNumber": 3755,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -37,10 +36,11 @@
     "1. To behave in a way that makes your skills or good qualities very obvious in order to impress people. English = show off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who behaves in a way that makes their skills or good qualities very obvious in order to impress people. English = show-off."
   ],
   "idGloss": "show-off.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,15 +9,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "playtime",
     "recess"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3854,
   "recordNumber": 2291,
   "signVisualComposition": "PLAY + TIME",
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of time between lessons at school when children can play outside. English = playtime, recess."
   ],
   "idGloss": "playtime",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

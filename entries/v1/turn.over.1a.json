@@ -10,21 +10,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "turn",
     "turn over",
     "anyhow"
   ],
   "deictic": [],
-  "cf": [
-    "barbecue.1a"
-  ],
   "signNumber": 3438,
   "recordNumber": 2006,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,8 +37,11 @@
     "2. Of flat objects, to reverse orientation so that the side that was up is now down and vice versa. English = turn, turn over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "turn.over.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "barbecue.1a"
+  ]
 }

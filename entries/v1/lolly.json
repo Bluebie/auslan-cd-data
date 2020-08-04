@@ -9,21 +9,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lolly",
     "sweets",
     "candy"
   ],
   "deictic": [],
-  "cf": [
-    "chocolate.1"
-  ],
   "signNumber": 595,
   "recordNumber": 343,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -34,10 +31,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Food that contains a lot of sugar or is covered with sugar and is eaten for enjoyment, especially by children. Examples include toffees, chocolates, mints, and so on. English = lolly, lollies (Australian), sweets (British), candy (American)."
   ],
   "idGloss": "lolly",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "chocolate.1"
+  ]
 }

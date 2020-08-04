@@ -12,20 +12,17 @@
     "cf1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gold",
     "golden"
   ],
   "deictic": [],
-  "cf": [
-    "silver.1a"
-  ],
   "signNumber": 5808,
   "recordNumber": 3447,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "2. To look bright yellow in colour and look rather like gold. English = (be) golden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A valuable yellow-coloured metal that is used for making jewellery, and as an international currency. English = gold."
   ],
   "idGloss": "gold",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "silver.1a"
+  ]
 }

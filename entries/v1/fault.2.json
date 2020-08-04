@@ -12,17 +12,16 @@
     "engtf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "fault",
     "faulty"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 647,
   "recordNumber": 376,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,12 +35,13 @@
     "2. To be broken or not working properly. English = (be) faulty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A weakness or imperfection in someone's character. English = fault.",
     "2. A broken part or a mistake in the way a machine or structure is made. English = fault.",
     "3. A bad or undesireable situation for which you are responsible. English = fault."
   ],
   "idGloss": "fault.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

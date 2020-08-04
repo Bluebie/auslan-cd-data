@@ -19,21 +19,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "traffic",
     "thoroughfare",
     "busy"
   ],
   "deictic": [],
-  "cf": [
-    "flow.1a"
-  ],
   "signNumber": 2400,
   "recordNumber": 1324,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -49,12 +46,15 @@
     "1. Of a thoroughfare, to be full of a lot of people or vehicles passing each other. English = (be) busy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the people that are moving along a path and passing each other at a particular time.",
     "2. All the cars and other vehicles that are moving along a road at a particular time. English = traffic.",
     "3. A place where there is a lot of traffic of people or vehicles. English = thoroughfare."
   ],
   "idGloss": "traffic.1",
-  "oldEntry": "Popular explanation: two lanes of traffic passing each other."
+  "oldEntry": "Popular explanation: two lanes of traffic passing each other.",
+  "seeAlso": [
+    "flow.1a"
+  ]
 }

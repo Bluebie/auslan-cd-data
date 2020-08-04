@@ -13,18 +13,15 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "intention",
     "intend",
     "goal"
   ],
   "deictic": [],
-  "cf": [
-    "relevant"
-  ],
   "signNumber": 836,
   "recordNumber": 477,
   "signVisualComposition": "THINK + SPECIFIC",
@@ -43,10 +40,13 @@
     "1. To think or plan to do something specific; to decide to so something or plan to do something. English = intend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The idea, plan or decision to do something. English = intention, goal."
   ],
   "idGloss": "intend.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "relevant"
+  ]
 }

@@ -16,9 +16,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ice-cream",
     "ice-cream cone",
@@ -26,10 +26,9 @@
     "icy-pole"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5612,
   "recordNumber": 3324,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -45,12 +44,13 @@
     "2. (With tongue extended), to lick an ice-cream cone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very cold, sweet-tasting food made from milk and cream. English = ice-cream.",
     "2. A serve of ice-cream on the end of a soft thin biscuit shaped like a cone. Australian English = ice-cream cone.",
     "3. A very cold, sweet-tasting food made from water and sugar. English = ice-block, icy-pole."
   ],
   "idGloss": "ice-cream",
-  "oldEntry": "Popular explanation: moving the ice-cream cone past the mouth."
+  "oldEntry": "Popular explanation: moving the ice-cream cone past the mouth.",
+  "seeAlso": []
 }

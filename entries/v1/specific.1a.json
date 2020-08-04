@@ -14,21 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "specific",
     "particular",
     "specify"
   ],
   "deictic": [],
-  "cf": [
-    "favourite.1"
-  ],
   "signNumber": 955,
   "recordNumber": 551,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -46,10 +43,13 @@
     "2. To state something clearly and precisely. English = specify."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A specific item or a particular idea or subject."
   ],
   "idGloss": "specific.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "favourite.1"
+  ]
 }

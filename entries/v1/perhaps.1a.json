@@ -17,9 +17,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "may",
     "might",
@@ -28,13 +28,9 @@
     "or"
   ],
   "deictic": [],
-  "cf": [
-    "can.able.1a",
-    "permit.1"
-  ],
   "signNumber": 6602,
   "recordNumber": 3930,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -51,8 +47,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "perhaps.1a",
-  "oldEntry": "Popular explanation: the gesture of uncertainty."
+  "oldEntry": "Popular explanation: the gesture of uncertainty.",
+  "seeAlso": [
+    "can.able.1a",
+    "permit.1"
+  ]
 }

@@ -17,9 +17,9 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wave",
     "hi",
@@ -29,10 +29,9 @@
     "good-bye"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3315,
   "recordNumber": 1936,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -51,10 +50,11 @@
     "1. To move your hand in acknowledgment of someone when you meet them, or as a parting gesture when they (or you) are leaving. English = wave."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A movement of the hand up and down, or a closing and opening of the hand at the knuckles, as a gesture of greeting or leave-taking. English = wave."
   ],
   "idGloss": "wave.hand.1",
-  "oldEntry": "Popular explanation: the parting gesture."
+  "oldEntry": "Popular explanation: the parting gesture.",
+  "seeAlso": []
 }

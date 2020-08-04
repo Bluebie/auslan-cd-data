@@ -13,22 +13,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "all",
     "whole",
     "every"
   ],
   "deictic": [],
-  "cf": [
-    "area.1a",
-    "each"
-  ],
   "signNumber": 3384,
   "recordNumber": 1978,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -47,8 +43,12 @@
     "1. To be each and every one of a particular group, or to be the whole part of a particular thing. English = (be) all, (be) all of, (be) the whole of, (be) every, (be) every one of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "all.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "area.1a",
+    "each"
+  ]
 }

@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corkscrew"
   ],
   "deictic": [],
-  "cf": [
-    "champagne",
-    "bottle-opener.1"
-  ],
   "signNumber": 5839,
   "recordNumber": 3472,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,10 +33,14 @@
     "1. To open a bottle by removing the cork with a corkscrew."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A device for pulling corks out of bottles. English = corkscrew."
   ],
   "idGloss": "corkscrew",
-  "oldEntry": "Popular explanation: using a corkscrew."
+  "oldEntry": "Popular explanation: using a corkscrew.",
+  "seeAlso": [
+    "champagne",
+    "bottle-opener.1"
+  ]
 }

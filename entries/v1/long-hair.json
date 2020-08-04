@@ -12,20 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "long-hair"
   ],
   "deictic": [],
-  "cf": [
-    "curly",
-    "curl.1a"
-  ],
   "signNumber": 3194,
   "recordNumber": 1854,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -41,11 +37,15 @@
     "2. To have straight hair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Hair which is worn long.",
     "2. Hair which is straight."
   ],
   "idGloss": "long-hair",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "curly",
+    "curl.1a"
+  ]
 }

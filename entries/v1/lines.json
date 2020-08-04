@@ -9,17 +9,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lines"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5012,
   "recordNumber": 3022,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Sentences or remarks that are said by an actor in a play or film. English = lines."
   ],
   "idGloss": "lines",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

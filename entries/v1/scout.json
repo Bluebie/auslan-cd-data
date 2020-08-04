@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scout"
   ],
   "deictic": [],
-  "cf": [
-    "salute",
-    "girl guide"
-  ],
   "signNumber": 2292,
   "recordNumber": 1292,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -39,11 +35,15 @@
     "1. To make a scout salute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A boy who is a member of the Scout Association. They go camping, learn how to look after themselves, and do things to help other people. English = scout.",
     "2. The salute used by scouts."
   ],
   "idGloss": "scout",
-  "oldEntry": "Popular explanation: forming the scout salute."
+  "oldEntry": "Popular explanation: forming the scout salute.",
+  "seeAlso": [
+    "salute",
+    "girl guide"
+  ]
 }

@@ -8,17 +8,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tobacco"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4284,
   "recordNumber": 2604,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
     "1. Loose-leaf tobacco used for making roll-your-own cigarettes or for putting in pipes."
   ],
   "idGloss": "tobacco",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

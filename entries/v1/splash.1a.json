@@ -15,21 +15,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "splash",
     "smash",
     "shatter"
   ],
   "deictic": [],
-  "cf": [
-    "break"
-  ],
   "signNumber": 6015,
   "recordNumber": 3581,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,10 +41,13 @@
     "3. Of a thick liquid, to splash or be thrown over something. English = splatter, (be) splattered."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small quantity of a liquid, especially water, that has been spilt on something or caused to fly up into the air. English = splash."
   ],
   "idGloss": "splash.1a",
-  "oldEntry": "Popular explanation: an object hitting a surface and sending drops in all directions."
+  "oldEntry": "Popular explanation: an object hitting a surface and sending drops in all directions.",
+  "seeAlso": [
+    "break"
+  ]
 }

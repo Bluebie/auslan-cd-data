@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sociology",
     "social studies"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4862,
   "recordNumber": 2939,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The study of human societies. An academic discipline and a subject taught at universities. English = sociology.",
     "2. A subject taught in schools and colleges. It includes politics, economics and the study of culture. English = social studies."
   ],
   "idGloss": "sociology",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flannel",
     "face flannel",
@@ -28,10 +28,9 @@
     "hand towel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3581,
   "recordNumber": 2103,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 9,
@@ -47,11 +46,12 @@
     "1. To wash your face, to freshen up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small cloth used for washing yourself. English = flannel, face flannel, face cloth, face washer.",
     "2. A small towel used for drying your hands and your face. English = hand towel."
   ],
   "idGloss": "wash.face",
-  "oldEntry": "Popular explanation: washing one's face."
+  "oldEntry": "Popular explanation: washing one's face.",
+  "seeAlso": []
 }

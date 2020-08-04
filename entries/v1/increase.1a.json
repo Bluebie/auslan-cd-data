@@ -31,9 +31,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "increase",
     "rise",
@@ -48,13 +48,9 @@
     "appreciate"
   ],
   "deictic": [],
-  "cf": [
-    "save",
-    "extend"
-  ],
   "signNumber": 4226,
   "recordNumber": 2557,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -77,7 +73,7 @@
     "4. To grow in value over time. English = appreciate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A rise in the number, level, or amount of something. English = increase.",
     "2. An increase in the height of something; or an increase in your wages or salary.  English = rise; raise.",
@@ -85,5 +81,9 @@
     "4. The growth in value of something over time. English = appreciation."
   ],
   "idGloss": "increase.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "save",
+    "extend"
+  ]
 }

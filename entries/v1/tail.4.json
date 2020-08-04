@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tail"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4559,
   "recordNumber": 2760,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of the body of an animal which is at the opposite end to its head. This part is usually long and thin. English = tail."
   ],
   "idGloss": "tail.4",
-  "oldEntry": "Popular explanation: the shape and location of a tail."
+  "oldEntry": "Popular explanation: the shape and location of a tail.",
+  "seeAlso": []
 }

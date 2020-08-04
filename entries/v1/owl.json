@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "owl"
   ],
   "deictic": [],
-  "cf": [
-    "bird"
-  ],
   "signNumber": 4804,
   "recordNumber": 2900,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 4,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A bird with a flat face and large eyes, which hunts small animals at night. English = owl."
   ],
   "idGloss": "owl",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bird"
+  ]
 }

@@ -12,21 +12,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crawl"
   ],
   "deictic": [],
-  "cf": [
-    "climb.1",
-    "climb.2",
-    "walk.1a"
-  ],
   "signNumber": 1735,
   "recordNumber": 1040,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,8 +36,13 @@
     "1. To move forward on your hands and knees. English = crawl."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "crawl.1",
-  "oldEntry": "Popular explanation: the legs crawling on the ground."
+  "oldEntry": "Popular explanation: the legs crawling on the ground.",
+  "seeAlso": [
+    "climb.1",
+    "climb.2",
+    "walk.1a"
+  ]
 }

@@ -15,7 +15,7 @@
     "syn2",
     "deictic2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "IT + SELF",
   "queries": "This sign is sometimes made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
   "english": [
@@ -28,12 +28,9 @@
     "Before a verb it means the person or thing being talked about does the action alone. After a verb it means that the person or thing being talked about is alone responsible for the action (it is done without any help),",
     "or it means the action was done by  the person or thing being talked about to the person or thing being talked about, not by anyone or anything else. English = itself (thing), himself (male), herself (female)."
   ],
-  "cf": [
-    "independent"
-  ],
   "signNumber": 756,
   "recordNumber": 436,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -46,8 +43,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "itself.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "independent"
+  ]
 }

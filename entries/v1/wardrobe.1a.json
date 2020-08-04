@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wardrobe"
   ],
   "deictic": [],
-  "cf": [
-    "coat-hanger-1a",
-    "hang.1a"
-  ],
   "signNumber": 6620,
   "recordNumber": 3940,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 15.1,
   "primaryLocation": 13,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tall cupboard in which you can hang your clothes. English = wardrobe."
   ],
   "idGloss": "wardrobe.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "coat-hanger-1a",
+    "hang.1a"
+  ]
 }

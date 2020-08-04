@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "explosion"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5923,
   "recordNumber": 3526,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "2. Of a bomb, to burst loudly and with great force, often causing a lot of damage."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sudden violent burst of energy, for example one cause by a bomb. English = explosion."
   ],
   "idGloss": "throw.upwards",
-  "oldEntry": "Popular explanation: letting go of something."
+  "oldEntry": "Popular explanation: letting go of something.",
+  "seeAlso": []
 }

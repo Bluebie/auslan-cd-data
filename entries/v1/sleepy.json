@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sleepy",
     "swoon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5462,
   "recordNumber": 3246,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 4,
@@ -38,8 +37,9 @@
     "2. To be strongly affected by your feelings for something or someone you love or like very much. English = swoon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "sleepy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

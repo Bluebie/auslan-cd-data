@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "squash"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6092,
   "recordNumber": 3624,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To play squash."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game in which two players hit a small rubber ball against the walls of a court using rackets. English = squash."
   ],
   "idGloss": "squash.2",
-  "oldEntry": "Popular explanation: playing squash."
+  "oldEntry": "Popular explanation: playing squash.",
+  "seeAlso": []
 }

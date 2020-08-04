@@ -28,9 +28,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stealing",
     "robbery",
@@ -46,12 +46,9 @@
     "withdraw"
   ],
   "deictic": [],
-  "cf": [
-    "withdraw"
-  ],
   "signNumber": 3102,
   "recordNumber": 1786,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -69,7 +66,7 @@
     "2. To take money out of a bank account. English = withdraw."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of taking things away from people without their permission and without intending to return them. English = stealing, robbery, theft, burglary.",
     "2. A person who steals things. English = robber.",
@@ -77,5 +74,8 @@
     "4. In netball, the taking of possession of the ball from the other team. English = interception."
   ],
   "idGloss": "steal.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "withdraw"
+  ]
 }

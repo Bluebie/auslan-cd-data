@@ -11,19 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "joy"
   ],
   "deictic": [],
-  "cf": [
-    "celebrate.1a"
-  ],
   "signNumber": 3746,
   "recordNumber": 2211,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -37,10 +34,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of great happiness. English = joy."
   ],
   "idGloss": "joy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "celebrate.1a"
+  ]
 }

@@ -16,22 +16,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "respect",
     "esteem",
     "honour"
   ],
   "deictic": [],
-  "cf": [
-    "worship",
-    "obey.2a"
-  ],
   "signNumber": 3535,
   "recordNumber": 2070,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 2,
@@ -45,11 +41,15 @@
     "2. To give special attention to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The good opinion you have of someone's character or ideas. English = respect, esteem.",
     "2. The special attention you give to someone because you respect them for who they are or what they have done. You are pleased and proud about it. English = honour."
   ],
   "idGloss": "respect.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "worship",
+    "obey.2a"
+  ]
 }

@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cricket",
     "cricket bat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5936,
   "recordNumber": 3534,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 17,
@@ -42,11 +41,12 @@
     "2. To use a cricket bat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. English = cricket.",
     "2. The wooden bat used in the game of cricket. English = cricket bat."
   ],
   "idGloss": "cricket.1",
-  "oldEntry": "Popular explanation: using a cricket bat."
+  "oldEntry": "Popular explanation: using a cricket bat.",
+  "seeAlso": []
 }

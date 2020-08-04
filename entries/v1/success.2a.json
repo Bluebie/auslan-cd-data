@@ -27,9 +27,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "achievement",
     "success",
@@ -45,10 +45,9 @@
     "finally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4704,
   "recordNumber": 2842,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -72,11 +71,12 @@
     "3. To totally finish doing, making, or producing something; of something, to be totally finished with no more work to do or parts to add. English = complete; (be) done, (be) ready, (be) completed, (be) achieved."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of doing or causing something to happen, usually after a lot of effort. English = achievement, success.",
     "2. The answer or end to some problem or puzzle. English = solution, resolution."
   ],
   "idGloss": "success.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,19 +9,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [
-    "lawn.1",
-    "stage",
-    "act"
-  ],
   "signNumber": 4083,
   "recordNumber": 2448,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,5 +33,10 @@
   "generalMeaning": "A surface which is flat and level, something flat which is laying on such a surface, or to make a surface flat and level, or any action or thing directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "on.flat.surface",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lawn.1",
+    "stage",
+    "act"
+  ]
 }

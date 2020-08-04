@@ -11,15 +11,14 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Aborigine",
     "aboriginal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5595,
   "recordNumber": 3312,
   "signVisualComposition": "BLACK + FACE",
@@ -39,10 +38,11 @@
     "1. To relate to the indigenous population of Australia. English = (be) aboriginal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who belongs to the indigenous population of Australia. English = Aborigine."
   ],
   "idGloss": "Aborigine.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can incorporate numbers to show how many goals have been scored.",
   "english": [
     "goal"
   ],
   "deictic": [],
-  "cf": [
-    "between.1a",
-    "behind"
-  ],
   "signNumber": 4001,
   "recordNumber": 2392,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -37,11 +33,15 @@
     "1. To score a goal in Australian rules football."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The space into which the players try to get the ball in order to score a point for their team in Australian rules football. English = goal.",
     "2. A point scored by getting the ball to go between the two centre posts in the scoring space in Australian rules football. English = goal."
   ],
   "idGloss": "goal.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "between.1a",
+    "behind"
+  ]
 }

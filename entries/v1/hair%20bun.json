@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bun"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2906,
   "recordNumber": 1642,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -30,10 +29,11 @@
     "1. To wear your hear in a bun."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A style of wearing long hair in which your hair is fastened into a round shape at the back of your head. English = bun."
   ],
   "idGloss": "hair bun",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

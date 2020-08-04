@@ -17,18 +17,17 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "barbecue",
     "fry",
     "grill"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4265,
   "recordNumber": 2588,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -46,10 +45,11 @@
     "4. To turn something over repeatedly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A grill that you use to cook food outdoors; an outdoor party at which people eat food cooked on an outdoor grill. English = barbecue."
   ],
   "idGloss": "barbecue.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

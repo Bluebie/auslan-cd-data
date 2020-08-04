@@ -19,9 +19,9 @@
     "engtf6",
     "engtf7"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "prude",
     "puritan",
@@ -32,10 +32,9 @@
     "puritanical"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4638,
   "recordNumber": 2810,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -50,12 +49,13 @@
     "3. To have a very strict and severe attitude towards questions of morality. English = (be) puritanical. Idiomatic English = (be) straight-laced."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who behaves very correctly and is easily shocked by anything rude or improper. Often used showing disapproval.",
     "2. A person who is easily shocked by things related to nudity or sex. English = prude.",
     "3. A person who has a very strict and severe attitude towards questions of morality. English = puritan."
   ],
   "idGloss": "prudish.1a",
-  "oldEntry": "Popular explanation: the stance adopted by some nineteenth century ladies."
+  "oldEntry": "Popular explanation: the stance adopted by some nineteenth century ladies.",
+  "seeAlso": []
 }

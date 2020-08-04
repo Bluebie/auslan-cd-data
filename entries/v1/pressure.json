@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pressure"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4399,
   "recordNumber": 2679,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -29,11 +28,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The force that you produce when you press hard on something. English = pressure.",
     "2. The force that a quantity of gas or liquid has on a surface that it touches. English = pressure."
   ],
   "idGloss": "pressure",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

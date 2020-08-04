@@ -18,9 +18,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "service",
     "liaison",
@@ -28,12 +28,9 @@
     "liaise"
   ],
   "deictic": [],
-  "cf": [
-    "serve"
-  ],
   "signNumber": 3832,
   "recordNumber": 2278,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,12 +46,15 @@
     "2. Of organisations or people, to work together and to keep each other fully informed. English = liaise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something provided to the public by a government department, organisation or system such as transport, information or help (material, monetary, or personal). English = service.",
     "2. The process of being looked after in a shop or a restaurant by finding you products or by taking your order and bringing you food and drinks. English = service.",
     "3. The cooperation and exchange of information between different organisations or between different sections of an organisation; or the person whose job is to provide such a service. English = liaison; liaison officer."
   ],
   "idGloss": "service",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "serve"
+  ]
 }

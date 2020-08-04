@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wheelbarrow",
     "barrow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6187,
   "recordNumber": 3695,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 16,
@@ -35,10 +34,11 @@
     "1. To push a wheelbarrow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small cart that is used in the garden for carrying things. It is usually shaped like an open box, with one wheel at the front, two legs at the back, and two handles to lift and push it with. English = wheelbarrow, barrow."
   ],
   "idGloss": "wheelbarrow",
-  "oldEntry": "Popular explanation: wheeling a barrow forward."
+  "oldEntry": "Popular explanation: wheeling a barrow forward.",
+  "seeAlso": []
 }

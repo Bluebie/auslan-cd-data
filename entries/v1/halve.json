@@ -10,14 +10,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "halve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4319,
   "recordNumber": 2632,
   "signVisualComposition": "HALF + REJECT",
@@ -33,10 +32,11 @@
     "1. To divide something into two equal amounts or pieces and to get rid of one of those halves; to apportion half of something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of two equal amounts or pieces of something that have been separated and apportioned."
   ],
   "idGloss": "halve",
-  "oldEntry": "Popular explanation: cutting something in half and pushing one half to one side."
+  "oldEntry": "Popular explanation: cutting something in half and pushing one half to one side.",
+  "seeAlso": []
 }

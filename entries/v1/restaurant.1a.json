@@ -10,20 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "restaurant",
     "dine"
   ],
   "deictic": [],
-  "cf": [
-    "dinner.1"
-  ],
   "signNumber": 5543,
   "recordNumber": 3280,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 15,
@@ -37,11 +34,14 @@
     "2. To eat a formal dinner. English = dine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where you can buy and eat a meal. English = restaurant.",
     "2. A formal meal, especially one eaten at a restaurant or one where you have invited people to your home."
   ],
   "idGloss": "restaurant.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dinner.1"
+  ]
 }

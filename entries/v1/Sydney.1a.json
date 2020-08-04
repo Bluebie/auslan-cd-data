@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Sydney"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6476,
   "recordNumber": 3857,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 12.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The capital city of the Australian state of New South Wales, called Sydney."
   ],
   "idGloss": "Sydney.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

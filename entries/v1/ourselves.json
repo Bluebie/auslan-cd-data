@@ -8,7 +8,7 @@
     "engtf1",
     "deictic2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "OUR + SELF",
   "queries": "The reflexive form can also be made by combining 'self' with other forms of 'we' or 'us'.",
   "english": [
@@ -18,10 +18,9 @@
     "Before a verb it means the signer and at least one other person do the action together and alone. After a verb it means the signer and at least one other person are responsible for the action (they do it without any help),",
     " or it means the action was done by the signer and others to the signer and others. English = ourselves."
   ],
-  "cf": [],
   "signNumber": 876,
   "recordNumber": 500,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,8 +31,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "ourselves",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

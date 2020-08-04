@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "marron"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3367,
   "recordNumber": 1968,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large freshwater crayfish of western Australia. English = marron."
   ],
   "idGloss": "marron",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

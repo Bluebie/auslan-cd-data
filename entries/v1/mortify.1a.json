@@ -22,9 +22,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mortification",
     "humiliation",
@@ -37,10 +37,9 @@
     "discourage"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5188,
   "recordNumber": 3119,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -60,12 +59,13 @@
     "4. To lose your confidence in yourself; to make someone feel that way. English = (be) discouraged; discourage."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being offended, ashamed or embarrassed. English = mortification.",
     "2. The feeling of being ashamed or stupid. English = humiliation.",
     "3. The feeling of losing confidence in yourself. English = discouragement."
   ],
   "idGloss": "mortify.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

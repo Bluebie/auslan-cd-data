@@ -12,17 +12,16 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cheap",
     "inexpensive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5266,
   "recordNumber": 3160,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,8 +38,9 @@
     "1. To cost less money than usual. English = (be) cheap, (be) inexpensive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cheap.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -16,9 +16,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "left",
     "left side",
@@ -26,10 +26,9 @@
     "left hand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3518,
   "recordNumber": 2060,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -49,12 +48,13 @@
     "2. To be on one of two opposite sides of the body; namely, the side of the body which is opposite the side with the hand that most people write, sign or do complicated things with. English = (be) left."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of two opposite directions, sides or positions. If you are facing north, where the sun sets is in this relative position (in the west); facing south, sunrise is in this position (in the east). English = left.",
     "2. One of two opposite sides of the body; namely, the side of the body which is opposite the side with the hand that most people write, sign or do complicated things with. English = left side.",
     "3. One of two arms on the body; namely, the arm opposite the one with the hand that most people use to write, sign or do complicated things with. English  = left arm, left hand."
   ],
   "idGloss": "left.side",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

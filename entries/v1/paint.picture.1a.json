@@ -15,9 +15,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "painting",
     "picture",
@@ -26,13 +26,9 @@
     "paint"
   ],
   "deictic": [],
-  "cf": [
-    "draw.2",
-    "draw.3a"
-  ],
   "signNumber": 2134,
   "recordNumber": 1236,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -45,11 +41,15 @@
     "1. To produce a picture by using paint; to paint a picture."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A picture which someone has produced using paint. English = painting, picture.",
     "2. A person who paints pictures. English = painter, artist."
   ],
   "idGloss": "paint.picture.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "draw.2",
+    "draw.3a"
+  ]
 }

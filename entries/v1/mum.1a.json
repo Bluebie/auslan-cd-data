@@ -12,19 +12,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mum",
     "mummy",
     "mother"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3152,
   "recordNumber": 1825,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -40,11 +39,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The woman who gave birth to you. This is an informal sign used particularly by children. English = mum, mummy.",
     "2. The woman who gave birth to you. English = mother."
   ],
   "idGloss": "mum.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

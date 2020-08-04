@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "overtake",
     "catch up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4375,
   "recordNumber": 2665,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,8 +31,9 @@
     "1. In a competition or ranking, to go from being last or well behind the leaders to being first or well in front of the others. English = overtake, catch up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "overtake.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

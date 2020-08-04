@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "carpet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5489,
   "recordNumber": 3259,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -34,5 +33,6 @@
     "1. A thick, flat piece of cloth which is used to cover the floors and stairs in a building. English = carpet."
   ],
   "idGloss": "carpet.1a",
-  "oldEntry": "Popular explanation: a thin layer on a surface."
+  "oldEntry": "Popular explanation: a thin layer on a surface.",
+  "seeAlso": []
 }

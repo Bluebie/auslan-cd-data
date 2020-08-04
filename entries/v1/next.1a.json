@@ -21,8 +21,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "next",
     "following",
@@ -30,12 +30,9 @@
     "then"
   ],
   "deictic": [],
-  "cf": [
-    "bequeath.inherit"
-  ],
   "signNumber": 6123,
   "recordNumber": 3644,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -55,12 +52,15 @@
     "3. Of a person, group of people, family, or business, to live or be in a house or building which is immediately beside another house or building. English = (be) the next door, (be) the next door neighbour, to live next door."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time, event, person, or thing, that happens or comes immediately after the present one or after the previous one; the next thing.",
     "2. The place or thing which is nearest to you and which you come to first if you move in that direction.",
     "3. The person, group of people, family, or business which occupies the house or building which is closest to you and immediately beside your house or building; your immediate neighbour; your next door neighbour."
   ],
   "idGloss": "next.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bequeath.inherit"
+  ]
 }

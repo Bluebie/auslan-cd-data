@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gate"
   ],
   "deictic": [],
-  "cf": [
-    "gate.1a",
-    "cupboard"
-  ],
   "signNumber": 3743,
   "recordNumber": 2210,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,8 +38,12 @@
     "1. To close a cupboard or gate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "gate.close",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "gate.1a",
+    "cupboard"
+  ]
 }

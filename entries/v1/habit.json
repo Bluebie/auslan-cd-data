@@ -19,9 +19,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "habit",
     "addiction",
@@ -31,10 +31,9 @@
     "habitually"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5910,
   "recordNumber": 3515,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -52,12 +51,13 @@
     "2. To be unable to stop taking a harmful drug. English = (be) addicted to. Idiomatic English = (be) hooked on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you do often and regularly. English = habit.",
     "2. An action that someone has done many times before and finds difficult to stop, especially when this action is considered to be bad. English = habit.",
     "3. The condition of taking harmful drugs and being unable to stop taking them. English = addiction."
   ],
   "idGloss": "habit",
-  "oldEntry": "Popular explanation: bound hands."
+  "oldEntry": "Popular explanation: bound hands.",
+  "seeAlso": []
 }

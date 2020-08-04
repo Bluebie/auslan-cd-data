@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sacking",
     "rejection",
@@ -42,12 +42,9 @@
     "forsake"
   ],
   "deictic": [],
-  "cf": [
-    "lick.1a"
-  ],
   "signNumber": 4237,
   "recordNumber": 2565,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -69,7 +66,7 @@
     "4. To stop doing something or stop having something; to go without something. Formal religious English = forsake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of getting rid of an employee. English = dismissal. Informal English = sacking.",
     "2. The act of getting rid of something or someone because it is not good enough or not wanted. English = rejection.",
@@ -77,5 +74,8 @@
     "4. The action of stopping all thought about something because you think it is unimportant. English = dismissal."
   ],
   "idGloss": "dismiss",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "lick.1a"
+  ]
 }

@@ -13,17 +13,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Venetian blind"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6142,
   "recordNumber": 3660,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -40,10 +39,11 @@
     "2. To draw curtains."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A window blind made of thin horizontal strips of wood, plastic, or metal. The strips can be turned to a different angle in order to let in more or less light. English = Venetian blind."
   ],
   "idGloss": "venetian.blinds.2",
-  "oldEntry": "Popular explanation: pulling strings on a blind."
+  "oldEntry": "Popular explanation: pulling strings on a blind.",
+  "seeAlso": []
 }

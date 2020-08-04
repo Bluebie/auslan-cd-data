@@ -6,17 +6,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "topless"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 874,
   "recordNumber": 498,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
     "1. Of a woman, not to be wearing anything that covers her breasts. English = (be) topless."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "topless",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,9 +13,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Calvary",
     "Golgotha",
@@ -23,12 +23,9 @@
     "crucifix"
   ],
   "deictic": [],
-  "cf": [
-    "crucifixion"
-  ],
   "signNumber": 4533,
   "recordNumber": 2748,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,12 +38,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The place where Jesus Christ was crucified. English = Calvary, Golgotha.",
     "2. A shape that consists of a vertical line with a shorter horizontal line across it. It is the most important Christian symbol. English = cross.",
     "3. A cross with a figure of Christ on it. English = crucifix."
   ],
   "idGloss": "Calvary",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "crucifixion"
+  ]
 }

@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "normality",
     "normalcy",
@@ -24,7 +24,6 @@
     "normal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2141,
   "recordNumber": 1239,
   "signVisualComposition": "N + N",
@@ -44,10 +43,11 @@
     "3. To be usual and ordinary, and what people expect. English = (be) normal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The situation in which everything is normal and as people expect. English = normality, normalcy."
   ],
   "idGloss": "natural.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,21 +14,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bicycle",
     "cycling",
     "pedal"
   ],
   "deictic": [],
-  "cf": [
-    "ride.horse.1a"
-  ],
   "signNumber": 1458,
   "recordNumber": 870,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 16,
@@ -41,11 +38,14 @@
     "1. To ride a bicycle; to pedal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A vehicle with two wheels which you ride by sitting on it and pushing two pedals with your feet. English = bicycle.",
     "2. A sport in which people race each other riding bicycles. English = cycling."
   ],
   "idGloss": "bicycle.1a",
-  "oldEntry": "Popular explanation: legs peddling."
+  "oldEntry": "Popular explanation: legs peddling.",
+  "seeAlso": [
+    "ride.horse.1a"
+  ]
 }

@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "The subordinate hand may have the same handshape as the dominant hand.",
   "english": [
     "lacrosse"
   ],
   "deictic": [],
-  "cf": [
-    "tennis.1a",
-    "squash.2"
-  ],
   "signNumber": 6228,
   "recordNumber": 3721,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An outdoor game played between two teams of players. They use long sticks with nets at the end to catch and throw a small ball in order to try and score goals. English = lacrosse."
   ],
   "idGloss": "lacrosse",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tennis.1a",
+    "squash.2"
+  ]
 }

@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "history",
     "ancestors"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4138,
   "recordNumber": 2493,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -37,11 +36,12 @@
     "1. To move from the present into the past, to look into the past, to recall long past events."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The events and people of the past. English = history.",
     "2. The people who are your parents, grandparents, great grandparents, and so on, long into the past. English = ancestors."
   ],
   "idGloss": "history.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

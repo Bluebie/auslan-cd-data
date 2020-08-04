@@ -11,21 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "put away",
     "pack up",
     "arrange"
   ],
   "deictic": [],
-  "cf": [
-    "place.1a"
-  ],
   "signNumber": 183,
   "recordNumber": 103,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -39,8 +36,11 @@
     "2. To put a number of things, such as work materials on a desk, into particular positions, usually in order to make them look attractive or tidy. English = arrange."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "put.away",
-  "oldEntry": "Popular explanation: taking things from a central point and putting them away."
+  "oldEntry": "Popular explanation: taking things from a central point and putting them away.",
+  "seeAlso": [
+    "place.1a"
+  ]
 }

@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trapdoor",
     "hatch"
   ],
   "deictic": [],
-  "cf": [
-    "hatch.open",
-    "hatch.close"
-  ],
   "signNumber": 4369,
   "recordNumber": 2660,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -41,5 +37,9 @@
     "2. An opening in a deck of a ship, which is used for people to come on deck or go below, or during loading and unloading cargo. English = hatch."
   ],
   "idGloss": "hatch.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "hatch.open",
+    "hatch.close"
+  ]
 }

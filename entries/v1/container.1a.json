@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottle",
     "can",
@@ -26,13 +26,9 @@
     "tube"
   ],
   "deictic": [],
-  "cf": [
-    "pour.from",
-    "ring.pull.can"
-  ],
   "signNumber": 4605,
   "recordNumber": 2787,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -51,5 +47,9 @@
     "1. A container for keeping liquids in. It is usually made of glass or plastic and is shaped like a cylinder with a narrow top. English = bottle."
   ],
   "idGloss": "container.1a",
-  "oldEntry": "Popular explanation: the form of a can."
+  "oldEntry": "Popular explanation: the form of a can.",
+  "seeAlso": [
+    "pour.from",
+    "ring.pull.can"
+  ]
 }

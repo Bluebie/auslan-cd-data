@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "axe",
     "chop down"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5836,
   "recordNumber": 3470,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To chop something with an axe, to chop down."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tool used for cutting wood. It consists of a blade attached to the end of a long handle, at one side. English = axe"
   ],
   "idGloss": "chop.down.2",
-  "oldEntry": "Popular explanation: swinging an axe."
+  "oldEntry": "Popular explanation: swinging an axe.",
+  "seeAlso": []
 }

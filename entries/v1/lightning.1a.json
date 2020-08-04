@@ -13,21 +13,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lightning",
     "storm",
     "strike"
   ],
   "deictic": [],
-  "cf": [
-    "thunder"
-  ],
   "signNumber": 661,
   "recordNumber": 386,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -42,11 +39,14 @@
     "1. Of lightning, to form a flash and hit the ground (or some other object) violently and suddenly. English = strike."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The bright flashes of light in the sky, often forming long ragged lines, that you may see during a storm. English = lightning.",
     "2. Very bad weather with thunder and lightning and often with heavy rain and strong winds. English = storm."
   ],
   "idGloss": "lightning.1a",
-  "oldEntry": "Popular explanation: the outline of a bolt of lightning."
+  "oldEntry": "Popular explanation: the outline of a bolt of lightning.",
+  "seeAlso": [
+    "thunder"
+  ]
 }

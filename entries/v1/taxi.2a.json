@@ -10,17 +10,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "taxi"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 8,
   "recordNumber": 6,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A car driven by someone whose job is to take you where you want to go in return for money. English = taxi."
   ],
   "idGloss": "taxi.2a",
-  "oldEntry": "Popular explanation: the roof light of a taxi."
+  "oldEntry": "Popular explanation: the roof light of a taxi.",
+  "seeAlso": []
 }

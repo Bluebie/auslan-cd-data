@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "weakling",
     "weak",
@@ -31,12 +31,9 @@
     "intoxicated"
   ],
   "deictic": [],
-  "cf": [
-    "kneel"
-  ],
   "signNumber": 1800,
   "recordNumber": 1088,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -55,10 +52,13 @@
     "3. To have drunk so much alcohol that you cannot stand up properly, speak clearly or behave sensibly. English = (be) drunk. Idiomatic English = (be) blind drunk. Formal English = (be) inebriated, (be) intoxicated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is physically weak. English = weakling."
   ],
   "idGloss": "weak.1a",
-  "oldEntry": "Popular explanation: bent and unsteady legs."
+  "oldEntry": "Popular explanation: bent and unsteady legs.",
+  "seeAlso": [
+    "kneel"
+  ]
 }

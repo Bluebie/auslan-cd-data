@@ -15,8 +15,8 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "portrait",
     "portrait painter",
@@ -24,12 +24,9 @@
     "paint"
   ],
   "deictic": [],
-  "cf": [
-    "paint.picture.1a"
-  ],
   "signNumber": 1887,
   "recordNumber": 1128,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -42,12 +39,15 @@
     "1. To paint or draw a portrait of someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A painting or drawing of someone. English = portrait.",
     "2. A person who paints or draws pictures of people. English = portrait painter.",
     "3. The art of painting or drawing portraits. English = portraiture."
   ],
   "idGloss": "portrait",
-  "oldEntry": "Popular explanation: painting a face."
+  "oldEntry": "Popular explanation: painting a face.",
+  "seeAlso": [
+    "paint.picture.1a"
+  ]
 }

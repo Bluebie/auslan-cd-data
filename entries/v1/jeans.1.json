@@ -8,17 +8,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jeans"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5549,
   "recordNumber": 3283,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 8.1,
   "primaryLocation": 17,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Casual trousers that are usually made out of strong blue denim. English = jeans."
   ],
   "idGloss": "jeans.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

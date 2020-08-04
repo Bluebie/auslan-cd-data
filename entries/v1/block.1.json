@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "block"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3774,
   "recordNumber": 2233,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,5 +36,6 @@
     "1. A large rectangular piece of a substance. English = block."
   ],
   "idGloss": "block.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

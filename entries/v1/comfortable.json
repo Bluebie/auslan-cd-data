@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "comfortable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4515,
   "recordNumber": 2744,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,8 +29,9 @@
     "2. Of furniture and clothing, to make you feel physically relaxed when you are using or wearing them. English = (be) comfortable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "comfortable",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

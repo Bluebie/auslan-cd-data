@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "swap",
     "exchange"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3829,
   "recordNumber": 2275,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To give something to someone who gives you something else in return. English = swap, exchange."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The giving of one thing to someone in return for another thing from them. English = swap, exchange."
   ],
   "idGloss": "swap.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

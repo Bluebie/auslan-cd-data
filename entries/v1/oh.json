@@ -6,17 +6,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oh"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 316,
   "recordNumber": 177,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -29,8 +28,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "oh",
-  "oldEntry": "Popular explanation: the letter 'o'."
+  "oldEntry": "Popular explanation: the letter 'o'.",
+  "seeAlso": []
 }

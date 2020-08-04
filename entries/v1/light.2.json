@@ -17,18 +17,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "light",
     "illuminate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3,
   "recordNumber": 2,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -49,10 +48,11 @@
     "2. To turn on or switch on an electric light."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that produces light, particularly an electric bulb. English = light."
   ],
   "idGloss": "light.2",
-  "oldEntry": "Popular explanation: rays of light."
+  "oldEntry": "Popular explanation: rays of light.",
+  "seeAlso": []
 }

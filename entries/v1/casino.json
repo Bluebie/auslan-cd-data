@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "casino",
     "roulette"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2563,
   "recordNumber": 1415,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building or room where people play gambling games. English = casino.",
     "2. A gambling game in which a ball is dropped onto a revolving wheel with numbered holes in it. The players bet on which hole the ball will be in when the wheel stops spinning. English = roulette."
   ],
   "idGloss": "casino",
-  "oldEntry": "Popular explanation: spinning a roulette wheel."
+  "oldEntry": "Popular explanation: spinning a roulette wheel.",
+  "seeAlso": []
 }

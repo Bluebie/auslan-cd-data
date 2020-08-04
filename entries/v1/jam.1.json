@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "jam",
     "preserve",
     "honey"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4969,
   "recordNumber": 3001,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -34,11 +33,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A food that is made by cooking fruit with sugar. Usually you spread it on bread or toast. English = jam, preserve.",
     "2. A sweet sticky yellowish substance that is made by bees. English = honey."
   ],
   "idGloss": "jam.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

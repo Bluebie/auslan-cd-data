@@ -17,9 +17,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "extinguish",
     "turn off",
@@ -28,10 +28,9 @@
     "out"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3702,
   "recordNumber": 2183,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -48,12 +47,13 @@
     "3. To shut or close a beak-like or mouth-like object."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ending of the burning of a fire or the shining of a light; the turning off of a light; the putting out of a fire.",
     "2. The ending of some activity.",
     "3. A beak-like or mouth-like object, or its action of closing."
   ],
   "idGloss": "extinguish.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

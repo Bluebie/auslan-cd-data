@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chest"
   ],
   "deictic": [],
-  "cf": [
-    "me/I.1a"
-  ],
   "signNumber": 2504,
   "recordNumber": 1390,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The top part of the front of your body, where your ribs, lungs, and heart are. English = chest."
   ],
   "idGloss": "chest",
-  "oldEntry": "Popular explanation: indicating the chest."
+  "oldEntry": "Popular explanation: indicating the chest.",
+  "seeAlso": [
+    "me/I.1a"
+  ]
 }

@@ -12,21 +12,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "each"
   ],
   "deictic": [],
-  "cf": [
-    "always.1",
-    "once.1a",
-    "all.1a"
-  ],
   "signNumber": 700,
   "recordNumber": 403,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -44,10 +39,15 @@
     "1. To be or to refer to every single member of a group, but considered individually and not as a whole. English = (be) each."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An individual who is part of a group, but considered separately, and who is equal to all the others in some way, such as receiving something, undergoing something or being located relative to others in a similar way. English = each thing, each person."
   ],
   "idGloss": "each",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "always.1",
+    "once.1a",
+    "all.1a"
+  ]
 }

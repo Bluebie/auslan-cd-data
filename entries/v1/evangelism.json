@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GO.FORTH + E",
-  "queries": "",
+  "queries": null,
   "english": [
     "evangelism",
     "evangelical",
     "evangelist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 77,
   "recordNumber": 43,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,11 +37,12 @@
     "1. Of Christians and Christian beliefs, to emphasise the importance of the four gospels and the need for personal belief in Christ in order to obtain salvation. English = (be) evangelical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The teaching of Christianity, especially to people who are not Christians, stressing evangelical beliefs. English = evangelism.",
     "2. A person who travels from place to place in order to try to convert people to Christianity. English = evangelist."
   ],
   "idGloss": "evangelism",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

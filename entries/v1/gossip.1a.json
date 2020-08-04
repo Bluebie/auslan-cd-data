@@ -16,22 +16,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gossip",
     "rumour",
     "blab"
   ],
   "deictic": [],
-  "cf": [
-    "dialogue.1a",
-    "blab.1a"
-  ],
   "signNumber": 3249,
   "recordNumber": 1891,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -46,11 +42,15 @@
     "3. To talk informally to people and tell them things you were supposed to keep secret or confidential. English = blab. Idiomatic English = spill the beans, let the cat out of the bag."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An informal conversation or information about other people, often including comments about their private lives. English = gossip.",
     "2. A story or piece of information that may or may not be true, but that people are talking about. English = rumour."
   ],
   "idGloss": "gossip.1a",
-  "oldEntry": "Popular explanation: a mouth opening and closing."
+  "oldEntry": "Popular explanation: a mouth opening and closing.",
+  "seeAlso": [
+    "dialogue.1a",
+    "blab.1a"
+  ]
 }

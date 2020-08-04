@@ -15,9 +15,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "notes",
     "records",
@@ -26,10 +26,9 @@
     "note"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2153,
   "recordNumber": 1246,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -45,12 +44,13 @@
     "2. To write down information about what has been said, done or agreed to during a meeting; to record the minutes of a meeting; to take the minutes of a meeting."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Information which is written down about someone or something in an official or semi-official capacity. English = notes, records, report.",
     "2. Information which is written down about things which have been said, done or agreed to during a meeting. English = minutes.",
     "3. A person whose job is to write down the things which have been said, done or agreed to during a meeting. English = minutes secretary."
   ],
   "idGloss": "note.down",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

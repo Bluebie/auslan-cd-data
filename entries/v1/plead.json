@@ -10,9 +10,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pleading",
     "begging",
@@ -20,10 +20,9 @@
     "beg"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3285,
   "recordNumber": 1916,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -38,10 +37,11 @@
     "1. To ask someone in an intense and emotional way, often repeatedly, to do something. English = plead, beg."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of asking someone in an intense and emotional way, often repeatedly, to do something. English = pleading, begging."
   ],
   "idGloss": "plead",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

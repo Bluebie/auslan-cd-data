@@ -20,8 +20,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "president",
     "chairperson",
@@ -31,10 +31,9 @@
     "preside"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5893,
   "recordNumber": 3504,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -50,7 +49,7 @@
     "2. To act as the chairperson of a meeting, committee, or organisation. English = chair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person in an organisation who has the highest position. English = president.",
     "2. In a country that has no king or queen, the person who has the highest political position and is the leader of the country. English = president.",
@@ -58,5 +57,6 @@
     "4. The position occupied by a chairperson. English = chair."
   ],
   "idGloss": "chairperson.1a",
-  "oldEntry": "Popular explanation: sitting in an armchair."
+  "oldEntry": "Popular explanation: sitting in an armchair.",
+  "seeAlso": []
 }

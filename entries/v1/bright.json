@@ -14,19 +14,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brightness",
     "bright",
     "brighten"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 27,
   "recordNumber": 15,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -44,10 +43,11 @@
     "2. Of a light, object, or place, to become lighter, brighter, or more full of light. English = brighten."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of something being bright. English = brightness."
   ],
   "idGloss": "bright",
-  "oldEntry": "Popular explanation: rays of light into your eyes."
+  "oldEntry": "Popular explanation: rays of light into your eyes.",
+  "seeAlso": []
 }

@@ -16,21 +16,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "matron",
     "nun"
   ],
   "deictic": [],
-  "cf": [
-    "nurse.3a",
-    "maid.1a"
-  ],
   "signNumber": 3544,
   "recordNumber": 2075,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 3,
@@ -45,12 +41,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In a hospital, a senior nurse who is usually in charge of all the nursing staff. English = matron.",
     "2. In a boarding school, a woman who looks after the health and hygiene of the children. English = matron.",
     "3. A female member of a religious community. English = nun."
   ],
   "idGloss": "matron.1",
-  "oldEntry": "Popular explanation: the headgear of a matron."
+  "oldEntry": "Popular explanation: the headgear of a matron.",
+  "seeAlso": [
+    "nurse.3a",
+    "maid.1a"
+  ]
 }

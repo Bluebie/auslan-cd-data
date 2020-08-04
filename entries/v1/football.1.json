@@ -15,22 +15,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Australian rules",
     "AFL",
     "kick football"
   ],
   "deictic": [],
-  "cf": [
-    "soccer.1",
-    "rugby league.1a"
-  ],
   "signNumber": 3953,
   "recordNumber": 2357,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -45,10 +41,14 @@
     "1. To prepare to kick or pass a ball in Australian rules football."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A team ball game played in Australia, called Australian rules football (AFL)."
   ],
   "idGloss": "football.1",
-  "oldEntry": "Popular explanation: holding the football and kicking or passing it."
+  "oldEntry": "Popular explanation: holding the football and kicking or passing it.",
+  "seeAlso": [
+    "soccer.1",
+    "rugby league.1a"
+  ]
 }

@@ -7,14 +7,13 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "groomsman"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5798,
   "recordNumber": 3439,
   "signVisualComposition": "G + MAN",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In a wedding ceremony, the man who is getting married. English = groomsman."
   ],
   "idGloss": "groomsman",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

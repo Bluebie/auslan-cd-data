@@ -14,9 +14,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "minute",
     "month",
@@ -24,10 +24,9 @@
     "maiden"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2348,
   "recordNumber": 1298,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -48,5 +47,6 @@
     "4. In cricket, an over in which no runs are made. English = maiden."
   ],
   "idGloss": "m.words",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

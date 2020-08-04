@@ -26,9 +26,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "income",
     "earnings",
@@ -40,10 +40,9 @@
     "earn"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2574,
   "recordNumber": 1419,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -64,7 +63,7 @@
     "4. To be paid a pension."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The money that you earn or that you get from other sources such as investments or pensions. English = income, earnings, interest.",
     "2. The money that is regularly paid to you for working, especially for manual or unskilled work. English = wage, pay.",
@@ -72,5 +71,6 @@
     "4. A sum of money paid to you by the state or a previous employer because you have retired or because you are widowed, disabled or sick. English = pension."
   ],
   "idGloss": "income.1a",
-  "oldEntry": "Popular explanation: get in one's pockets."
+  "oldEntry": "Popular explanation: get in one's pockets.",
+  "seeAlso": []
 }

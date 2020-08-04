@@ -14,17 +14,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "defeat",
     "beat"
   ],
   "deictic": [],
-  "cf": [
-    "beat.2a"
-  ],
   "signNumber": 6489,
   "recordNumber": 3862,
   "signVisualComposition": "BEAT + PENNANT?",
@@ -43,10 +40,13 @@
     "1. To win a victory over someone in a battle, game, or contest. English = defeat, beat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being beaten in a battle, game, or contest. English = defeat."
   ],
   "idGloss": "defeat.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "beat.2a"
+  ]
 }

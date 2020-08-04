@@ -8,17 +8,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "DRINK + W",
   "queries": "The Auslan sign has a slightly different form from the ASL original (note that this form actually means 'water' in ASL).",
   "english": [
     "wine"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2241,
   "recordNumber": 1272,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An alcoholic drink made from grapes. There are two main kinds, red and white. English = wine."
   ],
   "idGloss": "wine.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

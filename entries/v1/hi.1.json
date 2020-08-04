@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hi",
     "hello"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3141.1,
   "recordNumber": 1818,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": null,
   "primaryLocation": 3,
@@ -39,8 +38,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hi.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

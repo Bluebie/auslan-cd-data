@@ -18,8 +18,8 @@
     "cf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "balance",
     "scales",
@@ -27,13 +27,9 @@
     "Libra"
   ],
   "deictic": [],
-  "cf": [
-    "weigh.1a",
-    "doubt"
-  ],
   "signNumber": 3907,
   "recordNumber": 2325,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -47,7 +43,7 @@
     "2. Of reports and news, to be a fair and reasonable account. English = (be) balanced."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The equality or sameness between two or more things with respect to their weight, strength or importance. English = balance.",
     "2. The quality of a report or an account that means that it is fair and reasonable. English = balance.",
@@ -55,5 +51,9 @@
     "4. A constellation and sign of the Zodiac, called Libra (the scales). English = Libra."
   ],
   "idGloss": "balance.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "weigh.1a",
+    "doubt"
+  ]
 }

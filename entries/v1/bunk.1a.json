@@ -11,17 +11,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bunk"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2052,
   "recordNumber": 1199,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two beds, one above the other, held in a frame. English = bunk, bunk beds."
   ],
   "idGloss": "bunk.1a",
-  "oldEntry": "Popular explanation: sleeping one above the other."
+  "oldEntry": "Popular explanation: sleeping one above the other.",
+  "seeAlso": []
 }

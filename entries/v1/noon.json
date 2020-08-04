@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "For many signers this can only appear as the second element in the sign 'afternoon' (= 'after' + 'noon') and never alone. Others, especially younger signers, also use it for 'noon' alone.",
   "english": [
     "noon"
   ],
   "deictic": [],
-  "cf": [
-    "afternoon.4a"
-  ],
   "signNumber": 1406,
   "recordNumber": 835,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Twelve o'clock in the middle of the day. English = noon."
   ],
   "idGloss": "noon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "afternoon.4a"
+  ]
 }

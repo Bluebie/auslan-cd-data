@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "giggle",
     "laugh"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5116,
   "recordNumber": 3089,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -32,10 +31,11 @@
     "1. To make quiet laughing noises because you are amused or embarrassed. English = laugh; giggle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A quiet laughing noise. English = giggle."
   ],
   "idGloss": "giggle",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

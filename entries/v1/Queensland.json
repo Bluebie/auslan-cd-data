@@ -8,13 +8,12 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Queensland"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1478,
   "recordNumber": 881,
   "signVisualComposition": "Q + Q",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A state in north-eastern Australia, called Queensland."
   ],
   "idGloss": "Queensland",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

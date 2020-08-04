@@ -12,19 +12,18 @@
     "engtf3",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cloth",
     "fabric",
     "material"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6200,
   "recordNumber": 3704,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To unfold cloth, fabric, or material."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A substance which is used especially for making clothes and is made by weaving, knitting, or some other similar process. English = cloth, fabric, material."
   ],
   "idGloss": "fabric.1a",
-  "oldEntry": "Popular explanation: unfolding cloth."
+  "oldEntry": "Popular explanation: unfolding cloth.",
+  "seeAlso": []
 }

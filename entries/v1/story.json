@@ -13,16 +13,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "story"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2702,
   "recordNumber": 1500,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To tell a story or render an account of some event in sign language."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A description of people and events told in sign language. English = (sign) story."
   ],
   "idGloss": "story",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

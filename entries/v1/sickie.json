@@ -12,20 +12,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "FLU/SICK + DAY",
-  "queries": "",
+  "queries": null,
   "english": [
     "sickie",
     "sick leave"
   ],
   "deictic": [],
-  "cf": [
-    "not.care.less"
-  ],
   "signNumber": 5087,
   "recordNumber": 3070,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -39,11 +36,14 @@
     "2. To officially spend time away from work because of illness or injury. English = take sick leave, (be) on sick leave."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A day taken off work with pay for genuine or, especially, feigned illness. Informal English = sickie.",
     "2. The time that a person is officially allowed to spend away from work because of illness or injury. English = sick leave."
   ],
   "idGloss": "sickie",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.care.less"
+  ]
 }

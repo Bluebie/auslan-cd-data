@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fan",
     "ceiling fan"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 486,
   "recordNumber": 270,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of electrical equipment attached to the ceiling in a room. It hangs down and has revolving blades which move the air and keep the room cool. English = ceiling fan."
   ],
   "idGloss": "fan.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,9 +14,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "SWEET + 'NOT' or SWEET + stress",
-  "queries": "",
+  "queries": null,
   "english": [
     "saccharine",
     "sweet",
@@ -24,12 +24,9 @@
     "agreeable"
   ],
   "deictic": [],
-  "cf": [
-    "useless"
-  ],
   "signNumber": 4743,
   "recordNumber": 2867,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -48,11 +45,14 @@
     "4. To have too much of some quality, especially sweetness. English = (be) too sweet, (be) disagreeable, dislike."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The taste of food or drink that contains an extreme amount of sugar, but is pleasant.",
     "2. The taste of food or drink that contains an extreme amount of sugar so that it is unpleasant. English = saccharine."
   ],
   "idGloss": "very.sweet",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "useless"
+  ]
 }

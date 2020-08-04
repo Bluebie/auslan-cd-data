@@ -7,17 +7,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is regularly used as the second element in 'compounds' describing different types of factories (eg, 'car' + 'assembly line', 'lemonade' + 'assembly line', etc.).",
   "english": [
     "assembly line"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3791,
   "recordNumber": 2248,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An arrangement of workers and machines in a factory where the product passes from one worker to another until it is finished. English = assembly line."
   ],
   "idGloss": "assembly line",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

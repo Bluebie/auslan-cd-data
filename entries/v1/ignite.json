@@ -8,16 +8,13 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ignite"
   ],
   "deictic": [],
-  "cf": [
-    "match.1"
-  ],
   "signNumber": 6422,
   "recordNumber": 3830,
   "signVisualComposition": "MATCH + PLACE",
@@ -33,8 +30,11 @@
     "1. To start a fire intentionally, to set something on fire. English = ignite."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "ignite",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "match.1"
+  ]
 }

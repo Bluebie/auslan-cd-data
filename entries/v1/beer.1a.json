@@ -17,9 +17,9 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "beer",
     "booze",
@@ -27,14 +27,9 @@
     "hotel"
   ],
   "deictic": [],
-  "cf": [
-    "wine.1",
-    "whisky",
-    "champagne"
-  ],
   "signNumber": 4737,
   "recordNumber": 2862,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -49,12 +44,17 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A bitter alcoholic drink made from grain. English = beer.",
     "2. Alcoholic drinks of any sort. English = booze.",
     "3. A building where people can have drinks, especially alcoholic drinks, and talk to their friends. English = pub, hotel."
   ],
   "idGloss": "beer.1a",
-  "oldEntry": "Popular explanation: holding a beer stein to the lips."
+  "oldEntry": "Popular explanation: holding a beer stein to the lips.",
+  "seeAlso": [
+    "wine.1",
+    "whisky",
+    "champagne"
+  ]
 }

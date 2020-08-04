@@ -17,18 +17,17 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "volunteer",
     "representative",
     "represent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3335,
   "recordNumber": 1946,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -46,7 +45,7 @@
     "4. In meetings, to second a motion."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who offers to do something without being obliged or forced to do so, especially socially useful work for which they are not paid. English = volunteer.",
     "2. Someone who chooses to join the army, navy, or air force, especially in wartime, as opposed to being forced to join by law. English = volunteer.",
@@ -54,5 +53,6 @@
     "4. A person in a meeting who seconds a motion."
   ],
   "idGloss": "volunteer.1a",
-  "oldEntry": "Popular explanation: to put up your hand."
+  "oldEntry": "Popular explanation: to put up your hand.",
+  "seeAlso": []
 }

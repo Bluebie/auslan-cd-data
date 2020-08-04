@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Easter"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2118,
   "recordNumber": 1229,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A religious festival in March or April when Christians celebrate the death and resurrection of Christ. English = Easter."
   ],
   "idGloss": "Easter.1a",
-  "oldEntry": "Popular explanation: the cross of the hot cross bun."
+  "oldEntry": "Popular explanation: the cross of the hot cross bun.",
+  "seeAlso": []
 }

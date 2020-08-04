@@ -14,21 +14,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "parallel"
   ],
   "deictic": [],
-  "cf": [
-    "horizontal",
-    "vertical.1a",
-    "street.1a"
-  ],
   "signNumber": 3552,
   "recordNumber": 2081,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -43,10 +38,15 @@
     "1. Of two lines or long objects, to be the same distance apart all along their length. English = (be) parallel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two lines or long objects which are the same distance apart all along their length. English = parallel lines, parallel objects."
   ],
   "idGloss": "parallel.1",
-  "oldEntry": "Popular explanation: two line or surfaces parallel to each other."
+  "oldEntry": "Popular explanation: two line or surfaces parallel to each other.",
+  "seeAlso": [
+    "horizontal",
+    "vertical.1a",
+    "street.1a"
+  ]
 }

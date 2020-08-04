@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "spinach"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5984,
   "recordNumber": 3560,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plant with large green leaves that is eaten as a vegetable. English = spinach."
   ],
   "idGloss": "spinach.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

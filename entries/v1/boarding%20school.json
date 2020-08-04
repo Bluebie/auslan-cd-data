@@ -8,14 +8,13 @@
     "deafness",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boarding school"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3211,
   "recordNumber": 1864,
   "signVisualComposition": "BOARDER + SCHOOL",
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A school where pupils live during term time. English = boarding school"
   ],
   "idGloss": "boarding school",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

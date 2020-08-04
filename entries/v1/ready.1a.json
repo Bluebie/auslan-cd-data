@@ -10,20 +10,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ready",
     "already"
   ],
   "deictic": [],
-  "cf": [
-    "prepare"
-  ],
   "signNumber": 6304,
   "recordNumber": 3766,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,8 +37,11 @@
     "1. To have prepared yourself or to have been prepared for something. English = (be) ready."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "ready.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "prepare"
+  ]
 }

@@ -19,9 +19,9 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "man",
     "men",
@@ -29,14 +29,9 @@
     "masculine"
   ],
   "deictic": [],
-  "cf": [
-    "boy.1",
-    "boy.2",
-    "gentleman.1a"
-  ],
   "signNumber": 5616,
   "recordNumber": 3327,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -53,11 +48,16 @@
     "2. To relate to or be typical of men, rather than women. English = masculine."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An adult male human being. English = man (singular), men (plural).",
     "2. An animal, like a man, that belongs to the sex that cannot have babies or lay eggs. English = male."
   ],
   "idGloss": "man.1a",
-  "oldEntry": "Popular explanation: stroking a beard."
+  "oldEntry": "Popular explanation: stroking a beard.",
+  "seeAlso": [
+    "boy.1",
+    "boy.2",
+    "gentleman.1a"
+  ]
 }

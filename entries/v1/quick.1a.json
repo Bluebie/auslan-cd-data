@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "quick",
     "sudden",
@@ -29,10 +29,9 @@
     "suddenly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1053,
   "recordNumber": 619,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -55,8 +54,9 @@
     "1. To do or move with great speed. English = (be) quick, (be) sudden; rush."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "quick.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

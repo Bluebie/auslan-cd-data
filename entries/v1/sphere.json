@@ -11,9 +11,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sphere",
     "ball",
@@ -22,10 +22,9 @@
     "globe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3011,
   "recordNumber": 1720,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -39,5 +38,6 @@
   "generalMeaning": "A large spherically shaped object, or any thing or any action directly or indirectly associated with this, such as a lettuce, cabbage, ball, globe and so on.",
   "nominalLexeme": [],
   "idGloss": "sphere",
-  "oldEntry": "Popular explanation: a sphere shaped object."
+  "oldEntry": "Popular explanation: a sphere shaped object.",
+  "seeAlso": []
 }

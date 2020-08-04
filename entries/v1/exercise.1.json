@@ -15,19 +15,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "exercise",
     "callisthenics",
     "aerobics"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5725,
   "recordNumber": 3389,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 8,
@@ -42,12 +41,13 @@
     "3. To do aerobics."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Energetic movements which you do in order to become fit or remain healthy. English = exercise.",
     "2. Simple exercises that you do to keep fit and healthy. English = callisthenics.",
     "3. A form of exercise which increases the amount of oxygen in your blood, and which strengthens your heart and lungs. English = aerobics."
   ],
   "idGloss": "exercise.1",
-  "oldEntry": "Popular explanation: doing callisthenics."
+  "oldEntry": "Popular explanation: doing callisthenics.",
+  "seeAlso": []
 }

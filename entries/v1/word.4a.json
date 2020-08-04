@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "LINE + W",
-  "queries": "",
+  "queries": null,
   "english": [
     "word"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2284,
   "recordNumber": 1289,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A single unit of language that can be represented in writing, sign, fingerspelling, or speech. In English, a word has a space on either side of it when it is written. A word can usually have one or more meanings. English = word."
   ],
   "idGloss": "word.4a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

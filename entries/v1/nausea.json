@@ -10,9 +10,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nausea",
     "queasiness",
@@ -20,10 +20,9 @@
     "queasy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2572,
   "recordNumber": 1418,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. To feel sick as if you are likely to vomit. English = (be) nauseous, (be) queasy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being sick as if you were going to vomit. English = nausea, queasiness."
   ],
   "idGloss": "nausea",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

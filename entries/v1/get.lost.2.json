@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "An offensive sign to be used with caution.",
   "english": [
     "get lost",
     "get fucked"
   ],
   "deictic": [],
-  "cf": [
-    "get.stuffed"
-  ],
   "signNumber": 6556,
   "recordNumber": 3907,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,8 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "get.lost.2",
-  "oldEntry": "Popular explanation: culturally shared common obscene gesture."
+  "oldEntry": "Popular explanation: culturally shared common obscene gesture.",
+  "seeAlso": [
+    "get.stuffed"
+  ]
 }

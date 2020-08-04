@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "support",
     "foundations"
   ],
   "deictic": [],
-  "cf": [
-    "stumps.piers"
-  ],
   "signNumber": 6030,
   "recordNumber": 3590,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,11 +33,14 @@
     "1. Of an object, to be underneath another object and to help hold it up so that it does not fall over. English = support."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing which is placed underneath something else that helps to hold it up and stop it falling over. English = support.",
     "2. The layers of bricks or concrete below the ground or on the ground that a building or other structure is built on. English = foundations."
   ],
   "idGloss": "support.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "stumps.piers"
+  ]
 }

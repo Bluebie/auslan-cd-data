@@ -21,8 +21,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sun",
     "sunshine",
@@ -31,13 +31,9 @@
     "radiate"
   ],
   "deictic": [],
-  "cf": [
-    "suntan.1",
-    "suntan.2"
-  ],
   "signNumber": 5,
   "recordNumber": 4,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -55,11 +51,15 @@
     "3. Of the sun, to give out heat and light in all directions, like a pattern of lines drawn from the centre of a circle to various points on its edge. English = radiate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ball of fire in the sky that the Earth goes round, and that gives us heat and light. English = sun.",
     "2. The light and heat that comes from the sun. English = sunshine, sun."
   ],
   "idGloss": "sun",
-  "oldEntry": "Popular explanation: light and heat radiating from the sun."
+  "oldEntry": "Popular explanation: light and heat radiating from the sun.",
+  "seeAlso": [
+    "suntan.1",
+    "suntan.2"
+  ]
 }

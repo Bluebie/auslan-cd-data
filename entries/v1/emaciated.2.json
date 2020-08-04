@@ -11,19 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "emaciated"
   ],
   "deictic": [],
-  "cf": [
-    "pole.1a"
-  ],
   "signNumber": 398,
   "recordNumber": 217,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -42,8 +39,11 @@
     "1. To be very thin and weak, especially because of illness or lack of food. English = (be) emaciated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "emaciated.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "pole.1a"
+  ]
 }

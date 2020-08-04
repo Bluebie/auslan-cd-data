@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "addition",
     "add",
@@ -35,13 +35,9 @@
     "additionally"
   ],
   "deictic": [],
-  "cf": [
-    "and.2",
-    "exaggerate.1"
-  ],
   "signNumber": 4233,
   "recordNumber": 2561,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -66,10 +62,14 @@
     "2. To be a thing, person or amount which is added to others of the same kind, often when it is not really needed. English = (be) extra, (be) additional."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something which as been put in the same place as another thing; an extra amount of something. English = addition."
   ],
   "idGloss": "add.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "and.2",
+    "exaggerate.1"
+  ]
 }

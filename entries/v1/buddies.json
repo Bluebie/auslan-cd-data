@@ -11,9 +11,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "buddies",
     "chums",
@@ -21,10 +21,9 @@
     "best friends"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2479,
   "recordNumber": 1376,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -40,10 +39,11 @@
     "1. To be best friends with someone, especially while at school, if not ever since school. English = (be) buddies, (be) best friends, (be) mates."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two people, especially school children, who are each others best friends. English = buddies, chums."
   ],
   "idGloss": "buddies",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

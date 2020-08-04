@@ -12,20 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oath",
     "swear"
   ],
   "deictic": [],
-  "cf": [
-    "promise.1"
-  ],
   "signNumber": 1282,
   "recordNumber": 761,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,10 +37,13 @@
     "1. To make a formal promise, especially a promise to tell the truth in a court of law. English = swear an oath, take an oath."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A formal promise, especially a promise to tell the truth in a court of law. English = oath."
   ],
   "idGloss": "oath.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "promise.1"
+  ]
 }

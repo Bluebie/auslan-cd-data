@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wheelchair"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5938,
   "recordNumber": 3537,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 17,
@@ -35,10 +34,11 @@
     "2. To operate a wheelchair."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A chair with wheels that ill or injured people use in order to move about, when they cannot walk. English = wheelchair."
   ],
   "idGloss": "wheelchair.2",
-  "oldEntry": "Popular explanation: operating a wheelchair."
+  "oldEntry": "Popular explanation: operating a wheelchair.",
+  "seeAlso": []
 }

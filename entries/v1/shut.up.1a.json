@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shut up"
   ],
   "deictic": [],
-  "cf": [
-    "extinguish.light",
-    "platypus"
-  ],
   "signNumber": 3273,
   "recordNumber": 1906,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -41,8 +37,12 @@
     "2. To talk rudely or abruptly to someone, often ending by telling them to shut up; to snap at someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "shut.up.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "extinguish.light",
+    "platypus"
+  ]
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "toothbrush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6078,
   "recordNumber": 3616,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -32,10 +31,11 @@
     "1. To brush your teeth, to clean your teeth, to clean your teeth with a toothbrush."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small brush with a long handle which you use for cleaning your teeth. English = toothbrush."
   ],
   "idGloss": "toothbrush.1a",
-  "oldEntry": "Popular explanation: brushing one's teeth."
+  "oldEntry": "Popular explanation: brushing one's teeth.",
+  "seeAlso": []
 }

@@ -16,19 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smile",
     "happiness",
     "happy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 859,
   "recordNumber": 491,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 9,
@@ -47,11 +46,12 @@
     "2. To have feelings of pleasure, often because something nice has happened. English = (be) happy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The expression you have when you smile. English = smile.",
     "2. The feeling you often have when you smile; a feeling of pleasure, often because something nice has happened. English = happiness."
   ],
   "idGloss": "smile.1a",
-  "oldEntry": "Popular explanation: the outline of a smile."
+  "oldEntry": "Popular explanation: the outline of a smile.",
+  "seeAlso": []
 }

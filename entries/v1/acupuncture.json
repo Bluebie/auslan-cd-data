@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "acupuncture"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 348,
   "recordNumber": 192,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -32,5 +31,6 @@
     "1. The treatment of a person's illness or pain by sticking small needles into their body. English = acupuncture."
   ],
   "idGloss": "acupuncture",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

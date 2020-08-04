@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chiropractor"
   ],
   "deictic": [],
-  "cf": [
-    "massage.1",
-    "massage.2"
-  ],
   "signNumber": 3031.1,
   "recordNumber": 1738,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -37,10 +33,14 @@
     "1. Of a chiropractor, to manipulate segments of the spinal column."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who manipulates segments of the spinal column of his or her patients in the belief that this will help improve nerve function and treat a variety of ailments they may have. English = chiropractor."
   ],
   "idGloss": "chiropractor",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "massage.1",
+    "massage.2"
+  ]
 }

@@ -15,22 +15,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "paralysis",
     "stroke",
     "paralysed"
   ],
   "deictic": [],
-  "cf": [
-    "freeze.1a",
-    "facial.expression.1a"
-  ],
   "signNumber": 2990,
   "recordNumber": 1701,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 6,
@@ -46,11 +42,15 @@
     "2. To have a sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = have a stroke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The loss of feeling in your body or in part of it, especially the face, and to be unable to move it. English = paralysis.",
     "2. A sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = stroke."
   ],
   "idGloss": "paralysed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "freeze.1a",
+    "facial.expression.1a"
+  ]
 }

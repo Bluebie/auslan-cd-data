@@ -7,17 +7,16 @@
     "onehand",
     "transl"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "discus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4799,
   "recordNumber": 2896,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -30,10 +29,11 @@
     "1. To throw a discus."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A heavy, flat circular object that is thrown as a sport. English = discus."
   ],
   "idGloss": "discus",
-  "oldEntry": "Popular explanation: throwing a discus."
+  "oldEntry": "Popular explanation: throwing a discus.",
+  "seeAlso": []
 }

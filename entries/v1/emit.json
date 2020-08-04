@@ -19,8 +19,8 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Located and orientated to describe the location of referent(s), for example, 'a string of party lights' could be signed by repeating the sign as the hand is moved sideways in an arc above the head.",
   "english": [
     "radiate",
@@ -31,14 +31,9 @@
     "heater"
   ],
   "deictic": [],
-  "cf": [
-    "copy.1a",
-    "projector.1a",
-    "headlights"
-  ],
   "signNumber": 81,
   "recordNumber": 45,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -54,10 +49,15 @@
     "2. Of a source of energy (light, heat, sound, etc.) to give out rays or waves in all directions, like a pattern of lines drawn from the centre of a circle to various point on its edge. English = radiate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A source of energy (light, heat, sound, etc.) such as a speaker, light, heater."
   ],
   "idGloss": "emit",
-  "oldEntry": "Popular explanation: light or sound radiating out from somewhere."
+  "oldEntry": "Popular explanation: light or sound radiating out from somewhere.",
+  "seeAlso": [
+    "copy.1a",
+    "projector.1a",
+    "headlights"
+  ]
 }

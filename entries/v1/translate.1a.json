@@ -13,17 +13,16 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "translation",
     "translate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4264,
   "recordNumber": 2587,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -38,10 +37,11 @@
     "1. To take something said, written or signed in one language and say, write or sign it in another language. English = translate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of text in one language (said, written or signed) which is constructed as the equivalent of another text in another language. English = translation."
   ],
   "idGloss": "translate.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

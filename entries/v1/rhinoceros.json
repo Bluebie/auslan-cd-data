@@ -10,21 +10,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rhinoceros"
   ],
   "deictic": [],
-  "cf": [
-    "zebra",
-    "giraffe.1",
-    "lion"
-  ],
   "signNumber": 6569,
   "recordNumber": 3915,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large animal with one or two horns on its nose. It lives in Africa and Asia and eats plants. English = rhinoceros."
   ],
   "idGloss": "rhinoceros",
-  "oldEntry": "Popular explanation: the horn of a rhinoceros."
+  "oldEntry": "Popular explanation: the horn of a rhinoceros.",
+  "seeAlso": [
+    "zebra",
+    "giraffe.1",
+    "lion"
+  ]
 }

@@ -21,9 +21,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "building",
     "builder",
@@ -34,10 +34,9 @@
     "build up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3876,
   "recordNumber": 2305,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -55,11 +54,12 @@
     "2. To grow and change over a period of time into a better or more complete thing. English = develop. Idiomatic English = build up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A structure which has a roof and walls, for example a house or a factory. English = building.",
     "2. A person whose job is to build houses and other buildings. English = builder."
   ],
   "idGloss": "build.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,14 +8,13 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "half-slip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4311,
   "recordNumber": 2626,
   "signVisualComposition": "HALF + SKIRT",
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A petticoat that hangs under a skirt. English = half-slip."
   ],
   "idGloss": "half-slip",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -16,9 +16,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "caption",
     "captioning",
@@ -27,10 +27,9 @@
     "captioned"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6482,
   "recordNumber": 3859,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 12.1,
   "passiveHandshape": 12.1,
   "primaryLocation": 15,
@@ -44,12 +43,13 @@
     "2. Of a film, video or television program, to have printed words at the bottom of the screen as a translation or as an aid to the deaf and hearing-impaired. English = (be) sub-titled, (be) captioned."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The words printed underneath a picture or a cartoon which explain what it is about. English = caption.",
     "2. The words printed at the bottom of the screen that enable deaf and hearing-impaired people to read what people are saying on television or video. English = captions, captioning.",
     "3. The printed translations that you can read at the bottom of the screen when you are watching a foreign film. English = sub-titles."
   ],
   "idGloss": "caption.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

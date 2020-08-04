@@ -17,9 +17,9 @@
     "engtf6",
     "engtf7"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "preference",
     "requirement",
@@ -30,10 +30,9 @@
     "needed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 693,
   "recordNumber": 400,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -48,11 +47,12 @@
     "3. To be needed because something is necessary or essential; to be needed very much. English = (be) required, (be) necessary, (be) badly needed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something that you would rather have given a choice; the choice of something instead of something else; the liking of one thing above another thing or other things. English = preference.",
     "2. Something that you must have in order to do something that you want to do. English = requirement."
   ],
   "idGloss": "require.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

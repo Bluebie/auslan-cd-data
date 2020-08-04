@@ -15,21 +15,18 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "criticism",
     "criticise",
     "critical"
   ],
   "deictic": [],
-  "cf": [
-    "blame.1a"
-  ],
   "signNumber": 5004,
   "recordNumber": 3017,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -48,11 +45,14 @@
     "2. Of a person, to be always ready to criticise others. English = (be) critical."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The expression of disapproval of someone or something by saying what you think is wrong with them. English = criticism.",
     "2. A comment in which you say someone or something has a particular fault. English = criticism."
   ],
   "idGloss": "criticise",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "blame.1a"
+  ]
 }

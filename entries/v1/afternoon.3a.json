@@ -11,17 +11,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "afternoon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2472,
   "recordNumber": 1372,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,10 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of each day that begins at lunchtime and ends at about six o'clock. English = afternoon."
   ],
   "idGloss": "afternoon.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

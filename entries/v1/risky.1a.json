@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "risk",
     "risky",
@@ -28,10 +28,9 @@
     "doubtful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 296,
   "recordNumber": 171,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -51,10 +50,11 @@
     "2. To be unsure about something. English = (be) doubtful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The possibility that something unpleasant will happen. English = risk."
   ],
   "idGloss": "risky.1a",
-  "oldEntry": "Popular explanation: tugging on or loosening one's tie through anxiety."
+  "oldEntry": "Popular explanation: tugging on or loosening one's tie through anxiety.",
+  "seeAlso": []
 }

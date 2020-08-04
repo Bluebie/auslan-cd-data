@@ -14,9 +14,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "house",
     "dwelling",
@@ -24,12 +24,9 @@
     "home"
   ],
   "deictic": [],
-  "cf": [
-    "go.home.1a"
-  ],
   "signNumber": 3646,
   "recordNumber": 2147,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -42,11 +39,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building in which people live. English = house. Formal English = dwelling, residence.",
     "2. The place where you live and where you feel you belong. English = home, residence."
   ],
   "idGloss": "house",
-  "oldEntry": "Popular explanation: the shape of a roof."
+  "oldEntry": "Popular explanation: the shape of a roof.",
+  "seeAlso": [
+    "go.home.1a"
+  ]
 }

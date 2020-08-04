@@ -12,19 +12,16 @@
     "syn1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "silver"
   ],
   "deictic": [],
-  "cf": [
-    "gold"
-  ],
   "signNumber": 5021,
   "recordNumber": 3031,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To be greyish-white in colour. English = (be) silver."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A valuable greyish-white metal that is used for making jewellery and ornaments. English = silver."
   ],
   "idGloss": "silver.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "gold"
+  ]
 }

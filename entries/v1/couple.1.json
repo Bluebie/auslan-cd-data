@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "couple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1591,
   "recordNumber": 949,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Two people who are married, living together, romantically involved, or having a sexual relationship. English = couple."
   ],
   "idGloss": "couple.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

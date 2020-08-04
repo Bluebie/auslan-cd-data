@@ -12,20 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mail out"
   ],
   "deictic": [],
-  "cf": [
-    "envelope.2",
-    "letter"
-  ],
   "signNumber": 4004,
   "recordNumber": 2395,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -41,10 +37,14 @@
     "1. To send a message written on a piece of paper through the mail to lots of different people; notify by mail or post."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A message written on a piece of paper and sent through the mail to someone. English = mail out."
   ],
   "idGloss": "send.a.letter.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "envelope.2",
+    "letter"
+  ]
 }

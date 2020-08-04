@@ -13,19 +13,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diarrhoea",
     "defecate",
     "shit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4958,
   "recordNumber": 2995,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -42,10 +41,11 @@
     "2. To have diarrhoea. Idiomatic English = have the runs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An illness in which people get rid of lot of faeces that are much more liquid than usual. English = diarrhoea."
   ],
   "idGloss": "diarrhoea",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

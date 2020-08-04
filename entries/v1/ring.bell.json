@@ -13,21 +13,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bell",
     "alarm",
     "ring"
   ],
   "deictic": [],
-  "cf": [
-    "alarm.bell"
-  ],
   "signNumber": 6132,
   "recordNumber": 3649,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -41,12 +38,15 @@
     "2. Of a bell, to make a sound. English = ring."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A hollow metal object shaped like a cup which has a piece hanging inside it that hits the sides and makes a sound. English = bell.",
     "2. A device that makes a ringing sound and is used to give a signal or to attract people's attention. English = bell.",
     "3. An automatic device which warns you of danger, for example by ringing a bell. English = alarm."
   ],
   "idGloss": "ring.bell",
-  "oldEntry": "Popular explanation: ringing a bell."
+  "oldEntry": "Popular explanation: ringing a bell.",
+  "seeAlso": [
+    "alarm.bell"
+  ]
 }

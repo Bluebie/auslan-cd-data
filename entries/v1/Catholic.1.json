@@ -19,21 +19,17 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Catholicism",
     "Catholic",
     "Christian"
   ],
   "deictic": [],
-  "cf": [
-    "Protestant.1",
-    "Protestant.2"
-  ],
   "signNumber": 4715,
   "recordNumber": 2849,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -48,12 +44,16 @@
     "3. To be person who believes in Jesus Christ and follows his teachings. (Particularly used by Catholics in this sense.) English = (be) Christian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The set of Christian beliefs that are held by people who belong to the branch of the church which accepts the Pope as its leader. English = Catholicism.",
     "2. A person who belongs to the branch of the Christian church which accepts the Pope as its leader. English = Catholic.",
     "3. A person who believes in Jesus Christ and follows his teachings. (Particularly used by Catholics in this sense.) English = Christian."
   ],
   "idGloss": "Catholic.1",
-  "oldEntry": "Popular explanation: tracing a cross."
+  "oldEntry": "Popular explanation: tracing a cross.",
+  "seeAlso": [
+    "Protestant.1",
+    "Protestant.2"
+  ]
 }

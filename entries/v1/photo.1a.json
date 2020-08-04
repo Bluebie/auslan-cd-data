@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "photo",
     "photography",
@@ -28,13 +28,9 @@
     "photographic"
   ],
   "deictic": [],
-  "cf": [
-    "camera.1",
-    "camera.2"
-  ],
   "signNumber": 2435,
   "recordNumber": 1351,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -48,11 +44,15 @@
     "2. To relate to photography. English = (be) photographic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A picture that is made by using a camera. English = photo, photography, picture.",
     "2. The art and skill of using a camera and producing photographs. English = photography."
   ],
   "idGloss": "photo.1a",
-  "oldEntry": "Popular explanation: copy the face."
+  "oldEntry": "Popular explanation: copy the face.",
+  "seeAlso": [
+    "camera.1",
+    "camera.2"
+  ]
 }

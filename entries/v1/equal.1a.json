@@ -23,9 +23,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fairness",
     "equality",
@@ -34,12 +34,9 @@
     "equal"
   ],
   "deictic": [],
-  "cf": [
-    "advanced.1"
-  ],
   "signNumber": 4105,
   "recordNumber": 2466,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -62,11 +59,14 @@
     "2. To have the same distribution of something for each person, group or area. English = (be) even, (be) equal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being reasonable and just. English = fairness.",
     "2. The same status, rights, and opportunities for all the members of a society or group. English = equality."
   ],
   "idGloss": "equal.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "advanced.1"
+  ]
 }

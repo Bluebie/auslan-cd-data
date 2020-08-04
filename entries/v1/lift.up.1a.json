@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lift",
     "lift up",
@@ -30,10 +30,9 @@
     "cheer up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3848,
   "recordNumber": 2287,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -57,8 +56,9 @@
     "3. To increase the volume of noise being produced by something. English = turn up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "lift.up.1a",
-  "oldEntry": "Popular explanation: lifting something up."
+  "oldEntry": "Popular explanation: lifting something up.",
+  "seeAlso": []
 }

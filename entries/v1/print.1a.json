@@ -19,9 +19,9 @@
     "engtf5",
     "engtf6"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "print",
     "printing",
@@ -31,10 +31,9 @@
     "publish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5999,
   "recordNumber": 3572,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,7 +49,7 @@
     "4. Of a company, to print many copies of a book which are then sent to shops and sold. English = publish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The letters, numbers or pictures on a page of a book or newspaper; a book or a magazine that has been published. English = print, printing; publication.",
     "2. A person or firm that prints books, newspapers, or leaflets. English = printer.",
@@ -58,5 +57,6 @@
     "4. An individual or company that makes copies of a book which are then sent to shops and sold. English = publisher."
   ],
   "idGloss": "print.1a",
-  "oldEntry": "Popular explanation: the action of a printing press."
+  "oldEntry": "Popular explanation: the action of a printing press.",
+  "seeAlso": []
 }

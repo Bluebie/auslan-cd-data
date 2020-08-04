@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rover"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 714,
   "recordNumber": 414,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,5 +31,6 @@
     "1. A player in Australian rules football who specialises in ground play and taking and clearing the ball after ruck duels. English = rover."
   ],
   "idGloss": "rover",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

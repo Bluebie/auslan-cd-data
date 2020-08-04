@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "magazine",
     "journal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5492,
   "recordNumber": 3260,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -31,11 +30,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A publication with a paper cover which is issued regularly, usually weekly or monthly, and which contains articles, stories, photographs and advertisements. English = magazine.",
     "2. A magazine for people with a particular interest, especially a professional or academic interest. English = journal."
   ],
   "idGloss": "magazine.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

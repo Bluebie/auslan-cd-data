@@ -14,18 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wee",
     "wee-wee"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 751,
   "recordNumber": 433,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -44,10 +43,11 @@
     "1. To get rid of urine from your body. A child's sign. English word = wee-wee, do a wee-wee."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The liquid that you get rid of from your body when you go to the toilet. A child's sign. English word = wee, wee-wee."
   ],
   "idGloss": "wee-wee",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

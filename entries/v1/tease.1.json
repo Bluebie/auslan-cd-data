@@ -28,9 +28,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tease",
     "taunt",
@@ -44,12 +44,9 @@
     "harass"
   ],
   "deictic": [],
-  "cf": [
-    "sexual harassment"
-  ],
   "signNumber": 2732,
   "recordNumber": 1523,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -68,7 +65,7 @@
     "4. To keep doing something to someone that annoys or bothers them, especially saying unkind things. English = pester, harass."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who makes fun of people in a gently but slightly cruel way. English = tease.",
     "2. Offensive words spoken to someone about their weaknesses or failures in order to upset or annoy them. English = taunt, taunts.",
@@ -76,5 +73,8 @@
     "4. Behaviour which is intended to trouble or annoy someone. English = harassment."
   ],
   "idGloss": "tease.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sexual harassment"
+  ]
 }

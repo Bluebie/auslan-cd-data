@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sunset",
     "set"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 215,
   "recordNumber": 125,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "1. Of the sun, to go below the horizon. English = set."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The time in the evening when the sky grows dark and then the sun disappears below the horizon. English = sunset.",
     "2. The colours and light that you see in the western part of the sky when the sun disappears in the evening. English = sunset."
   ],
   "idGloss": "sunset.1a",
-  "oldEntry": "Popular explanation: an orb setting below the horizon."
+  "oldEntry": "Popular explanation: an orb setting below the horizon.",
+  "seeAlso": []
 }

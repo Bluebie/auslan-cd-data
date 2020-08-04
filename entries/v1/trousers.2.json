@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "trousers",
     "slacks"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2087,
   "recordNumber": 1212,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 17,
@@ -34,11 +33,12 @@
     "1. To put on or wear a pair of trousers or slacks."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing that covers your body from the waist downwards, and covers each leg separately. English = trousers.",
     "2. A pair of casual trousers. English = slacks."
   ],
   "idGloss": "trousers.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

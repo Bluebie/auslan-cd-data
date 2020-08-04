@@ -7,17 +7,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "international"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5014,
   "recordNumber": 3024,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "1. To involve different countries. English = (be) international."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "international",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

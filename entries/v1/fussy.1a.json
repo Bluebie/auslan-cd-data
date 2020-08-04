@@ -7,17 +7,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fussy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 540,
   "recordNumber": 308,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -30,8 +29,9 @@
     "1. To be excessively nervous, concerned with details, or careful in choosing things. English = (be) fussy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "fussy.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

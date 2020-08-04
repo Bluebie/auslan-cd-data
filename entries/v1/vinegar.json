@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vinegar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1750,
   "recordNumber": 1048,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sharp-tasting liquid, usually made from sour wine or malt, which is used in making things such as salad dressing. English = vinegar."
   ],
   "idGloss": "vinegar",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

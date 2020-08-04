@@ -9,16 +9,15 @@
     "syn1"
   ],
   "sense": "4",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "slippers"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5608,
   "recordNumber": 3321,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Loose, soft shoes that you wear in the house. English = slippers."
   ],
   "idGloss": "slippers",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

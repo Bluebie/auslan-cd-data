@@ -16,22 +16,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers form the Wish handshape on the subordinate hand.",
   "english": [
     "horse",
     "horse riding"
   ],
   "deictic": [],
-  "cf": [
-    "horse.racing.1",
-    "horse.racing.2",
-    "trots"
-  ],
   "signNumber": 1798,
   "recordNumber": 1085,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -47,11 +42,16 @@
     "2. To ride on a horse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large animal which you can ride. They are often used for transport or for pulling ploughs and carts. English = horse.",
     "2. The activity of riding horses. English = horse riding."
   ],
   "idGloss": "horse",
-  "oldEntry": "Popular explanation: riding a horse."
+  "oldEntry": "Popular explanation: riding a horse.",
+  "seeAlso": [
+    "horse.racing.1",
+    "horse.racing.2",
+    "trots"
+  ]
 }

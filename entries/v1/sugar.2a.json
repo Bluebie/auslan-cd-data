@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sugar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1992,
   "recordNumber": 1172,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,10 +36,11 @@
     "1. To add sugar to food; to sprinkle sugar on food; to sugar."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet substance, often in the form of white or brown crystals, which is used to sweeten food and drink. English = sugar."
   ],
   "idGloss": "sugar.2a",
-  "oldEntry": "Popular explanation: shaking a teaspoon of sugar side to side."
+  "oldEntry": "Popular explanation: shaking a teaspoon of sugar side to side.",
+  "seeAlso": []
 }

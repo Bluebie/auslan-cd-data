@@ -26,9 +26,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "part",
     "area",
@@ -44,10 +44,9 @@
     "generally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2546,
   "recordNumber": 1410,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -67,12 +66,13 @@
     "2. Of a location, number or quantity , to be close to the truth but not exactly. English = (be) approximate, (be) roundabout, (be) general."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A particular bit of some space (such as a room, building, city, country, or the world). English = part, area, district, region, place.",
     "2. A particular subject or area of activity or interest. English = field.",
     "3. The place where a person or thing is located or to be found. English = whereabouts."
   ],
   "idGloss": "area.1a",
-  "oldEntry": "Popular explanation: indicating an area."
+  "oldEntry": "Popular explanation: indicating an area.",
+  "seeAlso": []
 }

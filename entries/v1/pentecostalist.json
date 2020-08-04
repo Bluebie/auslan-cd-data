@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Pentecostalism",
     "Pentecostalist",
     "Pentecostal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2611,
   "recordNumber": 1449,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 10,
@@ -39,12 +38,13 @@
     "2. To go into a religious trance and utter sounds and words that are not intelligible as part of any normal spoken language. English = speak in tongues."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The beliefs of any of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalism.",
     "2. A member of any one of various Christian groups that emphasise the charismatic aspects of Christianity and adopt a fundamental attitude to the Bible. English = Pentecostalist.",
     "3. A state in which a person goes into a religious trance and utters sounds and words that are not intelligible as part of any  normal spoken language. English = speaking in tongues."
   ],
   "idGloss": "pentecostalist",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

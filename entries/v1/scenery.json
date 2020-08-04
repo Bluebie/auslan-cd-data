@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scenery",
     "backdrop"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2721,
   "recordNumber": 1516,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The painted cloth and boards at the back of a stage which are made to look like a place, for example a room or a place outside. English = scenery.",
     "2. A large piece of cloth, often with scenery or buildings painted on it, that is hung at the back of a stage while a play is being performed. English = backdrop."
   ],
   "idGloss": "scenery",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

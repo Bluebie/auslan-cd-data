@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "concept"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5310,
   "recordNumber": 3179,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An idea or an abstract principle. English = concept."
   ],
   "idGloss": "concept",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

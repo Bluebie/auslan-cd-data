@@ -19,9 +19,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "obscurity",
     "haziness",
@@ -30,12 +30,9 @@
     "unclear"
   ],
   "deictic": [],
-  "cf": [
-    "dirty"
-  ],
   "signNumber": 2594,
   "recordNumber": 1434,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 6,
@@ -54,12 +51,15 @@
     "3. Of an idea, to be difficult to think about easily because it is not precise or exact enough. (A borrowing from ASL in this sense.) English = (be) unclear, (be) hazy, (be) obscure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Difficulty in seeing something because of poor light, haziness or dirt. English = obscurity.",
     "2. A dirtiness in the air which reduces visibility. English = haziness.",
     "3. An idea which is difficult to think about or explain because it is not precise or exact enough. (A borrowing from ASL in this sense.)"
   ],
   "idGloss": "unclear",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dirty"
+  ]
 }

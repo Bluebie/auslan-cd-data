@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "determination",
     "obsession",
@@ -27,7 +27,6 @@
     "obsessive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 837,
   "recordNumber": 478,
   "signVisualComposition": "THINK + SPECIFIC",
@@ -46,11 +45,12 @@
     "2. To be unable to stop thinking about something, to have your thoughts on one thing all the time. English = (be) obsessed (with something), (be) obsessive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality you show when you have decided to do something and you will not let anything stop you. English = determination.",
     "2. Something which someone cannot stop thinking or worrying about. English = obsession."
   ],
   "idGloss": "determined.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

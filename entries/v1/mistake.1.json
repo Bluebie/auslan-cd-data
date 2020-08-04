@@ -19,21 +19,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mistake",
     "error",
     "mistaken"
   ],
   "deictic": [],
-  "cf": [
-    "wrong"
-  ],
   "signNumber": 2927,
   "recordNumber": 1660,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -54,10 +51,13 @@
     "2. To have done or thought something that is wrong. English = (be) mistaken, (be) in error."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action or an opinion that is wrong. English = mistake, error."
   ],
   "idGloss": "mistake.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wrong"
+  ]
 }

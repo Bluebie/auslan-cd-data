@@ -14,21 +14,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bath",
     "bathtub",
     "bathe"
   ],
   "deictic": [],
-  "cf": [
-    "shower"
-  ],
   "signNumber": 1660,
   "recordNumber": 985,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 16,
@@ -44,11 +41,14 @@
     "1. To sit or lie in a bath and wash your body. English = have a bath, bathe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, rectangular container which you fill with water and sit or lie in while you wash your body. English = bath, bathtub.",
     "2. The act of washing your body while sitting or lying in a bath filled with water. English = bath."
   ],
   "idGloss": "bathtub",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "shower"
+  ]
 }

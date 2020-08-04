@@ -15,21 +15,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ice-skates",
     "ice-skating",
     "roller-blades"
   ],
   "deictic": [],
-  "cf": [
-    "roller-skating"
-  ],
   "signNumber": 3813,
   "recordNumber": 2266,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,12 +39,15 @@
     "1. To ice-skate, to roller-blade, to skate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Shoes with a metal blade attached to them that you wear when you move about or slide on a surface covered with ice. English = ice-skates.",
     "2. A sport in which you move or slide about on a flat surface covered in ice on special shoes with a metal blade attached to them. English = ice-skating.",
     "3. Shoes with small wheels on the bottom, in a line down the centre. English = roller-blades."
   ],
   "idGloss": "ice-skating.1",
-  "oldEntry": "Popular explanation: a pair of ice skates."
+  "oldEntry": "Popular explanation: a pair of ice skates.",
+  "seeAlso": [
+    "roller-skating"
+  ]
 }

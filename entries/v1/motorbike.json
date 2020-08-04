@@ -13,18 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "motorcycle",
     "motorbike"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5884,
   "recordNumber": 3498,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. To operate and ride a motorbike or motorcycle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A two-wheeled vehicle that has an engine. English = motorcycle, motorbike.",
     "2. A motorbike enthusiast. Informal English = bikie."
   ],
   "idGloss": "motorbike",
-  "oldEntry": "Popular explanation: operating the throttle of a motorbike."
+  "oldEntry": "Popular explanation: operating the throttle of a motorbike.",
+  "seeAlso": []
 }

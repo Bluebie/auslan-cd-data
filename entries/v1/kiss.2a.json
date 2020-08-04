@@ -18,21 +18,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "kiss",
     "love",
     "adore"
   ],
   "deictic": [],
-  "cf": [
-    "love-bite"
-  ],
   "signNumber": 132,
   "recordNumber": 70,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -49,10 +46,13 @@
     "3. To like something or someone very much. English = adore."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A touch with your lips to show affection or as a greeting. English = kiss."
   ],
   "idGloss": "kiss.2a",
-  "oldEntry": "Popular explanation: two sets of lips kissing."
+  "oldEntry": "Popular explanation: two sets of lips kissing.",
+  "seeAlso": [
+    "love-bite"
+  ]
 }

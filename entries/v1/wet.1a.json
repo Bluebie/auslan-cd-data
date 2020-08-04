@@ -30,9 +30,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wetness",
     "dampness",
@@ -48,13 +48,9 @@
     "soft"
   ],
   "deictic": [],
-  "cf": [
-    "indulgent",
-    "squeeze"
-  ],
   "signNumber": 3403,
   "recordNumber": 1989,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -76,7 +72,7 @@
     "4. To apply pressure to something with the fingers and hands so as to change its shape or bend it. English = squeeze."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being covered with water, rain, sweat, or another liquid. English = wetness.",
     "2. The state of being affected by water, rain, sweat, or another liquid so that you can feel it when you touch it. English = dampness",
@@ -84,5 +80,9 @@
     "4. The feeling of something that changes shape or bends easily when you touch, press or feel it. English = softness, tenderness."
   ],
   "idGloss": "wet.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "indulgent",
+    "squeeze"
+  ]
 }

@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "valley"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3892,
   "recordNumber": 2316,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, narrow area of land between hills, especially one that has a river flowing through it. English = valley."
   ],
   "idGloss": "valley",
-  "oldEntry": "Popular explanation: the outline of a valley."
+  "oldEntry": "Popular explanation: the outline of a valley.",
+  "seeAlso": []
 }

@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coin",
     "tablet"
   ],
   "deictic": [],
-  "cf": [
-    "take.tablet.1a"
-  ],
   "signNumber": 4945,
   "recordNumber": 2988,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,11 +37,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small round piece of metal which is used as money. English = coin.",
     "2. A small, hard (often round) piece of medicine, which you swallow. English = tablet."
   ],
   "idGloss": "coin.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "take.tablet.1a"
+  ]
 }

@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cover up"
   ],
   "deictic": [],
-  "cf": [
-    "liar"
-  ],
   "signNumber": 403,
   "recordNumber": 221,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -32,8 +29,11 @@
     "1. To hide something from people that you do not want them to know about; to not tell the complete truth about something. English = cover up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cover up",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "liar"
+  ]
 }

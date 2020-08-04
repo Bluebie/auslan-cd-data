@@ -13,16 +13,15 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hope",
     "expectation",
     "expect"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 503,
   "recordNumber": 280,
   "signVisualComposition": "THINK + HOPE",
@@ -41,11 +40,12 @@
     "2. To believe and hope that something will happen. English = expect."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of confidence that what you want to happen might happen. English = hope.",
     "2. A strong hope that something will happen. English = expectation."
   ],
   "idGloss": "expect.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

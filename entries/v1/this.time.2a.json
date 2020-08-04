@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "week"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1016,
   "recordNumber": 594,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -33,11 +32,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A recurring period of time (such as a week, month or year) before the time of speaking. The unit of time has already been mentioned. English = this week, this month, this year, etc.",
     "2. The used up or elapsed time within the unit of time (week, month, year, etc.) being talked about; this past week, this past month, this past year, etc."
   ],
   "idGloss": "this.time.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

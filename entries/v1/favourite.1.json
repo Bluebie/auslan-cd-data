@@ -18,9 +18,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "adoration",
     "favourite",
@@ -30,10 +30,9 @@
     "obsessive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3973,
   "recordNumber": 2376,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -51,12 +50,13 @@
     "4. Of behaviour and thoughts, to be focussed on one thing or person all the time. English = (be) obsessive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something to which your interest and preference is usually directed; a thing of a particular type that you like most or best; a favourite thing.",
     "2. A feeling of love and admiration towards someone. English = adoration.",
     "3. Thoughts about someone or something you have all the time without being able to stop, or any actions or behaviour you cannot stop or control. English = obsession."
   ],
   "idGloss": "favourite.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

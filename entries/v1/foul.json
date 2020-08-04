@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "foul"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3989,
   "recordNumber": 2386,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -32,10 +31,11 @@
     "1. To do something which is against the rules in a game or sport; to make a foul."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An action which is against the rules in a game or sport. English = foul."
   ],
   "idGloss": "foul",
-  "oldEntry": "Popular explanation: the foot over the line."
+  "oldEntry": "Popular explanation: the foot over the line.",
+  "seeAlso": []
 }

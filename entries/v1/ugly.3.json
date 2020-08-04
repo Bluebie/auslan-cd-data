@@ -12,17 +12,16 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "ugliness",
     "ugly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 529,
   "recordNumber": 300,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -38,10 +37,11 @@
     "1. To be very unattractive and unpleasant to look at. English = (be) ugly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of being ugly. English = ugliness."
   ],
   "idGloss": "ugly.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

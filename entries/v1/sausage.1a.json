@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sausage"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5217,
   "recordNumber": 3134,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A tube-shaped piece of finely minced meat which is mixed with other ingredients and put into a thin casing; or a string of them. English = sausage; sausages."
   ],
   "idGloss": "sausage.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

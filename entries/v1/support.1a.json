@@ -27,9 +27,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "support",
     "backing",
@@ -43,10 +43,9 @@
     "assist"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5996,
   "recordNumber": 3569,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -65,7 +64,7 @@
     "4. To give money, equipment, or services to help people in need. English = aid, assist."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The agreement you have with someone and the help you might give them; the money and things you give to someone to help them do something. English = support, backing.",
     "2. Things added to something else to make it stronger, especially soldiers which are sent to join an army in order to make it stronger. English = reinforcement, reinforcements.",
@@ -73,5 +72,6 @@
     "4. A person who helps another person in their work. English = assistant."
   ],
   "idGloss": "support.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

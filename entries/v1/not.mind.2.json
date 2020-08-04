@@ -12,14 +12,13 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [],
   "deictic": [],
-  "cf": [],
   "signNumber": 5435.1,
   "recordNumber": 3235,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": null,
   "primaryLocation": 2,
@@ -38,8 +37,9 @@
     "1. To be not annoyed or not bothered by something. English = not mind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.mind.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

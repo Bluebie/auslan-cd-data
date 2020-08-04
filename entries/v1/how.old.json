@@ -11,22 +11,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "age",
     "how old",
     "what age"
   ],
   "deictic": [],
-  "cf": [
-    "number.1a",
-    "how.much.1a"
-  ],
   "signNumber": 2432,
   "recordNumber": 1349,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -39,10 +35,14 @@
   "questionLexeme": [
     "1. Used to ask the number of years a person has lived. English = how old, what age."
   ],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The number of years that you have lived. English = age."
   ],
   "idGloss": "how.old",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "number.1a",
+    "how.much.1a"
+  ]
 }

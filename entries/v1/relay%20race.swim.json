@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relay",
     "relay race"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4133,
   "recordNumber": 2489,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A race between two or more teams of swimmers. Each member of the team swims one section of the race and must touch the palm of next member of the team at the end of their section. English = relay race."
   ],
   "idGloss": "relay race.swim",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

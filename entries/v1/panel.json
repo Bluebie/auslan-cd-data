@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "panel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2395,
   "recordNumber": 1321,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small group of people who are chosen to do something, for example to discuss something in public, to make a decision about something, or to interview a person for a job. English = panel."
   ],
   "idGloss": "panel",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

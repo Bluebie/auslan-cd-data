@@ -13,15 +13,14 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "interview",
     "interviewed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1482,
   "recordNumber": 884,
   "signVisualComposition": "QUESTION + ANSWER",
@@ -41,10 +40,11 @@
     "1. To be asked lots of questions and to give back lots of answers. English = (be) interviewed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A meeting in which someone asks you a lot of questions and you give lots of answers. English = interview."
   ],
   "idGloss": "interview.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

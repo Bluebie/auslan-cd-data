@@ -11,19 +11,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Christmas",
     "Santa Claus",
     "Father Christmas"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4497,
   "recordNumber": 2733,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,11 +35,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The Christian festival on the 25th of December when the birth of Jesus Christ is celebrated. English = Christmas.",
     "2. An imaginary old man with a long white beard and a red coat. Young children believe that he brings them their presents at Christmas. English = Santa Claus, Father Christmas."
   ],
   "idGloss": "Christmas.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

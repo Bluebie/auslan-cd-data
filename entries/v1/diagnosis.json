@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diagnosis",
     "diagnose"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1672,
   "recordNumber": 996,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. To identify what is wrong with someone who is ill. English = diagnose."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Identifying what is wrong with someone who is ill. English = diagnosis."
   ],
   "idGloss": "diagnosis",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

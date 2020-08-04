@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "forget"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 12,
   "recordNumber": 8,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -35,8 +34,9 @@
     "1. To be unable to think of something or how to do it, even though you knew it or knew how to do it in the past; to not remember something. English = forget."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "forget.2a",
-  "oldEntry": "Popular explanation: something being released or something escaping from your mind."
+  "oldEntry": "Popular explanation: something being released or something escaping from your mind.",
+  "seeAlso": []
 }

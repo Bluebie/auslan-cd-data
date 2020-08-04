@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "yearning",
     "yearn"
   ],
   "deictic": [],
-  "cf": [
-    "waste"
-  ],
   "signNumber": 5922.1,
   "recordNumber": 3525,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To want something very much that you cannot yet have, especially the return of someone who has gone away. English = miss someone. Idiomatic English = long for someone, pine for someone, yearn for someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The deep feeling of unhappiness you have when you want something very much that you cannot yet have, especially the return of someone who has gone away. English = longing, yearning."
   ],
   "idGloss": "yearn",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "waste"
+  ]
 }

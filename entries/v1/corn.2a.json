@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "corn",
     "cob",
@@ -29,10 +29,9 @@
     "bone"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5732,
   "recordNumber": 3396,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 10,
@@ -57,5 +56,6 @@
     "3. One of the hard parts inside an animal's body, which together form its skeleton, after the animal has been killed and dismembered. English = bone."
   ],
   "idGloss": "corn.2a",
-  "oldEntry": "Popular explanation: holding and eating a cob of corn."
+  "oldEntry": "Popular explanation: holding and eating a cob of corn.",
+  "seeAlso": []
 }

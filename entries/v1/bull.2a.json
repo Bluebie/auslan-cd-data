@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bull",
     "nose ring"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 259,
   "recordNumber": 150,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -43,5 +42,6 @@
     "2. A piece of jewellery worn in the nose. English = nose ring."
   ],
   "idGloss": "bull.2a",
-  "oldEntry": "Popular explanation: something round through the nose."
+  "oldEntry": "Popular explanation: something round through the nose.",
+  "seeAlso": []
 }

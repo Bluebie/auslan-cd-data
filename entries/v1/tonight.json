@@ -12,17 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tonight"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 663,
   "recordNumber": 387,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -42,11 +41,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The evening or night that will come at the end of the day on which you are speaking, writing or signing. English = tonight, this evening.",
     "2. The evening or night that comes at the end of a day you have already specified or named (in the past or future). English = that night, that evening."
   ],
   "idGloss": "tonight",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ME + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "boast",
     "vanity",
@@ -24,10 +24,9 @@
     "vain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5208,
   "recordNumber": 3129,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -43,11 +42,12 @@
     "2. To think very highly of yourself, often without good reason, and in such a way as to displease other people. English = love oneself, (be) vain."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of talking about something that you have done or that you own in a way that shows that you are proud of it. English = boast.",
     "2. The feeling of pride in yourself (often without good reason or to an unreasonable extent) and your supposed achievements and qualities. English = vanity."
   ],
   "idGloss": "boast",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

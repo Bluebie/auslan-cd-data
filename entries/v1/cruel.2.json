@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cruelty",
     "cruel"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1517,
   "recordNumber": 903,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "1. Of behaviour, to deliberately cause pain or distress to people or animals. English = (be) cruel."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Behaviour that deliberately causes pain or distress to people or animals. English = cruelty."
   ],
   "idGloss": "cruel.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -17,21 +17,17 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "lobby",
     "lobbying",
     "lobbyist"
   ],
   "deictic": [],
-  "cf": [
-    "bride",
-    "demonstrate"
-  ],
   "signNumber": 5803,
   "recordNumber": 3443,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -46,12 +42,16 @@
     "1. To try to persuade a member of a government or council that a particular thing should be done. English = lobby."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A group of people who try to persuade a government or council that a particular thing should be done. English = lobby.",
     "2. The activity of trying to persuade a government or council that a particular thing should be done. English = lobbying.",
     "3. A person who tries to persuade a government or council that a particular thing should be done. English = lobbyist."
   ],
   "idGloss": "lobby",
-  "oldEntry": "Popular explanation: holding on to a placard."
+  "oldEntry": "Popular explanation: holding on to a placard.",
+  "seeAlso": [
+    "bride",
+    "demonstrate"
+  ]
 }

@@ -15,22 +15,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "girl guide",
     "brownie"
   ],
   "deictic": [],
-  "cf": [
-    "salute",
-    "cub",
-    "oath.1a"
-  ],
   "signNumber": 2304,
   "recordNumber": 1294,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -43,7 +38,7 @@
     "1. To form a brownie or girl guide salute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An organisation for girls which teaches them to become disciplined, practical, and self-sufficient. English = Girl Guides.",
     "2. A girl who belongs to the Girl Guides. English = girl guide.",
@@ -51,5 +46,10 @@
     "4. The special salute used by girl guides."
   ],
   "idGloss": "girl guide",
-  "oldEntry": "Popular explanation: forming the Brownie salute."
+  "oldEntry": "Popular explanation: forming the Brownie salute.",
+  "seeAlso": [
+    "salute",
+    "cub",
+    "oath.1a"
+  ]
 }

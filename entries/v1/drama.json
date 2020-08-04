@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "theatre",
     "drama"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5117,
   "recordNumber": 3090,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -38,11 +37,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The work and performances you find in the theatre, including acting in, producing, and writing plays. English = theatre, drama.",
     "2. A serious play for the theatre, television, or radio. English = drama."
   ],
   "idGloss": "drama",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

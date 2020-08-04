@@ -24,8 +24,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "control",
     "steering",
@@ -36,12 +36,9 @@
     "facilitate"
   ],
   "deictic": [],
-  "cf": [
-    "director.1a"
-  ],
   "signNumber": 6175,
   "recordNumber": 3686,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -58,7 +55,7 @@
     "3. To work with and lead a group of people in order to make things happen, especially as part of a workshop or training session. English = facilitate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The power and authority to do what you want or to make all the important decisions about how something is run; the ability to make something behave exactly as you want. English = control.",
     "2. Control you exercise over the direction that someone or something goes, especially horses. English = steering.",
@@ -66,5 +63,8 @@
     "4. A person whose job or task is to help make things happen or to get results from a group of people, especially in a workshop or training environment. English = facilitator."
   ],
   "idGloss": "control.1",
-  "oldEntry": "Popular explanation: pulling on reins."
+  "oldEntry": "Popular explanation: pulling on reins.",
+  "seeAlso": [
+    "director.1a"
+  ]
 }

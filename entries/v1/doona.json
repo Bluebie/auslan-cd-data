@@ -11,9 +11,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "doona",
     "quilt",
@@ -21,13 +21,9 @@
     "eiderdown"
   ],
   "deictic": [],
-  "cf": [
-    "sponge",
-    "mattress.1a"
-  ],
   "signNumber": 4379.1,
   "recordNumber": 2668,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -38,10 +34,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A cover filled with feathers or some other warm, soft material, which you put over yourself when you are in bed. English = doona, quilt, duvet, eiderdown."
   ],
   "idGloss": "doona",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sponge",
+    "mattress.1a"
+  ]
 }

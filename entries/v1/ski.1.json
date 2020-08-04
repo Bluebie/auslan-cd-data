@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skiing",
     "ski"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5827,
   "recordNumber": 3463,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To ski; to go skiing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sport in which people travel across snow on long, flat, narrow pieces of wood, metal, or plastic that are fastened to their boots. English = skiing."
   ],
   "idGloss": "ski.1",
-  "oldEntry": "Popular explanation: a skiing action."
+  "oldEntry": "Popular explanation: a skiing action.",
+  "seeAlso": []
 }

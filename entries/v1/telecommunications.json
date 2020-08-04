@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "telecommunications"
   ],
   "deictic": [],
-  "cf": [
-    "communicate.1a"
-  ],
   "signNumber": 6623,
   "recordNumber": 3941,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 15.1,
   "primaryLocation": 15,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The science and activity of sending signals and messages over long distances using electronic equipment, particularly telephones. English = telecommunications."
   ],
   "idGloss": "telecommunications",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "communicate.1a"
+  ]
 }

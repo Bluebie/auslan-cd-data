@@ -8,17 +8,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pineapple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3016,
   "recordNumber": 1724,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large oval fruit that grows in hot countries. It is sweet, juicy, and yellow inside and has a thick, brownish skin. English = pineapple."
   ],
   "idGloss": "pineapple.1a",
-  "oldEntry": "Popular explanation: the form of a pineapple."
+  "oldEntry": "Popular explanation: the form of a pineapple.",
+  "seeAlso": []
 }

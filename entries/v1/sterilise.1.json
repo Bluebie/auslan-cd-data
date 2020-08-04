@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sterilisation",
     "tubal ligation",
@@ -27,12 +27,9 @@
     "sterilise"
   ],
   "deictic": [],
-  "cf": [
-    "operate.1a"
-  ],
   "signNumber": 4886,
   "recordNumber": 2952,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 16,
@@ -48,12 +45,15 @@
     "2. Of a woman, to have a tubal ligation. Idiomatic English = have one's tubes tied."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A medical operation that makes it impossible for a male or female to produce or have babies. English = sterilisation.",
     "2. A medical operation that makes it impossible for a female to have or produce babies, for example by cutting or tying the fallopian tubes. English = tubal ligation.",
     "3. A medical operation on a male in which the vas deferens in the testicles are excised so as to make it impossible for him to produce babies. English = vasectomy."
   ],
   "idGloss": "sterilise.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "operate.1a"
+  ]
 }

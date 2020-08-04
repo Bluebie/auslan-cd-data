@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "saliva",
     "dribble",
@@ -29,10 +29,9 @@
     "delicious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 624,
   "recordNumber": 361,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -50,11 +49,12 @@
     "3. To be food that looks and smells extremely good. English = (be) mouth-watering, (be) delicious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The watery liquid that forms in your mouth and helps you to chew and digest food. English = saliva.",
     "2. A small stream of saliva that trickles down from your mouth often involuntarily or unconsciously, as happens to a baby. English = dribble."
   ],
   "idGloss": "dribble",
-  "oldEntry": "Popular explanation: dribble from the mouth."
+  "oldEntry": "Popular explanation: dribble from the mouth.",
+  "seeAlso": []
 }

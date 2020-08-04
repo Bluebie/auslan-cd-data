@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "awful",
     "dreadful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3340,
   "recordNumber": 1951,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,8 +36,9 @@
     "1. To be not very good or very nice; to be unpleasant, shocking, or bad. English = (be) awful, (be) dreadful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "awful.2a",
-  "oldEntry": "Popular explanation: pushing something undesirable away or down."
+  "oldEntry": "Popular explanation: pushing something undesirable away or down.",
+  "seeAlso": []
 }

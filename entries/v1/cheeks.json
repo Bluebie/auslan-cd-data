@@ -14,9 +14,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bum",
     "bottom",
@@ -26,10 +26,9 @@
     "buns"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3056,
   "recordNumber": 1754,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -42,10 +41,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body that you sit on. English = bum, bottom, buttocks. Informal English = cheeks.  Informal vulgar English = arse. Informal slang English = buns (especially of a man)."
   ],
   "idGloss": "cheeks",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

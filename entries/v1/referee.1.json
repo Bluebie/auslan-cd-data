@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "referee",
     "umpire"
   ],
   "deictic": [],
-  "cf": [
-    "whistle.2"
-  ],
   "signNumber": 5445,
   "recordNumber": 3241,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -40,11 +37,14 @@
     "1. To control a game and to make sure that it is played fairly and according to the rules. English = referee, umpire."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person who controls a football game or a boxing or wrestling match. English = referee.",
     "2. The person whose job is to make sure that a game is played fairly and that the rules are not broken. English = umpire."
   ],
   "idGloss": "referee.1",
-  "oldEntry": "Popular explanation: holding and blowing a whistle."
+  "oldEntry": "Popular explanation: holding and blowing a whistle.",
+  "seeAlso": [
+    "whistle.2"
+  ]
 }

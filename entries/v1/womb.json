@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "STOMACH + W",
-  "queries": "",
+  "queries": null,
   "english": [
     "womb"
   ],
   "deictic": [],
-  "cf": [
-    "uterus",
-    "stomach.1a"
-  ],
   "signNumber": 2259,
   "recordNumber": 1278,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part inside a woman's body where a baby grows before it is born. English = womb."
   ],
   "idGloss": "womb",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "uterus",
+    "stomach.1a"
+  ]
 }

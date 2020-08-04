@@ -20,9 +20,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "availability",
     "vacancy",
@@ -32,10 +32,9 @@
     "spare"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6554,
   "recordNumber": 3905,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 14.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -55,12 +54,13 @@
     "4. Of something, to be extra and not needed for a particular purpose or for immediate use. English = (be) spare."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of being free to be used or obtained. English = availability.",
     "2. A job that is not being done by anyone and which people can apply for; a room at a hotel or guest house that is not occupied and is available for people to stay in. English = vacancy.",
     "3. Of a person, the state of not being busy so that you can do something or meet someone. English = availability."
   ],
   "idGloss": "available",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

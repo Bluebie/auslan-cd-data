@@ -12,21 +12,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "repair",
     "mend",
     "fix"
   ],
   "deictic": [],
-  "cf": [
-    "negotiate"
-  ],
   "signNumber": 155,
   "recordNumber": 85,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -41,10 +38,13 @@
     "1. To do something to an object which is broken or is not working properly so that it is no longer broken or so it works properly. English = fix, fix up, repair, mend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you do to fix an object that has been damaged or is not working properly. English = repair."
   ],
   "idGloss": "fix.2",
-  "oldEntry": "Popular explanation: doing some fiddly action."
+  "oldEntry": "Popular explanation: doing some fiddly action.",
+  "seeAlso": [
+    "negotiate"
+  ]
 }

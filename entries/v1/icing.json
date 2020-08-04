@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "icing",
     "ice"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4432,
   "recordNumber": 2693,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To cover a cake with icing. English = ice."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet substance made from powdered sugar that is used to cover cakes as a decoration. English = icing."
   ],
   "idGloss": "icing",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

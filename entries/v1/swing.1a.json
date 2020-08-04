@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "swing",
     "park"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5828,
   "recordNumber": 3464,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -34,11 +33,12 @@
     "1. To move backwards and forwards on a swing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A seat hanging by two ropes or chains from a metal frame or from a branch of a tree. You can sit on the seat and move forwards and backwards through the air. English = swing.",
     "2. A public area of land with grass and trees, often with a section with swings and other amusements for children, where people go to relax and enjoy themselves. English = park."
   ],
   "idGloss": "swing.1a",
-  "oldEntry": "Popular explanation: holding on to the supports of a swing."
+  "oldEntry": "Popular explanation: holding on to the supports of a swing.",
+  "seeAlso": []
 }

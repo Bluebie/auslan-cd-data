@@ -13,17 +13,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "college"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4250,
   "recordNumber": 2578,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,12 +36,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An institution where students study after they have left school. English = college.",
     "2. The third type of education some people receive after primary and secondary school. English = tertiary education, higher education.",
     "3. A student residence at an Australian university. English = college."
   ],
   "idGloss": "college",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

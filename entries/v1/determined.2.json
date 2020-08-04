@@ -11,19 +11,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "determination",
     "determined",
     "strive"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2961,
   "recordNumber": 1683,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "2. To make a great effort to do something. English = strive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality that you show when you have decided to do something and you will not let anything stop you. English = determination."
   ],
   "idGloss": "determined.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

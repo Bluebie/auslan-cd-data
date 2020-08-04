@@ -17,9 +17,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BIRD + PECK",
-  "queries": "",
+  "queries": null,
   "english": [
     "pecking",
     "poultry",
@@ -28,12 +28,9 @@
     "peck"
   ],
   "deictic": [],
-  "cf": [
-    "rooster.2"
-  ],
   "signNumber": 5260,
   "recordNumber": 3157,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 11,
@@ -48,12 +45,15 @@
     "1. Of a bird, to move its beak towards something and then bite at it or pick it up, especially something lying on the ground. English = peck."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action of a bird moving its beak towards something and then biting at it or picking it up, especially something lying on the ground. English = pecking.",
     "2. Chickens, ducks, and other birds that are kept for their eggs and meat. English = poultry.",
     "3. A bird, especially one that can be eaten as food. English = fowl, chicken."
   ],
   "idGloss": "peck.1a",
-  "oldEntry": "Popular explanation: the beak of fowl pecking on the ground."
+  "oldEntry": "Popular explanation: the beak of fowl pecking on the ground.",
+  "seeAlso": [
+    "rooster.2"
+  ]
 }

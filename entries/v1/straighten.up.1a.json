@@ -5,18 +5,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "straighten",
     "straighten up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3168,
   "recordNumber": 1836,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -30,5 +29,6 @@
   "generalMeaning": "The action of any long vertical object becoming perpendicular or straightening up, or any particular object or action directly or indirectly associated with this, such as the mast and sails of a yacht or sailing ship.",
   "nominalLexeme": [],
   "idGloss": "straighten.up.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

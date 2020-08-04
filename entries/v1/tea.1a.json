@@ -11,17 +11,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tea"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 479,
   "recordNumber": 265,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
     "2. To drink using a teacup, or any fine piece of crockery."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A drink made with hot water and the chopped, dried leaves of a particular bush. Milk and sugar are often added to the drink. English = tea.",
     "2. A cup of tea, or a cup of any other drinks made with hot water and leaves or flowers."
   ],
   "idGloss": "tea.1a",
-  "oldEntry": "Popular explanation: drinking tea from a teacup and saucer."
+  "oldEntry": "Popular explanation: drinking tea from a teacup and saucer.",
+  "seeAlso": []
 }

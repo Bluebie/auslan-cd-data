@@ -9,17 +9,16 @@
     "engtf2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "syrup",
     "treacle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5027,
   "recordNumber": 3034,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sweet, sticky, yellow liquid that is made from sugar. English = golden syrup, treacle."
   ],
   "idGloss": "golden syrup",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "forest",
     "bush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2850,
   "recordNumber": 1607,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large area where trees grow close together. English = forest. Australian English = bush."
   ],
   "idGloss": "forest.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

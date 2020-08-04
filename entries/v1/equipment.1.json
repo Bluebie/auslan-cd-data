@@ -7,15 +7,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "equipment",
     "equip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1165.1,
   "recordNumber": 685,
   "signVisualComposition": "E + Q",
@@ -31,10 +30,11 @@
     "1. To provide all the things that are needed for a particular activity. English = equip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. All the things that are needed for a particular activity. English = equipment."
   ],
   "idGloss": "equipment.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

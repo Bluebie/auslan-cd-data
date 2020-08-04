@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "judge",
     "court"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3567,
   "recordNumber": 2093,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -37,12 +36,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person in a court of law who decides how the law should be applied to people, for example how criminals should be punished. English = judge.",
     "2. A place where legal matters are decided by a judge and jury or by a magistrate. English = court.",
     "3. A mass of false hair which a judge wears on his or her head."
   ],
   "idGloss": "judge.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

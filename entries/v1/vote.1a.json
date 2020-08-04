@@ -16,9 +16,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vote",
     "election",
@@ -26,10 +26,9 @@
     "elect"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 480,
   "recordNumber": 266,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -45,12 +44,13 @@
     "2. To choose a person to hold an official position or to represent you in government by voting. English = elect."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The choice you make at an election, or at a meeting where decisions are made. English = vote",
     "2. An organised process in which people vote to choose a person or group of people to hold an official position or to represent them in government. English  = election.",
     "3. A vote in which all the people in a country or region are asked whether they agree or disagree with a particular policy. English = referendum."
   ],
   "idGloss": "vote.1a",
-  "oldEntry": "Popular explanation: inserting a ballot paper into a ballot box."
+  "oldEntry": "Popular explanation: inserting a ballot paper into a ballot box.",
+  "seeAlso": []
 }

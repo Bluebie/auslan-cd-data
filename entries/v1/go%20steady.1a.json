@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boyfriend",
     "girlfriend",
@@ -22,10 +22,9 @@
     "go steady"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1966,
   "recordNumber": 1168,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,11 +38,12 @@
     "2. To be in a romantic or sexual relationship with someone, to be part of a couple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person with whom you are having a romantic or sexual relationship. English = boyfriend, girlfriend.",
     "2. Two people who are in a romantic or sexual relationship. English = couple."
   ],
   "idGloss": "go steady.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

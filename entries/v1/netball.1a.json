@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "netball"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2446,
   "recordNumber": 1356,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -33,10 +32,11 @@
     "1. To play netball."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A game played by two teams of seven players, usually women. Each team tries to score goals by throwing a ball through a net which is at the top of a pole at each end of the court. English = netball."
   ],
   "idGloss": "netball.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

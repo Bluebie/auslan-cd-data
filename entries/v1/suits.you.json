@@ -8,14 +8,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "suit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5257,
   "recordNumber": 3154,
   "signVisualComposition": "HANDSOME? + RIGHT",
@@ -33,8 +32,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "suits.you",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

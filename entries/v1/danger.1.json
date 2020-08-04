@@ -19,8 +19,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "danger",
     "threat",
@@ -31,10 +31,9 @@
     "violent"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 852,
   "recordNumber": 488,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 8,
@@ -50,12 +49,13 @@
     "2. To behave in a way that is intended to hurt or kill people, for example hitting or kicking or using guns or bombs; to be something that is likely to hurt or kill people. English = (be) violent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The possibility that someone may be harmed or killed. English = danger.",
     "2. Something that is likely to harm you. English = threat.",
     "3. Behaviour which is intended to hurt or kill people, for example hitting or kicking or using guns or bombs. English = violence."
   ],
   "idGloss": "danger.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

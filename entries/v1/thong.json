@@ -11,20 +11,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers use a Two handshape on the dominant hand.",
   "english": [
     "thongs",
     "flip-flops"
   ],
   "deictic": [],
-  "cf": [
-    "sandal"
-  ],
   "signNumber": 1189,
   "recordNumber": 695,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 16,
@@ -37,10 +34,13 @@
     "1. To wear thongs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Sandals, usually made of rubber, which are held on your foot by a V-shaped strap that goes between your big toe and the toe next to it. English = thongs. British English = flip-flops."
   ],
   "idGloss": "thong",
-  "oldEntry": "Popular explanation: the straps of a thong on a foot."
+  "oldEntry": "Popular explanation: the straps of a thong on a foot.",
+  "seeAlso": [
+    "sandal"
+  ]
 }

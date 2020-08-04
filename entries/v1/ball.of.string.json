@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "string"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 484,
   "recordNumber": 268,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -37,5 +36,6 @@
     "2. A long piece of string rolled into a ball. English = ball of string."
   ],
   "idGloss": "ball.of.string",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

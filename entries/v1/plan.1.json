@@ -19,9 +19,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plan",
     "plot",
@@ -30,13 +30,9 @@
     "arrange"
   ],
   "deictic": [],
-  "cf": [
-    "model.1",
-    "agree.1a"
-  ],
   "signNumber": 413,
   "recordNumber": 230,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 15,
@@ -54,7 +50,7 @@
     "4. To plan secretly to do something. English = plot."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A method of achieving something that you have worked out in detail beforehand. English = plan.",
     "2. The plans and preparations which you make so that something will happen or be possible. English = arrangements.",
@@ -62,5 +58,9 @@
     "4. A secret plan by a group of people to do something that is illegal or wrong. English = plot."
   ],
   "idGloss": "plan.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "model.1",
+    "agree.1a"
+  ]
 }

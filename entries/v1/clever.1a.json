@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cleverness",
     "smartness",
@@ -37,12 +37,9 @@
     "wise"
   ],
   "deictic": [],
-  "cf": [
-    "idea.1a"
-  ],
   "signNumber": 4712,
   "recordNumber": 2847,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -63,11 +60,14 @@
     "2. To be able to use your experience and knowledge (especially because of age) in order to make sensible decisions and judgements. English = (be) wise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ability to understand or learn things easily or plan things well. English = cleverness, smartness, intelligence.",
     "2. The ability to use your experience and knowledge in order to make sensible decisions and judgements. Often thought to be a quality of older people. English = wisdom."
   ],
   "idGloss": "clever.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "idea.1a"
+  ]
 }

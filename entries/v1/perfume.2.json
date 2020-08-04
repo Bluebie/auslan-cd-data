@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "perfume"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 650,
   "recordNumber": 378,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -36,10 +35,11 @@
     "1. To apply perfume."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A pleasant-smelling liquid which you put on your body to make yourself smell nice. English = perfume."
   ],
   "idGloss": "perfume.2",
-  "oldEntry": "Popular explanation: dabbing perfume on yourself."
+  "oldEntry": "Popular explanation: dabbing perfume on yourself.",
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A vulgar or crude sign for many signers.",
   "english": [
     "urinate",
     "piss"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2413,
   "recordNumber": 1334,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
     "1. Of a woman, to get rid of urine from your body. Formal English = urinate. Vulgar English = piss."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "piss.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

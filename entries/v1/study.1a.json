@@ -14,18 +14,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "study",
     "student"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3730,
   "recordNumber": 2200,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 6,
@@ -41,11 +40,12 @@
     "2. To read a book."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The period of time spent learning about a particular subject or the effort you put into it. English = study, studies.",
     "2. A person who studies. English = student."
   ],
   "idGloss": "study.1a",
-  "oldEntry": "Popular explanation: looking at a book."
+  "oldEntry": "Popular explanation: looking at a book.",
+  "seeAlso": []
 }

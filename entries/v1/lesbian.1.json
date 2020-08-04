@@ -12,19 +12,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lesbian"
   ],
   "deictic": [],
-  "cf": [
-    "poofter"
-  ],
   "signNumber": 5118,
   "recordNumber": 3091,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -41,10 +38,13 @@
     "1. To relate to female homosexuality. English = (be) lesbian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who is sexually attracted to other women. English = lesbian."
   ],
   "idGloss": "lesbian.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "poofter"
+  ]
 }

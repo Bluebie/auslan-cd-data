@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "arrival",
     "reaching",
@@ -29,10 +29,9 @@
     "attain"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4361,
   "recordNumber": 2655,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -49,11 +48,12 @@
     "3. To stretch out your arm in order to do something, touch something, or get something. English = reach."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of coming to or ending up at a place, which is high or important, after a journey. English = arrival, reaching.",
     "2. The achieving of some goal, usually after a lot of effort. English = attainment."
   ],
   "idGloss": "reach.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

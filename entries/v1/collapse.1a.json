@@ -15,22 +15,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "collapse",
     "cave in"
   ],
   "deictic": [],
-  "cf": [
-    "room.1a",
-    "ceiling.1a",
-    "demolish"
-  ],
   "signNumber": 3640,
   "recordNumber": 2143,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -44,11 +39,16 @@
     "2. Of the ceiling of a tunnel or cave, to suddenly fall down. English = cave in, collapse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The destruction of a building by the roof and walls falling down. English = collapse.",
     "2. The destruction of a tunnel or a cave by the ceiling and walls falling down. English = cave in."
   ],
   "idGloss": "collapse.1a",
-  "oldEntry": "Popular explanation: a roof collapsing."
+  "oldEntry": "Popular explanation: a roof collapsing.",
+  "seeAlso": [
+    "room.1a",
+    "ceiling.1a",
+    "demolish"
+  ]
 }

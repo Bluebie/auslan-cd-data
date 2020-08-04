@@ -10,18 +10,13 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "silly mid on"
   ],
   "deictic": [],
-  "cf": [
-    "wicket-keeper.1",
-    "wicket-keeper.2",
-    "cricket.1"
-  ],
   "signNumber": 6562,
   "recordNumber": 3912,
   "signVisualComposition": "SILLY + STAND",
@@ -35,10 +30,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In cricket, fielding positions close in to the batsman's wicket. English = silly mid-on, silly mid-off."
   ],
   "idGloss": "silly.mid.on",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "wicket-keeper.1",
+    "wicket-keeper.2",
+    "cricket.1"
+  ]
 }

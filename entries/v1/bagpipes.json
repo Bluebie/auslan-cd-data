@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "bagpipes"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2511,
   "recordNumber": 1396,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To play the bagpipes."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A musical instrument which you play by blowing air through a pipe into a leather bag, and then squeezing the bag to force the air out through other pipes. English = bagpipes."
   ],
   "idGloss": "bagpipes",
-  "oldEntry": "Popular explanation: playing bagpipes."
+  "oldEntry": "Popular explanation: playing bagpipes.",
+  "seeAlso": []
 }

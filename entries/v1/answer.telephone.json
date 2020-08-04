@@ -9,18 +9,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "telephone call",
     "answer telephone"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6611,
   "recordNumber": 3934,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,10 +35,11 @@
     "1. To pick up the telephone when it rings or because you want to make a telephone call. English = answer the telephone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of telephoning someone. English = telephone call."
   ],
   "idGloss": "answer.telephone",
-  "oldEntry": "Popular explanation: picking up a telephone receiver."
+  "oldEntry": "Popular explanation: picking up a telephone receiver.",
+  "seeAlso": []
 }

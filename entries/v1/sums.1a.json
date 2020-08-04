@@ -24,9 +24,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "arithmetic",
     "sums",
@@ -38,13 +38,9 @@
     "calculate"
   ],
   "deictic": [],
-  "cf": [
-    "calculator.1a",
-    "number.1a"
-  ],
   "signNumber": 2684,
   "recordNumber": 1490,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -60,7 +56,7 @@
     "2. To do the accounts, to do book-keeping."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of mathematics that is concerned with the addition, subtraction, multiplication, and division of numbers. English = arithmetic.",
     "2. Simple calculations in arithmetic. English = sums.",
@@ -68,5 +64,9 @@
     "4. The job of keeping an accurate record of the money that is spent and received by a business or other organisation; or the person who does it. English = book-keeping, book-keeper, accountant."
   ],
   "idGloss": "sums.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "calculator.1a",
+    "number.1a"
+  ]
 }

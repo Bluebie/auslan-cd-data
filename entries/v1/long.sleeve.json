@@ -12,20 +12,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "long sleeve shirt",
     "long sleeved"
   ],
   "deictic": [],
-  "cf": [
-    "sleeve"
-  ],
   "signNumber": 3514,
   "recordNumber": 2057,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -41,10 +38,13 @@
     "2. Of a shirt, to have long sleeves. English = (be) long sleeved."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of clothing worn over your arms all the way down to the wrists which is attached at the shoulders to the rest of a garment. English = long sleeve shirt."
   ],
   "idGloss": "long.sleeve",
-  "oldEntry": "Popular explanation: marking the beginning and end of a long sleeve."
+  "oldEntry": "Popular explanation: marking the beginning and end of a long sleeve.",
+  "seeAlso": [
+    "sleeve"
+  ]
 }

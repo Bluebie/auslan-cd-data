@@ -16,9 +16,9 @@
     "ant1",
     "ant2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "last",
     "final",
@@ -26,10 +26,9 @@
     "finally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5019,
   "recordNumber": 3029,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -50,10 +49,11 @@
     "2. To be the only thing that remains after all the others have gone. English = (be) last."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The thing or part that comes at the end of something. English = the last."
   ],
   "idGloss": "last.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

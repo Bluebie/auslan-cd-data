@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cheese"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4236,
   "recordNumber": 2564,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "1. To cut or slice a piece of cheese."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A solid food made from milk. It is usually white or yellow. English = cheese."
   ],
   "idGloss": "cheese.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

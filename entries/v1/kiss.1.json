@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "kiss"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2007,
   "recordNumber": 1178,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 10,
@@ -36,10 +35,11 @@
     "1. To touch someone with your lips to show affection or to greet them. English = kiss."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of touching someone with your lips to show affection or to greet them. English = kiss."
   ],
   "idGloss": "kiss.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

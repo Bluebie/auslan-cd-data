@@ -14,20 +14,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "demotion",
     "demote"
   ],
   "deictic": [],
-  "cf": [
-    "downward"
-  ],
   "signNumber": 3658,
   "recordNumber": 2156,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -45,10 +42,13 @@
     "1. To reduce someone's rank; to give them a less important job in an organisation. English = demote."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The change from a more important to a less important job or position in an organisation. English = demotion."
   ],
   "idGloss": "demote",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "downward"
+  ]
 }

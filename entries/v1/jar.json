@@ -14,9 +14,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "screw-top",
     "top",
@@ -25,10 +25,9 @@
     "jar"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3111,
   "recordNumber": 1794,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -43,11 +42,12 @@
     "1. To fasten or unfasten a screw-top on a jar."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A flat round covering to a container, such as a jar, that is fastened by being tightly twisted. English = screw-top, top, cap, lid.",
     "2. A glass container with a screw-top that is used for storing food such as jam. English = jar."
   ],
   "idGloss": "jar",
-  "oldEntry": "Popular explanation: opening a jar."
+  "oldEntry": "Popular explanation: opening a jar.",
+  "seeAlso": []
 }

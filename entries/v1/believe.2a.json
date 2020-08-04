@@ -24,9 +24,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "belief",
     "conviction",
@@ -37,7 +37,6 @@
     "faith"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1328,
   "recordNumber": 786,
   "signVisualComposition": "THINK + HOLD",
@@ -62,7 +61,7 @@
     "3. To believe that someone is telling the truth and is honest and will not deliberately do anything to harm you. English = trust."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The idea or feeling that something is true. English = belief.",
     "2. A strong belief that something is true, especially something religious. English = conviction, faith.",
@@ -70,5 +69,6 @@
     "4. A set of beliefs, principles, or opinions that strongly influence the way people live or work. English = creed, faith."
   ],
   "idGloss": "believe.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

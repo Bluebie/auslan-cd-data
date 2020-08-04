@@ -8,18 +8,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "find",
     "discover"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2530,
   "recordNumber": 1405,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
     "1. To see or locate something that you are looking for; to succeed in getting something you need or want. English = find, discover."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "find.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

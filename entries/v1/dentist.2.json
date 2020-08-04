@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dentist",
     "extraction"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1768,
   "recordNumber": 1064,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -39,11 +38,12 @@
     "1. To have a tooth extracted by a dentist."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is qualified to treat people's teeth; the place where a dentist works. English = dentist; dentist's.",
     "2. The removal of a tooth by a dentist. English = extraction."
   ],
   "idGloss": "dentist.2",
-  "oldEntry": "Popular explanation: pulling out a tooth."
+  "oldEntry": "Popular explanation: pulling out a tooth.",
+  "seeAlso": []
 }

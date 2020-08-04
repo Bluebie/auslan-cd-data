@@ -14,9 +14,9 @@
     "engtf6",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "felling",
     "logging",
@@ -26,12 +26,9 @@
     "log"
   ],
   "deictic": [],
-  "cf": [
-    "axe.1a"
-  ],
   "signNumber": 3527,
   "recordNumber": 2065,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 19,
@@ -45,11 +42,14 @@
     "2. To cut down trees in order to sell the wood. English = log."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of cutting down trees. English = felling.",
     "2. The activity of cutting down trees in order to sell the wood. English = logging."
   ],
   "idGloss": "chop.down.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "axe.1a"
+  ]
 }

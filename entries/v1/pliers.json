@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pliers",
     "secateurs",
     "clippers"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4544,
   "recordNumber": 2754,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -43,5 +42,6 @@
     "3. A tool used for cutting hair. English = clippers."
   ],
   "idGloss": "pliers",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

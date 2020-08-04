@@ -13,21 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "home",
     "place"
   ],
   "deictic": [],
-  "cf": [
-    "go.home.1a",
-    "join.2"
-  ],
   "signNumber": 386,
   "recordNumber": 209,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -38,11 +34,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The place where you live and feel you belong. English = home.",
     "2. The house where you live. English = home. Informal English = place."
   ],
   "idGloss": "home",
-  "oldEntry": "Popular explanation: the place to which you are joined or linked."
+  "oldEntry": "Popular explanation: the place to which you are joined or linked.",
+  "seeAlso": [
+    "go.home.1a",
+    "join.2"
+  ]
 }

@@ -16,19 +16,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "love"
   ],
   "deictic": [],
-  "cf": [
-    "I.love.you"
-  ],
   "signNumber": 3713,
   "recordNumber": 2190,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -48,12 +45,15 @@
     "3. To feel that something is important and want to protect it. English = love."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very strong feeling of affection towards someone who you are romantically or sexually attracted to. English = love.",
     "2. The feeling that a person's happiness is very important to you, and the way you show this feeling in your behaviour towards them. English = love.",
     "3. A strong liking for something or enjoyment of it. English = love."
   ],
   "idGloss": "love",
-  "oldEntry": "Popular explanation: act of embracing."
+  "oldEntry": "Popular explanation: act of embracing.",
+  "seeAlso": [
+    "I.love.you"
+  ]
 }

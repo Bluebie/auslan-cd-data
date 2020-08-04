@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "attention"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3598,
   "recordNumber": 2116,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -32,8 +31,9 @@
     "1. To get the attention of all the people around you, especially by tapping them on the shoulder and getting others to do likewise, in order to talk (sign) to them."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "attention.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

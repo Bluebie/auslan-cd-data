@@ -8,19 +8,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "STOMACH + U",
-  "queries": "",
+  "queries": null,
   "english": [
     "uterus"
   ],
   "deictic": [],
-  "cf": [
-    "womb"
-  ],
   "signNumber": 1991,
   "recordNumber": 1171,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -31,10 +28,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part inside a woman's body where a baby grows before it is born. English = uterus."
   ],
   "idGloss": "uterus",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "womb"
+  ]
 }

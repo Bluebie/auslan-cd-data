@@ -8,9 +8,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lean",
     "lean over",
@@ -18,10 +18,9 @@
     "topple over"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 715,
   "recordNumber": 415,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -37,5 +36,6 @@
   "generalMeaning": "The action of any long, thin vertical object becoming less perpendicular, leaning over, toppling over or collapsing, or any particular object or action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "topple.over.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

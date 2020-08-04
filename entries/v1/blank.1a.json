@@ -15,9 +15,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blank",
     "bare",
@@ -25,10 +25,9 @@
     "deserted"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 475,
   "recordNumber": 263,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -49,8 +48,9 @@
     "2. Of a place, to have no people in it. English = (be) empty, (be) deserted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "blank.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

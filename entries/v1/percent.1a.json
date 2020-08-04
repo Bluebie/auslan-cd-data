@@ -14,20 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "percentage",
     "per cent"
   ],
   "deictic": [],
-  "cf": [
-    "degree"
-  ],
   "signNumber": 85,
   "recordNumber": 47,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,12 +37,15 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A fraction of an amount expressed as a particular number of hundredths of that amount. English = percentage.",
     "2. A single unit of measurement when an amount is expressed as a percentage. English = per cent.",
     "3. The symbol used to write percentages (%) which is read as 'per cent'."
   ],
   "idGloss": "percent.1a",
-  "oldEntry": "Popular explanation: the outline of a percent symbol with zero."
+  "oldEntry": "Popular explanation: the outline of a percent symbol with zero.",
+  "seeAlso": [
+    "degree"
+  ]
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Melbourne"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3276,
   "recordNumber": 1908,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -30,11 +29,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The capital city of the Australian state of Victoria, called Melbourne.",
     "2. A person who comes from Melbourne. English = Melburnian."
   ],
   "idGloss": "Melbourne",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

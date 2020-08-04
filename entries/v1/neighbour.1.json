@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "neighbour",
     "next door"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6127,
   "recordNumber": 3646,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,11 +36,12 @@
     "1. To live next door or very close to someone. English = (be) the next door neighbour, (be) a neighbour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The person, group of people, or family, that lives immediately next to, or very close to, your house or home. English = neighbour, neighbours.",
     "2. The house that belongs to the people who live immediately beside your house. English = next door, the place next door."
   ],
   "idGloss": "neighbour.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

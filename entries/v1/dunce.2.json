@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dunce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1799.1,
   "recordNumber": 1087,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": null,
   "primaryLocation": 5,
@@ -35,10 +34,11 @@
     "1. Of a pupil, to be a dunce or to be punished as a dunce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A slow or lazy student who cannot learn what someone is trying to teach them and is punished by being made to sit in the corner of the classroom or by wearing a silly hat. English = dunce."
   ],
   "idGloss": "dunce.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

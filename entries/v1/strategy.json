@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "strategy"
   ],
   "deictic": [],
-  "cf": [
-    "way",
-    "road"
-  ],
   "signNumber": 5902,
   "recordNumber": 3508,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A plan you use in order to achieve something. English = strategy."
   ],
   "idGloss": "strategy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "way",
+    "road"
+  ]
 }

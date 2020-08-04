@@ -17,8 +17,8 @@
     "syn2"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "letters",
     "mail",
@@ -26,14 +26,9 @@
     "Epistle"
   ],
   "deictic": [],
-  "cf": [
-    "envelope.2",
-    "send.a.letter.1a",
-    "send.letters.1a"
-  ],
   "signNumber": 4003,
   "recordNumber": 2394,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.1,
   "primaryLocation": 14,
@@ -49,11 +44,16 @@
     "1. To send or receive messages written on pieces of paper and sent through the mail; send or get mail; send or receive correspondence; notify by mail or post."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Messages written on pieces of paper and sent through the mail. English = letters, mail, correspondence.",
     "2. One of the books in the New Testament which were originally written as letters to the early Christians by the apostles. English = Epistle."
   ],
   "idGloss": "letters.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "envelope.2",
+    "send.a.letter.1a",
+    "send.letters.1a"
+  ]
 }

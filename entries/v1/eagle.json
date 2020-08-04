@@ -13,20 +13,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "parrot",
     "eagle"
   ],
   "deictic": [],
-  "cf": [
-    "witch.2"
-  ],
   "signNumber": 1412,
   "recordNumber": 841,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -41,12 +38,15 @@
     "1. Of a bird with a curved beak, to peck at something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A bird with a curved beak.",
     "2. A tropical bird with a curved beak and often brightly-colored feathers. It can be kept as a pet and sometimes copies what people say. English = parrot.",
     "3. A large bird with a curved beak that lives by eating small animals and other birds. English = eagle."
   ],
   "idGloss": "eagle",
-  "oldEntry": "Popular explanation: the beak of an eagle."
+  "oldEntry": "Popular explanation: the beak of an eagle.",
+  "seeAlso": [
+    "witch.2"
+  ]
 }

@@ -22,9 +22,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "street",
     "road",
@@ -35,14 +35,9 @@
     "procedure"
   ],
   "deictic": [],
-  "cf": [
-    "avenue.1",
-    "road",
-    "creek"
-  ],
   "signNumber": 3797,
   "recordNumber": 2254,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -56,12 +51,17 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A route in a town or village, usually one with houses along it. It is usually paved. English = street, road.",
     "2. The route to a particular place that is a long straight thin line of ground that has been marked by people or animals walking, or has been specifically constructed and paved, and/or has been marked with signs. English = way, path.",
     "3. The route or stages by which something is done; how something is done. English = way, manner, method, procedure."
   ],
   "idGloss": "street.1a",
-  "oldEntry": "Popular explanation: long bordered way."
+  "oldEntry": "Popular explanation: long bordered way.",
+  "seeAlso": [
+    "avenue.1",
+    "road",
+    "creek"
+  ]
 }

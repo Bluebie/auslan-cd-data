@@ -11,17 +11,13 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "altar"
   ],
   "deictic": [],
-  "cf": [
-    "prayer",
-    "church.1"
-  ],
   "signNumber": 3680,
   "recordNumber": 2167,
   "signVisualComposition": "PRAY + TABLE",
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A holy table in a church or temple. English = altar."
   ],
   "idGloss": "altar.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "prayer",
+    "church.1"
+  ]
 }

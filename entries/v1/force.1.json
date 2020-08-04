@@ -12,9 +12,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "coercion",
     "force",
@@ -22,12 +22,9 @@
     "coerce"
   ],
   "deictic": [],
-  "cf": [
-    "temptation.2"
-  ],
   "signNumber": 5233,
   "recordNumber": 3143,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "1. To make someone do something, although they are very unwilling to. English = force, compel, coerce."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act or process of making someone do something they do not want to do. English = coercion."
   ],
   "idGloss": "force.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "temptation.2"
+  ]
 }

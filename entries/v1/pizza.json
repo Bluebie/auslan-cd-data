@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pizza"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3203,
   "recordNumber": 1860,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A flat, round piece of dough covered with tomatoes, cheese, and other kinds of food, and then baked in an oven. English = pizza."
   ],
   "idGloss": "pizza",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

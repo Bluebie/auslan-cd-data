@@ -13,9 +13,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "zipper",
     "jacket",
@@ -23,14 +23,9 @@
     "track suit"
   ],
   "deictic": [],
-  "cf": [
-    "zip.open",
-    "zip.close",
-    "tracksuit.1"
-  ],
   "signNumber": 6184,
   "recordNumber": 3693,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -41,11 +36,16 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A fastener used on clothes and bags. It consists of two rows of metal or plastic teeth that you pull together in order to fasten things. English = zipper.",
     "2. An item of clothing worn on the torso that has a zipper such as a jacket, a windcheater, or track suit top."
   ],
   "idGloss": "zip.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "zip.open",
+    "zip.close",
+    "tracksuit.1"
+  ]
 }

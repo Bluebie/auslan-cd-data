@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "chip",
     "potato chip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5218,
   "recordNumber": 3135,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long, thin piece of potato fried in oil or fat. English = chip, potato chip."
   ],
   "idGloss": "chip.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

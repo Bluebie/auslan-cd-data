@@ -9,16 +9,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Darwin"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2766,
   "recordNumber": 1547,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A city in northern Australia, called Darwin."
   ],
   "idGloss": "Darwin",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

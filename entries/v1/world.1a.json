@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "world",
     "earth",
@@ -30,10 +30,9 @@
     "global"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3898,
   "recordNumber": 2321,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,7 +49,7 @@
     "2. Concerning or including the whole world. English = (be) global."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The planet that we live on. English = world, earth.",
     "2. All the societies, institutions, and ways of life of people living on the planet. English = world.",
@@ -58,5 +57,6 @@
     "4. A spherical object, usually fixed on a stand, with a map of the world on it. English = globe."
   ],
   "idGloss": "world.1a",
-  "oldEntry": "Popular explanation: the outline of the globe."
+  "oldEntry": "Popular explanation: the outline of the globe.",
+  "seeAlso": []
 }

@@ -13,17 +13,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "discipline"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 976,
   "recordNumber": 564,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -41,11 +40,12 @@
     "2. To teach or instruct people about morals and good behaviour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The practice of making people obey rules by lecturing or punishing them when they do not. English = discipline",
     "2. The practice of moral instruction."
   ],
   "idGloss": "discipline",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

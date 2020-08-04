@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "toilet",
     "flush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1372,
   "recordNumber": 813,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -39,10 +38,11 @@
     "1. To pull on a handle or ring attached via a wire or chain to a device that makes water flow into the toilet bowl to clean it out. English = flush the toilet."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small room containing a large bowl with a seat which you use when you want to get rid of urine or faeces from your body. English = toilet."
   ],
   "idGloss": "toilet.3",
-  "oldEntry": "Popular explanation: pulling the toilet chain."
+  "oldEntry": "Popular explanation: pulling the toilet chain.",
+  "seeAlso": []
 }

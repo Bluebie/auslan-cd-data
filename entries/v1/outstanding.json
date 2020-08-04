@@ -14,9 +14,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "outstanding",
     "exceptional",
@@ -25,10 +25,9 @@
     "sexy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3914,
   "recordNumber": 2332,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +42,9 @@
     "3. Of a person, to be particularly attractive and desirable. English = (be) sexy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "outstanding",
-  "oldEntry": "Popular explanation: one level clearly above or higher than another."
+  "oldEntry": "Popular explanation: one level clearly above or higher than another.",
+  "seeAlso": []
 }

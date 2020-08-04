@@ -20,9 +20,9 @@
     "syn1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sponge",
     "foam",
@@ -31,13 +31,9 @@
     "pillow"
   ],
   "deictic": [],
-  "cf": [
-    "doona",
-    "mattress.1a"
-  ],
   "signNumber": 3652,
   "recordNumber": 2151,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -61,5 +57,9 @@
     "4. A rectangular cushion which you rest your head on when you are in bed. English = pillow."
   ],
   "idGloss": "sponge",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "doona",
+    "mattress.1a"
+  ]
 }

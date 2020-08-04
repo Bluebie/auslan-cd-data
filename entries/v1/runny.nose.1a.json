@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "run"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1367,
   "recordNumber": 809,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -30,10 +29,11 @@
     "1. To have liquid flowing or dripping from your nose, usually because you are sick with a cold. English = have a runny nose."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A runny nose."
   ],
   "idGloss": "runny.nose.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

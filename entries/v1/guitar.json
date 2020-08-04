@@ -13,21 +13,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "guitar",
     "band",
     "strum"
   ],
   "deictic": [],
-  "cf": [
-    "conductor"
-  ],
   "signNumber": 2886,
   "recordNumber": 1629,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -41,11 +38,14 @@
     "2. To play in a band; to be a member of a band."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A musical instrument with six strings. You play it by plucking or strumming the strings. English = guitar.",
     "2. A group of musicians who play jazz, rock, or pop music.  English = band."
   ],
   "idGloss": "guitar",
-  "oldEntry": "Popular explanation: playing a guitar."
+  "oldEntry": "Popular explanation: playing a guitar.",
+  "seeAlso": [
+    "conductor"
+  ]
 }

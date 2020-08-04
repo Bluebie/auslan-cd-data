@@ -21,9 +21,9 @@
     "engtf8",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tiredness",
     "exhaustion",
@@ -35,12 +35,9 @@
     "exhaust"
   ],
   "deictic": [],
-  "cf": [
-    "sleepy"
-  ],
   "signNumber": 3423,
   "recordNumber": 1996,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -56,12 +53,15 @@
     "4. To make you or someone use a lot of energy, with the result that you or they want to rest and sleep. English = tire, exhaust, weary."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling that you want to rest and sleep. English = tiredness, exhaustion, weariness.",
     "2. The strong feeling that you want to rest and sleep because you are very tired and have no energy left. English = exhaustion.",
     "3. The feeling that you want to rest and sleep or stop doing something because you are very tired or because you have lost interest and enthusiasm. English = weariness."
   ],
   "idGloss": "tired.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sleepy"
+  ]
 }

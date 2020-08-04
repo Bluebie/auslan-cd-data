@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sprint",
     "athletics"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3807,
   "recordNumber": 2262,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,11 +40,12 @@
     "1. To run as fast as you can over a short distance. English = sprint."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A short race in which runners race very fast. English = sprint.",
     "2. Various field and track sports, such as running, the high jump, and the javelin. English = athletics."
   ],
   "idGloss": "sprint",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,18 +13,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "England",
     "English"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1044,
   "recordNumber": 613,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -38,11 +37,12 @@
     "2. To belong to the language that originally came from England and is now used in many countries around the world, including Australia and the United States. English = (be) English."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An island country in north western Europe between Ireland and the Continent, called England. On the same island Scotland is to the north and Wales is to the west.",
     "2. The language used originally in England and now used in many countries around the world, including Australia and the United States. English = English."
   ],
   "idGloss": "England.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -14,19 +14,16 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "length",
     "long"
   ],
   "deictic": [],
-  "cf": [
-    "factory.2"
-  ],
   "signNumber": 4843,
   "recordNumber": 2926,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. To measure a great distance (relative to other things of its type) from one end to the other. English = (be) long."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The large horizontal distance measured from one end of a thing to the other. English = length."
   ],
   "idGloss": "long",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "factory.2"
+  ]
 }

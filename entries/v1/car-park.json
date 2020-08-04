@@ -18,9 +18,9 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "car park",
     "parking lot",
@@ -29,14 +29,9 @@
     "reverse park"
   ],
   "deictic": [],
-  "cf": [
-    "speed.1",
-    "backward",
-    "overtake.1a"
-  ],
   "signNumber": 4116,
   "recordNumber": 2475,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -50,11 +45,16 @@
     "2. To drive a car backwards usually in order to park it. English = back up, reverse park."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An area or a building where people can leave their cars. English = car park, parking lot.",
     "2. An individual space for a car on the side of a road or within a car park. English = park, parking space."
   ],
   "idGloss": "car-park",
-  "oldEntry": "Popular explanation: one vehicle parking behind another."
+  "oldEntry": "Popular explanation: one vehicle parking behind another.",
+  "seeAlso": [
+    "speed.1",
+    "backward",
+    "overtake.1a"
+  ]
 }

@@ -13,21 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "serviette",
     "napkin"
   ],
   "deictic": [],
-  "cf": [
-    "tablecloth",
-    "sheet"
-  ],
   "signNumber": 415,
   "recordNumber": 232,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 16,
@@ -43,10 +39,14 @@
     "1. To lay a serviette on your lap."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A square of cloth or paper that you use to protect your clothes or wipe your mouth when you are eating. English = serviette. American English = napkin."
   ],
   "idGloss": "serviette.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tablecloth",
+    "sheet"
+  ]
 }

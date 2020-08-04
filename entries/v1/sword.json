@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sword"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6105,
   "recordNumber": 3632,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To fight someone using a sword as a weapon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A weapon with a handle and a long blade. English = sword."
   ],
   "idGloss": "sword",
-  "oldEntry": "Popular explanation: thrusting with a sword."
+  "oldEntry": "Popular explanation: thrusting with a sword.",
+  "seeAlso": []
 }

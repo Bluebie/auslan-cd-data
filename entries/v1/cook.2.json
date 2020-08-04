@@ -29,9 +29,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cook",
     "cooking",
@@ -47,12 +47,9 @@
     "whip"
   ],
   "deictic": [],
-  "cf": [
-    "teaspoon"
-  ],
   "signNumber": 6269,
   "recordNumber": 3742,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -71,7 +68,7 @@
     "3. [With increased speed and tension] to mix or stir together eggs, cream, or butter thoroughly and energetically using a fork or a whisk. English = beat, whip, whisk."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who prepares and cooks food. English = cook.",
     "2. The activity of preparing and making food. English = cooking.",
@@ -79,5 +76,8 @@
     "4. The activity of combining two or more substances in a container using a spoon or similar implement. English = stirring, mixing, beating, whipping, whisking."
   ],
   "idGloss": "cook.2",
-  "oldEntry": "Popular explanation: mixing in a bowl."
+  "oldEntry": "Popular explanation: mixing in a bowl.",
+  "seeAlso": [
+    "teaspoon"
+  ]
 }

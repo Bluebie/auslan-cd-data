@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "foam",
     "froth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3091,
   "recordNumber": 1779,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,11 +32,12 @@
     "1. Of a liquid, to bubble up and create foam or froth. English = foam, froth."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mass of something which goes up in a heap with an uneven swirling shape, like soap suds or foam.",
     "2. A mass of small bubbles caused when water and air are mixed together violently, often with soap. English = foam, froth."
   ],
   "idGloss": "foam",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

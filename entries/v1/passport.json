@@ -8,14 +8,13 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "passport"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5993,
   "recordNumber": 3566,
   "signVisualComposition": "BOOK + STAMP",
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An official document containing your name, photograph, and personal details, which you need to show when you enter or leave a country. English = passport."
   ],
   "idGloss": "passport",
-  "oldEntry": "Popular explanation: stamping in a book."
+  "oldEntry": "Popular explanation: stamping in a book.",
+  "seeAlso": []
 }

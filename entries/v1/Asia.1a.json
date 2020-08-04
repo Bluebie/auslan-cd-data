@@ -17,9 +17,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Asia",
     "Orient",
@@ -29,10 +29,9 @@
     "Chinese"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 519,
   "recordNumber": 290,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -49,12 +48,13 @@
     "2. To be from or relate to China. English = (be) Chinese."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The eastern and south-eastern parts of the Eurasian continent, especially those parts including China and Japan. English = Asia, East-Asia, South East Asia, the Orient.",
     "2. A person who comes from East Asia or the Orient and/or has the physical and racial features of the majority of the population in that area of the world. English = Oriental, Asian.",
     "3. A country in East Asia south of the Russian Federation and north of Vietnam. English = China."
   ],
   "idGloss": "Asia.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

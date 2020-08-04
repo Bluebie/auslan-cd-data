@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "invention",
     "discovery",
@@ -33,10 +33,9 @@
     "concoct"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 495,
   "recordNumber": 276,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -55,12 +54,13 @@
     "3. To make up an excuse or an explanation for something which may not be true at all but which is convenient for you or someone else. English = concoct."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine, system (or even idea) that has been thought of or made for the first time by someone. English = invention, discovery.",
     "2. A new thing or a new way of doing something. English = innovation.",
     "3. An excuse or an explanation for something which is made up and which may not be true at all but which is convenient for you or someone else. English = concoction."
   ],
   "idGloss": "invent.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

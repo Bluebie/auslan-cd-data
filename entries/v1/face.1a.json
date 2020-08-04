@@ -15,9 +15,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "face",
     "features",
@@ -25,13 +25,9 @@
     "appearance"
   ],
   "deictic": [],
-  "cf": [
-    "hat.head.1a",
-    "facing"
-  ],
   "signNumber": 547,
   "recordNumber": 312,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -45,11 +41,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The front of your head from your chin to your forehead. English = face.",
     "2. The shape of your eyes, nose, mouth and other parts of your face, particularly in terms of how beautiful or how handsome you are. English = features, looks, appearance."
   ],
   "idGloss": "face.1a",
-  "oldEntry": "Popular explanation: the outline of the face."
+  "oldEntry": "Popular explanation: the outline of the face.",
+  "seeAlso": [
+    "hat.head.1a",
+    "facing"
+  ]
 }

@@ -9,19 +9,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "potato"
   ],
   "deictic": [],
-  "cf": [
-    "peel"
-  ],
   "signNumber": 1494,
   "recordNumber": 891,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,10 +29,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A round white vegetable with a brown or red skin. It grows underground. English = potato."
   ],
   "idGloss": "potato",
-  "oldEntry": "Popular explanation: peeling a potato."
+  "oldEntry": "Popular explanation: peeling a potato.",
+  "seeAlso": [
+    "peel"
+  ]
 }

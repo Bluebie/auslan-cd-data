@@ -24,9 +24,9 @@
     "engtf10",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "regularity",
     "reliability",
@@ -40,10 +40,9 @@
     "always"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4931,
   "recordNumber": 2981,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -63,12 +62,13 @@
     "3. To be in a situation or place all the time, especially in a work situation. English = (be) permanent."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of happening often and usually with the same length of time and space between each occurrence. English = regularity.",
     "2. The quality of being likely to work well or behave in a way you want someone or something to. English = reliability.",
     "3. The quality of being in a situation or place all the time. English = permanency."
   ],
   "idGloss": "regular",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,20 +11,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bottle"
   ],
   "deictic": [],
-  "cf": [
-    "pour.from",
-    "sauce"
-  ],
   "signNumber": 3804,
   "recordNumber": 2260,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,10 +33,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A container for keeping liquids in. It is usually made of glass or plastic and is shaped like a cylinder with a narrow top. English = bottle."
   ],
   "idGloss": "bottle.1",
-  "oldEntry": "Popular explanation: the outline of a bottle."
+  "oldEntry": "Popular explanation: the outline of a bottle.",
+  "seeAlso": [
+    "pour.from",
+    "sauce"
+  ]
 }

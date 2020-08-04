@@ -17,22 +17,18 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "ACCIDENT + WEAR.OUT",
-  "queries": "",
+  "queries": null,
   "english": [
     "damage",
     "destruction",
     "destroy"
   ],
   "deictic": [],
-  "cf": [
-    "melt.1a",
-    "collision.1a"
-  ],
   "signNumber": 5862,
   "recordNumber": 3487,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -50,11 +46,15 @@
     "4. Of people, to be completely exhausted both physically and emotionally by a problem or a task and to be unable or unwilling to continue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Physical harm that is done to something. English = damage.",
     "2. The act of destroying something. English = destruction."
   ],
   "idGloss": "damage",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "melt.1a",
+    "collision.1a"
+  ]
 }

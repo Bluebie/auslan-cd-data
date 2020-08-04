@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "heartbeat",
     "love",
@@ -30,10 +30,9 @@
     "fall in love"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 144,
   "recordNumber": 78,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 14,
@@ -54,11 +53,12 @@
     "3. To start to be in love with someone. Idiomatic English = fall in love."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The regular movement of the heart as it pumps blood around the body. English = heartbeat.",
     "2. A very strong feeling of affection for someone who you are romantically or sexually attracted to. English = love."
   ],
   "idGloss": "heart-throb",
-  "oldEntry": "Popular explanation: a beating heart."
+  "oldEntry": "Popular explanation: a beating heart.",
+  "seeAlso": []
 }

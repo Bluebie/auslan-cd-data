@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tour",
     "tourist"
   ],
   "deictic": [],
-  "cf": [
-    "trip.1a"
-  ],
   "signNumber": 1776,
   "recordNumber": 1071,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,11 +36,14 @@
     "1. To go on a long journey or trip around a place. English = tour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long journey in which you visit several places. English = tour.",
     "2. A person who visits places for pleasure and interest as part of a holiday. English = tourist."
   ],
   "idGloss": "tour",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "trip.1a"
+  ]
 }

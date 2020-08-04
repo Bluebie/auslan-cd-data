@@ -13,9 +13,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "finish",
     "completion",
@@ -23,12 +23,9 @@
     "complete"
   ],
   "deictic": [],
-  "cf": [
-    "not.yet.1a"
-  ],
   "signNumber": 4778,
   "recordNumber": 2889,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -49,11 +46,14 @@
     "1. To make or do the last part of something so that there is no more to do or so that it has all the parts that it should have. English = finish, complete."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The end or last part of something. English = finish.",
     "2. The end or last part of something when it has all the parts that it should have. English = completion."
   ],
   "idGloss": "finish.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.yet.1a"
+  ]
 }

@@ -16,17 +16,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dislike"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3223,
   "recordNumber": 1871,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -47,11 +46,12 @@
     "2. To not like someone or something a lot and to think that they are extremely unpleasant. English = hate, detest."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of not liking someone or something. English = dislike.",
     "2. The strong feeling of not liking someone or something at all. English = hate, detest."
   ],
   "idGloss": "dislike.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

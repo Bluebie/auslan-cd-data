@@ -11,19 +11,16 @@
     "cf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "car",
     "automobile"
   ],
   "deictic": [],
-  "cf": [
-    "drive.1a"
-  ],
   "signNumber": 5851,
   "recordNumber": 3482,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -36,10 +33,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A motor vehicle with room for a small number of passengers. English = car. American English = automobile."
   ],
   "idGloss": "car.2",
-  "oldEntry": "Popular explanation: holding the steering wheel of a car."
+  "oldEntry": "Popular explanation: holding the steering wheel of a car.",
+  "seeAlso": [
+    "drive.1a"
+  ]
 }

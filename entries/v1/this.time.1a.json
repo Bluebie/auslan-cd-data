@@ -11,19 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "week"
   ],
   "deictic": [],
-  "cf": [
-    "one.week.before"
-  ],
   "signNumber": 1015,
   "recordNumber": 593,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 16,
@@ -37,11 +34,14 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A recurring period of time (such as a week, month or year) the unit of which has already been mentioned and which the signer is in at the time of speaking. English = this week, this month, this year, etc.",
     "2. The remaining time within the unit of time (week, month, year, etc.) being talked about; the rest of this week, this month, this year, etc."
   ],
   "idGloss": "this.time.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "one.week.before"
+  ]
 }

@@ -9,17 +9,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "impact"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5952,
   "recordNumber": 3546,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
     "1. To have a great effect on a situation or person. English = impact on."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The great effect of a situation or a person on a person. English = impact.",
     "2. The action of once object hitting another. English = impact."
   ],
   "idGloss": "impact",
-  "oldEntry": "Popular explanation: striking with the fist."
+  "oldEntry": "Popular explanation: striking with the fist.",
+  "seeAlso": []
 }

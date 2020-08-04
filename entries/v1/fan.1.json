@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fan"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6072,
   "recordNumber": 3613,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -33,10 +32,11 @@
     "1. To hold a flat object in your hand and to wave it in order to move the air and make yourself cooler. English = fan, fan oneself."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A flat object you hold in your hand and wave in order to move the air and make yourself cooler. English = fan."
   ],
   "idGloss": "fan.1",
-  "oldEntry": "Popular explanation: holding and using a fan."
+  "oldEntry": "Popular explanation: holding and using a fan.",
+  "seeAlso": []
 }

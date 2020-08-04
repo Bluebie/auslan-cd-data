@@ -24,9 +24,9 @@
     "engtf8",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "exit",
     "departure",
@@ -38,12 +38,9 @@
     "flee"
   ],
   "deictic": [],
-  "cf": [
-    "under"
-  ],
   "signNumber": 1228,
   "recordNumber": 726,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -59,7 +56,7 @@
     "4. Of a child, to leave their parent's home without permission and without any intention of returning. English = run away from home."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of leaving or going out of or from a confined space (such as a room or a building). English = exit, departure.",
     "2. A door in a public building through which you can leave; the path you follow to get out of a building or group of buildings. English = exit; way out.",
@@ -67,5 +64,8 @@
     "4. Someone who has runaway from something, especially a child from their parent's home. English = runaway."
   ],
   "idGloss": "escape",
-  "oldEntry": "Popular explanation: going out, under and away."
+  "oldEntry": "Popular explanation: going out, under and away.",
+  "seeAlso": [
+    "under"
+  ]
 }

@@ -12,21 +12,18 @@
     "engtf3",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "indecisive",
     "choosy",
     "fastidious"
   ],
   "deictic": [],
-  "cf": [
-    "which.1a"
-  ],
   "signNumber": 6610,
   "recordNumber": 3933,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -40,8 +37,11 @@
     "2. Of a person, to be difficult to please, because they will only accept something if it is exactly what they want. English = (be) choosy, (be) fastidious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "choosy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "which.1a"
+  ]
 }

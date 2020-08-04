@@ -11,18 +11,17 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "send",
     "send out",
     "send from"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 944,
   "recordNumber": 543,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -37,10 +36,11 @@
     "1. To send someone or something out and away from somewhere."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of sending someone or something out and away from somewhere."
   ],
   "idGloss": "send.from",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

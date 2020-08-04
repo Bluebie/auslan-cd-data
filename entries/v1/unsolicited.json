@@ -9,19 +9,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "unsolicited",
     "gratis",
     "free"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6582,
   "recordNumber": 3924,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -36,8 +35,9 @@
     "1. Of a thing or service, to be provided free of charge and without request. English = (be) gratis, (be) unsolicited, (be) free."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "unsolicited",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

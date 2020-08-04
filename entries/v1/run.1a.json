@@ -20,9 +20,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "run",
     "running",
@@ -31,12 +31,9 @@
     "jogging"
   ],
   "deictic": [],
-  "cf": [
-    "walk.1a"
-  ],
   "signNumber": 5790,
   "recordNumber": 3434,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -53,12 +50,15 @@
     "3. To run in a competition. English = race."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of moving quickly by foot, leaving the ground during each stride, because you are in a hurry to get somewhere or because you are taking part in a race. English = run, running.",
     "2. A form of exercise in which you run slowly. English = jog, jogging.",
     "3. A competition to see who is the fastest at running. English = race."
   ],
   "idGloss": "run.1a",
-  "oldEntry": "Popular explanation: holding and moving hands as if running."
+  "oldEntry": "Popular explanation: holding and moving hands as if running.",
+  "seeAlso": [
+    "walk.1a"
+  ]
 }

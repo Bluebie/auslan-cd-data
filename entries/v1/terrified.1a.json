@@ -23,9 +23,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scare",
     "terror",
@@ -37,10 +37,9 @@
     "panic"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1416,
   "recordNumber": 844,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -58,12 +57,13 @@
     "4. To suddenly become very anxious or afraid, and often act quickly and without thinking carefully. English = panic."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A great fright. English = scare.",
     "2. A very great fear. English = terror.",
     "3. A very great feeling of anxiety or fear, especially one that makes you act without thinking carefully. English = panic."
   ],
   "idGloss": "terrified.1a",
-  "oldEntry": "Popular explanation: the beating heart."
+  "oldEntry": "Popular explanation: the beating heart.",
+  "seeAlso": []
 }

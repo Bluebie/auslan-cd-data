@@ -9,20 +9,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boot",
     "open boot"
   ],
   "deictic": [],
-  "cf": [
-    "boot.car"
-  ],
   "signNumber": 4670,
   "recordNumber": 2820,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -37,8 +34,11 @@
     "1. Of the boot of a car, to open."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "boot.car.open",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "boot.car"
+  ]
 }

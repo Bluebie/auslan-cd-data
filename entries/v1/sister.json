@@ -15,21 +15,16 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sister"
   ],
   "deictic": [],
-  "cf": [
-    "nurse.1",
-    "nurse.2",
-    "nurse.3a"
-  ],
   "signNumber": 1363,
   "recordNumber": 805,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -42,12 +37,17 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A girl or a woman who has the same parents as you. English = sister.",
     "2. A woman who is a member of a religious order. English = sister.",
     "3. A senior nurse who supervises a hospital ward. English = sister."
   ],
   "idGloss": "sister",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "nurse.1",
+    "nurse.2",
+    "nurse.3a"
+  ]
 }

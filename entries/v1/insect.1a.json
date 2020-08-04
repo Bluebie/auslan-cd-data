@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "insect",
     "bee",
@@ -22,13 +22,9 @@
     "fly"
   ],
   "deictic": [],
-  "cf": [
-    "animal.1",
-    "animal.2"
-  ],
   "signNumber": 309,
   "recordNumber": 176,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -42,7 +38,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small animal which has six legs and which flies. English  = (flying) insect.",
     "2. An insect which usually has a yellow and black striped body, makes honey and lives in large groups.  English = bee.",
@@ -50,5 +46,9 @@
     "4. A small insect with two wings. English = fly."
   ],
   "idGloss": "insect.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "animal.1",
+    "animal.2"
+  ]
 }

@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "home",
     "place"
   ],
   "deictic": [],
-  "cf": [
-    "house"
-  ],
   "signNumber": 3339,
   "recordNumber": 1950,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,10 +37,13 @@
     "1. To go home to one's own place."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The place where you live and feel that you belong. English = home, place."
   ],
   "idGloss": "go.home.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "house"
+  ]
 }

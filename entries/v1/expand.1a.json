@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "expansion",
     "swelling",
@@ -28,12 +28,9 @@
     "swell"
   ],
   "deictic": [],
-  "cf": [
-    "mumps.1a"
-  ],
   "signNumber": 3036,
   "recordNumber": 1742,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -51,11 +48,14 @@
     "2. To become larger and rounder by being filled with air or liquid, especially a part of your body. English = swell."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process of becoming larger in size. English = expansion.",
     "2. A raised, curved shape on the surface of your body, that appears as a result of an injury or an illness. English = swelling."
   ],
   "idGloss": "expand.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "mumps.1a"
+  ]
 }

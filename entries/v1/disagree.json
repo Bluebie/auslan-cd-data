@@ -13,15 +13,14 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disagreement",
     "disagree"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4835,
   "recordNumber": 2921,
   "signVisualComposition": "AGREE + 'NOT'",
@@ -41,10 +40,11 @@
     "1. To have a different opinion to other people about what is true or correct. English = disagree."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An opinion about what is true or correct that is different to the opinion of other people. English = disagreement."
   ],
   "idGloss": "disagree",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

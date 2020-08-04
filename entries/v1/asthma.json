@@ -15,9 +15,9 @@
     "engtf4",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "asthma",
     "asthmatic",
@@ -25,12 +25,9 @@
     "pant"
   ],
   "deictic": [],
-  "cf": [
-    "breathe.1a"
-  ],
   "signNumber": 2506,
   "recordNumber": 1392,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -44,12 +41,15 @@
     "2. To breathe quickly and loudly with your mouth open, because you have been doing something energetic. English = pant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A chest disease which makes breathing difficult. English = asthma.",
     "2. A person who suffers from asthma. English = asthmatic.",
     "3. Breathing which is quick and loud and made with your mouth open, because you have been doing something energetic. English = panting."
   ],
   "idGloss": "asthma",
-  "oldEntry": "Popular explanation: the chest moving during breathing."
+  "oldEntry": "Popular explanation: the chest moving during breathing.",
+  "seeAlso": [
+    "breathe.1a"
+  ]
 }

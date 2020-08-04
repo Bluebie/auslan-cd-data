@@ -24,9 +24,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "assumption",
     "pretence",
@@ -38,10 +38,9 @@
     "suppose"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4734,
   "recordNumber": 2860,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -65,12 +64,13 @@
     "3. To make an approximate calculation. English = estimate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The idea that something is true, sometimes wrongly. English = assumption.",
     "2. An action or way of behaving that is intended to make people believe something that is not true. English = pretence.",
     "3. An approximate calculation, or the result obtained by such a calculation; a judgement which you make about a person or situation. English = estimate, estimation."
   ],
   "idGloss": "suppose.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

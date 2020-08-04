@@ -11,17 +11,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "handkerchief"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1900,
   "recordNumber": 1137,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -37,10 +36,11 @@
     "2. To blow your nose using a handkerchief or tissue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small square piece of fabric which you use for blowing your nose. English = handkerchief."
   ],
   "idGloss": "handkerchief",
-  "oldEntry": "Popular explanation: wiping one's nose with a handkerchief."
+  "oldEntry": "Popular explanation: wiping one's nose with a handkerchief.",
+  "seeAlso": []
 }

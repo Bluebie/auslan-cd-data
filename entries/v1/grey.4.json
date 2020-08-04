@@ -13,18 +13,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grey",
     "gray"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5043,
   "recordNumber": 3042,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -41,8 +40,9 @@
     "1. To be the colour of ashes or clouds on a rainy day. English = (be) grey, (be) gray."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "grey.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -20,9 +20,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "information",
     "explanation",
@@ -32,10 +32,9 @@
     "describe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 938,
   "recordNumber": 537,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 11,
@@ -52,12 +51,13 @@
     "3. Of a person, thing or event to say what they are like or what happened. English = describe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Facts, details and ideas which are communicated or received about something or someone. English = information.",
     "2. Facts, details and ideas which say why something happened or is the way it is. English = explanation.",
     "3. The act of saying what someone or something is like or an account of what someone or something is like. English = description."
   ],
   "idGloss": "information",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

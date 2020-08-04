@@ -9,21 +9,16 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alcoholic"
   ],
   "deictic": [],
-  "cf": [
-    "mug.1",
-    "drunk.1",
-    "drunk.2"
-  ],
   "signNumber": 4488,
   "recordNumber": 2726,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -36,10 +31,15 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is addicted to alcohol and continues drinking even though it makes them ill. English = alcoholic."
   ],
   "idGloss": "alcoholic",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "mug.1",
+    "drunk.1",
+    "drunk.2"
+  ]
 }

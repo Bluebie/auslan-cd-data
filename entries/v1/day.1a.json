@@ -12,20 +12,17 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "day",
     "daybreak"
   ],
   "deictic": [],
-  "cf": [
-    "clear.1a"
-  ],
   "signNumber": 3708,
   "recordNumber": 2186,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,11 +37,14 @@
     "1. To become day; to become light"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the seven twenty-four hour periods of time in a week; the time when it is light, or when you are awake and doing things. English = day.",
     "2. The time in the morning when light first appears. English = daybreak."
   ],
   "idGloss": "day.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "clear.1a"
+  ]
 }

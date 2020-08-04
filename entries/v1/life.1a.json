@@ -14,19 +14,18 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "life",
     "alive",
     "living"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6520,
   "recordNumber": 3880,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 14,
@@ -44,11 +43,12 @@
     "1. Of people, animals, and plants to have the quality of not being dead. English = (be) alive, (be) living."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality which people, animals, and plants have when they are not dead and which objects and substances do not have. English = life.",
     "2. The period of time during which someone is alive. English = life."
   ],
   "idGloss": "life.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

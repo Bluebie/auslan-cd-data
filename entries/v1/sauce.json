@@ -14,9 +14,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sauce",
     "seasoning",
@@ -24,10 +24,9 @@
     "sprinkle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4524,
   "recordNumber": 2745,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -41,12 +40,13 @@
     "2. To sprinkle something from a container, such as pepper or salt."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thick liquid which is served with other food and which often comes in a bottle. English = sauce.",
     "2. Salt, pepper, or spices that are added to food to improve its flavour. English = seasoning.",
     "3. A container for salt, pepper, or spices."
   ],
   "idGloss": "sauce",
-  "oldEntry": "Popular explanation: shaking sauce out from a bottle."
+  "oldEntry": "Popular explanation: shaking sauce out from a bottle.",
+  "seeAlso": []
 }

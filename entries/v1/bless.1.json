@@ -11,20 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blessing",
     "bless"
   ],
   "deictic": [],
-  "cf": [
-    "Australia.1"
-  ],
   "signNumber": 6312,
   "recordNumber": 3768,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 10.3,
   "primaryLocation": 15,
@@ -37,10 +34,13 @@
     "1. Of a priest, to ask for God's favour and protection for people or things. English = bless."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of priest asking for God's favour and protection for people and things. English = blessing."
   ],
   "idGloss": "bless.1",
-  "oldEntry": "Popular explanation: sprinkling or flicking holy water."
+  "oldEntry": "Popular explanation: sprinkling or flicking holy water.",
+  "seeAlso": [
+    "Australia.1"
+  ]
 }

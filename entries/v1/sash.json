@@ -8,16 +8,15 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "sash"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3382,
   "recordNumber": 1976,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "1. To wear a long piece of cloth round your waist or over one shoulder, especially with formal or official clothes or as part of the clothes of contestants or place getters in a competition; to wear a sash."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long piece of cloth which people wear round their waist or over one shoulder, especially with formal or official clothes or as part of the clothes of contestants or place getters in a competition. English = sash."
   ],
   "idGloss": "sash",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -9,17 +9,16 @@
     "engtf1",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "turn right"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 967,
   "recordNumber": 558,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "1. To turn or go right at a certain place, especially at a corner; to turn or go right."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A right turn."
   ],
   "idGloss": "turn.right.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

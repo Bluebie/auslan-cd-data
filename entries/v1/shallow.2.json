@@ -9,17 +9,16 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shallow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2870,
   "recordNumber": 1621,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -36,8 +35,9 @@
     "1. Of water in a sea, lake, river, or pool, to measure only a short distance from the bottom to the top. English = (be) shallow."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "shallow.2",
-  "oldEntry": "Popular explanation: a low water-level."
+  "oldEntry": "Popular explanation: a low water-level.",
+  "seeAlso": []
 }

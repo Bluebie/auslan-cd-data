@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "slide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4178,
   "recordNumber": 2526,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of photographic film which can be projected onto a screen so that you can see the picture. English = slide."
   ],
   "idGloss": "slide.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "butterfly",
     "moth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3712,
   "recordNumber": 2189,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -36,11 +35,12 @@
     "1. Of a butterfly or moth, to fly about, to flutter its wings."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A type of insect with large colourful wings and a thin body. English = butterfly.",
     "2. An insect like a butterfly but without colourful wings, which usually flies about at night. English = moth."
   ],
   "idGloss": "butterfly",
-  "oldEntry": "Popular explanation: the wings of a butterfly."
+  "oldEntry": "Popular explanation: the wings of a butterfly.",
+  "seeAlso": []
 }

@@ -12,19 +12,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "claw",
     "scratch",
     "scratches"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2969,
   "recordNumber": 1688,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "2. Of a person, to rub or drag your fingernails across another person with the aim of hurting them. English = scratch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Marks left on a person's or an animal's body from being clawed at or scratched. English = scratches."
   ],
   "idGloss": "claw.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

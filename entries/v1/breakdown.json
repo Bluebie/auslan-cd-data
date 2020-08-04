@@ -18,9 +18,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "breakdown",
     "devastation",
@@ -28,10 +28,9 @@
     "devastated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3020,
   "recordNumber": 1727,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -51,12 +50,13 @@
     "4. To be destroyed or severely damaged in some way. English = (be) devastated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The failure or ending of a machine, system, plan, or discussion. English = breakdown.",
     "2. The sudden failure of a car or vehicle as you are driving along. English = breakdown.",
     "3. Serious destruction or damage. English = devastation."
   ],
   "idGloss": "breakdown",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

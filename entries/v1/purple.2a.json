@@ -16,18 +16,17 @@
     "syn2"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "purple",
     "violet",
     "mauve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3234,
   "recordNumber": 1880,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -43,11 +42,12 @@
     "2. To be or have a bluish-purple colour; or to be or have a pale purple colour. English = (be) violet; (be) mauve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A reddish-blue colour. English = purple.",
     "2. A bluish-purple colour; or a pale purple colour. English = violet; mauve."
   ],
   "idGloss": "purple.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

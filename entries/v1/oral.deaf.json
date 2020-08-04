@@ -11,16 +11,15 @@
     "syn1"
   ],
   "sense": "2",
-  "blend": "",
+  "blend": null,
   "queries": "A vulgar or offensive sign for many signers, used in an insulting way.",
   "english": [
     "oral"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6396,
   "recordNumber": 3819,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 11.1,
   "primaryLocation": 11,
@@ -35,10 +34,11 @@
     "1. Of a deaf person, to be educated without the benefit of sign language and to communicate by lip-reading and the mouthing of speech alone. English = (be) oral."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A deaf person who has been educated without the benefit of sign language and who has been taught using a method which encourages the use of speech alone."
   ],
   "idGloss": "oral.deaf",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

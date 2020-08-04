@@ -16,9 +16,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bore",
     "bored",
@@ -26,10 +26,9 @@
     "tedious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3261,
   "recordNumber": 1899,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -49,10 +48,11 @@
     "2. To make other people feel tired and impatient because they have lost interest in what you are saying or doing. English = (be) boring, (be) tedious; bore (someone)."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who communicates in an uninteresting way, or something which is uninteresting. English = bore."
   ],
   "idGloss": "boring.2",
-  "oldEntry": "Popular explanation: a yawning posture."
+  "oldEntry": "Popular explanation: a yawning posture.",
+  "seeAlso": []
 }

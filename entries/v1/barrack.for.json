@@ -19,9 +19,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "barracker",
     "supporter",
@@ -31,10 +31,9 @@
     "favour"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4869,
   "recordNumber": 2945,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -53,10 +52,11 @@
     "3. To treat someone better or more kindly than you treat other people. English = favour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who shouts out to show they like someone, especially a sports team, and wants them to do well or win. English = barracker, supporter, fan."
   ],
   "idGloss": "barrack.for",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

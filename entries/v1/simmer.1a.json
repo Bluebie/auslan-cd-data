@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "simmer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3057,
   "recordNumber": 1755,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -30,8 +29,9 @@
     "1. To cook food by keeping it at or just below the boiling point. English = simmer."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "simmer.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

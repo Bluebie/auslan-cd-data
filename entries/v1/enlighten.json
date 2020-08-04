@@ -13,22 +13,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "enlightenment",
     "enlightened",
     "enlighten"
   ],
   "deictic": [],
-  "cf": [
-    "wake",
-    "alert.1a"
-  ],
   "signNumber": 19,
   "recordNumber": 12,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -42,10 +38,14 @@
     "2. To make someone more aware and informed. English = enlighten."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of enlightening or the state of being enlightened. English = enlightenment."
   ],
   "idGloss": "enlighten",
-  "oldEntry": "Popular explanation: an increase in some mental substance."
+  "oldEntry": "Popular explanation: an increase in some mental substance.",
+  "seeAlso": [
+    "wake",
+    "alert.1a"
+  ]
 }

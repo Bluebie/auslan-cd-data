@@ -13,19 +13,16 @@
     "cf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "tablet",
     "pill"
   ],
   "deictic": [],
-  "cf": [
-    "eat.1a"
-  ],
   "signNumber": 472,
   "recordNumber": 261,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "2. To eat small amounts of a meal. Idiomatic English = pick at one's food."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece or mass of medicine which you swallow, with or without chewing. English = tablet, pill."
   ],
   "idGloss": "take.tablet.1a",
-  "oldEntry": "Popular explanation: picking up and taking a pill."
+  "oldEntry": "Popular explanation: picking up and taking a pill.",
+  "seeAlso": [
+    "eat.1a"
+  ]
 }

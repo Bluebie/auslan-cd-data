@@ -7,17 +7,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cute"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1940,
   "recordNumber": 1158,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -30,8 +29,9 @@
     "1. To be very pretty or attractive. English = (be) cute."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cute.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

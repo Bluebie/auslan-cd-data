@@ -12,20 +12,16 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "roof"
   ],
   "deictic": [],
-  "cf": [
-    "rage",
-    "room.1a"
-  ],
   "signNumber": 3638,
   "recordNumber": 2142,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -38,10 +34,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The covering on the top of a building. English = roof."
   ],
   "idGloss": "roof.1a",
-  "oldEntry": "Popular explanation: the form of a roof."
+  "oldEntry": "Popular explanation: the form of a roof.",
+  "seeAlso": [
+    "rage",
+    "room.1a"
+  ]
 }

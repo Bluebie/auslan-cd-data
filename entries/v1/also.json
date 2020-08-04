@@ -11,18 +11,14 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "also",
     "in addition"
   ],
   "deictic": [],
-  "cf": [
-    "two",
-    "next.one.1a"
-  ],
   "signNumber": 4895,
   "recordNumber": 2957,
   "signVisualComposition": "TWO + NEXT.ONE",
@@ -38,10 +34,14 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The second of two things; the second of a pair."
   ],
   "idGloss": "also",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "two",
+    "next.one.1a"
+  ]
 }

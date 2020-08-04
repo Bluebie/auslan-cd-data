@@ -11,14 +11,13 @@
     "ant2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "short"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6366,
   "recordNumber": 3803,
   "signVisualComposition": "LITTLE + SHORT",
@@ -39,8 +38,9 @@
     "1. To be not as tall as most people. English = (be) short."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "short.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

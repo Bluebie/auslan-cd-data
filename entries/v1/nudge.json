@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nudge",
     "elbow"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5684,
   "recordNumber": 3364,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "2. To use your elbow to jab someone nearby in the ribs as a friendly gesture and as a sign of friendship and complicity, like winking. English = nudge."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A gentle knock you give someone with your elbow. English = nudge."
   ],
   "idGloss": "nudge",
-  "oldEntry": "Popular explanation: nudging with one's elbow."
+  "oldEntry": "Popular explanation: nudging with one's elbow.",
+  "seeAlso": []
 }

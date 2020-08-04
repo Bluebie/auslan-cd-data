@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "oyster"
   ],
   "deictic": [],
-  "cf": [
-    "crustacean.1a",
-    "fish.3"
-  ],
   "signNumber": 6570,
   "recordNumber": 3916,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -33,10 +29,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large, flat shellfish that can be eaten. Some varieties produce pearls. English = oyster."
   ],
   "idGloss": "oyster.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "crustacean.1a",
+    "fish.3"
+  ]
 }

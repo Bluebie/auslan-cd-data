@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stroke"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3175,
   "recordNumber": 1844,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 6,
@@ -30,10 +29,11 @@
     "1. To suffer a sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body; suffer a stroke; have a stroke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sudden and severe illness which affects your brain, and which often kills people or causes them to be paralysed on one side of their body. English = stroke."
   ],
   "idGloss": "stroke.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

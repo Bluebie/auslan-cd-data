@@ -13,19 +13,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "skipping rope",
     "skipping",
     "skip"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6204,
   "recordNumber": 3707,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "1. To jump up and down over a rope which you or two other people are holding at each end and turning round and round. English = skip."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A rope, usually with a handle at each end, that is used for skipping. English = skipping rope.",
     "2. The game or activity of jumping up and down over a rope. English = skipping."
   ],
   "idGloss": "skip.1",
-  "oldEntry": "Popular explanation: using a skipping rope."
+  "oldEntry": "Popular explanation: using a skipping rope.",
+  "seeAlso": []
 }

@@ -13,19 +13,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "egg-beater",
     "whip",
     "beat"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5837,
   "recordNumber": 3471,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "2. To use an egg-beater. English = whip, beat."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A kitchen tool with rotating blades used for beating eggs or whipping cream. English = egg-beater."
   ],
   "idGloss": "whip.2a",
-  "oldEntry": "Popular explanation: operating an egg beater."
+  "oldEntry": "Popular explanation: operating an egg beater.",
+  "seeAlso": []
 }

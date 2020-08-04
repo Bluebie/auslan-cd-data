@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "division",
     "divide"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 748,
   "recordNumber": 431,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -39,11 +38,12 @@
     "1. In mathematics, to calculate how many times a small number can go into a large number. English = divide."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The mathematical process of dividing one number by another. English = division.",
     "2. The mathematical symbol for the process of dividing one number by another."
   ],
   "idGloss": "divide.3",
-  "oldEntry": "Popular explanation: the division symbol."
+  "oldEntry": "Popular explanation: the division symbol.",
+  "seeAlso": []
 }

@@ -10,14 +10,13 @@
     "engtf1",
     "matter"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This is a compound sign in which the first element is specifying the material the container is made from.",
   "english": [
     "glass"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4143,
   "recordNumber": 2498,
   "signVisualComposition": "WINDOW + CUP",
@@ -31,10 +30,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A container made from glass which you can drink from. It does not have a handle. English = glass."
   ],
   "idGloss": "glass.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

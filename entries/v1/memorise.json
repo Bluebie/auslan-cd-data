@@ -15,19 +15,14 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "memorisation",
     "memorise"
   ],
   "deictic": [],
-  "cf": [
-    "take.in.experience",
-    "student.1a",
-    "learn.1"
-  ],
   "signNumber": 2427,
   "recordNumber": 1345,
   "signVisualComposition": "EXPERIENCE + REMEMBER",
@@ -48,10 +43,15 @@
     "1. To learn something thoroughly so that you can remember it exactly. English = memorise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process of learning something thoroughly so that you can remember it exactly. English = memorisation."
   ],
   "idGloss": "memorise",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "take.in.experience",
+    "student.1a",
+    "learn.1"
+  ]
 }

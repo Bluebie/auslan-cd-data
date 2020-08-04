@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "overtaking",
     "overtake"
   ],
   "deictic": [],
-  "cf": [
-    "car-park"
-  ],
   "signNumber": 4117,
   "recordNumber": 2476,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -40,10 +37,13 @@
     "1. To pass someone in a vehicle because you are driving faster then they are. English = overtake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of passing someone in a vehicle because you are driving faster then they are. English = overtaking."
   ],
   "idGloss": "overtake.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "car-park"
+  ]
 }

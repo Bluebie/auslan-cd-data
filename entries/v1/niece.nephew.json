@@ -11,18 +11,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "niece",
     "nephew"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1924,
   "recordNumber": 1149,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -36,10 +35,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is the child of your brother or sister. English = niece (girl), nephew (boy)."
   ],
   "idGloss": "niece.nephew",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

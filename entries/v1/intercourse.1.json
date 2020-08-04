@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "intercourse",
     "sexual intercourse",
@@ -33,14 +33,9 @@
     "make love"
   ],
   "deictic": [],
-  "cf": [
-    "fuck.1",
-    "fuck.2",
-    "fuck.3"
-  ],
   "signNumber": 1648,
   "recordNumber": 979,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -56,11 +51,16 @@
     "1. To have sex. Formal English = have sexual intercourse, copulate. English = make love."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of having sex. Formal English = sexual intercourse, copulation.",
     "2. The physical activity which people and animals do with each other to produce offspring and/or to experience pleasure. English = sex."
   ],
   "idGloss": "intercourse.1",
-  "oldEntry": "Popular explanation: one set of legs on top of another."
+  "oldEntry": "Popular explanation: one set of legs on top of another.",
+  "seeAlso": [
+    "fuck.1",
+    "fuck.2",
+    "fuck.3"
+  ]
 }

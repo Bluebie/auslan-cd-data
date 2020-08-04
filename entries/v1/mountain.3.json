@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "mountain"
   ],
   "deictic": [],
-  "cf": [
-    "mountain.1a",
-    "hill"
-  ],
   "signNumber": 3173.1,
   "recordNumber": 1842,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": null,
   "primaryLocation": 6,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A very high piece of land with steep sides which are difficult to climb English = mountain."
   ],
   "idGloss": "mountain.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "mountain.1a",
+    "hill"
+  ]
 }

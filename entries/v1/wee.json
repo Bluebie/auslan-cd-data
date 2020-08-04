@@ -12,22 +12,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wee",
     "wee-wee"
   ],
   "deictic": [],
-  "cf": [
-    "toilet.1",
-    "toilet.2",
-    "toilet.3"
-  ],
   "signNumber": 3490,
   "recordNumber": 2041,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -42,10 +37,15 @@
     "2. To urinate. Used especially when talking to children. English = wee, wee-wee, do wee-wees."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act or an instance of urinating. Used especially when talking to children. English = wee, wee-wee."
   ],
   "idGloss": "wee",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "toilet.1",
+    "toilet.2",
+    "toilet.3"
+  ]
 }

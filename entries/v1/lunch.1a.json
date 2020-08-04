@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lunch",
     "sandwich"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4444,
   "recordNumber": 2701,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.4,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,11 +34,12 @@
     "2. To eat two slices of bread with a layer of food between them; to eat a sandwich."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The meal you have in the middle of the day. English = lunch.",
     "2. Two slices of bread with a layer of food between them. English = sandwich."
   ],
   "idGloss": "lunch.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

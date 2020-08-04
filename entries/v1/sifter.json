@@ -7,19 +7,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "sifter"
   ],
   "deictic": [],
-  "cf": [
-    "flour.1"
-  ],
   "signNumber": 4543,
   "recordNumber": 2753,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -30,10 +27,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sieve for sifting flour operated by pulling on a lever attached to a handle on the side. It is a device used in the kitchen. English = sifter."
   ],
   "idGloss": "sifter",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "flour.1"
+  ]
 }

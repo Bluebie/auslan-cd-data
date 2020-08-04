@@ -9,16 +9,15 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "busybody"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3147,
   "recordNumber": 1823,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who interferes in other people's affairs. English = busybody."
   ],
   "idGloss": "busybody",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

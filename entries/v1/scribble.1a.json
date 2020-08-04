@@ -12,22 +12,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scribble",
     "scribbling"
   ],
   "deictic": [],
-  "cf": [
-    "write.1a",
-    "draw.line.1a",
-    "drafting.1"
-  ],
   "signNumber": 6449.1,
   "recordNumber": 3845,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 11.1,
   "primaryLocation": 15,
@@ -42,10 +37,15 @@
     "1. To write something quickly or roughly, or to make meaningless marks or rough drawings using a pen or a pencil. English = scribble."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act or result of writing something quickly or roughly, or making meaningless marks or rough drawings using a pen or a pencil. English = scribble, scribbling."
   ],
   "idGloss": "scribble.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "write.1a",
+    "draw.line.1a",
+    "drafting.1"
+  ]
 }

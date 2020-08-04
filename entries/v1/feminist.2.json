@@ -9,15 +9,14 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "feminist",
     "feminism"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3238,
   "recordNumber": 1883,
   "signVisualComposition": "LADY + RADICAL",
@@ -33,11 +32,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who believes that women should have the same rights, power, and opportunities as men. English = feminist.",
     "2. The belief that women should have the same rights, power, and opportunities as men. English = feminism."
   ],
   "idGloss": "feminist.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

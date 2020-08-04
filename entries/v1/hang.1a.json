@@ -13,19 +13,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hook",
     "hang",
     "suspend"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1470,
   "recordNumber": 877,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 1.2,
   "primaryLocation": 15,
@@ -40,10 +39,11 @@
     "1. To attach one part of something to a hook, nail or rail etc. so that it is supported by it. The rest of the thing is free and unsupported. English = hang, suspend."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of curved metal or plastic that is used for hanging things from. English = hook."
   ],
   "idGloss": "hang.1a",
-  "oldEntry": "Popular explanation: two hooks."
+  "oldEntry": "Popular explanation: two hooks.",
+  "seeAlso": []
 }

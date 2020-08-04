@@ -22,9 +22,9 @@
     "engtf8",
     "engtf9"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "celebration",
     "cheering",
@@ -37,10 +37,9 @@
     "hooray"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6139,
   "recordNumber": 3656,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 8,
@@ -58,12 +57,13 @@
     "4. In a competition or battle, to be on the side that defeats the other one. English = (be) victorious, win."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A special event that people organise to enjoy themselves because something pleasant has happened or because it is someone's birthday or anniversary. English = celebration.",
     "2. The action of making a loud noise with your voice or waving your arms about to show that you are very pleased about something. English = cheering.",
     "3. A date which is remembered or celebrated because a special event happened on that date in a previous year. English = anniversary."
   ],
   "idGloss": "celebrate.1a",
-  "oldEntry": "Popular explanation: twirling, waving or shaking flag-like objects in celebration of victory."
+  "oldEntry": "Popular explanation: twirling, waving or shaking flag-like objects in celebration of victory.",
+  "seeAlso": []
 }

@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "abuse",
     "abused"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5950,
   "recordNumber": 3545,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -34,10 +33,11 @@
     "2. To be treated cruelly and violently. English = (be) abused."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The cruel and violent treatment of someone. English = abuse."
   ],
   "idGloss": "abuse",
-  "oldEntry": "Popular explanation: repeatedly striking with the fist."
+  "oldEntry": "Popular explanation: repeatedly striking with the fist.",
+  "seeAlso": []
 }

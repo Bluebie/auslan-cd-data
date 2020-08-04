@@ -7,18 +7,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not enough",
     "insufficient"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3300,
   "recordNumber": 1926,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -31,8 +30,9 @@
     "1. To be not as much as you need or want of something. English = (be) not enough, (be) insufficient."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.enough",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

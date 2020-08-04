@@ -10,17 +10,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "grin"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3003,
   "recordNumber": 1712,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 9,
@@ -34,10 +33,11 @@
     "2. To be very happy about something and to show it by grinning."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A big, broad smile, especially one in which you show your teeth. English = grin."
   ],
   "idGloss": "grin.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

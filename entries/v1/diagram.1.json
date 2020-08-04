@@ -12,20 +12,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "diagram"
   ],
   "deictic": [],
-  "cf": [
-    "write.1a",
-    "picture.1a"
-  ],
   "signNumber": 6453,
   "recordNumber": 3847,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -41,10 +37,14 @@
     "1. To draw a picture or diagram."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A simple drawing consisting mainly of lines, often one which is used to explain how something works. English = diagram."
   ],
   "idGloss": "diagram.1",
-  "oldEntry": "Popular explanation: drawing something."
+  "oldEntry": "Popular explanation: drawing something.",
+  "seeAlso": [
+    "write.1a",
+    "picture.1a"
+  ]
 }

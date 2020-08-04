@@ -11,20 +11,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "refrigerator",
     "fridge"
   ],
   "deictic": [],
-  "cf": [
-    "oven.2"
-  ],
   "signNumber": 5687,
   "recordNumber": 3366,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -39,10 +36,13 @@
     "1. To open and close the door on a refrigerator."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large container which is kept cool inside, usually by electricity, so that the food and drink in it stays fresh. English = refrigerator. Informal English = fridge."
   ],
   "idGloss": "refrigerator.1",
-  "oldEntry": "Popular explanation: opening and closing a fridge door."
+  "oldEntry": "Popular explanation: opening and closing a fridge door.",
+  "seeAlso": [
+    "oven.2"
+  ]
 }

@@ -9,14 +9,13 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tomato"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1142,
   "recordNumber": 670,
   "signVisualComposition": "RED + BALL",
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, soft, red fruit that you can eat raw in salads, or cooked as a vegetable or in a sauce. English = tomato."
   ],
   "idGloss": "tomato.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

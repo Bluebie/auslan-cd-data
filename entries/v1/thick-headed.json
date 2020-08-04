@@ -14,18 +14,17 @@
     "syn3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "ignoramus",
     "moron",
     "thick"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4466,
   "recordNumber": 2714,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -45,10 +44,11 @@
     "1. To be very stupid and dull-witted. Idiomatic English = (be) thick, (be) thick in the head."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is very stupid and dull-witted. English = moron, ignoramus."
   ],
   "idGloss": "thick-headed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

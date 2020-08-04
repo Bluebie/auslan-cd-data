@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "farm",
     "farmer"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3441,
   "recordNumber": 2009,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -36,11 +35,12 @@
     "1. To manage or own an area of land which is used for growing crops or raising animals. English = farm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An area of land consisting of fields and some buildings, which is used for growing crops or raising animals. English = farm.",
     "2. A person who owns or manages a farm. English = farmer."
   ],
   "idGloss": "farm.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

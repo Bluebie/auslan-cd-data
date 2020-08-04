@@ -13,19 +13,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bother",
     "not bother",
     "not care"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6227,
   "recordNumber": 3720,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -44,10 +43,11 @@
     "1. To not do something because you do not think it is important or necessary, or because you think it would involve too much effort. English = not bother, not care less."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Trouble, fuss or difficulty. English = bother."
   ],
   "idGloss": "bother.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

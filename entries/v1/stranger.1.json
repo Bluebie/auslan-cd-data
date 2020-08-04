@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "WHO + gesture of retraction",
-  "queries": "",
+  "queries": null,
   "english": [
     "stranger"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1409,
   "recordNumber": 838,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -35,10 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone you have never met before, or someone you have met before but do not remember or recognise. English = stranger."
   ],
   "idGloss": "stranger.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

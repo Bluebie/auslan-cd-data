@@ -12,19 +12,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dog"
   ],
   "deictic": [],
-  "cf": [
-    "growl.1a"
-  ],
   "signNumber": 3507,
   "recordNumber": 2052,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 17,
@@ -39,11 +36,14 @@
     "1. To attract the attention of a dog by slapping your thigh."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An animal that is often kept as a pet or used to guard or hunt things. English = dog.",
     "2. The act of slapping your thigh to attract the attention of a dog."
   ],
   "idGloss": "dog.1",
-  "oldEntry": "Popular explanation: calling a dog by hitting the thigh."
+  "oldEntry": "Popular explanation: calling a dog by hitting the thigh.",
+  "seeAlso": [
+    "growl.1a"
+  ]
 }

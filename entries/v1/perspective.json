@@ -8,21 +8,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "perspective",
     "outlook",
     "point of view"
   ],
   "deictic": [],
-  "cf": [
-    "view.1a"
-  ],
   "signNumber": 1673,
   "recordNumber": 997,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A particular way of thinking about something, especially one that is influenced by your beliefs or experience. English = perspective, point of view, outlook."
   ],
   "idGloss": "perspective",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "view.1a"
+  ]
 }

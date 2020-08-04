@@ -8,17 +8,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "overnight"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3559,
   "recordNumber": 2087,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -34,8 +33,9 @@
     "2. To happen or take place during all of one night, to happen overnight."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "overnight.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

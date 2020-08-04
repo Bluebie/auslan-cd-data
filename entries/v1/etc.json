@@ -9,21 +9,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "et cetera",
     "etc"
   ],
   "deictic": [],
-  "cf": [
-    "thing.2",
-    "present.1a"
-  ],
   "signNumber": 904,
   "recordNumber": 519,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -36,8 +32,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "etc",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "thing.2",
+    "present.1a"
+  ]
 }

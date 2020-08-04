@@ -14,9 +14,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "plainness",
     "simplicity",
@@ -25,10 +25,9 @@
     "simple"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3278,
   "recordNumber": 1910,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -42,11 +41,12 @@
     "2. To be very simple in style. English = (be) plain, (be) simple."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of having a surface which is entirely in one colour and has no pattern, design or writing. English = plainness, simplicity.",
     "2. The quality of being very simple in style. English = plainness, simplicity."
   ],
   "idGloss": "plain.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

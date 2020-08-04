@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cigarette",
     "smoke"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1559,
   "recordNumber": 929,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -32,10 +31,11 @@
     "1. To smoke a cigarette. English = smoke, have a smoke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small tube of paper containing tobacco which people smoke. English = cigarette."
   ],
   "idGloss": "smoke.cigarette",
-  "oldEntry": "Popular explanation: smoking a cigarette."
+  "oldEntry": "Popular explanation: smoking a cigarette.",
+  "seeAlso": []
 }

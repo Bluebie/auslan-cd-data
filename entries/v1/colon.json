@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "colon"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1773,
   "recordNumber": 1068,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
     "1. To write a colon."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A punctuation mark (:), which you can use in several ways. For example you can put it before a list of things or before reported speech. English = colon."
   ],
   "idGloss": "colon",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

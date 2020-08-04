@@ -19,8 +19,8 @@
     "ant2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "cold",
     "coldness",
@@ -28,10 +28,9 @@
     "chill"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5758,
   "recordNumber": 3411,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -50,11 +49,12 @@
     "4. To not show your emotions, to be unfriendly or not affectionate. English = (be) cold."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of something, especially the weather, when it has a very low temperature. English = cold, coldness.",
     "2. The behaviour of someone who does not show much emotion, especially affection or friendliness. English = coldness."
   ],
   "idGloss": "cold",
-  "oldEntry": "Popular explanation: shivering from the cold."
+  "oldEntry": "Popular explanation: shivering from the cold.",
+  "seeAlso": []
 }

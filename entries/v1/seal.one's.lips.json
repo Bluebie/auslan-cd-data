@@ -11,20 +11,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "keep quiet"
   ],
   "deictic": [],
-  "cf": [
-    "quiet.1a",
-    "boring.1a"
-  ],
   "signNumber": 279,
   "recordNumber": 163,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -42,8 +38,12 @@
     "1. To promise to keep secret something that someone has just told you. Idiomatic English = seal one's lips."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "seal.one's.lips",
-  "oldEntry": "Popular explanation: zipping one's lips."
+  "oldEntry": "Popular explanation: zipping one's lips.",
+  "seeAlso": [
+    "quiet.1a",
+    "boring.1a"
+  ]
 }

@@ -19,9 +19,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "swimming costume",
     "swimming briefs",
@@ -33,10 +33,9 @@
     "knickers"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5246,
   "recordNumber": 3150,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 7.1,
   "primaryLocation": 17,
@@ -51,11 +50,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small piece of clothing worn over and around your buttocks and groin which has two hole to put your legs through and is quite narrow at the sides of the waist. English = swimming costume, swimming briefs, bathers.",
     "2. A small piece of underwear worn around your buttocks and groin which has two holes to put your legs through and elastic around the top. English = (men and women) briefs, bikini briefs, underpants; (women) panties, knickers."
   ],
   "idGloss": "swimming costume.1a",
-  "oldEntry": "Popular explanation: the outline of a pair of bathers."
+  "oldEntry": "Popular explanation: the outline of a pair of bathers.",
+  "seeAlso": []
 }

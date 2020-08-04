@@ -6,14 +6,13 @@
     "twohand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "alcohol"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1150,
   "recordNumber": 676,
   "signVisualComposition": "A + A",
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Drink such as beer, wine, and whisky that can make people drunk. English = alcohol."
   ],
   "idGloss": "alcohol",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

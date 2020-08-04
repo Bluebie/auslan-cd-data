@@ -8,13 +8,12 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "years"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1158,
   "recordNumber": 682,
   "signVisualComposition": "Y + Y",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Periods of 365 or 366 days, beginning on the first of January and ending on the thirty-first of December. They are made up of twelve months. English = years."
   ],
   "idGloss": "years",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

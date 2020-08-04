@@ -14,9 +14,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stomach",
     "belly",
@@ -24,10 +24,9 @@
     "beer gut"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4881,
   "recordNumber": 2949,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -40,11 +39,12 @@
     "1. To have a large stomach, to have a big belly, to have a beer gut."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The front part of someone's body below their waist, especially when it is very large. English = (large) stomach, (big) belly.",
     "2. A large stomach, especially one due to drinking excess alcohol or beer. English = beer gut."
   ],
   "idGloss": "big.belly.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

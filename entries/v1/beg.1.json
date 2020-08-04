@@ -13,23 +13,18 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "begging",
     "beggar",
     "beg"
   ],
   "deictic": [],
-  "cf": [
-    "please.1",
-    "charge.1",
-    "beg.3"
-  ],
   "signNumber": 3402,
   "recordNumber": 1988,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -44,11 +39,16 @@
     "1. To ask people to give you food or money because you are very poor. English = beg."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of asking people to give you food or money because you are very poor. English = begging.",
     "2. A person who asks other people for money or food because they are very poor. English = beggar."
   ],
   "idGloss": "beg.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "please.1",
+    "charge.1",
+    "beg.3"
+  ]
 }

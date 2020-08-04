@@ -15,20 +15,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "THINK + DELETE",
-  "queries": "",
+  "queries": null,
   "english": [
     "oblivious",
     "vacant"
   ],
   "deictic": [],
-  "cf": [
-    "forget.1"
-  ],
   "signNumber": 6530,
   "recordNumber": 3885,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 13.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 2,
@@ -48,8 +45,11 @@
     "2. To have a look or expression which suggests that you do not understand something or that you are not very intelligent. English = (be) vacant, have a vacant look."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "empty-headed",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "forget.1"
+  ]
 }

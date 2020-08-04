@@ -19,9 +19,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spider",
     "insect",
@@ -30,13 +30,9 @@
     "crawl"
   ],
   "deictic": [],
-  "cf": [
-    "animal.1",
-    "animal.2"
-  ],
   "signNumber": 3084.1,
   "recordNumber": 1772,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -51,12 +47,16 @@
     "1. Of an insect or spider, to crawl."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small creature with eight legs, many types of which make webs. English = spider.",
     "2. A small animal that has six legs, many types of which have wings. Examples include, ants, flies, butterflies and beetles. English = insect. Informal English = bug.",
     "3. An insect with a hard covering on its body. English = beetle."
   ],
   "idGloss": "spider",
-  "oldEntry": "Popular explanation: a spider crawling up one's arm."
+  "oldEntry": "Popular explanation: a spider crawling up one's arm.",
+  "seeAlso": [
+    "animal.1",
+    "animal.2"
+  ]
 }

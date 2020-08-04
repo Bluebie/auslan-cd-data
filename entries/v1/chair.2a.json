@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "seat",
     "chair",
@@ -31,10 +31,9 @@
     "seated"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3881,
   "recordNumber": 2308,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -55,11 +54,12 @@
     "1. To support the weight of your body by resting your buttocks on a chair or seat with the upper part of your body upright. English = sit, sit down; (be) seated."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A object or a piece of furniture for people to sit on. English = seat, chair, stool.",
     "2. A place in a theatre or cinema from where you watch the performance. English = seat."
   ],
   "idGloss": "chair.2a",
-  "oldEntry": "Popular explanation: one thing placed on another."
+  "oldEntry": "Popular explanation: one thing placed on another.",
+  "seeAlso": []
 }

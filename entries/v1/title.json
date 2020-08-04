@@ -17,9 +17,9 @@
     "engtf6",
     "engtf7"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "title",
     "topic",
@@ -30,10 +30,9 @@
     "called"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1635,
   "recordNumber": 971,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 14,
@@ -46,12 +45,13 @@
     "1. Of a book, play, film, or piece of music, to have a name. English = (be) entitled, (be) called."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The name of a book, play, film or piece of music. English = title.",
     "2. The thing, person, or idea that is being discussed or written about. English = topic, subject, theme.",
     "3. A word or phrase that is usually used in a particular situation or by particular people, and that you are quoting, explaining, or commenting on. English = expression."
   ],
   "idGloss": "title",
-  "oldEntry": "Popular explanation: quotation marks."
+  "oldEntry": "Popular explanation: quotation marks.",
+  "seeAlso": []
 }

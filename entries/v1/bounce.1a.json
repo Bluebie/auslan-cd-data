@@ -7,17 +7,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bounce"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6006,
   "recordNumber": 3576,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,5 +32,6 @@
   "generalMeaning": "The act of an object, especially a spherical one, moving upwards or away immediately after hitting something else such as the ground or some other flat surface, or any object or action associated with this.",
   "nominalLexeme": [],
   "idGloss": "bounce.1a",
-  "oldEntry": "Popular explanation: an object bouncing off a surface."
+  "oldEntry": "Popular explanation: an object bouncing off a surface.",
+  "seeAlso": []
 }

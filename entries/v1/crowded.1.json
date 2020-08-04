@@ -12,20 +12,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crowded",
     "packed"
   ],
   "deictic": [],
-  "cf": [
-    "attend.1a"
-  ],
   "signNumber": 4999,
   "recordNumber": 3013,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -42,8 +39,11 @@
     "1. Of a place, to be full of people, often so that it is difficult to move around. English = (be) crowded, (be) packed."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "crowded.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "attend.1a"
+  ]
 }

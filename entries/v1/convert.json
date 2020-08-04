@@ -13,15 +13,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "convert",
     "conversion"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 835,
   "recordNumber": 476,
   "signVisualComposition": "THINK + ROLL-OVER",
@@ -38,11 +37,12 @@
     "2. To change your opinion about something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who has changed their religious or political beliefs. English = convert.",
     "2. The process of changing your religious or political beliefs. English = conversion."
   ],
   "idGloss": "convert",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

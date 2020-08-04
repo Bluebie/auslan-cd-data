@@ -9,17 +9,16 @@
     "engtf2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "proper",
     "appropriate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4937,
   "recordNumber": 2984,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -32,8 +31,9 @@
     "1. To be real and satisfactory rather than inadequate in some way; to be correct or the most suitable; to be socially acceptable and right. English = (be) proper, (be) appropriate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "proper",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

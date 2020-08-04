@@ -19,21 +19,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "underside",
     "under",
     "underground"
   ],
   "deictic": [],
-  "cf": [
-    "submarine"
-  ],
   "signNumber": 4127,
   "recordNumber": 2485,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,10 +49,13 @@
     "4. To be in the power or control of a particular person or government. English = (be) under."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of something that normally faces towards the ground. English = underside."
   ],
   "idGloss": "under",
-  "oldEntry": "Popular explanation: one thing under another."
+  "oldEntry": "Popular explanation: one thing under another.",
+  "seeAlso": [
+    "submarine"
+  ]
 }

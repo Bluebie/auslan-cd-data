@@ -14,9 +14,9 @@
     "engtf6",
     "ant1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pottering",
     "potter",
@@ -26,10 +26,9 @@
     "faff about"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2748,
   "recordNumber": 1534,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -45,10 +44,11 @@
     "2. To do something in a very disorganised or casual way without really achieving very much but, nonetheless, enjoying yourself. British English = faff, faff about"
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of doing something that is very pleasant to do but not very important, especially something around the house. English = pottering."
   ],
   "idGloss": "potter",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -11,18 +11,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "red",
     "redden"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1411,
   "recordNumber": 840,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -38,10 +37,11 @@
     "2. To become the colour of blood or of a ripe tomato. English = redden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The colour of blood or of a ripe tomato. English = red."
   ],
   "idGloss": "red.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

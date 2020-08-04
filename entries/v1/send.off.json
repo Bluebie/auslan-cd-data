@@ -10,19 +10,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "send off",
     "dismiss",
     "out"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6296,
   "recordNumber": 3762,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -38,8 +37,9 @@
     "2. In sports and games, to have done something which means you can no longer participate. English = (be) out."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "send.off",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

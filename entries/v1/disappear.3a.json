@@ -13,19 +13,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "disappearance",
     "disappear",
     "missing"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 539,
   "recordNumber": 307,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -45,10 +44,11 @@
     "1. Of a thing or person, to be unable to be seen because it (or he or she) has gone away or been taken away unexpectedly or has been lost. English = disappear, (be) missing."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The situation in which a thing or a person cannot be found and nobody knows where they have gone or where they have been taken to. English = disappearance."
   ],
   "idGloss": "disappear.3a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

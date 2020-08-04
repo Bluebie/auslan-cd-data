@@ -9,14 +9,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crazy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 512,
   "recordNumber": 284,
   "signVisualComposition": "MIND + FINISH",
@@ -35,8 +34,9 @@
     "1. To talk or behave in a very strange or foolish way. English = (be) crazy, Idiomatic English = (be) out of one's mind."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "crazy.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

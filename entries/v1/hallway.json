@@ -15,9 +15,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hall",
     "hallway",
@@ -26,10 +26,9 @@
     "corridor"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3603,
   "recordNumber": 2119,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 13,
@@ -40,11 +39,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The entrance area just inside the front door of a house or building; a long narrow space with walls (in a building or a train) or fences on both sides, which connects one place with another. It often has doors and rooms on one or both sides.",
     "English = hall, hallway, passage, passageway, corridor."
   ],
   "idGloss": "hallway",
-  "oldEntry": "Popular explanation: the walls of a passageway."
+  "oldEntry": "Popular explanation: the walls of a passageway.",
+  "seeAlso": []
 }

@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Denmark",
     "Danish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5528,
   "recordNumber": 3270,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,10 +31,11 @@
     "1. To be from or relate to Denmark. English = Danish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in northern Europe, on a peninsula north of Germany, called Denmark."
   ],
   "idGloss": "Denmark",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

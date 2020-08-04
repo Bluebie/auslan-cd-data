@@ -16,9 +16,9 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "devil",
     "Satan",
@@ -26,10 +26,9 @@
     "mischievous"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6565,
   "recordNumber": 3913,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 15.1,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -49,10 +48,11 @@
     "2. Of children, to be eager to have fun or be naughty, especially be embarrassing people or by playing tricks. English = (be) mischievous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Christianity, the most powerful evil spirit. English = devil, Satan"
   ],
   "idGloss": "devil.1a",
-  "oldEntry": "Popular explanation: the horns of the devil."
+  "oldEntry": "Popular explanation: the horns of the devil.",
+  "seeAlso": []
 }

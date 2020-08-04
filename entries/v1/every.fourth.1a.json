@@ -8,17 +8,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fourth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1137,
   "recordNumber": 666,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 4.1,
   "primaryLocation": 14,
@@ -31,10 +30,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Each and every week which is the fourth week in a cycle (usually of four weeks), or each and every unit of time which is the fourth unit in a cycle."
   ],
   "idGloss": "every.fourth.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

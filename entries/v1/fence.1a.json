@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fence",
     "wall",
     "barrier"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3678,
   "recordNumber": 2166,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -37,7 +36,7 @@
     "2. To form a row of upright objects close together ."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A barrier made of wood or wire supported by posts. English = fence.",
     "2. A long narrow vertical structure made of stone or brick that surrounds or divides an area of land. English = wall.",
@@ -45,5 +44,6 @@
     "4. A row of upright objects close together."
   ],
   "idGloss": "fence.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

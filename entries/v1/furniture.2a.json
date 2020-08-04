@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "furniture"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5895,
   "recordNumber": 3506,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Large movable objects such as tables, chairs, or beds that are used in a room. English = furniture."
   ],
   "idGloss": "furniture.2a",
-  "oldEntry": "Popular explanation: resting arms on armrests."
+  "oldEntry": "Popular explanation: resting arms on armrests.",
+  "seeAlso": []
 }

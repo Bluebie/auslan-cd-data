@@ -24,9 +24,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "subtraction",
     "deduction",
@@ -37,10 +37,9 @@
     "minus"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3104,
   "recordNumber": 1788,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -62,12 +61,13 @@
     "4. Used between two numbers to mean that the second number is subtracted from the first number. English = minus."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The calculation in which you take one number away from another number. English = subtraction, deduction.",
     "2. The removal or crossing out of something that has been written down. English = deletion.",
     "3. The act of taking one thing away from another thing."
   ],
   "idGloss": "subtract.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

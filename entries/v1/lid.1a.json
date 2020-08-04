@@ -7,18 +7,17 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lid",
     "cover"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4419,
   "recordNumber": 2686,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
     "1. The top of a box or other container, such as a jar, which can be removed or raised when you want to open the container. English = lid, cover."
   ],
   "idGloss": "lid.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

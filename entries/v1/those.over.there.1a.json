@@ -9,8 +9,8 @@
     "deictic2",
     "deictic3"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with the upturned Flat handshape (i.e., palm facing upwards) with fingertips pointing away. This form is very polite and formal, and often found in public speaking.",
   "english": [
     "yon",
@@ -21,10 +21,9 @@
     "2. Used to refer to places which are far away from the signer and the person they are talking to. Various phrases would be used in modern English (e.g., 'way over there'). Obsolete English = yonder.",
     "3. Used to refer to times which are a long time before or after the present time."
   ],
-  "cf": [],
   "signNumber": 775,
   "recordNumber": 445,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -35,8 +34,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "those.over.there.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

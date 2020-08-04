@@ -7,19 +7,18 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thou"
   ],
   "deictic": [
     "A sign used to represent an archaic form of the English word 'you'. It is only used in some Christian groups and then only when talking to God. English = thou."
   ],
-  "cf": [],
   "signNumber": 1874,
   "recordNumber": 1122,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -30,8 +29,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "thou",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

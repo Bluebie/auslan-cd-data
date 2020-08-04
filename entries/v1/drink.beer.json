@@ -10,20 +10,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "BEER + DRINK",
-  "queries": "",
+  "queries": null,
   "english": [
     "drink",
     "imbibe"
   ],
   "deictic": [],
-  "cf": [
-    "drink.1a"
-  ],
   "signNumber": 4738,
   "recordNumber": 2863,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -37,8 +34,11 @@
     "2. To drink any kind of alcoholic drink. Formal English = imbibe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "drink.beer",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "drink.1a"
+  ]
 }

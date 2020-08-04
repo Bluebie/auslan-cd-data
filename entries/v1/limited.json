@@ -12,18 +12,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "limit",
     "limited"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3670,
   "recordNumber": 2163,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -39,10 +38,11 @@
     "4. Of a situation, to have a reduced number of things that people can do or choose from. English = (be) limited."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set upper boundary beyond which a amount or size of something cannot go. English = limit."
   ],
   "idGloss": "limited",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "continuum"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 985,
   "recordNumber": 570,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A series of events that are considered as a single thing or process. English = continuum."
   ],
   "idGloss": "continuum",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

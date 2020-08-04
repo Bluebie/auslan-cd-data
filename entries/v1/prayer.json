@@ -32,8 +32,8 @@
     "syn3"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "prayer",
     "grace",
@@ -49,14 +49,9 @@
     "worship"
   ],
   "deictic": [],
-  "cf": [
-    "church.1",
-    "altar.1",
-    "Amen"
-  ],
   "signNumber": 3681.1,
   "recordNumber": 2169,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -78,12 +73,17 @@
     "4. To have a strong desire that something will happen and have a belief that it might happen. English = hope, wish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The activity of communicating to God, or a set of words which is used during a religious service; thanks to God made before a meal. English = prayer; grace.",
     "2. A religious ceremony in a church; a ceremony in some Christian churches during which people eat bread and drink wine in order to remember the last meal of Jesus Christ. English = service, church service; mass.",
     "3. An intense and emotional request for something, often made repeatedly. English = plea, entreaty."
   ],
   "idGloss": "prayer",
-  "oldEntry": "Popular explanation: praying."
+  "oldEntry": "Popular explanation: praying.",
+  "seeAlso": [
+    "church.1",
+    "altar.1",
+    "Amen"
+  ]
 }

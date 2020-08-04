@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "confirmation",
     "confirm"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3224,
   "recordNumber": 1872,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -33,10 +32,11 @@
     "1. To be formally accepted as a member of the Roman Catholic Church. English = confirm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The ceremony in which someone is formally accepted as a member of the Roman Catholic Church. English = confirmation."
   ],
   "idGloss": "confirmation",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

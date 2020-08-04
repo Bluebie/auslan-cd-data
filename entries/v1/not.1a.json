@@ -11,9 +11,9 @@
     "engtf4",
     "engtf5"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "not",
     "no",
@@ -22,12 +22,9 @@
     "didn't"
   ],
   "deictic": [],
-  "cf": [
-    "O.1"
-  ],
   "signNumber": 301,
   "recordNumber": 173,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -42,8 +39,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.1a",
-  "oldEntry": "Popular explanation: the shape of the numeral zero."
+  "oldEntry": "Popular explanation: the shape of the numeral zero.",
+  "seeAlso": [
+    "O.1"
+  ]
 }

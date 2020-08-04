@@ -13,22 +13,18 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stairs",
     "stairway",
     "staircase"
   ],
   "deictic": [],
-  "cf": [
-    "step",
-    "footsteps"
-  ],
   "signNumber": 1616,
   "recordNumber": 960,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -41,10 +37,14 @@
     "1. To walk up stairs."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A set of steps inside or outside a building which go from one floor to another. English = stairs, stairway, staircase."
   ],
   "idGloss": "stair.1a",
-  "oldEntry": "Popular explanation: walking up stairs."
+  "oldEntry": "Popular explanation: walking up stairs.",
+  "seeAlso": [
+    "step",
+    "footsteps"
+  ]
 }

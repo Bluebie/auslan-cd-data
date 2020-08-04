@@ -11,19 +11,18 @@
     "engtf2",
     "engtf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cuddle",
     "hug",
     "embrace"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5745,
   "recordNumber": 3402,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To put your arms round someone and hold them close as a way of showing affection. English = cuddle, hug, embrace."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of putting your arms round someone and holding them close as a way of showing affection. English = cuddle, hug, embrace."
   ],
   "idGloss": "cuddle",
-  "oldEntry": "Popular explanation: a cuddling action."
+  "oldEntry": "Popular explanation: a cuddling action.",
+  "seeAlso": []
 }

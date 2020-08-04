@@ -18,9 +18,9 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "angel",
     "saint",
@@ -29,10 +29,9 @@
     "saintly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 485,
   "recordNumber": 269,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 1,
@@ -52,12 +51,13 @@
     "2. Of a person, to behave in a very good or holy way, like a saint. English = (be) saintly."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of a number of spiritual beings that some people believe are God's messengers and servants in heaven. English = angel.",
     "2. A dead person who is officially recognised and honoured by the Christian church because his or her life was a perfect example of the way Christians should live. English = saint.",
     "3. A circle of light that is drawn in pictures round the heads of saints or angels to show that they are holy. English = halo."
   ],
   "idGloss": "halo",
-  "oldEntry": "Popular explanation: the outline of a halo."
+  "oldEntry": "Popular explanation: the outline of a halo.",
+  "seeAlso": []
 }

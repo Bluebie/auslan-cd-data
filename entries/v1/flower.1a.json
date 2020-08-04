@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "flower",
     "garden",
@@ -32,10 +32,9 @@
     "menstruation"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6341,
   "recordNumber": 3785,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -52,12 +51,13 @@
     "2. To look after plants. English = garden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The coloured or white parts that grow on the stems of a plant. English = flower.",
     "2. A piece of land next to someone's house where they grow flowers, vegetables, or other plants; the activity of looking after a garden; a person who works in a garden. English = garden; gardening; gardener.",
     "3. A shop that sells plants or flowers. English = florist, nursery."
   ],
   "idGloss": "flower.1a",
-  "oldEntry": "Popular explanation: holding the stem of a flower and smelling it."
+  "oldEntry": "Popular explanation: holding the stem of a flower and smelling it.",
+  "seeAlso": []
 }

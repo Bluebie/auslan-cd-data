@@ -20,9 +20,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "belief",
     "conviction",
@@ -31,7 +31,6 @@
     "convinced"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1194,
   "recordNumber": 699,
   "signVisualComposition": "THINK + TRUE",
@@ -54,12 +53,13 @@
     "2. To strongly believe that something is true. English = (be) convinced of."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The idea or feeling that something is true. English = belief.",
     "2. A strong belief that something is true. English = conviction.",
     "3. A set of beliefs, principles, or opinions that strongly influence the way people live or work. English = creed."
   ],
   "idGloss": "believe.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

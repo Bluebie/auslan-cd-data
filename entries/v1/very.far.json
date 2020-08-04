@@ -9,17 +9,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "far"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2896,
   "recordNumber": 1635,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -34,8 +33,9 @@
     "1. To be located at a very great distance away. English = (be) very far, (be) very far away, (be) very distant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "very.far",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

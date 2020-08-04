@@ -9,17 +9,16 @@
     "opaque",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fig"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 188,
   "recordNumber": 106,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A soft, sweet fruit full of tiny seeds. It grows on trees in hot countries. English = fig."
   ],
   "idGloss": "fig",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

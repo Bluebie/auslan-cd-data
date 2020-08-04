@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "familiarity",
     "acclimatisation",
@@ -29,12 +29,9 @@
     "acclimatise"
   ],
   "deictic": [],
-  "cf": [
-    "like.2a"
-  ],
   "signNumber": 4855,
   "recordNumber": 2934,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -53,11 +50,14 @@
     "3. To become comfortable with something, especially a new or harsh climate, because you have experienced it for a long time and it doesn't bother you any more. English = acclimatise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The knowledge and experience you have of something because you have seen it or done it before. English = familiarity.",
     "2. The comfort you feel with an extreme climate (or anything 'new') because you have now experienced it for a long time and it doesn't bother or surprise you any more. English = acclimatisation."
   ],
   "idGloss": "used.to.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "like.2a"
+  ]
 }

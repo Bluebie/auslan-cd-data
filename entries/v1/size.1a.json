@@ -20,9 +20,9 @@
     "engtf6",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "size",
     "limit",
@@ -32,10 +32,9 @@
     "finite"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3669,
   "recordNumber": 2162,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -52,7 +51,7 @@
     "3. To be something that has a definite boundary beyond which it does not exist or a limit beyond which it cannot increase or develop. English = (be) finite."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The measure of bigness or smallness of a container of something, usually a pre-packaged product of food you buy in a store. The products usually come in a series of graded measurements shared across products. English = size.",
     "2. A set upper boundary beyond which a amount or size of something cannot go. English = limit.",
@@ -60,5 +59,6 @@
     "4. A part of some larger thing. English = section."
   ],
   "idGloss": "size.1a",
-  "oldEntry": "Popular explanation: indicating the dimensions of something."
+  "oldEntry": "Popular explanation: indicating the dimensions of something.",
+  "seeAlso": []
 }

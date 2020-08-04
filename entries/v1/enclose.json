@@ -11,21 +11,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "enclosure",
     "enclose",
     "encircle"
   ],
   "deictic": [],
-  "cf": [
-    "group.1a"
-  ],
   "signNumber": 3689,
   "recordNumber": 2175,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -40,10 +37,13 @@
     "1. To completely surround something with a wall-like structure. English = enclose, encircle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An area of land that is surrounded by a wall or fence. English = enclosure."
   ],
   "idGloss": "enclose",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "group.1a"
+  ]
 }

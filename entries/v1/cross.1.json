@@ -9,20 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crossing",
     "cross"
   ],
   "deictic": [],
-  "cf": [
-    "X.2"
-  ],
   "signNumber": 1041,
   "recordNumber": 610,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -35,10 +32,13 @@
     "1. Of two paths, ways, or roads, for one to cross over the other, often at right angles. English = cross."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A place where one path, way or road crosses over another, often at right angles. English = crossing."
   ],
   "idGloss": "cross.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "X.2"
+  ]
 }

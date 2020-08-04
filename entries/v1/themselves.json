@@ -6,7 +6,7 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "THEY + SELF",
   "queries": "This sign is often made with the upright Point handshape (on the left or subordinate hand) acting as a point of reference for the right or dominant hand. There is usually final contact on the subordinate hand.",
   "english": [
@@ -15,10 +15,9 @@
   "deictic": [
     "Before a verb it means the people you are talking about do the action alone. After a verb it means they alone are responsible for the action (they do it without any help), or it means the action was done by them to them. English = themselves."
   ],
-  "cf": [],
   "signNumber": 773,
   "recordNumber": 444,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -29,8 +28,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "themselves",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

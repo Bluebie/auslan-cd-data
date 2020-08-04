@@ -8,17 +8,16 @@
     "transp",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thumb"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1315,
   "recordNumber": 779,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 15,
@@ -29,10 +28,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The short, thick finger on the side of your hand. English = thumb."
   ],
   "idGloss": "thumb",
-  "oldEntry": "Popular explanation: pointing to the thumb."
+  "oldEntry": "Popular explanation: pointing to the thumb.",
+  "seeAlso": []
 }

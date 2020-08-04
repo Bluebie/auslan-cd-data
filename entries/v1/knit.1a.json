@@ -14,23 +14,18 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "knitting",
     "knitting needles",
     "knit"
   ],
   "deictic": [],
-  "cf": [
-    "needle",
-    "garter",
-    "crochet"
-  ],
   "signNumber": 1043,
   "recordNumber": 612,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,11 +38,16 @@
     "1. To make something from wool or similar thread using special stick-like needles or a machine. English = knit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The action or process of making something from wool or similar thread using special stick-like needles or a machine. English = knitting.",
     "2. The special stick-like needles used in knitting. English = knitting needles."
   ],
   "idGloss": "knit.1a",
-  "oldEntry": "Popular explanation: using knitting needles, the knitting needles."
+  "oldEntry": "Popular explanation: using knitting needles, the knitting needles.",
+  "seeAlso": [
+    "needle",
+    "garter",
+    "crochet"
+  ]
 }

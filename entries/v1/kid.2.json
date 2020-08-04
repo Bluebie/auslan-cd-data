@@ -10,17 +10,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "kid"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6652,
   "recordNumber": 3959,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 17.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A human being who is not yet an adult. English = child. Informal English = kid."
   ],
   "idGloss": "kid.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

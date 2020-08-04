@@ -14,20 +14,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "party"
   ],
   "deictic": [],
-  "cf": [
-    "picnic.1a",
-    "feast"
-  ],
   "signNumber": 124,
   "recordNumber": 66,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 9,
@@ -45,10 +41,14 @@
     "2. To go to a party or other social events. English = party."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking or playing games. English = party, get together."
   ],
   "idGloss": "party.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "picnic.1a",
+    "feast"
+  ]
 }

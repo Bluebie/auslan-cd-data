@@ -8,17 +8,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "packet"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4387,
   "recordNumber": 2674,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.5,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
     "1. A small container in which a quantity of something is sold. It is either a small box made of thin cardboard, or a bag or envelope made of paper or plastic. English = packet."
   ],
   "idGloss": "packet.2",
-  "oldEntry": "Popular explanation: the lid closing on a packet."
+  "oldEntry": "Popular explanation: the lid closing on a packet.",
+  "seeAlso": []
 }

@@ -16,8 +16,8 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "Some signers perform this sign with both hands twisting outwards as the hands uncross (so that they end with the palms facing away).",
   "english": [
     "terrible",
@@ -26,10 +26,9 @@
     "disastrous"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5000,
   "recordNumber": 3014,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 14,
@@ -48,10 +47,11 @@
     "2. Of an event, to be very unsuccessful or unpleasant, especially when it is unexpected and causes a lot of damage or suffering. English = (be) disastrous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An event which is very unsuccessful or unpleasant, especially one that is unexpected and which causes a lot of damage or suffering. English = disaster."
   ],
   "idGloss": "terrible",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

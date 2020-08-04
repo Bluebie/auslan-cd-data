@@ -9,20 +9,16 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "back"
   ],
   "deictic": [],
-  "cf": [
-    "front.2",
-    "front.3"
-  ],
   "signNumber": 3324,
   "recordNumber": 1944,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The part of your body that is behind you, from your neck to the top of your legs. English = back."
   ],
   "idGloss": "back.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "front.2",
+    "front.3"
+  ]
 }

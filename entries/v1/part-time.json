@@ -8,13 +8,12 @@
     "engtf1"
   ],
   "sense": "2",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "part-time"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4313,
   "recordNumber": 2628,
   "signVisualComposition": "PART + TIME",
@@ -30,8 +29,9 @@
     "1. To work for only part of each day or week. English = (be) part-time."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "part-time",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

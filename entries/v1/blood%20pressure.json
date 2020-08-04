@@ -7,17 +7,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blood pressure"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4563,
   "recordNumber": 2764,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -30,10 +29,11 @@
     "1. To measure someone's blood pressure; to take someone's blood pressure."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The measure of the amount of force with which your blood flows around your body. English = blood pressure."
   ],
   "idGloss": "blood pressure",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

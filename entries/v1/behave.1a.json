@@ -11,15 +11,14 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "behaviour",
     "behave"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4820,
   "recordNumber": 2910,
   "signVisualComposition": "PATIENCE + GOOD",
@@ -35,10 +34,11 @@
     "1. To act in a way that people think is correct and proper. English = behave well."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The way someone acts which people think is correct and proper. English = good behaviour."
   ],
   "idGloss": "behave.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

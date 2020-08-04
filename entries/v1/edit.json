@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "edit",
     "splice"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2083,
   "recordNumber": 1209,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -36,5 +35,6 @@
   "generalMeaning": "The action of bringing two strip-like objects together, or any action or any thing directly or indirectly associated with this, such as joining streamers and, particularly, splicing film together in order to edit it.",
   "nominalLexeme": [],
   "idGloss": "edit",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

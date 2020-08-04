@@ -9,17 +9,16 @@
     "deafness",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hearing-impaired"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1198,
   "recordNumber": 703,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -32,11 +31,12 @@
     "1. To be unable to hear sounds fully or accurately, especially the sounds of speech. English = (be) hearing-impaired."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who is unable to hear sounds fully or accurately, especially the sounds of speech. English = hearing-impaired.",
     "2. A person who is unable to hear sounds fully or accurately, especially the sounds of speech, and who does not identify with the Deaf community."
   ],
   "idGloss": "hearing-impaired",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,20 +13,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "performance",
     "perform"
   ],
   "deictic": [],
-  "cf": [
-    "theatre"
-  ],
   "signNumber": 3833,
   "recordNumber": 2279,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -42,10 +39,13 @@
     "1. To play a piece of music, do a dance or play a part in a theatre production in front of an audience. English = perform."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The entertaining of an audience by doing something like singing, dancing, playing music, acting a play, or acting a role in a play. English = performance."
   ],
   "idGloss": "perform.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "theatre"
+  ]
 }

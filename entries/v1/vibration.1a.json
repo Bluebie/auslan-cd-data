@@ -13,21 +13,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "vibration",
     "vibrate",
     "shake"
   ],
   "deictic": [],
-  "cf": [
-    "thunder"
-  ],
   "signNumber": 2745,
   "recordNumber": 1532,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -42,11 +39,14 @@
     "1. To shake with a slight, quick movement, especially one you can feel in the ground or with your entire body. English = vibrate, shake."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A slight, quick shaking movement, especially one you can feel in the ground or with your entire body. English = vibration.",
     "2. An alarm clock that vibrates instead of or as well as ringing. It is used by deaf and hearing impaired people."
   ],
   "idGloss": "vibration.1a",
-  "oldEntry": "Popular explanation: the ground moving."
+  "oldEntry": "Popular explanation: the ground moving.",
+  "seeAlso": [
+    "thunder"
+  ]
 }

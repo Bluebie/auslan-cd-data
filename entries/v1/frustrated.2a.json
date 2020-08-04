@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "frustration",
     "anxiety",
@@ -30,12 +30,9 @@
     "anxious"
   ],
   "deictic": [],
-  "cf": [
-    "angry.1a"
-  ],
   "signNumber": 3034,
   "recordNumber": 1740,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 15,
@@ -54,11 +51,14 @@
     "4. To feel nervous or worried before performing on stage or doing something in public. Idiomatic English = have butterflies in your stomach."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of being upset and angry because you are unable to do what you would like to do. English = frustration.",
     "2. A feeling of nervousness or worry. English = anxiety."
   ],
   "idGloss": "frustrated.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "angry.1a"
+  ]
 }

@@ -18,9 +18,9 @@
     "engtf7",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bag",
     "case",
@@ -31,12 +31,9 @@
     "baggage"
   ],
   "deictic": [],
-  "cf": [
-    "bucket.1"
-  ],
   "signNumber": 5707,
   "recordNumber": 3376,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 16,
@@ -51,7 +48,7 @@
     "1. To carry a bag, case, basket, suitcase, or luggage."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong enclosed container with a handle or handles, used to carry things in. English = bag, case.",
     "2. A usually open container, made of thin strips of cane woven together, with a large handle, used to carry things in. English = basket.",
@@ -59,5 +56,8 @@
     "4. Suitcases and bags that you have with you when you are travelling. English = luggage, baggage."
   ],
   "idGloss": "luggage.1",
-  "oldEntry": "Popular explanation: holding a bag by the handle."
+  "oldEntry": "Popular explanation: holding a bag by the handle.",
+  "seeAlso": [
+    "bucket.1"
+  ]
 }

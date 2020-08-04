@@ -24,9 +24,9 @@
     "engtf11",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "thirst",
     "desire",
@@ -41,10 +41,9 @@
     "desirable"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3308,
   "recordNumber": 1931,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -62,12 +61,13 @@
     "4. To arouse strong sexual feelings in others. English = (be) desirable, (be) sexy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The need to drink something. English = thirst.",
     "2. The feeling of wanting something very much. English = desire.",
     "3. The strong feeling of wanting to have sex with someone. English = desire, randiness, attraction. Idiomatic English = the hots."
   ],
   "idGloss": "desire",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

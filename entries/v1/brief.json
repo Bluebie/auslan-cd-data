@@ -19,9 +19,9 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "brevity",
     "insignificance",
@@ -32,10 +32,9 @@
     "briefly"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5578,
   "recordNumber": 3303,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -55,12 +54,13 @@
     "3. To be very small or minor in significance. English = (be) trivial, (be) insignificant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The fact that something is small in terms of importance or the time it lasts.",
     "2. The fact that something lasts for only a short time. English = brevity.",
     "3. The fact that something is of little importance; things which are unimportant. English = insignificance; trivia."
   ],
   "idGloss": "brief",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

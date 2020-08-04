@@ -18,9 +18,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "carpenter",
     "carpentry",
@@ -29,10 +29,9 @@
     "plane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5829,
   "recordNumber": 3465,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -48,7 +47,7 @@
     "2. To make a piece of wood smaller and smoother by using a plane; to operate a plane. English = plane."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person whose job is making and repairing wooden things. English = carpenter.",
     "2. The skill or the work of a carpenter. English = carpentry.",
@@ -56,5 +55,6 @@
     "4. A tool that has a flat bottom with a sharp blade in it. You move it over a piece of wood in order to remove thin pieces of its surface. English = plane."
   ],
   "idGloss": "carpenter.1",
-  "oldEntry": "Popular explanation: using a carpenter's plane."
+  "oldEntry": "Popular explanation: using a carpenter's plane.",
+  "seeAlso": []
 }

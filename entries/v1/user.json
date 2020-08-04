@@ -15,9 +15,9 @@
     "engtf8",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "user",
     "cadger",
@@ -29,10 +29,9 @@
     "bludge"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1942,
   "recordNumber": 1159,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -47,10 +46,11 @@
     "1. To use someone, to make use of someone, to take advantage of someone. English = use, cadge, scrounge, bludge."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person who always takes advantage of other people to get or do things they want. English = user, cadger, scrounger, bludger."
   ],
   "idGloss": "user",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

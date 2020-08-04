@@ -7,17 +7,16 @@
     "aslloan",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hypothesis"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1882,
   "recordNumber": 1125,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An idea which is suggested as a possible explanation for something, but which has not yet been proved to be correct, a formal word. English = hypothesis."
   ],
   "idGloss": "hypothesis",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

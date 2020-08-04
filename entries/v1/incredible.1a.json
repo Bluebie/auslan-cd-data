@@ -14,21 +14,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "CAN'T + YOU",
-  "queries": "",
+  "queries": null,
   "english": [
     "incredible",
     "amazing",
     "ridiculous"
   ],
   "deictic": [],
-  "cf": [
-    "can't"
-  ],
   "signNumber": 532,
   "recordNumber": 302,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -44,8 +41,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "incredible.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "can't"
+  ]
 }

@@ -12,21 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tip",
     "pour"
   ],
   "deictic": [],
-  "cf": [
-    "science.1a",
-    "pourer"
-  ],
   "signNumber": 164,
   "recordNumber": 91,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -45,5 +41,9 @@
   "generalMeaning": "The act of emptying the contents of one small container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "tip.into",
-  "oldEntry": "Popular explanation: pouring from one container into another."
+  "oldEntry": "Popular explanation: pouring from one container into another.",
+  "seeAlso": [
+    "science.1a",
+    "pourer"
+  ]
 }

@@ -13,9 +13,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "compassion",
     "mercy",
@@ -23,7 +23,6 @@
     "merciful"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6532.1,
   "recordNumber": 3888,
   "signVisualComposition": "FEEL + SYMPATHISE",
@@ -40,11 +39,12 @@
     "2. To feel compassion so that you do not punish someone or treat them as severely as you could. English = have mercy, (be) merciful."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A feeling of pity and sympathy for someone who is suffering. English = compassion.",
     "2. The feeling of compassion you have for someone so that you do not punish them or treat them as severely as you could. English = mercy."
   ],
   "idGloss": "mercy",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

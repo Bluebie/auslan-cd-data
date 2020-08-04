@@ -12,18 +12,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hurry",
     "rush"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1055,
   "recordNumber": 620,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,10 +42,11 @@
     "2. To make someone do something quickly. English = hurry someone, rush someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A condition in which there is not much time to do something or during which you do things very quickly. English = hurry, rush."
   ],
   "idGloss": "hurry",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

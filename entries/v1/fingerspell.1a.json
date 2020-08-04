@@ -18,8 +18,8 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can be modified to express the sign equivalent of 'whisper' (sign and/or fingerspell so as not to be seen by others) by being placed close to the body and to one side.",
   "english": [
     "fingerspelling",
@@ -28,10 +28,9 @@
     "spell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 150,
   "recordNumber": 82,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 0.1,
   "primaryLocation": 15,
@@ -47,11 +46,12 @@
     "2. To fingerspell, write or speak the individual letters of a word in the correct order. English = spell."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A conventional use of handshapes (usually involving both hands) to form the letters of the alphabet with which to spell out words on the hands. English = fingerspelling.",
     "2. The correct order of letters in a word, represented by fingerspelling, writing or speaking. English = spelling."
   ],
   "idGloss": "fingerspell.1a",
-  "oldEntry": "Popular explanation: spelling letters rapidly."
+  "oldEntry": "Popular explanation: spelling letters rapidly.",
+  "seeAlso": []
 }

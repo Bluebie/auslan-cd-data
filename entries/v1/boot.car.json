@@ -10,21 +10,17 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "boot",
     "trunk"
   ],
   "deictic": [],
-  "cf": [
-    "boot.car.open",
-    "boot.car.close"
-  ],
   "signNumber": 4669,
   "recordNumber": 2819,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -35,10 +31,14 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The covered space at the back of a car in which you carry things such as luggage. English = boot. American English = trunk."
   ],
   "idGloss": "boot.car",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "boot.car.open",
+    "boot.car.close"
+  ]
 }

@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "five-eighth"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2498.1,
   "recordNumber": 1385,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": null,
   "primaryLocation": 14,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In rugby, the back who is stationed between the half-back and the centre three-quarters. English = five-eighth."
   ],
   "idGloss": "five-eighth",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

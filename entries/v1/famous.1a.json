@@ -14,18 +14,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "KNOW + ALL",
-  "queries": "",
+  "queries": null,
   "english": [
     "celebrity",
     "famous"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4803,
   "recordNumber": 2899,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 2,
@@ -44,10 +43,11 @@
     "1. To be well known, especially in acting or show business. English = (be) famous."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who is well known, especially in acting or show business. English = celebrity."
   ],
   "idGloss": "famous.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,18 +13,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "pump",
     "hand pump"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5933,
   "recordNumber": 3531,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 16,
@@ -40,11 +39,12 @@
     "2. To operate a hand pump to force air into the tyre of a vehicle. English = pump, pump up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine which is used to force liquid or gas to flow in strong, regular movements in a particular direction. English = pump.",
     "2. A machine which is used to force air to flow in strong, regular movements along a tube into the tyre of a vehicle. It is operated by pushing down on a handle with both hands. English = hand pump."
   ],
   "idGloss": "pump.1",
-  "oldEntry": "Popular explanation: pushing down repeatedly on a pump."
+  "oldEntry": "Popular explanation: pushing down repeatedly on a pump.",
+  "seeAlso": []
 }

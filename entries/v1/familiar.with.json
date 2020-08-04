@@ -16,20 +16,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "familiarity",
     "familiar"
   ],
   "deictic": [],
-  "cf": [
-    "recognise.1a"
-  ],
   "signNumber": 4718,
   "recordNumber": 2852,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -53,10 +50,13 @@
     "1. To know something or someone already because you have met, seen or been told about them before. English = (be) familiar with."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition of knowing something or someone already because you have met, seen or been told about them. English = familiarity."
   ],
   "idGloss": "familiar.with",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "recognise.1a"
+  ]
 }

@@ -16,19 +16,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dive",
     "diver",
     "diving board"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2053,
   "recordNumber": 1200,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 2.4,
   "primaryLocation": 15,
@@ -43,7 +42,7 @@
     "1. To jump head first into water. English = dive."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of jumping head first into water. English = dive.",
     "2. A person who jumps head first into water as a sport. English = diver.",
@@ -51,5 +50,6 @@
     "4. Someone who swims underwater wearing special breathing apparatus. English = diver."
   ],
   "idGloss": "dive.1a",
-  "oldEntry": "Popular explanation: diving off a diving board."
+  "oldEntry": "Popular explanation: diving off a diving board.",
+  "seeAlso": []
 }

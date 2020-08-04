@@ -16,15 +16,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "faith",
     "believe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6458,
   "recordNumber": 3849,
   "signVisualComposition": "NAME + HEART?",
@@ -47,11 +46,12 @@
     "2. To have a feeling of certainty that something exists, is true, or is good. English = believe."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A strong religious belief. English = faith.",
     "2.  A feeling of certainty that something exists, is true, or is good."
   ],
   "idGloss": "believe.3",
-  "oldEntry": "Popular explanation: mind in the heart."
+  "oldEntry": "Popular explanation: mind in the heart.",
+  "seeAlso": []
 }

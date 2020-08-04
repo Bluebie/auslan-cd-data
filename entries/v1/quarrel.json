@@ -13,9 +13,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "quarrel",
     "argument",
@@ -23,10 +23,9 @@
     "argue"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5015,
   "recordNumber": 3025,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.2,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -41,10 +40,11 @@
     "1. Of two or more people, to have a disagreement, often resulting in them shouting or signing angrily at each other. English = argue, quarrel. Idiomatic English = have a row."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A disagreement between two or more people, sometimes resulting in them shouting or signing angrily at each other. English = quarrel, argument, row."
   ],
   "idGloss": "quarrel",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

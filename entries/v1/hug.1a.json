@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hug",
     "embrace"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4590,
   "recordNumber": 2780,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 5.5,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "2. To hold something close to your body with your arms round it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of putting your arms around someone and holding them tightly because you like them or are pleased to see them. English = hug."
   ],
   "idGloss": "hug.1a",
-  "oldEntry": "Popular explanation: hugging someone."
+  "oldEntry": "Popular explanation: hugging someone.",
+  "seeAlso": []
 }

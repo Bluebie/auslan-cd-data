@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lifesaver",
     "lifeguard"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5714,
   "recordNumber": 3380,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 1,
@@ -34,10 +33,11 @@
     "1. Of a lifesaver, to feed out a line attached to another lifesaver who is swimming out to save someone who is in danger of drowning."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person at a beach or swimming pool whose job is to rescue people when they are in danger of drowning. English = lifeguard. Australian English = lifesaver."
   ],
   "idGloss": "lifesaver",
-  "oldEntry": "Popular explanation: feeding the line."
+  "oldEntry": "Popular explanation: feeding the line.",
+  "seeAlso": []
 }

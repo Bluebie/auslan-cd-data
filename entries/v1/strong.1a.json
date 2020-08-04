@@ -22,8 +22,8 @@
     "engtf7",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign is particularly used in conjunction with the sign 'face', to mean that someone's facial features strongly resemble those of another person.",
   "english": [
     "strength",
@@ -35,10 +35,9 @@
     "resemble"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5742,
   "recordNumber": 3401,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -57,12 +56,13 @@
     "5. To look like or behave like someone in lots of ways, especially in physical appearance because you are related. English = resemble. Idiomatic English = take after someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The physical energy that you have which gives you the ability to perform various actions easily, such as lifting or moving things. English = strength, power.",
     "2. The ability someone or some organisation has to control or influence people, activities, and events. English = power, might.",
     "3. The strength and energy of a machine, rather than a person. English = power."
   ],
   "idGloss": "strong.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

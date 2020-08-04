@@ -16,18 +16,17 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "adoption",
     "adopt",
     "adopted"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2767,
   "recordNumber": 1548,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 15,
@@ -44,11 +43,12 @@
     "2. To be taken into a family to which you are not biologically related and to be legally made a son or daughter of that family. English = (be) adopted."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The process by which a child is taken into a family to which it is not biologically related and legally made a son or daughter of that family. English = adoption.",
     "2. A child who has been taken into a family to which it is not biologically related and legally made a son or daughter."
   ],
   "idGloss": "adopt.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

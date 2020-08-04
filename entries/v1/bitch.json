@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bitch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3274,
   "recordNumber": 1907,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -34,10 +33,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A woman who behaves in a very unpleasant way. She often says nasty things about other people. English = bitch."
   ],
   "idGloss": "bitch",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

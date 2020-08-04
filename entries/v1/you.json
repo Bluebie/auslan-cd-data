@@ -9,8 +9,8 @@
     "cf1",
     "deictic2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can also be made with the upturned Flat handshape (i.e., palm facing upwards) with fingertips pointing away. The flat form is very polite and formal, and often found in public speaking.",
   "english": [
     "you"
@@ -19,12 +19,9 @@
     "Used to refer to the person the signer is talking to. The sign is usually used immediately next to a verb and can mean the person does the action or undergoes the action (i.e, another referent does the action, not the person)",
     "depending on a number of factors, such as the type of verb the sign is next to and the number of other referents in the sentence. English = you."
   ],
-  "cf": [
-    "all.of.yous.1a"
-  ],
   "signNumber": 759,
   "recordNumber": 437,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -37,8 +34,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "you",
-  "oldEntry": "Popular explanation: culturally shared gesture of pointing."
+  "oldEntry": "Popular explanation: culturally shared gesture of pointing.",
+  "seeAlso": [
+    "all.of.yous.1a"
+  ]
 }

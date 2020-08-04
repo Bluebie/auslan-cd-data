@@ -13,9 +13,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "toilet",
     "lavatory",
@@ -24,10 +24,9 @@
     "W.C."
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5342,
   "recordNumber": 3198,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -42,10 +41,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small room with a toilet, especially a public one with several rooms and several toilets. English = toilet, lavatory. Informal English = loo. Euphemistic formal English = convenience, conveniences, W.C."
   ],
   "idGloss": "convenience",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

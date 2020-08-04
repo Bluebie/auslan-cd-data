@@ -11,20 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Australia",
     "Australian"
   ],
   "deictic": [],
-  "cf": [
-    "bless.1"
-  ],
   "signNumber": 6314,
   "recordNumber": 3769,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 10.3,
   "primaryLocation": 15,
@@ -37,11 +34,14 @@
     "1. From or relating to Australia. English = (be) Australian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The island continent between south east Asia and Antarctica, called Australia.",
     "2. The country which occupies the entire island continent between south east Asia and Antarctica, called Australia."
   ],
   "idGloss": "Australia.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "bless.1"
+  ]
 }

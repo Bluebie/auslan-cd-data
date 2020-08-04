@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "misunderstanding",
     "misunderstand"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1536,
   "recordNumber": 914,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -36,10 +35,11 @@
     "1. To not understand properly what someone says or writes. English = misunderstand."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A failure to understand something such as a situation or a person's remarks. English = misunderstanding."
   ],
   "idGloss": "misunderstand.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

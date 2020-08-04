@@ -7,14 +7,13 @@
     "doublehnd",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "fish and chips"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2060,
   "recordNumber": 1203,
   "signVisualComposition": "F + C",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An Anglo-Australian fast food consisting of fish covered with batter and deep fried together with deep fried potato chips. English = fish and chips."
   ],
   "idGloss": "fish.and.chips",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -13,17 +13,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "open-necked"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3617,
   "recordNumber": 2132,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 12,
@@ -39,11 +38,12 @@
     "1. To wear an open-necked shirt or blouse."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An open-necked shirt or blouse.",
     "2. The collar on an open-necked shirt or blouse."
   ],
   "idGloss": "open-necked",
-  "oldEntry": "Popular explanation: the trace outline of a collar."
+  "oldEntry": "Popular explanation: the trace outline of a collar.",
+  "seeAlso": []
 }

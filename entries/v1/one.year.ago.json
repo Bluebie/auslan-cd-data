@@ -13,18 +13,17 @@
     "ant1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "This sign can incorporate number handshapes for 'two years ago', 'three years ago', and so on. Also, for some signers the subordinate hand can also be a Fist handshape.",
   "english": [
     "year",
     "last year"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1065,
   "recordNumber": 629,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -42,11 +41,12 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A period of a year before the time of talking. English = the past year.",
     "2. A period of one year before some reference time in the past. English = the previous year, the year before that."
   ],
   "idGloss": "one.year.ago",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

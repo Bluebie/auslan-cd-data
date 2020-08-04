@@ -10,17 +10,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wig"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5724,
   "recordNumber": 3388,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 8,
@@ -33,10 +32,11 @@
     "1. To put on a wig."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mass of false hair which you wear on your head, for example because you are bald or because you want to cover up your own hair. English = wig."
   ],
   "idGloss": "wig",
-  "oldEntry": "Popular explanation: pulling on a wig."
+  "oldEntry": "Popular explanation: pulling on a wig.",
+  "seeAlso": []
 }

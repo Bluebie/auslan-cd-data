@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "scrum"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2271.1,
   "recordNumber": 1283,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.1,
   "passiveHandshape": 3.1,
   "primaryLocation": 15,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In rugby, a formation in which players from each side form a tight group and push against each other with their heads down in an attempt to get the ball. English = scrum."
   ],
   "idGloss": "scrum",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

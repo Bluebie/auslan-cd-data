@@ -17,21 +17,17 @@
     "syn3"
   ],
   "sense": "3",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "greed",
     "pig",
     "greedy"
   ],
   "deictic": [],
-  "cf": [
-    "selfish.1",
-    "selfish.2"
-  ],
   "signNumber": 5575,
   "recordNumber": 3300,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -47,11 +43,15 @@
     "1. To want more of something such as food, money, or power than is necessary or fair for you to have. English = (be) greedy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An eager desire for more of something such as food, money, or power than it is necessary or fair for you to have. English = greed.",
     "2. A person who is unpleasant in some way, especially because they are greedy or unkind. English = pig."
   ],
   "idGloss": "greedy.3",
-  "oldEntry": "Popular explanation: the snout of a pig."
+  "oldEntry": "Popular explanation: the snout of a pig.",
+  "seeAlso": [
+    "selfish.1",
+    "selfish.2"
+  ]
 }

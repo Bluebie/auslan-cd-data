@@ -10,19 +10,16 @@
     "engtf1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blood sample"
   ],
   "deictic": [],
-  "cf": [
-    "injection.1a"
-  ],
   "signNumber": 5533,
   "recordNumber": 3274,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 8.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -35,11 +32,14 @@
     "1. To use a syringe to take a sample of blood from someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of using a syringe to take a sample of blood from someone.",
     "2. The blood which is taken from someone using a syringe or similar device. English = blood sample."
   ],
   "idGloss": "blood-sample",
-  "oldEntry": "Popular explanation: drawing blood from the arm."
+  "oldEntry": "Popular explanation: drawing blood from the arm.",
+  "seeAlso": [
+    "injection.1a"
+  ]
 }

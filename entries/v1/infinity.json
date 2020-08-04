@@ -7,17 +7,16 @@
     "transl",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "infinity"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 743,
   "recordNumber": 428,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The mathematical symbol which stands for a number that is larger than any other number and can never be given an exact value. It looks like the number 8 turned on its side. English = infinity."
   ],
   "idGloss": "infinity",
-  "oldEntry": "Popular explanation: the shape of the infinity symbol."
+  "oldEntry": "Popular explanation: the shape of the infinity symbol.",
+  "seeAlso": []
 }

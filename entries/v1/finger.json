@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "finger"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5481,
   "recordNumber": 3254,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. One of the four long jointed parts at the end of your hand."
   ],
   "idGloss": "finger",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

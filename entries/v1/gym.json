@@ -18,9 +18,9 @@
     "engtf6",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gymnasium",
     "gym",
@@ -30,12 +30,9 @@
     "work out"
   ],
   "deictic": [],
-  "cf": [
-    "callisthenics"
-  ],
   "signNumber": 5726,
   "recordNumber": 3390,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 8,
@@ -49,7 +46,7 @@
     "2. To lift weights for exercise or as part of a competition."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A building or a large room which is used for physical exercise and usually has equipment such as bars and ropes in it. English = gymnasium, gym.",
     "2. Exercises which involve the lifting and moving of heavy weights. English = weight training, weight lifting.",
@@ -57,5 +54,8 @@
     "4. A person who lifts weights in sport's competitions. English = weight lifter."
   ],
   "idGloss": "gym",
-  "oldEntry": "Popular explanation: lifting weights."
+  "oldEntry": "Popular explanation: lifting weights.",
+  "seeAlso": [
+    "callisthenics"
+  ]
 }

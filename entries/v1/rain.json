@@ -16,21 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "rain",
     "downpour",
     "pour"
   ],
   "deictic": [],
-  "cf": [
-    "drip"
-  ],
   "signNumber": 2984,
   "recordNumber": 1696,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 13,
@@ -46,11 +43,14 @@
     "2. [With stress] to rain heavily. English = pour."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Water that falls from the clouds in small drops. English = rain.",
     "2. [With stress] a fast and heavy rain. English = downpour."
   ],
   "idGloss": "rain",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "drip"
+  ]
 }

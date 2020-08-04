@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
+  "sense": null,
+  "blend": null,
   "queries": "A vulgar or crude sign for many signers.",
   "english": [
     "turd",
     "shit"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 784,
   "recordNumber": 447,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -30,11 +29,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A lump of faeces. Informal crude English = turd, shit.",
     "2. The waste matter from the body of a human being or animal. Informal English = shit."
   ],
   "idGloss": "turd",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

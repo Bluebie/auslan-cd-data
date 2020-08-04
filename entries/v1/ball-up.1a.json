@@ -9,17 +9,16 @@
     "para",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ball-up"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3066,
   "recordNumber": 1760,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 16,
@@ -32,10 +31,11 @@
     "1. In Australian rules football, to restart play by bouncing the ball after the ball has been smothered in a pack. English = ball-up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. In Australian rules football, the bouncing of the ball by the field umpire to restart play after the ball has been smothered in a pack. English = ball-up."
   ],
   "idGloss": "ball-up.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

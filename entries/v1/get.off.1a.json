@@ -13,9 +13,9 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "get off",
     "step off",
@@ -23,12 +23,9 @@
     "alight"
   ],
   "deictic": [],
-  "cf": [
-    "stand.up.1a"
-  ],
   "signNumber": 1723,
   "recordNumber": 1033,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -43,8 +40,11 @@
     "1. To move off something, especially a form of transport such as a bus or train. English = get off, step off, get out. Formal English = alight."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "get.off.1a",
-  "oldEntry": "Popular explanation: legs moving on or off something."
+  "oldEntry": "Popular explanation: legs moving on or off something.",
+  "seeAlso": [
+    "stand.up.1a"
+  ]
 }

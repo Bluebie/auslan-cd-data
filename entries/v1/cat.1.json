@@ -12,18 +12,17 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cat",
     "stroke"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4062,
   "recordNumber": 2431,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -39,10 +38,11 @@
     "1. To move your hand slowly and gently over something, especially a small animal, and especially a cat. English = stroke."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small, furry animal with a tail, whiskers, and sharp claws, which is often kept as a pet. English = cat."
   ],
   "idGloss": "cat.1",
-  "oldEntry": "Popular explanation: stroking a cat."
+  "oldEntry": "Popular explanation: stroking a cat.",
+  "seeAlso": []
 }

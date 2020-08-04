@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "air",
     "atmosphere",
@@ -33,10 +33,9 @@
     "airy"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2602,
   "recordNumber": 1442,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 5.1,
   "primaryLocation": 8,
@@ -52,7 +51,7 @@
     "4. Of a building or room, to be large and have a lot of fresh air inside. English = (be) airy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The mixture of gases which forms the earth's atmosphere and which we breathe. English = air.",
     "2. The layer of air or other gases around a planet. English = atmosphere.",
@@ -60,5 +59,6 @@
     "4. The feeling of a place and the feeling of the people in it. English = mood."
   ],
   "idGloss": "air.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

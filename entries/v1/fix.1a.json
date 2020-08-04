@@ -18,8 +18,8 @@
     "syn2"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "repairs",
     "repair",
@@ -28,10 +28,9 @@
     "renovate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4425,
   "recordNumber": 2690,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 10.1,
   "primaryLocation": 15,
@@ -50,10 +49,11 @@
     "2. Of an old building or machine, to repair it, improve it and get it back into good condition. English = renovate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Something you do to something such as a machine which is not working or an item of clothing which is damaged to make it better again. English = repairs."
   ],
   "idGloss": "fix.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nurse",
     "cradle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4341,
   "recordNumber": 2645,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -32,8 +31,9 @@
     "1. To hold an infant or a sick person carefully in your arms. English = nurse, cradle."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "nurse.1",
-  "oldEntry": "Popular explanation: act of nursing a baby."
+  "oldEntry": "Popular explanation: act of nursing a baby.",
+  "seeAlso": []
 }

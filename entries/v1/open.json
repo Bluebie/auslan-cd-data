@@ -27,9 +27,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "start",
     "beginning",
@@ -39,13 +39,9 @@
     "open"
   ],
   "deictic": [],
-  "cf": [
-    "stop",
-    "finish.1"
-  ],
   "signNumber": 3738,
   "recordNumber": 2205,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -68,12 +64,16 @@
     "3. To tell people at a special ceremony that a new product is available to the public. English = launch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The first part of an activity. English = start, beginning.",
     "2. The first part of a book or a film. English = opening, beginning.",
     "3. The start of a large and important activity, or the official announcement of when a new product is made available to the public. English = opening, launch."
   ],
   "idGloss": "open",
-  "oldEntry": "Popular explanation: something opening."
+  "oldEntry": "Popular explanation: something opening.",
+  "seeAlso": [
+    "stop",
+    "finish.1"
+  ]
 }

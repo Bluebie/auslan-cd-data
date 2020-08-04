@@ -6,17 +6,16 @@
     "onehand",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tripe"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1625,
   "recordNumber": 965,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 0,
   "primaryLocation": 18,
@@ -27,10 +26,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The stomach of a pig, cow, or ox, which is eaten as food. English = tripe."
   ],
   "idGloss": "tripe",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

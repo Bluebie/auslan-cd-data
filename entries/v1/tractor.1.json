@@ -9,17 +9,16 @@
     "obscure",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tractor"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3017,
   "recordNumber": 1725,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A farm vehicle with large rear wheels that is used for ploughing fields, sowing crops, and pulling trailers. English = tractor."
   ],
   "idGloss": "tractor.1",
-  "oldEntry": "Popular explanation: the rough tread wheels of a tractor."
+  "oldEntry": "Popular explanation: the rough tread wheels of a tractor.",
+  "seeAlso": []
 }

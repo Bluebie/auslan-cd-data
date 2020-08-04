@@ -16,19 +16,18 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "profit",
     "benefit",
     "advantage"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 330,
   "recordNumber": 183,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -48,11 +47,12 @@
     "2. To gain an improvement or advantage by doing something. English = benefit."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The amount of money that you gain when you are paid more for something than it cost you to make it, get it, or do it. English = profit",
     "2. An improvement that is likely to result from doing something. English = advantage, benefit."
   ],
   "idGloss": "profit.2a",
-  "oldEntry": "Popular explanation: putting money in one's lapel pocket."
+  "oldEntry": "Popular explanation: putting money in one's lapel pocket.",
+  "seeAlso": []
 }

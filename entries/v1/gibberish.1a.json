@@ -16,19 +16,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "gibberish",
     "speechless",
     "dumbfounded"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2379,
   "recordNumber": 1311,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 4.1,
   "passiveHandshape": 0,
   "primaryLocation": 11,
@@ -48,12 +47,13 @@
     "3. To be so surprised at something that you have no idea what to say. English = (be) speechless, (be) dumbfounded."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. For deaf or hearing impaired people, the speech of a hearing person which is impossible to follow through listening or lip reading.",
     "2. Language (speech or signed) that does not make any sense. English = gibberish.",
     "3. A concept or proposition that is not clear."
   ],
   "idGloss": "gibberish.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

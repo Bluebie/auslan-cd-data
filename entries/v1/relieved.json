@@ -13,15 +13,14 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "relief",
     "relieved"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 517,
   "recordNumber": 288,
   "signVisualComposition": "THINK + FINISH",
@@ -41,10 +40,11 @@
     "1. To feel glad when something unpleasant has not happened or is no longer happening and you can stop worrying or thinking about it. English = (be) relieved. Idiomatic English = (be) glad that something's all over."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The glad feeling you have when something unpleasant has not happened or is no longer happening and you can stop worrying or thinking about it. English = relief."
   ],
   "idGloss": "relieved",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

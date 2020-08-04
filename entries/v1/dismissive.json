@@ -13,21 +13,18 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "dismissive",
     "ignore",
     "neglect"
   ],
   "deictic": [],
-  "cf": [
-    "yes.1a"
-  ],
   "signNumber": 5945,
   "recordNumber": 3540,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -43,8 +40,11 @@
     "2. To appear to pay attention to someone or to say you agree or approve when in fact you do not just in order to please them or to avoid a confrontation. English = humour someone. Idiomatic English = pay lip service to someone."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "dismissive",
-  "oldEntry": "Popular explanation: nodding repeatedly."
+  "oldEntry": "Popular explanation: nodding repeatedly.",
+  "seeAlso": [
+    "yes.1a"
+  ]
 }

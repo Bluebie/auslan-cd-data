@@ -14,9 +14,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hear",
     "listen",
@@ -24,10 +24,9 @@
     "hear about"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4477,
   "recordNumber": 2719,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -45,8 +44,9 @@
     "3. To learn about news or information because someone tells you about it. English = hear of, hear about."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hear.2",
-  "oldEntry": "Popular explanation: cupping one's hand to one's ear in order to hear better."
+  "oldEntry": "Popular explanation: cupping one's hand to one's ear in order to hear better.",
+  "seeAlso": []
 }

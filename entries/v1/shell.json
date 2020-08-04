@@ -7,17 +7,16 @@
     "domonly",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "shell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3008,
   "recordNumber": 1717,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The hard covering which surrounds an egg or nut, or the hard, protective covering on the back of a tortoise, snail, or crab. English = shell."
   ],
   "idGloss": "shell",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

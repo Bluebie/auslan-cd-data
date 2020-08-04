@@ -8,19 +8,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "before"
   ],
   "deictic": [],
-  "cf": [
-    "series.prior.to.that"
-  ],
   "signNumber": 6230,
   "recordNumber": 3722,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 7,
   "primaryLocation": 14,
@@ -35,8 +32,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "series.before.that",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "series.prior.to.that"
+  ]
 }

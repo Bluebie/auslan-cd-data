@@ -24,9 +24,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "depression",
     "despondency",
@@ -42,12 +42,9 @@
     "sadden"
   ],
   "deictic": [],
-  "cf": [
-    "relief.1a"
-  ],
   "signNumber": 3965,
   "recordNumber": 2368,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -66,10 +63,13 @@
     "2. To make someone feel great sadness and disappointment. English = depress, sadden."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling of great sadness and disappointment. English = depression, despondency, dejection, gloom."
   ],
   "idGloss": "depressed.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "relief.1a"
+  ]
 }

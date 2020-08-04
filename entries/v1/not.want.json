@@ -11,19 +11,16 @@
     "ant3",
     "cf1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "WANT + NEGATIVE SUFFIX",
-  "queries": "",
+  "queries": null,
   "english": [
     "not want"
   ],
   "deictic": [],
-  "cf": [
-    "vomit.1a"
-  ],
   "signNumber": 3451,
   "recordNumber": 2014,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -40,8 +37,11 @@
     "1. To feel little or no desire to have something or feel little or no need for something. English = not want."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "not.want",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "vomit.1a"
+  ]
 }

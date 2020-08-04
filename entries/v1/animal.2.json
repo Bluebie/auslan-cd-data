@@ -10,16 +10,15 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "animal"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6656,
   "recordNumber": 3960,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 17.1,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -32,11 +31,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A living creature such as a dog, lion, or rabbit, rather than a bird, fish, reptile, insect, or human being. English = animal.",
     "2. Any living thing that is not a plant. English = animal."
   ],
   "idGloss": "animal.2",
-  "oldEntry": "Popular explanation: the form of a horned animal."
+  "oldEntry": "Popular explanation: the form of a horned animal.",
+  "seeAlso": []
 }

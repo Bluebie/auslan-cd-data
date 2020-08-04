@@ -12,14 +12,13 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cheap"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5423,
   "recordNumber": 3232,
   "signVisualComposition": "C + H + P",
@@ -40,8 +39,9 @@
     "1. To cost less than normal or expected. English = (be) cheap."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "cheap.3",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

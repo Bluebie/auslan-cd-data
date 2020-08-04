@@ -14,21 +14,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "greed",
     "greedy"
   ],
   "deictic": [],
-  "cf": [
-    "selfish.1",
-    "selfish.2"
-  ],
   "signNumber": 2478,
   "recordNumber": 1375,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.1,
   "passiveHandshape": 0,
   "primaryLocation": 12,
@@ -44,10 +40,14 @@
     "1. To want more of something such as food, money, or power than it is necessary or fair for you to have. English = (be) greedy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The desire for more of something such as food, money, or power than it is necessary or fair for you to have. English = greed."
   ],
   "idGloss": "greedy.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "selfish.1",
+    "selfish.2"
+  ]
 }

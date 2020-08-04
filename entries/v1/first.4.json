@@ -12,17 +12,16 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "first"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1295,
   "recordNumber": 770,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -39,10 +38,11 @@
     "To be the person, thing or event that happens or comes before all the others of the same kind. English = (be) first."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person, thing or event that comes before all the others of the same kind; the first thing."
   ],
   "idGloss": "first.4",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

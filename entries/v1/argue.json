@@ -20,9 +20,9 @@
     "cf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "argument",
     "dispute",
@@ -31,13 +31,9 @@
     "dispute"
   ],
   "deictic": [],
-  "cf": [
-    "tell.off",
-    "shut.up.1a"
-  ],
   "signNumber": 1083,
   "recordNumber": 635,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -54,12 +50,16 @@
     "3. To discuss a topic fairly formally amongst several people expressing different views. English = debate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A disagreement with someone about something, sometimes resulting in speaking or signing angrily. English = argument.",
     "2. A disagreement with someone about something. English = dispute.",
     "3. A discussion in which people express different opinions about a subject. English = debate."
   ],
   "idGloss": "argue",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tell.off",
+    "shut.up.1a"
+  ]
 }

@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "other",
     "another",
@@ -28,12 +28,9 @@
     "else"
   ],
   "deictic": [],
-  "cf": [
-    "others.1a"
-  ],
   "signNumber": 1342,
   "recordNumber": 791,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 13.1,
   "primaryLocation": 15,
@@ -52,10 +49,13 @@
     "1. To be a thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = other, another, one other; (be) other, (be) another, (be) one other."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A thing or a person which is not one of the people or things that you have just mentioned or have just been talking about, but is additional. English = the other, another, one other."
   ],
   "idGloss": "other",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "others.1a"
+  ]
 }

@@ -11,17 +11,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "roll"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1084,
   "recordNumber": 636,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -35,10 +34,11 @@
     "2. To wrap a piece of paper or cloth many times around itself or a tube. English = roll, roll up."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long piece of paper or cloth that has been wrapped many times around itself or around a tube. English = roll."
   ],
   "idGloss": "roll.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

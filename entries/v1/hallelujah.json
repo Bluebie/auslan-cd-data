@@ -5,17 +5,16 @@
     "religion",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hallelujah"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6139.1,
   "recordNumber": 3657,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": null,
   "passiveHandshape": null,
   "primaryLocation": null,
@@ -28,8 +27,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hallelujah",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

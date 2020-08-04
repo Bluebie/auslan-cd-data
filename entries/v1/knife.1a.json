@@ -15,22 +15,17 @@
     "cf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "knife",
     "cut"
   ],
   "deictic": [],
-  "cf": [
-    "fork.1a",
-    "sharp",
-    "cutlery"
-  ],
   "signNumber": 1049,
   "recordNumber": 616,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -45,10 +40,15 @@
     "1. To cut food with a knife in order to eat it."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An object you hold in your hand and use to cut things with. It consists of a sharp, flat piece of metal attached to a handle. English = knife (singular), knives (plural)."
   ],
   "idGloss": "knife.1a",
-  "oldEntry": "Popular explanation: cutting with a knife."
+  "oldEntry": "Popular explanation: cutting with a knife.",
+  "seeAlso": [
+    "fork.1a",
+    "sharp",
+    "cutlery"
+  ]
 }

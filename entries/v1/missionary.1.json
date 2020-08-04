@@ -7,17 +7,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "GO.FORTH + M",
-  "queries": "",
+  "queries": null,
   "english": [
     "missionary"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2367,
   "recordNumber": 1302,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 3.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A Christian who has been sent to a foreign country to teach people about Christianity. English = missionary."
   ],
   "idGloss": "missionary.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

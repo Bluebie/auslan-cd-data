@@ -15,9 +15,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "spin dryer",
     "spin drier",
@@ -25,12 +25,9 @@
     "spin dry"
   ],
   "deictic": [],
-  "cf": [
-    "washing machine.1"
-  ],
   "signNumber": 3959,
   "recordNumber": 2363,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 16,
@@ -46,10 +43,13 @@
     "2. To dry something by spinning it in a spin dryer. English = spin dry."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A machine that is used to spin washing to get the water out. English = spin dryer, spin drier."
   ],
   "idGloss": "spin-drier.1a",
-  "oldEntry": "Popular explanation: a spinning action."
+  "oldEntry": "Popular explanation: a spinning action.",
+  "seeAlso": [
+    "washing machine.1"
+  ]
 }

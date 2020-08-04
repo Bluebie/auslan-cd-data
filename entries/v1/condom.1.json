@@ -11,19 +11,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "condom"
   ],
   "deictic": [],
-  "cf": [
-    "sock"
-  ],
   "signNumber": 6203,
   "recordNumber": 3706,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 17,
@@ -38,10 +35,13 @@
     "1. To put on or be wearing a condom."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A covering made of rubber which a man wears on his penis during sexual intercourse as a contraceptive or to prevent infection. English = condom."
   ],
   "idGloss": "condom.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "sock"
+  ]
 }

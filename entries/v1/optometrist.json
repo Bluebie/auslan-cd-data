@@ -8,15 +8,14 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "optometrist",
     "optician"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1192,
   "recordNumber": 698,
   "signVisualComposition": "EYE + DOCTOR",
@@ -30,10 +29,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone whose job involves testing people's eyesight or providing glasses and contact lenses. English = optician, optometrist."
   ],
   "idGloss": "optometrist",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

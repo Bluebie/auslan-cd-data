@@ -17,21 +17,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "since",
     "henceforth",
     "thereafter"
   ],
   "deictic": [],
-  "cf": [
-    "not.since"
-  ],
   "signNumber": 3970,
   "recordNumber": 2373,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -50,8 +47,11 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "since.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "not.since"
+  ]
 }

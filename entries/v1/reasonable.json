@@ -21,9 +21,9 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "IDEA/THINK + GOOD",
-  "queries": "",
+  "queries": null,
   "english": [
     "sensible",
     "reasonable",
@@ -31,12 +31,9 @@
     "brilliant"
   ],
   "deictic": [],
-  "cf": [
-    "fond.1a"
-  ],
   "signNumber": 5059,
   "recordNumber": 3051,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -61,10 +58,13 @@
     "3. [With stress] extremely well thought out. English = (be) brilliant."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An idea which is good, reasonable or appropriate."
   ],
   "idGloss": "reasonable",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "fond.1a"
+  ]
 }

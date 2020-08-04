@@ -52,6 +52,16 @@ function renameProps(object, mapping) {
   return object
 }
 
+// takes an object, and for any properties whose value is an empty string, set it to null
+function nullEmptyStrings(object) {
+  Object.entries(object).forEach(([key, value]) => {
+    if (value === "") {
+      object[key] = null
+    }
+  })
+  return object
+}
+
 async function run() {
   // create and erase entries directory
   await fs.ensureDir(`./entries/${version}`)
@@ -79,6 +89,7 @@ async function run() {
     entry.questlex = [entry.questlex, entry.questlex2].filter(x => !!x)
     delete entry.questlex2
 
+    // rename properties to be clearer and uh also not racist?
     renameProps(entry, {
       sn: 'signNumber',
       recnumb: 'recordNumber',
@@ -97,7 +108,11 @@ async function run() {
       nomlex: 'nominalLexeme',
       idgloss: 'idGloss',
       oldentry: 'oldEntry',
+      cf: 'seeAlso'
     })
+
+    // any empty string values become null
+    nullEmptyStrings(entry)
 
     let json = {
       tags,

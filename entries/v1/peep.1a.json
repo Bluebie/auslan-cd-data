@@ -14,9 +14,9 @@
     "engtf4",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Peeping Tom",
     "peep",
@@ -24,10 +24,9 @@
     "monocle"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 251,
   "recordNumber": 148,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -48,5 +47,6 @@
     "3. A glass lens which people in former times wore in front of one of their eyes to improve their ability to see with that eye. English = monocle."
   ],
   "idGloss": "peep.1a",
-  "oldEntry": "Popular explanation: peeping through a hole."
+  "oldEntry": "Popular explanation: peeping through a hole.",
+  "seeAlso": []
 }

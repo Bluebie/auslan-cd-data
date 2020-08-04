@@ -19,9 +19,9 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "wakefulness",
     "consciousness",
@@ -32,12 +32,9 @@
     "aware"
   ],
   "deictic": [],
-  "cf": [
-    "alert.1a"
-  ],
   "signNumber": 6338,
   "recordNumber": 3783,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 0,
   "primaryLocation": 4,
@@ -55,10 +52,13 @@
     "3. To realise that something is present or is happening because you hear it, see it, smell it, or feel it. English = (be) aware, (be) conscious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The state of not being asleep. English = wakefulness, consciousness."
   ],
   "idGloss": "wake",
-  "oldEntry": "Popular explanation: opening one's eyes."
+  "oldEntry": "Popular explanation: opening one's eyes.",
+  "seeAlso": [
+    "alert.1a"
+  ]
 }

@@ -16,20 +16,17 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
+  "sense": null,
   "blend": "DOCUMENT + L",
-  "queries": "",
+  "queries": null,
   "english": [
     "list",
     "catalogue"
   ],
   "deictic": [],
-  "cf": [
-    "calendar"
-  ],
   "signNumber": 5297,
   "recordNumber": 3173,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 7.1,
   "passiveHandshape": 5.3,
   "primaryLocation": 14,
@@ -47,11 +44,14 @@
     "4. To make list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A series of things that are written down one below the other. English = list.",
     "2. A list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library. English = catalogue."
   ],
   "idGloss": "list.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "calendar"
+  ]
 }

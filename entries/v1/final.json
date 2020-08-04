@@ -19,19 +19,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "final",
     "finalise",
     "finish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4163,
   "recordNumber": 2514,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -54,10 +53,11 @@
     "4. To turn off all the machinery and lights, and close and lock all the windows and doors before leaving; to close and lock all the windows and doors before leaving."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The last game or contest in a competition or sporting event. English = final."
   ],
   "idGloss": "final",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

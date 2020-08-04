@@ -7,14 +7,13 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "playpen"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3853,
   "recordNumber": 2290,
   "signVisualComposition": "PLAY + COT",
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A small structure which is designed for a baby or young child to play safely in. It has bars or a net around the sides and is open at the top. English = playpen."
   ],
   "idGloss": "playpen",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

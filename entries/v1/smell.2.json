@@ -9,17 +9,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "smell"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1366,
   "recordNumber": 808,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -32,10 +31,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The effect that something has on your nose. English = smell."
   ],
   "idGloss": "smell.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

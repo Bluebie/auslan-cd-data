@@ -11,22 +11,17 @@
     "cf2",
     "cf3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "secondly",
     "second-born"
   ],
   "deictic": [],
-  "cf": [
-    "first.1a",
-    "third.2a",
-    "fourth.1a"
-  ],
   "signNumber": 4408,
   "recordNumber": 2682,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 7.3,
   "primaryLocation": 15,
@@ -39,8 +34,13 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "second.5a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "first.1a",
+    "third.2a",
+    "fourth.1a"
+  ]
 }

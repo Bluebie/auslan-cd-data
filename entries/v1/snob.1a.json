@@ -12,9 +12,9 @@
     "engtf3",
     "engtf4"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "snob",
     "snobbery",
@@ -22,10 +22,9 @@
     "snobby"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 543,
   "recordNumber": 310,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 5,
@@ -39,11 +38,12 @@
     "2. To reject something because you do not think it is good enough for you because you are too proud of your social status, intelligence, or taste. Used to show disapproval. Idiomatic English = to turn up one's nose at someone or something."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Someone who admires upper-class people and despises lower-class people; someone who believes that they are superior to other people because of their intelligence or taste. The sign is used to show disapproval of such a person. English = snob.",
     "2. The attitude of a snob. English = snobbery."
   ],
   "idGloss": "snob.1a",
-  "oldEntry": "Popular explanation: culturally shared gesture of turning up one's nose."
+  "oldEntry": "Popular explanation: culturally shared gesture of turning up one's nose.",
+  "seeAlso": []
 }

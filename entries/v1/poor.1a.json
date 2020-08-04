@@ -22,8 +22,8 @@
     "syn1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "pity",
     "sympathy",
@@ -36,10 +36,9 @@
     "compassionate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3353,
   "recordNumber": 1956,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -57,10 +56,11 @@
     "2. To feel sorry for someone because they are unlucky or unfortunate. English = pity, sympathise, (be) sympathetic, (be) compassionate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The feeling you have for someone because they are unlucky or unfortunate and you feel sad for them. English = pity, sympathy, compassion."
   ],
   "idGloss": "poor.1a",
-  "oldEntry": "Popular explanation: stroking another in sympathy."
+  "oldEntry": "Popular explanation: stroking another in sympathy.",
+  "seeAlso": []
 }

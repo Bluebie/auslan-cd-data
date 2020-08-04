@@ -18,9 +18,9 @@
     "engtf5",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "ejaculation",
     "orgasm",
@@ -29,10 +29,9 @@
     "ejaculate"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 198,
   "recordNumber": 114,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -48,7 +47,7 @@
     "2. For a man, to experience the moment of greatest pleasure and excitement during sexual activity. English = have an orgasm."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Of a man, the act of discharging semen through the penis. English = ejaculation.",
     "2. For a man, the moment of greatest pleasure and excitement during sexual activity. English = orgasm.",
@@ -56,5 +55,6 @@
     "4. The cells which are produced in the sex organs of the male and which can enter a female's egg and fertilise it. English = sperm."
   ],
   "idGloss": "ejaculate",
-  "oldEntry": "Popular explanation: something squirting out of something long and thin."
+  "oldEntry": "Popular explanation: something squirting out of something long and thin.",
+  "seeAlso": []
 }

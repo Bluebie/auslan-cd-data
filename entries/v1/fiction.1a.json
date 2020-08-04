@@ -28,9 +28,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "invention",
     "concoction",
@@ -46,12 +46,9 @@
     "guess"
   ],
   "deictic": [],
-  "cf": [
-    "dream.1a"
-  ],
   "signNumber": 498,
   "recordNumber": 277,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -70,7 +67,7 @@
     "4. To say something in a play or speech which has not been planned or prepared beforehand; to give an answer when you do not know if it is correct. English = ad lib; guess."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A story or idea which is made up and not true. Its purpose is often dishonest. It is like a lie but it is not as bad or as serious. English = invention, concoction, contrivance.",
     "2. A situation or event that you think about or imagine, although it is unlikely to happen or be true. English = fantasy, make believe.",
@@ -78,5 +75,8 @@
     "4. The process or result of trying to guess something without knowing all the facts. English = guesswork, speculation."
   ],
   "idGloss": "fiction.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "dream.1a"
+  ]
 }

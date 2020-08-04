@@ -8,19 +8,16 @@
     "cf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "lemon"
   ],
   "deictic": [],
-  "cf": [
-    "orange"
-  ],
   "signNumber": 4490,
   "recordNumber": 2727,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -33,10 +30,13 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A bright yellow fruit with a sour juice. English = lemon."
   ],
   "idGloss": "lemon.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "orange"
+  ]
 }

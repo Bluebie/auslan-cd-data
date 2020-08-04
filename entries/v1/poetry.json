@@ -11,18 +11,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "poetry",
     "poem"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1864,
   "recordNumber": 1116,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A form of literature in which language is carefully fashioned into a signed, spoken or written text in which the words or signs are arranged and selected for their meaning and their visual or sound quality, especially rhymes. English = poetry, poem."
   ],
   "idGloss": "poetry",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

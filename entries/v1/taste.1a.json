@@ -18,9 +18,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "taste",
     "type",
@@ -28,10 +28,9 @@
     "flavour"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 600,
   "recordNumber": 346,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 0,
   "primaryLocation": 10,
@@ -49,7 +48,7 @@
     "2. To be something that is very noticeable for the positive and enjoyable effect it has on your tongue. English = (be) tasty."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Your ability to recognise things when you touch them with your tongue. English = taste.",
     "2. The special sensation something has on your tongue when you eat it or when you simply touch it with you tongue, for example whether it is sweet or salty. English = taste,  flavour.",
@@ -57,5 +56,6 @@
     "4. A class of things that has particular features in common and that belongs to a group of related things. English = type."
   ],
   "idGloss": "taste.1a",
-  "oldEntry": "Popular explanation: pointing to the mouth."
+  "oldEntry": "Popular explanation: pointing to the mouth.",
+  "seeAlso": []
 }

@@ -14,17 +14,16 @@
     "ant3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "black"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5593,
   "recordNumber": 3311,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 0,
   "primaryLocation": 9,
@@ -44,10 +43,11 @@
     "2. To be tea or coffee that has no milk or cream added to it. English = (be) black."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The darkest colour that there is, the colour of the sky at night when there is no light at all. English = black."
   ],
   "idGloss": "black.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

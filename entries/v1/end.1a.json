@@ -19,9 +19,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "end",
     "conclusion",
@@ -30,10 +30,9 @@
     "finally"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 4406,
   "recordNumber": 2681,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 6.2,
   "primaryLocation": 15,
@@ -55,11 +54,12 @@
     "2. To be the last thing in a series of things. English = (be) final."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The last part of a period of time, an event, or a text (such as a piece of writing, a film, etc.). English = end, conclusion, finish.",
     "2. The last thing in a series of things, especially the last in the order of siblings in a family."
   ],
   "idGloss": "end.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

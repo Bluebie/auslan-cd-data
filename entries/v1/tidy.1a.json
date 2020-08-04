@@ -29,9 +29,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tidiness",
     "orderliness",
@@ -46,10 +46,9 @@
     "categorise"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3810,
   "recordNumber": 2264,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -72,7 +71,7 @@
     "4. To put things into neat and ordered groups or regularly spaced stacks, usually according to some characteristic each group of things shares. English = categorise."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The condition when things are neat and arranged in an orderly way. English = tidiness, orderliness, neatness.",
     "2. Neat ordered piles of things regularly spaced. English = stacks.",
@@ -80,5 +79,6 @@
     "4. A sequence of things placed one after another according to some kind of principle. English = order."
   ],
   "idGloss": "tidy.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -10,18 +10,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bugger",
     "bastard"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 5840,
   "recordNumber": 3473,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.1,
   "passiveHandshape": 10.1,
   "primaryLocation": 14,
@@ -35,11 +34,12 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A person you dislike or have contempt for. Vulgar English = bugger, bastard.",
     "2. A person who you pretend to dislike or be annoyed with (because they do naughty things or play tricks on you) but whom you are actually fond of and whose antics you enjoy. English = bugger, bastard."
   ],
   "idGloss": "bugger",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

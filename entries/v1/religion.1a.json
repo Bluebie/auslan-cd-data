@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "religion",
     "religious"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2185,
   "recordNumber": 1259,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.6,
   "passiveHandshape": 0,
   "primaryLocation": 13,
@@ -39,11 +38,12 @@
     "2. To be connected to or related to religion. English = (be) religious."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The belief in a god or gods and the activities that are connected with this belief, such as prayer, worship in a church or temple. English = religion.",
     "2. A particular system of belief in a god or gods and the activities connected with this system. English = religion."
   ],
   "idGloss": "religion.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

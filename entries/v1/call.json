@@ -20,9 +20,9 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "nickname",
     "sobriquet",
@@ -32,10 +32,9 @@
     "named"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1359,
   "recordNumber": 802,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 0,
   "primaryLocation": 3,
@@ -52,10 +51,11 @@
     "3. To use a special name for a person which is not their real name. English = nickname."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A name given to someone which is not their real name. English = nickname, sobriquet."
   ],
   "idGloss": "call",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

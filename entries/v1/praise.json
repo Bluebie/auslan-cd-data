@@ -21,9 +21,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "praise",
     "congratulations",
@@ -31,12 +31,9 @@
     "congratulate"
   ],
   "deictic": [],
-  "cf": [
-    "proud.2"
-  ],
   "signNumber": 4814,
   "recordNumber": 2907,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 6.1,
   "passiveHandshape": 6.1,
   "primaryLocation": 14,
@@ -58,11 +55,14 @@
     "3. To praise someone for something that they have done. English = congratulate."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. What you say, sign or write to express approval at someone's achievements or qualities. English = praise.",
     "2. Praise that you give someone for something that they have done. English = congratulations."
   ],
   "idGloss": "praise",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "proud.2"
+  ]
 }

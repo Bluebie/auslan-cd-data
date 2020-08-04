@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "character"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 885,
   "recordNumber": 507,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -35,12 +34,13 @@
     "1. To be unable to be read something because the writing system (script) is unknown, secret or very unclear. English = (be) indecipherable, (be) unreadable."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A symbol in a written language, such as a letter or number. English = character.",
     "2. Letters, numbers, or other symbols that are written or printed in the unknown script of a foreign language.",
     "3. The letters, numbers, and other symbols of the written script of the Chinese and related languages. English = Chinese characters, Japanese characters, kanji."
   ],
   "idGloss": "characters.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

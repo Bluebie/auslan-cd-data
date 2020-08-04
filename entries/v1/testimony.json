@@ -7,17 +7,16 @@
     "sym",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "testimony"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6150,
   "recordNumber": 3666,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 10.2,
   "primaryLocation": 10,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A formal statement that someone makes, especially an open declaration of faith. English = testimony."
   ],
   "idGloss": "testimony",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

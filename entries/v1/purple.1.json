@@ -17,19 +17,18 @@
     "engtf3",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "purple",
     "violet",
     "mauve"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 2148,
   "recordNumber": 1243,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -44,12 +43,13 @@
     "3. To be light purple in colour. English = (be) mauve."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A colour that is between red and blue; a reddish-blue colour. English = purple.",
     "2. A colour that is between red and blue, but with more blue than red; a bluish purple. English = violet.",
     "3. A colour that is between red and blue, but which is more pale (ie lighter or whiter) than purple; a light purple. English = mauve."
   ],
   "idGloss": "purple.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

@@ -18,20 +18,17 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "play",
     "act"
   ],
   "deictic": [],
-  "cf": [
-    "break"
-  ],
   "signNumber": 3852,
   "recordNumber": 2289,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -52,11 +49,14 @@
     "3. To take part in a sport. English = play."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. Time spent by children with toys or taking part in games or acting out imaginary situations and roles. English = play.",
     "2. A piece of theatre, performed or written. English = play."
   ],
   "idGloss": "play.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "break"
+  ]
 }

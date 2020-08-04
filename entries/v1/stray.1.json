@@ -8,17 +8,16 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "stray"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1014,
   "recordNumber": 592,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 15,
@@ -34,8 +33,9 @@
     "1. To wander away from where you are supposed to be or from the direction in which you are supposed to be going. English = stray."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "stray.1",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

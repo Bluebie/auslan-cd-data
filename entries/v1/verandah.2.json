@@ -9,18 +9,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "veranda",
     "verandah"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1668,
   "recordNumber": 992,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 18,
@@ -33,10 +32,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A platform along one or more of the outside walls of a house, usually on ground level. It has a roof supported by pillars. English = veranda, verandah."
   ],
   "idGloss": "verandah.2",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

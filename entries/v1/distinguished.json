@@ -25,9 +25,9 @@
     "cf1",
     "cf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "style",
     "class",
@@ -43,13 +43,9 @@
     "formal"
   ],
   "deictic": [],
-  "cf": [
-    "top.1",
-    "important.1a"
-  ],
   "signNumber": 2918,
   "recordNumber": 1655,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -65,12 +61,16 @@
     "4. Of events, to be not casual or to require smart clothes and correct behaviour. English = (be) formal."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The quality of being smart and elegant, or being sophisticated. English = style, class. sophistication.",
     "2. The state of having a lot of money and a high standard of living. English = affluence.",
     "3. The quality you have when people admire you because of your position in society or the high quality of your work. English = prestige."
   ],
   "idGloss": "distinguished",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "top.1",
+    "important.1a"
+  ]
 }

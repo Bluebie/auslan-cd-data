@@ -12,20 +12,17 @@
     "ant2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "search",
     "seek"
   ],
   "deictic": [],
-  "cf": [
-    "view.1a"
-  ],
   "signNumber": 1762,
   "recordNumber": 1058,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.2,
   "passiveHandshape": 0,
   "primaryLocation": 7,
@@ -41,10 +38,13 @@
     "1. To try to find something that you want but do not have, or that you did have but have lost, by looking carefully for it. English = look for, search. Formal English = seek."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An attempt to find something by looking for it. English = search."
   ],
   "idGloss": "search",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "view.1a"
+  ]
 }

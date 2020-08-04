@@ -9,17 +9,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "bed"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3214,
   "recordNumber": 1866,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 8,
@@ -34,10 +33,11 @@
     "1. To go to bed in order to sleep."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A piece of furniture that you lie on when you sleep. English = bed."
   ],
   "idGloss": "bed.1a",
-  "oldEntry": "Popular explanation: a sleeping posture."
+  "oldEntry": "Popular explanation: a sleeping posture.",
+  "seeAlso": []
 }

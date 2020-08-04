@@ -14,19 +14,18 @@
     "syn2",
     "syn3"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "blessing",
     "pope",
     "bless"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3326,
   "recordNumber": 1945,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -45,11 +44,12 @@
     "1. Of a priest, to ask for God's favour and protection for people or things. English = bless."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The act of priest asking for God's favour and protection for people and things. English = blessing.",
     "2. The head of the Roman Catholic Church. English = pope."
   ],
   "idGloss": "bless.2a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

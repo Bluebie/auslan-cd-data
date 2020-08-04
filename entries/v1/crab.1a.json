@@ -18,9 +18,9 @@
     "syn1",
     "syn2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crab",
     "pincers",
@@ -28,10 +28,9 @@
     "crayfish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1655,
   "recordNumber": 982,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.1,
   "passiveHandshape": 2.1,
   "primaryLocation": 15,
@@ -46,7 +45,7 @@
     "1. Of a crab, lobster or crayfish, to open and close its pincers."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. They usually move sideways. English = crab.",
     "2. The claws on the front of a crab or lobster. English = pincers.",
@@ -54,5 +53,6 @@
     "4. A small shellfish with five pairs of legs which lives in rivers and ponds. It has strong pincers on its front legs which it uses for catching food. English = crayfish."
   ],
   "idGloss": "crab.1a",
-  "oldEntry": "Popular explanation: a crab's pincers."
+  "oldEntry": "Popular explanation: a crab's pincers.",
+  "seeAlso": []
 }

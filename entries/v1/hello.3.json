@@ -7,17 +7,16 @@
     "salutation",
     "engtf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "hello"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6066,
   "recordNumber": 3609,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.2,
   "passiveHandshape": 0,
   "primaryLocation": 2,
@@ -30,8 +29,9 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "hello.3",
-  "oldEntry": "Popular explanation: doffing a hat."
+  "oldEntry": "Popular explanation: doffing a hat.",
+  "seeAlso": []
 }

@@ -12,18 +12,17 @@
     "engtf3"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Netherlands",
     "Holland",
     "Dutch"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 3555,
   "recordNumber": 2083,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.3,
   "passiveHandshape": 5.3,
   "primaryLocation": 8,
@@ -36,10 +35,11 @@
     "1. A person or thing from or relating to the Netherlands. English = Dutch."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in north western Europe, east of Germany and north of Belgium, called the Netherlands, or Holland."
   ],
   "idGloss": "Netherlands",
-  "oldEntry": "Popular explanation: the outline of a traditional Dutch hat."
+  "oldEntry": "Popular explanation: the outline of a traditional Dutch hat.",
+  "seeAlso": []
 }

@@ -8,16 +8,15 @@
     "engtf1"
   ],
   "sense": "1",
-  "blend": "",
-  "queries": "",
+  "blend": null,
+  "queries": null,
   "english": [
     "Brisbane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 376,
   "recordNumber": 203,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 0.2,
   "passiveHandshape": 0.2,
   "primaryLocation": 14,
@@ -28,10 +27,11 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. The capital of and largest city in the Australian state of Queensland, called Brisbane."
   ],
   "idGloss": "Brisbane",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

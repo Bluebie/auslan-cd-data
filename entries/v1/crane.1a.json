@@ -10,17 +10,16 @@
     "engtf1",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "crane"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1503,
   "recordNumber": 895,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 1.2,
   "passiveHandshape": 5.3,
   "primaryLocation": 15,
@@ -33,10 +32,11 @@
     "1. To lift or move something using a crane."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A large machine that moves heavy things by lifting them in the air. English = crane."
   ],
   "idGloss": "crane.1a",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }

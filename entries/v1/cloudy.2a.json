@@ -12,20 +12,17 @@
     "engtf2",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "cloud",
     "cloudy"
   ],
   "deictic": [],
-  "cf": [
-    "floral.1a"
-  ],
   "signNumber": 2983,
   "recordNumber": 1695,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.2,
   "passiveHandshape": 5.2,
   "primaryLocation": 1,
@@ -40,10 +37,13 @@
     "1. To have lots of clouds in the sky. English = (be) cloudy."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A mass of water vapour that floats in the sky. It is usually white or grey and rain often falls from it. English = cloud, clouds."
   ],
   "idGloss": "cloudy.2a",
-  "oldEntry": "Popular explanation: the underside and general shape of a cloud."
+  "oldEntry": "Popular explanation: the underside and general shape of a cloud.",
+  "seeAlso": [
+    "floral.1a"
+  ]
 }

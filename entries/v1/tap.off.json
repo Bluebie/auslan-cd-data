@@ -7,19 +7,16 @@
     "ant1",
     "cf1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "tap"
   ],
   "deictic": [],
-  "cf": [
-    "tap.1"
-  ],
   "signNumber": 4556,
   "recordNumber": 2758,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 5.5,
   "passiveHandshape": 0,
   "primaryLocation": 15,
@@ -34,8 +31,11 @@
     "1. To turn a tap off."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [],
   "idGloss": "tap.off",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": [
+    "tap.1"
+  ]
 }

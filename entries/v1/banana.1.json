@@ -12,18 +12,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "banana",
     "peel banana"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6417,
   "recordNumber": 3828,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 11.1,
   "passiveHandshape": 1.1,
   "primaryLocation": 14,
@@ -38,10 +37,11 @@
     "1. To peel the skin off a banana."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A long curved fruit with a yellow skin and cream-coloured flesh. English = banana."
   ],
   "idGloss": "banana.1",
-  "oldEntry": "Popular explanation: peeling a banana."
+  "oldEntry": "Popular explanation: peeling a banana.",
+  "seeAlso": []
 }

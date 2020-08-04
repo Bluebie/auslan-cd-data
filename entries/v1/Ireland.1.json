@@ -10,18 +10,17 @@
     "engtf2",
     "syn1"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Ireland",
     "Irish"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 6298,
   "recordNumber": 3763,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 10.3,
   "passiveHandshape": 0,
   "primaryLocation": 14,
@@ -36,10 +35,11 @@
     "1. To be from or relate to Ireland. English = (be) Irish."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. An island country in the North Atlantic off the west coast of Great Britain, called Ireland."
   ],
   "idGloss": "Ireland.1",
-  "oldEntry": "Popular explanation: shamrock buttonhole."
+  "oldEntry": "Popular explanation: shamrock buttonhole.",
+  "seeAlso": []
 }

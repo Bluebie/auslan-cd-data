@@ -8,18 +8,17 @@
     "engtf1",
     "engtf2"
   ],
-  "sense": "",
-  "blend": "",
-  "queries": "",
+  "sense": null,
+  "blend": null,
+  "queries": null,
   "english": [
     "Indonesia",
     "Indonesian"
   ],
   "deictic": [],
-  "cf": [],
   "signNumber": 1877.1,
   "recordNumber": 1123,
-  "signVisualComposition": "",
+  "signVisualComposition": null,
   "activeHandshape": 2.4,
   "passiveHandshape": null,
   "primaryLocation": 6,
@@ -32,10 +31,11 @@
     "1. To come from or relate to Indonesia. English = (be) Indonesian."
   ],
   "questionLexeme": [],
-  "generalMeaning": "",
+  "generalMeaning": null,
   "nominalLexeme": [
     "1. A country in South-East Asia, north of Australia and south of Malaysia, called Indonesia."
   ],
   "idGloss": "Indonesia",
-  "oldEntry": ""
+  "oldEntry": null,
+  "seeAlso": []
 }
