@@ -110,3 +110,23 @@ any floating point errors, convert the integer to a string, use the first two ch
 ## A note on tags
 
 The tags field contains every boolean field that was set true in the sign's row in the AUSLANCD table on the original CD-ROM. Some of these are clearly useful tags, while others appear to just note the presence or absence of information in the text fields of the same rows. The tags are presented in their raw form, at least in v1 dataset, and it's up to you to appropriately filter it down to just the useful ones if presenting them in a user interface.
+
+## Linquistic terms for Dumbies
+
+Not everyone's a linguist. I'm certainly not one! I'm a highschool dropout and my worst subject was English. Here are some simple explanations of some words you'll find used here:
+
+ * **Nominal** - meaning noun, referring to people (e.g. mother, or Jessica), animals (e.g. cat), places (e.g. Eora), categories of things (e.g. farm), abstract ideas (e.g. politics)
+ * **Particle** - a word which has a gramatical function explaining the type of relationship two things have. English examples: to, in, off, over
+ * **Deictic** - the meaning depends on where it's used. for example, the deictic timeline (the timeline extending from your more active shoulder out forward) lets you express time relative to right now when you're signing. a deictic sign can be something like "you" because who it means is dependant on who is around you. If you sign it again in exactly the same way somewhere else, it means something different because the time and environment changed.
+ * **signVisualComposition** - this field seems to occasionally describe the sign's visual style as a combination of other signs, for example fingerspelling maybe represented as "A + C + C" indicating the sequence of those letters fingerspelled
+ * **Lexical Item** - meaning one piece of language, this is what each entry describes. Sometimes a lexical item will be a single sign, but sometimes an item maybe made out of multiple signs like fingerspelling GG for government or the "train gone" idiom.
+ * **Idiom** - something that sounds like a phrase, but has a special meaning, like the "train's gone" Auslan idiom, or the Australian English idiom "Dog's Breakfast". These phrases function more like a single lexical item.
+ * **Handshape** - a hand pose which is standardised and commonly used to make up many different signs. Handshapes often have their own symbolic meaning, like 'bad', 'good', 'creepy' which give you a clue what the sign could mean, or could be poetically altered to create an antonym
+ * **Synonym** - a different lexical item which means something very similar
+ * **Antonym** - a different lexical item which has an opposite meaning
+ * **Active Handshape** or **domhndshp** - In the CD-ROM's database, they use the term "dominant" to mean the hand you're better at using. A right handed person uses their right hand for these actions. This field is renamed to activeHandshape to avoid referencing slavery in the converted dataset.
+ * **Passive Handshape** or **subhndshp** - In the CD-ROM's database, they use the term "submissive" to mean the hand you're worse at using. This would be the left hand of a right handed person. This field is renamed to passiveHandshape to avoid referencing slavery in the converted dataset.
+ * **Interjection** - Using a sign to respond to something another person is saying, like in English people might say "yeah!" or "damn!" in response.
+ * **Verb** - an action, like **digging** a hole or **patting** a cat
+
+This list exists as much to remind myself as it does to make this information more accessible to other dropouts like me.
