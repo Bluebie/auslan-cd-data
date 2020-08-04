@@ -35,8 +35,8 @@
   "signNumber": 290,
   "recordNumber": 169,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [
@@ -55,7 +55,7 @@
     "3. To be of little or no importance. English = (be) trivial, (be) insignificant."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The feeling of being bored. English = boredom.",
     "2. A person whom other people think is dull and uninteresting. English = bore."

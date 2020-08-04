@@ -25,8 +25,8 @@
   "signNumber": 13,
   "recordNumber": 9,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [
@@ -39,7 +39,7 @@
     "1. To often forget things. English = (be) forgetful, (be) absent-minded."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The action or habit of often forgetting things. English = forgetfulness."
   ],

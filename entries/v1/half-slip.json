@@ -19,8 +19,8 @@
   "signNumber": 4311,
   "recordNumber": 2626,
   "signVisualComposition": "HALF + SKIRT",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A petticoat that hangs under a skirt. English = half-slip."
   ],

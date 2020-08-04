@@ -39,8 +39,8 @@
   "signNumber": 49,
   "recordNumber": 28,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [
@@ -59,7 +59,7 @@
     "3. To be extremely good, beautiful, or impressive. English = (be) magnificent."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The quality of being very good indeed. English = excellence.",
     "2. The quality of being extremely beautiful, pleasant, or satisfying.",

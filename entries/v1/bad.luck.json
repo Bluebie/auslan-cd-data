@@ -34,8 +34,8 @@
   "signNumber": 6639,
   "recordNumber": 3953,
   "signVisualComposition": "LUCKY + BAD",
-  "activeHandShape": 16.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 16.1,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [
@@ -55,7 +55,7 @@
     "1. To have bad luck. English = unlucky. Formal English = unfortunate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A lack of success or bad things that happen to you, that have not been caused by yourself or other people. English = bad luck. Formal English = misfortune."
   ],

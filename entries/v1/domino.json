@@ -22,8 +22,8 @@
   "signNumber": 2074,
   "recordNumber": 1208,
   "signVisualComposition": "",
-  "activeHandShape": 2.4,
-  "passiveHandShape": 2.4,
+  "activeHandshape": 2.4,
+  "passiveHandshape": 2.4,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Small rectangular blocks marked with two groups of spots on one side, used for playing games. English = domino (singular), dominoes (plural).",
     "2. A game played using dominoes. English = dominoes."

@@ -83,8 +83,8 @@ async function run() {
       sn: 'signNumber',
       recnumb: 'recordNumber',
       comp: 'signVisualComposition',
-      domhndsh: 'activeHandShape',  // feeling oppinionated about this one, not going to have references to slavery or
-      subhndsh: 'passiveHandShape', // BDSM as metaphores in data formats I build dangit!! what the heck
+      domhndsh: 'activeHandshape',  // feeling oppinionated about this one, not going to have references to slavery or
+      subhndsh: 'passiveHandshape', // BDSM as metaphores in data formats I build dangit!! what the heck
       locprim: 'primaryLocation',
       locsecond: 'secondLocation',
       ant: 'antonyms',
@@ -93,7 +93,7 @@ async function run() {
       partlex: 'particleLexeme',
       verblex: 'verbLexeme',
       questlex: 'questionLexeme',
-      genmean: 'genitiveClassifiers',
+      genmean: 'generalMeaning',
       nomlex: 'nominalLexeme',
       idgloss: 'idGloss',
       oldentry: 'oldEntry',

@@ -28,8 +28,8 @@
   "signNumber": 4729,
   "recordNumber": 2858,
   "signVisualComposition": "",
-  "activeHandShape": 6.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 6.1,
+  "passiveHandshape": 0,
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [
@@ -46,7 +46,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The day before today. English = yesterday.",
     "2. The day before a particular day in the past. English = the day before, the previous day."

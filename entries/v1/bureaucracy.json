@@ -19,8 +19,8 @@
   "signNumber": 142,
   "recordNumber": 76,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An administrative system operated by a large number of officials following rules and procedures. English = bureaucracy."
   ],

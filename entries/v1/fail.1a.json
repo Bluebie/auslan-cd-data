@@ -32,8 +32,8 @@
   "signNumber": 5009,
   "recordNumber": 3020,
   "signVisualComposition": "",
-  "activeHandShape": 6.2,
-  "passiveHandShape": 6.2,
+  "activeHandshape": 6.2,
+  "passiveHandshape": 6.2,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [
@@ -49,7 +49,7 @@
     "1. To not succeed in doing something that you are trying to do. English = fail."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The lack of success in doing or achieving something. English = failure.",
     "2. A person or thing that has not succeeded at something. English = failure, flop."

@@ -27,8 +27,8 @@
   "signNumber": 2432,
   "recordNumber": 1349,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
@@ -39,7 +39,7 @@
   "questionLexeme": [
     "1. Used to ask the number of years a person has lived. English = how old, what age."
   ],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The number of years that you have lived. English = age."
   ],

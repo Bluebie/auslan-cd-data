@@ -20,8 +20,8 @@
   "signNumber": 90,
   "recordNumber": 50,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Someone who is qualified in medicine and treats people who are ill. English = doctor."
   ],

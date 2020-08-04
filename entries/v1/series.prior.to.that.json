@@ -21,8 +21,8 @@
   "signNumber": 6231,
   "recordNumber": 3723,
   "signVisualComposition": "",
-  "activeHandShape": 10.2,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 10.2,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [
@@ -35,7 +35,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "series.prior.to.that",
   "oldEntry": ""

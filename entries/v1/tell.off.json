@@ -30,8 +30,8 @@
   "signNumber": 152,
   "recordNumber": 83,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [
@@ -46,7 +46,7 @@
     "1. To speak or sign to someone in an angry or serious way because they have done something wrong. Idiomatic English = tell off, blast."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "tell.off",
   "oldEntry": "Popular explanation: rapid angry fingerspelling."

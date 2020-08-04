@@ -22,8 +22,8 @@
   "signNumber": 1197,
   "recordNumber": 702,
   "signVisualComposition": "SEE + FAULT",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 7,
   "secondLocation": 25,
   "antonyms": [
@@ -37,7 +37,7 @@
     "2. To acknowledge an error or mistake (and admit that you are wrong)."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The recognition of an error or a mistake.",
     "2. The acknowledgment of an error or mistake, particularly when you are in the wrong. English = admission."

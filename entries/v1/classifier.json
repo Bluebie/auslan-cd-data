@@ -18,8 +18,8 @@
   "signNumber": 5420,
   "recordNumber": 3229,
   "signVisualComposition": "C + L",
-  "activeHandShape": 7.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 7.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A special class of signs in the grammar of sign languages which in some instances fulfil a similar function to the pronouns of English, and in others serve to describe or refer to objects in a unique visual-gestural way. English = classifier."
   ],

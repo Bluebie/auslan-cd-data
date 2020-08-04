@@ -22,8 +22,8 @@
   "signNumber": 4312,
   "recordNumber": 2627,
   "signVisualComposition": "HALF + TIME",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The short period of time between the two parts of a sports match, when the players have a short rest. English = half-time."
   ],

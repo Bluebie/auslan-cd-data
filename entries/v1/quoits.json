@@ -19,8 +19,8 @@
   "signNumber": 439,
   "recordNumber": 246,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -31,7 +31,7 @@
     "1. To play quoits."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A game in which rings are thrown over a small post. English = quoits."
   ],

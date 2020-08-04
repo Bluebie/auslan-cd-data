@@ -29,8 +29,8 @@
   "signNumber": 52,
   "recordNumber": 31,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -41,7 +41,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The first meal of the day, which is usually eaten early in the morning. English = breakfast."
   ],

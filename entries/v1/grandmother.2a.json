@@ -23,8 +23,8 @@
   "signNumber": 2139,
   "recordNumber": 1238,
   "signVisualComposition": "",
-  "activeHandShape": 2.4,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 2.4,
+  "passiveHandshape": 5.3,
   "primaryLocation": 5,
   "secondLocation": 25,
   "antonyms": [
@@ -38,7 +38,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The mother of your father or mother. English = grandmother."
   ],

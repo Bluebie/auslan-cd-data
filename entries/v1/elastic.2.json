@@ -26,8 +26,8 @@
   "signNumber": 389,
   "recordNumber": 212,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -38,7 +38,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A rubber material that stretches when you pull it and returns to its original size and shape when you let it go. English = elastic."
   ],

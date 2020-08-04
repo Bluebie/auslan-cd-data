@@ -45,8 +45,8 @@
   "signNumber": 4297,
   "recordNumber": 2615,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [
@@ -66,7 +66,7 @@
     "4. To brush something to one side and ignore it until a later time."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The start of an event later than was expected. English = delay.",
     "2. An extension in the time it usually takes to do something. English = delay, prolongation.",

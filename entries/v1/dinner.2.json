@@ -26,8 +26,8 @@
   "signNumber": 51,
   "recordNumber": 30,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -40,7 +40,7 @@
     "1. To eat the main meal of the day; to eat dinner."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The main meal of the day. English = dinner."
   ],

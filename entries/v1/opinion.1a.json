@@ -19,8 +19,8 @@
   "signNumber": 15,
   "recordNumber": 11,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The ideas and thoughts you have about a certain subject or topic; the beliefs or views that a person has. English = opinion."
   ],

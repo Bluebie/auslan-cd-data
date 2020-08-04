@@ -22,8 +22,8 @@
   "signNumber": 1556,
   "recordNumber": 924,
   "signVisualComposition": "",
-  "activeHandShape": 2.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 2.1,
+  "passiveHandshape": 0,
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A large motor vehicle which carries passengers from one place to another. English = bus.",
     "2. An electric bus whose motor draws its power from two overhead wires by means of two trolley poles. English = trolley-bus."

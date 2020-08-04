@@ -35,8 +35,8 @@
   "signNumber": 620,
   "recordNumber": 358,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [
@@ -55,7 +55,7 @@
     "1. To have very little noise in a place. English = (be) quiet, (be) silent; (be) still."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The condition or state in which there is no noise at all, and especially no talking; or in which there is no commotion. English = quiet, silence, stillness."
   ],

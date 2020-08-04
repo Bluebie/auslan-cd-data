@@ -32,8 +32,8 @@
   "signNumber": 296,
   "recordNumber": 171,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 12,
   "secondLocation": null,
   "antonyms": [
@@ -51,7 +51,7 @@
     "2. To be unsure about something. English = (be) doubtful."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The possibility that something unpleasant will happen. English = risk."
   ],

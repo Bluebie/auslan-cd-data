@@ -22,8 +22,8 @@
   "signNumber": 2607,
   "recordNumber": 1446,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 8,
   "secondLocation": 26,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The condition of the atmosphere, for example whether it is raining, sunny, hot, or windy in an area at a particular time. English = weather.",
     "2. The general weather conditions that are typical of a place. English = climate."

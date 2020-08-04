@@ -41,8 +41,8 @@
   "signNumber": 3104,
   "recordNumber": 1788,
   "signVisualComposition": "",
-  "activeHandShape": 5.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [
@@ -62,7 +62,7 @@
     "4. Used between two numbers to mean that the second number is subtracted from the first number. English = minus."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The calculation in which you take one number away from another number. English = subtraction, deduction.",
     "2. The removal or crossing out of something that has been written down. English = deletion.",

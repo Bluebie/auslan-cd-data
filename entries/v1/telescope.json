@@ -32,8 +32,8 @@
   "signNumber": 119,
   "recordNumber": 62,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
@@ -44,7 +44,7 @@
     "1. To use or look through a telescope, to practise the science of astronomy."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A long, tube-shaped instrument with lenses inside it which you look through in order to make distant things appear larger and nearer. English = telescope.",
     "2. The scientific study of the stars, planets, and other natural objects in space. English = astronomy.",

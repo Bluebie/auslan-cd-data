@@ -35,8 +35,8 @@
   "signNumber": 133,
   "recordNumber": 71,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [
@@ -54,7 +54,7 @@
     "2. To use Australian Sign Language."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The sign language used by the Australian Deaf community. English = Auslan, Australian Sign Language."
   ],

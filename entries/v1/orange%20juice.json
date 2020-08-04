@@ -22,8 +22,8 @@
   "signNumber": 45,
   "recordNumber": 27,
   "signVisualComposition": "ORANGE + J",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A drink made from squeezed oranges. English = orange juice."
   ],

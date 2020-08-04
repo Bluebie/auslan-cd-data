@@ -37,8 +37,8 @@
   "signNumber": 413,
   "recordNumber": 230,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -54,7 +54,7 @@
     "4. To plan secretly to do something. English = plot."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A method of achieving something that you have worked out in detail beforehand. English = plan.",
     "2. The plans and preparations which you make so that something will happen or be possible. English = arrangements.",

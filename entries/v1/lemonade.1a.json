@@ -27,8 +27,8 @@
   "signNumber": 423,
   "recordNumber": 236,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -37,7 +37,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A colourless sweet fizzy drink. English = lemonade.",
     "2. Any cold, non-alcoholic drink such as lemonade or fruit juice. English = soft drink."

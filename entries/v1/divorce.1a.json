@@ -26,8 +26,8 @@
   "signNumber": 444,
   "recordNumber": 251,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 5.1,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [
@@ -44,7 +44,7 @@
     "2. Of a man and a woman, to have legally ended a marriage. English = (be) divorced."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The formal ending of a marriage by law. English = divorce."
   ],

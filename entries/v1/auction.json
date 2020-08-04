@@ -29,8 +29,8 @@
   "signNumber": 6103,
   "recordNumber": 3629,
   "signVisualComposition": "",
-  "activeHandShape": 10.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 10.2,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -41,7 +41,7 @@
     "1. To sell goods at a public sale to the person who offers the highest price. English = auction."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A public sale of goods where the goods are sold to the person who offers the highest price. English = auction.",
     "2. A person in charge of an auction. English = auctioneer."

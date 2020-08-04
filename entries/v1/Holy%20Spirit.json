@@ -18,8 +18,8 @@
   "signNumber": 6,
   "recordNumber": 5,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. In the Christian religion, one of the three aspects of God, together with God the Father and God the Son. English = Holy Spirit."
   ],

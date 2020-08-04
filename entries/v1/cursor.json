@@ -17,8 +17,8 @@
   "signNumber": 5145,
   "recordNumber": 3103,
   "signVisualComposition": "",
-  "activeHandShape": 7.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 7.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -27,7 +27,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A marker on a computer screen which indicates where anything typed by the user will appear. English = cursor."
   ],

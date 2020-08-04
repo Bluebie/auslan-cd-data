@@ -34,8 +34,8 @@
   "signNumber": 121,
   "recordNumber": 64,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [
@@ -54,7 +54,7 @@
     "2. To be extremely angry. English = furious. Formal English = incensed, enraged."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The very strong emotion that you feel when you think that someone has behaved in an unfair, cruel, or insulting way; extreme anger. English = fury, rage."
   ],

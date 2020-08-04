@@ -20,8 +20,8 @@
   "signNumber": 265,
   "recordNumber": 154,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
@@ -35,7 +35,7 @@
     "2. Of time, for an hour to pass."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A period of sixty minutes. English = hour."
   ],

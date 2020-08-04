@@ -43,8 +43,8 @@
   "signNumber": 865,
   "recordNumber": 495,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [
@@ -65,7 +65,7 @@
     "3. To help someone become better at a particular sport of subject. English = coach."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something that someone tells you to do, especially the clear and detailed information. English = instruction.",
     "2. Clear and detailed information on how to do something, especially written information. English = instructions.",

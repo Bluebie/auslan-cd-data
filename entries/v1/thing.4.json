@@ -20,8 +20,8 @@
   "signNumber": 1064,
   "recordNumber": 628,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A sign used as a substitute for another sign when you do not want to be more precise, when you are referring to something that has already been mentioned, or when you are going to give more details. English = thing."
   ],

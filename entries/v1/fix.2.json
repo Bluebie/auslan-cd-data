@@ -27,8 +27,8 @@
   "signNumber": 155,
   "recordNumber": 85,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -41,7 +41,7 @@
     "1. To do something to an object which is broken or is not working properly so that it is no longer broken or so it works properly. English = fix, fix up, repair, mend."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something you do to fix an object that has been damaged or is not working properly. English = repair."
   ],

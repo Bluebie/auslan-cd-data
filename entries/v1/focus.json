@@ -25,8 +25,8 @@
   "signNumber": 118,
   "recordNumber": 61,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
@@ -37,7 +37,7 @@
     "1. To adjust a camera or telescope so that you can clearly see the thing you want to look at. English = focus."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "focus",
   "oldEntry": "Popular explanation: adjusting a camera focus."

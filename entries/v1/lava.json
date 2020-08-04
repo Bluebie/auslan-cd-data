@@ -19,8 +19,8 @@
   "signNumber": 234,
   "recordNumber": 139,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.5,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "Of a liquid, to flow or spurt out of a container or central location and then to flow out over the sides, such as boiling water in a pot or lava from a volcano, or any thing or any action directly or indirectly associated with this.",
+  "generalMeaning": "Of a liquid, to flow or spurt out of a container or central location and then to flow out over the sides, such as boiling water in a pot or lava from a volcano, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [
     "1. A kind of rock which comes out of a volcano in the form of a very hot liquid, and which gradually cools and becomes solid. English = lava."
   ],

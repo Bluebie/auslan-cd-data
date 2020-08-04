@@ -27,8 +27,8 @@
   "signNumber": 229,
   "recordNumber": 136,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.5,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "1. To put one object inside another, or to make it part of another object. English = include, insert, put into, fit into."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of putting one object inside another. English = insertion."
   ],

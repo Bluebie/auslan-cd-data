@@ -21,8 +21,8 @@
   "signNumber": 2705,
   "recordNumber": 1503,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A race between two or more teams, for example teams of runners. Each member of the team runs one section of the race and passes a baton to the next member of the team at the end of their section. English = relay, relay race."
   ],

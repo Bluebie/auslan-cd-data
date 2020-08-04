@@ -19,8 +19,8 @@
   "signNumber": 3211,
   "recordNumber": 1864,
   "signVisualComposition": "BOARDER + SCHOOL",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 0,
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A school where pupils live during term time. English = boarding school"
   ],

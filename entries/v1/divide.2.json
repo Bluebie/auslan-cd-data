@@ -24,8 +24,8 @@
   "signNumber": 749,
   "recordNumber": 432,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "1. In mathematics, to calculate how many times a small number can go into a large number. English = divide."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The mathematical process of dividing one number by another. English = division.",
     "2. The mathematical symbol for the process of dividing one number by another. It looks like a line with a dot above it and a dot below it."

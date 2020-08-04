@@ -30,8 +30,8 @@
   "signNumber": 50,
   "recordNumber": 29,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "1. To put something in your mouth, chew it, and swallow it. English = eat."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Things which you can put into your mouth, chew and then swallow. English = food.",
     "2. An occasion when people eat or the quantity of food that they eat on that occasion. English = meal."

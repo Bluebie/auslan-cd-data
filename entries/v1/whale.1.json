@@ -18,8 +18,8 @@
   "signNumber": 1,
   "recordNumber": 1,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A very large animal that lives in the sea and looks like a huge fish. English = whale."
   ],

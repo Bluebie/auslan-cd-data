@@ -26,8 +26,8 @@
   "signNumber": 135,
   "recordNumber": 73,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -40,7 +40,7 @@
     "1. To carefully study the good and bad features of something in order to decide how significant, valuable, or effective it is. English = evaluate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A decision about how significant, valuable, or effective something is, based on a  careful study of its good and bad features. English = evaluation."
   ],

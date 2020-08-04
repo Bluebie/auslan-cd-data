@@ -34,8 +34,8 @@
   "signNumber": 64,
   "recordNumber": 36,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -55,7 +55,7 @@
     "3. Of food, to spit out something because it tastes horrible."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something which is nonsense, completely untrue, or not worth taking seriously. English = bullshit, rubbish."
   ],

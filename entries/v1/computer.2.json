@@ -18,8 +18,8 @@
   "signNumber": 4688,
   "recordNumber": 2832,
   "signVisualComposition": "",
-  "activeHandShape": 5.5,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.5,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An electronic machine that can quickly make calculations, store, rearrange, and retrieve information, or control another machine. English = computer."
   ],

@@ -32,8 +32,8 @@
   "signNumber": 4150,
   "recordNumber": 2504,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -42,7 +42,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "Something with an opening and closing lid, such as a lap top computer, portable compact TTY, or pencil case, or any thing or any action directly or indirectly associated with this, especially a folder.",
+  "generalMeaning": "Something with an opening and closing lid, such as a lap top computer, portable compact TTY, or pencil case, or any thing or any action directly or indirectly associated with this, especially a folder.",
   "nominalLexeme": [
     "1. A thin piece of cardboard folded into the shape of a container or cover, in which you can keep documents. English = folder."
   ],

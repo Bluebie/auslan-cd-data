@@ -17,8 +17,8 @@
   "signNumber": 341.1,
   "recordNumber": 187,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": null,
+  "activeHandshape": 0.2,
+  "passiveHandshape": null,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -27,7 +27,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. In rugby, one of the eight players in a team who form the scrum, stand in line-outs, and act as a pack in rushing the ball forward and getting it to the three-quarters. English = forward."
   ],

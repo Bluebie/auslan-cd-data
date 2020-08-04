@@ -26,8 +26,8 @@
   "signNumber": 32,
   "recordNumber": 18,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [
@@ -45,7 +45,7 @@
     "1. Of an activity, to be enjoyable or amusing. English = (be) fun."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Activities which are enjoyable and amusing. English = fun."
   ],

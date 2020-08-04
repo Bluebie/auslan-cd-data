@@ -18,8 +18,8 @@
   "signNumber": 33,
   "recordNumber": 20,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A set of red, amber, and green lights at a road junction which control the flow of traffic. The red light means stop, amber means prepare to stop or to move off, and green means go. English = traffic lights."
   ],

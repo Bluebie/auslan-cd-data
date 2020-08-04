@@ -26,8 +26,8 @@
   "signNumber": 24,
   "recordNumber": 14,
   "signVisualComposition": "EDUCATE + ALL",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
@@ -41,7 +41,7 @@
     "1. To have an effect on the way that a person acts or on what happens. English = influence."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The effect that someone has on what a person does or on what happens. English = influence.",
     "2. The power that you have which makes it likely that other people will agree with you or do what you want. English = influence."

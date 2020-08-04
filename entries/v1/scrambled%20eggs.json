@@ -18,8 +18,8 @@
   "signNumber": 3050,
   "recordNumber": 1748,
   "signVisualComposition": "MIX + EGGS",
-  "activeHandShape": 5.2,
-  "passiveHandShape": 5.2,
+  "activeHandshape": 5.2,
+  "passiveHandshape": 5.2,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A food which is made of eggs mixed together and then cooked in a pan. English = scrambled eggs."
   ],

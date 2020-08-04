@@ -21,8 +21,8 @@
   "signNumber": 1153,
   "recordNumber": 678,
   "signVisualComposition": "ANSWER + TAPE-RECORDER",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A device which you connect to your telephone so that it records telephone calls while you are out. English = answering machine."
   ],

@@ -20,8 +20,8 @@
   "signNumber": 176,
   "recordNumber": 99,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
     "1. Of something flammable, to suddenly catch fire. English = ignite. Idiomatic English = burst into flames."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "burst.into.flames",
   "oldEntry": ""

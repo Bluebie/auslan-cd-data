@@ -19,8 +19,8 @@
   "signNumber": 111,
   "recordNumber": 59,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "The action of something (including light, sound, and liquid) moving upwards as it expands, opens or spreads out, such as a flower, plant, or lamp, or any thing or any action directly or indirectly associated with this, especially a fountain.",
+  "generalMeaning": "The action of something (including light, sound, and liquid) moving upwards as it expands, opens or spreads out, such as a flower, plant, or lamp, or any thing or any action directly or indirectly associated with this, especially a fountain.",
   "nominalLexeme": [
     "1. A spray or jet of water that is forced up into the air by a pump or pressure. English = fountain."
   ],

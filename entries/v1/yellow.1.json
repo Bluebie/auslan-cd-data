@@ -24,8 +24,8 @@
   "signNumber": 248,
   "recordNumber": 145,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "2. To become yellow. English = yellow, turn yellow."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "yellow.1",
   "oldEntry": ""

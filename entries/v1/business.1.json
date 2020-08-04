@@ -24,8 +24,8 @@
   "signNumber": 3501,
   "recordNumber": 2048,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 0,
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
@@ -36,7 +36,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Work relating to the production, buying, and selling of goods and services. English = business.",
     "2. An organisation which produces and sells goods or which provides a service. English = business."

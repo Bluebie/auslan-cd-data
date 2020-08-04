@@ -23,8 +23,8 @@
   "signNumber": 134,
   "recordNumber": 72,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 14,
   "secondLocation": 0,
   "antonyms": [],
@@ -35,7 +35,7 @@
     "1. To carry out a scientific test in order to prove or discover something or to try out a new idea or method in order to see what happens. English = experiment."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A scientific test which is done in order to prove or discover something. English = experiment.",
     "2. The trying out of a new idea or method to see what effect it has. English = experiment."

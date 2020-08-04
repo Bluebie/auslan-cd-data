@@ -24,8 +24,8 @@
   "signNumber": 4,
   "recordNumber": 3,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
@@ -37,7 +37,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "The repeated flashing of a source of light or sound energy which is located above the signer's head, such as a light or a star, or any thing or any action which is directly or indirectly associated with this, particularly a flashing-light doorbell.",
+  "generalMeaning": "The repeated flashing of a source of light or sound energy which is located above the signer's head, such as a light or a star, or any thing or any action which is directly or indirectly associated with this, particularly a flashing-light doorbell.",
   "nominalLexeme": [
     "1. An electrical system connected to lights inside a deaf person's home that causes them to flash when the doorbell is pressed. English = flashing-light doorbell."
   ],

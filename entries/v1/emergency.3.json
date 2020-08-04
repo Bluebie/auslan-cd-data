@@ -17,8 +17,8 @@
   "signNumber": 961,
   "recordNumber": 553,
   "signVisualComposition": "E + M + G",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something that happens unexpectedly or without warning and is dangerous and must be dealt with immediately. English = emergency."
   ],

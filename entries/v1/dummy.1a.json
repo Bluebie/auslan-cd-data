@@ -26,8 +26,8 @@
   "signNumber": 283,
   "recordNumber": 167,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -36,7 +36,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "Something small that is held or placed at the mouth, or any thing or any action directly or indirectly associated with this, especially a baby's dummy.",
+  "generalMeaning": "Something small that is held or placed at the mouth, or any thing or any action directly or indirectly associated with this, especially a baby's dummy.",
   "nominalLexeme": [
     "1. A rubber or plastic object that you give to a baby to suck so that it feels comforted and stays quiet. English = dummy, (rubber) teat, pacifier."
   ],

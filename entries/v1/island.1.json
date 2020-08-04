@@ -17,8 +17,8 @@
   "signNumber": 342,
   "recordNumber": 188,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A piece of land that is completely surrounded by water. English = island."
   ],

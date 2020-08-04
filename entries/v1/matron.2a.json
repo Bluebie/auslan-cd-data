@@ -22,8 +22,8 @@
   "signNumber": 1364,
   "recordNumber": 806,
   "signVisualComposition": "SISTER + WEAR",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A woman who works in a school or boarding school, looking after sick or injured children. English = matron."
   ],

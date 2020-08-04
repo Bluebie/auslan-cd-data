@@ -25,8 +25,8 @@
   "signNumber": 3743,
   "recordNumber": 2210,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [
@@ -42,7 +42,7 @@
     "1. To close a cupboard or gate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "gate.close",
   "oldEntry": ""

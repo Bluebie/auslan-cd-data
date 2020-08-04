@@ -18,8 +18,8 @@
   "signNumber": 743,
   "recordNumber": 428,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The mathematical symbol which stands for a number that is larger than any other number and can never be given an exact value. It looks like the number 8 turned on its side. English = infinity."
   ],

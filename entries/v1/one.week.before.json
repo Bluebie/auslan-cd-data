@@ -27,8 +27,8 @@
   "signNumber": 1031,
   "recordNumber": 603,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [
@@ -45,7 +45,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The period of seven days before the time of speaking.",
     "2. A period of seven days before another day already specified in the past or future."

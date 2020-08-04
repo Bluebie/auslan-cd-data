@@ -24,8 +24,8 @@
   "signNumber": 100,
   "recordNumber": 53,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -36,7 +36,7 @@
     "1. To sprinkle flour over something."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A white or brown powder that is made by grinding grain. It is used to make bread, cakes, and pastry. English = flour."
   ],

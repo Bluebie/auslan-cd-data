@@ -23,8 +23,8 @@
   "signNumber": 1743,
   "recordNumber": 1046,
   "signVisualComposition": "READ + WRITE",
-  "activeHandShape": 2.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 2.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The ability to read and write. English = reading and writing, literacy."
   ],

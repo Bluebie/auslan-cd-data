@@ -22,8 +22,8 @@
   "signNumber": 437,
   "recordNumber": 244,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [
@@ -40,7 +40,7 @@
     "1. To get worse. English = worsen, deteriorate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "deteriorate",
   "oldEntry": ""

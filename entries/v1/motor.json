@@ -26,8 +26,8 @@
   "signNumber": 3042,
   "recordNumber": 1744,
   "signVisualComposition": "",
-  "activeHandShape": 5.2,
-  "passiveHandShape": 5.2,
+  "activeHandshape": 5.2,
+  "passiveHandshape": 5.2,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -39,7 +39,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The part of a machine or vehicle that uses electricity or fuel to produce movement, so that the machine or vehicle can work. English = motor, engine."
   ],

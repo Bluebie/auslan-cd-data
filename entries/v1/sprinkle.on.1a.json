@@ -33,8 +33,8 @@
   "signNumber": 223,
   "recordNumber": 131,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -46,7 +46,7 @@
     "2. To scatter a small amount of food over a larger piece of food, usually for decoration or flavour. English = garnish."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "The act of sprinkling something over a large flat object, or any thing or any action directly or indirectly associated with this, for example sprinkling garnish on food, especially topping on a pizza.",
+  "generalMeaning": "The act of sprinkling something over a large flat object, or any thing or any action directly or indirectly associated with this, for example sprinkling garnish on food, especially topping on a pizza.",
   "nominalLexeme": [
     "1. A flat, round piece of dough covered with tomatoes, cheese, and other kinds of food, and then baked in an oven. English = pizza.",
     "2. A small amount of food that has been scattered over a larger piece of food for flavour or decoration. English = garnish,  topping."

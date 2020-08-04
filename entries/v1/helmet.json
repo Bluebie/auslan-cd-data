@@ -26,8 +26,8 @@
   "signNumber": 4567,
   "recordNumber": 2766,
   "signVisualComposition": "",
-  "activeHandShape": 5.5,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 5.5,
+  "passiveHandshape": 5.5,
   "primaryLocation": 1,
   "secondLocation": 27,
   "antonyms": [
@@ -40,7 +40,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A type of hard hat which you wear to protect your head. English = helmet, hard hat."
   ],

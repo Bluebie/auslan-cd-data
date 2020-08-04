@@ -19,8 +19,8 @@
   "signNumber": 3789,
   "recordNumber": 2246,
   "signVisualComposition": "BOX + LID",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A large, strong case or box with a lid, used for storing things or for taking them on a journey. English = trunk."
   ],

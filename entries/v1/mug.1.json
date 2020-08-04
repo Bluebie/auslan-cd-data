@@ -26,8 +26,8 @@
   "signNumber": 5611,
   "recordNumber": 3323,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "2. To drink beer from a stein."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A large, deep cup with straight sides. English = mug.",
     "2. A large mug for drinking beer. English = stein."

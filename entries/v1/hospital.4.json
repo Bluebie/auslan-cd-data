@@ -22,8 +22,8 @@
   "signNumber": 450,
   "recordNumber": 255,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 22,
   "antonyms": [],
@@ -36,7 +36,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A place where sick people are looked after by doctors and nurses. English = hospital."
   ],

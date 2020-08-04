@@ -46,8 +46,8 @@
   "signNumber": 115,
   "recordNumber": 60,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
@@ -63,7 +63,7 @@
     "4. Concerned with or related to education, or to be something you could learn from. English = (be) educational."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The work of a teacher or instructor. English = teaching, instruction.",
     "2. Helping students learn about various subjects in a school, college or university. English = education.",

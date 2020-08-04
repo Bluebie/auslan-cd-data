@@ -29,8 +29,8 @@
   "signNumber": 555,
   "recordNumber": 320,
   "signVisualComposition": "SEE + 'NOT'",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 7,
   "secondLocation": null,
   "antonyms": [
@@ -49,7 +49,7 @@
     "2. To not notice something or not realise its importance. English = overlook."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "not.see.1a",
   "oldEntry": ""

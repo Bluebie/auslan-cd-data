@@ -31,8 +31,8 @@
   "signNumber": 166,
   "recordNumber": 92,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -44,7 +44,7 @@
     "2. To do something in a systematic way, using experiments and tests. English = (be) scientific."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The study of the nature and behaviour of natural things and the knowledge that we obtain about them. English = science.",
     "2. An expert who does work in one of the sciences. English = scientist."

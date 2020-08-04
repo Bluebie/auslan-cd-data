@@ -24,8 +24,8 @@
   "signNumber": 345,
   "recordNumber": 190,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -38,7 +38,7 @@
     "3. Of a period of time, to have nothing interesting happen. English = (be) uneventful."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "not.happen",
   "oldEntry": ""

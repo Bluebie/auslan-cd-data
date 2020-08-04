@@ -21,8 +21,8 @@
   "signNumber": 440,
   "recordNumber": 247,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 2.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 2.1,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [
@@ -35,7 +35,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "neither.1",
   "oldEntry": ""

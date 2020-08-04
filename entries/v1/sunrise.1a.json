@@ -31,8 +31,8 @@
   "signNumber": 214,
   "recordNumber": 124,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -50,7 +50,7 @@
     "2. Of the sky, to begin to grow light after the night. English = dawn."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The time in the morning when the sky begins to grow light and then the sun first appears in the sky. English = sunrise, dawn, daybreak.",
     "2. The colours and light that you see in the eastern part of the sky when the sun first appears. English = sunrise."

@@ -22,8 +22,8 @@
   "signNumber": 305,
   "recordNumber": 174,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -35,7 +35,7 @@
     "2. To play darts."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A small, narrow object with a sharp point which can be thrown or shot. English = dart.",
     "2. A game in which you throw darts at a round board which has numbers on it. English = darts."

@@ -27,8 +27,8 @@
   "signNumber": 2734,
   "recordNumber": 1525,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "1. To use a telebrailler."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A device for sending and receiving messages in braille over the telephone. Incoming braille messages can be felt on a keyboard. English = telebrailler."
   ],

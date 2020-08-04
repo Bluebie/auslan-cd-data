@@ -38,8 +38,8 @@
   "signNumber": 5,
   "recordNumber": 4,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
@@ -55,7 +55,7 @@
     "3. Of the sun, to give out heat and light in all directions, like a pattern of lines drawn from the centre of a circle to various points on its edge. English = radiate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The ball of fire in the sky that the Earth goes round, and that gives us heat and light. English = sun.",
     "2. The light and heat that comes from the sun. English = sunshine, sun."

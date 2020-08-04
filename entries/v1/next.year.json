@@ -24,8 +24,8 @@
   "signNumber": 1060,
   "recordNumber": 625,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -39,7 +39,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A period of a year after the time of talking. English = the next year.",
     "2. A period of one year after some reference time in the past. English = the following year, the year after that."

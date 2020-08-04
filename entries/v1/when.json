@@ -32,8 +32,8 @@
   "signNumber": 2456,
   "recordNumber": 1364,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 0,
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
@@ -49,7 +49,7 @@
   "questionLexeme": [
     "1. Used to ask questions about the time at which things happen. Found at the beginning, end or at both the beginning and end of the question. English = when."
   ],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "when",
   "oldEntry": ""

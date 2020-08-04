@@ -23,8 +23,8 @@
   "signNumber": 109,
   "recordNumber": 57,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -36,7 +36,7 @@
     "2. To not own or possess something. English = not have any, have not got any, have none of."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "have.none.of.1a",
   "oldEntry": "Popular explanation: 'have' + 'nothing'."

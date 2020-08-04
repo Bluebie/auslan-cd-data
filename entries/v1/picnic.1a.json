@@ -24,8 +24,8 @@
   "signNumber": 123,
   "recordNumber": 65,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "1. To have a meal outside, usually in a field, forest or at the beach. English = picnic."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A meal which is eaten outside, usually in a field or forest or at the beach. English = picnic."
   ],

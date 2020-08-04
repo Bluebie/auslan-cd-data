@@ -21,8 +21,8 @@
   "signNumber": 192,
   "recordNumber": 109,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A pipe which carries the gas out of an engine and out of a car. English = exhaust, exhaust pipe."
   ],

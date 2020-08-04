@@ -22,8 +22,8 @@
   "signNumber": 622,
   "recordNumber": 359,
   "signVisualComposition": "RED + SAUCE",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A thick, cold sauce made from tomatoes. English = tomato sauce. American English = ketchup."
   ],

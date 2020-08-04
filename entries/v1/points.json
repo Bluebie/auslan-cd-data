@@ -20,8 +20,8 @@
   "signNumber": 1464,
   "recordNumber": 873,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 1.2,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 1.2,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. In the electronics of engines, either of a pair of contacts tipped with tungsten or platinum that makes or breaks current flow. English = points.",
     "2. In a motor engine, a device, with points, which causes the electric sparks that ignite the fuel. English = spark plugs."

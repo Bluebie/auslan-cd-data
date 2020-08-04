@@ -25,8 +25,8 @@
   "signNumber": 954,
   "recordNumber": 550,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -39,7 +39,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An unexpected or dangerous situation, which must be dealt with immediately. English = emergency",
     "2. A vehicle for taking people to and from hospital. English = ambulance"

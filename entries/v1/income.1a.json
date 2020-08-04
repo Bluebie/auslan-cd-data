@@ -44,8 +44,8 @@
   "signNumber": 2574,
   "recordNumber": 1419,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 0,
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [
@@ -64,7 +64,7 @@
     "4. To be paid a pension."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The money that you earn or that you get from other sources such as investments or pensions. English = income, earnings, interest.",
     "2. The money that is regularly paid to you for working, especially for manual or unskilled work. English = wage, pay.",

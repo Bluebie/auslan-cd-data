@@ -25,8 +25,8 @@
   "signNumber": 4379,
   "recordNumber": 2667,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 16,
   "secondLocation": 25,
   "antonyms": [],
@@ -40,7 +40,7 @@
     "1. To play cricket, to use a cricket bat."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. English = cricket.",
     "2. A bat used in the game of cricket. English = cricket bat."

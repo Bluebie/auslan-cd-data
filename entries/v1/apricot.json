@@ -19,8 +19,8 @@
   "signNumber": 168,
   "recordNumber": 93,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A small, soft, round fruit with yellowish-orange flesh and a stone inside. English = apricot."
   ],

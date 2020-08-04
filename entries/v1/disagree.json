@@ -25,8 +25,8 @@
   "signNumber": 4835,
   "recordNumber": 2921,
   "signVisualComposition": "AGREE + 'NOT'",
-  "activeHandShape": 6.1,
-  "passiveHandShape": 6.1,
+  "activeHandshape": 6.1,
+  "passiveHandshape": 6.1,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [
@@ -41,7 +41,7 @@
     "1. To have a different opinion to other people about what is true or correct. English = disagree."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An opinion about what is true or correct that is different to the opinion of other people. English = disagreement."
   ],

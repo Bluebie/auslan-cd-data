@@ -20,8 +20,8 @@
   "signNumber": 1366,
   "recordNumber": 808,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The effect that something has on your nose. English = smell."
   ],

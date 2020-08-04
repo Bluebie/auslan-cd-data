@@ -21,8 +21,8 @@
   "signNumber": 1112,
   "recordNumber": 655,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 16,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A sea creature with eight tentacles (legs or arms) which it uses to catch food. English = octopus."
   ],

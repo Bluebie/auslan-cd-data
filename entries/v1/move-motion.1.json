@@ -26,8 +26,8 @@
   "signNumber": 186,
   "recordNumber": 105,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "2. To go and live in a different house, taking your possessions with you. English = move."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "move-motion.1",
   "oldEntry": ""

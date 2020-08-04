@@ -24,8 +24,8 @@
   "signNumber": 4625,
   "recordNumber": 2801,
   "signVisualComposition": "",
-  "activeHandShape": null,
-  "passiveHandShape": 5.5,
+  "activeHandshape": null,
+  "passiveHandshape": 5.5,
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [
@@ -38,7 +38,7 @@
     "1. To close a drawer"
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "drawer.close",
   "oldEntry": ""

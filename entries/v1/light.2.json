@@ -29,8 +29,8 @@
   "signNumber": 3,
   "recordNumber": 2,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [
@@ -49,7 +49,7 @@
     "2. To turn on or switch on an electric light."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something that produces light, particularly an electric bulb. English = light."
   ],

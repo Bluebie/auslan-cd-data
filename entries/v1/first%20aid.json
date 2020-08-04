@@ -18,8 +18,8 @@
   "signNumber": 727,
   "recordNumber": 419,
   "signVisualComposition": "FIRST + HOSPITAL",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Simple medical treatment which is given as soon as possible to a person who is injured or who has suddenly become ill. English = first aid."
   ],

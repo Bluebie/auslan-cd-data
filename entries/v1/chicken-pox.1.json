@@ -21,8 +21,8 @@
   "signNumber": 5259,
   "recordNumber": 3156,
   "signVisualComposition": "CHICKEN + MEASLES",
-  "activeHandShape": 7.1,
-  "passiveHandShape": 5.2,
+  "activeHandshape": 7.1,
+  "passiveHandshape": 5.2,
   "primaryLocation": 11,
   "secondLocation": 27,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A disease which gives you a high temperature and red spots that itch. English = chicken-pox."
   ],

@@ -42,8 +42,8 @@
   "signNumber": 177,
   "recordNumber": 100,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -57,7 +57,7 @@
     "4. Of objects, to be far apart and to cover a large area. English = to be spread out."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of causing a liquid to flow over the edge of a container. English = spill, spillage.",
     "2. The spreading of people or objects over a wide area or of ideas and objects amongst a large number of people. English = dispersal, dissemination.",

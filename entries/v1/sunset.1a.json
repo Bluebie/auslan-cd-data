@@ -26,8 +26,8 @@
   "signNumber": 215,
   "recordNumber": 125,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -44,7 +44,7 @@
     "1. Of the sun, to go below the horizon. English = set."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The time in the evening when the sky grows dark and then the sun disappears below the horizon. English = sunset.",
     "2. The colours and light that you see in the western part of the sky when the sun disappears in the evening. English = sunset."

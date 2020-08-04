@@ -39,8 +39,8 @@
   "signNumber": 1607,
   "recordNumber": 957,
   "signVisualComposition": "",
-  "activeHandShape": 2.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 2.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -53,7 +53,7 @@
     "3. To change back to something else that was the case before. English = revert."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A change from one thing to another thing, especially its opposite. English = switch, changeover, conversion, inversion.",
     "2. A change back to something else that was the case before. English = reversion."

@@ -29,8 +29,8 @@
   "signNumber": 3911,
   "recordNumber": 2330,
   "signVisualComposition": "SWIM + ? (CLOTHES?)",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -43,7 +43,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A tight-fitting piece of clothing that a woman wears when she goes swimming. English = swimsuit, bathing suit, one-piece."
   ],

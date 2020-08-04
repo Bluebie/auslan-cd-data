@@ -27,8 +27,8 @@
   "signNumber": 1429,
   "recordNumber": 854,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [
@@ -46,7 +46,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The sign (-) which is put between two numbers in order to show that the second number is being subtracted from the first number. English = minus sign."
   ],

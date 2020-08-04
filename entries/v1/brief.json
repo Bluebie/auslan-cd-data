@@ -36,8 +36,8 @@
   "signNumber": 5578,
   "recordNumber": 3303,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
@@ -55,7 +55,7 @@
     "3. To be very small or minor in significance. English = (be) trivial, (be) insignificant."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The fact that something is small in terms of importance or the time it lasts.",
     "2. The fact that something lasts for only a short time. English = brevity.",

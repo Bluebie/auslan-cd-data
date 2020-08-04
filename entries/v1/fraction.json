@@ -21,8 +21,8 @@
   "signNumber": 2500,
   "recordNumber": 1387,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. In arithmetic, an exact division of a number. It is written with one number under another with a line separating them. Examples include 1/2 and 1/3. English = fraction."
   ],

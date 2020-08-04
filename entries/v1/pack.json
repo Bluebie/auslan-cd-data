@@ -27,8 +27,8 @@
   "signNumber": 182,
   "recordNumber": 102,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -40,7 +40,7 @@
     "2. To work as a packer in a process line in a factory."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A person who removes things from the end of the process line in a factory and places them in packets or boxes. English = packer."
   ],

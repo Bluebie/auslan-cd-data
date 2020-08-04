@@ -19,8 +19,8 @@
   "signNumber": 5020,
   "recordNumber": 3030,
   "signVisualComposition": "",
-  "activeHandShape": 6.2,
-  "passiveHandShape": 6.2,
+  "activeHandshape": 6.2,
+  "passiveHandshape": 6.2,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A symbol written before or after an 's' at the end of a word to indicate that what follows belongs to or relates to the word, as in 'the cat's whiskers'. English = apostrophe.",
     "2. A mark written to indicate that one or more letters have been omitted from a word, as in 'can't and 'he'll'. English = apostrophe."

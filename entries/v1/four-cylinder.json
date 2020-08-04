@@ -22,8 +22,8 @@
   "signNumber": 2421,
   "recordNumber": 1340,
   "signVisualComposition": "",
-  "activeHandShape": 4.1,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 4.1,
+  "passiveHandshape": 5.5,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A car engine that has four pistons; a four-cylinder engine."
   ],

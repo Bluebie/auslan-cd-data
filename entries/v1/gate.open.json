@@ -25,8 +25,8 @@
   "signNumber": 3741,
   "recordNumber": 2208,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [
@@ -42,7 +42,7 @@
     "1. To open a cupboard or a gate."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "gate.open",
   "oldEntry": ""

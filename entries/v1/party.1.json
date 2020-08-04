@@ -28,8 +28,8 @@
   "signNumber": 124,
   "recordNumber": 66,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 9,
   "secondLocation": null,
   "antonyms": [],
@@ -45,7 +45,7 @@
     "2. To go to a party or other social events. English = party."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A social event, often in someone's home, at which people enjoy themselves doing things such as eating, drinking, dancing, talking or playing games. English = party, get together."
   ],

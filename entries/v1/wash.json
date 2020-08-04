@@ -33,8 +33,8 @@
   "signNumber": 5915,
   "recordNumber": 3519,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -51,7 +51,7 @@
     "3. To wash clothes by hand."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of cleaning something using soap and water. English = washing.",
     "2. The clothes that have been or are to be washed. English = the washing, the laundry.",

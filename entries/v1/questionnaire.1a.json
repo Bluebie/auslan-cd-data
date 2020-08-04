@@ -20,8 +20,8 @@
   "signNumber": 1483,
   "recordNumber": 885,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -32,7 +32,7 @@
     "1. To do a questionnaire."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A written list of questions which are answered by a lot of people in order to provide information for a report or a survey. English = questionnaire."
   ],

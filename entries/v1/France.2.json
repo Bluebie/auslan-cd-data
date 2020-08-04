@@ -22,8 +22,8 @@
   "signNumber": 284,
   "recordNumber": 168,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -34,7 +34,7 @@
     "1. To come from or relate to France. English = (be) French."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A country in Western Europe between Germany and Spain, and across the Channel from England. English = France.",
     "2. The language spoken in France as well as in some other countries such as Canada, Belgium and Switzerland. English = French."

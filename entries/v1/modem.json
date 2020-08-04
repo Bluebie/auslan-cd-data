@@ -21,8 +21,8 @@
   "signNumber": 6635,
   "recordNumber": 3949,
   "signVisualComposition": "",
-  "activeHandShape": 15.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 15.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A device which allows one computer to sent information to another computer over a telephone line. English = modem."
   ],

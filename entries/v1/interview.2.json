@@ -22,8 +22,8 @@
   "signNumber": 1481,
   "recordNumber": 883,
   "signVisualComposition": "QUESTION + ANSWER",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -38,7 +38,7 @@
     "1. To ask someone a lot of questions and to get lots of answers back. English = interview."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A meeting at which you ask someone else a lot of questions and they give you lots of answers. English = interview."
   ],

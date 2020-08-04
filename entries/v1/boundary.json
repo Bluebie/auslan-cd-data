@@ -20,8 +20,8 @@
   "signNumber": 4161,
   "recordNumber": 2512,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An imaginary line or a real barrier (such as a fence) that separates one area of land from another. English = boundary.",
     "2. The dividing line between two countries or regions. English = border."

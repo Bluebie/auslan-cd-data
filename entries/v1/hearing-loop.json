@@ -21,8 +21,8 @@
   "signNumber": 408,
   "recordNumber": 225,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A wire which is connected around the edge of a room or auditorium that facilitates the operation of FM-hearing aids. English = hearing loop."
   ],

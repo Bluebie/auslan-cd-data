@@ -24,8 +24,8 @@
   "signNumber": 4624,
   "recordNumber": 2800,
   "signVisualComposition": "",
-  "activeHandShape": null,
-  "passiveHandShape": 5.5,
+  "activeHandshape": null,
+  "passiveHandshape": 5.5,
   "primaryLocation": 16,
   "secondLocation": 26,
   "antonyms": [
@@ -38,7 +38,7 @@
     "1. To open a drawer."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "drawer.open",
   "oldEntry": ""

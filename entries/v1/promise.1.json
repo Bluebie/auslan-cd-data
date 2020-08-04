@@ -47,8 +47,8 @@
   "signNumber": 673,
   "recordNumber": 392,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -70,7 +70,7 @@
     "."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A statement which you make to someone in which you say that you will definitely do something or give them something. English = promise, vow, commitment",
     "2. A formal promise, particularly a formal promise to tell the truth in a court. English = oath.",

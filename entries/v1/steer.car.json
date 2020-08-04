@@ -28,8 +28,8 @@
   "signNumber": 5850,
   "recordNumber": 3481,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -43,7 +43,7 @@
     "2. To drive a vehicle."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The wheel in a car or truck which the driver holds when he or she is steering the vehicle. English = steering wheel.",
     "2. The act of operating and controlling a vehicle so that it goes where you want it to go. English = driving."

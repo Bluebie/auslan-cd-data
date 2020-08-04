@@ -44,8 +44,8 @@
   "signNumber": 1239,
   "recordNumber": 732,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [
@@ -63,7 +63,7 @@
     "2. Of something that you could not see before, to move to a position where it can be seen. English = appear."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something that takes place or happens. English = happening, event, occurrence.",
     "2. Something that might take place in the future. Formal English = contingency.",

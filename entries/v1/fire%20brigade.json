@@ -23,8 +23,8 @@
   "signNumber": 2372,
   "recordNumber": 1307,
   "signVisualComposition": "",
-  "activeHandShape": 4.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 4.1,
+  "passiveHandshape": 0,
   "primaryLocation": 1,
   "secondLocation": null,
   "antonyms": [],
@@ -36,7 +36,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The organisation that puts out fires. English = fire brigade.",
     "2. A person whose job is to put out fires and to rescue people who are trapped, for example in burning buildings or cars. English = firefighter"

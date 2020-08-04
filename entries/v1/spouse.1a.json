@@ -31,8 +31,8 @@
   "signNumber": 441,
   "recordNumber": 248,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 5.1,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
@@ -41,7 +41,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The person to whom someone is married. English = spouse, husband, wife.",
     "2. A small circle of metal that you wear on your finger to show that you are married. English = ring, wedding ring."

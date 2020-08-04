@@ -21,8 +21,8 @@
   "signNumber": 2181,
   "recordNumber": 1258,
   "signVisualComposition": "",
-  "activeHandShape": 2.6,
-  "passiveHandShape": 0,
+  "activeHandshape": 2.6,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An animal with a long tail which looks like a large mouse. English = rat."
   ],

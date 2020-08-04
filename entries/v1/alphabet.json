@@ -19,8 +19,8 @@
   "signNumber": 1155,
   "recordNumber": 680,
   "signVisualComposition": "A + Z",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The set of letters arranged in a fixed order which is used for writing the words of a language. English = alphabet."
   ],

@@ -20,8 +20,8 @@
   "signNumber": 4589,
   "recordNumber": 2779,
   "signVisualComposition": "",
-  "activeHandShape": 5.5,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 5.5,
+  "passiveHandshape": 5.5,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A branch of advanced mathematics which deals with variable quantities. English = calculus."
   ],

@@ -22,8 +22,8 @@
   "signNumber": 4151,
   "recordNumber": 2505,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "The action of opening something with an opening and closing lid, or any thing or action directly or indirectly associated with this, such as opening a lap top computer, portable compact TTY, or pencil case, and especially a folder.",
+  "generalMeaning": "The action of opening something with an opening and closing lid, or any thing or action directly or indirectly associated with this, such as opening a lap top computer, portable compact TTY, or pencil case, and especially a folder.",
   "nominalLexeme": [],
   "idGloss": "folder.open",
   "oldEntry": ""

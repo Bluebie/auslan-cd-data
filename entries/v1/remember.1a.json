@@ -48,8 +48,8 @@
   "signNumber": 22,
   "recordNumber": 13,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [
@@ -66,7 +66,7 @@
     "2. To learn something thoroughly so that you can remember it exactly. English = memorise."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The bringing back into your mind the thought or impression of something that happened in the past. English = remembrance, recollection.",
     "2. Your ability to remember things. English = memory, recall.",

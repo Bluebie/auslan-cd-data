@@ -23,8 +23,8 @@
   "signNumber": 1061,
   "recordNumber": 626,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -35,7 +35,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A period of time which is at least one full day (twenty four hours) after the time of speaking.",
     "2. A period of time which is at least one full day (twenty four hours) after a reference time already established in the past or future."

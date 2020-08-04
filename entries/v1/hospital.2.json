@@ -28,8 +28,8 @@
   "signNumber": 6335,
   "recordNumber": 3779,
   "signVisualComposition": "",
-  "activeHandShape": 10.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 10.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
@@ -41,7 +41,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A place where sick people are looked after by doctors and nurses. English = hospital.",
     "2. A person who is qualified in medicine and treats people who are ill. English = doctor."

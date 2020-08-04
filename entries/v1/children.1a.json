@@ -24,8 +24,8 @@
   "signNumber": 280,
   "recordNumber": 164,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [
@@ -39,7 +39,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Human beings who are not yet adults. English = children. Informal English = kids.",
     "2. Someone's sons and daughters of any age. English = children."

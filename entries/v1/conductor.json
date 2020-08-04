@@ -30,8 +30,8 @@
   "signNumber": 333,
   "recordNumber": 185,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -44,7 +44,7 @@
     "1. To direct the performance of an orchestra or choir. English = conduct."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A large group of musicians who play a variety of different instruments together, usually playing classical music. English = orchestra.",
     "2. A person who stands in front of an orchestra or choir and direct its performance. English = conductor.",

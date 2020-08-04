@@ -26,8 +26,8 @@
   "signNumber": 730,
   "recordNumber": 421,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
   "questionLexeme": [
     "1. Used at the beginning, end, or at both the beginning and the end of sentences when you are asking for information about something. English = what."
   ],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "what.1a",
   "oldEntry": ""

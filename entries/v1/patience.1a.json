@@ -39,8 +39,8 @@
   "signNumber": 3456,
   "recordNumber": 2017,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [
@@ -59,7 +59,7 @@
     "3. To be quiet and peaceful. English = (be) calm."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The ability to stay calm and not get annoyed, for example when you are waiting for something. English = patience.",
     "2. The ability to bear a painful or difficult situation calmly and patiently. English = endurance.",

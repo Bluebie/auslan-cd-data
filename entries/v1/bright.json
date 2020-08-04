@@ -27,8 +27,8 @@
   "signNumber": 27,
   "recordNumber": 15,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [
@@ -44,7 +44,7 @@
     "2. Of a light, object, or place, to become lighter, brighter, or more full of light. English = brighten."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The condition of something being bright. English = brightness."
   ],

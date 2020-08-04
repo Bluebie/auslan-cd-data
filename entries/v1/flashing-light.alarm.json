@@ -22,8 +22,8 @@
   "signNumber": 197,
   "recordNumber": 113,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A lamp attached to a clock or telephone that you can set to flash so that it wakes you up or gets your attention at a particular time, or flashes when the phone rings. It is mostly used by deaf people. English = flashing-light alarm."
   ],

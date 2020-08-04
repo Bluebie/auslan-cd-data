@@ -27,8 +27,8 @@
   "signNumber": 164,
   "recordNumber": 91,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "1. To turn a container sideways so that a liquid flows out of it. English = tip, pour."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "The act of emptying the contents of one small container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
+  "generalMeaning": "The act of emptying the contents of one small container into another, especially a liquid, or any thing or any action directly or indirectly associated with this.",
   "nominalLexeme": [],
   "idGloss": "tip.into",
   "oldEntry": "Popular explanation: pouring from one container into another."

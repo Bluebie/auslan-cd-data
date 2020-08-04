@@ -24,8 +24,8 @@
   "signNumber": 53,
   "recordNumber": 32,
   "signVisualComposition": "EAT + ROOM",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The room in a house where people have their meals, or a room in a hotel where meals are served. English = dining room."
   ],

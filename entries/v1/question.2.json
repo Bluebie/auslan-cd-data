@@ -30,8 +30,8 @@
   "signNumber": 766,
   "recordNumber": 441,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [
@@ -48,7 +48,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A special punctuation mark which is put at the end of a written sentence. English = question mark, interrogation mark.",
     "2. Something you check by asking about it because you are no sure that it is correct. English = query."

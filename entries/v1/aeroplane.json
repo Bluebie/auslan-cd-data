@@ -42,8 +42,8 @@
   "signNumber": 6571,
   "recordNumber": 3917,
   "signVisualComposition": "",
-  "activeHandShape": 15.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 15.1,
+  "passiveHandshape": 0,
   "primaryLocation": 6,
   "secondLocation": null,
   "antonyms": [],
@@ -54,7 +54,7 @@
     "1. To travel or go by plane. English = fly."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A vehicle with wings and one or more engines that enable it to fly through the air. English = airplane, aeroplane, plane, aircraft, jet.",
     "2. A journey made by flying in an aeroplane. English = flight.",

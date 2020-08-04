@@ -20,8 +20,8 @@
   "signNumber": 5249,
   "recordNumber": 3152,
   "signVisualComposition": "",
-  "activeHandShape": 7.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 7.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A plug-in connector by which two electrical appliances may be operated simultaneously from a single power-point. English = double adaptor."
   ],

@@ -30,8 +30,8 @@
   "signNumber": 3646,
   "recordNumber": 2147,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -42,7 +42,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A building in which people live. English = house. Formal English = dwelling, residence.",
     "2. The place where you live and where you feel you belong. English = home, residence."

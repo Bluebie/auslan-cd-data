@@ -30,8 +30,8 @@
   "signNumber": 156,
   "recordNumber": 86,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [
@@ -47,7 +47,7 @@
     "2. To try to cause someone to do something by giving them good reasons for doing it, usually by talking to them. English = persuade."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Discussions that take place between people with different interests, in which they try to reach an agreement. English = negotiation."
   ],

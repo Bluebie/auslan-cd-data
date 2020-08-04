@@ -28,8 +28,8 @@
   "signNumber": 5342,
   "recordNumber": 3198,
   "signVisualComposition": "",
-  "activeHandShape": 7.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 7.2,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A small room with a toilet, especially a public one with several rooms and several toilets. English = toilet, lavatory. Informal English = loo. Euphemistic formal English = convenience, conveniences, W.C."
   ],

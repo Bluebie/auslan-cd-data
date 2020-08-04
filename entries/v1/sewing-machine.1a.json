@@ -30,8 +30,8 @@
   "signNumber": 3916,
   "recordNumber": 2334,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "1. To use a sewing machine."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A machine that you use for sewing. English = sewing machine.",
     "2. A person whose job is to operate a sewing machine and make clothes. English = dressmaker.",

@@ -32,8 +32,8 @@
   "signNumber": 2464,
   "recordNumber": 1370,
   "signVisualComposition": "",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 0,
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
@@ -44,7 +44,7 @@
   "questionLexeme": [
     "1. Used to ask the amount of money that must be paid in order to buy something. English = How much?"
   ],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The amount of money you must pay in order to buy something. English = price, cost.",
     "2. The amount of money you must pay in order to buy something, especially a service rather than a thing. English = charge."

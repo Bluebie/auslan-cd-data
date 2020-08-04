@@ -25,8 +25,8 @@
   "signNumber": 2369,
   "recordNumber": 1305,
   "signVisualComposition": "",
-  "activeHandShape": 3.3,
-  "passiveHandShape": 3.3,
+  "activeHandshape": 3.3,
+  "passiveHandshape": 3.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -40,7 +40,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The woman who gave birth to you. English = mother."
   ],

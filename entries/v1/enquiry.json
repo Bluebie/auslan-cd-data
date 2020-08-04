@@ -26,8 +26,8 @@
   "signNumber": 355,
   "recordNumber": 196,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -38,7 +38,7 @@
     "1. To ask about something in order to find out information about it. English = enquire, inquire."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The process of asking about something in order to find out information about it. English = enquiry, inquiry."
   ],

@@ -21,8 +21,8 @@
   "signNumber": 1510,
   "recordNumber": 900,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A very small furry animal with a long tail. English = mouse."
   ],

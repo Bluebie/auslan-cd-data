@@ -25,8 +25,8 @@
   "signNumber": 1199,
   "recordNumber": 704,
   "signVisualComposition": "NOSE + FAULT",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 5,
   "secondLocation": 25,
   "antonyms": [
@@ -42,7 +42,7 @@
     "1. To be unattractive and unpleasant to look at. English = (be) ugly."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The condition of being ugly. English = ugliness."
   ],

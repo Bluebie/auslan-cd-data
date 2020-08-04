@@ -31,8 +31,8 @@
   "signNumber": 1203,
   "recordNumber": 708,
   "signVisualComposition": "SAY + TRUE",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 10,
   "secondLocation": 25,
   "antonyms": [
@@ -53,7 +53,7 @@
     "2. To tell the truth about something, especially after having said things that were not true or having avoided telling the whole truth. English = admit."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A statement which you make to someone in which you say that you will definitely do something or give them something. You believe this statement to be true. English = promise.",
     "2. The making of a true statement, particularly after having said things that were not true or at least not the whole truth. English = admission."

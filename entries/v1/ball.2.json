@@ -32,8 +32,8 @@
   "signNumber": 3014,
   "recordNumber": 1722,
   "signVisualComposition": "",
-  "activeHandShape": 5.2,
-  "passiveHandShape": 5.2,
+  "activeHandshape": 5.2,
+  "passiveHandshape": 5.2,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -48,7 +48,7 @@
     "2. To be perfectly round in shape like a ball. English = (be) spherical."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something that has a round shape. English = ball.",
     "2. Something that has a perfectly round shape. English = sphere."

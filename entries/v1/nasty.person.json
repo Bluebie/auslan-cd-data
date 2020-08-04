@@ -19,8 +19,8 @@
   "signNumber": 31,
   "recordNumber": 17,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 5,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
     "1. Of a person, to be unkind and unpleasant. English = (be) nasty."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "nasty.person",
   "oldEntry": ""

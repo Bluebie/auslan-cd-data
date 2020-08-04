@@ -26,8 +26,8 @@
   "signNumber": 6346,
   "recordNumber": 3790,
   "signVisualComposition": "",
-  "activeHandShape": 11.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 11.1,
+  "passiveHandshape": 0,
   "primaryLocation": 8,
   "secondLocation": null,
   "antonyms": [
@@ -41,7 +41,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A small control for an electrical device, such as a light, a radio, or a heater. You press it or move it up and down in order to turn the device on or off. English = switch."
   ],

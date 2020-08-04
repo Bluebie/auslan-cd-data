@@ -40,8 +40,8 @@
   "signNumber": 4187,
   "recordNumber": 2533,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -57,7 +57,7 @@
     "2. To expend effort to do something that must be done. English = work."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An activity you do for which you are paid. English = work, job, employment, occupation.",
     "2. Something that you need to do that requires some effort. English = work, task."

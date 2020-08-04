@@ -22,8 +22,8 @@
   "signNumber": 6082,
   "recordNumber": 3618,
   "signVisualComposition": "AFTER + NOON",
-  "activeHandShape": 10.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 10.2,
+  "passiveHandshape": 0,
   "primaryLocation": 11,
   "secondLocation": null,
   "antonyms": [],
@@ -35,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The part of each day that begins at lunchtime and ends at about six o'clock. English = afternoon."
   ],

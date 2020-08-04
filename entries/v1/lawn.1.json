@@ -20,8 +20,8 @@
   "signNumber": 4033,
   "recordNumber": 2412,
   "signVisualComposition": "GRASS + GROUND",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 20,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An area of grass that is kept cut short, found as part of a garden or park. English = lawn."
   ],

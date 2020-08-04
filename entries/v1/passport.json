@@ -19,8 +19,8 @@
   "signNumber": 5993,
   "recordNumber": 3566,
   "signVisualComposition": "BOOK + STAMP",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An official document containing your name, photograph, and personal details, which you need to show when you enter or leave a country. English = passport."
   ],

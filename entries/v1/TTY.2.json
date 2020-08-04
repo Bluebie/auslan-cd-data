@@ -28,8 +28,8 @@
   "signNumber": 1841,
   "recordNumber": 1102,
   "signVisualComposition": "",
-  "activeHandShape": 2.3,
-  "passiveHandShape": 2.3,
+  "activeHandshape": 2.3,
+  "passiveHandshape": 2.3,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -43,7 +43,7 @@
     "2. To dial a number."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A telecommunication device that allows a person who is unable to use a phone because of hearing loss to type a message using a telephone to another person who has the same device. English = telephone typewriter, TTY."
   ],

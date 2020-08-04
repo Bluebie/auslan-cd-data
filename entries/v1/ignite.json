@@ -21,8 +21,8 @@
   "signNumber": 6422,
   "recordNumber": 3830,
   "signVisualComposition": "MATCH + PLACE",
-  "activeHandShape": 11.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 11.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -33,7 +33,7 @@
     "1. To start a fire intentionally, to set something on fire. English = ignite."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "ignite",
   "oldEntry": ""

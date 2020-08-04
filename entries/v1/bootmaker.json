@@ -17,8 +17,8 @@
   "signNumber": 1332,
   "recordNumber": 789,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 11,
   "secondLocation": 25,
   "antonyms": [],
@@ -27,7 +27,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Someone who makes or repairs shoes. English = bootmaker."
   ],

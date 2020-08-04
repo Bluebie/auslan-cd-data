@@ -40,8 +40,8 @@
   "signNumber": 3773,
   "recordNumber": 2232,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -53,7 +53,7 @@
     "2. To travel on a ship and visit a number of places as part of a holiday. English = cruise, go on a cruise."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A small vehicle which is used for travelling across water. English = boat.",
     "2. A large boat that carries passengers or cargo. English = ship.",

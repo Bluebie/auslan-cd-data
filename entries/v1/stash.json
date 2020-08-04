@@ -30,8 +30,8 @@
   "signNumber": 213,
   "recordNumber": 123,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 20,
   "antonyms": [
@@ -47,7 +47,7 @@
     "1. To put something in a secret place, usually in order to keep it safe. English = hide, hide away, conceal. Informal English = stash. Idiomatic English = put out of sight, shut away. Formal English = secrete."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something put into a secret place. Informal English = stash. Formal English = cache."
   ],

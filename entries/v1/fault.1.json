@@ -36,8 +36,8 @@
   "signNumber": 5050,
   "recordNumber": 3045,
   "signVisualComposition": "",
-  "activeHandShape": 6.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 6.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -52,7 +52,7 @@
     "3. To try to do something but not succeed in doing it. English = fail."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A weakness, imperfection or unsatisfactory feature of something. English = fault, failing, shortcoming.",
     "2. The inability of someone to do something. English = failure.",

@@ -18,8 +18,8 @@
   "signNumber": 1473,
   "recordNumber": 880,
   "signVisualComposition": "",
-  "activeHandShape": 1.2,
-  "passiveHandShape": 1.2,
+  "activeHandshape": 1.2,
+  "passiveHandshape": 1.2,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. In mathematics, a quantity whose value depends upon the values of other quantities, called the arguments or independent variables. English = function."
   ],

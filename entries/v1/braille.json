@@ -18,8 +18,8 @@
   "signNumber": 1753,
   "recordNumber": 1050,
   "signVisualComposition": "BLIND + READ.BRAILLE",
-  "activeHandShape": 2.2,
-  "passiveHandShape": 0,
+  "activeHandshape": 2.2,
+  "passiveHandshape": 0,
   "primaryLocation": 4,
   "secondLocation": null,
   "antonyms": [],
@@ -30,7 +30,7 @@
     "1. To read braille."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A system of printing for blind people. The letters are printed as groups of raised dots that you can feel with your fingers. English = braille."
   ],

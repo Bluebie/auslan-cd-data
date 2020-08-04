@@ -23,8 +23,8 @@
   "signNumber": 5777,
   "recordNumber": 3424,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An official group of people with a common occupation, aim, or interest. English = association."
   ],

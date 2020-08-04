@@ -23,8 +23,8 @@
   "signNumber": 5789,
   "recordNumber": 3433,
   "signVisualComposition": "",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [
@@ -35,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A boy or a man who has the same parents as you. English = brother.",
     "2. A title given to a man who belongs to a religious institution such as a monastery. English = brother."

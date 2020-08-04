@@ -24,8 +24,8 @@
   "signNumber": 454,
   "recordNumber": 257,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 24,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The natural covering of your body. English = skin, flesh.",
     "2. The substance your body is made of, which comes between your bones and your skin. English = flesh."

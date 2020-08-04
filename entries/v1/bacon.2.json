@@ -22,8 +22,8 @@
   "signNumber": 5380,
   "recordNumber": 3214,
   "signVisualComposition": "",
-  "activeHandShape": 7.2,
-  "passiveHandShape": 7.2,
+  "activeHandshape": 7.2,
+  "passiveHandshape": 7.2,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -34,7 +34,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Salted or smoked meat which comes from the back or sides of a pig. English = bacon.",
     "2. A thin slice of bacon. English = rasher."

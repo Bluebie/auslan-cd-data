@@ -18,8 +18,8 @@
   "signNumber": 2417,
   "recordNumber": 1337,
   "signVisualComposition": "",
-  "activeHandShape": 4.1,
-  "passiveHandShape": 4.1,
+  "activeHandshape": 4.1,
+  "passiveHandshape": 4.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -28,7 +28,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "Any object with horizontal stripes or thin things, such as wires or bars, at the front of it, or any object or action directly or indirectly associated with this, especially the grille of a car.",
+  "generalMeaning": "Any object with horizontal stripes or thin things, such as wires or bars, at the front of it, or any object or action directly or indirectly associated with this, especially the grille of a car.",
   "nominalLexeme": [
     "1. The framework of metal bars or wire placed in front of engine or body of a car. English = grille."
   ],

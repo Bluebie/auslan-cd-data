@@ -33,8 +33,8 @@
   "signNumber": 216,
   "recordNumber": 126,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -48,7 +48,7 @@
     "4. To take someone to a place and show it to them. English = guide."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A person who takes a person or group of people somewhere. English = leader, guide.",
     "2. A person who controls and guides an activity or organisation. English = leader.",

@@ -25,8 +25,8 @@
   "signNumber": 108,
   "recordNumber": 56,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [
@@ -41,7 +41,7 @@
     "1. A quantity of something or a number of people or things, without stating the number of people or things precisely. English = (be) some, (be) a bit."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Anything that is not a person, for example an object, action, or quality. English = something."
   ],

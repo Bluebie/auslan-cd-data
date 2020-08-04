@@ -29,8 +29,8 @@
   "signNumber": 438,
   "recordNumber": 245,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -43,7 +43,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A prize, such as a silver cup or shield, which is given to the winner of a competition or race. English = trophy, cup, award."
   ],

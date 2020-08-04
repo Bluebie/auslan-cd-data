@@ -27,8 +27,8 @@
   "signNumber": 140,
   "recordNumber": 75,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [
@@ -44,7 +44,7 @@
     "1. To give to someone something which they want or need, or to make it available to them in some way. English = provide."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of giving something, or making it available, to someone who needs it. English = provision.",
     "2. Supplies of food. English = provisions."

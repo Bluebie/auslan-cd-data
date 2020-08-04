@@ -25,8 +25,8 @@
   "signNumber": 1065,
   "recordNumber": 629,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [
@@ -42,7 +42,7 @@
   ],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A period of a year before the time of talking. English = the past year.",
     "2. A period of one year before some reference time in the past. English = the previous year, the year before that."

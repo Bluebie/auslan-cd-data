@@ -25,8 +25,8 @@
   "signNumber": 4369,
   "recordNumber": 2660,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 24,
   "antonyms": [],
@@ -35,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "An object which is flat on top and has a opening flap (also flat), or any thing or any object that is directly or indirectly associated with this, especially a trapdoor or hatch.",
+  "generalMeaning": "An object which is flat on top and has a opening flap (also flat), or any thing or any object that is directly or indirectly associated with this, especially a trapdoor or hatch.",
   "nominalLexeme": [
     "1. A small horizontal door in a floor, ceiling, or stage. English = trapdoor.",
     "2. An opening in a deck of a ship, which is used for people to come on deck or go below, or during loading and unloading cargo. English = hatch."

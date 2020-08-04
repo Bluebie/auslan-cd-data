@@ -21,8 +21,8 @@
   "signNumber": 5925,
   "recordNumber": 3528,
   "signVisualComposition": "THROW.OUT + HOSPITAL",
-  "activeHandShape": 10.1,
-  "passiveHandShape": 10.1,
+  "activeHandshape": 10.1,
+  "passiveHandshape": 10.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -36,7 +36,7 @@
     "1. To put someone in hospital because they are sick, especially in an emergency. English = hospitalise."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "hospitalise",
   "oldEntry": ""

@@ -23,8 +23,8 @@
   "signNumber": 4245,
   "recordNumber": 2572,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -39,7 +39,7 @@
     "2. Of a bullet, to hit a surface and bounce away from it. English = ricochet."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "The path or trajectory of an object as it bounces off a flat surface or the ground, such as a ball bouncing or a bullet ricocheting, or any action or any thing directly or indirectly related to this.",
+  "generalMeaning": "The path or trajectory of an object as it bounces off a flat surface or the ground, such as a ball bouncing or a bullet ricocheting, or any action or any thing directly or indirectly related to this.",
   "nominalLexeme": [],
   "idGloss": "bounce.2",
   "oldEntry": ""

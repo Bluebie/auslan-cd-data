@@ -28,8 +28,8 @@
   "signNumber": 149,
   "recordNumber": 81,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -40,7 +40,7 @@
     "1. To look through or examine through a microscope."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An instrument which magnifies very small objects so that you can see and study them. English = microscope.",
     "2. The study of very small organisms using a microscope. English = microbiology."

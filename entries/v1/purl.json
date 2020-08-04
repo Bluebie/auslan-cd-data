@@ -25,8 +25,8 @@
   "signNumber": 1009,
   "recordNumber": 588,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -35,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A type of stitch found in knitting. It is the inversion of a normal, plain or garter stitch. English = purl."
   ],

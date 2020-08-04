@@ -29,8 +29,8 @@
   "signNumber": 19,
   "recordNumber": 12,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0,
   "primaryLocation": 3,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "2. To make someone more aware and informed. English = enlighten."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of enlightening or the state of being enlightened. English = enlightenment."
   ],

@@ -19,8 +19,8 @@
   "signNumber": 4399,
   "recordNumber": 2679,
   "signVisualComposition": "",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 6.1,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 6.1,
   "primaryLocation": 15,
   "secondLocation": 27,
   "antonyms": [],
@@ -29,7 +29,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The force that you produce when you press hard on something. English = pressure.",
     "2. The force that a quantity of gas or liquid has on a surface that it touches. English = pressure."

@@ -31,8 +31,8 @@
   "signNumber": 1024,
   "recordNumber": 599,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 15,
   "secondLocation": 26,
   "antonyms": [],
@@ -47,7 +47,7 @@
     "1. To say things to someone (in speech or sign). English = talk."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The act of saying things to someone (in speech or sign). English = talk.",
     "2. The things that someone says to someone (in speech or sign). English = comments, remarks."

@@ -30,8 +30,8 @@
   "signNumber": 126,
   "recordNumber": 68,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 0.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 0.1,
   "primaryLocation": 10,
   "secondLocation": null,
   "antonyms": [],
@@ -42,7 +42,7 @@
     "1. To spread food out on a table."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A large and special meal. English = feast.",
     "2. Various hot and cold foods arranged on a table. English = smorgasbord, buffet."

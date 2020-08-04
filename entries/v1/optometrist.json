@@ -20,8 +20,8 @@
   "signNumber": 1192,
   "recordNumber": 698,
   "signVisualComposition": "EYE + DOCTOR",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 5.3,
   "primaryLocation": 4,
   "secondLocation": 24,
   "antonyms": [],
@@ -30,7 +30,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Someone whose job involves testing people's eyesight or providing glasses and contact lenses. English = optician, optometrist."
   ],

@@ -24,8 +24,8 @@
   "signNumber": 195,
   "recordNumber": 111,
   "signVisualComposition": "",
-  "activeHandShape": 0.1,
-  "passiveHandShape": 1.1,
+  "activeHandshape": 0.1,
+  "passiveHandshape": 1.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -38,7 +38,7 @@
     "3. To move to a different place or job within an organisation. English = transfer."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [],
   "idGloss": "transfer",
   "oldEntry": "Popular explanation: take from one place and put in another."

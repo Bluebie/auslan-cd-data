@@ -20,8 +20,8 @@
   "signNumber": 1132,
   "recordNumber": 663,
   "signVisualComposition": "",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 3.1,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 3.1,
   "primaryLocation": 14,
   "secondLocation": 27,
   "antonyms": [],
@@ -32,7 +32,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A set of three upright sticks with two small sticks on top of them, which the ball is bowled at in cricket. There is one at each end of a cricket pitch. English = wicket."
   ],

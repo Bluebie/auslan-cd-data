@@ -25,8 +25,8 @@
   "signNumber": 3680,
   "recordNumber": 2167,
   "signVisualComposition": "PRAY + TABLE",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 14,
   "secondLocation": 25,
   "antonyms": [],
@@ -35,7 +35,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A holy table in a church or temple. English = altar."
   ],

@@ -21,8 +21,8 @@
   "signNumber": 2385,
   "recordNumber": 1315,
   "signVisualComposition": "",
-  "activeHandShape": 4.1,
-  "passiveHandShape": 0,
+  "activeHandshape": 4.1,
+  "passiveHandshape": 0,
   "primaryLocation": 14,
   "secondLocation": null,
   "antonyms": [],
@@ -31,7 +31,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. An automobile engine in which the cylinders are lined up across the width of the car rather than parallel to its length. English = traverse engine."
   ],

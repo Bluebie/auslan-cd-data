@@ -24,8 +24,8 @@
   "signNumber": 4011,
   "recordNumber": 2401,
   "signVisualComposition": "MIND + DOCTOR",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 3,
   "secondLocation": 22,
   "antonyms": [],
@@ -37,7 +37,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The branch of medicine concerned with mental illness. English = psychiatry.",
     "2. A doctor who treats people suffering from mental illness. English = psychiatrist."

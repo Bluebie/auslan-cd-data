@@ -28,8 +28,8 @@
   "signNumber": 2141,
   "recordNumber": 1239,
   "signVisualComposition": "N + N",
-  "activeHandShape": 2.4,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 2.4,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -44,7 +44,7 @@
     "3. To be usual and ordinary, and what people expect. English = (be) normal."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. The situation in which everything is normal and as people expect. English = normality, normalcy."
   ],

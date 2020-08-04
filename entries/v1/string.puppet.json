@@ -23,8 +23,8 @@
   "signNumber": 411,
   "recordNumber": 228,
   "signVisualComposition": "",
-  "activeHandShape": 0.2,
-  "passiveHandShape": 0.2,
+  "activeHandshape": 0.2,
+  "passiveHandshape": 0.2,
   "primaryLocation": 15,
   "secondLocation": null,
   "antonyms": [],
@@ -37,7 +37,7 @@
     "1. To make a string puppet move by pulling the strings which are attached to it."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A doll that you can move by pulling strings which are attached to it. English  = string puppet."
   ],

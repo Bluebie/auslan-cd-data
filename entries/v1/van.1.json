@@ -25,8 +25,8 @@
   "signNumber": 4599,
   "recordNumber": 2784,
   "signVisualComposition": "",
-  "activeHandShape": 5.5,
-  "passiveHandShape": 5.5,
+  "activeHandshape": 5.5,
+  "passiveHandshape": 5.5,
   "primaryLocation": 14,
   "secondLocation": 26,
   "antonyms": [],
@@ -38,7 +38,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A vehicle like a large car that is used for carrying goods. English = van.",
     "2. A comfortable bus that carries passengers on long journeys. English = coach."

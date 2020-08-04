@@ -21,8 +21,8 @@
   "signNumber": 1323,
   "recordNumber": 782,
   "signVisualComposition": "RED + STICK",
-  "activeHandShape": 1.1,
-  "passiveHandShape": 7.2,
+  "activeHandshape": 1.1,
+  "passiveHandshape": 7.2,
   "primaryLocation": 10,
   "secondLocation": 10,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A plant with long red stems which people eat after cooking them with sugar. English = rhubarb."
   ],

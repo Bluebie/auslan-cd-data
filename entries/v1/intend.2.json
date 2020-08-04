@@ -40,8 +40,8 @@
   "signNumber": 5435,
   "recordNumber": 3234,
   "signVisualComposition": "",
-  "activeHandShape": 7.3,
-  "passiveHandShape": 0,
+  "activeHandshape": 7.3,
+  "passiveHandshape": 0,
   "primaryLocation": 2,
   "secondLocation": null,
   "antonyms": [],
@@ -58,7 +58,7 @@
     "4. To be someone who wants to achieve their aims, usually to be successful, rich, or powerful. English = (be) ambitious."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. Something you plan or hope to achieve. English = aim, goal, objective, ambition.",
     "2. Something which you decide and plan to do. English = intention.",

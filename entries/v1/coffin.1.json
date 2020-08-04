@@ -26,8 +26,8 @@
   "signNumber": 3952,
   "recordNumber": 2356,
   "signVisualComposition": "BURY + BOX",
-  "activeHandShape": 5.3,
-  "passiveHandShape": 5.3,
+  "activeHandshape": 5.3,
+  "passiveHandshape": 5.3,
   "primaryLocation": 15,
   "secondLocation": 25,
   "antonyms": [],
@@ -38,7 +38,7 @@
     "1. To put a dead body into a coffin and bury them. Formal English = inter."
   ],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A box in which a dead body is buried or cremated. English = coffin."
   ],

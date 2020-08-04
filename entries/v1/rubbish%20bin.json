@@ -23,8 +23,8 @@
   "signNumber": 2806,
   "recordNumber": 1573,
   "signVisualComposition": "RUBBISH + container",
-  "activeHandShape": 5.1,
-  "passiveHandShape": 5.1,
+  "activeHandshape": 5.1,
+  "passiveHandshape": 5.1,
   "primaryLocation": 16,
   "secondLocation": 24,
   "antonyms": [],
@@ -33,7 +33,7 @@
   "particleLexeme": [],
   "verbLexeme": [],
   "questionLexeme": [],
-  "genitiveClassifiers": "",
+  "generalMeaning": "",
   "nominalLexeme": [
     "1. A container in which you put rubbish. English = rubbish bin, garbage bin. American English = trash can.",
     "2. A small container in an office for putting waste paper in. English = waste paper basket."
