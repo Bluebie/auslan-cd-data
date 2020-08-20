@@ -70,6 +70,8 @@ async function run() {
   //let englishDB = await readWithSchema('ENGLISH') // not needed
   let auslanDB = await readWithSchema('AUSLANCD')
 
+  let singleFile = {}
+
   for (let entry of auslanDB) {
     // extract all the literally true values, these are stored as tags
     let tags = Object.entries(entry).filter(([key, value])=> value === true).map(([key, value])=> key.replace(/tf$/, ''))
@@ -122,7 +124,12 @@ async function run() {
     await fs.writeJSON(`./entries/${version}/${encodeURIComponent(entry.idGloss)}.json`, json, {
       spaces: 2,
     })
+
+    singleFile[json.idGloss] = json
   }
+
+  // write out single file version
+  await fs.writeJSON(`./entries/${version}.json`, singleFile)
 }
 
 run()
